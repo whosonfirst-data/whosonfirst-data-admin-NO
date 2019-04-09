@@ -1,0 +1,74 @@
+{
+  "id": 1243384907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.11667,60.25,6.11667,60.25",
+    "geom:latitude":60.25,
+    "geom:longitude":6.11667,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1238.0",
+    "gn:asciiname":"Royrvik",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141062,
+    "gn:latitude":60.25,
+    "gn:longitude":6.11667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"R\u00f8yrvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00f6irvik",
+        "R\u00f8yrvik i Hardanger",
+        "R\u00f8yrvik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297429,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141062
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2aea36e7211e3c7d6e4f56dc6dcb2d4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297429,
+            "locality_id":1243384907,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1243384907,
+    "wof:lastmodified":1537675734,
+    "wof:name":"Royrvik",
+    "wof:parent_id":1159297429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.11667,
+    60.25,
+    6.11667,
+    60.25
+],
+  "geometry": {"coordinates":[6.11667,60.25],"type":"Point"}
+}

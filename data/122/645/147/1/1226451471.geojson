@@ -1,0 +1,68 @@
+{
+  "id": 1226451471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.13333,58.75,8.13333,58.75",
+    "geom:latitude":58.75,
+    "geom:longitude":8.13333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"929.0",
+    "gn:asciiname":"Skjeggedal",
+    "gn:country_code":"NO",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3138950,
+    "gn:latitude":58.75,
+    "gn:longitude":8.13333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Skjeggedal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297279,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3138950
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ada6983f062cf84ea1837cbc7a01c865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297279,
+            "locality_id":1226451471,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1226451471,
+    "wof:lastmodified":1536635901,
+    "wof:name":"Skjeggedal",
+    "wof:parent_id":1159297279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.13333,
+    58.75,
+    8.13333,
+    58.75
+],
+  "geometry": {"coordinates":[8.13333,58.75],"type":"Point"}
+}

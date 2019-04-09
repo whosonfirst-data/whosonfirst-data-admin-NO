@@ -1,0 +1,66 @@
+{
+  "id": 1226656329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.23382,68.3197,14.23382,68.3197",
+    "geom:latitude":68.3197,
+    "geom:longitude":14.23382,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1865.0",
+    "gn:asciiname":"Gimsoysand",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8659194,
+    "gn:latitude":68.3197,
+    "gn:longitude":14.23382,
+    "gn:modification_date":"2017-09-23",
+    "gn:name":"Gims\u00f8ysand",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296883,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8659194
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1d6d09518ef2efc8e8b67d8754b56788",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296883,
+            "locality_id":1226656329,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1226656329,
+    "wof:lastmodified":1536843040,
+    "wof:name":"Gimsoysand",
+    "wof:parent_id":1159296883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.23382,
+    68.3197,
+    14.23382,
+    68.3197
+],
+  "geometry": {"coordinates":[14.23382,68.3197],"type":"Point"}
+}

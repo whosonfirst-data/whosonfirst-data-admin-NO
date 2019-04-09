@@ -1,0 +1,68 @@
+{
+  "id": 1276414711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.18333,59.45,10.18333,59.45",
+    "geom:latitude":59.45,
+    "geom:longitude":10.18333,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"716.0",
+    "gn:asciiname":"Raevo",
+    "gn:country_code":"NO",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3142557,
+    "gn:latitude":59.45,
+    "gn:longitude":10.18333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"R\u00e6vo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296901,
+        85633341,
+        85687073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3142557
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c0a86542da41429890e21e09c777a698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296901,
+            "locality_id":1276414711,
+            "region_id":85687073
+        }
+    ],
+    "wof:id":1276414711,
+    "wof:lastmodified":1536669657,
+    "wof:name":"Raevo",
+    "wof:parent_id":1159296901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.18333,
+    59.45,
+    10.18333,
+    59.45
+],
+  "geometry": {"coordinates":[10.18333,59.45],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1277083891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.82189,59.80435,10.82189,59.80435",
+    "geom:latitude":59.80435,
+    "geom:longitude":10.82189,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"217.0",
+    "gn:asciiname":"Nordre Odegarden",
+    "gn:country_code":"NO",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536319,
+    "gn:latitude":59.80435,
+    "gn:longitude":10.82189,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Nordre \u00d8deg\u00e5rden",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Nordre \u00d8deg\u00e5rden"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296943,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536319
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4691e7c904f99b3a8109a1a9d5fd4a18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296943,
+            "locality_id":1277083891,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1277083891,
+    "wof:lastmodified":1537675964,
+    "wof:name":"Nordre Odegarden",
+    "wof:parent_id":1159296943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.82189,
+    59.80435,
+    10.82189,
+    59.80435
+],
+  "geometry": {"coordinates":[10.82189,59.80435],"type":"Point"}
+}

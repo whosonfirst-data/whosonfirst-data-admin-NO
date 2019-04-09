@@ -1,0 +1,74 @@
+{
+  "id": 1310697431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.85,62.01667,5.85,62.01667",
+    "geom:latitude":62.01667,
+    "geom:longitude":5.85,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1519.0",
+    "gn:asciiname":"Amelfot",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3163228,
+    "gn:latitude":62.01667,
+    "gn:longitude":5.85,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u00c5melfot",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Omeifot",
+        "Aamelfot",
+        "\u00c5melfot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297487,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3163228
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1edbcb24e7a56ce631f419687791475c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297487,
+            "locality_id":1310697431,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1310697431,
+    "wof:lastmodified":1537675892,
+    "wof:name":"Amelfot",
+    "wof:parent_id":1159297487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.85,
+    62.01667,
+    5.85,
+    62.01667
+],
+  "geometry": {"coordinates":[5.85,62.01667],"type":"Point"}
+}

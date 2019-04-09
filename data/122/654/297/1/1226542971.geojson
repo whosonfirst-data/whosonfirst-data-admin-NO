@@ -1,0 +1,74 @@
+{
+  "id": 1226542971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.77717,58.50884,8.77717,58.50884",
+    "geom:latitude":58.50884,
+    "geom:longitude":8.77717,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"906.0",
+    "gn:asciiname":"Longum",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3146972,
+    "gn:latitude":58.50884,
+    "gn:longitude":8.77717,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Longum",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Longom",
+        "Longum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297607,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3146972,
+        "wk:page":"Longum%2C_Aust-Agder"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a2bb95f41ac402392ed461b858c20511",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297607,
+            "locality_id":1226542971,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1226542971,
+    "wof:lastmodified":1537675774,
+    "wof:name":"Longum",
+    "wof:parent_id":1159297607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.77717,
+    58.50884,
+    8.77717,
+    58.50884
+],
+  "geometry": {"coordinates":[8.77717,58.50884],"type":"Point"}
+}

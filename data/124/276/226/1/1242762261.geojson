@@ -1,0 +1,71 @@
+{
+  "id": 1242762261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.22472,67.94361,15.22472,67.94361",
+    "geom:latitude":67.94361,
+    "geom:longitude":15.22472,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1848.0",
+    "gn:asciiname":"Hakvag",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3154240,
+    "gn:latitude":67.94361,
+    "gn:longitude":15.22472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hakv\u00e5g",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hakvaag",
+        "Hakv\u00e5g"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297343,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3154240
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"cd64b30c585d4bbd11ca505d46633776",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297343,
+            "locality_id":1242762261,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1242762261,
+    "wof:lastmodified":1537675825,
+    "wof:name":"Hakvag",
+    "wof:parent_id":1159297343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.22472,
+    67.94360999999999,
+    15.22472,
+    67.94360999999999
+],
+  "geometry": {"coordinates":[15.22472,67.94360999999999],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276952671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.18333,59.48333,10.18333,59.48333",
+    "geom:latitude":59.48333,
+    "geom:longitude":10.18333,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"715.0",
+    "gn:asciiname":"Barkost",
+    "gn:country_code":"NO",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3162026,
+    "gn:latitude":59.48333,
+    "gn:longitude":10.18333,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Barkost",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297597,
+        85633341,
+        85687073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3162026
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"36bc78303c53e331db74c97d653698c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297597,
+            "locality_id":1276952671,
+            "region_id":85687073
+        }
+    ],
+    "wof:id":1276952671,
+    "wof:lastmodified":1536944313,
+    "wof:name":"Barkost",
+    "wof:parent_id":1159297597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.18333,
+    59.48333,
+    10.18333,
+    59.48333
+],
+  "geometry": {"coordinates":[10.18333,59.48333],"type":"Point"}
+}

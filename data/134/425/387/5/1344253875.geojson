@@ -1,0 +1,68 @@
+{
+  "id": 1344253875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.99329,60.38894,4.99329,60.38894",
+    "geom:latitude":60.38894,
+    "geom:longitude":4.99329,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1246.0",
+    "gn:asciiname":"Kartveit",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3150412,
+    "gn:latitude":60.38894,
+    "gn:longitude":4.99329,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"K\u00e5rtveit",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296987,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3150412
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6d989cab5f0d25c1988b2f0d2d78826f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296987,
+            "locality_id":1344253875,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1344253875,
+    "wof:lastmodified":1537090550,
+    "wof:name":"Kartveit",
+    "wof:parent_id":1159296987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.99329,
+    60.38894000000001,
+    4.99329,
+    60.38894000000001
+],
+  "geometry": {"coordinates":[4.99329,60.38894000000001],"type":"Point"}
+}

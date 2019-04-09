@@ -1,0 +1,66 @@
+{
+  "id": 1259377795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.13333,68.9,15.13333,68.9",
+    "geom:latitude":68.9,
+    "geom:longitude":15.13333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1868.0",
+    "gn:asciiname":"Overgard",
+    "gn:country_code":"NO",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3143061,
+    "gn:latitude":68.9,
+    "gn:longitude":15.13333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"\u00d8verg\u00e5rd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296769,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3143061
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8f708597fcbcb498d2492fba1e8e3a82",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296769,
+            "locality_id":1259377795,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1259377795,
+    "wof:lastmodified":1537009776,
+    "wof:name":"Overgard",
+    "wof:parent_id":1159296769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.13333,
+    68.9,
+    15.13333,
+    68.9
+],
+  "geometry": {"coordinates":[15.13333,68.90000000000001],"type":"Point"}
+}

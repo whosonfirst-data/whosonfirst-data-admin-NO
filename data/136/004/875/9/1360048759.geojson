@@ -1,0 +1,74 @@
+{
+  "id": 1360048759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.60667,68.65,16.60667,68.65",
+    "geom:latitude":68.65,
+    "geom:longitude":16.60667,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1903.0",
+    "gn:asciiname":"Vollstad",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3131377,
+    "gn:latitude":68.65,
+    "gn:longitude":16.60667,
+    "gn:modification_date":"2013-05-27",
+    "gn:name":"Vollstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Volstad",
+        "Voldstad",
+        "Vollstad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297451,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3131377
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4f73dfa5661b68d1da28fe6f76ad28d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297451,
+            "locality_id":1360048759,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1360048759,
+    "wof:lastmodified":1537675673,
+    "wof:name":"Vollstad",
+    "wof:parent_id":1159297451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.60667,
+    68.65,
+    16.60667,
+    68.65
+],
+  "geometry": {"coordinates":[16.60667,68.65000000000001],"type":"Point"}
+}

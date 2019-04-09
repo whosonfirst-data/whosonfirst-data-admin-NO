@@ -1,0 +1,80 @@
+{
+  "id": 1125948531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.060552,68.199431,16.060552,68.199431",
+    "geom:latitude":68.199431,
+    "geom:longitude":16.060552,
+    "gn:gn_country":null,
+    "iso:country":"NO",
+    "lbl:latitude":68.199431,
+    "lbl:longitude":16.060552,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Storjord I Tysfjord",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nordland Fylke",
+    "qs_pg:photos":206,
+    "qs_pg:photos_1k":42,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":206,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":230363,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":15000852,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Nordland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159297109,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15000852,
+        "qs_pg:id":230363
+    },
+    "wof:country":"NO",
+    "wof:created":1497297374,
+    "wof:geomhash":"1e8707b91108c5d20570b0814adaa280",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297109,
+            "locality_id":1125948531,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1125948531,
+    "wof:lastmodified":1529700177,
+    "wof:name":"Storjord I Tysfjord",
+    "wof:parent_id":1159297109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.060552,
+    68.199431,
+    16.060552,
+    68.199431
+],
+  "geometry": {"coordinates":[16.060552,68.199431],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1292974159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.23333,61.51667,5.23333,61.51667",
+    "geom:latitude":61.51667,
+    "geom:longitude":5.23333,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1401.0",
+    "gn:asciiname":"Nedre Standalen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3144848,
+    "gn:latitude":61.51667,
+    "gn:longitude":5.23333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nedre Standalen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Standal",
+        "Nedre Standalen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297017,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3144848
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7d71e6ba16336dca4fa9e537b5d306fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297017,
+            "locality_id":1292974159,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1292974159,
+    "wof:lastmodified":1537675760,
+    "wof:name":"Nedre Standalen",
+    "wof:parent_id":1159297017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.23333,
+    61.51667,
+    5.23333,
+    61.51667
+],
+  "geometry": {"coordinates":[5.23333,61.51667],"type":"Point"}
+}

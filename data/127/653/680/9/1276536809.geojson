@@ -1,0 +1,96 @@
+{
+  "id": 1276536809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.41236,61.84059,9.41236,61.84059",
+    "geom:latitude":61.84059,
+    "geom:longitude":9.41236,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"517",
+    "gn:asciiname":"Sel",
+    "gn:country_code":"NO",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404067,
+    "gn:latitude":61.84059,
+    "gn:longitude":9.41236,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Sel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u09b8\u09c7\u09b2"
+    ],
+    "name:dan_x_preferred":[
+        "Sel kommune"
+    ],
+    "name:est_x_preferred":[
+        "Seli vald"
+    ],
+    "name:nds_x_preferred":[
+        "Kommun Sel"
+    ],
+    "name:nno_x_preferred":[
+        "Sel"
+    ],
+    "name:nor_x_preferred":[
+        "Sel"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043b\u044c"
+    ],
+    "name:swe_x_preferred":[
+        "Sels kommun"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u723e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297291,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404067,
+        "wk:page":"Sel"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ce896a554099239f0649f8dba085845d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297291,
+            "locality_id":1276536809,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1276536809,
+    "wof:lastmodified":1537675915,
+    "wof:name":"Sel",
+    "wof:parent_id":1159297291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.41236,
+    61.84059,
+    9.41236,
+    61.84059
+],
+  "geometry": {"coordinates":[9.41236,61.84059],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309710003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.81262,61.74026,11.81262,61.74026",
+    "geom:latitude":61.74026,
+    "geom:longitude":11.81262,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"434.0",
+    "gn:asciiname":"Veundasaetrene",
+    "gn:country_code":"NO",
+    "gn:dem":857,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537303,
+    "gn:latitude":61.74026,
+    "gn:longitude":11.81262,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Veund\u00e5s\u00e6trene",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Veund\u00e5s\u00e6trene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296763,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537303
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"789845fb124cb1df6a7a76ebd7f34671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296763,
+            "locality_id":1309710003,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1309710003,
+    "wof:lastmodified":1537676005,
+    "wof:name":"Veundasaetrene",
+    "wof:parent_id":1159296763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.81262,
+    61.74026,
+    11.81262,
+    61.74026
+],
+  "geometry": {"coordinates":[11.81262,61.74026],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1343643775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.30939,62.53903,11.30939,62.53903",
+    "geom:latitude":62.53903,
+    "geom:longitude":11.30939,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5025.0",
+    "gn:asciiname":"Hosoya",
+    "gn:country_code":"NO",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536106,
+    "gn:latitude":62.53903,
+    "gn:longitude":11.30939,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"H\u00f8s\u00f8ya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "H\u00f8s\u00f8ya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297133,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536106
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ce217be4186df75278ba80cb83cb161b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297133,
+            "locality_id":1343643775,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1343643775,
+    "wof:lastmodified":1537675955,
+    "wof:name":"Hosoya",
+    "wof:parent_id":1159297133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.30939,
+    62.53903,
+    11.30939,
+    62.53903
+],
+  "geometry": {"coordinates":[11.30939,62.53903],"type":"Point"}
+}

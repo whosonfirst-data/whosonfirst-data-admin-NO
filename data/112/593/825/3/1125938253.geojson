@@ -1,0 +1,113 @@
+{
+  "id": 1125938253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.05,60.86667,11.05,60.86667",
+    "geom:latitude":60.86667,
+    "geom:longitude":11.05,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":312,
+    "gn:population":312,
+    "iso:country":"NO",
+    "lbl:latitude":60.86667,
+    "lbl:longitude":11.05,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Kylstad"
+    ],
+    "name:eng_x_preferred":[
+        "Kylstad"
+    ],
+    "name:fre_x_preferred":[
+        "Kylstad"
+    ],
+    "name:jav_x_preferred":[
+        "Kylstad"
+    ],
+    "name:may_x_preferred":[
+        "Kylstad"
+    ],
+    "name:nno_x_preferred":[
+        "Kylstad"
+    ],
+    "name:nob_x_preferred":[
+        "Kylstad"
+    ],
+    "name:rum_x_preferred":[
+        "Kylstad"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3148640,
+    "qs_pg:gn_pop":312,
+    "qs_pg:name":"Kylstad",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Hedmark Fylke",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1276961,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":861021,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Hedmark Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296699,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3148640,
+        "gp:id":861021,
+        "qs_pg:id":1276961,
+        "wd:id":"Q2457748"
+    },
+    "wof:country":"NO",
+    "wof:created":1497297034,
+    "wof:geomhash":"170026abd673ef50831da569d7972cbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296699,
+            "locality_id":1125938253,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1125938253,
+    "wof:lastmodified":1529700031,
+    "wof:name":"Kylstad",
+    "wof:parent_id":1159296699,
+    "wof:placetype":"locality",
+    "wof:population":312,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.05,
+    60.86667,
+    11.05,
+    60.86667
+],
+  "geometry": {"coordinates":[11.05,60.86667],"type":"Point"}
+}

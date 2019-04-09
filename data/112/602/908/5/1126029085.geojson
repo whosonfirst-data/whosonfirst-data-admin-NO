@@ -1,0 +1,113 @@
+{
+  "id": 1126029085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.05,63.28333,10.05,63.28333",
+    "geom:latitude":63.28333,
+    "geom:longitude":10.05,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":243,
+    "gn:population":243,
+    "iso:country":"NO",
+    "lbl:latitude":63.28333,
+    "lbl:longitude":10.05,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Eggkleiva"
+    ],
+    "name:eng_x_preferred":[
+        "Eggkleiva"
+    ],
+    "name:fre_x_preferred":[
+        "Eggkleiva"
+    ],
+    "name:may_x_preferred":[
+        "Eggkleiva"
+    ],
+    "name:nno_x_preferred":[
+        "Eggkleiva"
+    ],
+    "name:nob_x_preferred":[
+        "Eggkleiva"
+    ],
+    "name:rum_x_preferred":[
+        "Eggkleiva"
+    ],
+    "name:unk_x_variant":[
+        "Eggan"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3158760,
+    "qs_pg:gn_pop":243,
+    "qs_pg:name":"Eggkleiva",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":31,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1024569,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":857946,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159297253,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3158760,
+        "gp:id":857946,
+        "qs_pg:id":1024569,
+        "wd:id":"Q1769753"
+    },
+    "wof:country":"NO",
+    "wof:created":1497301339,
+    "wof:geomhash":"0ee4413ca3041d03a7a63cde57819d95",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297253,
+            "locality_id":1126029085,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1126029085,
+    "wof:lastmodified":1529700341,
+    "wof:name":"Eggkleiva",
+    "wof:parent_id":1159297253,
+    "wof:placetype":"locality",
+    "wof:population":243,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.05,
+    63.28333,
+    10.05,
+    63.28333
+],
+  "geometry": {"coordinates":[10.05,63.28333],"type":"Point"}
+}

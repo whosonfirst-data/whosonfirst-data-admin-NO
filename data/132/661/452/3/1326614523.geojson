@@ -1,0 +1,72 @@
+{
+  "id": 1326614523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.48236,66.76176,12.48236,66.76176",
+    "geom:latitude":66.76176,
+    "geom:longitude":12.48236,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1836.0",
+    "gn:asciiname":"Myken",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3145231,
+    "gn:latitude":66.76176,
+    "gn:longitude":12.48236,
+    "gn:modification_date":"2013-07-13",
+    "gn:name":"Myken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ytre Myken",
+        "Ytre Myk\u00f6en",
+        "Myken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296809,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3145231
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"12a9d2beb9e63824a2b406cc349a8544",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296809,
+            "locality_id":1326614523,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1326614523,
+    "wof:lastmodified":1537675762,
+    "wof:name":"Myken",
+    "wof:parent_id":1159296809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.48236,
+    66.76176,
+    12.48236,
+    66.76176
+],
+  "geometry": {"coordinates":[12.48236,66.76176],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259705147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.99682,60.34197,4.99682,60.34197",
+    "geom:latitude":60.34197,
+    "geom:longitude":4.99682,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1246.0",
+    "gn:asciiname":"Skalvik",
+    "gn:country_code":"NO",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3139398,
+    "gn:latitude":60.34197,
+    "gn:longitude":4.99682,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Sk\u00e5lvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296987,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3139398
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2075a0ac0f8c76dd5ab756f7ebd2fdcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296987,
+            "locality_id":1259705147,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1259705147,
+    "wof:lastmodified":1537034425,
+    "wof:name":"Skalvik",
+    "wof:parent_id":1159296987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.99682,
+    60.34197,
+    4.99682,
+    60.34197
+],
+  "geometry": {"coordinates":[4.99682,60.34197],"type":"Point"}
+}

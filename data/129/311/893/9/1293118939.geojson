@@ -1,0 +1,80 @@
+{
+  "id": 1293118939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.98767,63.77745,10.98767,63.77745",
+    "geom:latitude":63.77745,
+    "geom:longitude":10.98767,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5053.0",
+    "gn:asciiname":"Saltvikhamna",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3140477,
+    "gn:latitude":63.77745,
+    "gn:longitude":10.98767,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Saltvikhamna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Saltvikhamn"
+    ],
+    "name:nor_x_variant":[
+        "Saltvikhamna"
+    ],
+    "name:und_x_variant":[
+        "Saltvikhavnen",
+        "Saltvikhavn",
+        "Saltvikhamn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296757,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3140477
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ccac3290a3fe054daa4f833dda62efbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296757,
+            "locality_id":1293118939,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1293118939,
+    "wof:lastmodified":1537675730,
+    "wof:name":"Saltvikhamna",
+    "wof:parent_id":1159296757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.98767,
+    63.77745,
+    10.98767,
+    63.77745
+],
+  "geometry": {"coordinates":[10.98767,63.77745],"type":"Point"}
+}

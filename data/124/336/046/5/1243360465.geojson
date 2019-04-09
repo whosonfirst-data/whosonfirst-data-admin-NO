@@ -1,0 +1,71 @@
+{
+  "id": 1243360465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.9248,62.53131,7.9248,62.53131",
+    "geom:latitude":62.53131,
+    "geom:longitude":7.9248,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1539.0",
+    "gn:asciiname":"Erstad",
+    "gn:country_code":"NO",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536798,
+    "gn:latitude":62.53131,
+    "gn:longitude":7.9248,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Erstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Erstad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297421,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536798
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1f63d006a344ac78148dcab8be4462b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297421,
+            "locality_id":1243360465,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1243360465,
+    "wof:lastmodified":1537675984,
+    "wof:name":"Erstad",
+    "wof:parent_id":1159297421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.9248,
+    62.53131,
+    7.9248,
+    62.53131
+],
+  "geometry": {"coordinates":[7.9248,62.53131],"type":"Point"}
+}

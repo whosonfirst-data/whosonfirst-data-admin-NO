@@ -1,0 +1,72 @@
+{
+  "id": 1277066399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.83406,68.41404,15.83406,68.41404",
+    "geom:latitude":68.41404,
+    "geom:longitude":15.83406,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1851.0",
+    "gn:asciiname":"Erikstad",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3158134,
+    "gn:latitude":68.41404,
+    "gn:longitude":15.83406,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Erikstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Erikstad"
+    ],
+    "name:sme_x_preferred":[
+        "Erstta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297361,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3158134
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d7604e9c79bfc31870feef701f738f87",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297361,
+            "locality_id":1277066399,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1277066399,
+    "wof:lastmodified":1537675851,
+    "wof:name":"Erikstad",
+    "wof:parent_id":1159297361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.83406,
+    68.41404,
+    15.83406,
+    68.41404
+],
+  "geometry": {"coordinates":[15.83406,68.41404],"type":"Point"}
+}

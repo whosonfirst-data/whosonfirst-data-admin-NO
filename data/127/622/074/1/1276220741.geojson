@@ -1,0 +1,74 @@
+{
+  "id": 1276220741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.6869,64.52166,13.6869,64.52166",
+    "geom:latitude":64.52166,
+    "geom:longitude":13.6869,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5042.0",
+    "gn:asciiname":"Kvelia",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3148890,
+    "gn:latitude":64.52166,
+    "gn:longitude":13.6869,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Kvelia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kveli i Liene",
+        "Kvelien",
+        "Kvelia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297309,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3148890
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ba8c7530db37a8724ba228c5318a4322",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297309,
+            "locality_id":1276220741,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1276220741,
+    "wof:lastmodified":1537675787,
+    "wof:name":"Kvelia",
+    "wof:parent_id":1159297309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.6869,
+    64.52166,
+    13.6869,
+    64.52166
+],
+  "geometry": {"coordinates":[13.6869,64.52166],"type":"Point"}
+}

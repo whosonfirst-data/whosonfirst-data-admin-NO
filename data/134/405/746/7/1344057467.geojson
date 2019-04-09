@@ -1,0 +1,75 @@
+{
+  "id": 1344057467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.80415,60.55618,8.80415,60.55618",
+    "geom:latitude":60.55618,
+    "geom:longitude":8.80415,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"616.0",
+    "gn:asciiname":"Skalsrudstolane",
+    "gn:country_code":"NO",
+    "gn:dem":949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537222,
+    "gn:latitude":60.55618,
+    "gn:longitude":8.80415,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Sk\u00e5lsrudst\u00f8lane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Sk\u00e5lsrudst\u00f8lane"
+    ],
+    "name:nor_x_variant":[
+        "Skardsrud Sr",
+        "Sk\u00e5lsrudst\u00f8lan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296697,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537222
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"78c99b4b50f36deae8b68b03ba1a28fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296697,
+            "locality_id":1344057467,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1344057467,
+    "wof:lastmodified":1537676002,
+    "wof:name":"Skalsrudstolane",
+    "wof:parent_id":1159296697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.80415,
+    60.55618000000001,
+    8.80415,
+    60.55618000000001
+],
+  "geometry": {"coordinates":[8.80415,60.55618000000001],"type":"Point"}
+}

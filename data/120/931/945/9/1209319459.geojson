@@ -1,0 +1,77 @@
+{
+  "id": 1209319459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.20216,70.21419,23.20216,70.21419",
+    "geom:latitude":70.21419,
+    "geom:longitude":23.20216,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2012.0",
+    "gn:asciiname":"Giranjarga",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":777440,
+    "gn:latitude":70.21419,
+    "gn:longitude":23.20216,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Giranj\u00e1rga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Storekorsnes"
+    ],
+    "name:nor_x_variant":[
+        "Storekursnes"
+    ],
+    "name:sme_x_preferred":[
+        "Giranj\u00e1rga"
+    ],
+    "name:und_x_variant":[
+        "Korsnes",
+        "Stor Korsnes",
+        "Storekorsnes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":777440
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4b5281fd6ea7b617737a94c38173807a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209319459
+        }
+    ],
+    "wof:id":1209319459,
+    "wof:lastmodified":1537675642,
+    "wof:name":"Giranjarga",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.20216,
+    70.21419,
+    23.20216,
+    70.21419
+],
+  "geometry": {"coordinates":[23.20216,70.21419],"type":"Point"}
+}

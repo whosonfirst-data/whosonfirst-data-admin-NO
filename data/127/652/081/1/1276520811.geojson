@@ -1,0 +1,68 @@
+{
+  "id": 1276520811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.23333,60.91667,7.23333,60.91667",
+    "geom:latitude":60.91667,
+    "geom:longitude":7.23333,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1421.0",
+    "gn:asciiname":"Kvammadalen",
+    "gn:country_code":"NO",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3148994,
+    "gn:latitude":60.91667,
+    "gn:longitude":7.23333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Kvammadalen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297301,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3148994
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1eb5bd79934f4527dac910cc529168f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297301,
+            "locality_id":1276520811,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1276520811,
+    "wof:lastmodified":1537023830,
+    "wof:name":"Kvammadalen",
+    "wof:parent_id":1159297301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.23333,
+    60.91667,
+    7.23333,
+    60.91667
+],
+  "geometry": {"coordinates":[7.23333,60.91667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209588121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.81667,62.9,9.81667,62.9",
+    "geom:latitude":62.9,
+    "geom:longitude":9.81667,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5022.0",
+    "gn:asciiname":"Litle Lokken",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3147254,
+    "gn:latitude":62.9,
+    "gn:longitude":9.81667,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Litle L\u00f8kken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lille L\u00f8k",
+        "Litle L\u00f8kken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3147254
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5685771f65085e00ad68e6f09ab09f72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209588121
+        }
+    ],
+    "wof:id":1209588121,
+    "wof:lastmodified":1537675776,
+    "wof:name":"Litle Lokken",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.81667,
+    62.9,
+    9.81667,
+    62.9
+],
+  "geometry": {"coordinates":[9.81667,62.9],"type":"Point"}
+}

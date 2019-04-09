@@ -1,0 +1,71 @@
+{
+  "id": 1344240685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.23333,64.45,12.23333,64.45",
+    "geom:latitude":64.45,
+    "geom:longitude":12.23333,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5045.0",
+    "gn:asciiname":"Sjemsvoll",
+    "gn:country_code":"NO",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3139574,
+    "gn:latitude":64.45,
+    "gn:longitude":12.23333,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Sjemsvoll",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Sjemsvoll"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297447,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3139574
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"772e583f675c6a8c0aa5edee4899a6a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297447,
+            "locality_id":1344240685,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1344240685,
+    "wof:lastmodified":1537675724,
+    "wof:name":"Sjemsvoll",
+    "wof:parent_id":1159297447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.23333,
+    64.45,
+    12.23333,
+    64.45
+],
+  "geometry": {"coordinates":[12.23333,64.45],"type":"Point"}
+}

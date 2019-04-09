@@ -1,0 +1,68 @@
+{
+  "id": 1259759087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.85639,69.12444,17.85639,69.12444",
+    "geom:latitude":69.12444,
+    "geom:longitude":17.85639,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1926.0",
+    "gn:asciiname":"Furstrand",
+    "gn:country_code":"NO",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3156303,
+    "gn:latitude":69.12444,
+    "gn:longitude":17.85639,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Furstrand",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297319,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3156303
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"388065d9bf7a8692a7b25c7f3565b77e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297319,
+            "locality_id":1259759087,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1259759087,
+    "wof:lastmodified":1536958290,
+    "wof:name":"Furstrand",
+    "wof:parent_id":1159297319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.85639,
+    69.12444,
+    17.85639,
+    69.12444
+],
+  "geometry": {"coordinates":[17.85639,69.12444000000001],"type":"Point"}
+}

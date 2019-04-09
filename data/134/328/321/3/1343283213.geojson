@@ -1,0 +1,68 @@
+{
+  "id": 1343283213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.29861,60.31139,5.29861,60.31139",
+    "geom:latitude":60.31139,
+    "geom:longitude":5.29861,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1201.0",
+    "gn:asciiname":"Sovik",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3253762,
+    "gn:latitude":60.31139,
+    "gn:longitude":5.29861,
+    "gn:modification_date":"2010-10-15",
+    "gn:name":"S\u00f8vik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297617,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3253762
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"fa8b077279ad587ee606c13bd65ebe43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":1343283213,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1343283213,
+    "wof:lastmodified":1537001374,
+    "wof:name":"Sovik",
+    "wof:parent_id":1159297617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.29861,
+    60.31139,
+    5.29861,
+    60.31139
+],
+  "geometry": {"coordinates":[5.29861,60.31139],"type":"Point"}
+}

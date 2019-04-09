@@ -1,0 +1,80 @@
+{
+  "id": 1344050927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.04154,63.87476,11.04154,63.87476",
+    "geom:latitude":63.87476,
+    "geom:longitude":11.04154,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5053.0",
+    "gn:asciiname":"Venneshamn",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3132209,
+    "gn:latitude":63.87476,
+    "gn:longitude":11.04154,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Venneshamn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Venneshamn"
+    ],
+    "name:nor_x_variant":[
+        "Venneshamna"
+    ],
+    "name:und_x_variant":[
+        "Venneshavn",
+        "Venneshamn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296757,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3132209,
+        "wk:page":"Venneshamn"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9e46c9efbde2736d80a2fcebc7455e27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296757,
+            "locality_id":1344050927,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1344050927,
+    "wof:lastmodified":1537675679,
+    "wof:name":"Venneshamn",
+    "wof:parent_id":1159296757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.04154,
+    63.87476,
+    11.04154,
+    63.87476
+],
+  "geometry": {"coordinates":[11.04154,63.87476],"type":"Point"}
+}

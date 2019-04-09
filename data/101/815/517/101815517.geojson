@@ -1,0 +1,136 @@
+{
+  "id": 101815517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00015,
+    "geom:area_square_m":944913.183866,
+    "geom:bbox":"10.3220208711,59.2722682349,10.3431195072,59.2893647092",
+    "geom:latitude":59.28125,
+    "geom:longitude":10.331044,
+    "gn:population":1827,
+    "iso:country":"NO",
+    "lbl:latitude":59.279019,
+    "lbl:longitude":10.329125,
+    "mps:latitude":59.279019,
+    "mps:longitude":10.329125,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Sem"
+    ],
+    "name:dut_x_preferred":[
+        "Sem"
+    ],
+    "name:eng_x_preferred":[
+        "Sem"
+    ],
+    "name:fin_x_preferred":[
+        "Sem"
+    ],
+    "name:fre_x_preferred":[
+        "Sem"
+    ],
+    "name:ita_x_preferred":[
+        "Sem"
+    ],
+    "name:may_x_preferred":[
+        "Sem"
+    ],
+    "name:msa_x_preferred":[
+        "Sem"
+    ],
+    "name:nld_x_preferred":[
+        "Sem"
+    ],
+    "name:nno_x_preferred":[
+        "Sem"
+    ],
+    "name:nob_x_preferred":[
+        "Sem"
+    ],
+    "name:nor_x_preferred":[
+        "Sem"
+    ],
+    "name:nor_x_variant":[
+        "Sems"
+    ],
+    "name:ron_x_preferred":[
+        "Sem"
+    ],
+    "name:rum_x_preferred":[
+        "Sem"
+    ],
+    "name:swe_x_preferred":[
+        "Sem"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Vestfold",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"T\u00f8nsberg",
+    "qs:la_lc":"*NO0704",
+    "qs:level":"locality",
+    "qs:loc":"Sem",
+    "qs:loc_alt":"Sem",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":368,
+    "wof:belongsto":[
+        102191581,
+        1159297321,
+        85633341,
+        85687073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01fe8b54-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3139819,
+        "gp:id":863590,
+        "qs:id":245899,
+        "qs_pg:id":245899,
+        "wd:id":"Q3355934",
+        "wk:page":"Sem, Norway"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"48b853991f7f8e8e8ead51399197bd24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297321,
+            "locality_id":101815517,
+            "region_id":85687073
+        }
+    ],
+    "wof:id":101815517,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1529700487,
+    "wof:name":"Sem",
+    "wof:parent_id":1159297321,
+    "wof:placetype":"locality",
+    "wof:population":1827,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.32202087114365,
+    59.27226823491827,
+    10.34311950716238,
+    59.28936470923571
+],
+  "geometry": {"coordinates":[[[10.33965348071627,59.288439730287],[10.33961834063484,59.28484134513502],[10.34311950716238,59.28483270861369],[10.34311063292006,59.28393311342688],[10.33435793992408,59.28395453801983],[10.33428877576381,59.27675778371571],[10.33253859805137,59.27676200121562],[10.33250420948474,59.27316363170235],[10.33075421235691,59.27316782657277],[10.33074566175202,59.27226823491827],[10.32899570946711,59.27227240753075],[10.32900421483311,59.27317199930724],[10.32725421691498,59.27317614990568],[10.32727113870089,59.27497533471751],[10.32202087114365,59.27498765441726],[10.3220291970614,59.27588724769163],[10.3237793318828,59.27588316314291],[10.32384631940766,59.28307992058143],[10.32909780776703,59.28306753120745],[10.32912334390755,59.2857663197546],[10.33087397506472,59.28576214531051],[10.33089965168199,59.28846093654545],[10.32914888467667,59.28846511135617],[10.32915739929501,59.28936470923571],[10.33440983498389,59.2893521179941],[10.33440118450108,59.28845252048313],[10.33965348071627,59.288439730287]]],"type":"Polygon"}
+}

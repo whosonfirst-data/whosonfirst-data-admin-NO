@@ -1,0 +1,68 @@
+{
+  "id": 1276144321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.97032,60.45554,11.97032,60.45554",
+    "geom:latitude":60.45554,
+    "geom:longitude":11.97032,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"423.0",
+    "gn:asciiname":"Risberget",
+    "gn:country_code":"NO",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141800,
+    "gn:latitude":60.45554,
+    "gn:longitude":11.97032,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Risberget",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297575,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141800
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"68e6fe42ee71af0607a3b1ff6793adeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297575,
+            "locality_id":1276144321,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1276144321,
+    "wof:lastmodified":1537030679,
+    "wof:name":"Risberget",
+    "wof:parent_id":1159297575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.97032,
+    60.45554,
+    11.97032,
+    60.45554
+],
+  "geometry": {"coordinates":[11.97032,60.45554],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1242895013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.46667,60.56667,6.46667,60.56667",
+    "geom:latitude":60.56667,
+    "geom:longitude":6.46667,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1235.0",
+    "gn:asciiname":"Rjoo",
+    "gn:country_code":"NO",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141685,
+    "gn:latitude":60.56667,
+    "gn:longitude":6.46667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Rjoo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296873,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141685
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d17b3550fed5473f420b9adb00cad710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296873,
+            "locality_id":1242895013,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1242895013,
+    "wof:lastmodified":1536603427,
+    "wof:name":"Rjoo",
+    "wof:parent_id":1159296873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.46667,
+    60.56667,
+    6.46667,
+    60.56667
+],
+  "geometry": {"coordinates":[6.46667,60.56667],"type":"Point"}
+}

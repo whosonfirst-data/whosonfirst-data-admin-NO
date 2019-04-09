@@ -1,0 +1,71 @@
+{
+  "id": 1343445419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.07739,67.90183,15.07739,67.90183",
+    "geom:latitude":67.90183,
+    "geom:longitude":15.07739,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1848.0",
+    "gn:asciiname":"Skanland",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3139374,
+    "gn:latitude":67.90183,
+    "gn:longitude":15.07739,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Sk\u00e5nland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Skaanland",
+        "Sk\u00e5nland"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297343,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3139374
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"613aef5a6bbfb004cc48e5ea9fd873f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297343,
+            "locality_id":1343445419,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1343445419,
+    "wof:lastmodified":1537675722,
+    "wof:name":"Skanland",
+    "wof:parent_id":1159297343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.07739,
+    67.90183,
+    15.07739,
+    67.90183
+],
+  "geometry": {"coordinates":[15.07739,67.90183],"type":"Point"}
+}

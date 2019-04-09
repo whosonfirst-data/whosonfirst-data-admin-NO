@@ -1,0 +1,73 @@
+{
+  "id": 1242870953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.98472,60.53222,4.98472,60.53222",
+    "geom:latitude":60.53222,
+    "geom:longitude":4.98472,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1247.0",
+    "gn:asciiname":"Oksneset",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3241830,
+    "gn:latitude":60.53222,
+    "gn:longitude":4.98472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Oksneset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uksnes",
+        "Oksneset"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296789,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3241830
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b9952f6cad25923596d64332160a6a27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296789,
+            "locality_id":1242870953,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1242870953,
+    "wof:lastmodified":1537675900,
+    "wof:name":"Oksneset",
+    "wof:parent_id":1159296789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.98472,
+    60.53222,
+    4.98472,
+    60.53222
+],
+  "geometry": {"coordinates":[4.98472,60.53222],"type":"Point"}
+}

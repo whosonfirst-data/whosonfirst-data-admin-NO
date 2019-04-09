@@ -1,0 +1,104 @@
+{
+  "id": 1125995779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.037021,59.933207,11.037021,59.933207",
+    "geom:latitude":59.933207,
+    "geom:longitude":11.037021,
+    "gn:gn_country":null,
+    "iso:country":"NO",
+    "lbl:latitude":59.933207,
+    "lbl:longitude":11.037021,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Blystadlia"
+    ],
+    "name:eng_x_preferred":[
+        "Blystadlia"
+    ],
+    "name:fre_x_preferred":[
+        "Blystadlia"
+    ],
+    "name:jav_x_preferred":[
+        "Blystadlia"
+    ],
+    "name:may_x_preferred":[
+        "Blystadlia"
+    ],
+    "name:nob_x_preferred":[
+        "Blystadlia"
+    ],
+    "name:vie_x_preferred":[
+        "Blystadlia"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Blystadlia",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Akershus Fylke",
+    "qs_pg:photos":44,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":44,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1000702,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":20099923,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Akershus Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297185,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20099923,
+        "qs_pg:id":1000702,
+        "wd:id":"Q4930841"
+    },
+    "wof:country":"NO",
+    "wof:created":1497299322,
+    "wof:geomhash":"ca55f0b01b563139d4672bd3884990e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297185,
+            "locality_id":1125995779,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1125995779,
+    "wof:lastmodified":1529699781,
+    "wof:name":"Blystadlia",
+    "wof:parent_id":1159297185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.037021,
+    59.933207,
+    11.037021,
+    59.933207
+],
+  "geometry": {"coordinates":[11.037021,59.933207],"type":"Point"}
+}

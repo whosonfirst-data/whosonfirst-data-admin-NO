@@ -1,0 +1,73 @@
+{
+  "id": 1343327249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.41667,58.4,7.41667,58.4",
+    "geom:latitude":58.4,
+    "geom:longitude":7.41667,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1027.0",
+    "gn:asciiname":"Agedal",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3163523,
+    "gn:latitude":58.4,
+    "gn:longitude":7.41667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u00c5gedal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aagedal",
+        "\u00c5gedal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297045,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3163523
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6164ca01a24d24b703fecd9540b8abbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297045,
+            "locality_id":1343327249,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1343327249,
+    "wof:lastmodified":1537675895,
+    "wof:name":"Agedal",
+    "wof:parent_id":1159297045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.41667,
+    58.4,
+    7.41667,
+    58.4
+],
+  "geometry": {"coordinates":[7.41667,58.4],"type":"Point"}
+}

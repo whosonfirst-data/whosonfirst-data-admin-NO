@@ -1,0 +1,68 @@
+{
+  "id": 1293759425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.12511,69.27311,17.12511,69.27311",
+    "geom:latitude":69.27311,
+    "geom:longitude":17.12511,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1928.0",
+    "gn:asciiname":"Finnes",
+    "gn:country_code":"NO",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3157610,
+    "gn:latitude":69.27311,
+    "gn:longitude":17.12511,
+    "gn:modification_date":"2013-03-16",
+    "gn:name":"Finnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297351,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3157610
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"cd682b9c189987b70184f45a8dc1580a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297351,
+            "locality_id":1293759425,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1293759425,
+    "wof:lastmodified":1536891846,
+    "wof:name":"Finnes",
+    "wof:parent_id":1159297351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.12511,
+    69.27311,
+    17.12511,
+    69.27311
+],
+  "geometry": {"coordinates":[17.12511,69.27311],"type":"Point"}
+}

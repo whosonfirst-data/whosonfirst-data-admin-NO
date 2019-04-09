@@ -1,0 +1,71 @@
+{
+  "id": 1226560973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.13333,66.48333,13.13333,66.48333",
+    "geom:latitude":66.48333,
+    "geom:longitude":13.13333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1834.0",
+    "gn:asciiname":"Smaskogan",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3138158,
+    "gn:latitude":66.48333,
+    "gn:longitude":13.13333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sm\u00e5skogan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Smaaskogan",
+        "Sm\u00e5skogan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297347,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3138158
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"caf146e9b1d4539802d26cc25eed96f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297347,
+            "locality_id":1226560973,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1226560973,
+    "wof:lastmodified":1537675714,
+    "wof:name":"Smaskogan",
+    "wof:parent_id":1159297347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.13333,
+    66.48333000000001,
+    13.13333,
+    66.48333000000001
+],
+  "geometry": {"coordinates":[13.13333,66.48333000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310296823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.09028,59.89521,5.09028,59.89521",
+    "geom:latitude":59.89521,
+    "geom:longitude":5.09028,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1219.0",
+    "gn:asciiname":"Gisoysund",
+    "gn:country_code":"NO",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537418,
+    "gn:latitude":59.89521,
+    "gn:longitude":5.09028,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Gis\u00f8ysund",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Gis\u00f8ysund"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296859,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537418
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"fe64bc00ffbe75a710a675dc9d6c084d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296859,
+            "locality_id":1310296823,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1310296823,
+    "wof:lastmodified":1537676010,
+    "wof:name":"Gisoysund",
+    "wof:parent_id":1159296859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.09028,
+    59.89521,
+    5.09028,
+    59.89521
+],
+  "geometry": {"coordinates":[5.09028,59.89521],"type":"Point"}
+}

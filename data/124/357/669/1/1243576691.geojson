@@ -1,0 +1,71 @@
+{
+  "id": 1243576691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9425,70.2744,30.9425,70.2744",
+    "geom:latitude":70.2744,
+    "geom:longitude":30.9425,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2002.0",
+    "gn:asciiname":"Kiberg,in",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537621,
+    "gn:latitude":70.2744,
+    "gn:longitude":30.9425,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Kiberg,in",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Kiberg,in"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297127,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537621
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6dd39b66d39ef1b2a03f8bed72b7b044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297127,
+            "locality_id":1243576691,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1243576691,
+    "wof:lastmodified":1537676021,
+    "wof:name":"Kiberg,in",
+    "wof:parent_id":1159297127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9425,
+    70.2744,
+    30.9425,
+    70.2744
+],
+  "geometry": {"coordinates":[30.9425,70.2744],"type":"Point"}
+}

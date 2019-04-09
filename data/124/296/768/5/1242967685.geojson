@@ -1,0 +1,68 @@
+{
+  "id": 1242967685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.03333,59.65,6.03333,59.65",
+    "geom:latitude":59.65,
+    "geom:longitude":6.03333,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1211.0",
+    "gn:asciiname":"Kaldheim",
+    "gn:country_code":"NO",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3150599,
+    "gn:latitude":59.65,
+    "gn:longitude":6.03333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Kaldheim",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297111,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3150599
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c0852fcb8d2ab96275e9a7e14318e982",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297111,
+            "locality_id":1242967685,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1242967685,
+    "wof:lastmodified":1536998092,
+    "wof:name":"Kaldheim",
+    "wof:parent_id":1159297111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.03333,
+    59.65,
+    6.03333,
+    59.65
+],
+  "geometry": {"coordinates":[6.03333,59.65],"type":"Point"}
+}

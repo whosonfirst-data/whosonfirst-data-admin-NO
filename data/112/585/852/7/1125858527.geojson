@@ -1,0 +1,107 @@
+{
+  "id": 1125858527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.60639,59.6775,5.60639,59.6775",
+    "geom:latitude":59.6775,
+    "geom:longitude":5.60639,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":59.6775,
+    "lbl:longitude":5.60639,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Bjoa"
+    ],
+    "name:eng_x_preferred":[
+        "Bjoa"
+    ],
+    "name:fre_x_preferred":[
+        "Bjoa"
+    ],
+    "name:nno_x_preferred":[
+        "Bjoa"
+    ],
+    "name:nob_x_preferred":[
+        "Bjoa"
+    ],
+    "name:rum_x_preferred":[
+        "Bjoa"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3133172,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Bjoa",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Rogaland Fylke",
+    "qs_pg:photos":38,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":38,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":352801,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":22659192,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Rogaland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296919,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3133172,
+        "gp:id":22659192,
+        "qs_pg:id":352801,
+        "wd:id":"Q4919621"
+    },
+    "wof:country":"NO",
+    "wof:created":1497293725,
+    "wof:geomhash":"7807d27796cee9d551780d146fb1ea1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296919,
+            "locality_id":1125858527,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1125858527,
+    "wof:lastmodified":1529700294,
+    "wof:name":"Bjoa",
+    "wof:parent_id":1159296919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.60639,
+    59.6775,
+    5.60639,
+    59.6775
+],
+  "geometry": {"coordinates":[5.60639,59.6775],"type":"Point"}
+}

@@ -1,0 +1,113 @@
+{
+  "id": 1125893267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.46667,67.48333,15.46667,67.48333",
+    "geom:latitude":67.48333,
+    "geom:longitude":15.46667,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":223,
+    "gn:population":223,
+    "iso:country":"NO",
+    "lbl:latitude":67.48333,
+    "lbl:longitude":15.46667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "R\u00f8svik"
+    ],
+    "name:eng_x_preferred":[
+        "R\u00f8svik"
+    ],
+    "name:fre_x_preferred":[
+        "R\u00f8svik"
+    ],
+    "name:ger_x_preferred":[
+        "R\u00f8svik"
+    ],
+    "name:jav_x_preferred":[
+        "R\u00f8svik"
+    ],
+    "name:may_x_preferred":[
+        "R\u00f8svik"
+    ],
+    "name:nno_x_preferred":[
+        "R\u00f8svik"
+    ],
+    "name:nob_x_preferred":[
+        "R\u00f8svik"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3141179,
+    "qs_pg:gn_pop":223,
+    "qs_pg:name":"R\u00f8svik",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nordland Fylke",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":11,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":629502,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":863166,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Nordland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159296959,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141179,
+        "gp:id":863166,
+        "qs_pg:id":629502,
+        "wd:id":"Q2204847"
+    },
+    "wof:country":"NO",
+    "wof:created":1497295420,
+    "wof:geomhash":"c1187dad758e1412baab2193f31ad682",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296959,
+            "locality_id":1125893267,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1125893267,
+    "wof:lastmodified":1529700165,
+    "wof:name":"R\u00f8svik",
+    "wof:parent_id":1159296959,
+    "wof:placetype":"locality",
+    "wof:population":223,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.46667,
+    67.48333,
+    15.46667,
+    67.48333
+],
+  "geometry": {"coordinates":[15.46667,67.48333],"type":"Point"}
+}

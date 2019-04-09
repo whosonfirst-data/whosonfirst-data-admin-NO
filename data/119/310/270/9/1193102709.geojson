@@ -1,0 +1,68 @@
+{
+  "id": 1193102709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.8,58.48333,6.8,58.48333",
+    "geom:latitude":58.48333,
+    "geom:longitude":6.8,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1004.0",
+    "gn:asciiname":"Sandvatn",
+    "gn:country_code":"NO",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3140198,
+    "gn:latitude":58.48333,
+    "gn:longitude":6.8,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Sandvatn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296845,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3140198
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"73a5414e8f9df6ea31566bd0f12dbc7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296845,
+            "locality_id":1193102709,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1193102709,
+    "wof:lastmodified":1536381774,
+    "wof:name":"Sandvatn",
+    "wof:parent_id":1159296845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.8,
+    58.48333,
+    6.8,
+    58.48333
+],
+  "geometry": {"coordinates":[6.8,58.48333],"type":"Point"}
+}

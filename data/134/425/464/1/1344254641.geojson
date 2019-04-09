@@ -1,0 +1,68 @@
+{
+  "id": 1344254641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.78333,60.91667,11.78333,60.91667",
+    "geom:latitude":60.91667,
+    "geom:longitude":11.78333,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"427.0",
+    "gn:asciiname":"Likvern",
+    "gn:country_code":"NO",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3147497,
+    "gn:latitude":60.91667,
+    "gn:longitude":11.78333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Likvern",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297469,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3147497
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5eea6cbfa191c6c4bdcdf0294e8abfa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297469,
+            "locality_id":1344254641,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1344254641,
+    "wof:lastmodified":1537089440,
+    "wof:name":"Likvern",
+    "wof:parent_id":1159297469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.78333,
+    60.91667,
+    11.78333,
+    60.91667
+],
+  "geometry": {"coordinates":[11.78333,60.91667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226670125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.76667,60.88333,8.76667,60.88333",
+    "geom:latitude":60.88333,
+    "geom:longitude":8.76667,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"618.0",
+    "gn:asciiname":"Markegardlian",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3146365,
+    "gn:latitude":60.88333,
+    "gn:longitude":8.76667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Markegardlian",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Markegardliann",
+        "Markegardlian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297473,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3146365
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"48ab4b40d027f2862785eb37dd6b7db0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297473,
+            "locality_id":1226670125,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1226670125,
+    "wof:lastmodified":1537675770,
+    "wof:name":"Markegardlian",
+    "wof:parent_id":1159297473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.76667,
+    60.88333000000001,
+    8.76667,
+    60.88333000000001
+],
+  "geometry": {"coordinates":[8.76667,60.88333000000001],"type":"Point"}
+}

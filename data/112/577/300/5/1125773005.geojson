@@ -1,0 +1,107 @@
+{
+  "id": 1125773005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.9,58.35,7.9,58.35",
+    "geom:latitude":58.35,
+    "geom:longitude":7.9,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":58.35,
+    "lbl:longitude":7.9,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "R\u00f8yknes Station"
+    ],
+    "name:dut_x_preferred":[
+        "R\u00f8yknes"
+    ],
+    "name:eng_x_preferred":[
+        "R\u00f8yknes"
+    ],
+    "name:fre_x_preferred":[
+        "R\u00f8yknes"
+    ],
+    "name:may_x_preferred":[
+        "R\u00f8yknes"
+    ],
+    "name:nob_x_preferred":[
+        "R\u00f8yknes"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3141097,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"R\u00f8yknes",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Vest-Agder Fylke",
+    "qs_pg:photos":29,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":29,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1159164,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":863198,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Vest-Agder Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296843,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141097,
+        "gp:id":863198,
+        "qs_pg:id":1159164,
+        "wd:id":"Q2796938"
+    },
+    "wof:country":"NO",
+    "wof:created":1497290137,
+    "wof:geomhash":"560a41583516363c3dddb5d3d06561f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296843,
+            "locality_id":1125773005,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1125773005,
+    "wof:lastmodified":1529700472,
+    "wof:name":"R\u00f8yknes",
+    "wof:parent_id":1159296843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.9,
+    58.35,
+    7.9,
+    58.35
+],
+  "geometry": {"coordinates":[7.9,58.35],"type":"Point"}
+}

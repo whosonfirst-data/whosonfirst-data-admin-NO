@@ -1,0 +1,72 @@
+{
+  "id": 1226029171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.09986,68.07824,16.09986,68.07824",
+    "geom:latitude":68.07824,
+    "geom:longitude":16.09986,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1850.0",
+    "gn:asciiname":"Strummbo",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536162,
+    "gn:latitude":68.07824,
+    "gn:longitude":16.09986,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Strummbo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Strumpvika"
+    ],
+    "name:smj_x_preferred":[
+        "Strummbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297109,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536162
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"cb80acf42586a645d1e7ae31afa4645f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297109,
+            "locality_id":1226029171,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1226029171,
+    "wof:lastmodified":1537675957,
+    "wof:name":"Strummbo",
+    "wof:parent_id":1159297109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.09986,
+    68.07824000000001,
+    16.09986,
+    68.07824000000001
+],
+  "geometry": {"coordinates":[16.09986,68.07824000000001],"type":"Point"}
+}

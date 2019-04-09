@@ -1,0 +1,68 @@
+{
+  "id": 1260143849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.85,59.75,8.85,59.75",
+    "geom:latitude":59.75,
+    "geom:longitude":8.85,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"827.0",
+    "gn:asciiname":"Flugun",
+    "gn:country_code":"NO",
+    "gn:dem":765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3156929,
+    "gn:latitude":59.75,
+    "gn:longitude":8.85,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Flugun",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297529,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3156929
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"599f9599a4a79e359998765a9ee7f4fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297529,
+            "locality_id":1260143849,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1260143849,
+    "wof:lastmodified":1536902452,
+    "wof:name":"Flugun",
+    "wof:parent_id":1159297529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.85,
+    59.75,
+    8.85,
+    59.75
+],
+  "geometry": {"coordinates":[8.85,59.75],"type":"Point"}
+}

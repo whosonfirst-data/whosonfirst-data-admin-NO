@@ -1,0 +1,73 @@
+{
+  "id": 1193244713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.43333,69.38333,17.43333,69.38333",
+    "geom:latitude":69.38333,
+    "geom:longitude":17.43333,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1929.0",
+    "gn:asciiname":"Haverjorda",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3153460,
+    "gn:latitude":69.38333,
+    "gn:longitude":17.43333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"H\u00e5verjorda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haaverjorda",
+        "H\u00e5verjorda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297625,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3153460
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4dbecf7c26831b52f68f7f5c10450829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297625,
+            "locality_id":1193244713,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1193244713,
+    "wof:lastmodified":1537675819,
+    "wof:name":"Haverjorda",
+    "wof:parent_id":1159297625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.43333,
+    69.38333,
+    17.43333,
+    69.38333
+],
+  "geometry": {"coordinates":[17.43333,69.38333],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276538591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.04727,68.26147,17.04727,68.26147",
+    "geom:latitude":68.26147,
+    "geom:longitude":17.04727,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1854.0",
+    "gn:asciiname":"Ranovuobmi",
+    "gn:country_code":"NO",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537348,
+    "gn:latitude":68.26147,
+    "gn:longitude":17.04727,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Ranovuobmi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "R\u00e5nvassbotn"
+    ],
+    "name:sme_x_preferred":[
+        "Ranovuobmi"
+    ],
+    "name:sme_x_variant":[
+        "R\u00e1nuvuopmi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297229,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537348
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"bed6134f48e70e602e24fca9eacb373a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297229,
+            "locality_id":1276538591,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1276538591,
+    "wof:lastmodified":1537676007,
+    "wof:name":"Ranovuobmi",
+    "wof:parent_id":1159297229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.04727,
+    68.26146999999999,
+    17.04727,
+    68.26146999999999
+],
+  "geometry": {"coordinates":[17.04727,68.26146999999999],"type":"Point"}
+}

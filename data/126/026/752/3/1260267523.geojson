@@ -1,0 +1,71 @@
+{
+  "id": 1260267523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.91667,65.6,13.91667,65.6",
+    "geom:latitude":65.6,
+    "geom:longitude":13.91667,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1826.0",
+    "gn:asciiname":"Mjolkarlia",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3145772,
+    "gn:latitude":65.6,
+    "gn:longitude":13.91667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mj\u00f8lkarlia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mj\u00f6lkarlien",
+        "Mj\u00f8lkarlia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297409,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3145772
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f8778063a82304c7eeea60946e8daf32",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297409,
+            "locality_id":1260267523,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1260267523,
+    "wof:lastmodified":1537675765,
+    "wof:name":"Mjolkarlia",
+    "wof:parent_id":1159297409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.91667,
+    65.6,
+    13.91667,
+    65.6
+],
+  "geometry": {"coordinates":[13.91667,65.59999999999999],"type":"Point"}
+}

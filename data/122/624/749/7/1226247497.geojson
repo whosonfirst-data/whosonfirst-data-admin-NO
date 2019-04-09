@@ -1,0 +1,72 @@
+{
+  "id": 1226247497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.79698,71.07658,24.79698,71.07658",
+    "geom:latitude":71.07658,
+    "geom:longitude":24.79698,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2018.0",
+    "gn:asciiname":"Russesand",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":777981,
+    "gn:latitude":71.07658,
+    "gn:longitude":24.79698,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Russesand",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Russesanden"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297565,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":777981
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e9465f922b60c386be8067cf1b79d332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297565,
+            "locality_id":1226247497,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1226247497,
+    "wof:lastmodified":1537675646,
+    "wof:name":"Russesand",
+    "wof:parent_id":1159297565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.79698,
+    71.07658,
+    24.79698,
+    71.07658
+],
+  "geometry": {"coordinates":[24.79698,71.07658000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259698057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.75276,59.59215,10.75276,59.59215",
+    "geom:latitude":59.59215,
+    "geom:longitude":10.75276,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"211.0",
+    "gn:asciiname":"Furulund",
+    "gn:country_code":"NO",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536269,
+    "gn:latitude":59.59215,
+    "gn:longitude":10.75276,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Furulund",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Furulund"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297237,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536269
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e76b04277b80912bd84287940bc0701e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297237,
+            "locality_id":1259698057,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1259698057,
+    "wof:lastmodified":1537675962,
+    "wof:name":"Furulund",
+    "wof:parent_id":1159297237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.75276,
+    59.59215,
+    10.75276,
+    59.59215
+],
+  "geometry": {"coordinates":[10.75276,59.59215],"type":"Point"}
+}

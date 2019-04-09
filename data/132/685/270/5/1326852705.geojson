@@ -1,0 +1,71 @@
+{
+  "id": 1326852705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.36968,60.04067,12.36968,60.04067",
+    "geom:latitude":60.04067,
+    "geom:longitude":12.36968,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"402.0",
+    "gn:asciiname":"Brodbol",
+    "gn:country_code":"NO",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537404,
+    "gn:latitude":60.04067,
+    "gn:longitude":12.36968,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Br\u00f8db\u00f8l",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Br\u00f8db\u00f8l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296807,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537404
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9f79e33138c50847275a08d6c5146017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296807,
+            "locality_id":1326852705,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1326852705,
+    "wof:lastmodified":1537676010,
+    "wof:name":"Brodbol",
+    "wof:parent_id":1159296807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.36968,
+    60.04067,
+    12.36968,
+    60.04067
+],
+  "geometry": {"coordinates":[12.36968,60.04067],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243161933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.08333,68.9,15.08333,68.9",
+    "geom:latitude":68.9,
+    "geom:longitude":15.08333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1868.0",
+    "gn:asciiname":"Oppmyre",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3143481,
+    "gn:latitude":68.9,
+    "gn:longitude":15.08333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Oppmyre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Opmyre",
+        "Oppmyre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296769,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3143481
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3ed806e01cc55131d624247402196130",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296769,
+            "locality_id":1243161933,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1243161933,
+    "wof:lastmodified":1537675751,
+    "wof:name":"Oppmyre",
+    "wof:parent_id":1159296769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.08333,
+    68.9,
+    15.08333,
+    68.9
+],
+  "geometry": {"coordinates":[15.08333,68.90000000000001],"type":"Point"}
+}

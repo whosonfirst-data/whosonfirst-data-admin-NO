@@ -1,0 +1,68 @@
+{
+  "id": 1327110715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.11667,59.26667,9.11667,59.26667",
+    "geom:latitude":59.26667,
+    "geom:longitude":9.11667,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"819.0",
+    "gn:asciiname":"Tyri",
+    "gn:country_code":"NO",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3133493,
+    "gn:latitude":59.26667,
+    "gn:longitude":9.11667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Tyri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296935,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3133493
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7025ec4c07f89f723fe9f53c3e6b4841",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296935,
+            "locality_id":1327110715,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1327110715,
+    "wof:lastmodified":1536647115,
+    "wof:name":"Tyri",
+    "wof:parent_id":1159296935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.11667,
+    59.26667,
+    9.11667,
+    59.26667
+],
+  "geometry": {"coordinates":[9.11667,59.26667],"type":"Point"}
+}

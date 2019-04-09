@@ -1,0 +1,73 @@
+{
+  "id": 1360286399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.3,60.01667,9.3,60.01667",
+    "geom:latitude":60.01667,
+    "geom:longitude":9.3,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"632.0",
+    "gn:asciiname":"Traen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3134089,
+    "gn:latitude":60.01667,
+    "gn:longitude":9.3,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tr\u00e5en",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Traaen",
+        "Tr\u00e5en"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296823,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3134089
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6bf4732449e6066a12f72c29b20c9602",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296823,
+            "locality_id":1360286399,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1360286399,
+    "wof:lastmodified":1537675691,
+    "wof:name":"Traen",
+    "wof:parent_id":1159296823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.3,
+    60.01667,
+    9.3,
+    60.01667
+],
+  "geometry": {"coordinates":[9.3,60.01667],"type":"Point"}
+}

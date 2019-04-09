@@ -1,0 +1,82 @@
+{
+  "id": 1125914683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.963841,63.202726,7.963841,63.202726",
+    "geom:latitude":63.202726,
+    "geom:longitude":7.963841,
+    "gn:gn_country":"NO",
+    "iso:country":"NO",
+    "lbl:latitude":63.202726,
+    "lbl:longitude":7.963841,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:name":"Tustna",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"M\u00f8re og Romsdal Fylke",
+    "qs_pg:photos":11,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":11,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":60193,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":22659896,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"M\u00f8re og Romsdal Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297491,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22659896,
+        "qs_pg:id":60193
+    },
+    "wof:country":"NO",
+    "wof:created":1497296275,
+    "wof:geomhash":"f986a4122155695e5c2011b3fe4e01d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297491,
+            "locality_id":1125914683,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1125914683,
+    "wof:lastmodified":1529700097,
+    "wof:name":"Tustna",
+    "wof:parent_id":1159297491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.963841,
+    63.202726,
+    7.963841,
+    63.202726
+],
+  "geometry": {"coordinates":[7.963841,63.202726],"type":"Point"}
+}

@@ -1,0 +1,113 @@
+{
+  "id": 1125955221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.064479,62.339138,8.064479,62.339138",
+    "geom:latitude":62.339138,
+    "geom:longitude":8.064479,
+    "gn:gn_country":null,
+    "iso:country":"NO",
+    "lbl:latitude":62.339138,
+    "lbl:longitude":8.064479,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Verma"
+    ],
+    "name:dut_x_preferred":[
+        "Verma"
+    ],
+    "name:eng_x_preferred":[
+        "Verma"
+    ],
+    "name:fre_x_preferred":[
+        "Verma"
+    ],
+    "name:ger_x_preferred":[
+        "Verma"
+    ],
+    "name:jav_x_preferred":[
+        "Verma"
+    ],
+    "name:may_x_preferred":[
+        "Verma"
+    ],
+    "name:nno_x_preferred":[
+        "Verma"
+    ],
+    "name:nob_x_preferred":[
+        "Verma"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0631\u0645\u0627\u060c \u0645\u0631 \u0627\u0648\u0632 \u0631\u0645\u0633\u062f\u0644"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Verma",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"M\u00f8re og Romsdal Fylke",
+    "qs_pg:photos":177,
+    "qs_pg:photos_1k":36,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":177,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":405759,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":865669,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"M\u00f8re og Romsdal Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297421,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":865669,
+        "qs_pg:id":405759,
+        "wd:id":"Q7921509"
+    },
+    "wof:country":"NO",
+    "wof:created":1497297598,
+    "wof:geomhash":"dfb023d95fe988ce43d61dd5f808428d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297421,
+            "locality_id":1125955221,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1125955221,
+    "wof:lastmodified":1529700097,
+    "wof:name":"Verma",
+    "wof:parent_id":1159297421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.064479,
+    62.339138,
+    8.064479,
+    62.339138
+],
+  "geometry": {"coordinates":[8.064479,62.339138],"type":"Point"}
+}

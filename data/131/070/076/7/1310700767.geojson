@@ -1,0 +1,80 @@
+{
+  "id": 1310700767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.80359,71.08751,24.80359,71.08751",
+    "geom:latitude":71.08751,
+    "geom:longitude":24.80359,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2018.0",
+    "gn:asciiname":"Svartvika",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":777216,
+    "gn:latitude":71.08751,
+    "gn:longitude":24.80359,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Svartvika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Svartvika"
+    ],
+    "name:nor_x_variant":[
+        "Svartvik"
+    ],
+    "name:und_x_variant":[
+        "Sortvik",
+        "Svartvik i Finnmark",
+        "Svartvik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297565,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":777216
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"079dac86992eea4a2d6a96b30b0960ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297565,
+            "locality_id":1310700767,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1310700767,
+    "wof:lastmodified":1537675641,
+    "wof:name":"Svartvika",
+    "wof:parent_id":1159297565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.80359,
+    71.08751,
+    24.80359,
+    71.08751
+],
+  "geometry": {"coordinates":[24.80359,71.08750999999999],"type":"Point"}
+}

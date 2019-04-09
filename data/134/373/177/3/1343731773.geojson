@@ -1,0 +1,78 @@
+{
+  "id": 1343731773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.56884,62.61574,9.56884,62.61574",
+    "geom:latitude":62.61574,
+    "geom:longitude":9.56884,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5021.0",
+    "gn:asciiname":"Vognillan",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3131467,
+    "gn:latitude":62.61574,
+    "gn:longitude":9.56884,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Vognillan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Vognillan"
+    ],
+    "name:nor_x_variant":[
+        "Vognill"
+    ],
+    "name:und_x_variant":[
+        "Vognil",
+        "Vognill"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297021,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3131467,
+        "wk:page":"Vognillan"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1ca8dcb9b55241319de9c9c7955e32f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297021,
+            "locality_id":1343731773,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1343731773,
+    "wof:lastmodified":1537675674,
+    "wof:name":"Vognillan",
+    "wof:parent_id":1159297021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.56884,
+    62.61574,
+    9.56884,
+    62.61574
+],
+  "geometry": {"coordinates":[9.56884,62.61574],"type":"Point"}
+}

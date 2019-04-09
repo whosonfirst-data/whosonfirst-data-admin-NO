@@ -1,0 +1,65 @@
+{
+  "id": 1209277655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.95878,69.04671,17.95878,69.04671",
+    "geom:latitude":69.04671,
+    "geom:longitude":17.95878,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1925.0",
+    "gn:asciiname":"Gumpedalen",
+    "gn:country_code":"NO",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536577,
+    "gn:latitude":69.04671,
+    "gn:longitude":17.95878,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Gumpedalen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Gumpedalen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536577
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b9a3b36c5fc06fd53ee7c3677b480036",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209277655
+        }
+    ],
+    "wof:id":1209277655,
+    "wof:lastmodified":1537675975,
+    "wof:name":"Gumpedalen",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.95877999999999,
+    69.04671,
+    17.95877999999999,
+    69.04671
+],
+  "geometry": {"coordinates":[17.95877999999999,69.04671],"type":"Point"}
+}

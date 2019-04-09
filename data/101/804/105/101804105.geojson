@@ -1,0 +1,115 @@
+{
+  "id": 101804105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000166,
+    "geom:area_square_m":944284.656757,
+    "geom:bbox":"7.77613804643,62.5761073775,7.82259938658,62.5843270295",
+    "geom:latitude":62.580081,
+    "geom:longitude":7.795219,
+    "iso:country":"NO",
+    "lbl:latitude":62.580694,
+    "lbl:longitude":7.793282,
+    "mps:latitude":62.580694,
+    "mps:longitude":7.793282,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Isfjorden"
+    ],
+    "name:dut_x_preferred":[
+        "Isfjorden"
+    ],
+    "name:eng_x_preferred":[
+        "Isfjorden"
+    ],
+    "name:fre_x_preferred":[
+        "Isfjorden"
+    ],
+    "name:jav_x_preferred":[
+        "Isfjorden"
+    ],
+    "name:may_x_preferred":[
+        "Isfjorden"
+    ],
+    "name:nld_x_preferred":[
+        "Isfjord"
+    ],
+    "name:nno_x_preferred":[
+        "Isfjorden"
+    ],
+    "name:nob_x_preferred":[
+        "Isfjorden"
+    ],
+    "name:nor_x_preferred":[
+        "Isfjorden"
+    ],
+    "name:rum_x_preferred":[
+        "Isfjorden"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0441\u0444\u044c\u043e\u0440\u0434\u0435\u043d"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*M\u00f8re og Romsdal",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"Rauma",
+    "qs:la_lc":"*NO1539",
+    "qs:level":"locality",
+    "qs:loc":"Isfjorden",
+    "qs:loc_alt":"Isfjorden",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":78,
+    "wof:belongsto":[
+        102191581,
+        1159297421,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9403892,
+        "gp:id":860304,
+        "qs:id":1089822,
+        "qs_pg:id":1089822,
+        "wd:id":"Q3273458"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"907b88721d25e27b33ad36645b0c1164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297421,
+            "locality_id":101804105,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":101804105,
+    "wof:lastmodified":1529700089,
+    "wof:name":"Isfjorden",
+    "wof:parent_id":1159297421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.77613804642709,
+    62.57610737749326,
+    7.82259938658007,
+    62.58432702952956
+],
+  "geometry": {"coordinates":[[[7.79510609288934,62.58432702952956],[7.79517120514004,62.5834263062626],[7.80291590358098,62.58353910087089],[7.80317539540317,62.5799361980479],[7.82253509525969,62.58021641166232],[7.82259938658007,62.5793156779701],[7.81485569444385,62.5792038937505],[7.81492020968426,62.57830316428277],[7.79943344388136,62.57807841324723],[7.79949841124176,62.57717769174735],[7.79175533792323,62.57706472497949],[7.79182052911131,62.57616400774219],[7.78794912697663,62.57610737749326],[7.78781851198028,62.57790880873387],[7.77620370289424,62.57773831174842],[7.77613804642709,62.57863902249744],[7.78000974988663,62.57869595587511],[7.77987865190596,62.58049738270324],[7.78181462290195,62.58052581408924],[7.78168362135739,62.58232724487829],[7.78555580190124,62.58238403703524],[7.78549040864954,62.58328475509092],[7.7912988763178,62.58336976018171],[7.79123364989925,62.58427048157426],[7.79510609288934,62.58432702952956]]],"type":"Polygon"}
+}

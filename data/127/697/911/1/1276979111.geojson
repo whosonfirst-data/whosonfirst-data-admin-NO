@@ -1,0 +1,81 @@
+{
+  "id": 1276979111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.02715,70.26276,25.02715,70.26276",
+    "geom:latitude":70.26276,
+    "geom:longitude":25.02715,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2020.0",
+    "gn:asciiname":"Goarahat",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":776838,
+    "gn:latitude":70.26276,
+    "gn:longitude":25.02715,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Goarahat",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fkv_x_preferred":[
+        "Kuoratakka"
+    ],
+    "name:nor_x_preferred":[
+        "G\u00e5radak"
+    ],
+    "name:sme_x_preferred":[
+        "Goarahat"
+    ],
+    "name:und_x_variant":[
+        "Ytre Gaaradak",
+        "Ytre G\u00e5radak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297563,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":776838
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e3bb5488841b4bc2bb2dfba8cf78255e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297563,
+            "locality_id":1276979111,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1276979111,
+    "wof:lastmodified":1537675638,
+    "wof:name":"Goarahat",
+    "wof:parent_id":1159297563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.02715,
+    70.26276,
+    25.02715,
+    70.26276
+],
+  "geometry": {"coordinates":[25.02715,70.26276],"type":"Point"}
+}

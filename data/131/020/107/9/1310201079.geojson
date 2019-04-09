@@ -1,0 +1,66 @@
+{
+  "id": 1310201079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.63333,68.31667,15.63333,68.31667",
+    "geom:latitude":68.31667,
+    "geom:longitude":15.63333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1851.0",
+    "gn:asciiname":"Offersoy",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3143798,
+    "gn:latitude":68.31667,
+    "gn:longitude":15.63333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Offers\u00f8y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297361,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3143798
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1b3039cbd56c27861197d86fc07c0684",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297361,
+            "locality_id":1310201079,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1310201079,
+    "wof:lastmodified":1536857423,
+    "wof:name":"Offersoy",
+    "wof:parent_id":1159297361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.63333,
+    68.31667,
+    15.63333,
+    68.31667
+],
+  "geometry": {"coordinates":[15.63333,68.31667],"type":"Point"}
+}

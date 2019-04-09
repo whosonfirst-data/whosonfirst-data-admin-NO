@@ -1,0 +1,118 @@
+{
+  "id": 1125993335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.26667,60.18333,11.26667,60.18333",
+    "geom:latitude":60.18333,
+    "geom:longitude":11.26667,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":853,
+    "gn:population":853,
+    "iso:country":"NO",
+    "lbl:latitude":60.18333,
+    "lbl:longitude":11.26667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Nordkisa"
+    ],
+    "name:eng_x_preferred":[
+        "Nordkisa"
+    ],
+    "name:fre_x_preferred":[
+        "Nordkisa"
+    ],
+    "name:may_x_preferred":[
+        "Nordkisa"
+    ],
+    "name:nno_x_preferred":[
+        "Nordkisa"
+    ],
+    "name:nob_x_preferred":[
+        "Nordkisa"
+    ],
+    "name:rum_x_preferred":[
+        "Nordkisa"
+    ],
+    "name:swe_x_preferred":[
+        "Nordkisa"
+    ],
+    "name:unk_x_variant":[
+        "Nordkisa"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3144312,
+    "qs_pg:gn_pop":853,
+    "qs_pg:name":"Nordlia",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Oppland Fylke",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":14,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":999016,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":20100289,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Oppland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297621,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3144312,
+        "gp:id":20100289,
+        "qs_pg:id":999016,
+        "wd:id":"Q2132309"
+    },
+    "wof:country":"NO",
+    "wof:created":1497299169,
+    "wof:geomhash":"5fc46be0e24a31c0c1cb63c1c90adec6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297621,
+            "locality_id":1125993335,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1125993335,
+    "wof:lastmodified":1529699778,
+    "wof:name":"Nordlia",
+    "wof:parent_id":1159297621,
+    "wof:placetype":"locality",
+    "wof:population":853,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.26667,
+    60.18333,
+    11.26667,
+    60.18333
+],
+  "geometry": {"coordinates":[11.26667,60.18333],"type":"Point"}
+}

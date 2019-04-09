@@ -1,0 +1,71 @@
+{
+  "id": 1243146709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.40496,59.15806,10.40496,59.15806",
+    "geom:latitude":59.15806,
+    "geom:longitude":10.40496,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"729",
+    "gn:asciiname":"Krakereronningen",
+    "gn:country_code":"NO",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404165,
+    "gn:latitude":59.15806,
+    "gn:longitude":10.40496,
+    "gn:modification_date":"2018-05-11",
+    "gn:name":"Kr\u00e5kerer\u00f8nningen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Kr\u00e5kerer\u00f8nningen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297071,
+        85633341,
+        85687073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404165
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1514311bb0c22ea8527fd2b875918676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297071,
+            "locality_id":1243146709,
+            "region_id":85687073
+        }
+    ],
+    "wof:id":1243146709,
+    "wof:lastmodified":1537675920,
+    "wof:name":"Krakereronningen",
+    "wof:parent_id":1159297071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.40496,
+    59.15806,
+    10.40496,
+    59.15806
+],
+  "geometry": {"coordinates":[10.40496,59.15806],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1344161611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8563,70.06199,29.8563,70.06199",
+    "geom:latitude":70.06199,
+    "geom:longitude":29.8563,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2003.0",
+    "gn:asciiname":"Vaeret",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":777065,
+    "gn:latitude":70.06199,
+    "gn:longitude":29.8563,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"V\u00e6ret",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ikkuk",
+        "V\u00e6rr\u00e2",
+        "V\u00e6ret"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297387,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":777065
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f31cab6e922d6c261b8f9dbff33a9220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297387,
+            "locality_id":1344161611,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1344161611,
+    "wof:lastmodified":1537675639,
+    "wof:name":"Vaeret",
+    "wof:parent_id":1159297387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8563,
+    70.06199000000001,
+    29.8563,
+    70.06199000000001
+],
+  "geometry": {"coordinates":[29.8563,70.06199000000001],"type":"Point"}
+}

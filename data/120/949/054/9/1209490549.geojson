@@ -1,0 +1,62 @@
+{
+  "id": 1209490549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.45,58.28333,7.45,58.28333",
+    "geom:latitude":58.28333,
+    "geom:longitude":7.45,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1021.0",
+    "gn:asciiname":"Tisland",
+    "gn:country_code":"NO",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3134583,
+    "gn:latitude":58.28333,
+    "gn:longitude":7.45,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Tisland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3134583
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a20cb16859f8f4ffeeb0dd98aeacc4b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209490549
+        }
+    ],
+    "wof:id":1209490549,
+    "wof:lastmodified":1536285499,
+    "wof:name":"Tisland",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.45,
+    58.28333000000001,
+    7.45,
+    58.28333000000001
+],
+  "geometry": {"coordinates":[7.45,58.28333000000001],"type":"Point"}
+}

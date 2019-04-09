@@ -1,0 +1,80 @@
+{
+  "id": 1326634797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.57437,70.15659,28.57437,70.15659",
+    "geom:latitude":70.15659,
+    "geom:longitude":28.57437,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2027.0",
+    "gn:asciiname":"Njiggu",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":776964,
+    "gn:latitude":70.15659,
+    "gn:longitude":28.57437,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Nji\u0111gu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Vesterelv"
+    ],
+    "name:sme_x_preferred":[
+        "Nji\u0111gu"
+    ],
+    "name:und_x_variant":[
+        "Vesterelven",
+        "Vesterelv",
+        "Vesterelva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297285,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":776964
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4075517f7fe84719398665448c4091d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297285,
+            "locality_id":1326634797,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1326634797,
+    "wof:lastmodified":1537675638,
+    "wof:name":"Njiggu",
+    "wof:parent_id":1159297285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.57437,
+    70.15659000000001,
+    28.57437,
+    70.15659000000001
+],
+  "geometry": {"coordinates":[28.57437,70.15659000000001],"type":"Point"}
+}

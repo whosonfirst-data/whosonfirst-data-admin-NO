@@ -1,0 +1,71 @@
+{
+  "id": 1276725577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.43174,59.40552,8.43174,59.40552",
+    "geom:latitude":59.40552,
+    "geom:longitude":8.43174,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"829.0",
+    "gn:asciiname":"Tveitgrendi",
+    "gn:country_code":"NO",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537683,
+    "gn:latitude":59.40552,
+    "gn:longitude":8.43174,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Tveitgrendi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Tveitgrendi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297233,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537683
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"83390a99f7128d8444e8f8080636b1cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297233,
+            "locality_id":1276725577,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1276725577,
+    "wof:lastmodified":1537676024,
+    "wof:name":"Tveitgrendi",
+    "wof:parent_id":1159297233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.43174,
+    59.40552,
+    8.43174,
+    59.40552
+],
+  "geometry": {"coordinates":[8.43174,59.40552],"type":"Point"}
+}

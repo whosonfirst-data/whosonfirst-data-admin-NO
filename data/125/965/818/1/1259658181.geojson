@@ -1,0 +1,73 @@
+{
+  "id": 1259658181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.45194,59.21056,10.45194,59.21056",
+    "geom:latitude":59.21056,
+    "geom:longitude":10.45194,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"729.0",
+    "gn:asciiname":"Knarrberg",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3229589,
+    "gn:latitude":59.21056,
+    "gn:longitude":10.45194,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Knarrberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Knarberg",
+        "Knarrberg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297071,
+        85633341,
+        85687073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3229589
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"767014fa3a5d9977bd3a4926dfb5f794",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297071,
+            "locality_id":1259658181,
+            "region_id":85687073
+        }
+    ],
+    "wof:id":1259658181,
+    "wof:lastmodified":1537675899,
+    "wof:name":"Knarrberg",
+    "wof:parent_id":1159297071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.45194,
+    59.21056,
+    10.45194,
+    59.21056
+],
+  "geometry": {"coordinates":[10.45194,59.21056],"type":"Point"}
+}

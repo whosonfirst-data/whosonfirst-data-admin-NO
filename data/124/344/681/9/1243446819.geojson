@@ -1,0 +1,71 @@
+{
+  "id": 1243446819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.75011,62.29449,10.75011,62.29449",
+    "geom:latitude":62.29449,
+    "geom:longitude":10.75011,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"437.0",
+    "gn:asciiname":"Utby",
+    "gn:country_code":"NO",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536089,
+    "gn:latitude":62.29449,
+    "gn:longitude":10.75011,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Utby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Utby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297041,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536089
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2a37e4815fd97e6e5388a8794784f736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297041,
+            "locality_id":1243446819,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1243446819,
+    "wof:lastmodified":1537675954,
+    "wof:name":"Utby",
+    "wof:parent_id":1159297041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.75011,
+    62.29449,
+    10.75011,
+    62.29449
+],
+  "geometry": {"coordinates":[10.75011,62.29449],"type":"Point"}
+}

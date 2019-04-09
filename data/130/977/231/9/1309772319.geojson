@@ -1,0 +1,74 @@
+{
+  "id": 1309772319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.93508,69.98042,20.93508,69.98042",
+    "geom:latitude":69.98042,
+    "geom:longitude":20.93508,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1941.0",
+    "gn:asciiname":"Kobbepollen",
+    "gn:country_code":"NO",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536778,
+    "gn:latitude":69.98042,
+    "gn:longitude":20.93508,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Kobbepollen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Kobbepollen"
+    ],
+    "name:nor_x_variant":[
+        "Kappollen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297483,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536778
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3a85b9581815e0354e096e7e33c167cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297483,
+            "locality_id":1309772319,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1309772319,
+    "wof:lastmodified":1537675983,
+    "wof:name":"Kobbepollen",
+    "wof:parent_id":1159297483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.93508,
+    69.98042,
+    20.93508,
+    69.98042
+],
+  "geometry": {"coordinates":[20.93508,69.98042],"type":"Point"}
+}

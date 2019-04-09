@@ -1,0 +1,104 @@
+{
+  "id": 1125935449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.1475,58.66944,9.1475,58.66944",
+    "geom:latitude":58.66944,
+    "geom:longitude":9.1475,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":58.66944,
+    "lbl:longitude":9.1475,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Nipe"
+    ],
+    "name:eng_x_preferred":[
+        "Nipe"
+    ],
+    "name:fre_x_preferred":[
+        "Nipe"
+    ],
+    "name:jav_x_preferred":[
+        "Nipe"
+    ],
+    "name:may_x_preferred":[
+        "Nipe"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3144569,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Nipe",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Aust-Agder Fylke",
+    "qs_pg:photos":140,
+    "qs_pg:photos_1k":28,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":140,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":217364,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":862207,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Aust-Agder Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296923,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3144569,
+        "gp:id":862207,
+        "qs_pg:id":217364,
+        "wd:id":"Q7039431"
+    },
+    "wof:country":"NO",
+    "wof:created":1497296952,
+    "wof:geomhash":"5cddd23dfe17da766cab09753f822cda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296923,
+            "locality_id":1125935449,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1125935449,
+    "wof:lastmodified":1529699816,
+    "wof:name":"Nipe",
+    "wof:parent_id":1159296923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.1475,
+    58.66944,
+    9.1475,
+    58.66944
+],
+  "geometry": {"coordinates":[9.1475,58.66944],"type":"Point"}
+}

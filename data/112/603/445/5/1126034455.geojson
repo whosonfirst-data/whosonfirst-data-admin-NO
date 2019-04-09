@@ -1,0 +1,124 @@
+{
+  "id": 1126034455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01667,69.0,15.01667,69.0",
+    "geom:latitude":69.0,
+    "geom:longitude":15.01667,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":6,
+    "iso:country":"NO",
+    "lbl:latitude":69.0,
+    "lbl:longitude":15.01667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Nyksund"
+    ],
+    "name:eng_x_preferred":[
+        "Nyksund"
+    ],
+    "name:fre_x_preferred":[
+        "Nyksund"
+    ],
+    "name:ger_x_preferred":[
+        "Nyksund"
+    ],
+    "name:ita_x_preferred":[
+        "Nyksund"
+    ],
+    "name:jav_x_preferred":[
+        "Nyksund"
+    ],
+    "name:may_x_preferred":[
+        "Nyksund"
+    ],
+    "name:nno_x_preferred":[
+        "Nyksund"
+    ],
+    "name:nob_x_preferred":[
+        "Nyksund"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u043a\u0441\u0443\u043d\u0434"
+    ],
+    "name:unk_x_variant":[
+        "Nykksund"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3143956,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Nyksund",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nordland Fylke",
+    "qs_pg:photos":501,
+    "qs_pg:photos_1k":102,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":501,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1035533,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":862376,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Nordland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159296769,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3143956,
+        "gp:id":862376,
+        "qs_pg:id":1035533,
+        "wd:id":"Q1011569"
+    },
+    "wof:country":"NO",
+    "wof:created":1497301693,
+    "wof:geomhash":"6a7f932cf326a994e2dd620ba82da6ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296769,
+            "locality_id":1126034455,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1126034455,
+    "wof:lastmodified":1529700167,
+    "wof:name":"Nyksund",
+    "wof:parent_id":1159296769,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01667,
+    69.0,
+    15.01667,
+    69.0
+],
+  "geometry": {"coordinates":[15.01667,69.0],"type":"Point"}
+}

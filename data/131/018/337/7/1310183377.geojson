@@ -1,0 +1,69 @@
+{
+  "id": 1310183377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.98141,61.08802,8.98141,61.08802",
+    "geom:latitude":61.08802,
+    "geom:longitude":8.98141,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"543.0",
+    "gn:asciiname":"Slidre",
+    "gn:country_code":"NO",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":7626336,
+    "gn:latitude":61.08802,
+    "gn:longitude":8.98141,
+    "gn:modification_date":"2010-12-07",
+    "gn:name":"Slidre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297129,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626336,
+        "wk:page":"Slidre"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d1a2daed97bc535133b65fa189b5a39c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297129,
+            "locality_id":1310183377,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1310183377,
+    "wof:lastmodified":1537570112,
+    "wof:name":"Slidre",
+    "wof:parent_id":1159297129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.98141,
+    61.08801999999999,
+    8.98141,
+    61.08801999999999
+],
+  "geometry": {"coordinates":[8.98141,61.08801999999999],"type":"Point"}
+}

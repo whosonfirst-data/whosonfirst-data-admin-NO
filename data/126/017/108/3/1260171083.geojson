@@ -1,0 +1,66 @@
+{
+  "id": 1260171083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.35,66.75,13.35,66.75",
+    "geom:latitude":66.75,
+    "geom:longitude":13.35,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1837.0",
+    "gn:asciiname":"Herstad",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3152839,
+    "gn:latitude":66.75,
+    "gn:longitude":13.35,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Herstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297093,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3152839
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"abd17420e6483646ffa7876f46f8a1a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297093,
+            "locality_id":1260171083,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1260171083,
+    "wof:lastmodified":1536863633,
+    "wof:name":"Herstad",
+    "wof:parent_id":1159297093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.35,
+    66.75,
+    13.35,
+    66.75
+],
+  "geometry": {"coordinates":[13.35,66.75],"type":"Point"}
+}

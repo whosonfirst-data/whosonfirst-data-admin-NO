@@ -1,0 +1,68 @@
+{
+  "id": 1260163875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.67316,62.02861,6.67316,62.02861",
+    "geom:latitude":62.02861,
+    "geom:longitude":6.67316,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1444.0",
+    "gn:asciiname":"Honndalssaetra",
+    "gn:country_code":"NO",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6619595,
+    "gn:latitude":62.02861,
+    "gn:longitude":6.67316,
+    "gn:modification_date":"2010-10-15",
+    "gn:name":"Honndalss\u00e6tra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297031,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6619595
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c2c6ab5a71ae0e00b9b274d38cc963b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297031,
+            "locality_id":1260163875,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1260163875,
+    "wof:lastmodified":1536873943,
+    "wof:name":"Honndalssaetra",
+    "wof:parent_id":1159297031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.67316,
+    62.02861,
+    6.67316,
+    62.02861
+],
+  "geometry": {"coordinates":[6.67316,62.02861],"type":"Point"}
+}

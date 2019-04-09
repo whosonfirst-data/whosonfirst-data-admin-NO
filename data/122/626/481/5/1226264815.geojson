@@ -1,0 +1,68 @@
+{
+  "id": 1226264815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.03767,60.57946,12.03767,60.57946",
+    "geom:latitude":60.57946,
+    "geom:longitude":12.03767,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"425.0",
+    "gn:asciiname":"Kvesetmoen",
+    "gn:country_code":"NO",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3148817,
+    "gn:latitude":60.57946,
+    "gn:longitude":12.03767,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Kvesetmoen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297037,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3148817
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"be8fce5055371441861f775227b606c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297037,
+            "locality_id":1226264815,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1226264815,
+    "wof:lastmodified":1536906408,
+    "wof:name":"Kvesetmoen",
+    "wof:parent_id":1159297037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.03767,
+    60.57946,
+    12.03767,
+    60.57946
+],
+  "geometry": {"coordinates":[12.03767,60.57946],"type":"Point"}
+}

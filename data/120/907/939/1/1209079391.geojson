@@ -1,0 +1,67 @@
+{
+  "id": 1209079391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.31667,61.55,5.31667,61.55",
+    "geom:latitude":61.55,
+    "geom:longitude":5.31667,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1401.0",
+    "gn:asciiname":"Store Hoydal",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3136430,
+    "gn:latitude":61.55,
+    "gn:longitude":5.31667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Store H\u00f8ydal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u00f6ydal",
+        "Store H\u00f8ydal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3136430
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"37f15d8d62ebbe708bbaae5f850ab1bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209079391
+        }
+    ],
+    "wof:id":1209079391,
+    "wof:lastmodified":1537675704,
+    "wof:name":"Store Hoydal",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.31667,
+    61.55,
+    5.31667,
+    61.55
+],
+  "geometry": {"coordinates":[5.31667,61.55],"type":"Point"}
+}

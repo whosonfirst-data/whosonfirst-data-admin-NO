@@ -1,0 +1,70 @@
+{
+  "id": 1292895627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.34776,68.0353,13.34776,68.0353",
+    "geom:latitude":68.0353,
+    "geom:longitude":13.34776,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1859.0",
+    "gn:asciiname":"Nusfjord",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3144041,
+    "gn:latitude":68.0353,
+    "gn:longitude":13.34776,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Nusfjord",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nussfjord"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297611,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3144041
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5e38b4478e0e0289663851550ffffeb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297611,
+            "locality_id":1292895627,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1292895627,
+    "wof:lastmodified":1537675755,
+    "wof:name":"Nusfjord",
+    "wof:parent_id":1159297611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.34776,
+    68.0353,
+    13.34776,
+    68.0353
+],
+  "geometry": {"coordinates":[13.34776,68.03530000000001],"type":"Point"}
+}

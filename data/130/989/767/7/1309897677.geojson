@@ -1,0 +1,68 @@
+{
+  "id": 1309897677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.13639,60.58472,5.13639,60.58472",
+    "geom:latitude":60.58472,
+    "geom:longitude":5.13639,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1256.0",
+    "gn:asciiname":"Adland",
+    "gn:country_code":"NO",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3163569,
+    "gn:latitude":60.58472,
+    "gn:longitude":5.13639,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"\u00c5dland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297633,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3163569
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"fc70239bf98890d864a721099bffe4cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297633,
+            "locality_id":1309897677,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1309897677,
+    "wof:lastmodified":1536798745,
+    "wof:name":"Adland",
+    "wof:parent_id":1159297633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.13639,
+    60.58472,
+    5.13639,
+    60.58472
+],
+  "geometry": {"coordinates":[5.13639,60.58472],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276425439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.05,66.31667,14.05,66.31667",
+    "geom:latitude":66.31667,
+    "geom:longitude":14.05,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1833.0",
+    "gn:asciiname":"Almlia",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3163331,
+    "gn:latitude":66.31667,
+    "gn:longitude":14.05,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Almlia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Almlien",
+        "Almlia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296963,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3163331
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"42eeca1e323c2bb643a07605ab5a8399",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296963,
+            "locality_id":1276425439,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1276425439,
+    "wof:lastmodified":1537675893,
+    "wof:name":"Almlia",
+    "wof:parent_id":1159296963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.05,
+    66.31667,
+    14.05,
+    66.31667
+],
+  "geometry": {"coordinates":[14.05,66.31667],"type":"Point"}
+}

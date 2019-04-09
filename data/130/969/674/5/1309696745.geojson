@@ -1,0 +1,66 @@
+{
+  "id": 1309696745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.98333,67.43333,13.98333,67.43333",
+    "geom:latitude":67.43333,
+    "geom:longitude":13.98333,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1804.0",
+    "gn:asciiname":"Kvalvik",
+    "gn:country_code":"NO",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3149019,
+    "gn:latitude":67.43333,
+    "gn:longitude":13.98333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Kvalvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297465,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3149019
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8db21f0923abf8d180550b988e9c0af6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297465,
+            "locality_id":1309696745,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1309696745,
+    "wof:lastmodified":1537085198,
+    "wof:name":"Kvalvik",
+    "wof:parent_id":1159297465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.98333,
+    67.43333,
+    13.98333,
+    67.43333
+],
+  "geometry": {"coordinates":[13.98333,67.43333],"type":"Point"}
+}

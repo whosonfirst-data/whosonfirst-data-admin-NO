@@ -1,0 +1,103 @@
+{
+  "id": 1125823191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.13333,62.58333,6.13333,62.58333",
+    "geom:latitude":62.58333,
+    "geom:longitude":6.13333,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":708,
+    "gn:population":708,
+    "iso:country":"NO",
+    "lbl:latitude":62.58333,
+    "lbl:longitude":6.13333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Roald"
+    ],
+    "name:eng_x_preferred":[
+        "Roald"
+    ],
+    "name:fre_x_preferred":[
+        "Roald"
+    ],
+    "name:jav_x_preferred":[
+        "Roald"
+    ],
+    "name:may_x_preferred":[
+        "Roald"
+    ],
+    "name:nno_x_preferred":[
+        "Roald i Giske"
+    ],
+    "name:nob_x_preferred":[
+        "Roald"
+    ],
+    "name:rum_x_preferred":[
+        "Roald"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3141667,
+    "qs_pg:gn_pop":708,
+    "qs_pg:name":"Roald",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":581069,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297399,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141667,
+        "qs_pg:id":581069,
+        "wd:id":"Q1770185"
+    },
+    "wof:country":"NO",
+    "wof:created":1497292158,
+    "wof:geomhash":"cb2644fc26b5a063c740fded3a84dc52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297399,
+            "locality_id":1125823191,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1125823191,
+    "wof:lastmodified":1529700095,
+    "wof:name":"Roald",
+    "wof:parent_id":1159297399,
+    "wof:placetype":"locality",
+    "wof:population":708,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.13333,
+    62.58333,
+    6.13333,
+    62.58333
+],
+  "geometry": {"coordinates":[6.13333,62.58333],"type":"Point"}
+}

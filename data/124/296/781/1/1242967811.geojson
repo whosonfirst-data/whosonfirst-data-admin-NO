@@ -1,0 +1,68 @@
+{
+  "id": 1242967811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.41667,60.06667,5.41667,60.06667",
+    "geom:latitude":60.06667,
+    "geom:longitude":5.41667,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1223.0",
+    "gn:asciiname":"Hope",
+    "gn:country_code":"NO",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3151891,
+    "gn:latitude":60.06667,
+    "gn:longitude":5.41667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Hope",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297223,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3151891
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"783c8e07bb9a907e621a725c4fb96701",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297223,
+            "locality_id":1242967811,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1242967811,
+    "wof:lastmodified":1536997904,
+    "wof:name":"Hope",
+    "wof:parent_id":1159297223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.41667,
+    60.06667,
+    5.41667,
+    60.06667
+],
+  "geometry": {"coordinates":[5.41667,60.06667],"type":"Point"}
+}

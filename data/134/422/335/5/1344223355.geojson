@@ -1,0 +1,74 @@
+{
+  "id": 1344223355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.84546,69.62128,19.84546,69.62128",
+    "geom:latitude":69.62128,
+    "geom:longitude":19.84546,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1938.0",
+    "gn:asciiname":"Bentsnes",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3160152,
+    "gn:latitude":69.62128,
+    "gn:longitude":19.84546,
+    "gn:modification_date":"2014-05-29",
+    "gn:name":"Bentsnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Breinsnes",
+        "Bentsnes",
+        "Beinsnes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297359,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160152
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f8f48c943503723689212492484bcb65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297359,
+            "locality_id":1344223355,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1344223355,
+    "wof:lastmodified":1537675866,
+    "wof:name":"Bentsnes",
+    "wof:parent_id":1159297359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.84546,
+    69.62128,
+    19.84546,
+    69.62128
+],
+  "geometry": {"coordinates":[19.84546,69.62128],"type":"Point"}
+}

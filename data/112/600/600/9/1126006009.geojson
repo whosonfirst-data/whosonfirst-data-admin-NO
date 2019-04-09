@@ -1,0 +1,109 @@
+{
+  "id": 1126006009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.4,60.93333,9.4,60.93333",
+    "geom:latitude":60.93333,
+    "geom:longitude":9.4,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":702,
+    "gn:population":702,
+    "iso:country":"NO",
+    "lbl:latitude":60.93333,
+    "lbl:longitude":9.4,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Aurdal"
+    ],
+    "name:eng_x_preferred":[
+        "Aurdal"
+    ],
+    "name:fre_x_preferred":[
+        "Aurdal"
+    ],
+    "name:ger_x_preferred":[
+        "Aurdal"
+    ],
+    "name:jav_x_preferred":[
+        "Aurdal"
+    ],
+    "name:may_x_preferred":[
+        "Aurdal"
+    ],
+    "name:nno_x_preferred":[
+        "Aurdal"
+    ],
+    "name:nob_x_preferred":[
+        "Aurdal"
+    ],
+    "name:rum_x_preferred":[
+        "Aurdal"
+    ],
+    "name:unk_x_variant":[
+        "Aurdalsbyen"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3162418,
+    "qs_pg:gn_pop":702,
+    "qs_pg:name":"Aurdal",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":244587,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297391,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3162418,
+        "qs_pg:id":244587,
+        "wd:id":"Q1773539"
+    },
+    "wof:country":"NO",
+    "wof:created":1497299959,
+    "wof:geomhash":"13477f4138f3723d31e1dfe360698638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297391,
+            "locality_id":1126006009,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1126006009,
+    "wof:lastmodified":1529700244,
+    "wof:name":"Aurdal",
+    "wof:parent_id":1159297391,
+    "wof:placetype":"locality",
+    "wof:population":702,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.4,
+    60.93333,
+    9.4,
+    60.93333
+],
+  "geometry": {"coordinates":[9.4,60.93333],"type":"Point"}
+}

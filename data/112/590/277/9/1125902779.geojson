@@ -1,0 +1,126 @@
+{
+  "id": 1125902779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.8,59.81667,6.8,59.81667",
+    "geom:latitude":59.81667,
+    "geom:longitude":6.8,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":357,
+    "gn:population":357,
+    "iso:country":"NO",
+    "lbl:latitude":59.81667,
+    "lbl:longitude":6.8,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "R\u00f8ldal"
+    ],
+    "name:dut_x_preferred":[
+        "R\u00f8ldal"
+    ],
+    "name:eng_x_preferred":[
+        "R\u00f8ldal"
+    ],
+    "name:fre_x_preferred":[
+        "R\u00f8ldal"
+    ],
+    "name:ger_x_preferred":[
+        "R\u00f8ldal"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05dc\u05d3\u05d0\u05dc"
+    ],
+    "name:jav_x_preferred":[
+        "R\u00f8ldal"
+    ],
+    "name:may_x_preferred":[
+        "R\u00f8ldal"
+    ],
+    "name:nno_x_preferred":[
+        "R\u00f8ldal"
+    ],
+    "name:nob_x_preferred":[
+        "R\u00f8ldal"
+    ],
+    "name:rum_x_preferred":[
+        "R\u00f8ldal"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3141482,
+    "qs_pg:gn_pop":357,
+    "qs_pg:name":"R\u00f8ldal",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Hordaland Fylke",
+    "qs_pg:photos":500,
+    "qs_pg:photos_1k":101,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":500,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":980287,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":863074,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Hordaland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297489,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141482,
+        "gp:id":863074,
+        "qs_pg:id":980287,
+        "wd:id":"Q141413"
+    },
+    "wof:country":"NO",
+    "wof:created":1497295875,
+    "wof:geomhash":"4d6a653bd44c9acc0cad90784a298a17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297489,
+            "locality_id":1125902779,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1125902779,
+    "wof:lastmodified":1529700054,
+    "wof:name":"R\u00f8ldal",
+    "wof:parent_id":1159297489,
+    "wof:placetype":"locality",
+    "wof:population":357,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.8,
+    59.81667,
+    6.8,
+    59.81667
+],
+  "geometry": {"coordinates":[6.8,59.81667],"type":"Point"}
+}

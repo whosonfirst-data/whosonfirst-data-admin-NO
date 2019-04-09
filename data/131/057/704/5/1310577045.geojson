@@ -1,0 +1,73 @@
+{
+  "id": 1310577045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.07688,69.054,17.07688,69.054",
+    "geom:latitude":69.054,
+    "geom:longitude":17.07688,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1927.0",
+    "gn:asciiname":"Stonglandshals",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3136628,
+    "gn:latitude":69.054,
+    "gn:longitude":17.07688,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Stonglandshals",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stanglandshals",
+        "Stonglandshalsen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297595,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3136628
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b5205d03ceb1dd13cdd3deaddbb2d345",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297595,
+            "locality_id":1310577045,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1310577045,
+    "wof:lastmodified":1537675705,
+    "wof:name":"Stonglandshals",
+    "wof:parent_id":1159297595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.07688,
+    69.054,
+    17.07688,
+    69.054
+],
+  "geometry": {"coordinates":[17.07688,69.054],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1310590923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.44056,68.63926,14.44056,68.63926",
+    "geom:latitude":68.63926,
+    "geom:longitude":14.44056,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1867.0",
+    "gn:asciiname":"Gimstad",
+    "gn:country_code":"NO",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3155817,
+    "gn:latitude":68.63926,
+    "gn:longitude":14.44056,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Gimstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297417,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3155817
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4528b764c9e925f7a982a52128c1865a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297417,
+            "locality_id":1310590923,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1310590923,
+    "wof:lastmodified":1536794028,
+    "wof:name":"Gimstad",
+    "wof:parent_id":1159297417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.44056,
+    68.63926,
+    14.44056,
+    68.63926
+],
+  "geometry": {"coordinates":[14.44056,68.63925999999999],"type":"Point"}
+}

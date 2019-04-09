@@ -1,0 +1,75 @@
+{
+  "id": 1310371571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.14694,69.02056,17.14694,69.02056",
+    "geom:latitude":69.02056,
+    "geom:longitude":17.14694,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1927.0",
+    "gn:asciiname":"Stangneset",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3137160,
+    "gn:latitude":69.02056,
+    "gn:longitude":17.14694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Stangneset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stangenes",
+        "Stangnes",
+        "Stongnes",
+        "Stangneset"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297595,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3137160
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"22c74b852307aefb6675d73f4ea73a59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297595,
+            "locality_id":1310371571,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1310371571,
+    "wof:lastmodified":1537675707,
+    "wof:name":"Stangneset",
+    "wof:parent_id":1159297595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.14694,
+    69.02056,
+    17.14694,
+    69.02056
+],
+  "geometry": {"coordinates":[17.14694,69.02056],"type":"Point"}
+}

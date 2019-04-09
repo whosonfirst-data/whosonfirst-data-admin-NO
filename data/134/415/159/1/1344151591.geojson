@@ -1,0 +1,78 @@
+{
+  "id": 1344151591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.30649,60.55619,5.30649,60.55619",
+    "geom:latitude":60.55619,
+    "geom:longitude":5.30649,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1263.0",
+    "gn:asciiname":"Gjervik",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3155662,
+    "gn:latitude":60.55619,
+    "gn:longitude":5.30649,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Gjervik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Gjervik"
+    ],
+    "name:nor_x_variant":[
+        "Gjerdviki"
+    ],
+    "name:und_x_variant":[
+        "Gjerdviki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296745,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3155662
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"352c1bda0a631571c7d6183b3d050ad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296745,
+            "locality_id":1344151591,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1344151591,
+    "wof:lastmodified":1537675834,
+    "wof:name":"Gjervik",
+    "wof:parent_id":1159296745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.30649,
+    60.55619,
+    5.30649,
+    60.55619
+],
+  "geometry": {"coordinates":[5.30649,60.55619],"type":"Point"}
+}

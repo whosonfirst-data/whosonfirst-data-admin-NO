@@ -1,0 +1,73 @@
+{
+  "id": 1293084889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.88333,63.55,11.88333,63.55",
+    "geom:latitude":63.55,
+    "geom:longitude":11.88333,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5034.0",
+    "gn:asciiname":"Brattbakken",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3160361,
+    "gn:latitude":63.55,
+    "gn:longitude":11.88333,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Brattbakken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bratbakken",
+        "Brattbakken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297383,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160361
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6e57b0481b70f42c3feffe671934d22f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297383,
+            "locality_id":1293084889,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1293084889,
+    "wof:lastmodified":1537675869,
+    "wof:name":"Brattbakken",
+    "wof:parent_id":1159297383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.88333,
+    63.55,
+    11.88333,
+    63.55
+],
+  "geometry": {"coordinates":[11.88333,63.55],"type":"Point"}
+}

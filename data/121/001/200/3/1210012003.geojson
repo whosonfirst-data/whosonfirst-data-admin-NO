@@ -1,0 +1,74 @@
+{
+  "id": 1210012003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.3247,62.42231,6.3247,62.42231",
+    "geom:latitude":62.42231,
+    "geom:longitude":6.3247,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1531.0",
+    "gn:asciiname":"Leirvag",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536061,
+    "gn:latitude":62.42231,
+    "gn:longitude":6.3247,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Leirv\u00e5g",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Leirv\u00e5g"
+    ],
+    "name:nor_x_variant":[
+        "Leirv\u00e5gen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296721,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536061
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"754c64e915c4e2ab07ac5e44f412b271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296721,
+            "locality_id":1210012003,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1210012003,
+    "wof:lastmodified":1537675953,
+    "wof:name":"Leirvag",
+    "wof:parent_id":1159296721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.3247,
+    62.42231,
+    6.3247,
+    62.42231
+],
+  "geometry": {"coordinates":[6.3247,62.42231],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260364935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.24692,58.05123,7.24692,58.05123",
+    "geom:latitude":58.05123,
+    "geom:longitude":7.24692,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1029.0",
+    "gn:asciiname":"Lonestranda",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3146980,
+    "gn:latitude":58.05123,
+    "gn:longitude":7.24692,
+    "gn:modification_date":"2014-05-29",
+    "gn:name":"Lonestranda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lonestranden",
+        "Lonestranda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297315,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3146980
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6c1897d2edc31d19cd679131110a03f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297315,
+            "locality_id":1260364935,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1260364935,
+    "wof:lastmodified":1537675774,
+    "wof:name":"Lonestranda",
+    "wof:parent_id":1159297315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.24692,
+    58.05123,
+    7.24692,
+    58.05123
+],
+  "geometry": {"coordinates":[7.24692,58.05123],"type":"Point"}
+}

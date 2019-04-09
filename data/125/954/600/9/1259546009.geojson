@@ -1,0 +1,68 @@
+{
+  "id": 1259546009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.5937,57.99075,7.5937,57.99075",
+    "geom:latitude":57.99075,
+    "geom:longitude":7.5937,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1002.0",
+    "gn:asciiname":"Landoy",
+    "gn:country_code":"NO",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3148469,
+    "gn:latitude":57.99075,
+    "gn:longitude":7.5937,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Land\u00f8y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297379,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3148469
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d1fb43f60fafe902a700a73dca589f9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297379,
+            "locality_id":1259546009,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1259546009,
+    "wof:lastmodified":1536769476,
+    "wof:name":"Landoy",
+    "wof:parent_id":1159297379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.5937,
+    57.99075,
+    7.5937,
+    57.99075
+],
+  "geometry": {"coordinates":[7.5937,57.99075],"type":"Point"}
+}

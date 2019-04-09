@@ -1,0 +1,74 @@
+{
+  "id": 1225943265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.92976,70.58587,25.92976,70.58587",
+    "geom:latitude":70.58587,
+    "geom:longitude":25.92976,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2020.0",
+    "gn:asciiname":"Midtre Kjaes",
+    "gn:country_code":"NO",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537630,
+    "gn:latitude":70.58587,
+    "gn:longitude":25.92976,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Midtre Kj\u00e6s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Midtre Kj\u00e6s"
+    ],
+    "name:nor_x_variant":[
+        "Styrnes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297563,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537630
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5b860f0b5274e27d1449dd0c246836d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297563,
+            "locality_id":1225943265,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1225943265,
+    "wof:lastmodified":1537676022,
+    "wof:name":"Midtre Kjaes",
+    "wof:parent_id":1159297563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.92976,
+    70.58587,
+    25.92976,
+    70.58587
+],
+  "geometry": {"coordinates":[25.92976,70.58587],"type":"Point"}
+}

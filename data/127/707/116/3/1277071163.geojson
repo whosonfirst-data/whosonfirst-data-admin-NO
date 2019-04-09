@@ -1,0 +1,71 @@
+{
+  "id": 1277071163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.04366,60.54175,6.04366,60.54175",
+    "geom:latitude":60.54175,
+    "geom:longitude":6.04366,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1251.0",
+    "gn:asciiname":"Fossheim",
+    "gn:country_code":"NO",
+    "gn:dem":694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536915,
+    "gn:latitude":60.54175,
+    "gn:longitude":6.04366,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Fossheim",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Fossheim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297437,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536915
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7936f91ee4670e9232f35f888d4fe02c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297437,
+            "locality_id":1277071163,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1277071163,
+    "wof:lastmodified":1537675988,
+    "wof:name":"Fossheim",
+    "wof:parent_id":1159297437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.04366,
+    60.54175,
+    6.04366,
+    60.54175
+],
+  "geometry": {"coordinates":[6.04366,60.54175],"type":"Point"}
+}

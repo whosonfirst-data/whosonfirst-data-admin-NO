@@ -1,0 +1,67 @@
+{
+  "id": 1209208795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.79694,64.89278,10.79694,64.89278",
+    "geom:latitude":64.89278,
+    "geom:longitude":10.79694,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5050.0",
+    "gn:asciiname":"Storsula",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3136013,
+    "gn:latitude":64.89278,
+    "gn:longitude":10.79694,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Storsula",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Storsulen",
+        "Storsula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3136013
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4f00e8a14bf9ba8ef64a8065818dfcfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209208795
+        }
+    ],
+    "wof:id":1209208795,
+    "wof:lastmodified":1537675702,
+    "wof:name":"Storsula",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.79694,
+    64.89278,
+    10.79694,
+    64.89278
+],
+  "geometry": {"coordinates":[10.79694,64.89278],"type":"Point"}
+}

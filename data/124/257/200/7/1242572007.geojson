@@ -1,0 +1,68 @@
+{
+  "id": 1242572007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.98417,60.38361,4.98417,60.38361",
+    "geom:latitude":60.38361,
+    "geom:longitude":4.98417,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1246.0",
+    "gn:asciiname":"Eide",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3240803,
+    "gn:latitude":60.38361,
+    "gn:longitude":4.98417,
+    "gn:modification_date":"2010-10-15",
+    "gn:name":"Eide",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296987,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3240803
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6c04f5743f554c0adeff972f8a1597b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296987,
+            "locality_id":1242572007,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1242572007,
+    "wof:lastmodified":1537068746,
+    "wof:name":"Eide",
+    "wof:parent_id":1159296987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.98417,
+    60.38361,
+    4.98417,
+    60.38361
+],
+  "geometry": {"coordinates":[4.98417,60.38361],"type":"Point"}
+}

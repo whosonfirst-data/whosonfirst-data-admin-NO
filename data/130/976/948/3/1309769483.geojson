@@ -1,0 +1,68 @@
+{
+  "id": 1309769483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.41328,69.01699,19.41328,69.01699",
+    "geom:latitude":69.01699,
+    "geom:longitude":19.41328,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1924.0",
+    "gn:asciiname":"Holt",
+    "gn:country_code":"NO",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3152025,
+    "gn:latitude":69.01699,
+    "gn:longitude":19.41328,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Holt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296775,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3152025
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"20d946467a242c2b3e4443d07d6120fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296775,
+            "locality_id":1309769483,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1309769483,
+    "wof:lastmodified":1536982852,
+    "wof:name":"Holt",
+    "wof:parent_id":1159296775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.41328,
+    69.01699,
+    19.41328,
+    69.01699
+],
+  "geometry": {"coordinates":[19.41328,69.01699000000001],"type":"Point"}
+}

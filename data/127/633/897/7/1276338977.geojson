@@ -1,0 +1,68 @@
+{
+  "id": 1276338977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.03333,60.11667,11.03333,60.11667",
+    "geom:latitude":60.11667,
+    "geom:longitude":11.03333,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"238.0",
+    "gn:asciiname":"Grani",
+    "gn:country_code":"NO",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3155279,
+    "gn:latitude":60.11667,
+    "gn:longitude":11.03333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Grani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297073,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3155279
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"39f0b71a96d2aa8e149da61c5975a906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297073,
+            "locality_id":1276338977,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1276338977,
+    "wof:lastmodified":1536771389,
+    "wof:name":"Grani",
+    "wof:parent_id":1159297073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.03333,
+    60.11666999999999,
+    11.03333,
+    60.11666999999999
+],
+  "geometry": {"coordinates":[11.03333,60.11666999999999],"type":"Point"}
+}

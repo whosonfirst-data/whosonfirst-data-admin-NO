@@ -1,0 +1,72 @@
+{
+  "id": 1310291259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.8886,59.30593,10.8886,59.30593",
+    "geom:latitude":59.30593,
+    "geom:longitude":10.8886,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"106.0",
+    "gn:asciiname":"Ormen",
+    "gn:country_code":"NO",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3143401,
+    "gn:latitude":59.30593,
+    "gn:longitude":10.8886,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"\u00d8rmen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00d8rmen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297385,
+        85633341,
+        85687079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3143401,
+        "wk:page":"%C3%98rmen"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"41be9825e52cb7ae149606df0d8e4929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297385,
+            "locality_id":1310291259,
+            "region_id":85687079
+        }
+    ],
+    "wof:id":1310291259,
+    "wof:lastmodified":1537675750,
+    "wof:name":"Ormen",
+    "wof:parent_id":1159297385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.8886,
+    59.30593,
+    10.8886,
+    59.30593
+],
+  "geometry": {"coordinates":[10.8886,59.30593],"type":"Point"}
+}

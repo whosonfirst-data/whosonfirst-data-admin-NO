@@ -1,0 +1,91 @@
+{
+  "id": 1125840315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.76667,69.56667,18.76667,69.56667",
+    "geom:latitude":69.56667,
+    "geom:longitude":18.76667,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":69.56667,
+    "lbl:longitude":18.76667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Larsenga"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3148134,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Larseng",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Troms Fylke",
+    "qs_pg:photos":81,
+    "qs_pg:photos_1k":16,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":81,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":874212,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":861140,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Troms Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297187,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3148134,
+        "gp:id":861140,
+        "qs_pg:id":874212
+    },
+    "wof:country":"NO",
+    "wof:created":1497292904,
+    "wof:geomhash":"28b7e317a804086536d07db1744f1311",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297187,
+            "locality_id":1125840315,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1125840315,
+    "wof:lastmodified":1529700445,
+    "wof:name":"Larseng",
+    "wof:parent_id":1159297187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.76667,
+    69.56667,
+    18.76667,
+    69.56667
+],
+  "geometry": {"coordinates":[18.76667,69.56667],"type":"Point"}
+}

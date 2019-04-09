@@ -1,0 +1,71 @@
+{
+  "id": 1276648989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.80564,60.50441,11.80564,60.50441",
+    "geom:latitude":60.50441,
+    "geom:longitude":11.80564,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"425.0",
+    "gn:asciiname":"Kirkemosaetra",
+    "gn:country_code":"NO",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535726,
+    "gn:latitude":60.50441,
+    "gn:longitude":11.80564,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Kirkemos\u00e6tra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Kirkemos\u00e6tra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297037,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535726
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"83eb10401f6111d09eedd7890e7a20cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297037,
+            "locality_id":1276648989,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1276648989,
+    "wof:lastmodified":1537675938,
+    "wof:name":"Kirkemosaetra",
+    "wof:parent_id":1159297037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.80564,
+    60.50441,
+    11.80564,
+    60.50441
+],
+  "geometry": {"coordinates":[11.80564,60.50441],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226356687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.18333,59.93333,11.18333,59.93333",
+    "geom:latitude":59.93333,
+    "geom:longitude":11.18333,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"227.0",
+    "gn:asciiname":"Tofsrud",
+    "gn:country_code":"NO",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3134437,
+    "gn:latitude":59.93333,
+    "gn:longitude":11.18333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Tofsrud",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296913,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3134437
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5c02cb993cd4e8cfd28d696cc2d7c9ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296913,
+            "locality_id":1226356687,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1226356687,
+    "wof:lastmodified":1536774310,
+    "wof:name":"Tofsrud",
+    "wof:parent_id":1159296913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.18333,
+    59.93333000000001,
+    11.18333,
+    59.93333000000001
+],
+  "geometry": {"coordinates":[11.18333,59.93333000000001],"type":"Point"}
+}

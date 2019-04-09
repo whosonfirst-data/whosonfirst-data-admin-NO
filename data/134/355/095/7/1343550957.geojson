@@ -1,0 +1,71 @@
+{
+  "id": 1343550957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.78034,67.66564,14.78034,67.66564",
+    "geom:latitude":67.66564,
+    "geom:longitude":14.78034,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1848.0",
+    "gn:asciiname":"Brennsundgardan",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3160024,
+    "gn:latitude":67.66564,
+    "gn:longitude":14.78034,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Brennsundg\u00e5rdan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Braemdsund",
+        "Brennsund"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297343,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160024
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2c175b96a4f50ca176423d248715639c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297343,
+            "locality_id":1343550957,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1343550957,
+    "wof:lastmodified":1537675865,
+    "wof:name":"Brennsundgardan",
+    "wof:parent_id":1159297343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.78034,
+    67.66564,
+    14.78034,
+    67.66564
+],
+  "geometry": {"coordinates":[14.78034,67.66564],"type":"Point"}
+}

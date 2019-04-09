@@ -1,0 +1,72 @@
+{
+  "id": 1193100269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.9592,69.92886,20.9592,69.92886",
+    "geom:latitude":69.92886,
+    "geom:longitude":20.9592,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1942.0",
+    "gn:asciiname":"Hamneidet",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":779676,
+    "gn:latitude":69.92886,
+    "gn:longitude":20.9592,
+    "gn:modification_date":"2014-05-29",
+    "gn:name":"Hamneidet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hamneide"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297593,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":779676
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"aca12b1bca3374b3fc8f33677392cb90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297593,
+            "locality_id":1193100269,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1193100269,
+    "wof:lastmodified":1537675661,
+    "wof:name":"Hamneidet",
+    "wof:parent_id":1159297593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.9592,
+    69.92886,
+    20.9592,
+    69.92886
+],
+  "geometry": {"coordinates":[20.9592,69.92886],"type":"Point"}
+}

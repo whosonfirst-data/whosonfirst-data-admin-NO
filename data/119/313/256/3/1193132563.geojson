@@ -1,0 +1,73 @@
+{
+  "id": 1193132563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.18333,63.88333,11.18333,63.88333",
+    "geom:latitude":63.88333,
+    "geom:longitude":11.18333,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5053.0",
+    "gn:asciiname":"Oksal",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3143752,
+    "gn:latitude":63.88333,
+    "gn:longitude":11.18333,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Oks\u00e5l",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oksaal",
+        "Oks\u00e5l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296757,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3143752
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"411158d6af0f7b9f6862827da737d7a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296757,
+            "locality_id":1193132563,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1193132563,
+    "wof:lastmodified":1537675753,
+    "wof:name":"Oksal",
+    "wof:parent_id":1159296757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.18333,
+    63.88333000000001,
+    11.18333,
+    63.88333000000001
+],
+  "geometry": {"coordinates":[11.18333,63.88333000000001],"type":"Point"}
+}

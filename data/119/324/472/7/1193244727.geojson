@@ -1,0 +1,71 @@
+{
+  "id": 1193244727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.96099,69.33866,19.96099,69.33866",
+    "geom:latitude":69.33866,
+    "geom:longitude":19.96099,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1939.0",
+    "gn:asciiname":"Elvevoll",
+    "gn:country_code":"NO",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3158286,
+    "gn:latitude":69.33866,
+    "gn:longitude":19.96099,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Elvevoll",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Elvevollen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297099,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3158286
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4d6be9ba15b857bfcbf627cc95b3c4f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297099,
+            "locality_id":1193244727,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1193244727,
+    "wof:lastmodified":1537675852,
+    "wof:name":"Elvevoll",
+    "wof:parent_id":1159297099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.96099,
+    69.33866,
+    19.96099,
+    69.33866
+],
+  "geometry": {"coordinates":[19.96099,69.33866],"type":"Point"}
+}

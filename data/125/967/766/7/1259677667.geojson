@@ -1,0 +1,73 @@
+{
+  "id": 1259677667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.33333,64.11667,11.33333,64.11667",
+    "geom:latitude":64.11667,
+    "geom:longitude":11.33333,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5004.0",
+    "gn:asciiname":"Hjellan",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3152597,
+    "gn:latitude":64.11667,
+    "gn:longitude":11.33333,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Hjellan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hjelle",
+        "Hjellan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296907,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3152597
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4a71b88e04a3d7ea2348021e0648ee29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296907,
+            "locality_id":1259677667,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1259677667,
+    "wof:lastmodified":1537675813,
+    "wof:name":"Hjellan",
+    "wof:parent_id":1159296907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.33333,
+    64.11667,
+    11.33333,
+    64.11667
+],
+  "geometry": {"coordinates":[11.33333,64.11667],"type":"Point"}
+}

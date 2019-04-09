@@ -1,0 +1,73 @@
+{
+  "id": 1293372825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.01667,61.13333,5.01667,61.13333",
+    "geom:latitude":61.13333,
+    "geom:longitude":5.01667,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1412.0",
+    "gn:asciiname":"Krakhella",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3149379,
+    "gn:latitude":61.13333,
+    "gn:longitude":5.01667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kr\u00e5khella",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kr\u00e5khellesund",
+        "Kr\u00e5khella"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296887,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3149379
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9cc88eb66481c50557c3c8f15a40b32e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296887,
+            "locality_id":1293372825,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1293372825,
+    "wof:lastmodified":1537675790,
+    "wof:name":"Krakhella",
+    "wof:parent_id":1159296887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.01667,
+    61.13333000000001,
+    5.01667,
+    61.13333000000001
+],
+  "geometry": {"coordinates":[5.01667,61.13333000000001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343358439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.10993,70.13109,29.10993,70.13109",
+    "geom:latitude":70.13109,
+    "geom:longitude":29.10993,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2027.0",
+    "gn:asciiname":"Klubbvik",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537599,
+    "gn:latitude":70.13109,
+    "gn:longitude":29.10993,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Klubbvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Klubbvik"
+    ],
+    "name:sme_x_preferred":[
+        "Gohppi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297285,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537599
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3e478f816a3c4d0c5ebca7f1ccd032f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297285,
+            "locality_id":1343358439,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1343358439,
+    "wof:lastmodified":1537676020,
+    "wof:name":"Klubbvik",
+    "wof:parent_id":1159297285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.10993,
+    70.13109,
+    29.10993,
+    70.13109
+],
+  "geometry": {"coordinates":[29.10993,70.13109],"type":"Point"}
+}

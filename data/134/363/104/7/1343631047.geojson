@@ -1,0 +1,67 @@
+{
+  "id": 1343631047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.41517,63.43222,8.41517,63.43222",
+    "geom:latitude":63.43222,
+    "geom:longitude":8.41517,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5013.0",
+    "gn:asciiname":"Forsnes",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3156701,
+    "gn:latitude":63.43222,
+    "gn:longitude":8.41517,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Forsnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297259,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3156701,
+        "wk:page":"Forsnes"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0db7109930ba841699486538c5476c83",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297259,
+            "locality_id":1343631047,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1343631047,
+    "wof:lastmodified":1537570099,
+    "wof:name":"Forsnes",
+    "wof:parent_id":1159297259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.41517,
+    63.43222,
+    8.41517,
+    63.43222
+],
+  "geometry": {"coordinates":[8.41517,63.43222],"type":"Point"}
+}

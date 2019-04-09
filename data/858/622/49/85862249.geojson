@@ -1,0 +1,106 @@
+{
+  "id": 85862249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4351563.253876,
+    "geom:bbox":"5.289825,60.367532,5.289825,60.367532",
+    "geom:latitude":60.367532,
+    "geom:longitude":5.289825,
+    "iso:country":"NO",
+    "lbl:latitude":60.367532,
+    "lbl:longitude":5.289825,
+    "mps:latitude":60.368391,
+    "mps:longitude":5.286239,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:nor_x_preferred":[
+        "Samdalen"
+    ],
+    "name:unk_x_variant":[
+        "Samdalen"
+    ],
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"07",
+    "qs:gn_name":"Sedalen",
+    "qs:local_max":318,
+    "qs:local_sum":828,
+    "qs:localhoods":5,
+    "qs:name":"Samdalen",
+    "qs:name_adm0":"Norge",
+    "qs:name_adm1":"Hordaland Fylke",
+    "qs:name_adm2":"Bergen Kommune",
+    "qs:name_local":"Fyllingsdalen",
+    "qs:photo_max":12,
+    "qs:photo_sum":54,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":20,
+    "qs:woe_adm0":23424910,
+    "qs:woe_adm1":2346390,
+    "qs:woe_adm2":12592658,
+    "qs:woe_lau":0,
+    "qs:woe_local":15000739,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85687099,
+        102191581,
+        1159297617,
+        85633341,
+        101751923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3140003,
+        "gp:id":20100420,
+        "qs:id":985397,
+        "qs_pg:id":985397
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2e67d7dc3d7db9ca7aeca4a72f53aebd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":101751923,
+            "neighbourhood_id":85862249,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":85862249,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1531870569,
+    "wof:name":"Samdalen",
+    "wof:parent_id":101751923,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.289825,
+    60.367532,
+    5.289825,
+    60.367532
+],
+  "geometry": {"coordinates":[5.289825,60.367532],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343821465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.25,59.33333,8.25,59.33333",
+    "geom:latitude":59.33333,
+    "geom:longitude":8.25,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"829.0",
+    "gn:asciiname":"Byggstol",
+    "gn:country_code":"NO",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3159583,
+    "gn:latitude":59.33333,
+    "gn:longitude":8.25,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Byggst\u00f8l",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297233,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3159583
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"cde393aad83d06eccaedd86815aaa9c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297233,
+            "locality_id":1343821465,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1343821465,
+    "wof:lastmodified":1536723407,
+    "wof:name":"Byggstol",
+    "wof:parent_id":1159297233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.25,
+    59.33333,
+    8.25,
+    59.33333
+],
+  "geometry": {"coordinates":[8.25,59.33333],"type":"Point"}
+}

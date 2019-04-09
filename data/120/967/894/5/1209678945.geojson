@@ -1,0 +1,66 @@
+{
+  "id": 1209678945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.79806,70.13172,20.79806,70.13172",
+    "geom:latitude":70.13172,
+    "geom:longitude":20.79806,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1941.0",
+    "gn:asciiname":"Storelva",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":777433,
+    "gn:latitude":70.13172,
+    "gn:longitude":20.79806,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Storelva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Storelv"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":777433
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f74a2d41aa3aed00bf46dcf3a861a053",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209678945
+        }
+    ],
+    "wof:id":1209678945,
+    "wof:lastmodified":1537675642,
+    "wof:name":"Storelva",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.79806,
+    70.13172,
+    20.79806,
+    70.13172
+],
+  "geometry": {"coordinates":[20.79806,70.13172],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226765339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.16667,60.5,11.16667,60.5",
+    "geom:latitude":60.5,
+    "geom:longitude":11.16667,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"237.0",
+    "gn:asciiname":"Diserud",
+    "gn:country_code":"NO",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3159217,
+    "gn:latitude":60.5,
+    "gn:longitude":11.16667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Diserud",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297097,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3159217
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1b2ee6a449c726c28d26cf2302a41339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297097,
+            "locality_id":1226765339,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1226765339,
+    "wof:lastmodified":1536687382,
+    "wof:name":"Diserud",
+    "wof:parent_id":1159297097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.16667,
+    60.5,
+    11.16667,
+    60.5
+],
+  "geometry": {"coordinates":[11.16667,60.5],"type":"Point"}
+}

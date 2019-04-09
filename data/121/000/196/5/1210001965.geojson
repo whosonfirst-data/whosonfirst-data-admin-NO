@@ -1,0 +1,74 @@
+{
+  "id": 1210001965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.55689,62.10149,6.55689,62.10149",
+    "geom:latitude":62.10149,
+    "geom:longitude":6.55689,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1520.0",
+    "gn:asciiname":"Bjorke",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3161358,
+    "gn:latitude":62.10149,
+    "gn:longitude":6.55689,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Bj\u00f8rke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bjerke",
+        "Bj\u00f8rke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297435,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3161358,
+        "wk:page":"Bj%C3%B8rke"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"686b635da8ad1c3bc23f51f87cea3866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297435,
+            "locality_id":1210001965,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1210001965,
+    "wof:lastmodified":1537675875,
+    "wof:name":"Bjorke",
+    "wof:parent_id":1159297435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.55689,
+    62.10149000000001,
+    6.55689,
+    62.10149000000001
+],
+  "geometry": {"coordinates":[6.55689,62.10149000000001],"type":"Point"}
+}

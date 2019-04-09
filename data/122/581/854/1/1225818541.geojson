@@ -1,0 +1,71 @@
+{
+  "id": 1225818541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.54152,61.25671,6.54152,61.25671",
+    "geom:latitude":61.25671,
+    "geom:longitude":6.54152,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1418.0",
+    "gn:asciiname":"Farnes",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535905,
+    "gn:latitude":61.25671,
+    "gn:longitude":6.54152,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Farnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Farnes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297555,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535905
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"dfa34a9eca747e48d3d256e869aef622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297555,
+            "locality_id":1225818541,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1225818541,
+    "wof:lastmodified":1537675946,
+    "wof:name":"Farnes",
+    "wof:parent_id":1159297555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.54152,
+    61.25671,
+    6.54152,
+    61.25671
+],
+  "geometry": {"coordinates":[6.54152,61.25671],"type":"Point"}
+}

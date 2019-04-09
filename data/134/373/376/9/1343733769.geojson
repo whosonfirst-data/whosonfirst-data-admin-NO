@@ -1,0 +1,71 @@
+{
+  "id": 1343733769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.99004,59.57853,7.99004,59.57853",
+    "geom:latitude":59.57853,
+    "geom:longitude":7.99004,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"834.0",
+    "gn:asciiname":"Abogrend",
+    "gn:country_code":"NO",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537758,
+    "gn:latitude":59.57853,
+    "gn:longitude":7.99004,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"\u00c5b\u00f8grend",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00c5b\u00f8grend"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297225,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537758
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4865e972a156099eba796123b1c2c72b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297225,
+            "locality_id":1343733769,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1343733769,
+    "wof:lastmodified":1537676027,
+    "wof:name":"Abogrend",
+    "wof:parent_id":1159297225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.99004,
+    59.57853000000001,
+    7.99004,
+    59.57853000000001
+],
+  "geometry": {"coordinates":[7.99004,59.57853000000001],"type":"Point"}
+}

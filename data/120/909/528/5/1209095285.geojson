@@ -1,0 +1,65 @@
+{
+  "id": 1209095285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.90859,64.46286,11.90859,64.46286",
+    "geom:latitude":64.46286,
+    "geom:longitude":11.90859,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5047.0",
+    "gn:asciiname":"Gansmo",
+    "gn:country_code":"NO",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3156119,
+    "gn:latitude":64.46286,
+    "gn:longitude":11.90859,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Gansmo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Gansmo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3156119
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e4e9b76c9e62e5a88811ca3b3e89e04f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209095285
+        }
+    ],
+    "wof:id":1209095285,
+    "wof:lastmodified":1537675836,
+    "wof:name":"Gansmo",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.90859,
+    64.46285999999999,
+    11.90859,
+    64.46285999999999
+],
+  "geometry": {"coordinates":[11.90859,64.46285999999999],"type":"Point"}
+}

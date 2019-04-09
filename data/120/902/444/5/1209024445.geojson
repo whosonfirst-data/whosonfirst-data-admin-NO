@@ -1,0 +1,66 @@
+{
+  "id": 1209024445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.53763,63.96887,11.53763,63.96887",
+    "geom:latitude":63.96887,
+    "geom:longitude":11.53763,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5004.0",
+    "gn:asciiname":"Rygg",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3140828,
+    "gn:latitude":63.96887,
+    "gn:longitude":11.53763,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Rygg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ryg",
+        "Rygg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3140828
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"09f7455901e73d8166656ba012413783",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209024445
+        }
+    ],
+    "wof:id":1209024445,
+    "wof:lastmodified":1537675732,
+    "wof:name":"Rygg",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.53763,
+    63.96887,
+    11.53763,
+    63.96887
+],
+  "geometry": {"coordinates":[11.53763,63.96887],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1360151105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.33822,69.30336,19.33822,69.30336",
+    "geom:latitude":69.30336,
+    "geom:longitude":19.33822,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1933.0",
+    "gn:asciiname":"Tennes",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3134695,
+    "gn:latitude":69.30336,
+    "gn:longitude":19.33822,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Tennes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296799,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3134695
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"41b197125b8d9cdfb8fda61735790feb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296799,
+            "locality_id":1360151105,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1360151105,
+    "wof:lastmodified":1536849450,
+    "wof:name":"Tennes",
+    "wof:parent_id":1159296799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.33822,
+    69.30336,
+    19.33822,
+    69.30336
+],
+  "geometry": {"coordinates":[19.33822,69.30336],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 1125910463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.98333,62.25,5.98333,62.25",
+    "geom:latitude":62.25,
+    "geom:longitude":5.98333,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":62.25,
+    "lbl:longitude":5.98333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Bj\u00e5nes"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3141690,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Rj\u00e5nes",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"M\u00f8re og Romsdal Fylke",
+    "qs_pg:photos":15,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":15,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":57823,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":863007,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"M\u00f8re og Romsdal Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297435,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141690,
+        "gp:id":863007,
+        "qs_pg:id":57823
+    },
+    "wof:country":"NO",
+    "wof:created":1497296121,
+    "wof:geomhash":"c40c19b476d60f568d887b470719b370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297435,
+            "locality_id":1125910463,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1125910463,
+    "wof:lastmodified":1529700092,
+    "wof:name":"Rj\u00e5nes",
+    "wof:parent_id":1159297435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.98333,
+    62.25,
+    5.98333,
+    62.25
+],
+  "geometry": {"coordinates":[5.98333,62.25],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293191445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.91333,62.74711,6.91333,62.74711",
+    "geom:latitude":62.74711,
+    "geom:longitude":6.91333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1545.0",
+    "gn:asciiname":"Sundsbo",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3135414,
+    "gn:latitude":62.74711,
+    "gn:longitude":6.91333,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Sundsb\u00f8",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sundsb\u00f6",
+        "Sundsb\u00f8en"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296783,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3135414
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4f437564deba96a27374ea8301b9d1f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296783,
+            "locality_id":1293191445,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1293191445,
+    "wof:lastmodified":1537675699,
+    "wof:name":"Sundsbo",
+    "wof:parent_id":1159296783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.91333,
+    62.74711,
+    6.91333,
+    62.74711
+],
+  "geometry": {"coordinates":[6.91333,62.74711],"type":"Point"}
+}

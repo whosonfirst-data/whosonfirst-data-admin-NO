@@ -1,0 +1,63 @@
+{
+  "id": 1209385993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.36667,58.5,6.36667,58.5",
+    "geom:latitude":58.5,
+    "geom:longitude":6.36667,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1112.0",
+    "gn:asciiname":"Heskestad",
+    "gn:country_code":"NO",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3152825,
+    "gn:latitude":58.5,
+    "gn:longitude":6.36667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Heskestad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3152825,
+        "wk:page":"Heskestad"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0673f1de4c4a29bfa88f651637e94bc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209385993
+        }
+    ],
+    "wof:id":1209385993,
+    "wof:lastmodified":1537570094,
+    "wof:name":"Heskestad",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.36667,
+    58.5,
+    6.36667,
+    58.5
+],
+  "geometry": {"coordinates":[6.36667,58.5],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209988947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.50062,63.40099,9.50062,63.40099",
+    "geom:latitude":63.40099,
+    "geom:longitude":9.50062,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5012.0",
+    "gn:asciiname":"Krokstadora",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3149239,
+    "gn:latitude":63.40099,
+    "gn:longitude":9.50062,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Krokstad\u00f8ra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Krokstad\u00f6ren",
+        "Krokstad\u00f8ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296989,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3149239,
+        "wk:page":"Krokstad%C3%B8ra"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"997ca773ff85817a4d9cf5035e21df13",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296989,
+            "locality_id":1209988947,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1209988947,
+    "wof:lastmodified":1537675789,
+    "wof:name":"Krokstadora",
+    "wof:parent_id":1159296989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.50062,
+    63.40099,
+    9.50062,
+    63.40099
+],
+  "geometry": {"coordinates":[9.50062,63.40099],"type":"Point"}
+}

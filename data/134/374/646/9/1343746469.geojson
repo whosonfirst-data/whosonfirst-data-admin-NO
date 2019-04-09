@@ -1,0 +1,71 @@
+{
+  "id": 1343746469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.45,68.61667,14.45,68.61667",
+    "geom:latitude":68.61667,
+    "geom:longitude":14.45,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1867.0",
+    "gn:asciiname":"Kleppelva",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3149868,
+    "gn:latitude":68.61667,
+    "gn:longitude":14.45,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kleppelva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kleppelven",
+        "Kleppelva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297417,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3149868
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3093f628fd6b20f60750cf6273d4ba50",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297417,
+            "locality_id":1343746469,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1343746469,
+    "wof:lastmodified":1537675794,
+    "wof:name":"Kleppelva",
+    "wof:parent_id":1159297417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.45,
+    68.61667,
+    14.45,
+    68.61667
+],
+  "geometry": {"coordinates":[14.45,68.61667],"type":"Point"}
+}

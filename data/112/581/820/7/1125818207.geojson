@@ -1,0 +1,107 @@
+{
+  "id": 1125818207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.52375,59.02154,8.52375,59.02154",
+    "geom:latitude":59.02154,
+    "geom:longitude":8.52375,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":59.02154,
+    "lbl:longitude":8.52375,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Treungen"
+    ],
+    "name:dut_x_preferred":[
+        "Treungen"
+    ],
+    "name:eng_x_preferred":[
+        "Treungen"
+    ],
+    "name:fre_x_preferred":[
+        "Treungen"
+    ],
+    "name:nno_x_preferred":[
+        "Treungen"
+    ],
+    "name:nob_x_preferred":[
+        "Treungen"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":3134011,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Treungen",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Telemark Fylke",
+    "qs_pg:photos":201,
+    "qs_pg:photos_1k":41,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":201,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1167509,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":865136,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Telemark Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297341,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3134011,
+        "gp:id":865136,
+        "qs_pg:id":1167509,
+        "wd:id":"Q3355214"
+    },
+    "wof:country":"NO",
+    "wof:created":1497291932,
+    "wof:geomhash":"b645da9ace48c255f106d798ac7528ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297341,
+            "locality_id":1125818207,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1125818207,
+    "wof:lastmodified":1529700390,
+    "wof:name":"Treungen",
+    "wof:parent_id":1159297341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.52375,
+    59.02154,
+    8.52375,
+    59.02154
+],
+  "geometry": {"coordinates":[8.52375,59.02154],"type":"Point"}
+}

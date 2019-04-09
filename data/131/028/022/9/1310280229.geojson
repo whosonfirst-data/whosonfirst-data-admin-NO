@@ -1,0 +1,71 @@
+{
+  "id": 1310280229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.48466,58.3302,7.48466,58.3302",
+    "geom:latitude":58.3302,
+    "geom:longitude":7.48466,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1021.0",
+    "gn:asciiname":"Haraldstad",
+    "gn:country_code":"NO",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537799,
+    "gn:latitude":58.3302,
+    "gn:longitude":7.48466,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Haraldstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Haraldstad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297583,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537799
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e96eee325f9194c43f71794bba7bfab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297583,
+            "locality_id":1310280229,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1310280229,
+    "wof:lastmodified":1537676028,
+    "wof:name":"Haraldstad",
+    "wof:parent_id":1159297583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.48466,
+    58.3302,
+    7.48466,
+    58.3302
+],
+  "geometry": {"coordinates":[7.48466,58.3302],"type":"Point"}
+}

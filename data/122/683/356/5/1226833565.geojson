@@ -1,0 +1,66 @@
+{
+  "id": 1226833565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.30562,67.06916,14.30562,67.06916",
+    "geom:latitude":67.06916,
+    "geom:longitude":14.30562,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1838.0",
+    "gn:asciiname":"Kjelling Vestre",
+    "gn:country_code":"NO",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3150187,
+    "gn:latitude":67.06916,
+    "gn:longitude":14.30562,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Kjelling Vestre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296997,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3150187
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3d3ed138972f1bc2b5e41909b25bf064",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296997,
+            "locality_id":1226833565,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1226833565,
+    "wof:lastmodified":1537082682,
+    "wof:name":"Kjelling Vestre",
+    "wof:parent_id":1159296997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.30562,
+    67.06916,
+    14.30562,
+    67.06916
+],
+  "geometry": {"coordinates":[14.30562,67.06916],"type":"Point"}
+}

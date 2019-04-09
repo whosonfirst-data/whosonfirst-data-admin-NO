@@ -1,0 +1,68 @@
+{
+  "id": 1209596503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.28403,61.72592,8.28403,61.72592",
+    "geom:latitude":61.72592,
+    "geom:longitude":8.28403,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"514.0",
+    "gn:asciiname":"Rudningsgrende",
+    "gn:country_code":"NO",
+    "gn:dem":820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535969,
+    "gn:latitude":61.72592,
+    "gn:longitude":8.28403,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Rudningsgrende",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Rudningsgrende"
+    ],
+    "name:nor_x_variant":[
+        "Runningsgrende"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535969
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"50fe097503e9278e3a0b3d3b04d885f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209596503
+        }
+    ],
+    "wof:id":1209596503,
+    "wof:lastmodified":1537675949,
+    "wof:name":"Rudningsgrende",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.28403,
+    61.72592,
+    8.28403,
+    61.72592
+],
+  "geometry": {"coordinates":[8.28403,61.72592],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276682833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.3,59.95,9.3,59.95",
+    "geom:latitude":59.95,
+    "geom:longitude":9.3,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"632.0",
+    "gn:asciiname":"Bergseid",
+    "gn:country_code":"NO",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3161673,
+    "gn:latitude":59.95,
+    "gn:longitude":9.3,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Bergseid",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296823,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3161673
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3b2059afc7c8d8d928b320500f52da16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296823,
+            "locality_id":1276682833,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1276682833,
+    "wof:lastmodified":1536807129,
+    "wof:name":"Bergseid",
+    "wof:parent_id":1159296823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.3,
+    59.95,
+    9.3,
+    59.95
+],
+  "geometry": {"coordinates":[9.3,59.95],"type":"Point"}
+}

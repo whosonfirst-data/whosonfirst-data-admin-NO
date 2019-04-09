@@ -1,0 +1,71 @@
+{
+  "id": 1277143153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.53321,69.0185,16.53321,69.0185",
+    "geom:latitude":69.0185,
+    "geom:longitude":16.53321,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1903.0",
+    "gn:asciiname":"Innersundsvoll",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537168,
+    "gn:latitude":69.0185,
+    "gn:longitude":16.53321,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Innersundsvoll",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Innersundsvoll"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297451,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537168
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"52c9bf25933f8d34a8030d88250f8ff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297451,
+            "locality_id":1277143153,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1277143153,
+    "wof:lastmodified":1537675999,
+    "wof:name":"Innersundsvoll",
+    "wof:parent_id":1159297451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.53321,
+    69.0185,
+    16.53321,
+    69.0185
+],
+  "geometry": {"coordinates":[16.53321,69.0185],"type":"Point"}
+}

@@ -1,0 +1,146 @@
+{
+  "id": 85901611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000426,
+    "geom:area_square_m":2645574.364687,
+    "geom:bbox":"10.7752953891,59.8572299565,10.8223448214,59.8765330042",
+    "geom:latitude":59.864518,
+    "geom:longitude":10.797218,
+    "gn:latitude":59.85956,
+    "gn:longitude":10.79844,
+    "iso:country":"NO",
+    "lbl:latitude":59.863766,
+    "lbl:longitude":10.79045,
+    "mps:latitude":59.866274,
+    "mps:longitude":10.795613,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:dan_x_preferred":[
+        "Nordstrand"
+    ],
+    "name:deu_x_preferred":[
+        "Nordstrand"
+    ],
+    "name:eng_x_preferred":[
+        "Ekebergveien"
+    ],
+    "name:eng_x_variant":[
+        "Ekebergveien"
+    ],
+    "name:est_x_preferred":[
+        "Nordstrandi linnaosa"
+    ],
+    "name:fra_x_preferred":[
+        "Nordstrand"
+    ],
+    "name:nno_x_preferred":[
+        "Nordstrand"
+    ],
+    "name:nor_x_preferred":[
+        "Nordstrand"
+    ],
+    "name:nor_x_variant":[
+        "Bydel Nordstrand"
+    ],
+    "name:pol_x_preferred":[
+        "Dzielnica Nordstrand"
+    ],
+    "name:swe_x_preferred":[
+        "Nordstrand"
+    ],
+    "name:unk_x_variant":[
+        "Nordstrand"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u6d77\u7058"
+    ],
+    "qs:gn_adm0_cc":"NO",
+    "qs:gn_fcode":"ADM3",
+    "qs:gn_local":3143244,
+    "qs:gn_namadm1":"12",
+    "qs:gn_name":"Nordstrand District",
+    "qs:local_max":14984,
+    "qs:local_sum":116500,
+    "qs:localhoods":70,
+    "qs:name":"Nordstrand",
+    "qs:name_adm0":"Norge",
+    "qs:name_adm1":"Oslo Fylke",
+    "qs:name_adm2":"Bydel Nordstrand",
+    "qs:name_en":"Ekebergveien",
+    "qs:name_local":"Oslo",
+    "qs:photo_max":15,
+    "qs:photo_sum":57,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":15,
+    "qs:woe_adm0":23424910,
+    "qs:woe_adm1":2346395,
+    "qs:woe_adm2":20100268,
+    "qs:woe_lau":0,
+    "qs:woe_local":862592,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":372,
+    "wof:belongsto":[
+        102191581,
+        1159297167,
+        85633341,
+        101751917,
+        85687089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6940987,
+        "gp:id":862308,
+        "qs:id":478355,
+        "qs_pg:id":478355,
+        "wd:id":"Q1998762",
+        "wk:page":"Nordstrand, Norway"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8ef7c02d5af21dc23d06b20071f27347",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297167,
+            "locality_id":101751917,
+            "neighbourhood_id":85901611,
+            "region_id":85687089
+        }
+    ],
+    "wof:id":85901611,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1536864511,
+    "wof:name":"Nordstrand",
+    "wof:parent_id":101751917,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.77529538911045,
+    59.85722995652505,
+    10.82234482141661,
+    59.87653300415018
+],
+  "geometry": {"coordinates":[[[10.8020256860849,59.86576187586159],[10.80366895075377,59.86412539652521],[10.80505371090004,59.86412539652521],[10.80505371090004,59.8641254537],[10.810546875,59.8641254537],[10.81054690370479,59.8641254537],[10.81123911158414,59.86550421012528],[10.81534780248472,59.86550421012528],[10.81604001037027,59.86412545370008],[10.81604003910013,59.8641254537],[10.82153320310005,59.8641254537],[10.82153320310005,59.86241303723172],[10.82234482141661,59.86079646971375],[10.8187866211,59.85725325562326],[10.81742491406283,59.85860922750017],[10.81604003910013,59.85860922750017],[10.810546875,59.85860922750017],[10.80916200002503,59.85860922750017],[10.80916177033259,59.85860899877504],[10.8064388156053,59.85860899877504],[10.80643858591276,59.85860922750017],[10.80505371090004,59.85860922750017],[10.79956054688125,59.85860922750017],[10.79886796582309,59.85722995652505],[10.7947599638772,59.85722995652505],[10.79406738280005,59.8586092275501],[10.79406735410311,59.85860928470002],[10.79337491662403,59.85998826975016],[10.78857421877501,59.85998826975016],[10.78100400055223,59.85998826975016],[10.78100348382236,59.85998792670013],[10.77622624102031,59.85998792670013],[10.77553363128629,59.8613674263503],[10.77529538911045,59.86231649941799],[10.77758789061568,59.86688313803795],[10.77758789059999,59.86688319520003],[10.78308105470012,59.86688319520003],[10.78308105470012,59.86964065092523],[10.78308105470012,59.86964070810002],[10.78857421880014,59.86964070810002],[10.78857424747497,59.86964070810002],[10.78995817544836,59.87239770650037],[10.79268342615194,59.87239770650037],[10.79683449294555,59.87653300415018],[10.79748538635823,59.87653300415018],[10.80202624990579,59.8735171366866],[10.8023071289,59.87239793515018],[10.8023071289,59.86964065092523],[10.8023071289,59.86688313805037],[10.8020256860849,59.86576187586159]]],"type":"Polygon"}
+}

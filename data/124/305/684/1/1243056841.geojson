@@ -1,0 +1,71 @@
+{
+  "id": 1243056841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.95,63.91667,10.95,63.91667",
+    "geom:latitude":63.91667,
+    "geom:longitude":10.95,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5039.0",
+    "gn:asciiname":"Hoven",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3151636,
+    "gn:latitude":63.91667,
+    "gn:longitude":10.95,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Hoven",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Hoven"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297077,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3151636
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"58bb857980bb315b1e29148e463f428c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297077,
+            "locality_id":1243056841,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1243056841,
+    "wof:lastmodified":1537675808,
+    "wof:name":"Hoven",
+    "wof:parent_id":1159297077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.95,
+    63.91667,
+    10.95,
+    63.91667
+],
+  "geometry": {"coordinates":[10.95,63.91667],"type":"Point"}
+}

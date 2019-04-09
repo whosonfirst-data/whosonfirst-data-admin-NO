@@ -1,0 +1,74 @@
+{
+  "id": 1243419105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.01871,59.03931,10.01871,59.03931",
+    "geom:latitude":59.03931,
+    "geom:longitude":10.01871,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"712",
+    "gn:asciiname":"Tenvik",
+    "gn:country_code":"NO",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9403974,
+    "gn:latitude":59.03931,
+    "gn:longitude":10.01871,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Tenvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Tenvik"
+    ],
+    "name:nor_x_variant":[
+        "Tinvik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296779,
+        85633341,
+        85687073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9403974
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"046820126f696505f04a0ec81f1c8cde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296779,
+            "locality_id":1243419105,
+            "region_id":85687073
+        }
+    ],
+    "wof:id":1243419105,
+    "wof:lastmodified":1537675912,
+    "wof:name":"Tenvik",
+    "wof:parent_id":1159296779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.01871,
+    59.03931,
+    10.01871,
+    59.03931
+],
+  "geometry": {"coordinates":[10.01871,59.03931],"type":"Point"}
+}

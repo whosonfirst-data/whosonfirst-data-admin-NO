@@ -1,0 +1,72 @@
+{
+  "id": 1310299835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.404,65.53454,13.404,65.53454",
+    "geom:latitude":65.53454,
+    "geom:longitude":13.404,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1825.0",
+    "gn:asciiname":"Vegset",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3132317,
+    "gn:latitude":65.53454,
+    "gn:longitude":13.404,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Vegset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e5fjellmoen",
+        "Baafjellmoen",
+        "Vegset"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297571,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3132317
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"eef80e404941f6a47887a3f81b4faab7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297571,
+            "locality_id":1310299835,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1310299835,
+    "wof:lastmodified":1537675679,
+    "wof:name":"Vegset",
+    "wof:parent_id":1159297571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.404,
+    65.53454,
+    13.404,
+    65.53454
+],
+  "geometry": {"coordinates":[13.404,65.53454000000001],"type":"Point"}
+}

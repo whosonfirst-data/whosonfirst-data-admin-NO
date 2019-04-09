@@ -1,0 +1,68 @@
+{
+  "id": 1293263655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.5,59.36667,8.5,59.36667",
+    "geom:latitude":59.36667,
+    "geom:longitude":8.5,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"829.0",
+    "gn:asciiname":"Smedodden",
+    "gn:country_code":"NO",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3138142,
+    "gn:latitude":59.36667,
+    "gn:longitude":8.5,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Smedodden",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297233,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3138142
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"cef084047df0d54c1ff474eb52b869c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297233,
+            "locality_id":1293263655,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1293263655,
+    "wof:lastmodified":1536610161,
+    "wof:name":"Smedodden",
+    "wof:parent_id":1159297233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.5,
+    59.36666999999999,
+    8.5,
+    59.36666999999999
+],
+  "geometry": {"coordinates":[8.5,59.36666999999999],"type":"Point"}
+}

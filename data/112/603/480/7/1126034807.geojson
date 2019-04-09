@@ -1,0 +1,115 @@
+{
+  "id": 1126034807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.31667,66.98333,15.31667,66.98333",
+    "geom:latitude":66.98333,
+    "geom:longitude":15.31667,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":467,
+    "gn:population":467,
+    "iso:country":"NO",
+    "lbl:latitude":66.98333,
+    "lbl:longitude":15.31667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "R\u00f8kland"
+    ],
+    "name:eng_x_preferred":[
+        "R\u00f8kland"
+    ],
+    "name:fre_x_preferred":[
+        "R\u00f8kland"
+    ],
+    "name:jav_x_preferred":[
+        "R\u00f8kland"
+    ],
+    "name:may_x_preferred":[
+        "R\u00f8kland"
+    ],
+    "name:nno_x_preferred":[
+        "R\u00f8kland"
+    ],
+    "name:nob_x_preferred":[
+        "R\u00f8kland"
+    ],
+    "name:rum_x_preferred":[
+        "R\u00f8kland"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3141498,
+    "qs_pg:gn_pop":467,
+    "qs_pg:name":"Rokland",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nordland Fylke",
+    "qs_pg:photos":53,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":53,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":964287,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":863070,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Nordland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159297115,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141498,
+        "gp:id":863070,
+        "qs_pg:id":964287,
+        "wd:id":"Q2615895"
+    },
+    "wof:country":"NO",
+    "wof:created":1497301718,
+    "wof:geomhash":"e6ed434fd6f2990b22b525728d759d5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297115,
+            "locality_id":1126034807,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1126034807,
+    "wof:lastmodified":1529700168,
+    "wof:name":"Rokland",
+    "wof:parent_id":1159297115,
+    "wof:placetype":"locality",
+    "wof:population":467,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.31667,
+    66.98333,
+    15.31667,
+    66.98333
+],
+  "geometry": {"coordinates":[15.31667,66.98333],"type":"Point"}
+}

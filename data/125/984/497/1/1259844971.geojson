@@ -1,0 +1,68 @@
+{
+  "id": 1259844971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.83333,58.38333,6.83333,58.38333",
+    "geom:latitude":58.38333,
+    "geom:longitude":6.83333,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1004.0",
+    "gn:asciiname":"Fedjesdal",
+    "gn:country_code":"NO",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3157762,
+    "gn:latitude":58.38333,
+    "gn:longitude":6.83333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Fedjesdal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296845,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3157762
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d2ed59bef40ea786234fb4181e6108f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296845,
+            "locality_id":1259844971,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1259844971,
+    "wof:lastmodified":1536833713,
+    "wof:name":"Fedjesdal",
+    "wof:parent_id":1159296845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.83333,
+    58.38333000000001,
+    6.83333,
+    58.38333000000001
+],
+  "geometry": {"coordinates":[6.83333,58.38333000000001],"type":"Point"}
+}

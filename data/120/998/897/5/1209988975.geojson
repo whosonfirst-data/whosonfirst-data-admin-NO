@@ -1,0 +1,72 @@
+{
+  "id": 1209988975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.05,63.28333,11.05,63.28333",
+    "geom:latitude":63.28333,
+    "geom:longitude":11.05,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5032.0",
+    "gn:asciiname":"Sesas",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3139781,
+    "gn:latitude":63.28333,
+    "gn:longitude":11.05,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Ses\u00e5s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sesaas",
+        "Sets\u00e5s",
+        "Ses\u00e5s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296977,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3139781
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a766042d96539523b2c116c4d4e02702",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296977,
+            "locality_id":1209988975,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1209988975,
+    "wof:lastmodified":1537675725,
+    "wof:name":"Sesas",
+    "wof:parent_id":1159296977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.05,
+    63.28333000000001,
+    11.05,
+    63.28333000000001
+],
+  "geometry": {"coordinates":[11.05,63.28333000000001],"type":"Point"}
+}

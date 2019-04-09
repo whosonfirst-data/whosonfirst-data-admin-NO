@@ -1,0 +1,77 @@
+{
+  "id": 1293067347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.0153,69.32562,20.0153,69.32562",
+    "geom:latitude":69.32562,
+    "geom:longitude":20.0153,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1939.0",
+    "gn:asciiname":"Horsnes",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":779542,
+    "gn:latitude":69.32562,
+    "gn:longitude":20.0153,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Horsnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Horsnes"
+    ],
+    "name:sme_x_preferred":[
+        "\u010cohkkugieddi"
+    ],
+    "name:und_x_variant":[
+        "Horsn\u00e6s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297099,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":779542
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"27c15efae7b4a08139517a39a15acfe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297099,
+            "locality_id":1293067347,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1293067347,
+    "wof:lastmodified":1537675660,
+    "wof:name":"Horsnes",
+    "wof:parent_id":1159297099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.0153,
+    69.32562,
+    20.0153,
+    69.32562
+],
+  "geometry": {"coordinates":[20.0153,69.32562],"type":"Point"}
+}

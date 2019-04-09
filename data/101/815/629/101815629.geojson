@@ -1,0 +1,142 @@
+{
+  "id": 101815629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000353,
+    "geom:area_square_m":2137879.662439,
+    "geom:bbox":"11.822023489,60.6612282792,11.8479999017,60.6837709636",
+    "geom:latitude":60.672448,
+    "geom:longitude":11.833133,
+    "gn:population":1188,
+    "iso:country":"NO",
+    "lbl:latitude":60.67245,
+    "lbl:longitude":11.831587,
+    "mps:latitude":60.67245,
+    "mps:longitude":11.831587,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u09ad\u09b2\u09c7\u09b0"
+    ],
+    "name:cat_x_preferred":[
+        "V\u00e5ler"
+    ],
+    "name:dan_x_preferred":[
+        "V\u00e5ler i Hedmark"
+    ],
+    "name:deu_x_preferred":[
+        "V\u00e5ler"
+    ],
+    "name:eng_x_preferred":[
+        "Vaaler"
+    ],
+    "name:eus_x_preferred":[
+        "V\u00e5ler"
+    ],
+    "name:fin_x_preferred":[
+        "V\u00e5ler"
+    ],
+    "name:fra_x_preferred":[
+        "V\u00e5ler"
+    ],
+    "name:ind_x_preferred":[
+        "V\u00e5ler"
+    ],
+    "name:ita_x_preferred":[
+        "V\u00e5ler"
+    ],
+    "name:nor_x_colloquial":[
+        "Vaaler I Soloer",
+        "Vaaler I Soloers",
+        "Vaalers",
+        "Valer",
+        "Valer I Solor",
+        "Valer I Solors",
+        "Valers"
+    ],
+    "name:nor_x_preferred":[
+        "V\u00e5ler"
+    ],
+    "name:nor_x_variant":[
+        "V\u00e5ler I Sol\u00f8r",
+        "V\u00e5ler I Sol\u00f8rs",
+        "V\u00e5lers",
+        "V\u00e5lbyen"
+    ],
+    "name:spa_x_preferred":[
+        "V\u00e5ler"
+    ],
+    "name:unk_x_variant":[
+        "V\u00e5ler i Sol\u00f8r"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Hedmark",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"V\u00e5ler",
+    "qs:la_lc":"*NO0426",
+    "qs:level":"locality",
+    "qs:loc":"V\u00e5ler",
+    "qs:loc_alt":"Vaaler",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1591,
+    "wof:belongsto":[
+        102191581,
+        1159297171,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01fbe5fc-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3132893,
+        "gp:id":865485,
+        "qs:id":145860,
+        "qs_pg:id":145860,
+        "wd:id":"Q501413",
+        "wk:page":"V\u00e5ler, Hedmark"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c4d8a642463759bbf4c08c8d3d5d987c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297171,
+            "locality_id":101815629,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":101815629,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1529700022,
+    "wof:name":"V\u00e5ler",
+    "wof:parent_id":1159297171,
+    "wof:placetype":"locality",
+    "wof:population":1188,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.82202348896203,
+    60.66122827915473,
+    11.84799990165169,
+    60.68377096360274
+],
+  "geometry": {"coordinates":[[[11.83016509957207,60.68372446259883],[11.83001512734916,60.68102490713022],[11.83548629869676,60.68095498818047],[11.83538603448437,60.67915529088231],[11.84268049740075,60.67906174678734],[11.84273082693329,60.67996159235128],[11.84455448629564,60.67993814764674],[11.84450410701129,60.67903830280494],[11.84632771416955,60.67901483563895],[11.84617644618419,60.67631530572697],[11.84799990165169,60.67629181754791],[11.84779805667898,60.6726924529284],[11.83868174952232,60.67280964757407],[11.83853114513221,60.67011011755943],[11.84217737699657,60.67006331356015],[11.84207679106464,60.66826363180149],[11.84025377578757,60.66828704394771],[11.84010306984703,60.66558752220004],[11.84192593599914,60.66556411221603],[11.84182538184001,60.66376443452651],[11.84000261508913,60.66378784306914],[11.83990217302363,60.66198816556545],[11.83625683097245,60.66203491025885],[11.83635707425975,60.66383459064048],[11.82906596335681,60.66392780772452],[11.82891619950107,60.66122827915473],[11.82709356478023,60.66125152335013],[11.82719330481103,60.66305121008719],[11.82354782932174,60.66309763182653],[11.82384652857621,60.66849671038335],[11.82202348896203,60.66851989077753],[11.82237176650358,60.6748188392969],[11.82419515420327,60.6747956539059],[11.82459377240076,60.68199447097453],[11.8264175556734,60.68197125668416],[11.82651734125534,60.68377096360274],[11.83016509957207,60.68372446259883]]],"type":"Polygon"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343728465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.7,69.1,17.7,69.1",
+    "geom:latitude":69.1,
+    "geom:longitude":17.7,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1926.0",
+    "gn:asciiname":"Finnland",
+    "gn:country_code":"NO",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3157583,
+    "gn:latitude":69.1,
+    "gn:longitude":17.7,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Finnland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297319,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3157583
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"023c4f78cbc81b20e831d8cc6d1bea25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297319,
+            "locality_id":1343728465,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1343728465,
+    "wof:lastmodified":1536855905,
+    "wof:name":"Finnland",
+    "wof:parent_id":1159297319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.7,
+    69.1,
+    17.7,
+    69.1
+],
+  "geometry": {"coordinates":[17.7,69.09999999999999],"type":"Point"}
+}

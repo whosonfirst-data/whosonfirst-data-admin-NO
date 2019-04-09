@@ -1,0 +1,73 @@
+{
+  "id": 1276940921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.94217,59.8502,8.94217,59.8502",
+    "geom:latitude":59.8502,
+    "geom:longitude":8.94217,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"807.0",
+    "gn:asciiname":"Rudsgrend",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141002,
+    "gn:latitude":59.8502,
+    "gn:longitude":8.94217,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Rudsgrend",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rudsgrendi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297293,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141002,
+        "wk:page":"Rudsgrendi"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0e5b1a76586f81e28a6fb081d22bfd53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297293,
+            "locality_id":1276940921,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1276940921,
+    "wof:lastmodified":1537675733,
+    "wof:name":"Rudsgrend",
+    "wof:parent_id":1159297293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.94217,
+    59.8502,
+    8.94217,
+    59.8502
+],
+  "geometry": {"coordinates":[8.94217,59.8502],"type":"Point"}
+}

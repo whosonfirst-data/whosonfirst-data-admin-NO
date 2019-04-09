@@ -1,0 +1,71 @@
+{
+  "id": 1242949327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.66197,59.10568,9.66197,59.10568",
+    "geom:latitude":59.10568,
+    "geom:longitude":9.66197,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"805",
+    "gn:asciiname":"Skrapeklev",
+    "gn:country_code":"NO",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404300,
+    "gn:latitude":59.10568,
+    "gn:longitude":9.66197,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Skrapeklev",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Skrapeklev"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296755,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404300
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4726f12d1bac14413990c50fd7cef657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296755,
+            "locality_id":1242949327,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1242949327,
+    "wof:lastmodified":1537675926,
+    "wof:name":"Skrapeklev",
+    "wof:parent_id":1159296755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.66197,
+    59.10568000000001,
+    9.66197,
+    59.10568000000001
+],
+  "geometry": {"coordinates":[9.66197,59.10568000000001],"type":"Point"}
+}

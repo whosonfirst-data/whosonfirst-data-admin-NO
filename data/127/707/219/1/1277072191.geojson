@@ -1,0 +1,71 @@
+{
+  "id": 1277072191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.32467,61.14313,11.32467,61.14313",
+    "geom:latitude":61.14313,
+    "geom:longitude":11.32467,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"429.0",
+    "gn:asciiname":"Rostadmoen",
+    "gn:country_code":"NO",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535882,
+    "gn:latitude":61.14313,
+    "gn:longitude":11.32467,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Rostadmoen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Rostadmoen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297061,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535882
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4ed582c206cd8cdb3d02919c686fc95f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297061,
+            "locality_id":1277072191,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1277072191,
+    "wof:lastmodified":1537675945,
+    "wof:name":"Rostadmoen",
+    "wof:parent_id":1159297061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.32467,
+    61.14313000000001,
+    11.32467,
+    61.14313000000001
+],
+  "geometry": {"coordinates":[11.32467,61.14313000000001],"type":"Point"}
+}

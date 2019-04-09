@@ -1,0 +1,71 @@
+{
+  "id": 1310707979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.12584,59.74573,10.12584,59.74573",
+    "geom:latitude":59.74573,
+    "geom:longitude":10.12584,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"602",
+    "gn:asciiname":"Pukerud",
+    "gn:country_code":"NO",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404126,
+    "gn:latitude":59.74573,
+    "gn:longitude":10.12584,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Pukerud",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Pukerud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297001,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404126
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ad5b2f9dfba01db267809d3210d39fdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297001,
+            "locality_id":1310707979,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1310707979,
+    "wof:lastmodified":1537675918,
+    "wof:name":"Pukerud",
+    "wof:parent_id":1159297001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.12584,
+    59.74573,
+    10.12584,
+    59.74573
+],
+  "geometry": {"coordinates":[10.12584,59.74573],"type":"Point"}
+}

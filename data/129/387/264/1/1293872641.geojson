@@ -1,0 +1,73 @@
+{
+  "id": 1293872641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.8,63.86667,10.8,63.86667",
+    "geom:latitude":63.86667,
+    "geom:longitude":10.8,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5039.0",
+    "gn:asciiname":"Volset",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3131372,
+    "gn:latitude":63.86667,
+    "gn:longitude":10.8,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"V\u00f8lset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Voldset",
+        "V\u00f8lset"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297077,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3131372
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"098259d4241609562203f163769baad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297077,
+            "locality_id":1293872641,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1293872641,
+    "wof:lastmodified":1537675672,
+    "wof:name":"Volset",
+    "wof:parent_id":1159297077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.8,
+    63.86666999999999,
+    10.8,
+    63.86666999999999
+],
+  "geometry": {"coordinates":[10.8,63.86666999999999],"type":"Point"}
+}

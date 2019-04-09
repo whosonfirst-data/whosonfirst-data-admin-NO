@@ -1,0 +1,62 @@
+{
+  "id": 1209381011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.01667,69.65,19.01667,69.65",
+    "geom:latitude":69.65,
+    "geom:longitude":19.01667,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1902.0",
+    "gn:asciiname":"Storsteinnes",
+    "gn:country_code":"NO",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3136021,
+    "gn:latitude":69.65,
+    "gn:longitude":19.01667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Storsteinnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3136021
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9e2e77147ab71597e3449e93820be11f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209381011
+        }
+    ],
+    "wof:id":1209381011,
+    "wof:lastmodified":1536288783,
+    "wof:name":"Storsteinnes",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.01667,
+    69.65,
+    19.01667,
+    69.65
+],
+  "geometry": {"coordinates":[19.01667,69.65000000000001],"type":"Point"}
+}

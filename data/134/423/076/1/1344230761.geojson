@@ -1,0 +1,74 @@
+{
+  "id": 1344230761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.61667,58.61667,5.61667,58.61667",
+    "geom:latitude":58.61667,
+    "geom:longitude":5.61667,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1119.0",
+    "gn:asciiname":"Brattland",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3160333,
+    "gn:latitude":58.61667,
+    "gn:longitude":5.61667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Brattland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bratlend",
+        "Brattlend",
+        "Brattland"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296955,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160333
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a860e0f3412f4e941dabb2ce5b647d63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296955,
+            "locality_id":1344230761,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1344230761,
+    "wof:lastmodified":1537675869,
+    "wof:name":"Brattland",
+    "wof:parent_id":1159296955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.61667,
+    58.61666999999999,
+    5.61667,
+    58.61666999999999
+],
+  "geometry": {"coordinates":[5.61667,58.61666999999999],"type":"Point"}
+}

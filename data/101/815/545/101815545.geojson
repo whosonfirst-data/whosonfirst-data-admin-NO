@@ -1,0 +1,126 @@
+{
+  "id": 101815545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000111,
+    "geom:area_square_m":686192.659868,
+    "geom:bbox":"11.4624449419,60.0855483703,11.4788069545,60.0946387474",
+    "geom:latitude":60.089854,
+    "geom:longitude":11.470498,
+    "gn:population":1029,
+    "iso:country":"NO",
+    "lbl:latitude":60.090111,
+    "lbl:longitude":11.469018,
+    "mps:latitude":60.090111,
+    "mps:longitude":11.469018,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Fjellfoten"
+    ],
+    "name:dut_x_preferred":[
+        "Fjellfoten"
+    ],
+    "name:eng_x_preferred":[
+        "Fjellfoten"
+    ],
+    "name:fre_x_preferred":[
+        "Fjellfoten"
+    ],
+    "name:jav_x_preferred":[
+        "Fjellfoten"
+    ],
+    "name:may_x_preferred":[
+        "Fjellfoten"
+    ],
+    "name:msa_x_preferred":[
+        "Fjellfoten"
+    ],
+    "name:nld_x_preferred":[
+        "Fjellfoten"
+    ],
+    "name:nno_x_preferred":[
+        "Fjellfoten"
+    ],
+    "name:nob_x_preferred":[
+        "Fjellfoten"
+    ],
+    "name:nor_x_preferred":[
+        "Fjellfoten"
+    ],
+    "name:ron_x_preferred":[
+        "Fjellfoten"
+    ],
+    "name:rum_x_preferred":[
+        "Fjellfoten"
+    ],
+    "name:swe_x_preferred":[
+        "Fjellfoten"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Akershus",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"Nes",
+    "qs:la_lc":"*NO0236",
+    "qs:level":"locality",
+    "qs:loc":"Fjellfoten",
+    "qs:loc_alt":"Fjellfoten",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":48,
+    "wof:belongsto":[
+        102191581,
+        1159297349,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545362,
+        "gp:id":858464,
+        "qs:id":628554,
+        "qs_pg:id":628554,
+        "wd:id":"Q3352382",
+        "wk:page":"Fjellfoten"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e90d17acaa7582e8ae91f07e8a53252b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297349,
+            "locality_id":101815545,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":101815545,
+    "wof:lastmodified":1529699764,
+    "wof:name":"Fjellfoten",
+    "wof:parent_id":1159297349,
+    "wof:placetype":"locality",
+    "wof:population":1029,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.46244494193957,
+    60.08554837025946,
+    11.478806954513,
+    60.09463874740311
+],
+  "geometry": {"coordinates":[[[11.47175686375914,60.09458282772511],[11.47171758561115,60.09368311849676],[11.47530173946717,60.09364572616363],[11.47526236817299,60.09274601844038],[11.47705439449624,60.09272728873708],[11.47701497785602,60.09182758195618],[11.478806954513,60.09180883008446],[11.47868857590902,60.08910971370483],[11.47689674259601,60.08912846388137],[11.4767785293227,60.08642934920681],[11.47498683744857,60.08644807495989],[11.47494748567567,60.08554837025946],[11.4659892370521,60.08564165528179],[11.46602834998913,60.08654136279296],[11.46244494193957,60.0865785188243],[11.4625620086573,60.08927764698365],[11.46435385693417,60.08925907865404],[11.46454925544754,60.09375763035121],[11.4663413407892,60.09373903648913],[11.46638047555535,60.09463874740311],[11.47175686375914,60.09458282772511]]],"type":"Polygon"}
+}

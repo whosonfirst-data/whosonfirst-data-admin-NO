@@ -1,0 +1,108 @@
+{
+  "id": 1125922271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.55,68.81667,14.55,68.81667",
+    "geom:latitude":68.81667,
+    "geom:longitude":14.55,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":68.81667,
+    "lbl:longitude":14.55,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Hovden"
+    ],
+    "name:eng_x_preferred":[
+        "Hovden"
+    ],
+    "name:fre_x_preferred":[
+        "Hovden"
+    ],
+    "name:jav_x_preferred":[
+        "Hovden"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30d6\u30c8\u30f3"
+    ],
+    "name:may_x_preferred":[
+        "Hovden"
+    ],
+    "name:nob_x_preferred":[
+        "Hovden i Vester\u00e5len"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3151673,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Hovden",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nordland Fylke",
+    "qs_pg:photos":50,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":50,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1350176,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":860076,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Nordland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159297417,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3151673,
+        "gp:id":860076,
+        "qs_pg:id":1350176,
+        "wd:id":"Q3141436"
+    },
+    "wof:country":"NO",
+    "wof:created":1497296522,
+    "wof:geomhash":"501e8a92ea14b97e662f4e7088e15c10",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297417,
+            "locality_id":1125922271,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1125922271,
+    "wof:lastmodified":1529700163,
+    "wof:name":"Hovden",
+    "wof:parent_id":1159297417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.55,
+    68.81667,
+    14.55,
+    68.81667
+],
+  "geometry": {"coordinates":[14.55,68.81667],"type":"Point"}
+}

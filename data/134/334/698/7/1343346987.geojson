@@ -1,0 +1,71 @@
+{
+  "id": 1343346987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.24066,62.83933,7.24066,62.83933",
+    "geom:latitude":62.83933,
+    "geom:longitude":7.24066,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1548",
+    "gn:asciiname":"Moen",
+    "gn:country_code":"NO",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404405,
+    "gn:latitude":62.83933,
+    "gn:longitude":7.24066,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Moen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Moen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297337,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404405
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9dfea8a807a6d1b8fe24a882adb1974e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297337,
+            "locality_id":1343346987,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1343346987,
+    "wof:lastmodified":1537675930,
+    "wof:name":"Moen",
+    "wof:parent_id":1159297337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.24066,
+    62.83933,
+    7.24066,
+    62.83933
+],
+  "geometry": {"coordinates":[7.24066,62.83933],"type":"Point"}
+}

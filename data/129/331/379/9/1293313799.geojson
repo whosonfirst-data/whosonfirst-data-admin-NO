@@ -1,0 +1,68 @@
+{
+  "id": 1293313799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.33794,60.32455,5.33794,60.32455",
+    "geom:latitude":60.32455,
+    "geom:longitude":5.33794,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1201.0",
+    "gn:asciiname":"Hop",
+    "gn:country_code":"NO",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3151898,
+    "gn:latitude":60.32455,
+    "gn:longitude":5.33794,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Hop",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297617,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3151898
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a1965668e3a4130f6dda2cc6878372c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":1293313799,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1293313799,
+    "wof:lastmodified":1537035959,
+    "wof:name":"Hop",
+    "wof:parent_id":1159297617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.33794,
+    60.32455,
+    5.33794,
+    60.32455
+],
+  "geometry": {"coordinates":[5.33794,60.32455],"type":"Point"}
+}

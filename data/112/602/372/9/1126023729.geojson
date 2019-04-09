@@ -1,0 +1,91 @@
+{
+  "id": 1126023729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.26374,62.29782,7.26374,62.29782",
+    "geom:latitude":62.29782,
+    "geom:longitude":7.26374,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":62.29782,
+    "lbl:longitude":7.26374,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Valdal"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":3132864,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Valldal",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"M\u00f8re og Romsdal Fylke",
+    "qs_pg:photos":223,
+    "qs_pg:photos_1k":45,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":223,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":314620,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":865498,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"M\u00f8re og Romsdal Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296857,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3132864,
+        "gp:id":865498,
+        "qs_pg:id":314620
+    },
+    "wof:country":"NO",
+    "wof:created":1497300995,
+    "wof:geomhash":"de79168c2321e22caad56169e79db9ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296857,
+            "locality_id":1126023729,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1126023729,
+    "wof:lastmodified":1529700096,
+    "wof:name":"Valldal",
+    "wof:parent_id":1159296857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.26374,
+    62.29782,
+    7.26374,
+    62.29782
+],
+  "geometry": {"coordinates":[7.26374,62.29782],"type":"Point"}
+}

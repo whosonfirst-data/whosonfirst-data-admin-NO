@@ -1,0 +1,104 @@
+{
+  "id": 1125872723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.588073,59.963947,10.588073,59.963947",
+    "geom:latitude":59.963947,
+    "geom:longitude":10.588073,
+    "gn:gn_country":null,
+    "iso:country":"NO",
+    "lbl:latitude":59.963947,
+    "lbl:longitude":10.588073,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "\u00d8ster\u00e5s"
+    ],
+    "name:eng_x_preferred":[
+        "\u00d8ster\u00e5s"
+    ],
+    "name:fre_x_preferred":[
+        "\u00d8ster\u00e5s"
+    ],
+    "name:jav_x_preferred":[
+        "\u00d8ster\u00e5s"
+    ],
+    "name:may_x_preferred":[
+        "\u00d8ster\u00e5s"
+    ],
+    "name:nob_x_preferred":[
+        "\u00d8ster\u00e5s"
+    ],
+    "name:swe_x_preferred":[
+        "\u00d8ster\u00e5s"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"\u00d8ster\u00e5s",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Akershus Fylke",
+    "qs_pg:photos":206,
+    "qs_pg:photos_1k":42,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":206,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":364203,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":15000606,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Akershus Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297009,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15000606,
+        "qs_pg:id":364203,
+        "wd:id":"Q4575842"
+    },
+    "wof:country":"NO",
+    "wof:created":1497294380,
+    "wof:geomhash":"060aba45297115845c918291bf268b70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297009,
+            "locality_id":1125872723,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1125872723,
+    "wof:lastmodified":1529699774,
+    "wof:name":"\u00d8ster\u00e5s",
+    "wof:parent_id":1159297009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.588073,
+    59.963947,
+    10.588073,
+    59.963947
+],
+  "geometry": {"coordinates":[10.588073,59.963947],"type":"Point"}
+}

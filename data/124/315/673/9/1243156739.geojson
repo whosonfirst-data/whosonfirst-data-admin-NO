@@ -1,0 +1,69 @@
+{
+  "id": 1243156739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.23863,66.58488,12.23863,66.58488",
+    "geom:latitude":66.58488,
+    "geom:longitude":12.23863,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1835.0",
+    "gn:asciiname":"Olderstad",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537055,
+    "gn:latitude":66.58488,
+    "gn:longitude":12.23863,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Olderstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Olderstad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297619,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537055
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"13befdb99f483e3f688cb8986958eafa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297619,
+            "locality_id":1243156739,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1243156739,
+    "wof:lastmodified":1537675994,
+    "wof:name":"Olderstad",
+    "wof:parent_id":1159297619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.23863,
+    66.58488,
+    12.23863,
+    66.58488
+],
+  "geometry": {"coordinates":[12.23863,66.58488],"type":"Point"}
+}

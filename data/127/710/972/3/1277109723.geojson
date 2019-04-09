@@ -1,0 +1,72 @@
+{
+  "id": 1277109723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.76572,60.46196,8.76572,60.46196",
+    "geom:latitude":60.46196,
+    "geom:longitude":8.76572,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"633.0",
+    "gn:asciiname":"Tunnhovd",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3133745,
+    "gn:latitude":60.46196,
+    "gn:longitude":8.76572,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Tunnhovd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tunhovd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297507,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3133745
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"bd2290c4003f6fdb23086f9d3ffc2403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297507,
+            "locality_id":1277109723,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1277109723,
+    "wof:lastmodified":1537675689,
+    "wof:name":"Tunnhovd",
+    "wof:parent_id":1159297507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.76572,
+    60.46196,
+    8.76572,
+    60.46196
+],
+  "geometry": {"coordinates":[8.76572,60.46196],"type":"Point"}
+}

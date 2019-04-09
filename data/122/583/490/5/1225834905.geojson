@@ -1,0 +1,73 @@
+{
+  "id": 1225834905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.14162,68.3905,17.14162,68.3905",
+    "geom:latitude":68.3905,
+    "geom:longitude":17.14162,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1805.0",
+    "gn:asciiname":"Vidrek",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3131875,
+    "gn:latitude":68.3905,
+    "gn:longitude":17.14162,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Vidrek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Virek",
+        "Vidrek",
+        "Virik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297203,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3131875,
+        "wk:page":"Vidrek"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"93ac51bbb9ca097edd61244f88a2b95e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297203,
+            "locality_id":1225834905,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1225834905,
+    "wof:lastmodified":1537675677,
+    "wof:name":"Vidrek",
+    "wof:parent_id":1159297203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.14162,
+    68.3905,
+    17.14162,
+    68.3905
+],
+  "geometry": {"coordinates":[17.14162,68.3905],"type":"Point"}
+}

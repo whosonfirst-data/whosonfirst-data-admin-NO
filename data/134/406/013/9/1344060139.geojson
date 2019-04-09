@@ -1,0 +1,72 @@
+{
+  "id": 1344060139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.07494,58.76088,9.07494,58.76088",
+    "geom:latitude":58.76088,
+    "geom:longitude":9.07494,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"901.0",
+    "gn:asciiname":"Sondeled",
+    "gn:country_code":"NO",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3137693,
+    "gn:latitude":58.76088,
+    "gn:longitude":9.07494,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"S\u00f8ndeled",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00f8ndeled"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296923,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3137693,
+        "wk:page":"S%C3%B8ndeled"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0d61dbe1378655025f8c3090f6184cd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296923,
+            "locality_id":1344060139,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1344060139,
+    "wof:lastmodified":1537675711,
+    "wof:name":"Sondeled",
+    "wof:parent_id":1159296923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.07494,
+    58.76088000000001,
+    9.07494,
+    58.76088000000001
+],
+  "geometry": {"coordinates":[9.07494,58.76088000000001],"type":"Point"}
+}

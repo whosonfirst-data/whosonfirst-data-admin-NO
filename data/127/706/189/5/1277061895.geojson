@@ -1,0 +1,68 @@
+{
+  "id": 1277061895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.7,62.91667,7.7,62.91667",
+    "geom:latitude":62.91667,
+    "geom:longitude":7.7,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1557.0",
+    "gn:asciiname":"Rod",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141626,
+    "gn:latitude":62.91667,
+    "gn:longitude":7.7,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"R\u00f8d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296785,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141626
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e8a23857d0a473532775f134152da23c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296785,
+            "locality_id":1277061895,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1277061895,
+    "wof:lastmodified":1536797187,
+    "wof:name":"Rod",
+    "wof:parent_id":1159296785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.7,
+    62.91667,
+    7.7,
+    62.91667
+],
+  "geometry": {"coordinates":[7.7,62.91667],"type":"Point"}
+}

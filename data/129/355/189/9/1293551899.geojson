@@ -1,0 +1,73 @@
+{
+  "id": 1293551899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.48333,58.7,7.48333,58.7",
+    "geom:latitude":58.7,
+    "geom:longitude":7.48333,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1026.0",
+    "gn:asciiname":"Roseland",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141295,
+    "gn:latitude":58.7,
+    "gn:longitude":7.48333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Roseland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rosseland",
+        "Roseland"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297305,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141295
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2c3959ade79f8b97bd9b2e218cf02b7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297305,
+            "locality_id":1293551899,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1293551899,
+    "wof:lastmodified":1537675737,
+    "wof:name":"Roseland",
+    "wof:parent_id":1159297305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.48333,
+    58.7,
+    7.48333,
+    58.7
+],
+  "geometry": {"coordinates":[7.48333,58.7],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276303225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.18139,59.23028,5.18139,59.23028",
+    "geom:latitude":59.23028,
+    "geom:longitude":5.18139,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1149.0",
+    "gn:asciiname":"Ferkingstad",
+    "gn:country_code":"NO",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3226981,
+    "gn:latitude":59.23028,
+    "gn:longitude":5.18139,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ferkingstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297005,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3226981
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7953675f35ca1adea432c3a273426579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297005,
+            "locality_id":1276303225,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1276303225,
+    "wof:lastmodified":1536818257,
+    "wof:name":"Ferkingstad",
+    "wof:parent_id":1159297005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.18139,
+    59.23028000000001,
+    5.18139,
+    59.23028000000001
+],
+  "geometry": {"coordinates":[5.18139,59.23028000000001],"type":"Point"}
+}

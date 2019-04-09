@@ -1,0 +1,91 @@
+{
+  "id": 1125772991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.86111,60.56944,4.86111,60.56944",
+    "geom:latitude":60.56944,
+    "geom:longitude":4.86111,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":60.56944,
+    "lbl:longitude":4.86111,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Oni"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3143538,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"One",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Hordaland Fylke",
+    "qs_pg:photos":71,
+    "qs_pg:photos_1k":14,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":71,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1159163,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":862498,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Hordaland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297547,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3143538,
+        "gp:id":862498,
+        "qs_pg:id":1159163
+    },
+    "wof:country":"NO",
+    "wof:created":1497290137,
+    "wof:geomhash":"e175f557b6576a11531015740680947d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297547,
+            "locality_id":1125772991,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1125772991,
+    "wof:lastmodified":1529700054,
+    "wof:name":"One",
+    "wof:parent_id":1159297547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.86111,
+    60.56944,
+    4.86111,
+    60.56944
+],
+  "geometry": {"coordinates":[4.86111,60.56944],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343553883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.46667,61.08333,12.46667,61.08333",
+    "geom:latitude":61.08333,
+    "geom:longitude":12.46667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"428.0",
+    "gn:asciiname":"Skjerberget",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3138880,
+    "gn:latitude":61.08333,
+    "gn:longitude":12.46667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Skjerberget",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Skj\u00e6r-berget",
+        "Skjerberget"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297339,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3138880
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"52de3a5e7388f2ee73bee466616caad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297339,
+            "locality_id":1343553883,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1343553883,
+    "wof:lastmodified":1537675719,
+    "wof:name":"Skjerberget",
+    "wof:parent_id":1159297339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.46667,
+    61.08333,
+    12.46667,
+    61.08333
+],
+  "geometry": {"coordinates":[12.46667,61.08333],"type":"Point"}
+}

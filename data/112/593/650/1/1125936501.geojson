@@ -1,0 +1,80 @@
+{
+  "id": 1125936501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.578659,66.225783,12.578659,66.225783",
+    "geom:latitude":66.225783,
+    "geom:longitude":12.578659,
+    "gn:gn_country":"NO",
+    "iso:country":"NO",
+    "lbl:latitude":66.225783,
+    "lbl:longitude":12.578659,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:name":"Nord\u00f8yv\u00e5gen",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nordland Fylke",
+    "qs_pg:photos":48,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":48,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":985960,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":15000856,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Nordland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159297149,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15000856,
+        "qs_pg:id":985960
+    },
+    "wof:country":"NO",
+    "wof:created":1497296984,
+    "wof:geomhash":"3fd5528ad271b2d2e8c364292c9d3dc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297149,
+            "locality_id":1125936501,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1125936501,
+    "wof:lastmodified":1529700170,
+    "wof:name":"Nord\u00f8yv\u00e5gen",
+    "wof:parent_id":1159297149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.578659,
+    66.225783,
+    12.578659,
+    66.225783
+],
+  "geometry": {"coordinates":[12.578659,66.22578300000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242580841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.75275,58.46427,8.75275,58.46427",
+    "geom:latitude":58.46427,
+    "geom:longitude":8.75275,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"906",
+    "gn:asciiname":"Heimdal",
+    "gn:country_code":"NO",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404204,
+    "gn:latitude":58.46427,
+    "gn:longitude":8.75275,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Heimdal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Heimdal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297607,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404204
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d7be8ff93493321a3d49aa387e495b20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297607,
+            "locality_id":1242580841,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1242580841,
+    "wof:lastmodified":1537675921,
+    "wof:name":"Heimdal",
+    "wof:parent_id":1159297607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.75275,
+    58.46426999999999,
+    8.75275,
+    58.46426999999999
+],
+  "geometry": {"coordinates":[8.75275,58.46426999999999],"type":"Point"}
+}

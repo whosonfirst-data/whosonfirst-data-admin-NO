@@ -1,0 +1,74 @@
+{
+  "id": 1259943151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.56448,68.87774,16.56448,68.87774",
+    "geom:latitude":68.87774,
+    "geom:longitude":16.56448,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1903.0",
+    "gn:asciiname":"Lundenes",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3146793,
+    "gn:latitude":68.87774,
+    "gn:longitude":16.56448,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Lundenes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lundenes i Senja",
+        "Lundenes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297451,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3146793,
+        "wk:page":"Lundenes"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5fc0c53a4484410623329b8be81ccbfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297451,
+            "locality_id":1259943151,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1259943151,
+    "wof:lastmodified":1537675773,
+    "wof:name":"Lundenes",
+    "wof:parent_id":1159297451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.56448,
+    68.87774,
+    16.56448,
+    68.87774
+],
+  "geometry": {"coordinates":[16.56448,68.87774],"type":"Point"}
+}

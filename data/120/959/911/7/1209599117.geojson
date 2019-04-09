@@ -1,0 +1,65 @@
+{
+  "id": 1209599117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.53333,64.73333,11.53333,64.73333",
+    "geom:latitude":64.73333,
+    "geom:longitude":11.53333,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5048.0",
+    "gn:asciiname":"Kvernvik",
+    "gn:country_code":"NO",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3148827,
+    "gn:latitude":64.73333,
+    "gn:longitude":11.53333,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Kvernvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Kvernvik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3148827
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"691ca8281e4f413e9b11ba8fd153ea41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209599117
+        }
+    ],
+    "wof:id":1209599117,
+    "wof:lastmodified":1537675786,
+    "wof:name":"Kvernvik",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.53333,
+    64.73333000000001,
+    11.53333,
+    64.73333000000001
+],
+  "geometry": {"coordinates":[11.53333,64.73333000000001],"type":"Point"}
+}

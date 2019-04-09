@@ -1,0 +1,71 @@
+{
+  "id": 1293478237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.29626,61.55976,10.29626,61.55976",
+    "geom:latitude":61.55976,
+    "geom:longitude":10.29626,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"520.0",
+    "gn:asciiname":"Oksendalen",
+    "gn:country_code":"NO",
+    "gn:dem":920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535980,
+    "gn:latitude":61.55976,
+    "gn:longitude":10.29626,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"\u00d8ksendalen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d8ksendalen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296971,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535980
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"64f16c82745ffa8628e89bab28f70901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296971,
+            "locality_id":1293478237,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1293478237,
+    "wof:lastmodified":1537675949,
+    "wof:name":"Oksendalen",
+    "wof:parent_id":1159296971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.29626,
+    61.55976,
+    10.29626,
+    61.55976
+],
+  "geometry": {"coordinates":[10.29626,61.55976],"type":"Point"}
+}

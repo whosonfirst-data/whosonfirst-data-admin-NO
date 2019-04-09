@@ -1,0 +1,71 @@
+{
+  "id": 1309707181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.81667,66.9,14.81667,66.9",
+    "geom:latitude":66.9,
+    "geom:longitude":14.81667,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1839.0",
+    "gn:asciiname":"Nedre Tolladalen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3144843,
+    "gn:latitude":66.9,
+    "gn:longitude":14.81667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nedre Toll\u00e5dalen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nedre Tollaadal",
+        "Nedre Toll\u00e5dalen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297265,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3144843
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"30bab436e4b5f02a7b2e86405c626fac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297265,
+            "locality_id":1309707181,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1309707181,
+    "wof:lastmodified":1537675760,
+    "wof:name":"Nedre Tolladalen",
+    "wof:parent_id":1159297265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.81667,
+    66.9,
+    14.81667,
+    66.9
+],
+  "geometry": {"coordinates":[14.81667,66.90000000000001],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209277581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.00063,69.95392,22.00063,69.95392",
+    "geom:latitude":69.95392,
+    "geom:longitude":22.00063,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1943.0",
+    "gn:asciiname":"Buktenes",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800564,
+    "gn:latitude":69.95392,
+    "gn:longitude":22.00063,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Buktenes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800564
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b06620044424dd74be7200d2acb119eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209277581
+        }
+    ],
+    "wof:id":1209277581,
+    "wof:lastmodified":1536292138,
+    "wof:name":"Buktenes",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.00063,
+    69.95392,
+    22.00063,
+    69.95392
+],
+  "geometry": {"coordinates":[22.00063,69.95392],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259671847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.31667,60.9,10.31667,60.9",
+    "geom:latitude":60.9,
+    "geom:longitude":10.31667,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"502.0",
+    "gn:asciiname":"Alset",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3163309,
+    "gn:latitude":60.9,
+    "gn:longitude":10.31667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u00c5lset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aalset",
+        "\u00c5lset"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297365,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3163309
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"fc86bfa26c2e8b813fbd236d5182ebba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297365,
+            "locality_id":1259671847,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1259671847,
+    "wof:lastmodified":1537675893,
+    "wof:name":"Alset",
+    "wof:parent_id":1159297365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.31667,
+    60.9,
+    10.31667,
+    60.9
+],
+  "geometry": {"coordinates":[10.31667,60.9],"type":"Point"}
+}

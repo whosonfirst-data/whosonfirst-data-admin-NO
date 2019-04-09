@@ -1,0 +1,73 @@
+{
+  "id": 1293184695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.26667,64.58333,11.26667,64.58333",
+    "geom:latitude":64.58333,
+    "geom:longitude":11.26667,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5005.0",
+    "gn:asciiname":"Arnes",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3162902,
+    "gn:latitude":64.58333,
+    "gn:longitude":11.26667,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"\u00c5rnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aarnes",
+        "\u00c5rnes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297197,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3162902
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"fb9f51afa9773a2d516011fed5654579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297197,
+            "locality_id":1293184695,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1293184695,
+    "wof:lastmodified":1537675888,
+    "wof:name":"Arnes",
+    "wof:parent_id":1159297197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.26667,
+    64.58333,
+    11.26667,
+    64.58333
+],
+  "geometry": {"coordinates":[11.26667,64.58333],"type":"Point"}
+}

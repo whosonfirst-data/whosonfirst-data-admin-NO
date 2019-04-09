@@ -1,0 +1,114 @@
+{
+  "id": 1125949663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.95361,68.19444,13.95361,68.19444",
+    "geom:latitude":68.19444,
+    "geom:longitude":13.95361,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":68.19444,
+    "lbl:longitude":13.95361,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054e\u0561\u056c\u0562\u0565\u0580\u0563"
+    ],
+    "name:dut_x_preferred":[
+        "Valberg"
+    ],
+    "name:eng_x_preferred":[
+        "Valberg"
+    ],
+    "name:fre_x_preferred":[
+        "Valberg"
+    ],
+    "name:jav_x_preferred":[
+        "Valberg"
+    ],
+    "name:may_x_preferred":[
+        "Valberg"
+    ],
+    "name:nno_x_preferred":[
+        "Valberg"
+    ],
+    "name:nob_x_preferred":[
+        "Valberg"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043b\u044c\u0431\u0435\u0440\u0433"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3132926,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Valberg",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nordland Fylke",
+    "qs_pg:photos":70,
+    "qs_pg:photos_1k":14,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":70,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":185141,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":865471,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Nordland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159297039,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3132926,
+        "gp:id":865471,
+        "qs_pg:id":185141,
+        "wd:id":"Q2561380"
+    },
+    "wof:country":"NO",
+    "wof:created":1497297408,
+    "wof:geomhash":"49d2c82251c10731d7a5b522fc211b94",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297039,
+            "locality_id":1125949663,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1125949663,
+    "wof:lastmodified":1529700179,
+    "wof:name":"Valberg",
+    "wof:parent_id":1159297039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.95361,
+    68.19444,
+    13.95361,
+    68.19444
+],
+  "geometry": {"coordinates":[13.95361,68.19444],"type":"Point"}
+}

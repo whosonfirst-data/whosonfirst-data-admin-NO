@@ -1,0 +1,116 @@
+{
+  "id": 101804043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000193,
+    "geom:area_square_m":1153367.794766,
+    "geom:bbox":"6.56698542885,61.076510636,6.59040014347,61.0901719762",
+    "geom:latitude":61.083559,
+    "geom:longitude":6.578678,
+    "iso:country":"NO",
+    "lbl:latitude":61.083803,
+    "lbl:longitude":6.578455,
+    "mps:latitude":61.083803,
+    "mps:longitude":6.578455,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Viks\u00f8yri"
+    ],
+    "name:eng_x_preferred":[
+        "Vik\u00f8yri"
+    ],
+    "name:fre_x_preferred":[
+        "Vik\u00f8yri"
+    ],
+    "name:may_x_preferred":[
+        "Vik\u00f8yri"
+    ],
+    "name:msa_x_preferred":[
+        "Vik\u00f8yri"
+    ],
+    "name:nld_x_preferred":[
+        "Viks\u00f8yri"
+    ],
+    "name:nno_x_preferred":[
+        "Vik\u00f8yri"
+    ],
+    "name:nob_x_preferred":[
+        "Viks\u00f8yri"
+    ],
+    "name:nor_x_preferred":[
+        "Viks\u00f8yri"
+    ],
+    "name:ron_x_preferred":[
+        "Viks\u00f8yri"
+    ],
+    "name:rum_x_preferred":[
+        "Viks\u00f8yri"
+    ],
+    "name:unk_x_variant":[
+        "Vik\u00f8ra"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Sogn og Fjordane",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"Vik",
+    "qs:la_lc":"*NO1417",
+    "qs:level":"locality",
+    "qs:loc":"Viks\u00f8yri",
+    "qs:loc_alt":"Viksoeyri",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":286,
+    "wof:belongsto":[
+        102191581,
+        1159297277,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3131653,
+        "gp:id":865800,
+        "qs:id":1159183,
+        "qs_pg:id":1159183,
+        "wd:id":"Q1805859",
+        "wk:page":"Vik\u00f8yri"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3cc025d1f424c46c8bf3229049e8607a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297277,
+            "locality_id":101804043,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":101804043,
+    "wof:lastmodified":1529699932,
+    "wof:name":"Viks\u00f8yri",
+    "wof:parent_id":1159297277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.5669854288505,
+    61.07651063597865,
+    6.5904001434705,
+    61.09017197622575
+],
+  "geometry": {"coordinates":[[[6.59021084193324,61.09017197622575],[6.5904001434705,61.08837363088452],[6.58855500365712,61.08833020169538],[6.58883906355186,61.0856326905872],[6.58699408145196,61.08558924199809],[6.58718352641461,61.08379090586192],[6.58533865099895,61.08374743651859],[6.58543341538359,61.0828482703746],[6.58358859564464,61.08280477892094],[6.58396779648479,61.07920812355007],[6.58581241225943,61.07925160956893],[6.58609659623727,61.07655411792217],[6.584252133402,61.07651063597865],[6.58415736049619,61.07740979812587],[6.57493486163241,61.07719202965382],[6.5747447878208,61.07899034147147],[6.56736646529009,61.07881569343272],[6.5669854288505,61.08241229975727],[6.56883020638799,61.08245600242577],[6.56873498302673,61.08335515631296],[6.57057981625883,61.08339883687825],[6.57038945324672,61.08519714851138],[6.57223439317806,61.08524080833644],[6.57194895597706,61.08793828270353],[6.57379405363201,61.08798192314947],[6.57369894672956,61.08888108338908],[6.5755441000951,61.08892470172555],[6.57544903812192,61.08982386370548],[6.57729424720003,61.0898674599311],[6.57738925815346,61.08896829658858],[6.58476993725799,61.08914244130483],[6.58467513038983,61.09004161008994],[6.59021084193324,61.09017197622575]]],"type":"Polygon"}
+}

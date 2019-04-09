@@ -1,0 +1,114 @@
+{
+  "id": 101803839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000126,
+    "geom:area_square_m":805753.25327,
+    "geom:bbox":"5.72684378428,58.7291652033,5.74522963579,58.7411021077",
+    "geom:latitude":58.735278,
+    "geom:longitude":5.736577,
+    "iso:country":"NO",
+    "lbl:latitude":58.736132,
+    "lbl:longitude":5.737204,
+    "mps:latitude":58.736132,
+    "mps:longitude":5.737204,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Lyefjell"
+    ],
+    "name:eng_x_preferred":[
+        "Lyefjell"
+    ],
+    "name:fre_x_preferred":[
+        "Lyefjell"
+    ],
+    "name:jav_x_preferred":[
+        "Lyefjell"
+    ],
+    "name:may_x_preferred":[
+        "Lyefjell"
+    ],
+    "name:msa_x_preferred":[
+        "Lyefjell"
+    ],
+    "name:nld_x_preferred":[
+        "Lyefjell"
+    ],
+    "name:nno_x_preferred":[
+        "Lyefjell"
+    ],
+    "name:nob_x_preferred":[
+        "Lyefjell"
+    ],
+    "name:nor_x_preferred":[
+        "Lyefjell"
+    ],
+    "name:ron_x_preferred":[
+        "Lyefjell"
+    ],
+    "name:rum_x_preferred":[
+        "Lyefjell"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Rogaland",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"Time",
+    "qs:la_lc":"*NO1121",
+    "qs:level":"locality",
+    "qs:loc":"Lyefjell",
+    "qs:loc_alt":"Lyefjell",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":170,
+    "wof:belongsto":[
+        102191581,
+        1159296707,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22659504,
+        "qs:id":7,
+        "qs_pg:id":1187040,
+        "wd:id":"Q1783442"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"27cb5ce564e948a693afb8adc60df117",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296707,
+            "locality_id":101803839,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":101803839,
+    "wof:lastmodified":1529700282,
+    "wof:name":"Lyefjell",
+    "wof:parent_id":1159296707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.72684378427834,
+    58.72916520334309,
+    5.74522963578539,
+    58.74110210773887
+],
+  "geometry": {"coordinates":[[[5.73769966965068,58.74110210773887],[5.73780759388751,58.74020458170372],[5.74297012360415,58.74036582560387],[5.74318569303739,58.73857076487559],[5.74490645944746,58.73862446640055],[5.74522963578539,58.73593187214368],[5.74350899928601,58.73587817523259],[5.74383224806661,58.73318558732831],[5.74211174634581,58.73313187335299],[5.74221952646167,58.73223434597594],[5.73877862428014,58.73212685607098],[5.73888648458484,58.73122933196493],[5.73372529789702,58.7310679391536],[5.73394125903008,58.72927290076211],[5.73050066553503,58.72916520334309],[5.73039260160709,58.7300627193589],[5.7269519411721,58.72995493215592],[5.72684378427834,58.73085244527738],[5.7285641553238,58.73090635125999],[5.72834790888277,58.73270138116635],[5.73006837140707,58.7327552685594],[5.7296359748151,58.73634533685237],[5.73307726093213,58.73645305894746],[5.73264510827289,58.74004314266256],[5.73436593190757,58.74009697735835],[5.73425792104706,58.74099450031139],[5.73769966965068,58.74110210773887]]],"type":"Polygon"}
+}

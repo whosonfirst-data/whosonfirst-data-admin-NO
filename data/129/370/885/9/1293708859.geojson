@@ -1,0 +1,71 @@
+{
+  "id": 1293708859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.32951,63.25326,8.32951,63.25326",
+    "geom:latitude":63.25326,
+    "geom:longitude":8.32951,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1576.0",
+    "gn:asciiname":"Sagvagen",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537026,
+    "gn:latitude":63.25326,
+    "gn:longitude":8.32951,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Sagv\u00e5gen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Sagv\u00e5gen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297491,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537026
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8ae39bdbb6754e2ce4ca92ca1846c6a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297491,
+            "locality_id":1293708859,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1293708859,
+    "wof:lastmodified":1537675993,
+    "wof:name":"Sagvagen",
+    "wof:parent_id":1159297491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.32951,
+    63.25326,
+    8.32951,
+    63.25326
+],
+  "geometry": {"coordinates":[8.32951,63.25326],"type":"Point"}
+}

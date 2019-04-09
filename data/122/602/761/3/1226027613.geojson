@@ -1,0 +1,73 @@
+{
+  "id": 1226027613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.23333,61.18333,6.23333,61.18333",
+    "geom:latitude":61.18333,
+    "geom:longitude":6.23333,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1418.0",
+    "gn:asciiname":"Lane",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":918,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3148451,
+    "gn:latitude":61.18333,
+    "gn:longitude":6.23333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"L\u00e5ne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e5nefjord",
+        "L\u00e5ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297555,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3148451
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2990c2a4ccb0b74f450c0188ef529023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297555,
+            "locality_id":1226027613,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1226027613,
+    "wof:lastmodified":1537675784,
+    "wof:name":"Lane",
+    "wof:parent_id":1159297555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.23333,
+    61.18333000000001,
+    6.23333,
+    61.18333000000001
+],
+  "geometry": {"coordinates":[6.23333,61.18333000000001],"type":"Point"}
+}

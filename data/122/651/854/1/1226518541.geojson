@@ -1,0 +1,71 @@
+{
+  "id": 1226518541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.54475,59.15931,8.54475,59.15931",
+    "geom:latitude":59.15931,
+    "geom:longitude":8.54475,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"830.0",
+    "gn:asciiname":"Tveitane",
+    "gn:country_code":"NO",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537487,
+    "gn:latitude":59.15931,
+    "gn:longitude":8.54475,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Tveitane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Tveitane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297341,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537487
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c5dcdd6d94662abff5db42cb85f6c53e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297341,
+            "locality_id":1226518541,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1226518541,
+    "wof:lastmodified":1537676014,
+    "wof:name":"Tveitane",
+    "wof:parent_id":1159297341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.54475,
+    59.15931,
+    8.54475,
+    59.15931
+],
+  "geometry": {"coordinates":[8.54475,59.15931],"type":"Point"}
+}

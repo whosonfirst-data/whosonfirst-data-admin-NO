@@ -1,0 +1,66 @@
+{
+  "id": 1260272819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.76667,66.25,12.76667,66.25",
+    "geom:latitude":66.25,
+    "geom:longitude":12.76667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1828.0",
+    "gn:asciiname":"Tonsvik",
+    "gn:country_code":"NO",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3134324,
+    "gn:latitude":66.25,
+    "gn:longitude":12.76667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"T\u00f8nsvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297235,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3134324
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"feae1dc05283914850a26ab775cc4bc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297235,
+            "locality_id":1260272819,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1260272819,
+    "wof:lastmodified":1536726604,
+    "wof:name":"Tonsvik",
+    "wof:parent_id":1159297235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.76667,
+    66.25,
+    12.76667,
+    66.25
+],
+  "geometry": {"coordinates":[12.76667,66.25],"type":"Point"}
+}

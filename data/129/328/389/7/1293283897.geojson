@@ -1,0 +1,68 @@
+{
+  "id": 1293283897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.48194,59.95361,5.48194,59.95361",
+    "geom:latitude":59.95361,
+    "geom:longitude":5.48194,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1223.0",
+    "gn:asciiname":"Neshamn",
+    "gn:country_code":"NO",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3144707,
+    "gn:latitude":59.95361,
+    "gn:longitude":5.48194,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Neshamn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297223,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3144707
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1cfb9b18ab326196c513c658bb2b03f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297223,
+            "locality_id":1293283897,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1293283897,
+    "wof:lastmodified":1537077442,
+    "wof:name":"Neshamn",
+    "wof:parent_id":1159297223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.48194,
+    59.95361,
+    5.48194,
+    59.95361
+],
+  "geometry": {"coordinates":[5.48194,59.95361],"type":"Point"}
+}

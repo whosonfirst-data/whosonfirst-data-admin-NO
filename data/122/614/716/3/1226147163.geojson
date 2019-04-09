@@ -1,0 +1,68 @@
+{
+  "id": 1226147163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.1884,60.54243,11.1884,60.54243",
+    "geom:latitude":60.54243,
+    "geom:longitude":11.1884,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"237.0",
+    "gn:asciiname":"Stubberuddalen",
+    "gn:country_code":"NO",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3135593,
+    "gn:latitude":60.54243,
+    "gn:longitude":11.1884,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Stubberuddalen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297097,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3135593
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"13b345836ed651397bbdba9cd132992f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297097,
+            "locality_id":1226147163,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1226147163,
+    "wof:lastmodified":1537072539,
+    "wof:name":"Stubberuddalen",
+    "wof:parent_id":1159297097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.1884,
+    60.54243,
+    11.1884,
+    60.54243
+],
+  "geometry": {"coordinates":[11.1884,60.54243],"type":"Point"}
+}

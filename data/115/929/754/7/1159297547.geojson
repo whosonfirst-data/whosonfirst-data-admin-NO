@@ -1,0 +1,69 @@
+{
+  "id": 1159297547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.161412,
+    "geom:bbox":"4.2661373556,60.4125820698,4.99705273689,60.7409046647",
+    "geom:latitude":60.580311,
+    "geom:longitude":4.61833,
+    "iso:country":"NO",
+    "lbl:latitude":60.586896,
+    "lbl:longitude":4.618391,
+    "mps:latitude":60.586896,
+    "mps:longitude":4.618391,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Oygarden"
+    ],
+    "name:nor_x_preferred":[
+        "\u00d8ygarden"
+    ],
+    "no-geonorge:datauttaksdato":"20180109110334",
+    "no-geonorge:kommunenummer":"1259",
+    "no-geonorge:lokalid":"172927",
+    "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
+    "no-geonorge:versjonid":"4.1",
+    "src:geom":"no-geonorge",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordance":{},
+    "wof:country":"NO",
+    "wof:created":1524596095,
+    "wof:geomhash":"92e4d27e2015ff51515e437ae0d40fa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297547,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1159297547,
+    "wof:lastmodified":1529700042,
+    "wof:name":"Oygarden",
+    "wof:parent_id":85687099,
+    "wof:placetype":"localadmin",
+    "wof:placetype_local":"kommune",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.26613735560402,
+    60.41258206983102,
+    4.99705273688704,
+    60.74090466472635
+],
+  "geometry": {"coordinates":[[[4.26613735560402,60.6878204708944],[4.53006899024476,60.72343307050343],[4.6257844012428,60.73619593465989],[4.65854901645052,60.74054685390112],[4.66124637039557,60.74090466472635],[4.77669751959608,60.73394126115705],[4.89787840917988,60.63189224842461],[4.90147432833773,60.59496230322888],[4.92162858619805,60.54972913797658],[4.97613777914979,60.50922159825753],[4.99705273688704,60.47568977479261],[4.95546603616806,60.45732500545996],[4.9546465620785,60.45615842113057],[4.93403692055301,60.44456235482954],[4.92653677459265,60.45024862241014],[4.92481565436147,60.45468208209179],[4.89831761052003,60.46560085354785],[4.80982637912489,60.46316874199039],[4.8081636690036,60.46295694742358],[4.77556951906439,60.45880086606842],[4.67934122538307,60.44648065145994],[4.41774307451823,60.41258206983102],[4.40302384735067,60.43954017435192],[4.40146428730754,60.44239369519106],[4.36280538066338,60.5129398351821],[4.33111637488232,60.57050655514245],[4.26613735560402,60.6878204708944]]],"type":"Polygon"}
+}

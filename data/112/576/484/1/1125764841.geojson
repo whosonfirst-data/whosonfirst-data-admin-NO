@@ -1,0 +1,120 @@
+{
+  "id": 1125764841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.88333,62.28333,5.88333,62.28333",
+    "geom:latitude":62.28333,
+    "geom:longitude":5.88333,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":320,
+    "gn:population":320,
+    "iso:country":"NO",
+    "lbl:latitude":62.28333,
+    "lbl:longitude":5.88333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Haddal"
+    ],
+    "name:eng_x_preferred":[
+        "Haddal"
+    ],
+    "name:fre_x_preferred":[
+        "Haddal"
+    ],
+    "name:jav_x_preferred":[
+        "Haddal"
+    ],
+    "name:may_x_preferred":[
+        "Haddal"
+    ],
+    "name:nno_x_preferred":[
+        "Haddal"
+    ],
+    "name:nob_x_preferred":[
+        "Haddal"
+    ],
+    "name:rum_x_preferred":[
+        "Haddal"
+    ],
+    "name:unk_x_variant":[
+        "Hadal"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3154403,
+    "qs_pg:gn_pop":320,
+    "qs_pg:name":"Haddal",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"M\u00f8re og Romsdal Fylke",
+    "qs_pg:photos":55,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":55,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1332196,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":859235,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"M\u00f8re og Romsdal Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297271,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3154403,
+        "gp:id":859235,
+        "qs_pg:id":1332196,
+        "wd:id":"Q1779398"
+    },
+    "wof:country":"NO",
+    "wof:created":1497289846,
+    "wof:geomhash":"38da5a76cde5a713fb93e25bae9731ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297271,
+            "locality_id":1125764841,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1125764841,
+    "wof:lastmodified":1529700091,
+    "wof:name":"Haddal",
+    "wof:parent_id":1159297271,
+    "wof:placetype":"locality",
+    "wof:population":320,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.88333,
+    62.28333,
+    5.88333,
+    62.28333
+],
+  "geometry": {"coordinates":[5.88333,62.28333],"type":"Point"}
+}

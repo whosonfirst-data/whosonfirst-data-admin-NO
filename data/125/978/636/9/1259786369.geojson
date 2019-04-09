@@ -1,0 +1,68 @@
+{
+  "id": 1259786369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.95917,58.59361,8.95917,58.59361",
+    "geom:latitude":58.59361,
+    "geom:longitude":8.95917,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"914.0",
+    "gn:asciiname":"Knutsvik",
+    "gn:country_code":"NO",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3225132,
+    "gn:latitude":58.59361,
+    "gn:longitude":8.95917,
+    "gn:modification_date":"2010-10-15",
+    "gn:name":"Knutsvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297531,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3225132
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2b65c32f4c3c39231fe056192e6c088b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297531,
+            "locality_id":1259786369,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1259786369,
+    "wof:lastmodified":1536919602,
+    "wof:name":"Knutsvik",
+    "wof:parent_id":1159297531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.95917,
+    58.59361,
+    8.95917,
+    58.59361
+],
+  "geometry": {"coordinates":[8.95917,58.59361],"type":"Point"}
+}

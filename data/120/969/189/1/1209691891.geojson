@@ -1,0 +1,66 @@
+{
+  "id": 1209691891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.52573,69.71996,20.52573,69.71996",
+    "geom:latitude":69.71996,
+    "geom:longitude":20.52573,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1940.0",
+    "gn:asciiname":"Engenes",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":780223,
+    "gn:latitude":69.71996,
+    "gn:longitude":20.52573,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Engenes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Engnes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":780223
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"34768f2b607765d8c46e7c75ad65e602",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209691891
+        }
+    ],
+    "wof:id":1209691891,
+    "wof:lastmodified":1537675664,
+    "wof:name":"Engenes",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.52573,
+    69.71996,
+    20.52573,
+    69.71996
+],
+  "geometry": {"coordinates":[20.52573,69.71996],"type":"Point"}
+}

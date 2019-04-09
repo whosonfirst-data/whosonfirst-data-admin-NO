@@ -1,0 +1,117 @@
+{
+  "id": 1125764895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.21667,60.76667,11.21667,60.76667",
+    "geom:latitude":60.76667,
+    "geom:longitude":11.21667,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":876,
+    "gn:population":876,
+    "iso:country":"NO",
+    "lbl:latitude":60.76667,
+    "lbl:longitude":11.21667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Ilseng"
+    ],
+    "name:eng_x_preferred":[
+        "Ilseng"
+    ],
+    "name:fre_x_preferred":[
+        "Ilseng"
+    ],
+    "name:jav_x_preferred":[
+        "Ilseng"
+    ],
+    "name:may_x_preferred":[
+        "Ilseng"
+    ],
+    "name:nno_x_preferred":[
+        "Ilseng"
+    ],
+    "name:nob_x_preferred":[
+        "Ilseng"
+    ],
+    "name:rum_x_preferred":[
+        "Ilseng"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3151193,
+    "qs_pg:gn_pop":876,
+    "qs_pg:name":"Ilseng",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Hedmark Fylke",
+    "qs_pg:photos":27,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":27,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1332214,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":860233,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Hedmark Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297493,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3151193,
+        "gp:id":860233,
+        "qs_pg:id":1332214,
+        "wd:id":"Q1770385"
+    },
+    "wof:country":"NO",
+    "wof:created":1497289850,
+    "wof:geomhash":"eb3f2374358b43cf9dd4817b0471c692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297493,
+            "locality_id":1125764895,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1125764895,
+    "wof:lastmodified":1529700024,
+    "wof:name":"Ilseng",
+    "wof:parent_id":1159297493,
+    "wof:placetype":"locality",
+    "wof:population":876,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.21667,
+    60.76667,
+    11.21667,
+    60.76667
+],
+  "geometry": {"coordinates":[11.21667,60.76667],"type":"Point"}
+}

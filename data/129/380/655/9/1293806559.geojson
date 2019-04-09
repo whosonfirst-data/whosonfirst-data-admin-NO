@@ -1,0 +1,79 @@
+{
+  "id": 1293806559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.65372,70.83443,26.65372,70.83443",
+    "geom:latitude":70.83443,
+    "geom:longitude":26.65372,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2022.0",
+    "gn:asciiname":"Tommervik",
+    "gn:country_code":"NO",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":777177,
+    "gn:latitude":70.83443,
+    "gn:longitude":26.65372,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"T\u00f8mmervik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "T\u00f8mmervik"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043c\u043c\u0435\u0440\u0432\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "T\u00f8mmervika",
+        "Tommerviken",
+        "T\u00f8mmervik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297143,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":777177
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"18f3d384508703698ec39602c32ecc94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297143,
+            "locality_id":1293806559,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1293806559,
+    "wof:lastmodified":1537675640,
+    "wof:name":"Tommervik",
+    "wof:parent_id":1159297143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.65372,
+    70.83443,
+    26.65372,
+    70.83443
+],
+  "geometry": {"coordinates":[26.65372,70.83443],"type":"Point"}
+}

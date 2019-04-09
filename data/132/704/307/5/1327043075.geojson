@@ -1,0 +1,71 @@
+{
+  "id": 1327043075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.32434,58.85995,8.32434,58.85995",
+    "geom:latitude":58.85995,
+    "geom:longitude":8.32434,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"929.0",
+    "gn:asciiname":"Mosvald",
+    "gn:country_code":"NO",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536340,
+    "gn:latitude":58.85995,
+    "gn:longitude":8.32434,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Mosvald",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Mosvald"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297279,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536340
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2d569ade311dc020db118f7d7a1d1fd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297279,
+            "locality_id":1327043075,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1327043075,
+    "wof:lastmodified":1537675965,
+    "wof:name":"Mosvald",
+    "wof:parent_id":1159297279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.32434,
+    58.85995,
+    8.32434,
+    58.85995
+],
+  "geometry": {"coordinates":[8.32434,58.85995],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309795651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23937,68.37188,15.23937,68.37188",
+    "geom:latitude":68.37188,
+    "geom:longitude":15.23937,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1851.0",
+    "gn:asciiname":"Kvannkjosen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3148931,
+    "gn:latitude":68.37188,
+    "gn:longitude":15.23937,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Kvannkjosen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kvankjosen",
+        "Kvannkjosen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297361,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3148931
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e40b28c2a99386dc60194a3c515173f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297361,
+            "locality_id":1309795651,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1309795651,
+    "wof:lastmodified":1537675787,
+    "wof:name":"Kvannkjosen",
+    "wof:parent_id":1159297361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23937,
+    68.37188,
+    15.23937,
+    68.37188
+],
+  "geometry": {"coordinates":[15.23937,68.37188],"type":"Point"}
+}

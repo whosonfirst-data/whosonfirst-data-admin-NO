@@ -1,0 +1,101 @@
+{
+  "id": 1125773023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.06667,70.5,25.06667,70.5",
+    "geom:latitude":70.5,
+    "geom:longitude":25.06667,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":70.5,
+    "lbl:longitude":25.06667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Russenes"
+    ],
+    "name:eng_x_preferred":[
+        "Russenes"
+    ],
+    "name:fre_x_preferred":[
+        "Russenes"
+    ],
+    "name:nob_x_preferred":[
+        "Russenes"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":777983,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Russenes",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Finnmark Fylke",
+    "qs_pg:photos":97,
+    "qs_pg:photos_1k":20,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":97,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1159165,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":863257,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Finnmark Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297563,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":777983,
+        "gp:id":863257,
+        "qs_pg:id":1159165,
+        "wd:id":"Q2497133"
+    },
+    "wof:country":"NO",
+    "wof:created":1497290139,
+    "wof:geomhash":"3de99ef51f0aeb9731b871e1c3ce8dd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297563,
+            "locality_id":1125773023,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1125773023,
+    "wof:lastmodified":1529699909,
+    "wof:name":"Russenes",
+    "wof:parent_id":1159297563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.06667,
+    70.5,
+    25.06667,
+    70.5
+],
+  "geometry": {"coordinates":[25.06667,70.5],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226824931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.82627,69.84687,21.82627,69.84687",
+    "geom:latitude":69.84687,
+    "geom:longitude":21.82627,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1943.0",
+    "gn:asciiname":"Karvik",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":801349,
+    "gn:latitude":69.84687,
+    "gn:longitude":21.82627,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Karvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Karvik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297307,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":801349
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"404b021f42fd99b4df0f86269924e190",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297307,
+            "locality_id":1226824931,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1226824931,
+    "wof:lastmodified":1537675669,
+    "wof:name":"Karvik",
+    "wof:parent_id":1159297307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.82627,
+    69.84687,
+    21.82627,
+    69.84687
+],
+  "geometry": {"coordinates":[21.82627,69.84687],"type":"Point"}
+}

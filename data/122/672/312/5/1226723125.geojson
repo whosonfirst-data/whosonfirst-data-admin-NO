@@ -1,0 +1,75 @@
+{
+  "id": 1226723125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.5,61.86667,6.5,61.86667",
+    "geom:latitude":61.86667,
+    "geom:longitude":6.5,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1449.0",
+    "gn:asciiname":"Blakset",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3161061,
+    "gn:latitude":61.86667,
+    "gn:longitude":6.5,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Blakset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Blaks\u00e6ter",
+        "Blakseter",
+        "Blakkset",
+        "Blakset"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296967,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3161061
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"cda2fdcca55874999446d8c0a21a8e8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296967,
+            "locality_id":1226723125,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1226723125,
+    "wof:lastmodified":1537675873,
+    "wof:name":"Blakset",
+    "wof:parent_id":1159296967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.5,
+    61.86666999999999,
+    6.5,
+    61.86666999999999
+],
+  "geometry": {"coordinates":[6.5,61.86666999999999],"type":"Point"}
+}

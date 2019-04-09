@@ -1,0 +1,71 @@
+{
+  "id": 1242690749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.71437,58.42006,8.71437,58.42006",
+    "geom:latitude":58.42006,
+    "geom:longitude":8.71437,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"906",
+    "gn:asciiname":"Natvik",
+    "gn:country_code":"NO",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404483,
+    "gn:latitude":58.42006,
+    "gn:longitude":8.71437,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Natvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Natvik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297607,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404483
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ee8e2b2ec6032039bbd29881f6230e85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297607,
+            "locality_id":1242690749,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1242690749,
+    "wof:lastmodified":1537675933,
+    "wof:name":"Natvik",
+    "wof:parent_id":1159297607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.71437,
+    58.42006,
+    8.71437,
+    58.42006
+],
+  "geometry": {"coordinates":[8.71437,58.42006],"type":"Point"}
+}

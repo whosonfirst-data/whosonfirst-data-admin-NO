@@ -1,0 +1,68 @@
+{
+  "id": 1226151709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.93333,58.8,8.93333,58.8",
+    "geom:latitude":58.8,
+    "geom:longitude":8.93333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"912.0",
+    "gn:asciiname":"Takseras",
+    "gn:country_code":"NO",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3134886,
+    "gn:latitude":58.8,
+    "gn:longitude":8.93333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Takser\u00e5s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296875,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3134886
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1514245b727e3413ff0807ed063cbb1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296875,
+            "locality_id":1226151709,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1226151709,
+    "wof:lastmodified":1537066125,
+    "wof:name":"Takseras",
+    "wof:parent_id":1159296875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.93333,
+    58.8,
+    8.93333,
+    58.8
+],
+  "geometry": {"coordinates":[8.93333,58.8],"type":"Point"}
+}

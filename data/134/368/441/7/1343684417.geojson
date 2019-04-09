@@ -1,0 +1,77 @@
+{
+  "id": 1343684417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.07586,70.09298,25.07586,70.09298",
+    "geom:latitude":70.09298,
+    "geom:longitude":25.07586,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2020.0",
+    "gn:asciiname":"Hamina",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537592,
+    "gn:latitude":70.09298,
+    "gn:longitude":25.07586,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Hamina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fkv_x_preferred":[
+        "Hamina"
+    ],
+    "name:nor_x_preferred":[
+        "Hamnbukt"
+    ],
+    "name:sme_x_preferred":[
+        "H\u00e1vdna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297563,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537592
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7dd6234e4707bfc85e88391af2cd0ac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297563,
+            "locality_id":1343684417,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1343684417,
+    "wof:lastmodified":1537676019,
+    "wof:name":"Hamina",
+    "wof:parent_id":1159297563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.07586,
+    70.09298000000001,
+    25.07586,
+    70.09298000000001
+],
+  "geometry": {"coordinates":[25.07586,70.09298000000001],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1310204111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.57513,70.12261,28.57513,70.12261",
+    "geom:latitude":70.12261,
+    "geom:longitude":28.57513,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2027.0",
+    "gn:asciiname":"Stuorravuonna",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":779340,
+    "gn:latitude":70.12261,
+    "gn:longitude":28.57513,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Stuorravuonna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Karlebotn"
+    ],
+    "name:nor_x_preferred":[
+        "Karlebotn"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u043b\u0435\u0431\u043e\u0442\u043d"
+    ],
+    "name:sme_x_preferred":[
+        "Stuorravuonna"
+    ],
+    "name:und_x_variant":[
+        "Karlbotn",
+        "Karlebotn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297285,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":779340,
+        "wk:page":"Karlebotn"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6d2c64e4e4538f19fb022fb246177f5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297285,
+            "locality_id":1310204111,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1310204111,
+    "wof:lastmodified":1537675658,
+    "wof:name":"Stuorravuonna",
+    "wof:parent_id":1159297285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.57513,
+    70.12261,
+    28.57513,
+    70.12261
+],
+  "geometry": {"coordinates":[28.57513,70.12260999999999],"type":"Point"}
+}

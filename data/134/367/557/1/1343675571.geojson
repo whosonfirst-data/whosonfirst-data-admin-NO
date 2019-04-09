@@ -1,0 +1,72 @@
+{
+  "id": 1343675571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.88359,59.68133,10.88359,59.68133",
+    "geom:latitude":59.68133,
+    "geom:longitude":10.88359,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"213",
+    "gn:asciiname":"Krakstad",
+    "gn:country_code":"NO",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9404016,
+    "gn:latitude":59.68133,
+    "gn:longitude":10.88359,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Kr\u00e5kstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Kr\u00e5kstad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296817,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404016,
+        "wk:page":"Kr%C3%A5kstad"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b97a689d2ae120471f5b3604eecceb0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296817,
+            "locality_id":1343675571,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1343675571,
+    "wof:lastmodified":1537675914,
+    "wof:name":"Krakstad",
+    "wof:parent_id":1159296817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.88359,
+    59.68133,
+    10.88359,
+    59.68133
+],
+  "geometry": {"coordinates":[10.88359,59.68133],"type":"Point"}
+}

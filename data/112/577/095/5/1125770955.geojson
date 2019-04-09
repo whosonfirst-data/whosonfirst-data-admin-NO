@@ -1,0 +1,132 @@
+{
+  "id": 1125770955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.22705,60.09485,5.22705,60.09485",
+    "geom:latitude":60.09485,
+    "geom:longitude":5.22705,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":1026,
+    "gn:population":1026,
+    "iso:country":"NO",
+    "lbl:latitude":60.09485,
+    "lbl:longitude":5.22705,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Storeb\u00f8"
+    ],
+    "name:dan_x_preferred":[
+        "Storeb\u00f8"
+    ],
+    "name:dut_x_preferred":[
+        "Storeb\u00f8"
+    ],
+    "name:eng_x_preferred":[
+        "Storeb\u00f8"
+    ],
+    "name:fre_x_preferred":[
+        "Storeb\u00f8"
+    ],
+    "name:jav_x_preferred":[
+        "Storeb\u00f8"
+    ],
+    "name:may_x_preferred":[
+        "Storeb\u00f8"
+    ],
+    "name:nno_x_preferred":[
+        "Storeb\u00f8"
+    ],
+    "name:nob_x_preferred":[
+        "Storeb\u00f8"
+    ],
+    "name:rum_x_preferred":[
+        "Storeb\u00f8"
+    ],
+    "name:spa_x_preferred":[
+        "Storeb\u00f8"
+    ],
+    "name:swe_x_preferred":[
+        "Storeb\u00f8"
+    ],
+    "name:unk_x_variant":[
+        "Storeb\u00f6"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":3136618,
+    "qs_pg:gn_pop":1026,
+    "qs_pg:name":"Storab\u00f8",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Hordaland Fylke",
+    "qs_pg:photos":34,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":34,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":266773,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":864479,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Hordaland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297091,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3136618,
+        "gp:id":864479,
+        "qs_pg:id":266773,
+        "wd:id":"Q2204280"
+    },
+    "wof:country":"NO",
+    "wof:created":1497290064,
+    "wof:geomhash":"83ec0b4ad6945e7f640eba451bd78533",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297091,
+            "locality_id":1125770955,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1125770955,
+    "wof:lastmodified":1529700051,
+    "wof:name":"Storab\u00f8",
+    "wof:parent_id":1159297091,
+    "wof:placetype":"locality",
+    "wof:population":1026,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.22705,
+    60.09485,
+    5.22705,
+    60.09485
+],
+  "geometry": {"coordinates":[5.22705,60.09485],"type":"Point"}
+}

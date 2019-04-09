@@ -1,0 +1,74 @@
+{
+  "id": 1259756371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.12344,62.16602,5.12344,62.16602",
+    "geom:latitude":62.16602,
+    "geom:longitude":5.12344,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1441.0",
+    "gn:asciiname":"Ervik",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3158080,
+    "gn:latitude":62.16602,
+    "gn:longitude":5.12344,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Ervik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ervikbygda",
+        "Ervik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296915,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3158080,
+        "wk:page":"Ervik%2C_Sogn_og_Fjordane"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9e26ea3783a85762d9ad17571ba2256c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296915,
+            "locality_id":1259756371,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1259756371,
+    "wof:lastmodified":1537675851,
+    "wof:name":"Ervik",
+    "wof:parent_id":1159296915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.12344,
+    62.16602,
+    5.12344,
+    62.16602
+],
+  "geometry": {"coordinates":[5.12344,62.16602],"type":"Point"}
+}

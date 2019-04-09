@@ -1,0 +1,71 @@
+{
+  "id": 1226132279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.18333,66.25,13.18333,66.25",
+    "geom:latitude":66.25,
+    "geom:longitude":13.18333,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1828.0",
+    "gn:asciiname":"Enga",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3158250,
+    "gn:latitude":66.25,
+    "gn:longitude":13.18333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Enga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Engen",
+        "Enga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297235,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3158250
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2785ddb4e40db7b5de727c0cb6307e8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297235,
+            "locality_id":1226132279,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1226132279,
+    "wof:lastmodified":1537675852,
+    "wof:name":"Enga",
+    "wof:parent_id":1159297235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.18333,
+    66.25,
+    13.18333,
+    66.25
+],
+  "geometry": {"coordinates":[13.18333,66.25],"type":"Point"}
+}

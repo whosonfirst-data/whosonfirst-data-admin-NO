@@ -1,0 +1,68 @@
+{
+  "id": 1343455473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.80291,60.6261,4.80291,60.6261",
+    "geom:latitude":60.6261,
+    "geom:longitude":4.80291,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1259.0",
+    "gn:asciiname":"Nautnes",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3144939,
+    "gn:latitude":60.6261,
+    "gn:longitude":4.80291,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Nautnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297547,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3144939
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ad454dc85e5eeecd18e2471726b7a8d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297547,
+            "locality_id":1343455473,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1343455473,
+    "wof:lastmodified":1536753415,
+    "wof:name":"Nautnes",
+    "wof:parent_id":1159297547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.80291,
+    60.6261,
+    4.80291,
+    60.6261
+],
+  "geometry": {"coordinates":[4.80291,60.6261],"type":"Point"}
+}

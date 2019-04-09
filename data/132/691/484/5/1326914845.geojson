@@ -1,0 +1,87 @@
+{
+  "id": 1326914845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2243,67.88806,16.2243,67.88806",
+    "geom:latitude":67.88806,
+    "geom:longitude":16.2243,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1850.0",
+    "gn:asciiname":"Masske",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3145252,
+    "gn:latitude":67.88806,
+    "gn:longitude":16.2243,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"M\u00e5sske",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Indre Musken"
+    ],
+    "name:nor_x_variant":[
+        "Musken"
+    ],
+    "name:sme_x_preferred":[
+        "Moski Sis"
+    ],
+    "name:smj_x_preferred":[
+        "M\u00e5sske"
+    ],
+    "name:smj_x_variant":[
+        "Moski"
+    ],
+    "name:und_x_variant":[
+        "Moski Sis",
+        "Musken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297109,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3145252,
+        "wk:page":"Musken"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a6456017d1cd6979d367adae70e9d392",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297109,
+            "locality_id":1326914845,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1326914845,
+    "wof:lastmodified":1537675763,
+    "wof:name":"Masske",
+    "wof:parent_id":1159297109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2243,
+    67.88806,
+    16.2243,
+    67.88806
+],
+  "geometry": {"coordinates":[16.2243,67.88806],"type":"Point"}
+}

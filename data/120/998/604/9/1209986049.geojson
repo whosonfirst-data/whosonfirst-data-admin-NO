@@ -1,0 +1,67 @@
+{
+  "id": 1209986049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.03099,63.23034,11.03099,63.23034",
+    "geom:latitude":63.23034,
+    "geom:longitude":11.03099,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5032.0",
+    "gn:asciiname":"Mebonden",
+    "gn:country_code":"NO",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":7626382,
+    "gn:latitude":63.23034,
+    "gn:longitude":11.03099,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Mebonden",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296977,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626382,
+        "wk:page":"Mebonden"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"dfa5da5b142db6cd26687f52ea32fbff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296977,
+            "locality_id":1209986049,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1209986049,
+    "wof:lastmodified":1537570112,
+    "wof:name":"Mebonden",
+    "wof:parent_id":1159296977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.03099,
+    63.23034000000001,
+    11.03099,
+    63.23034000000001
+],
+  "geometry": {"coordinates":[11.03099,63.23034000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226127017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.31667,65.25,12.31667,65.25",
+    "geom:latitude":65.25,
+    "geom:longitude":12.31667,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1811.0",
+    "gn:asciiname":"Gaupa",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3155971,
+    "gn:latitude":65.25,
+    "gn:longitude":12.31667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gaupa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gaupen",
+        "Gaupa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296909,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3155971
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c1e5e96d9529fe386b584b1aeb2ed372",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296909,
+            "locality_id":1226127017,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1226127017,
+    "wof:lastmodified":1537675835,
+    "wof:name":"Gaupa",
+    "wof:parent_id":1159296909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.31667,
+    65.25,
+    12.31667,
+    65.25
+],
+  "geometry": {"coordinates":[12.31667,65.25],"type":"Point"}
+}

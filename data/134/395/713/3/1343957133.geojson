@@ -1,0 +1,75 @@
+{
+  "id": 1343957133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.37713,69.69586,29.37713,69.69586",
+    "geom:latitude":69.69586,
+    "geom:longitude":29.37713,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2030.0",
+    "gn:asciiname":"Neiden",
+    "gn:country_code":"NO",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":778571,
+    "gn:latitude":69.69586,
+    "gn:longitude":29.37713,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Neiden",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Neiden"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0439\u0434\u0435\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296947,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":778571,
+        "wk:page":"Neiden%2C_Norway"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"cfebdcd2989a227cb61de72963b1b95e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296947,
+            "locality_id":1343957133,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1343957133,
+    "wof:lastmodified":1537675651,
+    "wof:name":"Neiden",
+    "wof:parent_id":1159296947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.37713,
+    69.69586,
+    29.37713,
+    69.69586
+],
+  "geometry": {"coordinates":[29.37713,69.69586],"type":"Point"}
+}

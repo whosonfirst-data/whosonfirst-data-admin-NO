@@ -1,0 +1,126 @@
+{
+  "id": 85862185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1610628.777168,
+    "geom:bbox":"5.343374,60.392438,5.343374,60.392438",
+    "geom:latitude":60.392438,
+    "geom:longitude":5.343374,
+    "gn:id":"",
+    "iso:country":"NO",
+    "lbl:latitude":60.392438,
+    "lbl:longitude":5.343374,
+    "mps:latitude":60.389429,
+    "mps:longitude":5.347282,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:dut_x_preferred":[
+        "Kalfaret"
+    ],
+    "name:eng_x_preferred":[
+        "Kalfaret"
+    ],
+    "name:ger_x_preferred":[
+        "Kalfaret"
+    ],
+    "name:nno_x_preferred":[
+        "Kalfaret"
+    ],
+    "name:nob_x_preferred":[
+        "Kalfaret"
+    ],
+    "name:nor_x_preferred":[
+        "Kalfaret"
+    ],
+    "name:unk_x_variant":[
+        "Kalfaret"
+    ],
+    "qs:gn_adm0_cc":"NO",
+    "qs:gn_id":0,
+    "qs:gn_local":3161732,
+    "qs:gn_nam_loc":"Bergen, Bergen, Hordaland Fylke, NO",
+    "qs:gn_namadm1":"07",
+    "qs:local_max":5825,
+    "qs:local_sum":38813,
+    "qs:localhoods":24,
+    "qs:name":"Kalfaret",
+    "qs:name_adm0":"Norge",
+    "qs:name_adm1":"Hordaland Fylke",
+    "qs:name_adm2":"Bergen Kommune",
+    "qs:name_local":"Bergen",
+    "qs:photo_max":523,
+    "qs:photo_sum":2143,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":65,
+    "qs:woe_adm0":23424910,
+    "qs:woe_adm1":2346390,
+    "qs:woe_adm2":12592658,
+    "qs:woe_lau":0,
+    "qs:woe_local":857105,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:latitude":60.387222,
+    "wd:longitude":5.343889,
+    "wd:wordcount":223,
+    "wof:belongsto":[
+        85687099,
+        102191581,
+        1159297617,
+        85633341,
+        101751923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20100146,
+        "qs:id":1087371,
+        "qs_pg:id":1087371,
+        "wd:id":"Q6352298"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"80f5822c6de493e0063f01ffdd2fc420",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":101751923,
+            "neighbourhood_id":85862185,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":85862185,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1531870556,
+    "wof:name":"Kalfaret",
+    "wof:parent_id":101751923,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.343374,
+    60.392438,
+    5.343374,
+    60.392438
+],
+  "geometry": {"coordinates":[5.343374,60.392438],"type":"Point"}
+}

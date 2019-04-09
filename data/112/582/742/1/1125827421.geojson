@@ -1,0 +1,107 @@
+{
+  "id": 1125827421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.553398,59.88976,10.553398,59.88976",
+    "geom:latitude":59.88976,
+    "geom:longitude":10.553398,
+    "gn:gn_country":null,
+    "iso:country":"NO",
+    "lbl:latitude":59.88976,
+    "lbl:longitude":10.553398,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Blommenholm"
+    ],
+    "name:eng_x_preferred":[
+        "Blommenholm"
+    ],
+    "name:fre_x_preferred":[
+        "Blommenholm"
+    ],
+    "name:jav_x_preferred":[
+        "Blommenholm"
+    ],
+    "name:may_x_preferred":[
+        "Blommenholm"
+    ],
+    "name:nob_x_preferred":[
+        "Blommenholm"
+    ],
+    "name:swe_x_preferred":[
+        "Blommenholm"
+    ],
+    "name:vie_x_preferred":[
+        "Blommenholm"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Blommenholm",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Akershus Fylke",
+    "qs_pg:photos":541,
+    "qs_pg:photos_1k":110,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":541,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1089277,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":857304,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Akershus Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297009,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":857304,
+        "qs_pg:id":1089277,
+        "wd:id":"Q4578503"
+    },
+    "wof:country":"NO",
+    "wof:created":1497292342,
+    "wof:geomhash":"a123ac5091c10d3a282af73763e29c16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297009,
+            "locality_id":1125827421,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1125827421,
+    "wof:lastmodified":1529699784,
+    "wof:name":"Blommenholm",
+    "wof:parent_id":1159297009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.553398,
+    59.88976,
+    10.553398,
+    59.88976
+],
+  "geometry": {"coordinates":[10.553398,59.88976],"type":"Point"}
+}

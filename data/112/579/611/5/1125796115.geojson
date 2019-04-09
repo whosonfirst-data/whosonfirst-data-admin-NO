@@ -1,0 +1,120 @@
+{
+  "id": 1125796115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.9,58.48333,5.9,58.48333",
+    "geom:latitude":58.48333,
+    "geom:longitude":5.9,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":643,
+    "gn:population":643,
+    "iso:country":"NO",
+    "lbl:latitude":58.48333,
+    "lbl:longitude":5.9,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Hellvik"
+    ],
+    "name:eng_x_preferred":[
+        "Hellvik"
+    ],
+    "name:fre_x_preferred":[
+        "Hellvik"
+    ],
+    "name:jav_x_preferred":[
+        "Hellvik"
+    ],
+    "name:may_x_preferred":[
+        "Hellvik"
+    ],
+    "name:nno_x_preferred":[
+        "Hellvik"
+    ],
+    "name:nob_x_preferred":[
+        "Hellvik"
+    ],
+    "name:rum_x_preferred":[
+        "Hellvik"
+    ],
+    "name:unk_x_variant":[
+        "Helvik"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3153025,
+    "qs_pg:gn_pop":643,
+    "qs_pg:name":"Hellvik",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Rogaland Fylke",
+    "qs_pg:photos":92,
+    "qs_pg:photos_1k":19,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":92,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":270972,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":859683,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Rogaland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297629,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3153025,
+        "gp:id":859683,
+        "qs_pg:id":270972,
+        "wd:id":"Q1792307"
+    },
+    "wof:country":"NO",
+    "wof:created":1497291055,
+    "wof:geomhash":"491b2ead500da6e2e9f003491b37391e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297629,
+            "locality_id":1125796115,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1125796115,
+    "wof:lastmodified":1529700291,
+    "wof:name":"Hellvik",
+    "wof:parent_id":1159297629,
+    "wof:placetype":"locality",
+    "wof:population":643,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.9,
+    58.48333,
+    5.9,
+    58.48333
+],
+  "geometry": {"coordinates":[5.9,58.48333],"type":"Point"}
+}

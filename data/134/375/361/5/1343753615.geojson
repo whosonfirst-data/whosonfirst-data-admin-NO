@@ -1,0 +1,68 @@
+{
+  "id": 1343753615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.06083,60.27306,5.06083,60.27306",
+    "geom:latitude":60.27306,
+    "geom:longitude":5.06083,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1246.0",
+    "gn:asciiname":"Trengereid",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3134029,
+    "gn:latitude":60.27306,
+    "gn:longitude":5.06083,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Trengereid",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296987,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3134029
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6a610b3bfccd5caa7876aa75d784ead8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296987,
+            "locality_id":1343753615,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1343753615,
+    "wof:lastmodified":1536819955,
+    "wof:name":"Trengereid",
+    "wof:parent_id":1159296987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.06083,
+    60.27306,
+    5.06083,
+    60.27306
+],
+  "geometry": {"coordinates":[5.06083,60.27306],"type":"Point"}
+}

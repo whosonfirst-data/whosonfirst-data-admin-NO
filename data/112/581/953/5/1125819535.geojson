@@ -1,0 +1,115 @@
+{
+  "id": 1125819535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.25,63.11667,10.25,63.11667",
+    "geom:latitude":63.11667,
+    "geom:longitude":10.25,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":588,
+    "gn:population":588,
+    "iso:country":"NO",
+    "lbl:latitude":63.11667,
+    "lbl:longitude":10.25,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Hovin"
+    ],
+    "name:eng_x_preferred":[
+        "Hovin"
+    ],
+    "name:fre_x_preferred":[
+        "Hovin"
+    ],
+    "name:may_x_preferred":[
+        "Hovin"
+    ],
+    "name:nno_x_preferred":[
+        "Hovin i Gauldal"
+    ],
+    "name:nob_x_preferred":[
+        "Hovin"
+    ],
+    "name:rum_x_preferred":[
+        "Hovin"
+    ],
+    "name:unk_x_variant":[
+        "Hovin i Gauldal"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3151618,
+    "qs_pg:gn_pop":588,
+    "qs_pg:name":"Hovin",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
+    "qs_pg:photos":97,
+    "qs_pg:photos_1k":20,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":97,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":884471,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":860093,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159297511,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3151618,
+        "gp:id":860093,
+        "qs_pg:id":884471,
+        "wd:id":"Q1798145"
+    },
+    "wof:country":"NO",
+    "wof:created":1497291988,
+    "wof:geomhash":"13cae31204a852bb8165ef17bfe56c02",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297511,
+            "locality_id":1125819535,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1125819535,
+    "wof:lastmodified":1529700341,
+    "wof:name":"Hovin",
+    "wof:parent_id":1159297511,
+    "wof:placetype":"locality",
+    "wof:population":588,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.25,
+    63.11667,
+    10.25,
+    63.11667
+],
+  "geometry": {"coordinates":[10.25,63.11667],"type":"Point"}
+}

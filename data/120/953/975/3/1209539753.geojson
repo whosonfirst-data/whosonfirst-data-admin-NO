@@ -1,0 +1,65 @@
+{
+  "id": 1209539753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.91414,60.85417,8.91414,60.85417",
+    "geom:latitude":60.85417,
+    "geom:longitude":8.91414,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"617.0",
+    "gn:asciiname":"Glomsrud",
+    "gn:country_code":"NO",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535762,
+    "gn:latitude":60.85417,
+    "gn:longitude":8.91414,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Glomsrud",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Glomsrud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535762
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0f7a184cd66e65b9ba9f63133d4b0e04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209539753
+        }
+    ],
+    "wof:id":1209539753,
+    "wof:lastmodified":1537675940,
+    "wof:name":"Glomsrud",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.91414,
+    60.85417,
+    8.91414,
+    60.85417
+],
+  "geometry": {"coordinates":[8.91414,60.85417],"type":"Point"}
+}

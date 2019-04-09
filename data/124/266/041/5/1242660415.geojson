@@ -1,0 +1,68 @@
+{
+  "id": 1242660415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.76667,61.65,5.76667,61.65",
+    "geom:latitude":61.65,
+    "geom:longitude":5.76667,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1445.0",
+    "gn:asciiname":"Hjortset",
+    "gn:country_code":"NO",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3152520,
+    "gn:latitude":61.65,
+    "gn:longitude":5.76667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Hjortset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296787,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3152520
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"03449b5054d45b99fc1771dd0d8fccea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296787,
+            "locality_id":1242660415,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1242660415,
+    "wof:lastmodified":1536945016,
+    "wof:name":"Hjortset",
+    "wof:parent_id":1159296787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.76667,
+    61.65,
+    5.76667,
+    61.65
+],
+  "geometry": {"coordinates":[5.76667,61.65],"type":"Point"}
+}

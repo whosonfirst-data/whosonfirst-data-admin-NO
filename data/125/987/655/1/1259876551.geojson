@@ -1,0 +1,68 @@
+{
+  "id": 1259876551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.71667,62.16667,5.71667,62.16667",
+    "geom:latitude":62.16667,
+    "geom:longitude":5.71667,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1511.0",
+    "gn:asciiname":"Midbo",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3145973,
+    "gn:latitude":62.16667,
+    "gn:longitude":5.71667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Midb\u00f8",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297537,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3145973
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"14bdb0d6d69e0bb49d89901c284dabb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297537,
+            "locality_id":1259876551,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1259876551,
+    "wof:lastmodified":1536789641,
+    "wof:name":"Midbo",
+    "wof:parent_id":1159297537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.71667,
+    62.16667,
+    5.71667,
+    62.16667
+],
+  "geometry": {"coordinates":[5.71667,62.16667],"type":"Point"}
+}

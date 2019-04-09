@@ -1,0 +1,68 @@
+{
+  "id": 1310466729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.1,59.1,10.1,59.1",
+    "geom:latitude":59.1,
+    "geom:longitude":10.1,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"712.0",
+    "gn:asciiname":"Rodbol",
+    "gn:country_code":"NO",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141612,
+    "gn:latitude":59.1,
+    "gn:longitude":10.1,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"R\u00f8db\u00f8l",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296779,
+        85633341,
+        85687073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141612
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"94e6cde5cad87cad9e98ab0ec94f0c48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296779,
+            "locality_id":1310466729,
+            "region_id":85687073
+        }
+    ],
+    "wof:id":1310466729,
+    "wof:lastmodified":1536972541,
+    "wof:name":"Rodbol",
+    "wof:parent_id":1159296779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1,
+    59.1,
+    10.1,
+    59.1
+],
+  "geometry": {"coordinates":[10.1,59.1],"type":"Point"}
+}

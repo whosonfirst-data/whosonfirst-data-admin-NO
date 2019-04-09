@@ -1,0 +1,68 @@
+{
+  "id": 1327253379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.16667,63.43333,8.16667,63.43333",
+    "geom:latitude":63.43333,
+    "geom:longitude":8.16667,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1573.0",
+    "gn:asciiname":"Glamen",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3224438,
+    "gn:latitude":63.43333,
+    "gn:longitude":8.16667,
+    "gn:modification_date":"2010-10-15",
+    "gn:name":"Gl\u00e5men",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297121,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3224438
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0dae33d7feeed8c8ce8e56a934e5df14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297121,
+            "locality_id":1327253379,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1327253379,
+    "wof:lastmodified":1536940037,
+    "wof:name":"Glamen",
+    "wof:parent_id":1159297121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.16667,
+    63.43333000000001,
+    8.16667,
+    63.43333000000001
+],
+  "geometry": {"coordinates":[8.16667,63.43333000000001],"type":"Point"}
+}

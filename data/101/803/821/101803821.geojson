@@ -1,0 +1,139 @@
+{
+  "id": 101803821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000332,
+    "geom:area_square_m":2108747.388393,
+    "geom:bbox":"5.90043613753,59.0475551397,5.93837177595,59.0673064947",
+    "geom:latitude":59.058772,
+    "geom:longitude":5.921918,
+    "gn:population":2548,
+    "iso:country":"NO",
+    "lbl:latitude":59.059169,
+    "lbl:longitude":5.920625,
+    "mps:latitude":59.059169,
+    "mps:longitude":5.920625,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0422\u0430\u0443"
+    ],
+    "name:deu_x_preferred":[
+        "Tau"
+    ],
+    "name:dut_x_preferred":[
+        "Tau"
+    ],
+    "name:eng_x_preferred":[
+        "Tau"
+    ],
+    "name:fra_x_preferred":[
+        "Tau"
+    ],
+    "name:fre_x_preferred":[
+        "Tau"
+    ],
+    "name:ger_x_preferred":[
+        "Tau"
+    ],
+    "name:may_x_preferred":[
+        "Tau"
+    ],
+    "name:msa_x_preferred":[
+        "Tau"
+    ],
+    "name:nld_x_preferred":[
+        "Tau"
+    ],
+    "name:nno_x_preferred":[
+        "Tau i Ryfylke"
+    ],
+    "name:nob_x_preferred":[
+        "Tau"
+    ],
+    "name:nor_x_preferred":[
+        "Tau"
+    ],
+    "name:nor_x_variant":[
+        "Taus"
+    ],
+    "name:ron_x_preferred":[
+        "Tau"
+    ],
+    "name:rum_x_preferred":[
+        "Tau"
+    ],
+    "name:spa_x_preferred":[
+        "Tau"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Rogaland",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"Strand",
+    "qs:la_lc":"*NO1130",
+    "qs:level":"locality",
+    "qs:loc":"Tau",
+    "qs:loc_alt":"Tau",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":232,
+    "wof:belongsto":[
+        102191581,
+        1159297053,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01fd994c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3134776,
+        "gp:id":864903,
+        "qs:id":492154,
+        "qs_pg:id":492154,
+        "wd:id":"Q2760222",
+        "wk:page":"Tau, Norway"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b517b741e3748c09bef14230f1b57973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297053,
+            "locality_id":101803821,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":101803821,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1529700281,
+    "wof:name":"Tau",
+    "wof:parent_id":1159297053,
+    "wof:placetype":"locality",
+    "wof:population":2548,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.90043613752641,
+    59.04755513973424,
+    5.93837177595361,
+    59.0673064947224
+],
+  "geometry": {"coordinates":[[[5.91770162808757,59.0673064947224],[5.91791094217649,59.06551091256478],[5.92485896000619,59.06571702807895],[5.92496343051187,59.0648192313588],[5.93017436140735,59.06497358339982],[5.93038301795968,59.06317798167862],[5.93385681871604,59.06328076750111],[5.93406527317012,59.06148516071164],[5.93580209217106,59.06153651777373],[5.93632289776366,59.05704749725095],[5.93805950019924,59.0570988249616],[5.93837177595361,59.0544054108542],[5.93489884141866,59.05430274244759],[5.93479466721874,59.05520054395294],[5.92958516851877,59.05504637256206],[5.92968947548428,59.05414857552375],[5.92448015264137,59.05399421142499],[5.92521105572126,59.04770966966458],[5.92000270511073,59.04755513973424],[5.91989817642991,59.04845292627408],[5.91816202491725,59.04840137099723],[5.91805744574384,59.04929915626451],[5.91632125479492,59.04924757758971],[5.91600734699352,59.05194093023425],[5.91427102812474,59.05188932517041],[5.91280475974884,59.06445830955312],[5.90759397297899,59.06430330005259],[5.90769888003518,59.06340551850798],[5.90422513482758,59.06330207226586],[5.90412013921537,59.06419985081209],[5.90238322956463,59.06414809332011],[5.90227818338519,59.06504587058726],[5.90054123427819,59.06499408968],[5.90043613752641,59.06589186566742],[5.9091211526943,59.06615055855053],[5.90901627107695,59.06704834225746],[5.91770162808757,59.0673064947224]]],"type":"Polygon"}
+}

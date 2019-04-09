@@ -1,0 +1,68 @@
+{
+  "id": 1293366535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.1,59.5,9.1,59.5",
+    "geom:latitude":59.5,
+    "geom:longitude":9.1,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"821.0",
+    "gn:asciiname":"Lona",
+    "gn:country_code":"NO",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3146994,
+    "gn:latitude":59.5,
+    "gn:longitude":9.1,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Lona",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297003,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3146994
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3e58432ce95b63dd8bf84845ffa0589b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297003,
+            "locality_id":1293366535,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1293366535,
+    "wof:lastmodified":1536961377,
+    "wof:name":"Lona",
+    "wof:parent_id":1159297003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.1,
+    59.5,
+    9.1,
+    59.5
+],
+  "geometry": {"coordinates":[9.1,59.5],"type":"Point"}
+}

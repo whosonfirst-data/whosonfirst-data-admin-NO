@@ -1,0 +1,71 @@
+{
+  "id": 1343443107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.55,64.3,10.55,64.3",
+    "geom:latitude":64.3,
+    "geom:longitude":10.55,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5020.0",
+    "gn:asciiname":"Nordmeland",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3144287,
+    "gn:latitude":64.3,
+    "gn:longitude":10.55,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Nordmeland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nordmelan",
+        "Nordmeland"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297275,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3144287
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1904aa6789a3d46321abaf2d2f387e1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297275,
+            "locality_id":1343443107,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1343443107,
+    "wof:lastmodified":1537675756,
+    "wof:name":"Nordmeland",
+    "wof:parent_id":1159297275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.55,
+    64.3,
+    10.55,
+    64.3
+],
+  "geometry": {"coordinates":[10.55,64.3],"type":"Point"}
+}

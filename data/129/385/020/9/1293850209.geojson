@@ -1,0 +1,72 @@
+{
+  "id": 1293850209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.64307,70.01308,21.64307,70.01308",
+    "geom:latitude":70.01308,
+    "geom:longitude":21.64307,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1943.0",
+    "gn:asciiname":"Spildra",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3137290,
+    "gn:latitude":70.01308,
+    "gn:longitude":21.64307,
+    "gn:modification_date":"2012-01-27",
+    "gn:name":"Spildra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Spildran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297307,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3137290
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5815a090a57fa421a78310b0e58728f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297307,
+            "locality_id":1293850209,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1293850209,
+    "wof:lastmodified":1537675708,
+    "wof:name":"Spildra",
+    "wof:parent_id":1159297307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.64307,
+    70.01308,
+    21.64307,
+    70.01308
+],
+  "geometry": {"coordinates":[21.64307,70.01308],"type":"Point"}
+}

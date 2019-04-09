@@ -1,0 +1,72 @@
+{
+  "id": 1293112351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.39336,59.80461,11.39336,59.80461",
+    "geom:latitude":59.80461,
+    "geom:longitude":11.39336,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"221",
+    "gn:asciiname":"Momoen",
+    "gn:country_code":"NO",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9404022,
+    "gn:latitude":59.80461,
+    "gn:longitude":11.39336,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Momoen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Momoen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297207,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404022,
+        "wk:page":"Momoen"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"60a5abe8c1c6e6e481aa48c4321fe835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297207,
+            "locality_id":1293112351,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1293112351,
+    "wof:lastmodified":1537675914,
+    "wof:name":"Momoen",
+    "wof:parent_id":1159297207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.39336,
+    59.80461,
+    11.39336,
+    59.80461
+],
+  "geometry": {"coordinates":[11.39336,59.80461],"type":"Point"}
+}

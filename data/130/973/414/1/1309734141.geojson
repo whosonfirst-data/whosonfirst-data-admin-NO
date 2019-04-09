@@ -1,0 +1,68 @@
+{
+  "id": 1309734141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.1046,61.09114,12.1046,61.09114",
+    "geom:latitude":61.09114,
+    "geom:longitude":12.1046,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"428.0",
+    "gn:asciiname":"Storsvea",
+    "gn:country_code":"NO",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3136009,
+    "gn:latitude":61.09114,
+    "gn:longitude":12.1046,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Storsvea",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297339,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3136009
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a448a902626a73770c1b776f92719ea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297339,
+            "locality_id":1309734141,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1309734141,
+    "wof:lastmodified":1537033008,
+    "wof:name":"Storsvea",
+    "wof:parent_id":1159297339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.1046,
+    61.09114,
+    12.1046,
+    61.09114
+],
+  "geometry": {"coordinates":[12.1046,61.09114],"type":"Point"}
+}

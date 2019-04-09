@@ -1,0 +1,102 @@
+{
+  "id": 1125999005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.76667,68.25,13.76667,68.25",
+    "geom:latitude":68.25,
+    "geom:longitude":13.76667,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":68.25,
+    "lbl:longitude":13.76667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "B\u00f8stad"
+    ],
+    "name:eng_x_preferred":[
+        "B\u00f8stad"
+    ],
+    "name:fre_x_preferred":[
+        "B\u00f8stad"
+    ],
+    "name:jav_x_preferred":[
+        "B\u00f8stad"
+    ],
+    "name:may_x_preferred":[
+        "B\u00f8stad"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3160543,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"B\u00f8stad",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nordland Fylke",
+    "qs_pg:photos":264,
+    "qs_pg:photos_1k":53,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":264,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":241096,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":857433,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Nordland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159297039,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160543,
+        "gp:id":857433,
+        "qs_pg:id":241096,
+        "wd:id":"Q2930166"
+    },
+    "wof:country":"NO",
+    "wof:created":1497299534,
+    "wof:geomhash":"24e0a3cc9c75a8e55745ca06d8d8f73d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297039,
+            "locality_id":1125999005,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1125999005,
+    "wof:lastmodified":1529700179,
+    "wof:name":"B\u00f8stad",
+    "wof:parent_id":1159297039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.76667,
+    68.25,
+    13.76667,
+    68.25
+],
+  "geometry": {"coordinates":[13.76667,68.25],"type":"Point"}
+}

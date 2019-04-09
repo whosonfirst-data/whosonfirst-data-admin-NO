@@ -1,0 +1,125 @@
+{
+  "id": 101803897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000263,
+    "geom:area_square_m":1600964.793919,
+    "geom:bbox":"5.27369394516,60.5409027312,5.30801676431,60.5535317418",
+    "geom:latitude":60.547164,
+    "geom:longitude":5.288225,
+    "gn:population":4265,
+    "iso:country":"NO",
+    "lbl:latitude":60.546916,
+    "lbl:longitude":5.28275,
+    "mps:latitude":60.546916,
+    "mps:longitude":5.28275,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Knarvik"
+    ],
+    "name:deu_x_preferred":[
+        "Knarvik"
+    ],
+    "name:jav_x_preferred":[
+        "Knarrviki"
+    ],
+    "name:msa_x_preferred":[
+        "Knarrviki"
+    ],
+    "name:nld_x_preferred":[
+        "Knarvik"
+    ],
+    "name:nno_x_preferred":[
+        "Knarvik"
+    ],
+    "name:nor_x_preferred":[
+        "Knarrvik",
+        "Knarvik"
+    ],
+    "name:nor_x_variant":[
+        "Knarrviki",
+        "Knarrviks",
+        "Knarrevik"
+    ],
+    "name:ron_x_preferred":[
+        "Knarvik"
+    ],
+    "name:swe_x_preferred":[
+        "Knarvik"
+    ],
+    "name:unk_x_variant":[
+        "Knarrvik"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Hordaland",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:id":0,
+    "qs:la":"Lind\u00e5s",
+    "qs:la_lc":"*NO1263",
+    "qs:level":"locality",
+    "qs:loc":"Knarvik",
+    "qs:loc_alt":"Knarvik",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":356,
+    "wof:belongsto":[
+        102191581,
+        1159296745,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01f960b6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3149720,
+        "gp:id":860701,
+        "qs:id":191162,
+        "qs_pg:id":191162,
+        "wd:id":"Q1016083",
+        "wk:page":"Knarvik"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b68b2a27ff1d262a8459b5b33aa90e17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296745,
+            "locality_id":101803897,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":101803897,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1529700045,
+    "wof:name":"Knarvik",
+    "wof:parent_id":1159296745,
+    "wof:placetype":"locality",
+    "wof:population":4265,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.27369394516364,
+    60.54090273115241,
+    5.30801676431207,
+    60.553531741803
+],
+  "geometry": {"coordinates":[[[5.27823574025655,60.553531741803],[5.27836398834603,60.55263395140844],[5.28743118298718,60.55293357574641],[5.28794311714307,60.54934238024242],[5.29338292159474,60.5495218569298],[5.29325509675516,60.55041966088504],[5.30050845139829,60.55065864853339],[5.30038081407395,60.55155646007404],[5.30763446301034,60.55179508710438],[5.30801676431207,60.54910163140784],[5.30620348948685,60.54904201461562],[5.30633095612802,60.54814419842427],[5.30270452272714,60.54802489950777],[5.30283207911572,60.54712708724037],[5.30101892053989,60.54706740511824],[5.30127410702858,60.54527178505862],[5.29946105236178,60.54521208359654],[5.29958868245353,60.54431427580454],[5.29777568282225,60.5442545531784],[5.29790335376163,60.54335674748728],[5.29609040916347,60.54329700369868],[5.2962181209449,60.54239920010883],[5.2871537348866,60.54210014547976],[5.2872816829169,60.54120235130921],[5.27821769572853,60.54090273115241],[5.27808950344547,60.54180051616021],[5.27627667573705,60.54174052133487],[5.27563534928203,60.54622944129403],[5.27382228348569,60.54616941430351],[5.27369394516364,60.54706719727824],[5.27550705982651,60.54712722610458],[5.27473715388095,60.55251394070416],[5.27655056801177,60.55257395755393],[5.27642227103325,60.55347174611296],[5.27823574025655,60.553531741803]]],"type":"Polygon"}
+}

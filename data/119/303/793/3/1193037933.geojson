@@ -1,0 +1,68 @@
+{
+  "id": 1193037933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.21703,62.61696,6.21703,62.61696",
+    "geom:latitude":62.61696,
+    "geom:longitude":6.21703,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1534.0",
+    "gn:asciiname":"Kjerstad",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3150075,
+    "gn:latitude":62.61696,
+    "gn:longitude":6.21703,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Kjerstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296865,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3150075
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9d7cfb778ca361622fcd879a8a116f0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296865,
+            "locality_id":1193037933,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1193037933,
+    "wof:lastmodified":1536379032,
+    "wof:name":"Kjerstad",
+    "wof:parent_id":1159296865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.21703,
+    62.61696,
+    6.21703,
+    62.61696
+],
+  "geometry": {"coordinates":[6.21703,62.61696],"type":"Point"}
+}

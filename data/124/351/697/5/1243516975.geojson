@@ -1,0 +1,71 @@
+{
+  "id": 1243516975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.19517,58.05212,7.19517,58.05212",
+    "geom:latitude":58.05212,
+    "geom:longitude":7.19517,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1029.0",
+    "gn:asciiname":"Reme",
+    "gn:country_code":"NO",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535739,
+    "gn:latitude":58.05212,
+    "gn:longitude":7.19517,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Reme",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Reme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297315,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535739
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"18eef21b8587d55dccf2051ec63962bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297315,
+            "locality_id":1243516975,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1243516975,
+    "wof:lastmodified":1537675939,
+    "wof:name":"Reme",
+    "wof:parent_id":1159297315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.19517,
+    58.05212,
+    7.19517,
+    58.05212
+],
+  "geometry": {"coordinates":[7.19517,58.05212],"type":"Point"}
+}

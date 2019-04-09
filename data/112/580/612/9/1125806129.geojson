@@ -1,0 +1,118 @@
+{
+  "id": 1125806129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.66667,58.76667,5.66667,58.76667",
+    "geom:latitude":58.76667,
+    "geom:longitude":5.66667,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":58.76667,
+    "lbl:longitude":5.66667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Klepp"
+    ],
+    "name:deu_x_preferred":[
+        "Klepp"
+    ],
+    "name:eng_x_preferred":[
+        "Klepp"
+    ],
+    "name:nld_x_preferred":[
+        "Klepp"
+    ],
+    "name:nno_x_preferred":[
+        "Klepp"
+    ],
+    "name:nor_x_preferred":[
+        "Klepp"
+    ],
+    "name:pol_x_preferred":[
+        "Klepp"
+    ],
+    "name:por_x_preferred":[
+        "Klepp"
+    ],
+    "name:swe_x_preferred":[
+        "Klepp kommun"
+    ],
+    "name:unk_x_variant":[
+        "Klep"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3149879,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Klepp Stasjon",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Rogaland Fylke",
+    "qs_pg:photos":78,
+    "qs_pg:photos_1k":16,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":78,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":3123,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":860650,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Rogaland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297381,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3149879,
+        "gp:id":860650,
+        "qs_pg:id":3123
+    },
+    "wof:country":"NO",
+    "wof:created":1497291470,
+    "wof:geomhash":"a7746302ef80b60b95e844ce9b198ac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297381,
+            "locality_id":1125806129,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1125806129,
+    "wof:lastmodified":1529700290,
+    "wof:name":"Klepp Stasjon",
+    "wof:parent_id":1159297381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.66667,
+    58.76667,
+    5.66667,
+    58.76667
+],
+  "geometry": {"coordinates":[5.66667,58.76667],"type":"Point"}
+}

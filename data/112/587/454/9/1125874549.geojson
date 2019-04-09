@@ -1,0 +1,82 @@
+{
+  "id": 1125874549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.016385,62.0944995,9.016385,62.0944995",
+    "geom:latitude":62.094499,
+    "geom:longitude":9.016385,
+    "gn:gn_country":null,
+    "iso:country":"NO",
+    "lbl:latitude":62.094499,
+    "lbl:longitude":9.016385,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kj\u00f8remsgrendi",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Oppland Fylke",
+    "qs_pg:photos":68,
+    "qs_pg:photos_1k":14,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":68,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":365558,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":20100160,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Oppland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297151,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20100160,
+        "qs_pg:id":365558
+    },
+    "wof:country":"NO",
+    "wof:created":1497294472,
+    "wof:geomhash":"733b2dbe0a5ca6430682c4843f37818b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297151,
+            "locality_id":1125874549,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1125874549,
+    "wof:lastmodified":1529700243,
+    "wof:name":"Kj\u00f8remsgrendi",
+    "wof:parent_id":1159297151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.016385,
+    62.0944995,
+    9.016385,
+    62.0944995
+],
+  "geometry": {"coordinates":[9.016385,62.0944995],"type":"Point"}
+}

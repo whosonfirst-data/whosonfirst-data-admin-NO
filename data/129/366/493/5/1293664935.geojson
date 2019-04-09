@@ -1,0 +1,68 @@
+{
+  "id": 1293664935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.04,69.35306,18.04,69.35306",
+    "geom:latitude":69.35306,
+    "geom:longitude":18.04,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1931.0",
+    "gn:asciiname":"Jonsgard",
+    "gn:country_code":"NO",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3222372,
+    "gn:latitude":69.35306,
+    "gn:longitude":18.04,
+    "gn:modification_date":"2010-10-15",
+    "gn:name":"Jonsg\u00e5rd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297333,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3222372
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"26c433d521e7e5f7fc59a320c00a467a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297333,
+            "locality_id":1293664935,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1293664935,
+    "wof:lastmodified":1537027360,
+    "wof:name":"Jonsgard",
+    "wof:parent_id":1159297333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.04,
+    69.35306,
+    18.04,
+    69.35306
+],
+  "geometry": {"coordinates":[18.04,69.35306],"type":"Point"}
+}

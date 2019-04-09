@@ -1,0 +1,71 @@
+{
+  "id": 1327331125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.83348,60.72363,11.83348,60.72363",
+    "geom:latitude":60.72363,
+    "geom:longitude":11.83348,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"426.0",
+    "gn:asciiname":"Snarhol",
+    "gn:country_code":"NO",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535716,
+    "gn:latitude":60.72363,
+    "gn:longitude":11.83348,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Snarhol",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Snarhol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297171,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535716
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8ba5a57679102c169980f524f51f793a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297171,
+            "locality_id":1327331125,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1327331125,
+    "wof:lastmodified":1537675938,
+    "wof:name":"Snarhol",
+    "wof:parent_id":1159297171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.83348,
+    60.72363000000001,
+    11.83348,
+    60.72363000000001
+],
+  "geometry": {"coordinates":[11.83348,60.72363000000001],"type":"Point"}
+}

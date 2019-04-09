@@ -1,0 +1,68 @@
+{
+  "id": 1226747845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.81667,59.78333,9.81667,59.78333",
+    "geom:latitude":59.78333,
+    "geom:longitude":9.81667,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"624.0",
+    "gn:asciiname":"Grosland",
+    "gn:country_code":"NO",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3154794,
+    "gn:latitude":59.78333,
+    "gn:longitude":9.81667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Gr\u00f8sland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297345,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3154794
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d1541400d567f64dcf1deaf78e25d98b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297345,
+            "locality_id":1226747845,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1226747845,
+    "wof:lastmodified":1536712789,
+    "wof:name":"Grosland",
+    "wof:parent_id":1159297345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.81667,
+    59.78333000000001,
+    9.81667,
+    59.78333000000001
+],
+  "geometry": {"coordinates":[9.81667,59.78333000000001],"type":"Point"}
+}

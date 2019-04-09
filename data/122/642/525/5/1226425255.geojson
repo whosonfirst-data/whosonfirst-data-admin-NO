@@ -1,0 +1,71 @@
+{
+  "id": 1226425255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.83771,60.89913,4.83771,60.89913",
+    "geom:latitude":60.89913,
+    "geom:longitude":4.83771,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1411",
+    "gn:asciiname":"Nordremark",
+    "gn:country_code":"NO",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404241,
+    "gn:latitude":60.89913,
+    "gn:longitude":4.83771,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Nordremark",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Nordremark"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297577,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404241
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"59a7276a733c84bb63867fc73db3ecfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297577,
+            "locality_id":1226425255,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1226425255,
+    "wof:lastmodified":1537675923,
+    "wof:name":"Nordremark",
+    "wof:parent_id":1159297577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.83771,
+    60.89913000000001,
+    4.83771,
+    60.89913000000001
+],
+  "geometry": {"coordinates":[4.83771,60.89913000000001],"type":"Point"}
+}

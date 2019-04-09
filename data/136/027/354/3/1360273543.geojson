@@ -1,0 +1,71 @@
+{
+  "id": 1360273543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.94204,60.98517,8.94204,60.98517",
+    "geom:latitude":60.98517,
+    "geom:longitude":8.94204,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"543.0",
+    "gn:asciiname":"Kvalestolen",
+    "gn:country_code":"NO",
+    "gn:dem":870,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535754,
+    "gn:latitude":60.98517,
+    "gn:longitude":8.94204,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Kv\u00e5lest\u00f8len",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Kv\u00e5lest\u00f8len"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297129,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535754
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"932a655393f6eb1c94d3fbcebb934e00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297129,
+            "locality_id":1360273543,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1360273543,
+    "wof:lastmodified":1537675939,
+    "wof:name":"Kvalestolen",
+    "wof:parent_id":1159297129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.94204,
+    60.98517,
+    8.94204,
+    60.98517
+],
+  "geometry": {"coordinates":[8.94204,60.98517],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293881439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.02054,60.36051,12.02054,60.36051",
+    "geom:latitude":60.36051,
+    "geom:longitude":12.02054,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"402.0",
+    "gn:asciiname":"Ramsoya",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3142436,
+    "gn:latitude":60.36051,
+    "gn:longitude":12.02054,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Rams\u00f8ya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rams\u00f6ien",
+        "Rams\u00f8ya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296807,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3142436
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5f9d6de3181c832f9a46629b9698e93b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296807,
+            "locality_id":1293881439,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1293881439,
+    "wof:lastmodified":1537675744,
+    "wof:name":"Ramsoya",
+    "wof:parent_id":1159296807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.02054,
+    60.36051,
+    12.02054,
+    60.36051
+],
+  "geometry": {"coordinates":[12.02054,60.36051],"type":"Point"}
+}

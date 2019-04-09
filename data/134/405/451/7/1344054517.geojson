@@ -1,0 +1,71 @@
+{
+  "id": 1344054517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.76198,61.30173,11.76198,61.30173",
+    "geom:latitude":61.30173,
+    "geom:longitude":11.76198,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"429",
+    "gn:asciiname":"Osneset",
+    "gn:country_code":"NO",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404065,
+    "gn:latitude":61.30173,
+    "gn:longitude":11.76198,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Osneset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Osneset"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297061,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404065
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c87669a7c1f937820f12b662d48272c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297061,
+            "locality_id":1344054517,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1344054517,
+    "wof:lastmodified":1537675915,
+    "wof:name":"Osneset",
+    "wof:parent_id":1159297061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.76198,
+    61.30173000000001,
+    11.76198,
+    61.30173000000001
+],
+  "geometry": {"coordinates":[11.76198,61.30173000000001],"type":"Point"}
+}

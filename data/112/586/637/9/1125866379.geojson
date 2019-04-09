@@ -1,0 +1,103 @@
+{
+  "id": 1125866379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.01667,58.08333,8.01667,58.08333",
+    "geom:latitude":58.08333,
+    "geom:longitude":8.01667,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2599,
+    "gn:population":2599,
+    "iso:country":"NO",
+    "lbl:latitude":58.08333,
+    "lbl:longitude":8.01667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Sk\u00e5levik"
+    ],
+    "name:eng_x_preferred":[
+        "Sk\u00e5levik"
+    ],
+    "name:fre_x_preferred":[
+        "Sk\u00e5levik"
+    ],
+    "name:may_x_preferred":[
+        "Sk\u00e5levik"
+    ],
+    "name:nno_x_preferred":[
+        "Sk\u00e5levik"
+    ],
+    "name:nob_x_preferred":[
+        "Sk\u00e5levik"
+    ],
+    "name:rum_x_preferred":[
+        "Sk\u00e5levik"
+    ],
+    "name:unk_x_variant":[
+        "Skaalevig"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3131189,
+    "qs_pg:gn_pop":2599,
+    "qs_pg:name":"Ytre Sk\u00e5levik",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":94737,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296703,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3131189,
+        "qs_pg:id":94737,
+        "wd:id":"Q2119389"
+    },
+    "wof:country":"NO",
+    "wof:created":1497294060,
+    "wof:geomhash":"09571fd4f89a78c340e03f01f7d117e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296703,
+            "locality_id":1125866379,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1125866379,
+    "wof:lastmodified":1529700474,
+    "wof:name":"Ytre Sk\u00e5levik",
+    "wof:parent_id":1159296703,
+    "wof:placetype":"locality",
+    "wof:population":2599,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.01667,
+    58.08333,
+    8.01667,
+    58.08333
+],
+  "geometry": {"coordinates":[8.01667,58.08333],"type":"Point"}
+}

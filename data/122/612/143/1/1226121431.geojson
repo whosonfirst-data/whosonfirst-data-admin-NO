@@ -1,0 +1,68 @@
+{
+  "id": 1226121431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.16667,59.15,6.16667,59.15",
+    "geom:latitude":59.15,
+    "geom:longitude":6.16667,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1133.0",
+    "gn:asciiname":"Melsosen",
+    "gn:country_code":"NO",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3146048,
+    "gn:latitude":59.15,
+    "gn:longitude":6.16667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Melsosen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296961,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3146048
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"594b0d39c613eafb9aa8af4432f50cc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296961,
+            "locality_id":1226121431,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1226121431,
+    "wof:lastmodified":1536613550,
+    "wof:name":"Melsosen",
+    "wof:parent_id":1159296961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.16667,
+    59.15,
+    6.16667,
+    59.15
+],
+  "geometry": {"coordinates":[6.16667,59.15],"type":"Point"}
+}

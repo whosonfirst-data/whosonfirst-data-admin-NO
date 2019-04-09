@@ -1,0 +1,73 @@
+{
+  "id": 1327230645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1,70.7,27.1,70.7",
+    "geom:latitude":70.7,
+    "geom:longitude":27.1,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2022.0",
+    "gn:asciiname":"Jordelva",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":779401,
+    "gn:latitude":70.7,
+    "gn:longitude":27.1,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jordelva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jordelv",
+        "Jordelva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297143,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":779401
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2bf770fb07e74edbe1b7fd0939ee2948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297143,
+            "locality_id":1327230645,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1327230645,
+    "wof:lastmodified":1537675658,
+    "wof:name":"Jordelva",
+    "wof:parent_id":1159297143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1,
+    70.7,
+    27.1,
+    70.7
+],
+  "geometry": {"coordinates":[27.1,70.7],"type":"Point"}
+}

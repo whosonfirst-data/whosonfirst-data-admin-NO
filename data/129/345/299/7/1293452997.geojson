@@ -1,0 +1,74 @@
+{
+  "id": 1293452997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.68666,68.88152,17.68666,68.88152",
+    "geom:latitude":68.88152,
+    "geom:longitude":17.68666,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1923.0",
+    "gn:asciiname":"Dalen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3159392,
+    "gn:latitude":68.88152,
+    "gn:longitude":17.68666,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Dalen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salangsdalen",
+        "Salangsdal",
+        "Dalen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297455,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3159392
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"fdd45e88ea7631028b23ea5b1f09b4ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297455,
+            "locality_id":1293452997,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1293452997,
+    "wof:lastmodified":1537675862,
+    "wof:name":"Dalen",
+    "wof:parent_id":1159297455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.68666,
+    68.88152,
+    17.68666,
+    68.88152
+],
+  "geometry": {"coordinates":[17.68666,68.88151999999999],"type":"Point"}
+}

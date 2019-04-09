@@ -1,0 +1,71 @@
+{
+  "id": 1309982291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.98492,59.44566,7.98492,59.44566",
+    "geom:latitude":59.44566,
+    "geom:longitude":7.98492,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"833",
+    "gn:asciiname":"Aslandmoen",
+    "gn:country_code":"NO",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404153,
+    "gn:latitude":59.44566,
+    "gn:longitude":7.98492,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"\u00c5slandmoen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00c5slandmoen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297609,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404153
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b1fdb31e43b7b39f5a02d8bc54dfa155",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297609,
+            "locality_id":1309982291,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1309982291,
+    "wof:lastmodified":1537675919,
+    "wof:name":"Aslandmoen",
+    "wof:parent_id":1159297609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.98492,
+    59.44566,
+    7.98492,
+    59.44566
+],
+  "geometry": {"coordinates":[7.98492,59.44566],"type":"Point"}
+}

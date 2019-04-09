@@ -1,0 +1,72 @@
+{
+  "id": 1259678399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.03333,67.05,15.03333,67.05",
+    "geom:latitude":67.05,
+    "geom:longitude":15.03333,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1804.0",
+    "gn:asciiname":"Kasmolia",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3150390,
+    "gn:latitude":67.05,
+    "gn:longitude":15.03333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u00e5smolia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaasmolien",
+        "K\u00e5smoli",
+        "K\u00e5smolia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297465,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3150390
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"298c1b0f37eea8190e103d7600328362",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297465,
+            "locality_id":1259678399,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1259678399,
+    "wof:lastmodified":1537675799,
+    "wof:name":"Kasmolia",
+    "wof:parent_id":1159297465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.03333,
+    67.05,
+    15.03333,
+    67.05
+],
+  "geometry": {"coordinates":[15.03333,67.05],"type":"Point"}
+}

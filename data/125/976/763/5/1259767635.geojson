@@ -1,0 +1,72 @@
+{
+  "id": 1259767635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.427,68.41294,17.427,68.41294",
+    "geom:latitude":68.41294,
+    "geom:longitude":17.427,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1805.0",
+    "gn:asciiname":"Fagernes",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3157896,
+    "gn:latitude":68.41294,
+    "gn:longitude":17.427,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Fagernes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Fagernes"
+    ],
+    "name:sme_x_preferred":[
+        "\u010coalbmi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297203,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3157896
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4bea017a1fdf956f122996b4b07dc79b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297203,
+            "locality_id":1259767635,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1259767635,
+    "wof:lastmodified":1537675849,
+    "wof:name":"Fagernes",
+    "wof:parent_id":1159297203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.427,
+    68.41294,
+    17.427,
+    68.41294
+],
+  "geometry": {"coordinates":[17.427,68.41294000000001],"type":"Point"}
+}

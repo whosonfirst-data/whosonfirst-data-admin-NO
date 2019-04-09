@@ -1,0 +1,65 @@
+{
+  "id": 1209332481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.62057,59.7198,10.62057,59.7198",
+    "geom:latitude":59.7198,
+    "geom:longitude":10.62057,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"215.0",
+    "gn:asciiname":"Ostskogen",
+    "gn:country_code":"NO",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537256,
+    "gn:latitude":59.7198,
+    "gn:longitude":10.62057,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"\u00d8stskogen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d8stskogen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537256
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0cf47cf33d64a26a44dfc5943d58cd77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209332481
+        }
+    ],
+    "wof:id":1209332481,
+    "wof:lastmodified":1537676003,
+    "wof:name":"Ostskogen",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.62057,
+    59.7198,
+    10.62057,
+    59.7198
+],
+  "geometry": {"coordinates":[10.62057,59.7198],"type":"Point"}
+}

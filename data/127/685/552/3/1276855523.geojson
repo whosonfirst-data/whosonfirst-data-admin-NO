@@ -1,0 +1,71 @@
+{
+  "id": 1276855523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.28333,68.23333,14.28333,68.23333",
+    "geom:latitude":68.23333,
+    "geom:longitude":14.28333,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1865.0",
+    "gn:asciiname":"Lyngvaeret",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3146640,
+    "gn:latitude":68.23333,
+    "gn:longitude":14.28333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Lyngv\u00e6ret",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lyngv\u00e6r",
+        "Lyngv\u00e6ret"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296883,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3146640
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d2646758493c3e48b77918c57679b569",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296883,
+            "locality_id":1276855523,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1276855523,
+    "wof:lastmodified":1537675772,
+    "wof:name":"Lyngvaeret",
+    "wof:parent_id":1159296883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.28333,
+    68.23333000000001,
+    14.28333,
+    68.23333000000001
+],
+  "geometry": {"coordinates":[14.28333,68.23333000000001],"type":"Point"}
+}

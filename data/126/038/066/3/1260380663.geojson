@@ -1,0 +1,71 @@
+{
+  "id": 1260380663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.58333,68.33333,15.58333,68.33333",
+    "geom:latitude":68.33333,
+    "geom:longitude":15.58333,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1851.0",
+    "gn:asciiname":"Heggstad",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3153329,
+    "gn:latitude":68.33333,
+    "gn:longitude":15.58333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Heggstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hegstad",
+        "Heggstad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297361,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3153329
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"068c55caebd58e78c9c8ec4c2d500f67",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297361,
+            "locality_id":1260380663,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1260380663,
+    "wof:lastmodified":1537675818,
+    "wof:name":"Heggstad",
+    "wof:parent_id":1159297361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.58333,
+    68.33333,
+    15.58333,
+    68.33333
+],
+  "geometry": {"coordinates":[15.58333,68.33333],"type":"Point"}
+}

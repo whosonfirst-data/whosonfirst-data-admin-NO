@@ -1,0 +1,66 @@
+{
+  "id": 1209296679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.30198,63.19765,10.30198,63.19765",
+    "geom:latitude":63.19765,
+    "geom:longitude":10.30198,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5028",
+    "gn:asciiname":"Fla",
+    "gn:country_code":"NO",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9403899,
+    "gn:latitude":63.19765,
+    "gn:longitude":10.30198,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Fl\u00e5",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Fl\u00e5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9403899,
+        "wk:page":"Fl%C3%A5%2C_S%C3%B8r-Tr%C3%B8ndelag"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6110f88255f832da2fa1ef97f3508710",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209296679
+        }
+    ],
+    "wof:id":1209296679,
+    "wof:lastmodified":1537675909,
+    "wof:name":"Fla",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.30198,
+    63.19765,
+    10.30198,
+    63.19765
+],
+  "geometry": {"coordinates":[10.30198,63.19765],"type":"Point"}
+}

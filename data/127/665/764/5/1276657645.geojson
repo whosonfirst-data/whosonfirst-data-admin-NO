@@ -1,0 +1,68 @@
+{
+  "id": 1276657645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.83333,59.86667,9.83333,59.86667",
+    "geom:latitude":59.86667,
+    "geom:longitude":9.83333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"623.0",
+    "gn:asciiname":"Ristveit",
+    "gn:country_code":"NO",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141717,
+    "gn:latitude":59.86667,
+    "gn:longitude":9.83333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Ristveit",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297329,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141717
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9e08cb82a9f9adfd063f77664821d72b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297329,
+            "locality_id":1276657645,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1276657645,
+    "wof:lastmodified":1536840125,
+    "wof:name":"Ristveit",
+    "wof:parent_id":1159297329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.83333,
+    59.86666999999999,
+    9.83333,
+    59.86666999999999
+],
+  "geometry": {"coordinates":[9.83333,59.86666999999999],"type":"Point"}
+}

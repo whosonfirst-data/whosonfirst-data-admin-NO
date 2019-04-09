@@ -1,0 +1,73 @@
+{
+  "id": 1326622615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.88333,60.71667,11.88333,60.71667",
+    "geom:latitude":60.71667,
+    "geom:longitude":11.88333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"426.0",
+    "gn:asciiname":"Skara",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3139354,
+    "gn:latitude":60.71667,
+    "gn:longitude":11.88333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sk\u00e5r\u00e5",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Skaaraa",
+        "Sk\u00e5r\u00e5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297171,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3139354
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"17bbc654c839197eedb2380f62f52793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297171,
+            "locality_id":1326622615,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1326622615,
+    "wof:lastmodified":1537675722,
+    "wof:name":"Skara",
+    "wof:parent_id":1159297171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.88333,
+    60.71666999999999,
+    11.88333,
+    60.71666999999999
+],
+  "geometry": {"coordinates":[11.88333,60.71666999999999],"type":"Point"}
+}

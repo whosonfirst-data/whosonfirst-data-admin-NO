@@ -1,0 +1,73 @@
+{
+  "id": 1260245051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.98371,69.38907,18.98371,69.38907",
+    "geom:latitude":69.38907,
+    "geom:longitude":18.98371,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1933.0",
+    "gn:asciiname":"Malangseidet",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3146519,
+    "gn:latitude":69.38907,
+    "gn:longitude":18.98371,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Malangseidet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malangseid",
+        "Malangseidet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296799,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3146519
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"897624056f32f1586f89edae0944fed0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296799,
+            "locality_id":1260245051,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1260245051,
+    "wof:lastmodified":1537675771,
+    "wof:name":"Malangseidet",
+    "wof:parent_id":1159296799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.98371,
+    69.38906999999999,
+    18.98371,
+    69.38906999999999
+],
+  "geometry": {"coordinates":[18.98371,69.38906999999999],"type":"Point"}
+}

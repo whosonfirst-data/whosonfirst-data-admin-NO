@@ -1,0 +1,71 @@
+{
+  "id": 1343443093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.49678,63.42054,10.49678,63.42054",
+    "geom:latitude":63.42054,
+    "geom:longitude":10.49678,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5001.0",
+    "gn:asciiname":"Charlottenlund",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3159523,
+    "gn:latitude":63.42054,
+    "gn:longitude":10.49678,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Charlottenlund",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Charlottenlund i Strinda",
+        "Charlottenlund"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297145,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3159523
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"76a6562f089b1d01ea1a963f90b9efbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297145,
+            "locality_id":1343443093,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1343443093,
+    "wof:lastmodified":1537675862,
+    "wof:name":"Charlottenlund",
+    "wof:parent_id":1159297145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.49678,
+    63.42054,
+    10.49678,
+    63.42054
+],
+  "geometry": {"coordinates":[10.49678,63.42054],"type":"Point"}
+}

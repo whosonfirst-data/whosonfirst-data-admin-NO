@@ -1,0 +1,71 @@
+{
+  "id": 1260159069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.7712,61.13429,9.7712,61.13429",
+    "geom:latitude":61.13429,
+    "geom:longitude":9.7712,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"538.0",
+    "gn:asciiname":"Lundesaetrene",
+    "gn:country_code":"NO",
+    "gn:dem":930,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537223,
+    "gn:latitude":61.13429,
+    "gn:longitude":9.7712,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Lundes\u00e6trene",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Lundes\u00e6trene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297311,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537223
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"22032e83d425ef7f401779a1c79e07c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297311,
+            "locality_id":1260159069,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1260159069,
+    "wof:lastmodified":1537676002,
+    "wof:name":"Lundesaetrene",
+    "wof:parent_id":1159297311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.7712,
+    61.13429,
+    9.7712,
+    61.13429
+],
+  "geometry": {"coordinates":[9.7712,61.13429],"type":"Point"}
+}

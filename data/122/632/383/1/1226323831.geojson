@@ -1,0 +1,71 @@
+{
+  "id": 1226323831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.61994,60.77658,9.61994,60.77658",
+    "geom:latitude":60.77658,
+    "geom:longitude":9.61994,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"540.0",
+    "gn:asciiname":"Lundebygda",
+    "gn:country_code":"NO",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537230,
+    "gn:latitude":60.77658,
+    "gn:longitude":9.61994,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Lundebygda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Lundebygda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296855,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537230
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8846cc784ecb0a9803ff11e5c0e6e7ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296855,
+            "locality_id":1226323831,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1226323831,
+    "wof:lastmodified":1537676002,
+    "wof:name":"Lundebygda",
+    "wof:parent_id":1159296855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.61994,
+    60.77658,
+    9.61994,
+    60.77658
+],
+  "geometry": {"coordinates":[9.61994,60.77658],"type":"Point"}
+}

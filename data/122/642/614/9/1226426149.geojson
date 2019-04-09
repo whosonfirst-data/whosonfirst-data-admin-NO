@@ -1,0 +1,71 @@
+{
+  "id": 1226426149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.76667,63.61667,10.76667,63.61667",
+    "geom:latitude":63.61667,
+    "geom:longitude":10.76667,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5036.0",
+    "gn:asciiname":"Vigtil",
+    "gn:country_code":"NO",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3131823,
+    "gn:latitude":63.61667,
+    "gn:longitude":10.76667,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Vigtil",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Vigtil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296851,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3131823
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e81861227b85c923f2b917394be17715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296851,
+            "locality_id":1226426149,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1226426149,
+    "wof:lastmodified":1537675677,
+    "wof:name":"Vigtil",
+    "wof:parent_id":1159296851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.76667,
+    63.61666999999999,
+    10.76667,
+    63.61666999999999
+],
+  "geometry": {"coordinates":[10.76667,63.61666999999999],"type":"Point"}
+}

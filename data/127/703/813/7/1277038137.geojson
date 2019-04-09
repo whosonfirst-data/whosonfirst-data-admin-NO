@@ -1,0 +1,71 @@
+{
+  "id": 1277038137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.26536,69.36352,20.26536,69.36352",
+    "geom:latitude":69.36352,
+    "geom:longitude":20.26536,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1939.0",
+    "gn:asciiname":"Fossmo",
+    "gn:country_code":"NO",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":780119,
+    "gn:latitude":69.36352,
+    "gn:longitude":20.26536,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Fossmo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Fossmo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297099,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":780119
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b9eb66e52d6d7488d58e4292f285c77b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297099,
+            "locality_id":1277038137,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1277038137,
+    "wof:lastmodified":1537675663,
+    "wof:name":"Fossmo",
+    "wof:parent_id":1159297099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.26536,
+    69.36352,
+    20.26536,
+    69.36352
+],
+  "geometry": {"coordinates":[20.26536,69.36351999999999],"type":"Point"}
+}

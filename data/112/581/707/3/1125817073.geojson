@@ -1,0 +1,119 @@
+{
+  "id": 1125817073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.166419,61.456817,10.166419,61.456817",
+    "geom:latitude":61.456817,
+    "geom:longitude":10.166419,
+    "gn:gn_country":null,
+    "iso:country":"NO",
+    "lbl:latitude":61.456817,
+    "lbl:longitude":10.166419,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "F\u00e5vang"
+    ],
+    "name:cat_x_preferred":[
+        "F\u00e5vang"
+    ],
+    "name:dut_x_preferred":[
+        "F\u00e5vang"
+    ],
+    "name:eng_x_preferred":[
+        "F\u00e5vang"
+    ],
+    "name:fre_x_preferred":[
+        "F\u00e5vang"
+    ],
+    "name:ger_x_preferred":[
+        "F\u00e5vang"
+    ],
+    "name:jav_x_preferred":[
+        "F\u00e5vang"
+    ],
+    "name:may_x_preferred":[
+        "F\u00e5vang"
+    ],
+    "name:nno_x_preferred":[
+        "F\u00e5vang"
+    ],
+    "name:nob_x_preferred":[
+        "F\u00e5vang"
+    ],
+    "name:por_x_preferred":[
+        "F\u00e5vang"
+    ],
+    "name:rum_x_preferred":[
+        "F\u00e5vang"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Favang",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Oppland Fylke",
+    "qs_pg:photos":163,
+    "qs_pg:photos_1k":33,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":163,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":504359,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":858340,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Oppland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296971,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":858340,
+        "qs_pg:id":504359,
+        "wd:id":"Q1820866"
+    },
+    "wof:country":"NO",
+    "wof:created":1497291887,
+    "wof:geomhash":"6944f3ec510bae7f678113e297579514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296971,
+            "locality_id":1125817073,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1125817073,
+    "wof:lastmodified":1529700246,
+    "wof:name":"Favang",
+    "wof:parent_id":1159296971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.166419,
+    61.456817,
+    10.166419,
+    61.456817
+],
+  "geometry": {"coordinates":[10.166419,61.456817],"type":"Point"}
+}

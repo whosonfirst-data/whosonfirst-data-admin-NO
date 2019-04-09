@@ -1,0 +1,66 @@
+{
+  "id": 1293085507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.08333,67.51667,12.08333,67.51667",
+    "geom:latitude":67.51667,
+    "geom:longitude":12.08333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1856.0",
+    "gn:asciiname":"Ystnes",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3131256,
+    "gn:latitude":67.51667,
+    "gn:longitude":12.08333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Ystnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296803,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3131256
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"17464c877225bc4fcae41806e8c68540",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296803,
+            "locality_id":1293085507,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1293085507,
+    "wof:lastmodified":1536868483,
+    "wof:name":"Ystnes",
+    "wof:parent_id":1159296803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.08333,
+    67.51666999999999,
+    12.08333,
+    67.51666999999999
+],
+  "geometry": {"coordinates":[12.08333,67.51666999999999],"type":"Point"}
+}

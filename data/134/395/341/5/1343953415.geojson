@@ -1,0 +1,75 @@
+{
+  "id": 1343953415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.1305,60.80127,11.1305,60.80127",
+    "geom:latitude":60.80127,
+    "geom:longitude":11.1305,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"403",
+    "gn:asciiname":"Aker",
+    "gn:country_code":"NO",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9403905,
+    "gn:latitude":60.80127,
+    "gn:longitude":11.1305,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"\u00c5ker",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00c5ker"
+    ],
+    "name:nor_x_variant":[
+        "Ridabu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297089,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9403905,
+        "wk:page":"Ridabu"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0c7ba832260fd713bab23c8cd62e92c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297089,
+            "locality_id":1343953415,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1343953415,
+    "wof:lastmodified":1537675910,
+    "wof:name":"Aker",
+    "wof:parent_id":1159297089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.1305,
+    60.80127,
+    11.1305,
+    60.80127
+],
+  "geometry": {"coordinates":[11.1305,60.80127],"type":"Point"}
+}

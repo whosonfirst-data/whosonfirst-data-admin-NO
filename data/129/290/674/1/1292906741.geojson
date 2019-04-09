@@ -1,0 +1,68 @@
+{
+  "id": 1292906741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.73416,59.00216,7.73416,59.00216",
+    "geom:latitude":59.00216,
+    "geom:longitude":7.73416,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"938.0",
+    "gn:asciiname":"Gaustatoppen,Rjukan",
+    "gn:country_code":"NO",
+    "gn:dem":847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11238123,
+    "gn:latitude":59.00216,
+    "gn:longitude":7.73416,
+    "gn:modification_date":"2017-09-23",
+    "gn:name":"Gaustatoppen,Rjukan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297545,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11238123
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5f22bfb014d128c47954963a60876b0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297545,
+            "locality_id":1292906741,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1292906741,
+    "wof:lastmodified":1536628430,
+    "wof:name":"Gaustatoppen,Rjukan",
+    "wof:parent_id":1159297545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.73416,
+    59.00216,
+    7.73416,
+    59.00216
+],
+  "geometry": {"coordinates":[7.73416,59.00216],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243050265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.65,63.61667,8.65,63.61667",
+    "geom:latitude":63.61667,
+    "geom:longitude":8.65,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5013.0",
+    "gn:asciiname":"Strauman",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3135641,
+    "gn:latitude":63.61667,
+    "gn:longitude":8.65,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Strauman",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Str\u00f8mmen",
+        "Strauman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297259,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3135641
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a083f9c4c43e1b3db19865eeb871ae1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297259,
+            "locality_id":1243050265,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1243050265,
+    "wof:lastmodified":1537675700,
+    "wof:name":"Strauman",
+    "wof:parent_id":1159297259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.65,
+    63.61666999999999,
+    8.65,
+    63.61666999999999
+],
+  "geometry": {"coordinates":[8.65,63.61666999999999],"type":"Point"}
+}

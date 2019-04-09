@@ -1,0 +1,65 @@
+{
+  "id": 1209377489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.67881,58.28834,7.67881,58.28834",
+    "geom:latitude":58.28834,
+    "geom:longitude":7.67881,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1017.0",
+    "gn:asciiname":"Oveland",
+    "gn:country_code":"NO",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537806,
+    "gn:latitude":58.28834,
+    "gn:longitude":7.67881,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"\u00d8veland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d8veland"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537806
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9d401c510dcac02422dbbc61b333a734",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209377489
+        }
+    ],
+    "wof:id":1209377489,
+    "wof:lastmodified":1537676029,
+    "wof:name":"Oveland",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.67881,
+    58.28834000000001,
+    7.67881,
+    58.28834000000001
+],
+  "geometry": {"coordinates":[7.67881,58.28834000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243277029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.84682,58.65284,8.84682,58.65284",
+    "geom:latitude":58.65284,
+    "geom:longitude":8.84682,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"914.0",
+    "gn:asciiname":"Vassenden",
+    "gn:country_code":"NO",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535892,
+    "gn:latitude":58.65284,
+    "gn:longitude":8.84682,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Vassenden",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Vassenden"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297531,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535892
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ae0a94543b94fddc1efd1bf0273b3aaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297531,
+            "locality_id":1243277029,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1243277029,
+    "wof:lastmodified":1537675945,
+    "wof:name":"Vassenden",
+    "wof:parent_id":1159297531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.84682,
+    58.65284000000001,
+    8.84682,
+    58.65284000000001
+],
+  "geometry": {"coordinates":[8.84682,58.65284000000001],"type":"Point"}
+}

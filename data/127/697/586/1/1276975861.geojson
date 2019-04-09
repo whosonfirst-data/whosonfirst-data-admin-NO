@@ -1,0 +1,72 @@
+{
+  "id": 1276975861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88907,68.08473,15.88907,68.08473",
+    "geom:latitude":68.08473,
+    "geom:longitude":15.88907,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1849.0",
+    "gn:asciiname":"Skilvassbakk",
+    "gn:country_code":"NO",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3139058,
+    "gn:latitude":68.08473,
+    "gn:longitude":15.88907,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Skilvassbakk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Skilvasbakk",
+        "Skillvassbakk",
+        "Skilvassbakk",
+        "\u00d8stre Skilvassbakk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297087,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3139058
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4fdaf03e200d757469d598127d2077fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297087,
+            "locality_id":1276975861,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1276975861,
+    "wof:lastmodified":1537675720,
+    "wof:name":"Skilvassbakk",
+    "wof:parent_id":1159297087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88907,
+    68.08473000000001,
+    15.88907,
+    68.08473000000001
+],
+  "geometry": {"coordinates":[15.88907,68.08473000000001],"type":"Point"}
+}

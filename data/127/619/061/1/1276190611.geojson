@@ -1,0 +1,71 @@
+{
+  "id": 1276190611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.87472,58.22985,7.87472,58.22985",
+    "geom:latitude":58.22985,
+    "geom:longitude":7.87472,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1001.0",
+    "gn:asciiname":"Stolen",
+    "gn:country_code":"NO",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536937,
+    "gn:latitude":58.22985,
+    "gn:longitude":7.87472,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"St\u00f8len",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "St\u00f8len"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296703,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536937
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1558fbb919ca35031a02b1f3f7e028d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296703,
+            "locality_id":1276190611,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1276190611,
+    "wof:lastmodified":1537675989,
+    "wof:name":"Stolen",
+    "wof:parent_id":1159296703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.87472,
+    58.22985,
+    7.87472,
+    58.22985
+],
+  "geometry": {"coordinates":[7.87472,58.22985],"type":"Point"}
+}

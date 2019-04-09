@@ -1,0 +1,65 @@
+{
+  "id": 1209428797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.81697,59.80764,10.81697,59.80764",
+    "geom:latitude":59.80764,
+    "geom:longitude":10.81697,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"217",
+    "gn:asciiname":"Hellerasten",
+    "gn:country_code":"NO",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404477,
+    "gn:latitude":59.80764,
+    "gn:longitude":10.81697,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Hellerasten",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Hellerasten"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404477
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"bfcbd6ec5faf451e6d36918363b2281a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209428797
+        }
+    ],
+    "wof:id":1209428797,
+    "wof:lastmodified":1537675932,
+    "wof:name":"Hellerasten",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.81697,
+    59.80764,
+    10.81697,
+    59.80764
+],
+  "geometry": {"coordinates":[10.81697,59.80764],"type":"Point"}
+}

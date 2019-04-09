@@ -1,0 +1,72 @@
+{
+  "id": 1343840079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.98333,63.4,8.98333,63.4",
+    "geom:latitude":63.4,
+    "geom:longitude":8.98333,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5011.0",
+    "gn:asciiname":"Helland",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3153142,
+    "gn:latitude":63.4,
+    "gn:longitude":8.98333,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Helland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hellandsj\u00f6",
+        "Hellandsj\u00f8berg",
+        "Helland"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296725,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3153142
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"81900c7c9917c9b20c7d106310e2fad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296725,
+            "locality_id":1343840079,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1343840079,
+    "wof:lastmodified":1537675817,
+    "wof:name":"Helland",
+    "wof:parent_id":1159296725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.98333,
+    63.4,
+    8.98333,
+    63.4
+],
+  "geometry": {"coordinates":[8.98333,63.4],"type":"Point"}
+}

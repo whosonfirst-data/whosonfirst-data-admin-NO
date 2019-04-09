@@ -1,0 +1,100 @@
+{
+  "id": 1126003711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.78944,59.91722,5.78944,59.91722",
+    "geom:latitude":59.91722,
+    "geom:longitude":5.78944,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":371,
+    "gn:population":371,
+    "iso:country":"NO",
+    "lbl:latitude":59.91722,
+    "lbl:longitude":5.78944,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Her\u00f8ysund"
+    ],
+    "name:eng_x_preferred":[
+        "Her\u00f8ysund"
+    ],
+    "name:fre_x_preferred":[
+        "Her\u00f8ysund"
+    ],
+    "name:nno_x_preferred":[
+        "Her\u00f8ysund"
+    ],
+    "name:nob_x_preferred":[
+        "Her\u00f8ysund"
+    ],
+    "name:rum_x_preferred":[
+        "Her\u00f8ysund"
+    ],
+    "name:unk_x_variant":[
+        "Her\u00f8ysundet"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3152863,
+    "qs_pg:gn_pop":371,
+    "qs_pg:name":"Her\u00f8ysund",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":581120,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296949,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3152863,
+        "qs_pg:id":581120,
+        "wd:id":"Q2791474"
+    },
+    "wof:country":"NO",
+    "wof:created":1497299804,
+    "wof:geomhash":"3aa641266ab6f9783f1b5a00ba891304",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296949,
+            "locality_id":1126003711,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1126003711,
+    "wof:lastmodified":1529700056,
+    "wof:name":"Her\u00f8ysund",
+    "wof:parent_id":1159296949,
+    "wof:placetype":"locality",
+    "wof:population":371,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.78944,
+    59.91722,
+    5.78944,
+    59.91722
+],
+  "geometry": {"coordinates":[5.78944,59.91722],"type":"Point"}
+}

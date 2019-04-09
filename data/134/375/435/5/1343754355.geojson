@@ -1,0 +1,68 @@
+{
+  "id": 1343754355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.36667,61.76667,10.36667,61.76667",
+    "geom:latitude":61.76667,
+    "geom:longitude":10.36667,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"430.0",
+    "gn:asciiname":"Frammi",
+    "gn:country_code":"NO",
+    "gn:dem":740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3156550,
+    "gn:latitude":61.76667,
+    "gn:longitude":10.36667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Frammi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297241,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3156550
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2ab3cae843107470624367081f850203",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297241,
+            "locality_id":1343754355,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1343754355,
+    "wof:lastmodified":1536818877,
+    "wof:name":"Frammi",
+    "wof:parent_id":1159297241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.36667,
+    61.76667,
+    10.36667,
+    61.76667
+],
+  "geometry": {"coordinates":[10.36667,61.76667],"type":"Point"}
+}

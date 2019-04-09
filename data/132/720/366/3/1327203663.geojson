@@ -1,0 +1,66 @@
+{
+  "id": 1327203663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.46358,64.34772,10.46358,64.34772",
+    "geom:latitude":64.34772,
+    "geom:longitude":10.46358,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5020.0",
+    "gn:asciiname":"Vingsand",
+    "gn:country_code":"NO",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3131573,
+    "gn:latitude":64.34772,
+    "gn:longitude":10.46358,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Vingsand",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297275,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3131573
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"eb4d4f5e6f7d5970367143090dee2eee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297275,
+            "locality_id":1327203663,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1327203663,
+    "wof:lastmodified":1537010547,
+    "wof:name":"Vingsand",
+    "wof:parent_id":1159297275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.46358,
+    64.34772,
+    10.46358,
+    64.34772
+],
+  "geometry": {"coordinates":[10.46358,64.34772],"type":"Point"}
+}

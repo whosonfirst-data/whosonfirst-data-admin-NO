@@ -1,0 +1,68 @@
+{
+  "id": 1260056395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.33333,59.6,11.33333,59.6",
+    "geom:latitude":59.6,
+    "geom:longitude":11.33333,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"122.0",
+    "gn:asciiname":"Riser",
+    "gn:country_code":"NO",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141778,
+    "gn:latitude":59.6,
+    "gn:longitude":11.33333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Riser",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297525,
+        85633341,
+        85687079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141778
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a96065d6a638bb510e1960ab57c88a13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297525,
+            "locality_id":1260056395,
+            "region_id":85687079
+        }
+    ],
+    "wof:id":1260056395,
+    "wof:lastmodified":1537025961,
+    "wof:name":"Riser",
+    "wof:parent_id":1159297525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.33333,
+    59.6,
+    11.33333,
+    59.6
+],
+  "geometry": {"coordinates":[11.33333,59.6],"type":"Point"}
+}

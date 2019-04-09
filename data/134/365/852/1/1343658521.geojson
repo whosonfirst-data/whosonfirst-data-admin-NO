@@ -1,0 +1,74 @@
+{
+  "id": 1343658521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.55,66.28333,14.55,66.28333",
+    "geom:latitude":66.28333,
+    "geom:longitude":14.55,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1833.0",
+    "gn:asciiname":"Raudvatnet",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3142232,
+    "gn:latitude":66.28333,
+    "gn:longitude":14.55,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Raudvatnet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rauvatnet",
+        "R\u00f8dvatn",
+        "Rauvatn",
+        "R\u00f6dvatnet",
+        "Raudvatnet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296963,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3142232
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"05b35f4e07b54b020593e99207cf6973",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296963,
+            "locality_id":1343658521,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1343658521,
+    "wof:lastmodified":1537675742,
+    "wof:name":"Raudvatnet",
+    "wof:parent_id":1159296963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.55,
+    66.28333,
+    14.55,
+    66.28333
+],
+  "geometry": {"coordinates":[14.55,66.28333000000001],"type":"Point"}
+}

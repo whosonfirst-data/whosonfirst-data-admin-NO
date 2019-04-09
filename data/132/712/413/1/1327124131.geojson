@@ -1,0 +1,69 @@
+{
+  "id": 1327124131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.06837,66.15267,13.06837,66.15267",
+    "geom:latitude":66.15267,
+    "geom:longitude":13.06837,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1822.0",
+    "gn:asciiname":"Ytter Levang",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536905,
+    "gn:latitude":66.15267,
+    "gn:longitude":13.06837,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Ytter Levang",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Ytter Levang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297535,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536905
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e82e1e02b674bc0f32ddebaa13a99b81",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297535,
+            "locality_id":1327124131,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1327124131,
+    "wof:lastmodified":1537675988,
+    "wof:name":"Ytter Levang",
+    "wof:parent_id":1159297535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.06837,
+    66.15267,
+    13.06837,
+    66.15267
+],
+  "geometry": {"coordinates":[13.06837,66.15267],"type":"Point"}
+}

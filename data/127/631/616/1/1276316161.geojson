@@ -1,0 +1,68 @@
+{
+  "id": 1276316161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.25,60.88333,7.25,60.88333",
+    "geom:latitude":60.88333,
+    "geom:longitude":7.25,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1421.0",
+    "gn:asciiname":"Tero",
+    "gn:country_code":"NO",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3134662,
+    "gn:latitude":60.88333,
+    "gn:longitude":7.25,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Tero",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297301,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3134662
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5807f434f6c9c2193e1298900208707a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297301,
+            "locality_id":1276316161,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1276316161,
+    "wof:lastmodified":1536801770,
+    "wof:name":"Tero",
+    "wof:parent_id":1159297301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.25,
+    60.88333000000001,
+    7.25,
+    60.88333000000001
+],
+  "geometry": {"coordinates":[7.25,60.88333000000001],"type":"Point"}
+}

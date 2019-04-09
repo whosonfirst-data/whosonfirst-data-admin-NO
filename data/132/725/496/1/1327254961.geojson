@@ -1,0 +1,72 @@
+{
+  "id": 1327254961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.01189,60.26484,6.01189,60.26484",
+    "geom:latitude":60.26484,
+    "geom:longitude":6.01189,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1238.0",
+    "gn:asciiname":"Bru",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537913,
+    "gn:latitude":60.26484,
+    "gn:longitude":6.01189,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Bru",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Bru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297429,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537913,
+        "wk:page":"Bru%2C_Hordaland"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"45f12f5f7e9bdc3c3b2438c3ec4a35e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297429,
+            "locality_id":1327254961,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1327254961,
+    "wof:lastmodified":1537676033,
+    "wof:name":"Bru",
+    "wof:parent_id":1159297429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.01189,
+    60.26484,
+    6.01189,
+    60.26484
+],
+  "geometry": {"coordinates":[6.01189,60.26484],"type":"Point"}
+}

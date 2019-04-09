@@ -1,0 +1,71 @@
+{
+  "id": 1360179917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.57975,62.11612,10.57975,62.11612",
+    "geom:latitude":62.11612,
+    "geom:longitude":10.57975,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"438.0",
+    "gn:asciiname":"Moan",
+    "gn:country_code":"NO",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536050,
+    "gn:latitude":62.11612,
+    "gn:longitude":10.57975,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Moan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Moan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296891,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536050
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d655c0a32ebb8bb678c085f911112330",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296891,
+            "locality_id":1360179917,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1360179917,
+    "wof:lastmodified":1537675952,
+    "wof:name":"Moan",
+    "wof:parent_id":1159296891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.57975,
+    62.11612,
+    10.57975,
+    62.11612
+],
+  "geometry": {"coordinates":[10.57975,62.11612],"type":"Point"}
+}

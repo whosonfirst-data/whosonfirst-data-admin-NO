@@ -1,0 +1,107 @@
+{
+  "id": 1125784265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.38333,66.36667,12.38333,66.36667",
+    "geom:latitude":66.36667,
+    "geom:longitude":12.38333,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":349,
+    "gn:population":349,
+    "iso:country":"NO",
+    "lbl:latitude":66.36667,
+    "lbl:longitude":12.38333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Lovund"
+    ],
+    "name:eng_x_preferred":[
+        "Lovund"
+    ],
+    "name:fre_x_preferred":[
+        "Lovund"
+    ],
+    "name:jav_x_preferred":[
+        "Lovund"
+    ],
+    "name:may_x_preferred":[
+        "Lovund"
+    ],
+    "name:nno_x_preferred":[
+        "Lovund"
+    ],
+    "name:nob_x_preferred":[
+        "Lovund"
+    ],
+    "name:rum_x_preferred":[
+        "Lovund"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0432\u0443\u043d\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Lovunden"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3146872,
+    "qs_pg:gn_pop":349,
+    "qs_pg:name":"Lovund",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":581104,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        1159297347,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3146872,
+        "qs_pg:id":581104,
+        "wd:id":"Q2666714"
+    },
+    "wof:country":"NO",
+    "wof:created":1497290611,
+    "wof:geomhash":"6d8e1680544ff6aedcc0d40eed6f484e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297347,
+            "locality_id":1125784265,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1125784265,
+    "wof:lastmodified":1529700167,
+    "wof:name":"Lovund",
+    "wof:parent_id":1159297347,
+    "wof:placetype":"locality",
+    "wof:population":349,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.38333,
+    66.36667,
+    12.38333,
+    66.36667
+],
+  "geometry": {"coordinates":[12.38333,66.36667],"type":"Point"}
+}

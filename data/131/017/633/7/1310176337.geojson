@@ -1,0 +1,73 @@
+{
+  "id": 1310176337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.75,59.68333,6.75,59.68333",
+    "geom:latitude":59.68333,
+    "geom:longitude":6.75,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1134.0",
+    "gn:asciiname":"Tornes",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3134269,
+    "gn:latitude":59.68333,
+    "gn:longitude":6.75,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tornes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thorn\u00e6s",
+        "Tornes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297509,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3134269
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4d7ed20cba07205ab9816c53df488c5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297509,
+            "locality_id":1310176337,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1310176337,
+    "wof:lastmodified":1537675692,
+    "wof:name":"Tornes",
+    "wof:parent_id":1159297509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.75,
+    59.68333000000001,
+    6.75,
+    59.68333000000001
+],
+  "geometry": {"coordinates":[6.75,59.68333000000001],"type":"Point"}
+}

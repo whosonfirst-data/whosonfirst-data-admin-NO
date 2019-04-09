@@ -1,0 +1,68 @@
+{
+  "id": 1327410345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.2,59.63333,11.2,59.63333",
+    "geom:latitude":59.63333,
+    "geom:longitude":11.2,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"124.0",
+    "gn:asciiname":"Frohol",
+    "gn:country_code":"NO",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3156463,
+    "gn:latitude":59.63333,
+    "gn:longitude":11.2,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Fr\u00f8hol",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296995,
+        85633341,
+        85687079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3156463
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7868763e6067b678bdbb8e6dc6c17fd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296995,
+            "locality_id":1327410345,
+            "region_id":85687079
+        }
+    ],
+    "wof:id":1327410345,
+    "wof:lastmodified":1536712969,
+    "wof:name":"Frohol",
+    "wof:parent_id":1159296995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.2,
+    59.63333000000001,
+    11.2,
+    59.63333000000001
+],
+  "geometry": {"coordinates":[11.2,59.63333000000001],"type":"Point"}
+}

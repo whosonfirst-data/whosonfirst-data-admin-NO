@@ -1,0 +1,82 @@
+{
+  "id": 1125827599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.968395,61.840083,4.968395,61.840083",
+    "geom:latitude":61.840083,
+    "geom:longitude":4.968395,
+    "gn:gn_country":null,
+    "iso:country":"NO",
+    "lbl:latitude":61.840083,
+    "lbl:longitude":4.968395,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Bremanger",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Sogn og Fjordane Fylke",
+    "qs_pg:photos":109,
+    "qs_pg:photos_1k":22,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":109,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1089339,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":857570,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Sogn og Fjordane Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297195,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":857570,
+        "qs_pg:id":1089339
+    },
+    "wof:country":"NO",
+    "wof:created":1497292346,
+    "wof:geomhash":"8a40556b456781d9974704064ff0480f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297195,
+            "locality_id":1125827599,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1125827599,
+    "wof:lastmodified":1529699940,
+    "wof:name":"Bremanger",
+    "wof:parent_id":1159297195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.968395,
+    61.840083,
+    4.968395,
+    61.840083
+],
+  "geometry": {"coordinates":[4.968395,61.840083],"type":"Point"}
+}

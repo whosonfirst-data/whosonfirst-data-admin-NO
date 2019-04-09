@@ -1,0 +1,131 @@
+{
+  "id": 1125861107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.80389,59.81056,10.80389,59.81056",
+    "geom:latitude":59.81056,
+    "geom:longitude":10.80389,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":59.81056,
+    "lbl:longitude":10.80389,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:che_x_preferred":[
+        "\u041a\u0443\u043b\u044c\u0431\u043e\u0442\u043d"
+    ],
+    "name:dut_x_preferred":[
+        "Kolbotn"
+    ],
+    "name:eng_x_preferred":[
+        "Kolbotn"
+    ],
+    "name:fre_x_preferred":[
+        "Kolbotn"
+    ],
+    "name:ger_x_preferred":[
+        "Kolbotn"
+    ],
+    "name:jav_x_preferred":[
+        "Kolbotn"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30eb\u30dc\u30f3"
+    ],
+    "name:may_x_preferred":[
+        "Kolbotn"
+    ],
+    "name:nno_x_preferred":[
+        "Kolbotn"
+    ],
+    "name:nob_x_preferred":[
+        "Kolbotn"
+    ],
+    "name:por_x_preferred":[
+        "Kolbotn"
+    ],
+    "name:spa_x_preferred":[
+        "Kolbotn"
+    ],
+    "name:swe_x_preferred":[
+        "Kolbotn"
+    ],
+    "name:unk_x_variant":[
+        "Kollbotn"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":3149640,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kolbotn",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Akershus Fylke",
+    "qs_pg:photos":402,
+    "qs_pg:photos_1k":81,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":402,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1287454,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":860721,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Akershus Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296943,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3149640,
+        "gp:id":860721,
+        "qs_pg:id":1287454,
+        "wd:id":"Q1698870"
+    },
+    "wof:country":"NO",
+    "wof:created":1497293834,
+    "wof:geomhash":"754eed84c9bd8c65d0e0df6609a61acd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296943,
+            "locality_id":1125861107,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1125861107,
+    "wof:lastmodified":1553816580,
+    "wof:name":"Kolbotn",
+    "wof:parent_id":1159296943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.80389,
+    59.81056,
+    10.80389,
+    59.81056
+],
+  "geometry": {"coordinates":[10.80389,59.81056],"type":"Point"}
+}

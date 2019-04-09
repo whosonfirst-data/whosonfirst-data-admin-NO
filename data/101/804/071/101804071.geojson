@@ -1,0 +1,185 @@
+{
+  "id": 101804071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000302,
+    "geom:area_square_m":1729613.019833,
+    "geom:bbox":"6.01158182866,62.3605109727,6.04516078209,62.3814008543",
+    "geom:latitude":62.369378,
+    "geom:longitude":6.027987,
+    "gn:population":3626,
+    "iso:country":"NO",
+    "lbl:latitude":62.370609,
+    "lbl:longitude":6.024935,
+    "mps:latitude":62.370609,
+    "mps:longitude":6.024935,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u09b9\u09be\u09b0\u09c7\u0987\u09a1"
+    ],
+    "name:cat_x_preferred":[
+        "Hareid"
+    ],
+    "name:dan_x_preferred":[
+        "Hareid"
+    ],
+    "name:deu_x_preferred":[
+        "Hareid"
+    ],
+    "name:eng_x_variant":[
+        "Indre Hareid",
+        "Midtre Hareid"
+    ],
+    "name:eus_x_preferred":[
+        "Hareid"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0631\u0627\u06cc\u062f"
+    ],
+    "name:fin_x_preferred":[
+        "Hareid"
+    ],
+    "name:fra_x_preferred":[
+        "Hareid"
+    ],
+    "name:ita_x_preferred":[
+        "Hareid"
+    ],
+    "name:jav_x_preferred":[
+        "Hareid"
+    ],
+    "name:lat_x_preferred":[
+        "Hareid"
+    ],
+    "name:lim_x_preferred":[
+        "Hareid"
+    ],
+    "name:msa_x_preferred":[
+        "Hareid"
+    ],
+    "name:nds_x_preferred":[
+        "Kommun Hareid"
+    ],
+    "name:nld_x_preferred":[
+        "Hareid"
+    ],
+    "name:nno_x_preferred":[
+        "Hareid kommune"
+    ],
+    "name:nor_x_preferred":[
+        "Hareid"
+    ],
+    "name:nor_x_variant":[
+        "Hareids",
+        "Ytre Hareid"
+    ],
+    "name:pol_x_preferred":[
+        "Hareid"
+    ],
+    "name:por_x_preferred":[
+        "Hareid"
+    ],
+    "name:ron_x_preferred":[
+        "Hareid"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0440\u044d\u0439\u0434"
+    ],
+    "name:slv_x_preferred":[
+        "Hareid"
+    ],
+    "name:sme_x_preferred":[
+        "Hareid"
+    ],
+    "name:sqi_x_preferred":[
+        "Hareid"
+    ],
+    "name:swe_x_preferred":[
+        "Hareids kommun"
+    ],
+    "name:unk_x_variant":[
+        "Indre Hareid"
+    ],
+    "name:vie_x_preferred":[
+        "Hareid"
+    ],
+    "name:war_x_preferred":[
+        "Hareid"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Hareid"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u96f7\u5fb7"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*M\u00f8re og Romsdal",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"Hareid",
+    "qs:la_lc":"*NO1517",
+    "qs:level":"locality",
+    "qs:loc":"Hareid",
+    "qs:loc_alt":"Hareid",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":671,
+    "wof:belongsto":[
+        102191581,
+        1159297015,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01fe6912-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3153861,
+        "gp:id":859409,
+        "qs:id":145942,
+        "qs_pg:id":145942,
+        "wd:id":"Q494029"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"dd0a4818eb3cde78b77ca430c3f8c3d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297015,
+            "locality_id":101804071,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":101804071,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1529700087,
+    "wof:name":"Hareid",
+    "wof:parent_id":1159297015,
+    "wof:placetype":"locality",
+    "wof:population":3626,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.01158182866175,
+    62.36051097274628,
+    6.04516078208718,
+    62.38140085426051
+],
+  "geometry": {"coordinates":[[[6.03055712428221,62.37315367751472],[6.0310216664306,62.36955597813045],[6.03294234596655,62.36960675705512],[6.03305840617617,62.36870733160976],[6.03497903582547,62.36875808432166],[6.03509503237683,62.36785865763721],[6.03701561213944,62.36790938413787],[6.03713154503987,62.36700995621538],[6.04097261078692,62.36711133225253],[6.04108842416042,62.36621190142955],[6.04492940211213,62.36631317596266],[6.04516078208718,62.36451430895107],[6.04324040187589,62.36446368727974],[6.04347186262601,62.36266482530039],[6.03963134365898,62.36256351497991],[6.03974717414854,62.36166408795566],[6.0320664316157,62.36146117948499],[6.03218247779569,62.36056175954627],[6.0302623630252,62.36051097274628],[6.03014626098667,62.36141039101824],[6.02822609636451,62.36135957801218],[6.02810993069397,62.36225899504296],[6.02426950776106,62.36215729207549],[6.02392062889021,62.36485553571219],[6.02200025884468,62.36480464240805],[6.02188389444547,62.36570405613554],[6.01996347454644,62.36565313661822],[6.01984704648089,62.3665525491005],[6.0160061130054,62.3664506330926],[6.01588956538518,62.3673500426558],[6.01396905181264,62.36729904616288],[6.01361919447913,62.36999727238594],[6.01169851928034,62.36994624632456],[6.01158182866175,62.37084565424209],[6.01350255975433,62.37089668197882],[6.01338591722168,62.37179609199745],[6.01530671025,62.37184709686125],[6.01519011581081,62.37274650898064],[6.01711097077623,62.3727974909699],[6.0168778702963,62.37459631983478],[6.02071982195923,62.37469821685698],[6.02048691393162,62.37649705411906],[6.02432911337786,62.37659885962285],[6.02421275951497,62.3774982822369],[6.0280550949044,62.37759999286953],[6.02793884510703,62.37849941925055],[6.03178131642881,62.37860103500475],[6.03166517071406,62.37950046515004],[6.0335864713299,62.3795512378623],[6.03335426844615,62.38135010277074],[6.03527568695398,62.38140085426051],[6.03573983787862,62.37780311948802],[6.03381864311768,62.37775237466457],[6.03439893658054,62.37325522415159],[6.03055712428221,62.37315367751472]]],"type":"Polygon"}
+}

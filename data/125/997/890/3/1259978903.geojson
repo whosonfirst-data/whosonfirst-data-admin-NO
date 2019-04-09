@@ -1,0 +1,74 @@
+{
+  "id": 1259978903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.14083,69.36063,25.14083,69.36063",
+    "geom:latitude":69.36063,
+    "geom:longitude":25.14083,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2021.0",
+    "gn:asciiname":"Garva",
+    "gn:country_code":"NO",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537542,
+    "gn:latitude":69.36063,
+    "gn:longitude":25.14083,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"G\u00e5rva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sme_x_preferred":[
+        "G\u00e5rva"
+    ],
+    "name:sme_x_variant":[
+        "Gorv\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296871,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537542
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b33ef040ae00f634305a62dabd48145e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296871,
+            "locality_id":1259978903,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1259978903,
+    "wof:lastmodified":1537676017,
+    "wof:name":"Garva",
+    "wof:parent_id":1159296871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.14083,
+    69.36063,
+    25.14083,
+    69.36063
+],
+  "geometry": {"coordinates":[25.14083,69.36063],"type":"Point"}
+}

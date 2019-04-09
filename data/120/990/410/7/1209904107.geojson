@@ -1,0 +1,71 @@
+{
+  "id": 1209904107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.13626,61.43859,10.13626,61.43859",
+    "geom:latitude":61.43859,
+    "geom:longitude":10.13626,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"520.0",
+    "gn:asciiname":"Liagrenda",
+    "gn:country_code":"NO",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537248,
+    "gn:latitude":61.43859,
+    "gn:longitude":10.13626,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Liagrenda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Liagrenda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296971,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537248
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"393232f1faf7b8cf7ff4e297cd0b8271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296971,
+            "locality_id":1209904107,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1209904107,
+    "wof:lastmodified":1537676003,
+    "wof:name":"Liagrenda",
+    "wof:parent_id":1159296971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.13626,
+    61.43859000000001,
+    10.13626,
+    61.43859000000001
+],
+  "geometry": {"coordinates":[10.13626,61.43859000000001],"type":"Point"}
+}

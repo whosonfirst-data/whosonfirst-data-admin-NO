@@ -1,0 +1,68 @@
+{
+  "id": 1327010923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.40454,61.6241,8.40454,61.6241",
+    "geom:latitude":61.6241,
+    "geom:longitude":8.40454,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"514.0",
+    "gn:asciiname":"Visdalen",
+    "gn:country_code":"NO",
+    "gn:dem":1300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8131567,
+    "gn:latitude":61.6241,
+    "gn:longitude":8.40454,
+    "gn:modification_date":"2017-09-23",
+    "gn:name":"Visdalen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297573,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8131567
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"dfc9b3494d0971aac42ddf406980477f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297573,
+            "locality_id":1327010923,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1327010923,
+    "wof:lastmodified":1536791851,
+    "wof:name":"Visdalen",
+    "wof:parent_id":1159297573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.40454,
+    61.6241,
+    8.40454,
+    61.6241
+],
+  "geometry": {"coordinates":[8.40454,61.6241],"type":"Point"}
+}

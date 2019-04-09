@@ -1,0 +1,68 @@
+{
+  "id": 1276617687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.7,59.0,9.7,59.0",
+    "geom:latitude":59.0,
+    "geom:longitude":9.7,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"814.0",
+    "gn:asciiname":"Rognstranda",
+    "gn:country_code":"NO",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3210076,
+    "gn:latitude":59.0,
+    "gn:longitude":9.7,
+    "gn:modification_date":"2010-10-15",
+    "gn:name":"Rognstranda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296837,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210076
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"35b8430ad316da1ac83151ada4c24435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296837,
+            "locality_id":1276617687,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1276617687,
+    "wof:lastmodified":1536894934,
+    "wof:name":"Rognstranda",
+    "wof:parent_id":1159296837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.7,
+    59.0,
+    9.7,
+    59.0
+],
+  "geometry": {"coordinates":[9.7,59.0],"type":"Point"}
+}

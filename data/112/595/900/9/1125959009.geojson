@@ -1,0 +1,82 @@
+{
+  "id": 1125959009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.466239,59.648576,7.466239,59.648576",
+    "geom:latitude":59.648576,
+    "geom:longitude":7.466239,
+    "gn:gn_country":null,
+    "iso:country":"NO",
+    "lbl:latitude":59.648576,
+    "lbl:longitude":7.466239,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Bjaen",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Aust-Agder Fylke",
+    "qs_pg:photos":26,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":26,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":504044,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":857169,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Aust-Agder Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297225,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":857169,
+        "qs_pg:id":504044
+    },
+    "wof:country":"NO",
+    "wof:created":1497297727,
+    "wof:geomhash":"84367c8b22880582a12f8e4ad81c228d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297225,
+            "locality_id":1125959009,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1125959009,
+    "wof:lastmodified":1529700391,
+    "wof:name":"Bjaen",
+    "wof:parent_id":1159297225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.466239,
+    59.648576,
+    7.466239,
+    59.648576
+],
+  "geometry": {"coordinates":[7.466239,59.648576],"type":"Point"}
+}

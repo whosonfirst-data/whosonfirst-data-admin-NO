@@ -1,0 +1,120 @@
+{
+  "id": 1125932135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.28333,59.9,10.28333,59.9",
+    "geom:latitude":59.9,
+    "geom:longitude":10.28333,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":525,
+    "gn:population":525,
+    "iso:country":"NO",
+    "lbl:latitude":59.9,
+    "lbl:longitude":10.28333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0421\u0439\u043b\u0438\u043d\u0433"
+    ],
+    "name:dut_x_preferred":[
+        "Sylling"
+    ],
+    "name:eng_x_preferred":[
+        "Sylling"
+    ],
+    "name:fre_x_preferred":[
+        "Sylling"
+    ],
+    "name:jav_x_preferred":[
+        "Sylling"
+    ],
+    "name:may_x_preferred":[
+        "Sylling"
+    ],
+    "name:nno_x_preferred":[
+        "Sylling"
+    ],
+    "name:nob_x_preferred":[
+        "Sylling"
+    ],
+    "name:rum_x_preferred":[
+        "Sylling"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3134975,
+    "qs_pg:gn_pop":525,
+    "qs_pg:name":"Sylling",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Buskerud Fylke",
+    "qs_pg:photos":63,
+    "qs_pg:photos_1k":13,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":63,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1043322,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":864840,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Buskerud Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296937,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3134975,
+        "gp:id":864840,
+        "qs_pg:id":1043322,
+        "wd:id":"Q1771775"
+    },
+    "wof:country":"NO",
+    "wof:created":1497296841,
+    "wof:geomhash":"1e5f3893e1430770d62bf7bb05f6b08d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296937,
+            "locality_id":1125932135,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1125932135,
+    "wof:lastmodified":1529699849,
+    "wof:name":"Sylling",
+    "wof:parent_id":1159296937,
+    "wof:placetype":"locality",
+    "wof:population":525,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.28333,
+    59.9,
+    10.28333,
+    59.9
+],
+  "geometry": {"coordinates":[10.28333,59.9],"type":"Point"}
+}

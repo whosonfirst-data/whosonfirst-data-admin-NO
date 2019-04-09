@@ -1,0 +1,71 @@
+{
+  "id": 1260162011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.06192,61.18812,10.06192,61.18812",
+    "geom:latitude":61.18812,
+    "geom:longitude":10.06192,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"522.0",
+    "gn:asciiname":"Fossetsaetra",
+    "gn:country_code":"NO",
+    "gn:dem":800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535849,
+    "gn:latitude":61.18812,
+    "gn:longitude":10.06192,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Fossets\u00e6tra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Fossets\u00e6tra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297375,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535849
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"da95f3f04edbdbbcf21e50cb7ba6e350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297375,
+            "locality_id":1260162011,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1260162011,
+    "wof:lastmodified":1537675943,
+    "wof:name":"Fossetsaetra",
+    "wof:parent_id":1159297375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.06192,
+    61.18812,
+    10.06192,
+    61.18812
+],
+  "geometry": {"coordinates":[10.06192,61.18812],"type":"Point"}
+}

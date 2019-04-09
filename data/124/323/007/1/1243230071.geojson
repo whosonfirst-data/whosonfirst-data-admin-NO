@@ -1,0 +1,82 @@
+{
+  "id": 1243230071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.5672,69.78848,20.5672,69.78848",
+    "geom:latitude":69.78848,
+    "geom:longitude":20.5672,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1942.0",
+    "gn:asciiname":"Gargu",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":779672,
+    "gn:latitude":69.78848,
+    "gn:longitude":20.5672,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"G\u00e1rgu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Hamnnes"
+    ],
+    "name:sme_x_preferred":[
+        "G\u00e1rgu"
+    ],
+    "name:und_x_variant":[
+        "Hamnes",
+        "Havn\u00e6s",
+        "G\u00e1rgu",
+        "Havnnes",
+        "Hamnnes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297593,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":779672
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6941aaa28c64410033e3ab1011f0a990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297593,
+            "locality_id":1243230071,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1243230071,
+    "wof:lastmodified":1537675661,
+    "wof:name":"Gargu",
+    "wof:parent_id":1159297593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.5672,
+    69.78848,
+    20.5672,
+    69.78848
+],
+  "geometry": {"coordinates":[20.5672,69.78848000000001],"type":"Point"}
+}

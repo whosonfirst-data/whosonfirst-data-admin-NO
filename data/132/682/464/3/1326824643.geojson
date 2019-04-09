@@ -1,0 +1,68 @@
+{
+  "id": 1326824643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.15222,60.44611,5.15222,60.44611",
+    "geom:latitude":60.44611,
+    "geom:longitude":5.15222,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1247.0",
+    "gn:asciiname":"Gronavik",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3241227,
+    "gn:latitude":60.44611,
+    "gn:longitude":5.15222,
+    "gn:modification_date":"2010-10-15",
+    "gn:name":"Gr\u00f8navik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296789,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3241227
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8e71cb47d56b5dbc32bb918036f0005b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296789,
+            "locality_id":1326824643,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1326824643,
+    "wof:lastmodified":1537057246,
+    "wof:name":"Gronavik",
+    "wof:parent_id":1159296789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.15222,
+    60.44611,
+    5.15222,
+    60.44611
+],
+  "geometry": {"coordinates":[5.15222,60.44611],"type":"Point"}
+}

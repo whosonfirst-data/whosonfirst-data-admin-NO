@@ -1,0 +1,75 @@
+{
+  "id": 1260065747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.50134,62.66162,7.50134,62.66162",
+    "geom:latitude":62.66162,
+    "geom:longitude":7.50134,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1539.0",
+    "gn:asciiname":"Afarnes",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3163544,
+    "gn:latitude":62.66162,
+    "gn:longitude":7.50134,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"\u00c5farnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aafarnes",
+        "Alfarnes",
+        "\u00c5farnes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297421,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3163544,
+        "wk:page":"%C3%85farnes"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"fedc84fdbd828d543780f45240d8166b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297421,
+            "locality_id":1260065747,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1260065747,
+    "wof:lastmodified":1537675896,
+    "wof:name":"Afarnes",
+    "wof:parent_id":1159297421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.50134,
+    62.66161999999999,
+    7.50134,
+    62.66161999999999
+],
+  "geometry": {"coordinates":[7.50134,62.66161999999999],"type":"Point"}
+}

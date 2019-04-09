@@ -1,0 +1,71 @@
+{
+  "id": 1226218713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.68549,59.08738,9.68549,59.08738",
+    "geom:latitude":59.08738,
+    "geom:longitude":9.68549,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"805",
+    "gn:asciiname":"Lovsjo",
+    "gn:country_code":"NO",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404304,
+    "gn:latitude":59.08738,
+    "gn:longitude":9.68549,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"L\u00f8vsj\u00f8",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "L\u00f8vsj\u00f8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296755,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404304
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f929d7b79d23e16c44f04e9207689e9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296755,
+            "locality_id":1226218713,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1226218713,
+    "wof:lastmodified":1537675926,
+    "wof:name":"Lovsjo",
+    "wof:parent_id":1159296755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.68549,
+    59.08738,
+    9.68549,
+    59.08738
+],
+  "geometry": {"coordinates":[9.68549,59.08738],"type":"Point"}
+}

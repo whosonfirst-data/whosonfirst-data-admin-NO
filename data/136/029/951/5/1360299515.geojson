@@ -1,0 +1,71 @@
+{
+  "id": 1360299515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.08048,60.23197,11.08048,60.23197",
+    "geom:latitude":60.23197,
+    "geom:longitude":11.08048,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"238.0",
+    "gn:asciiname":"Grasmogrenda",
+    "gn:country_code":"NO",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536256,
+    "gn:latitude":60.23197,
+    "gn:longitude":11.08048,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Grasmogrenda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Grasmogrenda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297073,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536256
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3691ba046e6bbbcdf2e5250db061be4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297073,
+            "locality_id":1360299515,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1360299515,
+    "wof:lastmodified":1537675961,
+    "wof:name":"Grasmogrenda",
+    "wof:parent_id":1159297073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.08048,
+    60.23197,
+    11.08048,
+    60.23197
+],
+  "geometry": {"coordinates":[11.08048,60.23197],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343646001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.18333,66.66667,13.18333,66.66667",
+    "geom:latitude":66.66667,
+    "geom:longitude":13.18333,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1836.0",
+    "gn:asciiname":"Akvik",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3163412,
+    "gn:latitude":66.66667,
+    "gn:longitude":13.18333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u00c5kvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aakvik",
+        "\u00c5kvik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296809,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3163412
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b73ec049412c969b1db4a5f9f4caa9b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296809,
+            "locality_id":1343646001,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1343646001,
+    "wof:lastmodified":1537675894,
+    "wof:name":"Akvik",
+    "wof:parent_id":1159296809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.18333,
+    66.66667,
+    13.18333,
+    66.66667
+],
+  "geometry": {"coordinates":[13.18333,66.66667],"type":"Point"}
+}

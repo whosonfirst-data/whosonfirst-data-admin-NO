@@ -1,0 +1,70 @@
+{
+  "id": 1260052481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.98473,63.20636,8.98473,63.20636",
+    "geom:latitude":63.20636,
+    "geom:longitude":8.98473,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5011.0",
+    "gn:asciiname":"Vinjeora",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3131560,
+    "gn:latitude":63.20636,
+    "gn:longitude":8.98473,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Vinje\u00f8ra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vinje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296725,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3131560,
+        "wk:page":"Vinje%C3%B8ra"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9b6f5b846d407713eb7f7864ad9a6f5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296725,
+            "locality_id":1260052481,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1260052481,
+    "wof:lastmodified":1537675675,
+    "wof:name":"Vinjeora",
+    "wof:parent_id":1159296725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.98473,
+    63.20636,
+    8.98473,
+    63.20636
+],
+  "geometry": {"coordinates":[8.98473,63.20636],"type":"Point"}
+}

@@ -1,0 +1,121 @@
+{
+  "id": 1125870789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.02757,67.0338,14.02757,67.0338",
+    "geom:latitude":67.0338,
+    "geom:longitude":14.02757,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":666,
+    "gn:population":666,
+    "iso:country":"NO",
+    "lbl:latitude":67.0338,
+    "lbl:longitude":14.02757,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Inndyr"
+    ],
+    "name:eng_x_preferred":[
+        "Inndyr"
+    ],
+    "name:fre_x_preferred":[
+        "Inndyr"
+    ],
+    "name:jav_x_preferred":[
+        "Inndyr"
+    ],
+    "name:may_x_preferred":[
+        "Inndyr"
+    ],
+    "name:nno_x_preferred":[
+        "Inndyr"
+    ],
+    "name:nob_x_preferred":[
+        "Inndyr"
+    ],
+    "name:por_x_preferred":[
+        "Inndyr"
+    ],
+    "name:rum_x_preferred":[
+        "Inndyr"
+    ],
+    "name:unk_x_variant":[
+        "Indyr"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":3151056,
+    "qs_pg:gn_pop":666,
+    "qs_pg:name":"Inndyr",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nordland Fylke",
+    "qs_pg:photos":21,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":21,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":326297,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":860284,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Nordland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159296997,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3151056,
+        "gp:id":860284,
+        "qs_pg:id":326297,
+        "wd:id":"Q2977929"
+    },
+    "wof:country":"NO",
+    "wof:created":1497294287,
+    "wof:geomhash":"5a4a01426b295b066418c1e4bfff487d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296997,
+            "locality_id":1125870789,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1125870789,
+    "wof:lastmodified":1529700160,
+    "wof:name":"Inndyr",
+    "wof:parent_id":1159296997,
+    "wof:placetype":"locality",
+    "wof:population":666,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.02757,
+    67.0338,
+    14.02757,
+    67.0338
+],
+  "geometry": {"coordinates":[14.02757,67.0338],"type":"Point"}
+}

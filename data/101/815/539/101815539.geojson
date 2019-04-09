@@ -1,0 +1,117 @@
+{
+  "id": 101815539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00009,
+    "geom:area_square_m":556906.645907,
+    "geom:bbox":"10.8502914698,60.1112719418,10.8698361213,60.1230794988",
+    "geom:latitude":60.116083,
+    "geom:longitude":10.858437,
+    "iso:country":"NO",
+    "lbl:latitude":60.116305,
+    "lbl:longitude":10.856142,
+    "mps:latitude":60.116305,
+    "mps:longitude":10.856142,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Gr\u00f8nvoll"
+    ],
+    "name:dut_x_preferred":[
+        "Gr\u00f8nvoll"
+    ],
+    "name:eng_x_preferred":[
+        "Gr\u00f8nvoll"
+    ],
+    "name:fre_x_preferred":[
+        "Gr\u00f8nvoll"
+    ],
+    "name:jav_x_preferred":[
+        "Gr\u00f8nvoll"
+    ],
+    "name:may_x_preferred":[
+        "Gr\u00f8nvoll"
+    ],
+    "name:msa_x_preferred":[
+        "Gr\u00f8nvoll"
+    ],
+    "name:nld_x_preferred":[
+        "Gr\u00f8nvoll"
+    ],
+    "name:nno_x_preferred":[
+        "Gr\u00f8nvoll"
+    ],
+    "name:nob_x_preferred":[
+        "Gr\u00f8nvoll"
+    ],
+    "name:nor_x_preferred":[
+        "Gr\u00f8nvoll"
+    ],
+    "name:ron_x_preferred":[
+        "Gr\u00f8nvoll"
+    ],
+    "name:rum_x_preferred":[
+        "Gr\u00f8nvoll"
+    ],
+    "name:swe_x_preferred":[
+        "Gr\u00f8nvoll"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Akershus",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"Nittedal",
+    "qs:la_lc":"*NO0233",
+    "qs:level":"locality",
+    "qs:loc":"Gr\u00f8nvoll",
+    "qs:loc_alt":"Groenvoll",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191581,
+        1159296969,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20100062,
+        "qs:id":9,
+        "wd:id":"Q2375017"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a8886b8f6b995e7d11d0cecd69e5b6de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296969,
+            "locality_id":101815539,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":101815539,
+    "wof:lastmodified":1529699763,
+    "wof:name":"Gr\u00f8nvoll",
+    "wof:parent_id":1159296969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.85029146983351,
+    60.11127194180392,
+    10.86983612127301,
+    60.12307949881358
+],
+  "geometry": {"coordinates":[[[10.85397011265621,60.12306867321962],[10.85390166559574,60.12036905615054],[10.85569540332779,60.12035820877549],[10.85567254256313,60.11945833752503],[10.85746623129421,60.11944746771672],[10.85744332404158,60.11854759718358],[10.8592369637725,60.11853670494344],[10.85919105772768,60.11673696570188],[10.86636522245806,60.11669317178706],[10.86624952443765,60.11219383709539],[10.86983612127301,60.11217180691153],[10.86981289021151,60.11127194180392],[10.86263988365528,60.11131590982603],[10.86266292318697,60.11221577626003],[10.86086962091179,60.11222671170992],[10.86089261398712,60.11312657886242],[10.85371920239407,60.11317009442587],[10.8537648097024,60.11496983252255],[10.85197135829685,60.11498065517731],[10.85208516183042,60.11948000886019],[10.85029146983351,60.11949081038716],[10.85035962516713,60.1221904282458],[10.85215346090365,60.12217962574118],[10.85217623008771,60.12307949881358],[10.85397011265621,60.12306867321962]]],"type":"Polygon"}
+}

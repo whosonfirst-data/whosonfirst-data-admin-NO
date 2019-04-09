@@ -1,0 +1,68 @@
+{
+  "id": 1343235219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.63333,61.38333,5.63333,61.38333",
+    "geom:latitude":61.38333,
+    "geom:longitude":5.63333,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1430.0",
+    "gn:asciiname":"Kappstad",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3150453,
+    "gn:latitude":61.38333,
+    "gn:longitude":5.63333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Kappstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297441,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3150453
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ca9df5a0ba7947d07c76bda79f7d1e34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297441,
+            "locality_id":1343235219,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1343235219,
+    "wof:lastmodified":1537068513,
+    "wof:name":"Kappstad",
+    "wof:parent_id":1159297441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.63333,
+    61.38333000000001,
+    5.63333,
+    61.38333000000001
+],
+  "geometry": {"coordinates":[5.63333,61.38333000000001],"type":"Point"}
+}

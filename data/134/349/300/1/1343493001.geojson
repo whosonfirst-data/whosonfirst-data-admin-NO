@@ -1,0 +1,75 @@
+{
+  "id": 1343493001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.28712,70.58877,22.28712,70.58877",
+    "geom:latitude":70.58877,
+    "geom:longitude":22.28712,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2015.0",
+    "gn:asciiname":"Breivikbotn",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":7626406,
+    "gn:latitude":70.58877,
+    "gn:longitude":22.28712,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Breivikbotn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Breidvikbotn"
+    ],
+    "name:nor_x_variant":[
+        "Breivikbotn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296899,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626406,
+        "wk:page":"Breivikbotn"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"baba8050528168491b4aca79b1a671f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296899,
+            "locality_id":1343493001,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1343493001,
+    "wof:lastmodified":1537675903,
+    "wof:name":"Breivikbotn",
+    "wof:parent_id":1159296899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.28712,
+    70.58877,
+    22.28712,
+    70.58877
+],
+  "geometry": {"coordinates":[22.28712,70.58877],"type":"Point"}
+}

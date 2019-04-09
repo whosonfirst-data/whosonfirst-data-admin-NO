@@ -1,0 +1,71 @@
+{
+  "id": 1226228515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.03291,59.1723,11.03291,59.1723",
+    "geom:latitude":59.1723,
+    "geom:longitude":11.03291,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"106.0",
+    "gn:asciiname":"Roppestad",
+    "gn:country_code":"NO",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537165,
+    "gn:latitude":59.1723,
+    "gn:longitude":11.03291,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Roppestad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Roppestad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297385,
+        85633341,
+        85687079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537165
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9b92532c77d7421ac439cdcfcc90b31e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297385,
+            "locality_id":1226228515,
+            "region_id":85687079
+        }
+    ],
+    "wof:id":1226228515,
+    "wof:lastmodified":1537675999,
+    "wof:name":"Roppestad",
+    "wof:parent_id":1159297385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.03291,
+    59.1723,
+    11.03291,
+    59.1723
+],
+  "geometry": {"coordinates":[11.03291,59.1723],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326506081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.71177,68.5809,16.71177,68.5809",
+    "geom:latitude":68.5809,
+    "geom:longitude":16.71177,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1913.0",
+    "gn:asciiname":"Ramavuolli",
+    "gn:country_code":"NO",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537467,
+    "gn:latitude":68.5809,
+    "gn:longitude":16.71177,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"R\u00e1mavuolli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sme_x_preferred":[
+        "R\u00e1mavuolli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296791,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537467
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"aeec0219748afd1d55f4d4ea4387a83b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296791,
+            "locality_id":1326506081,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1326506081,
+    "wof:lastmodified":1537676013,
+    "wof:name":"Ramavuolli",
+    "wof:parent_id":1159296791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.71177,
+    68.5809,
+    16.71177,
+    68.5809
+],
+  "geometry": {"coordinates":[16.71177,68.5809],"type":"Point"}
+}

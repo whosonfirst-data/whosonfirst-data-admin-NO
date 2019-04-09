@@ -1,0 +1,68 @@
+{
+  "id": 1209507599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.6242,61.25625,12.6242,61.25625",
+    "geom:latitude":61.25625,
+    "geom:longitude":12.6242,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"428.0",
+    "gn:asciiname":"Nesvollen",
+    "gn:country_code":"NO",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535966,
+    "gn:latitude":61.25625,
+    "gn:longitude":12.6242,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Nesvollen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Nesvollen"
+    ],
+    "name:nor_x_variant":[
+        "Ness\u00e6tra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535966
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"31a8a23afad142d63197a827159bffd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209507599
+        }
+    ],
+    "wof:id":1209507599,
+    "wof:lastmodified":1537675948,
+    "wof:name":"Nesvollen",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6242,
+    61.25625,
+    12.6242,
+    61.25625
+],
+  "geometry": {"coordinates":[12.6242,61.25625],"type":"Point"}
+}

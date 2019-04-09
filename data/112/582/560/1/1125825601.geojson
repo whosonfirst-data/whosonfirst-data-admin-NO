@@ -1,0 +1,119 @@
+{
+  "id": 1125825601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.0,59.95,11.0,59.95",
+    "geom:latitude":59.95,
+    "geom:longitude":11.0,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":59.95,
+    "lbl:longitude":11.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Str\u00f8mmen"
+    ],
+    "name:eng_x_preferred":[
+        "Str\u00f8mmen"
+    ],
+    "name:fre_x_preferred":[
+        "Str\u00f8mmen"
+    ],
+    "name:ger_x_preferred":[
+        "Str\u00f8mmen"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03c4\u03c1\u03ad\u03bc\u03b5\u03bd"
+    ],
+    "name:ita_x_preferred":[
+        "Str\u00f8mmen"
+    ],
+    "name:lit_x_preferred":[
+        "Striomenas"
+    ],
+    "name:nno_x_preferred":[
+        "Str\u00f8mmen"
+    ],
+    "name:nob_x_preferred":[
+        "Str\u00f8mmen"
+    ],
+    "name:swe_x_preferred":[
+        "Str\u00f8mmen"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3135642,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Str\u00f8mmen",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Akershus Fylke",
+    "qs_pg:photos":176,
+    "qs_pg:photos_1k":36,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":176,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1169002,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":864666,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Akershus Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297495,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3135642,
+        "gp:id":864666,
+        "qs_pg:id":1169002,
+        "wd:id":"Q3182338"
+    },
+    "wof:country":"NO",
+    "wof:created":1497292262,
+    "wof:geomhash":"7e6ffc6f106054eb477d58e01ca9913f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297495,
+            "locality_id":1125825601,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1125825601,
+    "wof:lastmodified":1529699780,
+    "wof:name":"Str\u00f8mmen",
+    "wof:parent_id":1159297495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.0,
+    59.95,
+    11.0,
+    59.95
+],
+  "geometry": {"coordinates":[11.0,59.95],"type":"Point"}
+}

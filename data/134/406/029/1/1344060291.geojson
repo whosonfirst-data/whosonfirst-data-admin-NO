@@ -1,0 +1,68 @@
+{
+  "id": 1344060291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.05,58.53333,8.05,58.53333",
+    "geom:latitude":58.53333,
+    "geom:longitude":8.05,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"928.0",
+    "gn:asciiname":"Dovland",
+    "gn:country_code":"NO",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3159052,
+    "gn:latitude":58.53333,
+    "gn:longitude":8.05,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Dovland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297559,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3159052
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d6c58f113fae20029dc5cba4a4581324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297559,
+            "locality_id":1344060291,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1344060291,
+    "wof:lastmodified":1536874820,
+    "wof:name":"Dovland",
+    "wof:parent_id":1159297559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.05,
+    58.53333000000001,
+    8.05,
+    58.53333000000001
+],
+  "geometry": {"coordinates":[8.05,58.53333000000001],"type":"Point"}
+}

@@ -1,0 +1,126 @@
+{
+  "id": 1125932911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.4275,59.56139,10.4275,59.56139",
+    "geom:latitude":59.56139,
+    "geom:longitude":10.4275,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":351,
+    "gn:population":351,
+    "iso:country":"NO",
+    "lbl:latitude":59.56139,
+    "lbl:longitude":10.4275,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0425\u043e\u043b\u043c\u0441\u0431\u0443"
+    ],
+    "name:dan_x_preferred":[
+        "Holmsbu"
+    ],
+    "name:dut_x_preferred":[
+        "Holmsbu"
+    ],
+    "name:eng_x_preferred":[
+        "Holmsbu"
+    ],
+    "name:fre_x_preferred":[
+        "Holmsbu"
+    ],
+    "name:jav_x_preferred":[
+        "Holmsbu"
+    ],
+    "name:may_x_preferred":[
+        "Holmsbu"
+    ],
+    "name:nno_x_preferred":[
+        "Holmsbu"
+    ],
+    "name:nob_x_preferred":[
+        "Holmsbu"
+    ],
+    "name:rum_x_preferred":[
+        "Holmsbu"
+    ],
+    "name:swe_x_preferred":[
+        "Holmsbu"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3152111,
+    "qs_pg:gn_pop":351,
+    "qs_pg:name":"Holmsbu",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Buskerud Fylke",
+    "qs_pg:photos":241,
+    "qs_pg:photos_1k":49,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":241,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":492065,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":859941,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Buskerud Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297231,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3152111,
+        "gp:id":859941,
+        "qs_pg:id":492065,
+        "wd:id":"Q2176381"
+    },
+    "wof:country":"NO",
+    "wof:created":1497296868,
+    "wof:geomhash":"191acd17d3c1c039818e3537b985ccd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297231,
+            "locality_id":1125932911,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1125932911,
+    "wof:lastmodified":1529699850,
+    "wof:name":"Holmsbu",
+    "wof:parent_id":1159297231,
+    "wof:placetype":"locality",
+    "wof:population":351,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4275,
+    59.56139,
+    10.4275,
+    59.56139
+],
+  "geometry": {"coordinates":[10.4275,59.56139],"type":"Point"}
+}

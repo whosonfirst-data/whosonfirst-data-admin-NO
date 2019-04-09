@@ -1,0 +1,72 @@
+{
+  "id": 1293289185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.56821,67.04411,14.56821,67.04411",
+    "geom:latitude":67.04411,
+    "geom:longitude":14.56821,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1839.0",
+    "gn:asciiname":"Tverrvik",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3133530,
+    "gn:latitude":67.04411,
+    "gn:longitude":14.56821,
+    "gn:modification_date":"2014-05-29",
+    "gn:name":"Tverrvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tvervik",
+        "Tverrvik",
+        "Tverrvika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297265,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3133530
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8c85b3a9bc4d8586fe8459a3322a2612",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297265,
+            "locality_id":1293289185,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1293289185,
+    "wof:lastmodified":1537675688,
+    "wof:name":"Tverrvik",
+    "wof:parent_id":1159297265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.56821,
+    67.04411,
+    14.56821,
+    67.04411
+],
+  "geometry": {"coordinates":[14.56821,67.04411],"type":"Point"}
+}

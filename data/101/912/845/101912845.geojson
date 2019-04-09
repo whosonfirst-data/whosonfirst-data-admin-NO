@@ -1,0 +1,111 @@
+{
+  "id": 101912845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000064,
+    "geom:area_square_m":412841.709946,
+    "geom:bbox":"7.8426156481,58.29233666,7.85978293341,58.2995540307",
+    "geom:latitude":58.296301,
+    "geom:longitude":7.851448,
+    "iso:country":"NO",
+    "lbl:latitude":58.296754,
+    "lbl:longitude":7.853464,
+    "mps:latitude":58.296754,
+    "mps:longitude":7.853464,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Skarpengland"
+    ],
+    "name:eng_x_preferred":[
+        "Skarpengland"
+    ],
+    "name:fre_x_preferred":[
+        "Skarpengland"
+    ],
+    "name:may_x_preferred":[
+        "Skarpengland"
+    ],
+    "name:msa_x_preferred":[
+        "Skarpengland"
+    ],
+    "name:nld_x_preferred":[
+        "Skarpengland"
+    ],
+    "name:nno_x_preferred":[
+        "Skarpengland"
+    ],
+    "name:nob_x_preferred":[
+        "Skarpengland"
+    ],
+    "name:nor_x_preferred":[
+        "Skarpengland"
+    ],
+    "name:ron_x_preferred":[
+        "Skarpengland"
+    ],
+    "name:rum_x_preferred":[
+        "Skarpengland"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Vest-Agder",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:id":0,
+    "qs:la":"Vennesla",
+    "qs:la_lc":"*NO1014",
+    "qs:level":"locality",
+    "qs:loc":"Skarpengland",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":55,
+    "wof:belongsto":[
+        102191581,
+        1159296843,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29305160,
+        "qs:id":1334744,
+        "qs_pg:id":1334744,
+        "wd:id":"Q1903854"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"771db58ddd7f79fcc797fdc6c557dd98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296843,
+            "locality_id":101912845,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":101912845,
+    "wof:lastmodified":1529700468,
+    "wof:name":"Skarpengland",
+    "wof:parent_id":1159296843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.84261564810492,
+    58.29233665995878,
+    7.85978293341185,
+    58.29955403074302
+],
+  "geometry": {"coordinates":[[[7.84261564810492,58.29304240984681],[7.84309818224523,58.29754833364001],[7.84595529610556,58.29759396047956],[7.84590163486655,58.298492750099],[7.8493052996788,58.29854699791485],[7.84925171996338,58.29944578931475],[7.85605924770772,58.29955403074302],[7.85627287047873,58.29595885440932],[7.85797458908161,58.2959858581188],[7.85802794463478,58.2950870638943],[7.85972962330373,58.29511404540506],[7.85978293341185,58.29421525066755],[7.85808129706447,58.29418826991855],[7.8581346463713,58.29328947619126],[7.85643305473252,58.29326247476905],[7.85648644323328,58.2923636820525],[7.85478489630179,58.29233665995878],[7.85473146548543,58.29323545191221],[7.85302987863105,58.29320840762057],[7.8529764023682,58.294107199059],[7.85127477559109,58.2940801325683],[7.85116772902961,58.29587771466174],[7.84436090734056,58.29576922822093],[7.84452198032557,58.29307286464211],[7.84261564810492,58.29304240984681]]],"type":"Polygon"}
+}

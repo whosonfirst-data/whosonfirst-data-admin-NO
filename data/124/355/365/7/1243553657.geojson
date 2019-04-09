@@ -1,0 +1,75 @@
+{
+  "id": 1243553657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.15639,70.11797,28.15639,70.11797",
+    "geom:latitude":70.11797,
+    "geom:longitude":28.15639,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2025.0",
+    "gn:asciiname":"Leaibenjarga",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":778333,
+    "gn:latitude":70.11797,
+    "gn:longitude":28.15639,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Leaibenj\u00e1rga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sme_x_preferred":[
+        "Leaibenj\u00e1rga"
+    ],
+    "name:und_x_variant":[
+        "L\u00e6ibbenjargga",
+        "Olderneset"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296751,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":778333
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"45199db59f9b4ad78a6ef0c9c2d8e5fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296751,
+            "locality_id":1243553657,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1243553657,
+    "wof:lastmodified":1537675649,
+    "wof:name":"Leaibenjarga",
+    "wof:parent_id":1159296751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.15639,
+    70.11797,
+    28.15639,
+    70.11797
+],
+  "geometry": {"coordinates":[28.15639,70.11797],"type":"Point"}
+}

@@ -1,0 +1,124 @@
+{
+  "id": 1125764951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.63333,68.96667,15.63333,68.96667",
+    "geom:latitude":68.96667,
+    "geom:longitude":15.63333,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":210,
+    "gn:population":210,
+    "iso:country":"NO",
+    "lbl:latitude":68.96667,
+    "lbl:longitude":15.63333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Ris\u00f8yhamn"
+    ],
+    "name:dut_x_preferred":[
+        "Ris\u00f8yhamn"
+    ],
+    "name:eng_x_preferred":[
+        "Ris\u00f8yhamn"
+    ],
+    "name:fre_x_preferred":[
+        "Ris\u00f8yhamn"
+    ],
+    "name:ger_x_preferred":[
+        "Ris\u00f8yhamn"
+    ],
+    "name:jav_x_preferred":[
+        "Ris\u00f8yhamn"
+    ],
+    "name:may_x_preferred":[
+        "Ris\u00f8yhamn"
+    ],
+    "name:nno_x_preferred":[
+        "Ris\u00f8yhamn"
+    ],
+    "name:nob_x_preferred":[
+        "Ris\u00f8yhamn"
+    ],
+    "name:rum_x_preferred":[
+        "Ris\u00f8yhamn"
+    ],
+    "name:swe_x_preferred":[
+        "Ris\u00f8yhamn"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3141731,
+    "qs_pg:gn_pop":210,
+    "qs_pg:name":"Ris\u00f8yhamn",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nordland Fylke",
+    "qs_pg:photos":121,
+    "qs_pg:photos_1k":25,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":121,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1332232,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":862999,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Nordland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159297539,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141731,
+        "gp:id":862999,
+        "qs_pg:id":1332232,
+        "wd:id":"Q1935322"
+    },
+    "wof:country":"NO",
+    "wof:created":1497289854,
+    "wof:geomhash":"8293f409439dc697b9262278599ddb68",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297539,
+            "locality_id":1125764951,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1125764951,
+    "wof:lastmodified":1529700160,
+    "wof:name":"Ris\u00f8yhamn",
+    "wof:parent_id":1159297539,
+    "wof:placetype":"locality",
+    "wof:population":210,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.63333,
+    68.96667,
+    15.63333,
+    68.96667
+],
+  "geometry": {"coordinates":[15.63333,68.96666999999999],"type":"Point"}
+}

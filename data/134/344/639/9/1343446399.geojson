@@ -1,0 +1,71 @@
+{
+  "id": 1343446399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.14215,62.57443,9.14215,62.57443",
+    "geom:latitude":62.57443,
+    "geom:longitude":9.14215,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1563.0",
+    "gn:asciiname":"Krokbygda",
+    "gn:country_code":"NO",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536145,
+    "gn:latitude":62.57443,
+    "gn:longitude":9.14215,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Krokbygda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Krokbygda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296805,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536145
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2c32415619f5ed7da6895d616669083b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296805,
+            "locality_id":1343446399,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1343446399,
+    "wof:lastmodified":1537675956,
+    "wof:name":"Krokbygda",
+    "wof:parent_id":1159296805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.14215,
+    62.57443000000001,
+    9.14215,
+    62.57443000000001
+],
+  "geometry": {"coordinates":[9.14215,62.57443000000001],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1259358799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.89944,68.94056,15.89944,68.94056",
+    "geom:latitude":68.94056,
+    "geom:longitude":15.89944,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Kinn",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3150279,
+    "gn:latitude":68.94056,
+    "gn:longitude":15.89944,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Kinn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297273,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3150279
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"09986966b949c80bb835570578dad735",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297273,
+            "locality_id":1259358799,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1259358799,
+    "wof:lastmodified":1537036291,
+    "wof:name":"Kinn",
+    "wof:parent_id":1159297273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.89944,
+    68.94055999999999,
+    15.89944,
+    68.94055999999999
+],
+  "geometry": {"coordinates":[15.89944,68.94055999999999],"type":"Point"}
+}

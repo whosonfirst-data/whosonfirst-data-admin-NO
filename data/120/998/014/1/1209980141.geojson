@@ -1,0 +1,68 @@
+{
+  "id": 1209980141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.26667,59.3,9.26667,59.3",
+    "geom:latitude":59.3,
+    "geom:longitude":9.26667,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"819.0",
+    "gn:asciiname":"Romnes",
+    "gn:country_code":"NO",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141422,
+    "gn:latitude":59.3,
+    "gn:longitude":9.26667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Romnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296935,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141422
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"61162006ad78263b40733565f54e3af7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296935,
+            "locality_id":1209980141,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1209980141,
+    "wof:lastmodified":1536391112,
+    "wof:name":"Romnes",
+    "wof:parent_id":1159296935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.26667,
+    59.3,
+    9.26667,
+    59.3
+],
+  "geometry": {"coordinates":[9.26667,59.3],"type":"Point"}
+}

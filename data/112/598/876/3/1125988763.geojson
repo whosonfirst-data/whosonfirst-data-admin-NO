@@ -1,0 +1,126 @@
+{
+  "id": 1125988763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.85944,59.93,5.85944,59.93",
+    "geom:latitude":59.93,
+    "geom:longitude":5.85944,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":717,
+    "gn:population":717,
+    "iso:country":"NO",
+    "lbl:latitude":59.93,
+    "lbl:longitude":5.85944,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Uskedal"
+    ],
+    "name:eng_x_preferred":[
+        "Uskedal"
+    ],
+    "name:fre_x_preferred":[
+        "Uskedal"
+    ],
+    "name:jav_x_preferred":[
+        "Uskedal"
+    ],
+    "name:may_x_preferred":[
+        "Uskedal"
+    ],
+    "name:nno_x_preferred":[
+        "Uskedalen"
+    ],
+    "name:nob_x_preferred":[
+        "Uskedal"
+    ],
+    "name:pol_x_preferred":[
+        "Uskedalen"
+    ],
+    "name:rum_x_preferred":[
+        "Uskedal"
+    ],
+    "name:swe_x_preferred":[
+        "Uskedal"
+    ],
+    "name:unk_x_variant":[
+        "Uskedalen"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3133191,
+    "qs_pg:gn_pop":717,
+    "qs_pg:name":"Uskedal",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Hordaland Fylke",
+    "qs_pg:photos":47,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":47,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1350542,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":865372,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Hordaland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296949,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3133191,
+        "gp:id":865372,
+        "qs_pg:id":1350542,
+        "wd:id":"Q2621346"
+    },
+    "wof:country":"NO",
+    "wof:created":1497298941,
+    "wof:geomhash":"723e8996ef7140a0c245c13ea5f2c34c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296949,
+            "locality_id":1125988763,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1125988763,
+    "wof:lastmodified":1529700066,
+    "wof:name":"Uskedal",
+    "wof:parent_id":1159296949,
+    "wof:placetype":"locality",
+    "wof:population":717,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.85944,
+    59.93,
+    5.85944,
+    59.93
+],
+  "geometry": {"coordinates":[5.85944,59.93],"type":"Point"}
+}

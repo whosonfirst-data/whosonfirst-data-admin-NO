@@ -1,0 +1,74 @@
+{
+  "id": 1326606425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.80426,59.2097,10.80426,59.2097",
+    "geom:latitude":59.2097,
+    "geom:longitude":10.80426,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"106.0",
+    "gn:asciiname":"Vikene,ostre",
+    "gn:country_code":"NO",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537669,
+    "gn:latitude":59.2097,
+    "gn:longitude":10.80426,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Vikene,\u00f8stre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Vikene,\u00f8stre"
+    ],
+    "name:nor_x_variant":[
+        "\u00d8stre Vikene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297385,
+        85633341,
+        85687079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537669
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"003f9bc92ccece04acbd82ad2a84a13e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297385,
+            "locality_id":1326606425,
+            "region_id":85687079
+        }
+    ],
+    "wof:id":1326606425,
+    "wof:lastmodified":1537676023,
+    "wof:name":"Vikene,ostre",
+    "wof:parent_id":1159297385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.80426,
+    59.2097,
+    10.80426,
+    59.2097
+],
+  "geometry": {"coordinates":[10.80426,59.2097],"type":"Point"}
+}

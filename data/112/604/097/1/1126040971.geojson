@@ -1,0 +1,120 @@
+{
+  "id": 1126040971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.35193,60.6987,10.35193,60.6987",
+    "geom:latitude":60.6987,
+    "geom:longitude":10.35193,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":2095,
+    "gn:population":2095,
+    "iso:country":"NO",
+    "lbl:latitude":60.6987,
+    "lbl:longitude":10.35193,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Hov"
+    ],
+    "name:eng_x_preferred":[
+        "Hov"
+    ],
+    "name:fre_x_preferred":[
+        "Hov"
+    ],
+    "name:jav_x_preferred":[
+        "Hov"
+    ],
+    "name:may_x_preferred":[
+        "Hov"
+    ],
+    "name:nno_x_preferred":[
+        "Hov i Land"
+    ],
+    "name:nob_x_preferred":[
+        "Hov"
+    ],
+    "name:rum_x_preferred":[
+        "Hov"
+    ],
+    "name:unk_x_variant":[
+        "Hov i Land"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":3151719,
+    "qs_pg:gn_pop":2095,
+    "qs_pg:name":"Hov",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Oppland Fylke",
+    "qs_pg:photos":56,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":56,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":971308,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":860063,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Oppland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297295,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3151719,
+        "gp:id":860063,
+        "qs_pg:id":971308,
+        "wd:id":"Q584923"
+    },
+    "wof:country":"NO",
+    "wof:created":1497302157,
+    "wof:geomhash":"c8515b8612714fcaa275270f0d474822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297295,
+            "locality_id":1126040971,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1126040971,
+    "wof:lastmodified":1529700238,
+    "wof:name":"Hov",
+    "wof:parent_id":1159297295,
+    "wof:placetype":"locality",
+    "wof:population":2095,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.35193,
+    60.6987,
+    10.35193,
+    60.6987
+],
+  "geometry": {"coordinates":[10.35193,60.6987],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310598629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.32781,60.96726,11.32781,60.96726",
+    "geom:latitude":60.96726,
+    "geom:longitude":11.32781,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"415.0",
+    "gn:asciiname":"Oysaetra",
+    "gn:country_code":"NO",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535784,
+    "gn:latitude":60.96726,
+    "gn:longitude":11.32781,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"\u00d8ys\u00e6tra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d8ys\u00e6tra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297095,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535784
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2863fffdb6e824a6b5a066036210f18f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297095,
+            "locality_id":1310598629,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1310598629,
+    "wof:lastmodified":1537675941,
+    "wof:name":"Oysaetra",
+    "wof:parent_id":1159297095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.32781,
+    60.96726,
+    11.32781,
+    60.96726
+],
+  "geometry": {"coordinates":[11.32781,60.96726],"type":"Point"}
+}

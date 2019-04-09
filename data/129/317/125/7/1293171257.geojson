@@ -1,0 +1,73 @@
+{
+  "id": 1293171257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.58333,61.36667,5.58333,61.36667",
+    "geom:latitude":61.36667,
+    "geom:longitude":5.58333,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1430.0",
+    "gn:asciiname":"Bjorvik",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3161165,
+    "gn:latitude":61.36667,
+    "gn:longitude":5.58333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bj\u00f8rvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bj\u00f6rvika",
+        "Bj\u00f8rvik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297441,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3161165
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"96274662d6447514da938c3b960cfe63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297441,
+            "locality_id":1293171257,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1293171257,
+    "wof:lastmodified":1537675874,
+    "wof:name":"Bjorvik",
+    "wof:parent_id":1159297441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.58333,
+    61.36666999999999,
+    5.58333,
+    61.36666999999999
+],
+  "geometry": {"coordinates":[5.58333,61.36666999999999],"type":"Point"}
+}

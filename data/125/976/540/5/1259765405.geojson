@@ -1,0 +1,74 @@
+{
+  "id": 1259765405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.99083,63.34523,9.99083,63.34523",
+    "geom:latitude":63.34523,
+    "geom:longitude":9.99083,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5029.0",
+    "gn:asciiname":"Viggja",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3131837,
+    "gn:latitude":63.34523,
+    "gn:longitude":9.99083,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Viggja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Viggen",
+        "Vigga",
+        "Yiggen",
+        "Viggja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297253,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3131837,
+        "wk:page":"Viggja"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0438ff945c22a628a91f83fd07bffb74",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297253,
+            "locality_id":1259765405,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1259765405,
+    "wof:lastmodified":1537675677,
+    "wof:name":"Viggja",
+    "wof:parent_id":1159297253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.99083,
+    63.34523000000001,
+    9.99083,
+    63.34523000000001
+],
+  "geometry": {"coordinates":[9.99083,63.34523000000001],"type":"Point"}
+}

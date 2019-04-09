@@ -1,0 +1,74 @@
+{
+  "id": 1225827339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.56667,63.66667,8.56667,63.66667",
+    "geom:latitude":63.66667,
+    "geom:longitude":8.56667,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5014.0",
+    "gn:asciiname":"Avloysa",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3162225,
+    "gn:latitude":63.66667,
+    "gn:longitude":8.56667,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Avl\u00f8ysa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Avl\u00f8s",
+        "Afl\u00f6isen",
+        "Avl\u00f8isa",
+        "Afl\u00f6jsen",
+        "Avl\u00f8ysa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297521,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3162225
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"fc6ed033f67dfc4c6669dd68003e64d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297521,
+            "locality_id":1225827339,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1225827339,
+    "wof:lastmodified":1537675881,
+    "wof:name":"Avloysa",
+    "wof:parent_id":1159297521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.56667,
+    63.66667,
+    8.56667,
+    63.66667
+],
+  "geometry": {"coordinates":[8.56667,63.66667],"type":"Point"}
+}

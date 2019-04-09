@@ -1,0 +1,72 @@
+{
+  "id": 1209511111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.78333,65.21667,12.78333,65.21667",
+    "geom:latitude":65.21667,
+    "geom:longitude":12.78333,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1811.0",
+    "gn:asciiname":"Kolsvik",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3149580,
+    "gn:latitude":65.21667,
+    "gn:longitude":12.78333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kolsvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Kollsvika"
+    ],
+    "name:und_x_variant":[
+        "Kolsvikja",
+        "Kollsvikja",
+        "Kolsvika",
+        "Kolsvik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3149580
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"eafb1e5591778645fe0e2f4e109e6570",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209511111
+        }
+    ],
+    "wof:id":1209511111,
+    "wof:lastmodified":1537675792,
+    "wof:name":"Kolsvik",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.78333,
+    65.21667,
+    12.78333,
+    65.21667
+],
+  "geometry": {"coordinates":[12.78333,65.21666999999999],"type":"Point"}
+}

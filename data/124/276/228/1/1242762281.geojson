@@ -1,0 +1,66 @@
+{
+  "id": 1242762281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01545,67.77548,15.01545,67.77548",
+    "geom:latitude":67.77548,
+    "geom:longitude":15.01545,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1848.0",
+    "gn:asciiname":"Leinesfjorden",
+    "gn:country_code":"NO",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":7626398,
+    "gn:latitude":67.77548,
+    "gn:longitude":15.01545,
+    "gn:modification_date":"2010-12-07",
+    "gn:name":"Leinesfjorden",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297343,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626398
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"08540b732027d7fe9c9ee4fc7679ca8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297343,
+            "locality_id":1242762281,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1242762281,
+    "wof:lastmodified":1536797820,
+    "wof:name":"Leinesfjorden",
+    "wof:parent_id":1159297343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01545,
+    67.77548,
+    15.01545,
+    67.77548
+],
+  "geometry": {"coordinates":[15.01545,67.77548],"type":"Point"}
+}

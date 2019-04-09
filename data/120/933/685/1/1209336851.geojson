@@ -1,0 +1,65 @@
+{
+  "id": 1209336851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.92917,62.71566,7.92917,62.71566",
+    "geom:latitude":62.71566,
+    "geom:longitude":7.92917,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1543.0",
+    "gn:asciiname":"Lange",
+    "gn:country_code":"NO",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536826,
+    "gn:latitude":62.71566,
+    "gn:longitude":7.92917,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Lange",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Lange"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536826
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"bc7df568afa7136350553e84f2911c8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209336851
+        }
+    ],
+    "wof:id":1209336851,
+    "wof:lastmodified":1537675985,
+    "wof:name":"Lange",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.92917,
+    62.71566,
+    7.92917,
+    62.71566
+],
+  "geometry": {"coordinates":[7.92917,62.71566],"type":"Point"}
+}

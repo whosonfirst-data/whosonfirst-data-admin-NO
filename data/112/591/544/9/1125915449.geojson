@@ -1,0 +1,116 @@
+{
+  "id": 1125915449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.83333,62.88333,9.83333,62.88333",
+    "geom:latitude":62.88333,
+    "geom:longitude":9.83333,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":62.88333,
+    "lbl:longitude":9.83333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Rennebu"
+    ],
+    "name:eng_x_preferred":[
+        "Rennebu"
+    ],
+    "name:nld_x_preferred":[
+        "Rennebu"
+    ],
+    "name:nno_x_preferred":[
+        "Rennebu"
+    ],
+    "name:nob_x_preferred":[
+        "Rennebu"
+    ],
+    "name:nor_x_preferred":[
+        "Rennebu"
+    ],
+    "name:nor_x_variant":[
+        "Voll"
+    ],
+    "name:pol_x_preferred":[
+        "Rennebu"
+    ],
+    "name:por_x_preferred":[
+        "Rennebu"
+    ],
+    "name:swe_x_preferred":[
+        "Rennebu kommun"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3141968,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Rennebu",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
+    "qs_pg:photos":99,
+    "qs_pg:photos_1k":20,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":99,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":3193,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":862923,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159297637,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141968,
+        "gp:id":862923,
+        "qs_pg:id":3193
+    },
+    "wof:country":"NO",
+    "wof:created":1497296301,
+    "wof:geomhash":"0f92f839919ff67d7e5823c55d39be5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297637,
+            "locality_id":1125915449,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1125915449,
+    "wof:lastmodified":1529700336,
+    "wof:name":"Rennebu",
+    "wof:parent_id":1159297637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.83333,
+    62.88333,
+    9.83333,
+    62.88333
+],
+  "geometry": {"coordinates":[9.83333,62.88333],"type":"Point"}
+}

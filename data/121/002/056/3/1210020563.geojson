@@ -1,0 +1,68 @@
+{
+  "id": 1210020563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.99186,60.24491,10.99186,60.24491",
+    "geom:latitude":60.24491,
+    "geom:longitude":10.99186,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"238.0",
+    "gn:asciiname":"Okri",
+    "gn:country_code":"NO",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3143754,
+    "gn:latitude":60.24491,
+    "gn:longitude":10.99186,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"\u00d8kri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297073,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3143754
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ee76eb0ce432eed40101af0b893b822b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297073,
+            "locality_id":1210020563,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1210020563,
+    "wof:lastmodified":1536393059,
+    "wof:name":"Okri",
+    "wof:parent_id":1159297073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.99186,
+    60.24491,
+    10.99186,
+    60.24491
+],
+  "geometry": {"coordinates":[10.99186,60.24491],"type":"Point"}
+}

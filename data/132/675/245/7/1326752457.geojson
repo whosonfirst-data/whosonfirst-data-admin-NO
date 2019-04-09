@@ -1,0 +1,74 @@
+{
+  "id": 1326752457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.30418,61.23616,11.30418,61.23616",
+    "geom:latitude":61.23616,
+    "geom:longitude":11.30418,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"430.0",
+    "gn:asciiname":"Rogsvea",
+    "gn:country_code":"NO",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535878,
+    "gn:latitude":61.23616,
+    "gn:longitude":11.30418,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Rogsvea",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Rogsvea"
+    ],
+    "name:nor_x_variant":[
+        "Rugsvea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297241,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535878
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2b7be2e832bca20fe163242253d70df7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297241,
+            "locality_id":1326752457,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1326752457,
+    "wof:lastmodified":1537675945,
+    "wof:name":"Rogsvea",
+    "wof:parent_id":1159297241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.30418,
+    61.23616,
+    11.30418,
+    61.23616
+],
+  "geometry": {"coordinates":[11.30418,61.23616],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1193262959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.49333,68.11278,15.49333,68.11278",
+    "geom:latitude":68.11278,
+    "geom:longitude":15.49333,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1849.0",
+    "gn:asciiname":"Egedalen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3158793,
+    "gn:latitude":68.11278,
+    "gn:longitude":15.49333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Egedalen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Egedal",
+        "Egedalen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297087,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3158793
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"87b0712b476112fd37368acb838a3fcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297087,
+            "locality_id":1193262959,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1193262959,
+    "wof:lastmodified":1537675857,
+    "wof:name":"Egedalen",
+    "wof:parent_id":1159297087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.49333,
+    68.11278,
+    15.49333,
+    68.11278
+],
+  "geometry": {"coordinates":[15.49333,68.11278],"type":"Point"}
+}

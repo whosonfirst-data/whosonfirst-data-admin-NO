@@ -1,0 +1,73 @@
+{
+  "id": 1259464097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.24837,61.99661,9.24837,61.99661",
+    "geom:latitude":61.99661,
+    "geom:longitude":9.24837,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"511.0",
+    "gn:asciiname":"Bergsgrende",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3161666,
+    "gn:latitude":61.99661,
+    "gn:longitude":9.24837,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Bergsgrende",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bergsgrendi",
+        "Bergsgrenda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297013,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3161666
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b32b8d0be4bb2bd59909d67115b65971",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297013,
+            "locality_id":1259464097,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1259464097,
+    "wof:lastmodified":1537675877,
+    "wof:name":"Bergsgrende",
+    "wof:parent_id":1159297013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.24837,
+    61.99661,
+    9.24837,
+    61.99661
+],
+  "geometry": {"coordinates":[9.24837,61.99661],"type":"Point"}
+}

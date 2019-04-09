@@ -1,0 +1,71 @@
+{
+  "id": 1310099961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.93333,68.65,14.93333,68.65",
+    "geom:latitude":68.65,
+    "geom:longitude":14.93333,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1866.0",
+    "gn:asciiname":"Moa",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3145706,
+    "gn:latitude":68.65,
+    "gn:longitude":14.93333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Moa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moen",
+        "Moa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296743,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3145706
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2be5183e64152ceb101c1a1bd6aa1fb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296743,
+            "locality_id":1310099961,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1310099961,
+    "wof:lastmodified":1537675765,
+    "wof:name":"Moa",
+    "wof:parent_id":1159296743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.93333,
+    68.65,
+    14.93333,
+    68.65
+],
+  "geometry": {"coordinates":[14.93333,68.65000000000001],"type":"Point"}
+}

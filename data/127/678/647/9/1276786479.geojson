@@ -1,0 +1,73 @@
+{
+  "id": 1276786479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.85,62.45,7.85,62.45",
+    "geom:latitude":62.45,
+    "geom:longitude":7.85,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1539.0",
+    "gn:asciiname":"Marstein",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":1200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3146332,
+    "gn:latitude":62.45,
+    "gn:longitude":7.85,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Marstein",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marsten",
+        "Marstein"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297421,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3146332
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"adef3dace8de29fa9f31b4276f77f02f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297421,
+            "locality_id":1276786479,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1276786479,
+    "wof:lastmodified":1537675770,
+    "wof:name":"Marstein",
+    "wof:parent_id":1159297421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.85,
+    62.45,
+    7.85,
+    62.45
+],
+  "geometry": {"coordinates":[7.85,62.45],"type":"Point"}
+}

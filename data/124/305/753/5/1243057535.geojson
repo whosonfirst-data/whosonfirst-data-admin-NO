@@ -1,0 +1,71 @@
+{
+  "id": 1243057535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.6419,68.47362,17.6419,68.47362",
+    "geom:latitude":68.47362,
+    "geom:longitude":17.6419,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1805.0",
+    "gn:asciiname":"Traeldal",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3134100,
+    "gn:latitude":68.47362,
+    "gn:longitude":17.6419,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Tr\u00e6ldal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tr\u00e6ldal i Ofoten",
+        "Tredal",
+        "Tr\u00e6ldal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297203,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3134100
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"38a357ae1ad8e4fc15b12bb9bf224a93",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297203,
+            "locality_id":1243057535,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1243057535,
+    "wof:lastmodified":1537675691,
+    "wof:name":"Traeldal",
+    "wof:parent_id":1159297203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.6419,
+    68.47362,
+    17.6419,
+    68.47362
+],
+  "geometry": {"coordinates":[17.6419,68.47362],"type":"Point"}
+}

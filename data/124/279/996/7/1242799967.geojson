@@ -1,0 +1,75 @@
+{
+  "id": 1242799967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.54017,60.5158,12.54017,60.5158",
+    "geom:latitude":60.5158,
+    "geom:longitude":12.54017,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"423.0",
+    "gn:asciiname":"Rotberget",
+    "gn:country_code":"NO",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141170,
+    "gn:latitude":60.5158,
+    "gn:longitude":12.54017,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Rotberget",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Rotberget"
+    ],
+    "name:nor_x_variant":[
+        "Raatikkala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297575,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141170,
+        "wk:page":"Rotberget"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7ef8838e79bb009f1f440e840561b6c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297575,
+            "locality_id":1242799967,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1242799967,
+    "wof:lastmodified":1537675735,
+    "wof:name":"Rotberget",
+    "wof:parent_id":1159297575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.54017,
+    60.5158,
+    12.54017,
+    60.5158
+],
+  "geometry": {"coordinates":[12.54017,60.5158],"type":"Point"}
+}

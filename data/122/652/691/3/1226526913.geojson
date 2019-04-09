@@ -1,0 +1,69 @@
+{
+  "id": 1226526913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.48791,67.16701,15.48791,67.16701",
+    "geom:latitude":67.16701,
+    "geom:longitude":15.48791,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1840.0",
+    "gn:asciiname":"Yttersetsa",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537007,
+    "gn:latitude":67.16701,
+    "gn:longitude":15.48791,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Yttersets\u00e5",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Yttersets\u00e5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297115,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537007
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9d147766cc8ba58213bcadb5e075ebc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297115,
+            "locality_id":1226526913,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1226526913,
+    "wof:lastmodified":1537675992,
+    "wof:name":"Yttersetsa",
+    "wof:parent_id":1159297115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.48791,
+    67.16701,
+    15.48791,
+    67.16701
+],
+  "geometry": {"coordinates":[15.48791,67.16701],"type":"Point"}
+}

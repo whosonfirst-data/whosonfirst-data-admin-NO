@@ -1,0 +1,78 @@
+{
+  "id": 1292964011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.95944,69.27072,19.95944,69.27072",
+    "geom:latitude":69.27072,
+    "geom:longitude":19.95944,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1939.0",
+    "gn:asciiname":"Hatteng",
+    "gn:country_code":"NO",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":7626405,
+    "gn:latitude":69.27072,
+    "gn:longitude":19.95944,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Hatteng",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fkv_x_preferred":[
+        "Hattu"
+    ],
+    "name:nor_x_preferred":[
+        "Hatteng"
+    ],
+    "name:sme_x_preferred":[
+        "H\u00e1htta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297099,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626405,
+        "wk:page":"Hatteng"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"28f7038f63df7a15ebbe0a34d9170a2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297099,
+            "locality_id":1292964011,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1292964011,
+    "wof:lastmodified":1537675903,
+    "wof:name":"Hatteng",
+    "wof:parent_id":1159297099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.95944,
+    69.27072,
+    19.95944,
+    69.27072
+],
+  "geometry": {"coordinates":[19.95944,69.27072],"type":"Point"}
+}

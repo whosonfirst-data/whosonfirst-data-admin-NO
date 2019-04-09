@@ -1,0 +1,102 @@
+{
+  "id": 1125985605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.18915,62.43745,6.18915,62.43745",
+    "geom:latitude":62.43745,
+    "geom:longitude":6.18915,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":62.43745,
+    "lbl:longitude":6.18915,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Langev\u00e5g"
+    ],
+    "name:eng_x_preferred":[
+        "Langev\u00e5g"
+    ],
+    "name:ger_x_preferred":[
+        "Langev\u00e5g"
+    ],
+    "name:jav_x_preferred":[
+        "Langev\u00e5g"
+    ],
+    "name:may_x_preferred":[
+        "Langev\u00e5g"
+    ],
+    "name:nno_x_preferred":[
+        "Langev\u00e5g i Sula"
+    ],
+    "name:nob_x_preferred":[
+        "Langev\u00e5g"
+    ],
+    "name:unk_x_variant":[
+        "Langevaag"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0646\u06af\u06cc\u0648\u0627\u06af"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":3148346,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Langev\u00e5g",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":276487,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191581,
+        1159296721,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3148346,
+        "qs_pg:id":276487,
+        "wd:id":"Q1772742"
+    },
+    "wof:country":"NO",
+    "wof:created":1497298789,
+    "wof:geomhash":"51ba6872adcc2c15c5e22ed9f92db9d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296721,
+            "locality_id":1125985605,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1125985605,
+    "wof:lastmodified":1529700098,
+    "wof:name":"Langev\u00e5g",
+    "wof:parent_id":1159296721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.18915,
+    62.43745,
+    6.18915,
+    62.43745
+],
+  "geometry": {"coordinates":[6.18915,62.43745],"type":"Point"}
+}

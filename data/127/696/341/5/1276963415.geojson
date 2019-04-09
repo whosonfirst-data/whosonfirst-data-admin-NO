@@ -1,0 +1,69 @@
+{
+  "id": 1276963415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.93083,66.06216,12.93083,66.06216",
+    "geom:latitude":66.06216,
+    "geom:longitude":12.93083,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1822",
+    "gn:asciiname":"Fagerheim",
+    "gn:country_code":"NO",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404302,
+    "gn:latitude":66.06216,
+    "gn:longitude":12.93083,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Fagerheim",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Fagerheim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297535,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404302
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e2c8292791c17445d39f534dc6392fdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297535,
+            "locality_id":1276963415,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1276963415,
+    "wof:lastmodified":1537675926,
+    "wof:name":"Fagerheim",
+    "wof:parent_id":1159297535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.93083,
+    66.06215999999999,
+    12.93083,
+    66.06215999999999
+],
+  "geometry": {"coordinates":[12.93083,66.06215999999999],"type":"Point"}
+}

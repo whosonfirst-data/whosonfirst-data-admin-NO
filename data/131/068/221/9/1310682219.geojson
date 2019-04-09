@@ -1,0 +1,71 @@
+{
+  "id": 1310682219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.05091,61.33389,10.05091,61.33389",
+    "geom:latitude":61.33389,
+    "geom:longitude":10.05091,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"522.0",
+    "gn:asciiname":"Tresnippsaetra",
+    "gn:country_code":"NO",
+    "gn:dem":760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535923,
+    "gn:latitude":61.33389,
+    "gn:longitude":10.05091,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Tresnipps\u00e6tra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Tresnipps\u00e6tra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297375,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535923
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"70b7f72e7409a6eda921bcfa7a56a5e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297375,
+            "locality_id":1310682219,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1310682219,
+    "wof:lastmodified":1537675947,
+    "wof:name":"Tresnippsaetra",
+    "wof:parent_id":1159297375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.05091,
+    61.33389,
+    10.05091,
+    61.33389
+],
+  "geometry": {"coordinates":[10.05091,61.33389],"type":"Point"}
+}

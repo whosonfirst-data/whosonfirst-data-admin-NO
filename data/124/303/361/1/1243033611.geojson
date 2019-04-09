@@ -1,0 +1,73 @@
+{
+  "id": 1243033611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.5,58.06667,7.5,58.06667",
+    "geom:latitude":58.06667,
+    "geom:longitude":7.5,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1002.0",
+    "gn:asciiname":"Soteland",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3137359,
+    "gn:latitude":58.06667,
+    "gn:longitude":7.5,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Soteland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sodeland",
+        "Soteland"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297379,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3137359
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4b86bd467f1ed477dd68a6dbeaee8bd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297379,
+            "locality_id":1243033611,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1243033611,
+    "wof:lastmodified":1537675709,
+    "wof:name":"Soteland",
+    "wof:parent_id":1159297379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.5,
+    58.06667,
+    7.5,
+    58.06667
+],
+  "geometry": {"coordinates":[7.5,58.06667],"type":"Point"}
+}

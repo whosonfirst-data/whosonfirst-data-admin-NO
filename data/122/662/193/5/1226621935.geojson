@@ -1,0 +1,68 @@
+{
+  "id": 1226621935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.9925,69.26917,17.9925,69.26917",
+    "geom:latitude":69.26917,
+    "geom:longitude":17.9925,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1931.0",
+    "gn:asciiname":"Krokstad",
+    "gn:country_code":"NO",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3222437,
+    "gn:latitude":69.26917,
+    "gn:longitude":17.9925,
+    "gn:modification_date":"2010-10-15",
+    "gn:name":"Krokstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297333,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3222437
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e70bf9090e75ed341f55d3461194d90a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297333,
+            "locality_id":1226621935,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1226621935,
+    "wof:lastmodified":1536893596,
+    "wof:name":"Krokstad",
+    "wof:parent_id":1159297333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.9925,
+    69.26916999999999,
+    17.9925,
+    69.26916999999999
+],
+  "geometry": {"coordinates":[17.9925,69.26916999999999],"type":"Point"}
+}

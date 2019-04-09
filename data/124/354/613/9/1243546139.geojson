@@ -1,0 +1,73 @@
+{
+  "id": 1243546139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.31667,59.5,5.31667,59.5",
+    "geom:latitude":59.5,
+    "geom:longitude":5.31667,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1216.0",
+    "gn:asciiname":"Vage",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3133030,
+    "gn:latitude":59.5,
+    "gn:longitude":5.31667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"V\u00e5ge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vaage",
+        "V\u00e5ge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297363,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3133030
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c47beccf1a2bfbb3554f9d05e2ef5e3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297363,
+            "locality_id":1243546139,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1243546139,
+    "wof:lastmodified":1537675684,
+    "wof:name":"Vage",
+    "wof:parent_id":1159297363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.31667,
+    59.5,
+    5.31667,
+    59.5
+],
+  "geometry": {"coordinates":[5.31667,59.5],"type":"Point"}
+}

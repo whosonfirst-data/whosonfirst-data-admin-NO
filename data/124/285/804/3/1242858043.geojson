@@ -1,0 +1,74 @@
+{
+  "id": 1242858043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.98333,59.38333,5.98333,59.38333",
+    "geom:latitude":59.38333,
+    "geom:longitude":5.98333,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1134.0",
+    "gn:asciiname":"Tveita",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3133641,
+    "gn:latitude":59.38333,
+    "gn:longitude":5.98333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tveita",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tveitavik",
+        "Tveita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297509,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3133641,
+        "wk:page":"Tveita"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"98be6357e4b911f2cd4f1e581808903a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297509,
+            "locality_id":1242858043,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1242858043,
+    "wof:lastmodified":1537675689,
+    "wof:name":"Tveita",
+    "wof:parent_id":1159297509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.98333,
+    59.38333000000001,
+    5.98333,
+    59.38333000000001
+],
+  "geometry": {"coordinates":[5.98333,59.38333000000001],"type":"Point"}
+}

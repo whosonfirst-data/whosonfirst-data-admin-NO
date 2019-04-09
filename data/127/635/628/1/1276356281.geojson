@@ -1,0 +1,74 @@
+{
+  "id": 1276356281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.02812,62.53778,6.02812,62.53778",
+    "geom:latitude":62.53778,
+    "geom:longitude":6.02812,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1532.0",
+    "gn:asciiname":"Synes",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3134955,
+    "gn:latitude":62.53778,
+    "gn:longitude":6.02812,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Synes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Synes"
+    ],
+    "name:nor_x_variant":[
+        "Synnes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297399,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3134955
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b04805e6e292b1b4ff1249bf0d4565ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297399,
+            "locality_id":1276356281,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1276356281,
+    "wof:lastmodified":1537675696,
+    "wof:name":"Synes",
+    "wof:parent_id":1159297399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.02812,
+    62.53778000000001,
+    6.02812,
+    62.53778000000001
+],
+  "geometry": {"coordinates":[6.02812,62.53778000000001],"type":"Point"}
+}

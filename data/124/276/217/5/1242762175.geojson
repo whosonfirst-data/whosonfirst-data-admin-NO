@@ -1,0 +1,72 @@
+{
+  "id": 1242762175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.93333,65.31667,12.93333,65.31667",
+    "geom:latitude":65.31667,
+    "geom:longitude":12.93333,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1813.0",
+    "gn:asciiname":"Borkamoen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3160634,
+    "gn:latitude":65.31667,
+    "gn:longitude":12.93333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Borkamoen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Borkamo",
+        "Borkamoa",
+        "Borkamoen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297445,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160634
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"eddc542e157b3bcd4947443eab3f1cad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297445,
+            "locality_id":1242762175,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1242762175,
+    "wof:lastmodified":1537675871,
+    "wof:name":"Borkamoen",
+    "wof:parent_id":1159297445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.93333,
+    65.31667,
+    12.93333,
+    65.31667
+],
+  "geometry": {"coordinates":[12.93333,65.31667],"type":"Point"}
+}

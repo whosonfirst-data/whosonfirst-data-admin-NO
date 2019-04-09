@@ -1,0 +1,68 @@
+{
+  "id": 1326600317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.05,61.28333,5.05,61.28333",
+    "geom:latitude":61.28333,
+    "geom:longitude":5.05,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1429.0",
+    "gn:asciiname":"Furset",
+    "gn:country_code":"NO",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3156304,
+    "gn:latitude":61.28333,
+    "gn:longitude":5.05,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Furset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297051,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3156304
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"946ba414f10f3d9db5a592907aac748f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297051,
+            "locality_id":1326600317,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1326600317,
+    "wof:lastmodified":1536885476,
+    "wof:name":"Furset",
+    "wof:parent_id":1159297051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.05,
+    61.28333000000001,
+    5.05,
+    61.28333000000001
+],
+  "geometry": {"coordinates":[5.05,61.28333000000001],"type":"Point"}
+}

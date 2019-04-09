@@ -1,0 +1,71 @@
+{
+  "id": 1276425505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.06281,68.29764,15.06281,68.29764",
+    "geom:latitude":68.29764,
+    "geom:longitude":15.06281,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1865.0",
+    "gn:asciiname":"Pundsletta",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3142597,
+    "gn:latitude":68.29764,
+    "gn:longitude":15.06281,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Pundsletta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pundsletten",
+        "Pundsletta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296883,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3142597
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"578a1bd3ed7d6ae16552f71cd2dc5a1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296883,
+            "locality_id":1276425505,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1276425505,
+    "wof:lastmodified":1537675745,
+    "wof:name":"Pundsletta",
+    "wof:parent_id":1159296883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.06281,
+    68.29764,
+    15.06281,
+    68.29764
+],
+  "geometry": {"coordinates":[15.06281,68.29764],"type":"Point"}
+}

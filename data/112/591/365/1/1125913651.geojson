@@ -1,0 +1,127 @@
+{
+  "id": 1125913651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.28333,68.9,15.28333,68.9",
+    "geom:latitude":68.9,
+    "geom:longitude":15.28333,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":347,
+    "gn:population":347,
+    "iso:country":"NO",
+    "lbl:latitude":68.9,
+    "lbl:longitude":15.28333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Alsv\u00e5g"
+    ],
+    "name:eng_x_preferred":[
+        "Alsv\u00e5g"
+    ],
+    "name:fin_x_preferred":[
+        "Alsv\u00e5g"
+    ],
+    "name:fre_x_preferred":[
+        "Alsv\u00e5g"
+    ],
+    "name:jav_x_preferred":[
+        "Alsv\u00e5g"
+    ],
+    "name:may_x_preferred":[
+        "Alsv\u00e5g"
+    ],
+    "name:nno_x_preferred":[
+        "Alsv\u00e5g"
+    ],
+    "name:nob_x_preferred":[
+        "Alsv\u00e5g"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0633\u0648\u0627\u06af"
+    ],
+    "name:rum_x_preferred":[
+        "Alsv\u00e5g"
+    ],
+    "name:swe_x_preferred":[
+        "Alsv\u00e5g"
+    ],
+    "name:unk_x_variant":[
+        "Alsvaag"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3163290,
+    "qs_pg:gn_pop":347,
+    "qs_pg:name":"Alsv\u00e5g",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nordland Fylke",
+    "qs_pg:photos":79,
+    "qs_pg:photos_1k":16,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":79,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":478282,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":856586,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Nordland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159296769,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3163290,
+        "gp:id":856586,
+        "qs_pg:id":478282,
+        "wd:id":"Q2346864"
+    },
+    "wof:country":"NO",
+    "wof:created":1497296244,
+    "wof:geomhash":"91d06283ae65f906bd46b648c11116b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296769,
+            "locality_id":1125913651,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1125913651,
+    "wof:lastmodified":1529700165,
+    "wof:name":"Alsv\u00e5g",
+    "wof:parent_id":1159296769,
+    "wof:placetype":"locality",
+    "wof:population":347,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.28333,
+    68.9,
+    15.28333,
+    68.9
+],
+  "geometry": {"coordinates":[15.28333,68.90000000000001],"type":"Point"}
+}

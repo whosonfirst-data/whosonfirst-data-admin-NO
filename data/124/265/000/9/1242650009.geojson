@@ -1,0 +1,72 @@
+{
+  "id": 1242650009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.86516,62.64838,11.86516,62.64838",
+    "geom:latitude":62.64838,
+    "geom:longitude":11.86516,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5025",
+    "gn:asciiname":"Brekkebygd",
+    "gn:country_code":"NO",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9404009,
+    "gn:latitude":62.64838,
+    "gn:longitude":11.86516,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Brekkebygd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Brekkebygd"
+    ],
+    "name:nor_x_variant":[
+        "Brekken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297133,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404009
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c21d305dc34c088b39860f835d613cc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297133,
+            "locality_id":1242650009,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1242650009,
+    "wof:lastmodified":1537675913,
+    "wof:name":"Brekkebygd",
+    "wof:parent_id":1159297133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.86516,
+    62.64838,
+    11.86516,
+    62.64838
+],
+  "geometry": {"coordinates":[11.86516,62.64838],"type":"Point"}
+}

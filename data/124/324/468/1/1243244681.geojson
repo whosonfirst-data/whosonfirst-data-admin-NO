@@ -1,0 +1,71 @@
+{
+  "id": 1243244681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.8676,61.02652,8.8676,61.02652",
+    "geom:latitude":61.02652,
+    "geom:longitude":8.8676,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"543.0",
+    "gn:asciiname":"Nordre Trollhovd",
+    "gn:country_code":"NO",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535828,
+    "gn:latitude":61.02652,
+    "gn:longitude":8.8676,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"N\u00f8rdre Trollhovd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "N\u00f8rdre Trollhovd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297129,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535828
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"10f5475f7262e153caebe017074a3639",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297129,
+            "locality_id":1243244681,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1243244681,
+    "wof:lastmodified":1537675943,
+    "wof:name":"Nordre Trollhovd",
+    "wof:parent_id":1159297129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.8676,
+    61.02652,
+    8.8676,
+    61.02652
+],
+  "geometry": {"coordinates":[8.8676,61.02652],"type":"Point"}
+}

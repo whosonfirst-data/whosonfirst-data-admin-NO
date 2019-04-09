@@ -1,0 +1,74 @@
+{
+  "id": 1344144985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.2925,61.87356,8.2925,61.87356",
+    "geom:latitude":61.87356,
+    "geom:longitude":8.2925,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"513.0",
+    "gn:asciiname":"Lundagrende",
+    "gn:country_code":"NO",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536000,
+    "gn:latitude":61.87356,
+    "gn:longitude":8.2925,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Lundagrende",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Lundagrende"
+    ],
+    "name:nor_x_variant":[
+        "Lundagrendi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297411,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536000
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"46a4332b3027aa0f6e949c8663d4185d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297411,
+            "locality_id":1344144985,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1344144985,
+    "wof:lastmodified":1537675950,
+    "wof:name":"Lundagrende",
+    "wof:parent_id":1159297411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.2925,
+    61.87356,
+    8.2925,
+    61.87356
+],
+  "geometry": {"coordinates":[8.2925,61.87356],"type":"Point"}
+}

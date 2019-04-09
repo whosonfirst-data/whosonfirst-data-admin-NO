@@ -1,0 +1,72 @@
+{
+  "id": 1243281567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.2579,60.32848,11.2579,60.32848",
+    "geom:latitude":60.32848,
+    "geom:longitude":11.2579,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"237.0",
+    "gn:asciiname":"Sundet",
+    "gn:country_code":"NO",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3135440,
+    "gn:latitude":60.32848,
+    "gn:longitude":11.2579,
+    "gn:modification_date":"2008-06-05",
+    "gn:name":"Sundet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Eidsvoll sentrum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297097,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3135440,
+        "wk:page":"Sundet"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8ad1d21f51f5f81023a174d0e1fcec00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297097,
+            "locality_id":1243281567,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1243281567,
+    "wof:lastmodified":1537675699,
+    "wof:name":"Sundet",
+    "wof:parent_id":1159297097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.2579,
+    60.32848000000001,
+    11.2579,
+    60.32848000000001
+],
+  "geometry": {"coordinates":[11.2579,60.32848000000001],"type":"Point"}
+}

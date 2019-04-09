@@ -1,0 +1,73 @@
+{
+  "id": 1259775941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.35,62.56667,10.35,62.56667",
+    "geom:latitude":62.56667,
+    "geom:longitude":10.35,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"437.0",
+    "gn:asciiname":"Kvikneplassen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3148794,
+    "gn:latitude":62.56667,
+    "gn:longitude":10.35,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kvikneplassen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kviknepladsen",
+        "Kvikneplassen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297041,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3148794
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"79cff872e28ebbdb66b5042c4f483f84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297041,
+            "locality_id":1259775941,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1259775941,
+    "wof:lastmodified":1537675786,
+    "wof:name":"Kvikneplassen",
+    "wof:parent_id":1159297041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.35,
+    62.56667,
+    10.35,
+    62.56667
+],
+  "geometry": {"coordinates":[10.35,62.56667],"type":"Point"}
+}

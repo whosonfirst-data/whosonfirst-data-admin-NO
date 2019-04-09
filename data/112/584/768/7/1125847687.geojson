@@ -1,0 +1,107 @@
+{
+  "id": 1125847687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.16734,65.31254,12.16734,65.31254",
+    "geom:latitude":65.31254,
+    "geom:longitude":12.16734,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":365,
+    "gn:population":365,
+    "iso:country":"NO",
+    "lbl:latitude":65.31254,
+    "lbl:longitude":12.16734,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Vik"
+    ],
+    "name:eng_x_preferred":[
+        "Vik"
+    ],
+    "name:fre_x_preferred":[
+        "Vik"
+    ],
+    "name:jav_x_preferred":[
+        "Vik"
+    ],
+    "name:may_x_preferred":[
+        "Vik"
+    ],
+    "name:nno_x_preferred":[
+        "Vik p\u00e5 Helgeland"
+    ],
+    "name:nob_x_preferred":[
+        "Vik"
+    ],
+    "name:rum_x_preferred":[
+        "Vik"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Vik i Helgeland"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":3131781,
+    "qs_pg:gn_pop":365,
+    "qs_pg:name":"Vik",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":94743,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        1159297181,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3131781,
+        "qs_pg:id":94743,
+        "wd:id":"Q2559281"
+    },
+    "wof:country":"NO",
+    "wof:created":1497293242,
+    "wof:geomhash":"029b95314391848b4637f7f9c7fcc48b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297181,
+            "locality_id":1125847687,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1125847687,
+    "wof:lastmodified":1529700172,
+    "wof:name":"Vik",
+    "wof:parent_id":1159297181,
+    "wof:placetype":"locality",
+    "wof:population":365,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.16734,
+    65.31254,
+    12.16734,
+    65.31254
+],
+  "geometry": {"coordinates":[12.16734,65.31254],"type":"Point"}
+}

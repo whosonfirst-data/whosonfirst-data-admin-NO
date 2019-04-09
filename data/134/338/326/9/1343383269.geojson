@@ -1,0 +1,71 @@
+{
+  "id": 1343383269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.79618,62.47321,10.79618,62.47321",
+    "geom:latitude":62.47321,
+    "geom:longitude":10.79618,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"436.0",
+    "gn:asciiname":"Oyan",
+    "gn:country_code":"NO",
+    "gn:dem":830,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537138,
+    "gn:latitude":62.47321,
+    "gn:longitude":10.79618,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"\u00d8yan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d8yan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297297,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537138
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c3eab6dfeac44abd4ed4b0d1135bfca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297297,
+            "locality_id":1343383269,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1343383269,
+    "wof:lastmodified":1537675998,
+    "wof:name":"Oyan",
+    "wof:parent_id":1159297297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.79618,
+    62.47321,
+    10.79618,
+    62.47321
+],
+  "geometry": {"coordinates":[10.79618,62.47321],"type":"Point"}
+}

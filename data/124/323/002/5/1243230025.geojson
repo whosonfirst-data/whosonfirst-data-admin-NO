@@ -1,0 +1,68 @@
+{
+  "id": 1243230025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.05754,68.73224,16.05754,68.73224",
+    "geom:latitude":68.73224,
+    "geom:longitude":16.05754,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1911.0",
+    "gn:asciiname":"Hemmestad",
+    "gn:country_code":"NO",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3153005,
+    "gn:latitude":68.73224,
+    "gn:longitude":16.05754,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Hemmestad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297213,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3153005
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5a377b48d70b4e2d5ac207e9ad9bc922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297213,
+            "locality_id":1243230025,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1243230025,
+    "wof:lastmodified":1536618479,
+    "wof:name":"Hemmestad",
+    "wof:parent_id":1159297213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.05754,
+    68.73224,
+    16.05754,
+    68.73224
+],
+  "geometry": {"coordinates":[16.05754,68.73224],"type":"Point"}
+}

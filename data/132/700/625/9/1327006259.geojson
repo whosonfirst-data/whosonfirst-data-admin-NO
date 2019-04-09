@@ -1,0 +1,68 @@
+{
+  "id": 1327006259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.6,59.05,9.6,59.05",
+    "geom:latitude":59.05,
+    "geom:longitude":9.6,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"814.0",
+    "gn:asciiname":"Herum",
+    "gn:country_code":"NO",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3152837,
+    "gn:latitude":59.05,
+    "gn:longitude":9.6,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Herum",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296837,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3152837
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"752037638c791a1fa2b46ea6ee8c7b86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296837,
+            "locality_id":1327006259,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1327006259,
+    "wof:lastmodified":1536798371,
+    "wof:name":"Herum",
+    "wof:parent_id":1159296837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.6,
+    59.05,
+    9.6,
+    59.05
+],
+  "geometry": {"coordinates":[9.6,59.05],"type":"Point"}
+}

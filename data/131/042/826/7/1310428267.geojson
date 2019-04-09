@@ -1,0 +1,82 @@
+{
+  "id": 1310428267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.38062,69.66531,30.38062,69.66531",
+    "geom:latitude":69.66531,
+    "geom:longitude":30.38062,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2030.0",
+    "gn:asciiname":"Karpbukt",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":779337,
+    "gn:latitude":69.66531,
+    "gn:longitude":30.38062,
+    "gn:modification_date":"2014-05-29",
+    "gn:name":"Karpbukt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fkv_x_preferred":[
+        "Karpukta"
+    ],
+    "name:nor_x_preferred":[
+        "Karpbukt"
+    ],
+    "name:sme_x_preferred":[
+        "Siideluovta"
+    ],
+    "name:und_x_variant":[
+        "Karpbugten",
+        "Karpbukt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296947,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":779337
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"36ff9ea48fd4f39a62062c65aef8a090",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296947,
+            "locality_id":1310428267,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1310428267,
+    "wof:lastmodified":1537675657,
+    "wof:name":"Karpbukt",
+    "wof:parent_id":1159296947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.38062,
+    69.66530999999999,
+    30.38062,
+    69.66530999999999
+],
+  "geometry": {"coordinates":[30.38062,69.66530999999999],"type":"Point"}
+}

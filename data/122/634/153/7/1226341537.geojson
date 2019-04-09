@@ -1,0 +1,75 @@
+{
+  "id": 1226341537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.98817,69.68753,29.98817,69.68753",
+    "geom:latitude":69.68753,
+    "geom:longitude":29.98817,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"2030",
+    "gn:asciiname":"Hessenki",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404368,
+    "gn:latitude":69.68753,
+    "gn:longitude":29.98817,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Hessenki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fkv_x_preferred":[
+        "Hessenki"
+    ],
+    "name:nor_x_preferred":[
+        "Hesseng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296947,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404368,
+        "wk:page":"Hesseng"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"dc6095cbd8a67cadcf1d7668010b838a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296947,
+            "locality_id":1226341537,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1226341537,
+    "wof:lastmodified":1537675928,
+    "wof:name":"Hessenki",
+    "wof:parent_id":1159296947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.98817,
+    69.68753000000001,
+    29.98817,
+    69.68753000000001
+],
+  "geometry": {"coordinates":[29.98817,69.68753000000001],"type":"Point"}
+}

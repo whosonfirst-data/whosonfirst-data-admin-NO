@@ -1,0 +1,65 @@
+{
+  "id": 1209612801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.32511,60.1037,12.32511,60.1037",
+    "geom:latitude":60.1037,
+    "geom:longitude":12.32511,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"402.0",
+    "gn:asciiname":"Skullerud",
+    "gn:country_code":"NO",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537904,
+    "gn:latitude":60.1037,
+    "gn:longitude":12.32511,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Skullerud",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Skullerud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537904
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"058123febf3b6c5050c570d8fdfd5687",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209612801
+        }
+    ],
+    "wof:id":1209612801,
+    "wof:lastmodified":1537676033,
+    "wof:name":"Skullerud",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.32511,
+    60.1037,
+    12.32511,
+    60.1037
+],
+  "geometry": {"coordinates":[12.32511,60.1037],"type":"Point"}
+}

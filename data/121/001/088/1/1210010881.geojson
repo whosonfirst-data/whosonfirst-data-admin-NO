@@ -1,0 +1,79 @@
+{
+  "id": 1210010881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.65607,68.40637,16.65607,68.40637",
+    "geom:latitude":68.40637,
+    "geom:longitude":16.65607,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1854.0",
+    "gn:asciiname":"Galldo",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3150205,
+    "gn:latitude":68.40637,
+    "gn:longitude":16.65607,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"G\u00e1lldo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Kjeldebotn"
+    ],
+    "name:sme_x_preferred":[
+        "G\u00e1lldo"
+    ],
+    "name:und_x_variant":[
+        "Tjelbotn",
+        "Tjellebotn",
+        "Kjeldebotn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297229,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3150205,
+        "wk:page":"Kjeldebotn"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"aa011d9b564e128bd7edbb6861dc8b77",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297229,
+            "locality_id":1210010881,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1210010881,
+    "wof:lastmodified":1537675798,
+    "wof:name":"Galldo",
+    "wof:parent_id":1159297229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.65607,
+    68.40637,
+    16.65607,
+    68.40637
+],
+  "geometry": {"coordinates":[16.65607,68.40637],"type":"Point"}
+}

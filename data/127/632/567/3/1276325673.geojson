@@ -1,0 +1,74 @@
+{
+  "id": 1276325673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.1775,60.4225,5.1775,60.4225",
+    "geom:latitude":60.4225,
+    "geom:longitude":5.1775,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1247.0",
+    "gn:asciiname":"Krakas",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3149405,
+    "gn:latitude":60.4225,
+    "gn:longitude":5.1775,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kr\u00e5k\u00e5s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Krok\u00e5s",
+        "Krokaas",
+        "Kr\u00e5k\u00e5s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296789,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3149405
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"247ff08f28c81f9749b1d343da525cc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296789,
+            "locality_id":1276325673,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1276325673,
+    "wof:lastmodified":1537675791,
+    "wof:name":"Krakas",
+    "wof:parent_id":1159296789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.1775,
+    60.4225,
+    5.1775,
+    60.4225
+],
+  "geometry": {"coordinates":[5.1775,60.4225],"type":"Point"}
+}

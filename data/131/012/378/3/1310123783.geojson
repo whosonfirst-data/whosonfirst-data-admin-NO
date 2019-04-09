@@ -1,0 +1,71 @@
+{
+  "id": 1310123783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.95557,60.21318,10.95557,60.21318",
+    "geom:latitude":60.21318,
+    "geom:longitude":10.95557,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"238.0",
+    "gn:asciiname":"Melbybyen",
+    "gn:country_code":"NO",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537879,
+    "gn:latitude":60.21318,
+    "gn:longitude":10.95557,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Melbybyen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Melbybyen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297073,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537879
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0d1226a80530a27a31fc0a1281eaec40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297073,
+            "locality_id":1310123783,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1310123783,
+    "wof:lastmodified":1537676031,
+    "wof:name":"Melbybyen",
+    "wof:parent_id":1159297073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.95557,
+    60.21318,
+    10.95557,
+    60.21318
+],
+  "geometry": {"coordinates":[10.95557,60.21318],"type":"Point"}
+}

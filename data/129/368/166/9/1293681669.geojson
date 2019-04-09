@@ -1,0 +1,71 @@
+{
+  "id": 1293681669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.51953,61.95366,11.51953,61.95366",
+    "geom:latitude":61.95366,
+    "geom:longitude":11.51953,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"432.0",
+    "gn:asciiname":"Akeradalen",
+    "gn:country_code":"NO",
+    "gn:dem":750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536018,
+    "gn:latitude":61.95366,
+    "gn:longitude":11.51953,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"\u00c5ker\u00e5dalen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00c5ker\u00e5dalen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297175,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536018
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"00854c9686f380acc0580df530c5ad5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297175,
+            "locality_id":1293681669,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1293681669,
+    "wof:lastmodified":1537675951,
+    "wof:name":"Akeradalen",
+    "wof:parent_id":1159297175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.51953,
+    61.95366,
+    11.51953,
+    61.95366
+],
+  "geometry": {"coordinates":[11.51953,61.95366],"type":"Point"}
+}

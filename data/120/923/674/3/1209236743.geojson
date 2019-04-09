@@ -1,0 +1,67 @@
+{
+  "id": 1209236743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.58333,63.23333,8.58333,63.23333",
+    "geom:latitude":63.23333,
+    "geom:longitude":8.58333,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1576.0",
+    "gn:asciiname":"Bjoringen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3161373,
+    "gn:latitude":63.23333,
+    "gn:longitude":8.58333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bj\u00f8ringen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bj\u00f6ren",
+        "Bj\u00f8ringen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3161373
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e255e3376e7fd0d6d2833203ef37525a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209236743
+        }
+    ],
+    "wof:id":1209236743,
+    "wof:lastmodified":1537675875,
+    "wof:name":"Bjoringen",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.58333,
+    63.23333,
+    8.58333,
+    63.23333
+],
+  "geometry": {"coordinates":[8.58333,63.23333],"type":"Point"}
+}

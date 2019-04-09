@@ -1,0 +1,73 @@
+{
+  "id": 1309981929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.5,69.25,18.5,69.25",
+    "geom:latitude":69.25,
+    "geom:longitude":18.5,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1924.0",
+    "gn:asciiname":"Sumarbakk",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3135492,
+    "gn:latitude":69.25,
+    "gn:longitude":18.5,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sumarbakk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Summarbakk",
+        "Sumarbakk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296775,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3135492
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ac6b9a00ada348cbed68683befc3ed48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296775,
+            "locality_id":1309981929,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1309981929,
+    "wof:lastmodified":1537675699,
+    "wof:name":"Sumarbakk",
+    "wof:parent_id":1159296775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.5,
+    69.25,
+    18.5,
+    69.25
+],
+  "geometry": {"coordinates":[18.5,69.25],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259363981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.23333,61.41667,10.23333,61.41667",
+    "geom:latitude":61.41667,
+    "geom:longitude":10.23333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"520.0",
+    "gn:asciiname":"Smidesang",
+    "gn:country_code":"NO",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3138125,
+    "gn:latitude":61.41667,
+    "gn:longitude":10.23333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Smidesang",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296971,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3138125
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a9c3ad1f09513e30870d12e9da7fdd87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296971,
+            "locality_id":1259363981,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1259363981,
+    "wof:lastmodified":1537029121,
+    "wof:name":"Smidesang",
+    "wof:parent_id":1159296971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.23333,
+    61.41667,
+    10.23333,
+    61.41667
+],
+  "geometry": {"coordinates":[10.23333,61.41667],"type":"Point"}
+}

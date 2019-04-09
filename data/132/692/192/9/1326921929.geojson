@@ -1,0 +1,71 @@
+{
+  "id": 1326921929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.53816,60.06627,6.53816,60.06627",
+    "geom:latitude":60.06627,
+    "geom:longitude":6.53816,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1228",
+    "gn:asciiname":"Hetleflot",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9404026,
+    "gn:latitude":60.06627,
+    "gn:longitude":6.53816,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Hetleflot",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Hetleflot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297489,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404026
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6f92d72ba146043ef52f75db4dc78e9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297489,
+            "locality_id":1326921929,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1326921929,
+    "wof:lastmodified":1537675914,
+    "wof:name":"Hetleflot",
+    "wof:parent_id":1159297489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.53816,
+    60.06627,
+    6.53816,
+    60.06627
+],
+  "geometry": {"coordinates":[6.53816,60.06627],"type":"Point"}
+}

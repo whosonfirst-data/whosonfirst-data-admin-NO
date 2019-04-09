@@ -1,0 +1,71 @@
+{
+  "id": 1276648887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.10078,60.51375,12.10078,60.51375",
+    "geom:latitude":60.51375,
+    "geom:longitude":12.10078,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"423.0",
+    "gn:asciiname":"Smiholen",
+    "gn:country_code":"NO",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537407,
+    "gn:latitude":60.51375,
+    "gn:longitude":12.10078,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Smiholen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Smiholen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297575,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537407
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"09589ca658e3c7c0a14fee6f83532334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297575,
+            "locality_id":1276648887,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1276648887,
+    "wof:lastmodified":1537676010,
+    "wof:name":"Smiholen",
+    "wof:parent_id":1159297575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.10078,
+    60.51375,
+    12.10078,
+    60.51375
+],
+  "geometry": {"coordinates":[12.10078,60.51375],"type":"Point"}
+}

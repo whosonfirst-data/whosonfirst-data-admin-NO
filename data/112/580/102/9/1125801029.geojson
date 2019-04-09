@@ -1,0 +1,110 @@
+{
+  "id": 1125801029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.73444,59.77889,10.73444,59.77889",
+    "geom:latitude":59.77889,
+    "geom:longitude":10.73444,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPLL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":59.77889,
+    "lbl:longitude":10.73444,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Svartskog"
+    ],
+    "name:eng_x_preferred":[
+        "Svartskog"
+    ],
+    "name:fre_x_preferred":[
+        "Svartskog"
+    ],
+    "name:jav_x_preferred":[
+        "Svartskog"
+    ],
+    "name:may_x_preferred":[
+        "Svartskog"
+    ],
+    "name:nob_x_preferred":[
+        "Svartskog"
+    ],
+    "name:swe_x_preferred":[
+        "Svartskog"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPLL",
+    "qs_pg:gn_id":3259347,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Svartskog",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Akershus Fylke",
+    "qs_pg:photos":648,
+    "qs_pg:photos_1k":131,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":648,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":185123,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":864789,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Akershus Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296943,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3259347,
+        "gp:id":864789,
+        "qs_pg:id":185123,
+        "wd:id":"Q3436940"
+    },
+    "wof:country":"NO",
+    "wof:created":1497291261,
+    "wof:geomhash":"7fca23fb93879280ba7db13fec388dd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296943,
+            "locality_id":1125801029,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1125801029,
+    "wof:lastmodified":1529699770,
+    "wof:name":"Svartskog",
+    "wof:parent_id":1159296943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.73444,
+    59.77889,
+    10.73444,
+    59.77889
+],
+  "geometry": {"coordinates":[10.73444,59.77889],"type":"Point"}
+}

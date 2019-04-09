@@ -1,0 +1,111 @@
+{
+  "id": 1125780691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.2,67.76667,15.2,67.76667",
+    "geom:latitude":67.76667,
+    "geom:longitude":15.2,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":67.76667,
+    "lbl:longitude":15.2,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Nordfold"
+    ],
+    "name:eng_x_preferred":[
+        "Nordfold"
+    ],
+    "name:fre_x_preferred":[
+        "Nordfold"
+    ],
+    "name:may_x_preferred":[
+        "Nordfold"
+    ],
+    "name:nno_x_preferred":[
+        "Nordfold"
+    ],
+    "name:nob_x_preferred":[
+        "Nordfold"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0443\u0440\u0444\u043e\u043b\u043b"
+    ],
+    "name:unk_x_variant":[
+        "Nordfolden"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3144354,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Nordfold",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nordland Fylke",
+    "qs_pg:photos":27,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":27,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1325052,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":862268,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Nordland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159297343,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3144354,
+        "gp:id":862268,
+        "qs_pg:id":1325052,
+        "wd:id":"Q2559221"
+    },
+    "wof:country":"NO",
+    "wof:created":1497290457,
+    "wof:geomhash":"837d2fe03dd98a9bb68c2d859f63862c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297343,
+            "locality_id":1125780691,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1125780691,
+    "wof:lastmodified":1529700160,
+    "wof:name":"Nordfold",
+    "wof:parent_id":1159297343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.2,
+    67.76667,
+    15.2,
+    67.76667
+],
+  "geometry": {"coordinates":[15.2,67.76667],"type":"Point"}
+}

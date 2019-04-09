@@ -1,0 +1,72 @@
+{
+  "id": 1309769349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.14852,68.75992,17.14852,68.75992",
+    "geom:latitude":68.75992,
+    "geom:longitude":17.14852,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1917.0",
+    "gn:asciiname":"Breivoll",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3160158,
+    "gn:latitude":68.75992,
+    "gn:longitude":17.14852,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Breivoll",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Breidvoll"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296917,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160158
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"88997044b3ed4b8b6c7cc34f58a95142",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296917,
+            "locality_id":1309769349,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1309769349,
+    "wof:lastmodified":1537675866,
+    "wof:name":"Breivoll",
+    "wof:parent_id":1159296917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.14852,
+    68.75992,
+    17.14852,
+    68.75992
+],
+  "geometry": {"coordinates":[17.14852,68.75991999999999],"type":"Point"}
+}

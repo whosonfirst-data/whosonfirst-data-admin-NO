@@ -1,0 +1,71 @@
+{
+  "id": 1293677277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.3599,61.20564,8.3599,61.20564",
+    "geom:latitude":61.20564,
+    "geom:longitude":8.3599,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"545.0",
+    "gn:asciiname":"Ovre Dalen",
+    "gn:country_code":"NO",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535812,
+    "gn:latitude":61.20564,
+    "gn:longitude":8.3599,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"\u00d8vre Dalen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d8vre Dalen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297415,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535812
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c7989efadd5ef3c4e9c19cd9d4ca9ffd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297415,
+            "locality_id":1293677277,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1293677277,
+    "wof:lastmodified":1537675942,
+    "wof:name":"Ovre Dalen",
+    "wof:parent_id":1159297415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.3599,
+    61.20564,
+    8.3599,
+    61.20564
+],
+  "geometry": {"coordinates":[8.3599,61.20564],"type":"Point"}
+}

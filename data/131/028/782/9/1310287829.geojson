@@ -1,0 +1,70 @@
+{
+  "id": 1310287829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.80655,61.83655,6.80655,61.83655",
+    "geom:latitude":61.83655,
+    "geom:longitude":6.80655,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1449.0",
+    "gn:asciiname":"Olden",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6696895,
+    "gn:latitude":61.83655,
+    "gn:longitude":6.80655,
+    "gn:modification_date":"2008-09-23",
+    "gn:name":"Olden",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296967,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6696895,
+        "wk:page":"Olden%2C_Norway"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"67cf04af2848b4acfb3c26f8ab2d6145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296967,
+            "locality_id":1310287829,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1310287829,
+    "wof:lastmodified":1537570112,
+    "wof:name":"Olden",
+    "wof:parent_id":1159296967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.80655,
+    61.83655,
+    6.80655,
+    61.83655
+],
+  "geometry": {"coordinates":[6.80655,61.83655],"type":"Point"}
+}

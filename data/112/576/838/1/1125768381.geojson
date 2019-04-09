@@ -1,0 +1,104 @@
+{
+  "id": 1125768381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.35,69.96667,23.35,69.96667",
+    "geom:latitude":69.96667,
+    "geom:longitude":23.35,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":69.96667,
+    "lbl:longitude":23.35,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Elvebakken"
+    ],
+    "name:eng_x_preferred":[
+        "Elvebakken"
+    ],
+    "name:fre_x_preferred":[
+        "Elvebakken"
+    ],
+    "name:nob_x_preferred":[
+        "Elvebakken"
+    ],
+    "name:swe_x_preferred":[
+        "Elvebakken"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":780238,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Elvebakken",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Finnmark Fylke",
+    "qs_pg:photos":30,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":30,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":979331,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":858121,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Finnmark Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296893,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":780238,
+        "gp:id":858121,
+        "qs_pg:id":979331,
+        "wd:id":"Q406515"
+    },
+    "wof:country":"NO",
+    "wof:created":1497289976,
+    "wof:geomhash":"8ce256f3a9efb5475291cb85cb2e8ece",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296893,
+            "locality_id":1125768381,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1125768381,
+    "wof:lastmodified":1529699910,
+    "wof:name":"Elvebakken",
+    "wof:parent_id":1159296893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.35,
+    69.96667,
+    23.35,
+    69.96667
+],
+  "geometry": {"coordinates":[23.35,69.96666999999999],"type":"Point"}
+}

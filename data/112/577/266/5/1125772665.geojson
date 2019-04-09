@@ -1,0 +1,108 @@
+{
+  "id": 1125772665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.33333,64.25,10.33333,64.25",
+    "geom:latitude":64.25,
+    "geom:longitude":10.33333,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":64.25,
+    "lbl:longitude":10.33333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Bessaker"
+    ],
+    "name:eng_x_preferred":[
+        "Bessaker"
+    ],
+    "name:fre_x_preferred":[
+        "Bessaker"
+    ],
+    "name:ger_x_preferred":[
+        "Bessaker"
+    ],
+    "name:may_x_preferred":[
+        "Bessaker"
+    ],
+    "name:nno_x_preferred":[
+        "Bessaker"
+    ],
+    "name:nob_x_preferred":[
+        "Bessaker"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3161587,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Bessaker",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
+    "qs_pg:photos":49,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":49,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1159107,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":857144,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159297423,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3161587,
+        "gp:id":857144,
+        "qs_pg:id":1159107,
+        "wd:id":"Q4896384"
+    },
+    "wof:country":"NO",
+    "wof:created":1497290124,
+    "wof:geomhash":"51b2f226d0de952b85391d1a1b86b602",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297423,
+            "locality_id":1125772665,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1125772665,
+    "wof:lastmodified":1529700333,
+    "wof:name":"Bessaker",
+    "wof:parent_id":1159297423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.33333,
+    64.25,
+    10.33333,
+    64.25
+],
+  "geometry": {"coordinates":[10.33333,64.25],"type":"Point"}
+}

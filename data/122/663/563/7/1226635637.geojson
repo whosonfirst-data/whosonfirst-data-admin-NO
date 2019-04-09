@@ -1,0 +1,72 @@
+{
+  "id": 1226635637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.1,66.28333,14.1,66.28333",
+    "geom:latitude":66.28333,
+    "geom:longitude":14.1,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1833.0",
+    "gn:asciiname":"Andfiskaa",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3163127,
+    "gn:latitude":66.28333,
+    "gn:longitude":14.1,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Andfisk\u00e5a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Andfiskaaen",
+        "Andfisk\u00e5",
+        "Andfisk\u00e5a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296963,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3163127
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c5370b34088ff18a2f199cf4dd7b77a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296963,
+            "locality_id":1226635637,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1226635637,
+    "wof:lastmodified":1537675891,
+    "wof:name":"Andfiskaa",
+    "wof:parent_id":1159296963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.1,
+    66.28333,
+    14.1,
+    66.28333
+],
+  "geometry": {"coordinates":[14.1,66.28333000000001],"type":"Point"}
+}

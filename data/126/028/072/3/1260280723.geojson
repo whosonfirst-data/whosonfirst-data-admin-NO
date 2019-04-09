@@ -1,0 +1,68 @@
+{
+  "id": 1260280723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.76667,60.13333,5.76667,60.13333",
+    "geom:latitude":60.13333,
+    "geom:longitude":5.76667,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1241.0",
+    "gn:asciiname":"Tveit",
+    "gn:country_code":"NO",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3133650,
+    "gn:latitude":60.13333,
+    "gn:longitude":5.76667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Tveit",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297025,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3133650
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1526d73d22720b4a952d016778598688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297025,
+            "locality_id":1260280723,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1260280723,
+    "wof:lastmodified":1536715997,
+    "wof:name":"Tveit",
+    "wof:parent_id":1159297025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.76667,
+    60.13333000000001,
+    5.76667,
+    60.13333000000001
+],
+  "geometry": {"coordinates":[5.76667,60.13333000000001],"type":"Point"}
+}

@@ -1,0 +1,110 @@
+{
+  "id": 1125827791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.64783,59.96893,10.64783,59.96893",
+    "geom:latitude":59.96893,
+    "geom:longitude":10.64783,
+    "gn:gn_country":null,
+    "iso:country":"NO",
+    "lbl:latitude":59.96893,
+    "lbl:longitude":10.64783,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Eiksmarka"
+    ],
+    "name:eng_x_preferred":[
+        "Eiksmarka"
+    ],
+    "name:fre_x_preferred":[
+        "Eiksmarka"
+    ],
+    "name:ger_x_preferred":[
+        "Eiksmarka"
+    ],
+    "name:jav_x_preferred":[
+        "Eiksmarka"
+    ],
+    "name:may_x_preferred":[
+        "Eiksmarka"
+    ],
+    "name:nob_x_preferred":[
+        "Eiksmarka"
+    ],
+    "name:swe_x_preferred":[
+        "Eiksmarka"
+    ],
+    "name:vie_x_preferred":[
+        "Eiksmarka"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Eiksmarka",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Akershus Fylke",
+    "qs_pg:photos":302,
+    "qs_pg:photos_1k":61,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":302,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1089428,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":858064,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Akershus Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297167,
+        85633341,
+        85687089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":858064,
+        "qs_pg:id":1089428,
+        "wd:id":"Q4587624"
+    },
+    "wof:country":"NO",
+    "wof:created":1497292357,
+    "wof:geomhash":"46bccbaad2e1bbea564d94757929c91b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297167,
+            "locality_id":1125827791,
+            "region_id":85687089
+        }
+    ],
+    "wof:id":1125827791,
+    "wof:lastmodified":1529700262,
+    "wof:name":"Eiksmarka",
+    "wof:parent_id":1159297167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.64783,
+    59.96893,
+    10.64783,
+    59.96893
+],
+  "geometry": {"coordinates":[10.64783,59.96893],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226238473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.85,66.55,12.85,66.55",
+    "geom:latitude":66.55,
+    "geom:longitude":12.85,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1836.0",
+    "gn:asciiname":"Storseloya",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3136051,
+    "gn:latitude":66.55,
+    "gn:longitude":12.85,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Storsel\u00f8ya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sels\u00f6en",
+        "Storsel\u00f8ya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296809,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3136051
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5bfe70ba90419a4cde8f4f112510d2ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296809,
+            "locality_id":1226238473,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1226238473,
+    "wof:lastmodified":1537675703,
+    "wof:name":"Storseloya",
+    "wof:parent_id":1159296809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.85,
+    66.55,
+    12.85,
+    66.55
+],
+  "geometry": {"coordinates":[12.85,66.55],"type":"Point"}
+}

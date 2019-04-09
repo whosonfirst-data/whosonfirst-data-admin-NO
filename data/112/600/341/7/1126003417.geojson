@@ -1,0 +1,114 @@
+{
+  "id": 1126003417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.8,59.35,5.8,59.35",
+    "geom:latitude":59.35,
+    "geom:longitude":5.8,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":240,
+    "iso:country":"NO",
+    "lbl:latitude":59.35,
+    "lbl:longitude":5.8,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Nedstrand"
+    ],
+    "name:eng_x_preferred":[
+        "Nedstrand"
+    ],
+    "name:fre_x_preferred":[
+        "Nedstrand"
+    ],
+    "name:may_x_preferred":[
+        "Nedstrand"
+    ],
+    "name:nno_x_preferred":[
+        "Nedstrand"
+    ],
+    "name:nob_x_preferred":[
+        "Nedstrand"
+    ],
+    "name:por_x_preferred":[
+        "Nedstrand"
+    ],
+    "name:rum_x_preferred":[
+        "Nedstrand"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3144837,
+    "qs_pg:gn_pop":240,
+    "qs_pg:name":"Nedstrand",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Rogaland Fylke",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":16,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1005212,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":862114,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"quattroshapes_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Rogaland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297113,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3144837,
+        "gp:id":862114,
+        "qs_pg:id":1005212,
+        "wd:id":"Q1980211"
+    },
+    "wof:country":"NO",
+    "wof:created":1497299788,
+    "wof:geomhash":"489e9928c5f2d50d98639b78e623136d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297113,
+            "locality_id":1126003417,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1126003417,
+    "wof:lastmodified":1529700287,
+    "wof:name":"Nedstrand",
+    "wof:parent_id":1159297113,
+    "wof:placetype":"locality",
+    "wof:population":240,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.8,
+    59.35,
+    5.8,
+    59.35
+],
+  "geometry": {"coordinates":[5.8,59.35],"type":"Point"}
+}

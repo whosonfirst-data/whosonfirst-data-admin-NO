@@ -1,0 +1,68 @@
+{
+  "id": 1209409369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.75056,59.75806,5.75056,59.75806",
+    "geom:latitude":59.75806,
+    "geom:longitude":5.75056,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1224.0",
+    "gn:asciiname":"Adnavik",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3162897,
+    "gn:latitude":59.75806,
+    "gn:longitude":5.75056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u00c5dnavik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arnavik",
+        "Arneviki",
+        "\u00c5dnavik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3162897
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5ce876029807644952d418cd70d55470",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209409369
+        }
+    ],
+    "wof:id":1209409369,
+    "wof:lastmodified":1537675888,
+    "wof:name":"Adnavik",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.75056,
+    59.75806,
+    5.75056,
+    59.75806
+],
+  "geometry": {"coordinates":[5.75056,59.75806],"type":"Point"}
+}

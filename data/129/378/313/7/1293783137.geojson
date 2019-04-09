@@ -1,0 +1,77 @@
+{
+  "id": 1293783137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.17969,70.37889,28.17969,70.37889",
+    "geom:latitude":70.37889,
+    "geom:longitude":28.17969,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2025.0",
+    "gn:asciiname":"Bakca",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537619,
+    "gn:latitude":70.37889,
+    "gn:longitude":28.17969,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"B\u00e5kca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Boftsa"
+    ],
+    "name:sme_x_preferred":[
+        "B\u00e5kca"
+    ],
+    "name:sme_x_variant":[
+        "Bokc\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296751,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537619
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"479f73c20451014d5c427f05cfb11e8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296751,
+            "locality_id":1293783137,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1293783137,
+    "wof:lastmodified":1537676021,
+    "wof:name":"Bakca",
+    "wof:parent_id":1159296751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.17969,
+    70.37889,
+    28.17969,
+    70.37889
+],
+  "geometry": {"coordinates":[28.17969,70.37889],"type":"Point"}
+}

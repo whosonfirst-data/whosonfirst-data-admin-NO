@@ -1,0 +1,71 @@
+{
+  "id": 1259661929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.61169,61.63279,9.61169,61.63279",
+    "geom:latitude":61.63279,
+    "geom:longitude":9.61169,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"516.0",
+    "gn:asciiname":"Oldalen,nordre",
+    "gn:country_code":"NO",
+    "gn:dem":793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535974,
+    "gn:latitude":61.63279,
+    "gn:longitude":9.61169,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"\u00d8ldalen,nordre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d8ldalen,nordre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297033,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535974
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"78a8a320a197dfebe08f686d29b75b8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297033,
+            "locality_id":1259661929,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1259661929,
+    "wof:lastmodified":1537675949,
+    "wof:name":"Oldalen,nordre",
+    "wof:parent_id":1159297033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.61169,
+    61.63279,
+    9.61169,
+    61.63279
+],
+  "geometry": {"coordinates":[9.61169,61.63279],"type":"Point"}
+}

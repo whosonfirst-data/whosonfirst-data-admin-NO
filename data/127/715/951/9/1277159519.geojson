@@ -1,0 +1,69 @@
+{
+  "id": 1277159519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.63333,63.75,8.63333,63.75",
+    "geom:latitude":63.75,
+    "geom:longitude":8.63333,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5014.0",
+    "gn:asciiname":"Oksevik",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3143724,
+    "gn:latitude":63.75,
+    "gn:longitude":8.63333,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Oksevik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Oksevik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297521,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3143724
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9ae4f4301c45923fffd3d9f58fa3cb01",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297521,
+            "locality_id":1277159519,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1277159519,
+    "wof:lastmodified":1537675753,
+    "wof:name":"Oksevik",
+    "wof:parent_id":1159297521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.63333,
+    63.75,
+    8.63333,
+    63.75
+],
+  "geometry": {"coordinates":[8.63333,63.75],"type":"Point"}
+}

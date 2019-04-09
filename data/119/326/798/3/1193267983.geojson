@@ -1,0 +1,66 @@
+{
+  "id": 1193267983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.70139,68.70306,15.70139,68.70306",
+    "geom:latitude":68.70306,
+    "geom:longitude":15.70139,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1870.0",
+    "gn:asciiname":"Sorfjorden",
+    "gn:country_code":"NO",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3137530,
+    "gn:latitude":68.70306,
+    "gn:longitude":15.70139,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"S\u00f8rfjorden",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297273,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3137530
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"25b1c96ae24a99c85eb85d4c6407ac1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297273,
+            "locality_id":1193267983,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1193267983,
+    "wof:lastmodified":1536373783,
+    "wof:name":"Sorfjorden",
+    "wof:parent_id":1159297273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.70139,
+    68.70306,
+    15.70139,
+    68.70306
+],
+  "geometry": {"coordinates":[15.70139,68.70305999999999],"type":"Point"}
+}

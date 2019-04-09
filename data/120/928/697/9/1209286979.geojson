@@ -1,0 +1,65 @@
+{
+  "id": 1209286979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.23333,63.13333,10.23333,63.13333",
+    "geom:latitude":63.13333,
+    "geom:longitude":10.23333,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5028.0",
+    "gn:asciiname":"Nordtomme",
+    "gn:country_code":"NO",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3144149,
+    "gn:latitude":63.13333,
+    "gn:longitude":10.23333,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Nordt\u00f8mme",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Nordt\u00f8mme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3144149
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d4091e734e7790af0346c3d5962c0566",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209286979
+        }
+    ],
+    "wof:id":1209286979,
+    "wof:lastmodified":1537675755,
+    "wof:name":"Nordtomme",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.23333,
+    63.13333000000001,
+    10.23333,
+    63.13333000000001
+],
+  "geometry": {"coordinates":[10.23333,63.13333000000001],"type":"Point"}
+}

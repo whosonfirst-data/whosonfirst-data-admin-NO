@@ -1,0 +1,82 @@
+{
+  "id": 1125959919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.412246,60.4057575,5.412246,60.4057575",
+    "geom:latitude":60.405757,
+    "geom:longitude":5.412246,
+    "gn:gn_country":null,
+    "iso:country":"NO",
+    "lbl:latitude":60.405757,
+    "lbl:longitude":5.412246,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Vikinghytten",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Hordaland Fylke",
+    "qs_pg:photos":8,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":8,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":989916,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":20100611,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Hordaland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297617,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20100611,
+        "qs_pg:id":989916
+    },
+    "wof:country":"NO",
+    "wof:created":1497297758,
+    "wof:geomhash":"bc09656c191f3e17210465d5ce178f42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":1125959919,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1125959919,
+    "wof:lastmodified":1529700068,
+    "wof:name":"Vikinghytten",
+    "wof:parent_id":1159297617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.412246,
+    60.4057575,
+    5.412246,
+    60.4057575
+],
+  "geometry": {"coordinates":[5.412246,60.4057575],"type":"Point"}
+}

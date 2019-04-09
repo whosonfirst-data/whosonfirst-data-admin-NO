@@ -1,0 +1,74 @@
+{
+  "id": 1259789603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.87845,60.53944,8.87845,60.53944",
+    "geom:latitude":60.53944,
+    "geom:longitude":8.87845,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"616.0",
+    "gn:asciiname":"Volelii",
+    "gn:country_code":"NO",
+    "gn:dem":857,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535689,
+    "gn:latitude":60.53944,
+    "gn:longitude":8.87845,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Volelii",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Volelii"
+    ],
+    "name:nor_x_variant":[
+        "Volelie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296697,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535689
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7d3ab1a3466b775ba24f281ec529fba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296697,
+            "locality_id":1259789603,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1259789603,
+    "wof:lastmodified":1537675937,
+    "wof:name":"Volelii",
+    "wof:parent_id":1159296697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.87845,
+    60.53944,
+    8.87845,
+    60.53944
+],
+  "geometry": {"coordinates":[8.87845,60.53944],"type":"Point"}
+}

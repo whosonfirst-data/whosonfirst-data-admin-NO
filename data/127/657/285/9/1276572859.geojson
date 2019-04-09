@@ -1,0 +1,73 @@
+{
+  "id": 1276572859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.31583,60.26222,5.31583,60.26222",
+    "geom:latitude":60.26222,
+    "geom:longitude":5.31583,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1201.0",
+    "gn:asciiname":"Hordnes",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3151822,
+    "gn:latitude":60.26222,
+    "gn:longitude":5.31583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hordnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hornes",
+        "Hordnes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297617,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3151822
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ab70be6fc5a169a95009a793c4bd7b35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":1276572859,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1276572859,
+    "wof:lastmodified":1537675809,
+    "wof:name":"Hordnes",
+    "wof:parent_id":1159297617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.31583,
+    60.26221999999999,
+    5.31583,
+    60.26221999999999
+],
+  "geometry": {"coordinates":[5.31583,60.26221999999999],"type":"Point"}
+}

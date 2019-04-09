@@ -1,0 +1,68 @@
+{
+  "id": 1293472823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.6,61.06667,6.6,61.06667",
+    "geom:latitude":61.06667,
+    "geom:longitude":6.6,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1417.0",
+    "gn:asciiname":"Stadheim",
+    "gn:country_code":"NO",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3137228,
+    "gn:latitude":61.06667,
+    "gn:longitude":6.6,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Stadheim",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297277,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3137228
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f73f58490248f7c712ff4c8737d89708",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297277,
+            "locality_id":1293472823,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1293472823,
+    "wof:lastmodified":1536807965,
+    "wof:name":"Stadheim",
+    "wof:parent_id":1159297277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.6,
+    61.06667,
+    6.6,
+    61.06667
+],
+  "geometry": {"coordinates":[6.6,61.06667],"type":"Point"}
+}

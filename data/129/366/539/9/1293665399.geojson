@@ -1,0 +1,68 @@
+{
+  "id": 1293665399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.21667,59.06667,9.21667,59.06667",
+    "geom:latitude":59.06667,
+    "geom:longitude":9.21667,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"817.0",
+    "gn:asciiname":"Hennseid",
+    "gn:country_code":"NO",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3152956,
+    "gn:latitude":59.06667,
+    "gn:longitude":9.21667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Hennseid",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296991,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3152956
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"37b8e8b294711a95c3d98219ad66ac6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296991,
+            "locality_id":1293665399,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1293665399,
+    "wof:lastmodified":1537026677,
+    "wof:name":"Hennseid",
+    "wof:parent_id":1159296991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.21667,
+    59.06667,
+    9.21667,
+    59.06667
+],
+  "geometry": {"coordinates":[9.21667,59.06667],"type":"Point"}
+}

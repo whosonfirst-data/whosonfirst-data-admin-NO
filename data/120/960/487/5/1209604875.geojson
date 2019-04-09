@@ -1,0 +1,71 @@
+{
+  "id": 1209604875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.41201,68.20643,16.41201,68.20643",
+    "geom:latitude":68.20643,
+    "geom:longitude":16.41201,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1850.0",
+    "gn:asciiname":"Avki",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536195,
+    "gn:latitude":68.20643,
+    "gn:longitude":16.41201,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Avki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Hauk\u00f8ya"
+    ],
+    "name:smj_x_preferred":[
+        "Avki"
+    ],
+    "name:smj_x_variant":[
+        "\u00c1vkke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536195
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1310fd13a52e881a51ea2ee071cc33f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209604875
+        }
+    ],
+    "wof:id":1209604875,
+    "wof:lastmodified":1537675959,
+    "wof:name":"Avki",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.41201,
+    68.20643000000001,
+    16.41201,
+    68.20643000000001
+],
+  "geometry": {"coordinates":[16.41201,68.20643000000001],"type":"Point"}
+}

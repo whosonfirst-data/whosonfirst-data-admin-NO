@@ -1,0 +1,71 @@
+{
+  "id": 1276738719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.06495,69.40981,19.06495,69.40981",
+    "geom:latitude":69.40981,
+    "geom:longitude":19.06495,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1933.0",
+    "gn:asciiname":"Tommernes",
+    "gn:country_code":"NO",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537525,
+    "gn:latitude":69.40981,
+    "gn:longitude":19.06495,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"T\u00f8mmernes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "T\u00f8mmernes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296799,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537525
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c346c82e6451fbe2b1f0b85d3efa32c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296799,
+            "locality_id":1276738719,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1276738719,
+    "wof:lastmodified":1537676016,
+    "wof:name":"Tommernes",
+    "wof:parent_id":1159296799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.06495,
+    69.40981,
+    19.06495,
+    69.40981
+],
+  "geometry": {"coordinates":[19.06495,69.40980999999999],"type":"Point"}
+}

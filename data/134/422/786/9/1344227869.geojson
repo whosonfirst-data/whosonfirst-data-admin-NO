@@ -1,0 +1,68 @@
+{
+  "id": 1344227869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.27352,59.39148,5.27352,59.39148",
+    "geom:latitude":59.39148,
+    "geom:longitude":5.27352,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1149.0",
+    "gn:asciiname":"Storesundet",
+    "gn:country_code":"NO",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3136598,
+    "gn:latitude":59.39148,
+    "gn:longitude":5.27352,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Storesundet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297005,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3136598
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5b2217754b7c6301f73cf4dee5a215ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297005,
+            "locality_id":1344227869,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1344227869,
+    "wof:lastmodified":1536632698,
+    "wof:name":"Storesundet",
+    "wof:parent_id":1159297005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.27352,
+    59.39148,
+    5.27352,
+    59.39148
+],
+  "geometry": {"coordinates":[5.27352,59.39148],"type":"Point"}
+}

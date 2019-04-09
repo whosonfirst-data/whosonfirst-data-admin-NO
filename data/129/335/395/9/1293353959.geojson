@@ -1,0 +1,68 @@
+{
+  "id": 1293353959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.7,59.6,8.7,59.6",
+    "geom:latitude":59.6,
+    "geom:longitude":8.7,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"827.0",
+    "gn:asciiname":"Fune",
+    "gn:country_code":"NO",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3156338,
+    "gn:latitude":59.6,
+    "gn:longitude":8.7,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Fune",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297529,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3156338
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"98055a9d48312ecb9e65bb54a949ed3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297529,
+            "locality_id":1293353959,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1293353959,
+    "wof:lastmodified":1536979067,
+    "wof:name":"Fune",
+    "wof:parent_id":1159297529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.7,
+    59.6,
+    8.7,
+    59.6
+],
+  "geometry": {"coordinates":[8.7,59.6],"type":"Point"}
+}

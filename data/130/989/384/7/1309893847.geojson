@@ -1,0 +1,71 @@
+{
+  "id": 1309893847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.15199,62.01472,9.15199,62.01472",
+    "geom:latitude":62.01472,
+    "geom:longitude":9.15199,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"511.0",
+    "gn:asciiname":"Maningsaetrin",
+    "gn:country_code":"NO",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536035,
+    "gn:latitude":62.01472,
+    "gn:longitude":9.15199,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Manings\u00e6trin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Manings\u00e6trin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297013,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536035
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"60027ef38639ee8e819a911e52a67002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297013,
+            "locality_id":1309893847,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1309893847,
+    "wof:lastmodified":1537675952,
+    "wof:name":"Maningsaetrin",
+    "wof:parent_id":1159297013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.15199,
+    62.01472,
+    9.15199,
+    62.01472
+],
+  "geometry": {"coordinates":[9.15199,62.01472],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1292994641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.86175,63.50563,10.86175,63.50563",
+    "geom:latitude":63.50563,
+    "geom:longitude":10.86175,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5035.0",
+    "gn:asciiname":"Voll",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536558,
+    "gn:latitude":63.50563,
+    "gn:longitude":10.86175,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Voll",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Voll"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296711,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536558
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e661c0d17efde648eeae49436d233107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296711,
+            "locality_id":1292994641,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1292994641,
+    "wof:lastmodified":1537675974,
+    "wof:name":"Voll",
+    "wof:parent_id":1159296711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.86175,
+    63.50563,
+    10.86175,
+    63.50563
+],
+  "geometry": {"coordinates":[10.86175,63.50563],"type":"Point"}
+}

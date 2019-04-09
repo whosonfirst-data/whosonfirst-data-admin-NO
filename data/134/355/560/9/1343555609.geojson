@@ -1,0 +1,71 @@
+{
+  "id": 1343555609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.72205,60.52169,6.72205,60.52169",
+    "geom:latitude":60.52169,
+    "geom:longitude":6.72205,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1234",
+    "gn:asciiname":"Ravnestrand",
+    "gn:country_code":"NO",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9404044,
+    "gn:latitude":60.52169,
+    "gn:longitude":6.72205,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Ravnestrand",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Ravnestrand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297567,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404044
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"266c8af439675ab6fa642b97226c1ce3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297567,
+            "locality_id":1343555609,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1343555609,
+    "wof:lastmodified":1537675914,
+    "wof:name":"Ravnestrand",
+    "wof:parent_id":1159297567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.72205,
+    60.52169,
+    6.72205,
+    60.52169
+],
+  "geometry": {"coordinates":[6.72205,60.52169],"type":"Point"}
+}

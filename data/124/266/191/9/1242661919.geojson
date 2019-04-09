@@ -1,0 +1,71 @@
+{
+  "id": 1242661919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.47556,68.08694,15.47556,68.08694",
+    "geom:latitude":68.08694,
+    "geom:longitude":15.47556,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1849.0",
+    "gn:asciiname":"Hansbakkan",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3153918,
+    "gn:latitude":68.08694,
+    "gn:longitude":15.47556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hansbakkan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hansbakk",
+        "Hansbakkan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297087,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3153918
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"eaa04787ed370f0f2aac8112d62b1916",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297087,
+            "locality_id":1242661919,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1242661919,
+    "wof:lastmodified":1537675822,
+    "wof:name":"Hansbakkan",
+    "wof:parent_id":1159297087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.47556,
+    68.08694,
+    15.47556,
+    68.08694
+],
+  "geometry": {"coordinates":[15.47556,68.08694],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1344126625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.32832,63.57553,9.32832,63.57553",
+    "geom:latitude":63.57553,
+    "geom:longitude":9.32832,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5016.0",
+    "gn:asciiname":"Sorleksa",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3147782,
+    "gn:latitude":63.57553,
+    "gn:longitude":9.32832,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"S\u00f8rleksa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Leksen",
+        "Leksa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297117,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3147782
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9fef82d681648844007ee7efc0b74b09",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297117,
+            "locality_id":1344126625,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1344126625,
+    "wof:lastmodified":1537675779,
+    "wof:name":"Sorleksa",
+    "wof:parent_id":1159297117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.32832,
+    63.57553000000001,
+    9.32832,
+    63.57553000000001
+],
+  "geometry": {"coordinates":[9.32832,63.57553000000001],"type":"Point"}
+}

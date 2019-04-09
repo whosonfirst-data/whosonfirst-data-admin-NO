@@ -1,0 +1,68 @@
+{
+  "id": 1276846221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.41472,68.9975,17.41472,68.9975",
+    "geom:latitude":68.9975,
+    "geom:longitude":17.41472,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1926.0",
+    "gn:asciiname":"Nordhus",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3223910,
+    "gn:latitude":68.9975,
+    "gn:longitude":17.41472,
+    "gn:modification_date":"2010-10-15",
+    "gn:name":"Nordhus",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297319,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3223910
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"877f4991ff0c968683ce79b44b05d312",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297319,
+            "locality_id":1276846221,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1276846221,
+    "wof:lastmodified":1537083062,
+    "wof:name":"Nordhus",
+    "wof:parent_id":1159297319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.41472000000001,
+    68.9975,
+    17.41472000000001,
+    68.9975
+],
+  "geometry": {"coordinates":[17.41472000000001,68.9975],"type":"Point"}
+}

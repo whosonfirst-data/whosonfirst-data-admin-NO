@@ -1,0 +1,95 @@
+{
+  "id": 101911127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000057,
+    "geom:bbox":"7.45181648735,61.4413378872,7.4668202302,61.4477991777",
+    "geom:latitude":61.444618,
+    "geom:longitude":7.459957,
+    "iso:country":"NO",
+    "lbl:latitude":61.445492,
+    "lbl:longitude":7.461457,
+    "mps:latitude":61.445492,
+    "mps:longitude":7.461457,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Lustre"
+    ],
+    "name:fra_x_preferred":[
+        "Lustre"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30b9\u30bf\u30fc"
+    ],
+    "name:kor_x_preferred":[
+        "\ub7ec\uc2a4\ud130"
+    ],
+    "name:ron_x_preferred":[
+        "Lustre"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Luster"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Sogn og Fjordane",
+    "qs:a1r":"7",
+    "qs:adm0":"Norge",
+    "qs:id":0,
+    "qs:la":"Luster",
+    "qs:la_lc":"*NO1426",
+    "qs:level":"locality",
+    "qs:loc":"Luster",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":159,
+    "wof:belongsto":[
+        102191581,
+        1159297283,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":861567,
+        "qs:id":505222,
+        "qs_pg:id":505222,
+        "wd:id":"Q242476"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8f2f749499b2f7f16be5f71b508e3f18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297283,
+            "locality_id":101911127,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":101911127,
+    "wof:lastmodified":1529699933,
+    "wof:name":"Luster",
+    "wof:parent_id":1159297283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.45181648734911,
+    61.44133788724548,
+    7.46682023020253,
+    61.44779917773837
+],
+  "geometry": {"coordinates":[[[7.46459666435624,61.44779917773837],[7.46466808494569,61.44689926922018],[7.46653480402313,61.44693159200017],[7.46682023020253,61.44333195818814],[7.4612207132584,61.44323493076757],[7.4612922155988,61.44233502647961],[7.45755932709682,61.44227022462809],[7.45763092970174,61.44137032282947],[7.45576454327431,61.44133788724548],[7.45569288821906,61.44223778801626],[7.45196002122185,61.44217284342045],[7.45181648734911,61.44397264215058],[7.45368302396287,61.44400512840321],[7.45361130250387,61.44490502945092],[7.45547789516672,61.44493749294026],[7.45540622151947,61.4458373954526],[7.45913952252999,61.44590225310833],[7.45899637116366,61.44770206355179],[7.46459666435624,61.44779917773837]]],"type":"Polygon"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 101911655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000047,
+    "geom:area_square_m":308411.048048,
+    "geom:bbox":"7.7572749249,58.099277056,7.76792869724,58.1073934425",
+    "geom:latitude":58.10444,
+    "geom:longitude":7.763432,
+    "iso:country":"NO",
+    "lbl:latitude":58.104871,
+    "lbl:longitude":7.763513,
+    "mps:latitude":58.104871,
+    "mps:longitude":7.763513,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Vedderheia"
+    ],
+    "name:eng_x_preferred":[
+        "Vedderheia"
+    ],
+    "name:fre_x_preferred":[
+        "Vedderheia"
+    ],
+    "name:may_x_preferred":[
+        "Vedderheia"
+    ],
+    "name:msa_x_preferred":[
+        "Vedderheia"
+    ],
+    "name:nob_x_preferred":[
+        "Vedderheia"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Vest-Agder",
+    "qs:a1r":"8",
+    "qs:adm0":"Norge",
+    "qs:id":0,
+    "qs:la":"S\u00f8gne",
+    "qs:la_lc":"*NO1018",
+    "qs:level":"locality",
+    "qs:loc":"Vedderheia",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet near local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191581,
+        1159296847,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22659048,
+        "qs:id":22294,
+        "qs_pg:id":22294,
+        "wd:id":"Q7917955"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"cad85c7bfc48997061dafdcfcdcaf0cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296847,
+            "locality_id":101911655,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":101911655,
+    "wof:lastmodified":1529700468,
+    "wof:name":"Vedderheia",
+    "wof:parent_id":1159296847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.75727492490154,
+    58.09927705600649,
+    7.7679286972446,
+    58.10739344250214
+],
+  "geometry": {"coordinates":[[[7.76743183177194,58.10739344250214],[7.7675974825118,58.10469735076987],[7.76590478394138,58.10466922841817],[7.76607053113833,58.10197314115948],[7.76776310433388,58.10200126114529],[7.7679286972446,58.09930517362687],[7.76623624940248,58.09927705600649],[7.76618101319525,58.10017575082367],[7.76448852602937,58.10014761111074],[7.76437796040125,58.10194499986841],[7.76268539212475,58.1019168372722],[7.76263006269625,58.10281553121195],[7.76093745509337,58.10278734652019],[7.76088208065414,58.10368603990355],[7.75918943372449,58.10365783311516],[7.759078591589,58.10545521900173],[7.75738586353725,58.10542698932358],[7.75727492490154,58.10722437456258],[7.76743183177194,58.10739344250214]]],"type":"Polygon"}
+}

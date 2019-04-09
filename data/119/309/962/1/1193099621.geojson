@@ -1,0 +1,73 @@
+{
+  "id": 1193099621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.66196,58.34854,6.66196,58.34854",
+    "geom:latitude":58.34854,
+    "geom:longitude":6.66196,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1004.0",
+    "gn:asciiname":"Flikka",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3157037,
+    "gn:latitude":58.34854,
+    "gn:longitude":6.66196,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Flikka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Flikke",
+        "Flikka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296845,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3157037
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"873665dbc068f63f0ed8f5f257bd28f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296845,
+            "locality_id":1193099621,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1193099621,
+    "wof:lastmodified":1537675842,
+    "wof:name":"Flikka",
+    "wof:parent_id":1159296845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.66196,
+    58.34854,
+    6.66196,
+    58.34854
+],
+  "geometry": {"coordinates":[6.66196,58.34854],"type":"Point"}
+}

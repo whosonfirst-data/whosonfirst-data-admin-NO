@@ -1,0 +1,71 @@
+{
+  "id": 1360275087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.18333,65.2,12.18333,65.2",
+    "geom:latitude":65.2,
+    "geom:longitude":12.18333,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1811.0",
+    "gn:asciiname":"Hall",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3154204,
+    "gn:latitude":65.2,
+    "gn:longitude":12.18333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hall",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hald",
+        "Hall"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296909,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3154204
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0112b1b9b71fee1bc7aef7e289bf19ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296909,
+            "locality_id":1360275087,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1360275087,
+    "wof:lastmodified":1537675824,
+    "wof:name":"Hall",
+    "wof:parent_id":1159296909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.18333,
+    65.2,
+    12.18333,
+    65.2
+],
+  "geometry": {"coordinates":[12.18333,65.2],"type":"Point"}
+}

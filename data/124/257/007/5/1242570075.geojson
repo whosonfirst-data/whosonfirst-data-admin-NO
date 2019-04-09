@@ -1,0 +1,71 @@
+{
+  "id": 1242570075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.82135,61.25717,10.82135,61.25717",
+    "geom:latitude":61.25717,
+    "geom:longitude":10.82135,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"412.0",
+    "gn:asciiname":"Gammelskolla",
+    "gn:country_code":"NO",
+    "gn:dem":740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535953,
+    "gn:latitude":61.25717,
+    "gn:longitude":10.82135,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Gammelskolla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Gammelskolla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296699,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535953
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2873ea437b8370098259f1a843635d81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296699,
+            "locality_id":1242570075,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1242570075,
+    "wof:lastmodified":1537675948,
+    "wof:name":"Gammelskolla",
+    "wof:parent_id":1159296699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.82135,
+    61.25717,
+    10.82135,
+    61.25717
+],
+  "geometry": {"coordinates":[10.82135,61.25717],"type":"Point"}
+}

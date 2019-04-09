@@ -1,0 +1,68 @@
+{
+  "id": 1259883859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.06667,60.21667,11.06667,60.21667",
+    "geom:latitude":60.21667,
+    "geom:longitude":11.06667,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"238.0",
+    "gn:asciiname":"Mollerstad",
+    "gn:country_code":"NO",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3145544,
+    "gn:latitude":60.21667,
+    "gn:longitude":11.06667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"M\u00f8llerstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297073,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3145544
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4bb060ef41416c1a6b50f505e55e6556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297073,
+            "locality_id":1259883859,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1259883859,
+    "wof:lastmodified":1536779084,
+    "wof:name":"Mollerstad",
+    "wof:parent_id":1159297073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.06667,
+    60.21666999999999,
+    11.06667,
+    60.21666999999999
+],
+  "geometry": {"coordinates":[11.06667,60.21666999999999],"type":"Point"}
+}

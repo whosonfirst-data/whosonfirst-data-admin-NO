@@ -1,0 +1,63 @@
+{
+  "id": 1209425483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.71165,59.74204,5.71165,59.74204",
+    "geom:latitude":59.74204,
+    "geom:longitude":5.71165,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1224.0",
+    "gn:asciiname":"Fjelberg",
+    "gn:country_code":"NO",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8692902,
+    "gn:latitude":59.74204,
+    "gn:longitude":5.71165,
+    "gn:modification_date":"2017-09-23",
+    "gn:name":"Fjelberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8692902,
+        "wk:page":"Fjelberg"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d5880ce9a1c0adba330306f40840a02f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209425483
+        }
+    ],
+    "wof:id":1209425483,
+    "wof:lastmodified":1537570114,
+    "wof:name":"Fjelberg",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.71165,
+    59.74204,
+    5.71165,
+    59.74204
+],
+  "geometry": {"coordinates":[5.71165,59.74204],"type":"Point"}
+}

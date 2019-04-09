@@ -1,0 +1,73 @@
+{
+  "id": 1259788387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.53333,70.08333,22.53333,70.08333",
+    "geom:latitude":70.08333,
+    "geom:longitude":22.53333,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2012.0",
+    "gn:asciiname":"Seljeli",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":777823,
+    "gn:latitude":70.08333,
+    "gn:longitude":22.53333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Seljeli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Setjeti",
+        "Seljeli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296893,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":777823
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"68af48a941cbce8ab0c989e8d9577ff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296893,
+            "locality_id":1259788387,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1259788387,
+    "wof:lastmodified":1537675645,
+    "wof:name":"Seljeli",
+    "wof:parent_id":1159296893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.53333,
+    70.08333,
+    22.53333,
+    70.08333
+],
+  "geometry": {"coordinates":[22.53333,70.08333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310490663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.85,64.86667,10.85,64.86667",
+    "geom:latitude":64.86667,
+    "geom:longitude":10.85,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5050.0",
+    "gn:asciiname":"Hunnestad",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3151422,
+    "gn:latitude":64.86667,
+    "gn:longitude":10.85,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Hunnestad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hundestad",
+        "Hunnestad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296895,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3151422
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8cfe25c2d41926851cd2a6b795c9a149",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296895,
+            "locality_id":1310490663,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1310490663,
+    "wof:lastmodified":1537675807,
+    "wof:name":"Hunnestad",
+    "wof:parent_id":1159296895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.85,
+    64.86667,
+    10.85,
+    64.86667
+],
+  "geometry": {"coordinates":[10.85,64.86667],"type":"Point"}
+}

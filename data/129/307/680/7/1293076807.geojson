@@ -1,0 +1,78 @@
+{
+  "id": 1293076807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.27721,69.59127,20.27721,69.59127",
+    "geom:latitude":69.59127,
+    "geom:longitude":20.27721,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1938.0",
+    "gn:asciiname":"Rottenvik",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":778156,
+    "gn:latitude":69.59127,
+    "gn:longitude":20.27721,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Rottenvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Rottenvik"
+    ],
+    "name:nor_x_variant":[
+        "Rottenvika"
+    ],
+    "name:und_x_variant":[
+        "R\u00e5ttenvik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297359,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":778156
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"37961ee676047c61cf076b65012fc66b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297359,
+            "locality_id":1293076807,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1293076807,
+    "wof:lastmodified":1537675647,
+    "wof:name":"Rottenvik",
+    "wof:parent_id":1159297359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.27721,
+    69.59127,
+    20.27721,
+    69.59127
+],
+  "geometry": {"coordinates":[20.27721,69.59126999999999],"type":"Point"}
+}

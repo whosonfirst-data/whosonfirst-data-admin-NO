@@ -1,0 +1,69 @@
+{
+  "id": 1293459375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.11429,63.29232,9.11429,63.29232",
+    "geom:latitude":63.29232,
+    "geom:longitude":9.11429,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5011.0",
+    "gn:asciiname":"Merkeneset",
+    "gn:country_code":"NO",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536609,
+    "gn:latitude":63.29232,
+    "gn:longitude":9.11429,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Merkeneset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Merkeneset"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296725,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536609
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c3d5dc59b0c1d3bfcdba9366d518f09b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296725,
+            "locality_id":1293459375,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1293459375,
+    "wof:lastmodified":1537675976,
+    "wof:name":"Merkeneset",
+    "wof:parent_id":1159296725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.11429,
+    63.29232,
+    9.11429,
+    63.29232
+],
+  "geometry": {"coordinates":[9.11429,63.29232],"type":"Point"}
+}

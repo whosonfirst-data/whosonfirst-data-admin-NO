@@ -1,0 +1,66 @@
+{
+  "id": 1209287059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.673,63.05082,11.673,63.05082",
+    "geom:latitude":63.05082,
+    "geom:longitude":11.673,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5033.0",
+    "gn:asciiname":"Ostby",
+    "gn:country_code":"NO",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3143217,
+    "gn:latitude":63.05082,
+    "gn:longitude":11.673,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"\u00d8stby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00d8stby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3143217,
+        "wk:page":"%C3%98stby%2C_S%C3%B8r-Tr%C3%B8ndelag"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b9533a2f84adef8ec18c1501faba5df8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209287059
+        }
+    ],
+    "wof:id":1209287059,
+    "wof:lastmodified":1537675750,
+    "wof:name":"Ostby",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.673,
+    63.05082,
+    11.673,
+    63.05082
+],
+  "geometry": {"coordinates":[11.673,63.05082],"type":"Point"}
+}

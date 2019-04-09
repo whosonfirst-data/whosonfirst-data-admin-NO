@@ -1,0 +1,66 @@
+{
+  "id": 1259869413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.56667,66.2,12.56667,66.2",
+    "geom:latitude":66.2,
+    "geom:longitude":12.56667,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1827.0",
+    "gn:asciiname":"Bryggevik",
+    "gn:country_code":"NO",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3159833,
+    "gn:latitude":66.2,
+    "gn:longitude":12.56667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Bryggevik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297149,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3159833
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"48ef35079fc0a9aad7e5ff9f2952807e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297149,
+            "locality_id":1259869413,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1259869413,
+    "wof:lastmodified":1536799551,
+    "wof:name":"Bryggevik",
+    "wof:parent_id":1159297149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.56667,
+    66.2,
+    12.56667,
+    66.2
+],
+  "geometry": {"coordinates":[12.56667,66.2],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276963563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.32488,66.35856,14.32488,66.35856",
+    "geom:latitude":66.35856,
+    "geom:longitude":14.32488,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1833.0",
+    "gn:asciiname":"Rossvoll",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141217,
+    "gn:latitude":66.35856,
+    "gn:longitude":14.32488,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"R\u00f8ssvoll",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00f6svold",
+        "R\u00f6svollnes",
+        "R\u00f8svoll",
+        "R\u00f8ssvoll"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296963,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141217,
+        "wk:page":"R%C3%B8ssvoll"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"894821778f855502ad179fb447c0ab7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296963,
+            "locality_id":1276963563,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1276963563,
+    "wof:lastmodified":1537675736,
+    "wof:name":"Rossvoll",
+    "wof:parent_id":1159296963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.32488,
+    66.35856,
+    14.32488,
+    66.35856
+],
+  "geometry": {"coordinates":[14.32488,66.35856],"type":"Point"}
+}

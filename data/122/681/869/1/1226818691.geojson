@@ -1,0 +1,69 @@
+{
+  "id": 1226818691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.00689,63.25914,9.00689,63.25914",
+    "geom:latitude":63.25914,
+    "geom:longitude":9.00689,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5011.0",
+    "gn:asciiname":"Lenes",
+    "gn:country_code":"NO",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536608,
+    "gn:latitude":63.25914,
+    "gn:longitude":9.00689,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Lenes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Lenes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296725,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536608
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1b4d82a041a45b5dd7651de413f45c7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296725,
+            "locality_id":1226818691,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1226818691,
+    "wof:lastmodified":1537675976,
+    "wof:name":"Lenes",
+    "wof:parent_id":1159296725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.00689,
+    63.25914,
+    9.00689,
+    63.25914
+],
+  "geometry": {"coordinates":[9.00689,63.25914],"type":"Point"}
+}

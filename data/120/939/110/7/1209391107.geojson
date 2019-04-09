@@ -1,0 +1,65 @@
+{
+  "id": 1209391107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.52249,58.97505,8.52249,58.97505",
+    "geom:latitude":58.97505,
+    "geom:longitude":8.52249,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"830.0",
+    "gn:asciiname":"Tjonnefoss",
+    "gn:country_code":"NO",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536119,
+    "gn:latitude":58.97505,
+    "gn:longitude":8.52249,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Tj\u00f8nnefoss",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Tj\u00f8nnefoss"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536119
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"579271fc9dd9ff3875a9e59320e2b536",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209391107
+        }
+    ],
+    "wof:id":1209391107,
+    "wof:lastmodified":1537675955,
+    "wof:name":"Tjonnefoss",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.52249,
+    58.97505,
+    8.52249,
+    58.97505
+],
+  "geometry": {"coordinates":[8.52249,58.97505],"type":"Point"}
+}

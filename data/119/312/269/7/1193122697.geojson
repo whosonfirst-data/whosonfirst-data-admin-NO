@@ -1,0 +1,71 @@
+{
+  "id": 1193122697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.19882,62.49532,6.19882,62.49532",
+    "geom:latitude":62.49532,
+    "geom:longitude":6.19882,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1504",
+    "gn:asciiname":"Hovland",
+    "gn:country_code":"NO",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404396,
+    "gn:latitude":62.49532,
+    "gn:longitude":6.19882,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Hovland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Hovland"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297219,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404396
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f7616c71130cd85348d0f3f30c8da210",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297219,
+            "locality_id":1193122697,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1193122697,
+    "wof:lastmodified":1537675929,
+    "wof:name":"Hovland",
+    "wof:parent_id":1159297219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.19882,
+    62.49531999999999,
+    6.19882,
+    62.49531999999999
+],
+  "geometry": {"coordinates":[6.19882,62.49531999999999],"type":"Point"}
+}

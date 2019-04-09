@@ -1,0 +1,75 @@
+{
+  "id": 1344260119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.77278,58.42667,8.77278,58.42667",
+    "geom:latitude":58.42667,
+    "geom:longitude":8.77278,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"906.0",
+    "gn:asciiname":"Stolsvika",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3136638,
+    "gn:latitude":58.42667,
+    "gn:longitude":8.77278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"St\u00f8lsvika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "St\u00f8lsvigen",
+        "St\u00f8lsviken",
+        "Stolsvik",
+        "St\u00f8lsvika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297607,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3136638
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"33bd523da6505ca65f058657e0e0d164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297607,
+            "locality_id":1344260119,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1344260119,
+    "wof:lastmodified":1537675705,
+    "wof:name":"Stolsvika",
+    "wof:parent_id":1159297607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.77278,
+    58.42667,
+    8.77278,
+    58.42667
+],
+  "geometry": {"coordinates":[8.77278,58.42667],"type":"Point"}
+}

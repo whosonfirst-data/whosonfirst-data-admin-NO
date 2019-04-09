@@ -1,0 +1,72 @@
+{
+  "id": 1260205809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.04314,60.84571,11.04314,60.84571",
+    "geom:latitude":60.84571,
+    "geom:longitude":11.04314,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"412",
+    "gn:asciiname":"Nydal",
+    "gn:country_code":"NO",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9404047,
+    "gn:latitude":60.84571,
+    "gn:longitude":11.04314,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Nydal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Nydal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296699,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404047,
+        "wk:page":"Nydal"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"548d93116f9ce39b8a9590afc5c75dce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296699,
+            "locality_id":1260205809,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1260205809,
+    "wof:lastmodified":1537675915,
+    "wof:name":"Nydal",
+    "wof:parent_id":1159296699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.04314,
+    60.84571,
+    11.04314,
+    60.84571
+],
+  "geometry": {"coordinates":[11.04314,60.84571],"type":"Point"}
+}

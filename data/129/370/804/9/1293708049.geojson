@@ -1,0 +1,66 @@
+{
+  "id": 1293708049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.48333,66.56667,13.48333,66.56667",
+    "geom:latitude":66.56667,
+    "geom:longitude":13.48333,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1836.0",
+    "gn:asciiname":"Nordfjordnes",
+    "gn:country_code":"NO",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3144358,
+    "gn:latitude":66.56667,
+    "gn:longitude":13.48333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Nordfjordnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296809,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3144358
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6e98e2ee847f5245e81b9e54b99de319",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296809,
+            "locality_id":1293708049,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1293708049,
+    "wof:lastmodified":1536966255,
+    "wof:name":"Nordfjordnes",
+    "wof:parent_id":1159296809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.48333,
+    66.56667,
+    13.48333,
+    66.56667
+],
+  "geometry": {"coordinates":[13.48333,66.56667],"type":"Point"}
+}

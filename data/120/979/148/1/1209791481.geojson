@@ -1,0 +1,73 @@
+{
+  "id": 1209791481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.03698,70.06094,19.03698,70.06094",
+    "geom:latitude":70.06094,
+    "geom:longitude":19.03698,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1936.0",
+    "gn:asciiname":"Mikkelvika",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3145860,
+    "gn:latitude":70.06094,
+    "gn:longitude":19.03698,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Mikkelvika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mikkelvik",
+        "Mikkelvika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297199,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3145860
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e5de66519dacd3b55efdbc780a748c6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297199,
+            "locality_id":1209791481,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1209791481,
+    "wof:lastmodified":1537675766,
+    "wof:name":"Mikkelvika",
+    "wof:parent_id":1159297199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.03698,
+    70.06094,
+    19.03698,
+    70.06094
+],
+  "geometry": {"coordinates":[19.03698,70.06094],"type":"Point"}
+}

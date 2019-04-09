@@ -1,0 +1,70 @@
+{
+  "id": 1226231945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.40254,68.25647,17.40254,68.25647",
+    "geom:latitude":68.25647,
+    "geom:longitude":17.40254,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1805.0",
+    "gn:asciiname":"Elvegard",
+    "gn:country_code":"NO",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3158312,
+    "gn:latitude":68.25647,
+    "gn:longitude":17.40254,
+    "gn:modification_date":"2013-07-13",
+    "gn:name":"Elveg\u00e5rd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Elveg\u00e5rd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297203,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3158312,
+        "wk:page":"Elveg%C3%A5rd"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c4c003c895ae8567f93c0459788fef0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297203,
+            "locality_id":1226231945,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1226231945,
+    "wof:lastmodified":1537675852,
+    "wof:name":"Elvegard",
+    "wof:parent_id":1159297203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.40254,
+    68.25647,
+    17.40254,
+    68.25647
+],
+  "geometry": {"coordinates":[17.40254,68.25646999999999],"type":"Point"}
+}

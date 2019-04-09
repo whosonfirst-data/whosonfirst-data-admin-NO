@@ -1,0 +1,68 @@
+{
+  "id": 1260102355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.78148,60.84152,10.78148,60.84152",
+    "geom:latitude":60.84152,
+    "geom:longitude":10.78148,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"412.0",
+    "gn:asciiname":"Jolstad",
+    "gn:country_code":"NO",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3150822,
+    "gn:latitude":60.84152,
+    "gn:longitude":10.78148,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"J\u00f8lstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296699,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3150822
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"16b873c88f911baaf6a9a70001c2024b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296699,
+            "locality_id":1260102355,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1260102355,
+    "wof:lastmodified":1536960849,
+    "wof:name":"Jolstad",
+    "wof:parent_id":1159296699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.78148,
+    60.84152,
+    10.78148,
+    60.84152
+],
+  "geometry": {"coordinates":[10.78148,60.84152],"type":"Point"}
+}

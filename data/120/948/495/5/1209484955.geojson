@@ -1,0 +1,65 @@
+{
+  "id": 1209484955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.61667,62.95,10.61667,62.95",
+    "geom:latitude":62.95,
+    "geom:longitude":10.61667,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5027.0",
+    "gn:asciiname":"Vinsnes",
+    "gn:country_code":"NO",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3131541,
+    "gn:latitude":62.95,
+    "gn:longitude":10.61667,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Vinsnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Vinsnes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3131541
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ab34b064651957d171dabf22f0917f65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209484955
+        }
+    ],
+    "wof:id":1209484955,
+    "wof:lastmodified":1537675674,
+    "wof:name":"Vinsnes",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.61667,
+    62.95,
+    10.61667,
+    62.95
+],
+  "geometry": {"coordinates":[10.61667,62.95],"type":"Point"}
+}

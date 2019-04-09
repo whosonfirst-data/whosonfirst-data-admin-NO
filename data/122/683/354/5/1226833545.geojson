@@ -1,0 +1,71 @@
+{
+  "id": 1226833545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.9,67.16667,15.9,67.16667",
+    "geom:latitude":67.16667,
+    "geom:longitude":15.9,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1841.0",
+    "gn:asciiname":"Hellarmo",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3153132,
+    "gn:latitude":67.16667,
+    "gn:longitude":15.9,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hellarmo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hellarmoen",
+        "Hellarmo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296833,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3153132
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f5555dc91f9a246055143b15f738e6ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296833,
+            "locality_id":1226833545,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1226833545,
+    "wof:lastmodified":1537675817,
+    "wof:name":"Hellarmo",
+    "wof:parent_id":1159296833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.9,
+    67.16667,
+    15.9,
+    67.16667
+],
+  "geometry": {"coordinates":[15.9,67.16667],"type":"Point"}
+}

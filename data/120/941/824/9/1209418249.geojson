@@ -1,0 +1,65 @@
+{
+  "id": 1209418249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.81413,58.58816,7.81413,58.58816",
+    "geom:latitude":58.58816,
+    "geom:longitude":7.81413,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"937",
+    "gn:asciiname":"Tingberget",
+    "gn:country_code":"NO",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404227,
+    "gn:latitude":58.58816,
+    "gn:longitude":7.81413,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Tingberget",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Tingberget"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404227
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e46be4f6114fe5017492c5450df3f6a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209418249
+        }
+    ],
+    "wof:id":1209418249,
+    "wof:lastmodified":1537675922,
+    "wof:name":"Tingberget",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.81413,
+    58.58816,
+    7.81413,
+    58.58816
+],
+  "geometry": {"coordinates":[7.81413,58.58816],"type":"Point"}
+}

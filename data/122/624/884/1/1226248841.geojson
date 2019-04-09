@@ -1,0 +1,71 @@
+{
+  "id": 1226248841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.84484,60.83719,8.84484,60.83719",
+    "geom:latitude":60.83719,
+    "geom:longitude":8.84484,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"617.0",
+    "gn:asciiname":"Lauvsjo",
+    "gn:country_code":"NO",
+    "gn:dem":932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535749,
+    "gn:latitude":60.83719,
+    "gn:longitude":8.84484,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Lauvsj\u00f8",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Lauvsj\u00f8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297373,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535749
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"fb4315dae380f83c315e3d8cfc2173e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297373,
+            "locality_id":1226248841,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1226248841,
+    "wof:lastmodified":1537675939,
+    "wof:name":"Lauvsjo",
+    "wof:parent_id":1159297373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.84484,
+    60.83719,
+    8.84484,
+    60.83719
+],
+  "geometry": {"coordinates":[8.84484,60.83719],"type":"Point"}
+}

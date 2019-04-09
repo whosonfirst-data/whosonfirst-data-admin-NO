@@ -1,0 +1,110 @@
+{
+  "id": 1125980599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.45,63.31667,10.45,63.31667",
+    "geom:latitude":63.31667,
+    "geom:longitude":10.45,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":977,
+    "gn:population":977,
+    "iso:country":"NO",
+    "lbl:latitude":63.31667,
+    "lbl:longitude":10.45,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Tanem"
+    ],
+    "name:eng_x_preferred":[
+        "Tanem"
+    ],
+    "name:fre_x_preferred":[
+        "Tanem"
+    ],
+    "name:may_x_preferred":[
+        "Tanem"
+    ],
+    "name:nno_x_preferred":[
+        "Tanem"
+    ],
+    "name:nob_x_preferred":[
+        "Tanem"
+    ],
+    "name:rum_x_preferred":[
+        "Tanem"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3134858,
+    "qs_pg:gn_pop":977,
+    "qs_pg:name":"Tanem",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1319325,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":864876,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159297505,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3134858,
+        "gp:id":864876,
+        "qs_pg:id":1319325,
+        "wd:id":"Q2606739"
+    },
+    "wof:country":"NO",
+    "wof:created":1497298539,
+    "wof:geomhash":"98bcf94dcaa159ca594ab7e9a29cea34",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297505,
+            "locality_id":1125980599,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1125980599,
+    "wof:lastmodified":1529700331,
+    "wof:name":"Tanem",
+    "wof:parent_id":1159297505,
+    "wof:placetype":"locality",
+    "wof:population":977,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.45,
+    63.31667,
+    10.45,
+    63.31667
+],
+  "geometry": {"coordinates":[10.45,63.31667],"type":"Point"}
+}

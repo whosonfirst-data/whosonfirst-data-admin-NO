@@ -1,0 +1,71 @@
+{
+  "id": 1327116557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.13333,62.91667,10.13333,62.91667",
+    "geom:latitude":62.91667,
+    "geom:longitude":10.13333,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5027.0",
+    "gn:asciiname":"Loklia",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3147042,
+    "gn:latitude":62.91667,
+    "gn:longitude":10.13333,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"L\u00f8klia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00f6kli",
+        "L\u00f8klia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296717,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3147042
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"320a17408f59b43a3b0efbe7dc512c08",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296717,
+            "locality_id":1327116557,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1327116557,
+    "wof:lastmodified":1537675774,
+    "wof:name":"Loklia",
+    "wof:parent_id":1159296717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.13333,
+    62.91667,
+    10.13333,
+    62.91667
+],
+  "geometry": {"coordinates":[10.13333,62.91667],"type":"Point"}
+}

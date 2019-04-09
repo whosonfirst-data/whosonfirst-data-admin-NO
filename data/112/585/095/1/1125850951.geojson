@@ -1,0 +1,120 @@
+{
+  "id": 1125850951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.58333,59.8,9.58333,59.8",
+    "geom:latitude":59.8,
+    "geom:longitude":9.58333,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":296,
+    "gn:population":296,
+    "iso:country":"NO",
+    "lbl:latitude":59.8,
+    "lbl:longitude":9.58333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Svene"
+    ],
+    "name:eng_x_preferred":[
+        "Svene"
+    ],
+    "name:fre_x_preferred":[
+        "Svene"
+    ],
+    "name:jav_x_preferred":[
+        "Svene"
+    ],
+    "name:may_x_preferred":[
+        "Svene"
+    ],
+    "name:nno_x_preferred":[
+        "Svene"
+    ],
+    "name:nob_x_preferred":[
+        "Svene"
+    ],
+    "name:rum_x_preferred":[
+        "Svene"
+    ],
+    "name:swe_x_preferred":[
+        "Svene"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3135120,
+    "qs_pg:gn_pop":296,
+    "qs_pg:name":"Svene",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Buskerud Fylke",
+    "qs_pg:photos":38,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":38,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1175029,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":864801,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Buskerud Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297107,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3135120,
+        "gp:id":864801,
+        "qs_pg:id":1175029,
+        "wd:id":"Q2187080"
+    },
+    "wof:country":"NO",
+    "wof:created":1497293400,
+    "wof:geomhash":"9afd56b0b79ede3e832e5705599c50a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297107,
+            "locality_id":1125850951,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1125850951,
+    "wof:lastmodified":1529699848,
+    "wof:name":"Svene",
+    "wof:parent_id":1159297107,
+    "wof:placetype":"locality",
+    "wof:population":296,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.58333,
+    59.8,
+    9.58333,
+    59.8
+],
+  "geometry": {"coordinates":[9.58333,59.8],"type":"Point"}
+}

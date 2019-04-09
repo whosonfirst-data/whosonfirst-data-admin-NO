@@ -1,0 +1,67 @@
+{
+  "id": 1310489555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.53333,60.98333,11.53333,60.98333",
+    "geom:latitude":60.98333,
+    "geom:longitude":11.53333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Gryte",
+    "gn:country_code":"NO",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3154618,
+    "gn:latitude":60.98333,
+    "gn:longitude":11.53333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Gryte",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297469,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3154618
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e1e69c1e38050fa667a3cd11b0858bf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297469,
+            "locality_id":1310489555,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1310489555,
+    "wof:lastmodified":1536940610,
+    "wof:name":"Gryte",
+    "wof:parent_id":1159297469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.53333,
+    60.98333,
+    11.53333,
+    60.98333
+],
+  "geometry": {"coordinates":[11.53333,60.98333],"type":"Point"}
+}

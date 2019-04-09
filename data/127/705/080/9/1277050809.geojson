@@ -1,0 +1,68 @@
+{
+  "id": 1277050809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.78333,58.75,6.78333,58.75",
+    "geom:latitude":58.75,
+    "geom:longitude":6.78333,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1046.0",
+    "gn:asciiname":"Liland",
+    "gn:country_code":"NO",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3147493,
+    "gn:latitude":58.75,
+    "gn:longitude":6.78333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Liland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297553,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3147493
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"803cc31bf75b4dd894510ef074d2833b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297553,
+            "locality_id":1277050809,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1277050809,
+    "wof:lastmodified":1536811491,
+    "wof:name":"Liland",
+    "wof:parent_id":1159297553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.78333,
+    58.75,
+    6.78333,
+    58.75
+],
+  "geometry": {"coordinates":[6.78333,58.75],"type":"Point"}
+}

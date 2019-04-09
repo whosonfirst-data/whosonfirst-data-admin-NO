@@ -1,0 +1,74 @@
+{
+  "id": 1344230715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.06667,59.0,6.06667,59.0",
+    "geom:latitude":59.0,
+    "geom:longitude":6.06667,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1130.0",
+    "gn:asciiname":"Jossang",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3150729,
+    "gn:latitude":59.0,
+    "gn:longitude":6.06667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"J\u00f8ssang",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J\u00f6ssanger",
+        "J\u00f8sanger",
+        "J\u00f8ssang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297053,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3150729
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e2c728626102f11a0c09cd30c912117d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297053,
+            "locality_id":1344230715,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1344230715,
+    "wof:lastmodified":1537675802,
+    "wof:name":"Jossang",
+    "wof:parent_id":1159297053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.06667,
+    59.0,
+    6.06667,
+    59.0
+],
+  "geometry": {"coordinates":[6.06667,59.0],"type":"Point"}
+}

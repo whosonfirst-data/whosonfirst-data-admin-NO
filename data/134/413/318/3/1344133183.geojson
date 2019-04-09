@@ -1,0 +1,68 @@
+{
+  "id": 1344133183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.16667,59.5,8.16667,59.5",
+    "geom:latitude":59.5,
+    "geom:longitude":8.16667,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"833.0",
+    "gn:asciiname":"Tveiten",
+    "gn:country_code":"NO",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3133614,
+    "gn:latitude":59.5,
+    "gn:longitude":8.16667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Tveiten",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297609,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3133614
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d69fd3a3e9ffc9688f5fd03df6f920c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297609,
+            "locality_id":1344133183,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1344133183,
+    "wof:lastmodified":1536771246,
+    "wof:name":"Tveiten",
+    "wof:parent_id":1159297609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.16667,
+    59.5,
+    8.16667,
+    59.5
+],
+  "geometry": {"coordinates":[8.16667,59.5],"type":"Point"}
+}

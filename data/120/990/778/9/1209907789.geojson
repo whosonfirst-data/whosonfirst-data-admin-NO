@@ -1,0 +1,72 @@
+{
+  "id": 1209907789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.96165,59.79419,5.96165,59.79419",
+    "geom:latitude":59.79419,
+    "geom:longitude":5.96165,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1224.0",
+    "gn:asciiname":"Sunde",
+    "gn:country_code":"NO",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537825,
+    "gn:latitude":59.79419,
+    "gn:longitude":5.96165,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Sunde",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Sunde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296949,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537825,
+        "wk:page":"Sunde%2C_Kvinnherad"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"bbcee0ab4550535e98172e8dfbb672ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296949,
+            "locality_id":1209907789,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1209907789,
+    "wof:lastmodified":1537676029,
+    "wof:name":"Sunde",
+    "wof:parent_id":1159296949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.96165,
+    59.79419,
+    5.96165,
+    59.79419
+],
+  "geometry": {"coordinates":[5.96165,59.79419],"type":"Point"}
+}

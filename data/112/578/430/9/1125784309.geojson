@@ -1,0 +1,115 @@
+{
+  "id": 1125784309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.41667,59.61667,11.41667,59.61667",
+    "geom:latitude":59.61667,
+    "geom:longitude":11.41667,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":213,
+    "gn:population":213,
+    "iso:country":"NO",
+    "lbl:latitude":59.61667,
+    "lbl:longitude":11.41667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Hamn\u00e5s"
+    ],
+    "name:eng_x_preferred":[
+        "Hamn\u00e5s"
+    ],
+    "name:fre_x_preferred":[
+        "Hamn\u00e5s"
+    ],
+    "name:jav_x_preferred":[
+        "Hamn\u00e5s"
+    ],
+    "name:may_x_preferred":[
+        "Hamn\u00e5s"
+    ],
+    "name:nno_x_preferred":[
+        "Hamn\u00e5s"
+    ],
+    "name:nob_x_preferred":[
+        "Havn\u00e5s"
+    ],
+    "name:nor_x_preferred":[
+        "Havn\u00e5s"
+    ],
+    "name:nor_x_variant":[
+        "Havnaas"
+    ],
+    "name:rum_x_preferred":[
+        "Havn\u00e5s"
+    ],
+    "name:swe_x_preferred":[
+        "Hamn\u00e5s"
+    ],
+    "name:unk_x_variant":[
+        "Havnaas"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3154019,
+    "qs_pg:gn_pop":213,
+    "qs_pg:name":"Hamn\u00e5s",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":581124,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297525,
+        85633341,
+        85687079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3154019,
+        "qs_pg:id":581124,
+        "wd:id":"Q2696223"
+    },
+    "wof:country":"NO",
+    "wof:created":1497290613,
+    "wof:geomhash":"927d5206024bff31f270260f67c8af8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297525,
+            "locality_id":1125784309,
+            "region_id":85687079
+        }
+    ],
+    "wof:id":1125784309,
+    "wof:lastmodified":1529700548,
+    "wof:name":"Hamn\u00e5s",
+    "wof:parent_id":1159297525,
+    "wof:placetype":"locality",
+    "wof:population":213,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.41667,
+    59.61667,
+    11.41667,
+    59.61667
+],
+  "geometry": {"coordinates":[11.41667,59.61667],"type":"Point"}
+}

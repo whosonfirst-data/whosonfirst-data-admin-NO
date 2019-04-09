@@ -1,0 +1,71 @@
+{
+  "id": 1326933683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.90925,58.48218,8.90925,58.48218",
+    "geom:latitude":58.48218,
+    "geom:longitude":8.90925,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"906.0",
+    "gn:asciiname":"Skarestrand",
+    "gn:country_code":"NO",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537865,
+    "gn:latitude":58.48218,
+    "gn:longitude":8.90925,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Skarestrand",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Skarestrand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297607,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537865
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6851b5b3058e8327d315a2fe731a5381",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297607,
+            "locality_id":1326933683,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1326933683,
+    "wof:lastmodified":1537676031,
+    "wof:name":"Skarestrand",
+    "wof:parent_id":1159297607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.90925,
+    58.48218000000001,
+    8.90925,
+    58.48218000000001
+],
+  "geometry": {"coordinates":[8.90925,58.48218000000001],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 101911665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00008,
+    "geom:bbox":"16.4219355929,68.7915748253,16.447331374,68.7990425216",
+    "geom:latitude":68.794761,
+    "geom:longitude":16.432443,
+    "iso:country":"NO",
+    "lbl:latitude":68.794386,
+    "lbl:longitude":16.431577,
+    "mps:latitude":68.794386,
+    "mps:longitude":16.431577,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Norge",
+    "qs:a1":"*Troms",
+    "qs:a1r":"2",
+    "qs:adm0":"Norge",
+    "qs:id":0,
+    "qs:la":"Harstad",
+    "qs:la_lc":"*NO1901",
+    "qs:level":"locality",
+    "qs:loc":"\u00c5segarden",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet near local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297451,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22660672,
+        "qs:id":44760,
+        "qs_pg:id":44760
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2e9557562f446c11841d972ad953e917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297451,
+            "locality_id":101911665,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":101911665,
+    "wof:lastmodified":1529700442,
+    "wof:name":"\u00c5segarden",
+    "wof:parent_id":1159297451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.42193559291115,
+    68.79157482531014,
+    16.44733137401624,
+    68.79904252161714
+],
+  "geometry": {"coordinates":[[[16.43102704363872,68.79895803379634],[16.43026486337385,68.79625270618783],[16.44733137401624,68.79566047483553],[16.44707669378164,68.79475872580167],[16.44463876767554,68.79484342235008],[16.44438420448029,68.79394167019308],[16.43950849009445,68.79411096019447],[16.43925413880879,68.79320920124036],[16.43681635054031,68.7932937946976],[16.43656211625512,68.79239203262563],[16.43412440557046,68.79247659049781],[16.43387028826868,68.79157482531014],[16.43143265517097,68.79165934760044],[16.43168667759522,68.79256111645878],[16.42193559291115,68.79289890118059],[16.42269665394724,68.79560425510937],[16.4251347357324,68.79551984580036],[16.42564240993693,68.79732341054284],[16.428080664292,68.79723896198129],[16.42858861669731,68.79904252161714],[16.43102704363872,68.79895803379634]]],"type":"Polygon"}
+}

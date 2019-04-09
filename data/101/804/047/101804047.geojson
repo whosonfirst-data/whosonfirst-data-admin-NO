@@ -1,0 +1,116 @@
+{
+  "id": 101804047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00025,
+    "geom:area_square_m":1481369.388603,
+    "geom:bbox":"5.37403108599,61.3530160283,5.41307548712,61.3695957512",
+    "geom:latitude":61.36092,
+    "geom:longitude":5.395049,
+    "gn:population":988,
+    "iso:country":"NO",
+    "lbl:latitude":61.357279,
+    "lbl:longitude":5.399634,
+    "mps:latitude":61.357279,
+    "mps:longitude":5.399634,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "Fjaler"
+    ],
+    "name:jav_x_preferred":[
+        "Dale"
+    ],
+    "name:msa_x_preferred":[
+        "Dale"
+    ],
+    "name:nld_x_preferred":[
+        "Dale"
+    ],
+    "name:nno_x_preferred":[
+        "Dale i Sunnfjord"
+    ],
+    "name:nor_x_preferred":[
+        "Dale"
+    ],
+    "name:nor_x_variant":[
+        "Dale I Sunnfjord",
+        "Dales"
+    ],
+    "name:ron_x_preferred":[
+        "Dale i Sunnfjord"
+    ],
+    "name:unk_x_variant":[
+        "Fjaler"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Sogn og Fjordane",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"Fjaler",
+    "qs:la_lc":"*NO1429",
+    "qs:level":"locality",
+    "qs:loc":"Dale",
+    "qs:loc_alt":"Dale",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":217,
+    "wof:belongsto":[
+        102191581,
+        1159297051,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01fc4132-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3159441,
+        "gp:id":22659135,
+        "qs:id":1167460,
+        "qs_pg:id":1191326,
+        "wd:id":"Q1783017",
+        "wk:page":"Dale, Sogn og Fjordane"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7f5e772f39c682a24c9fa955916ab389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297051,
+            "locality_id":101804047,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":101804047,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1529699932,
+    "wof:name":"Dale",
+    "wof:parent_id":1159297051,
+    "wof:placetype":"locality",
+    "wof:population":988,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.37403108599403,
+    61.35301602827627,
+    5.41307548711995,
+    61.36959575115424
+],
+  "geometry": {"coordinates":[[[5.40486450577197,61.36959575115424],[5.40499348223187,61.36869744640313],[5.40685304356487,61.36875599574364],[5.40698195987272,61.36785768947425],[5.4088414758051,61.3679162133098],[5.40909917980809,61.36611959806584],[5.41281802365057,61.36623656738186],[5.41307548711995,61.36443994607453],[5.40377894377684,61.36414736382824],[5.40390792207774,61.36324906290002],[5.40204868447796,61.36319047733605],[5.40243572481126,61.36049558206912],[5.40429480701573,61.36055416208853],[5.40442375200922,61.35965586247556],[5.40628278884338,61.35971441699661],[5.40666941852101,61.35701951458924],[5.40852830641438,61.35707803992085],[5.40865711455456,61.35617973793001],[5.40493944874362,61.35606266731082],[5.40532613391372,61.35336777438744],[5.39417422248618,61.35301602827627],[5.3937866054485,61.35571088791676],[5.39564539659335,61.35576957693343],[5.39499946026632,61.36026102548163],[5.38756329867976,61.36002609048467],[5.3878221125205,61.3582295249027],[5.3841042775249,61.358111922923],[5.38397477121663,61.35901020184053],[5.37653897151057,61.3587747066739],[5.37614978096764,61.36146952310344],[5.37429069182724,61.36141058461271],[5.37403108599403,61.36320712681538],[5.37960868356629,61.36338388248737],[5.37947902347634,61.36428215965572],[5.40179061593403,61.36498707582456],[5.40153251405798,61.3667836756286],[5.403391958898,61.36684226858699],[5.40300489903848,61.3695371763074],[5.40486450577197,61.36959575115424]]],"type":"Polygon"}
+}

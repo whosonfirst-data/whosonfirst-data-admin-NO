@@ -1,0 +1,71 @@
+{
+  "id": 1242754239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.59519,59.55047,8.59519,59.55047",
+    "geom:latitude":59.55047,
+    "geom:longitude":8.59519,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"828.0",
+    "gn:asciiname":"Sundbogrendi",
+    "gn:country_code":"NO",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536782,
+    "gn:latitude":59.55047,
+    "gn:longitude":8.59519,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Sundb\u00f8grendi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Sundb\u00f8grendi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296965,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536782
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b1110cb0e1e033f59fc7ea8521324d27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296965,
+            "locality_id":1242754239,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1242754239,
+    "wof:lastmodified":1537675983,
+    "wof:name":"Sundbogrendi",
+    "wof:parent_id":1159296965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.59519,
+    59.55047,
+    8.59519,
+    59.55047
+],
+  "geometry": {"coordinates":[8.59519,59.55047],"type":"Point"}
+}

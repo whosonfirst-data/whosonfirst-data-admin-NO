@@ -1,0 +1,73 @@
+{
+  "id": 1260307315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.61667,59.95,6.61667,59.95",
+    "geom:latitude":59.95,
+    "geom:longitude":6.61667,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1228.0",
+    "gn:asciiname":"Latefoss",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3148117,
+    "gn:latitude":59.95,
+    "gn:longitude":6.61667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"L\u00e5tefoss",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e5te",
+        "L\u00e5tefoss"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297489,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3148117
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"293ef6d0ab05d6706a3fa487ff41cfd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297489,
+            "locality_id":1260307315,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1260307315,
+    "wof:lastmodified":1537675783,
+    "wof:name":"Latefoss",
+    "wof:parent_id":1159297489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.61667,
+    59.95,
+    6.61667,
+    59.95
+],
+  "geometry": {"coordinates":[6.61667,59.95],"type":"Point"}
+}

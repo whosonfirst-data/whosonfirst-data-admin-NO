@@ -1,0 +1,113 @@
+{
+  "id": 101805107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00023,
+    "geom:area_square_m":1502278.94853,
+    "geom:bbox":"6.68032393924,58.0888811936,6.71527412899,58.1037485751",
+    "geom:latitude":58.096974,
+    "geom:longitude":6.696178,
+    "gn:population":1953,
+    "iso:country":"NO",
+    "lbl:latitude":58.097025,
+    "lbl:longitude":6.696178,
+    "mps:latitude":58.097025,
+    "mps:longitude":6.696178,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Vanse"
+    ],
+    "name:msa_x_preferred":[
+        "Vanse"
+    ],
+    "name:nld_x_preferred":[
+        "Vanse"
+    ],
+    "name:nno_x_preferred":[
+        "Vanse"
+    ],
+    "name:nor_x_preferred":[
+        "Vanse"
+    ],
+    "name:nor_x_variant":[
+        "Lista",
+        "Vanses"
+    ],
+    "name:ron_x_preferred":[
+        "Vanse"
+    ],
+    "name:unk_x_variant":[
+        "Lista"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Vest-Agder",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"Farsund",
+    "qs:la_lc":"*NO1003",
+    "qs:level":"locality",
+    "qs:loc":"Vanse",
+    "qs:loc_alt":"Vanse",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":334,
+    "wof:belongsto":[
+        102191581,
+        1159297123,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01fd4686-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3132720,
+        "gp:id":865541,
+        "qs:id":145859,
+        "qs_pg:id":145859,
+        "wd:id":"Q1006472",
+        "wk:page":"Vanse"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c6dad7daed385a5c96ea7c4ec66ed0d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297123,
+            "locality_id":101805107,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":101805107,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1529700465,
+    "wof:name":"Vanse",
+    "wof:parent_id":1159297123,
+    "wof:placetype":"locality",
+    "wof:population":1953,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.68032393923949,
+    58.08888119355981,
+    6.71527412899189,
+    58.10374857506849
+],
+  "geometry": {"coordinates":[[[6.71341991065856,58.10374857506849],[6.71350117729003,58.10285047921036],[6.71519290876739,58.10289184762661],[6.71527412899189,58.10199375080856],[6.71358243919565,58.10195238355158],[6.71366369637582,58.10105428809186],[6.71028041098407,58.10097149205484],[6.7103617467908,58.10007339911471],[6.70867015119529,58.10003197033643],[6.70883289196337,58.09823578737479],[6.70544987831545,58.09815287062594],[6.70553132493791,58.09725478176665],[6.70383986521324,58.09721329263704],[6.70392134876488,58.09631520513915],[6.70222993432793,58.09627369589458],[6.70239297054002,58.09447752382005],[6.700701643049,58.09443599562582],[6.70086474361545,58.09263982667142],[6.69579103283684,58.09251512142106],[6.69611767685677,58.08892279986316],[6.69442661377872,58.08888119355981],[6.69434491825069,58.08977927248696],[6.68758053570184,58.08961262988538],[6.68725303971348,58.09320492889674],[6.68048804903276,58.09303792722397],[6.68032393923949,58.09483406855702],[6.68201526475059,58.09487585322859],[6.68176918925815,58.09757007022176],[6.68684356261292,58.09769530710821],[6.68667973843804,58.09949145977765],[6.69175439457973,58.09961651217293],[6.69159080138741,58.10141267264362],[6.70174071191764,58.101662216882],[6.70165915825299,58.10256030440831],[6.7050425741553,58.10264331790256],[6.70496109911079,58.10354140795448],[6.71341991065856,58.10374857506849]]],"type":"Polygon"}
+}

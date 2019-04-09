@@ -1,0 +1,68 @@
+{
+  "id": 1226518121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.76436,69.23626,17.76436,69.23626",
+    "geom:latitude":69.23626,
+    "geom:longitude":17.76436,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1931.0",
+    "gn:asciiname":"Grepsli",
+    "gn:country_code":"NO",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3222484,
+    "gn:latitude":69.23626,
+    "gn:longitude":17.76436,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Grepsli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297333,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3222484
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"814beacaa3700ccbe72d84b67453959f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297333,
+            "locality_id":1226518121,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1226518121,
+    "wof:lastmodified":1537036386,
+    "wof:name":"Grepsli",
+    "wof:parent_id":1159297333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.76436,
+    69.23626,
+    17.76436,
+    69.23626
+],
+  "geometry": {"coordinates":[17.76436,69.23626],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276207631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.15398,60.8659,9.15398,60.8659",
+    "geom:latitude":60.8659,
+    "geom:longitude":9.15398,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"542.0",
+    "gn:asciiname":"Hermanstolen",
+    "gn:country_code":"NO",
+    "gn:dem":830,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3140370,
+    "gn:latitude":60.8659,
+    "gn:longitude":9.15398,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Hermanst\u00f8len",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297391,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3140370
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5b4fbbfad46ee39a0cc88863b56b526c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297391,
+            "locality_id":1276207631,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1276207631,
+    "wof:lastmodified":1536947871,
+    "wof:name":"Hermanstolen",
+    "wof:parent_id":1159297391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.15398,
+    60.8659,
+    9.15398,
+    60.8659
+],
+  "geometry": {"coordinates":[9.15398,60.8659],"type":"Point"}
+}

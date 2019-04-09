@@ -1,0 +1,72 @@
+{
+  "id": 1243538125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.28194,58.33996,6.28194,58.33996",
+    "geom:latitude":58.33996,
+    "geom:longitude":6.28194,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1111",
+    "gn:asciiname":"Hauge",
+    "gn:country_code":"NO",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9404001,
+    "gn:latitude":58.33996,
+    "gn:longitude":6.28194,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Hauge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Hauge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297211,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404001,
+        "wk:page":"Hauge%2C_Rogaland"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"bcfd67c2a2341b62511e9669ce68c482",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297211,
+            "locality_id":1243538125,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1243538125,
+    "wof:lastmodified":1537675913,
+    "wof:name":"Hauge",
+    "wof:parent_id":1159297211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.28194,
+    58.33996,
+    6.28194,
+    58.33996
+],
+  "geometry": {"coordinates":[6.28194,58.33996],"type":"Point"}
+}

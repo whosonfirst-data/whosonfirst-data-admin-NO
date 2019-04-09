@@ -1,0 +1,71 @@
+{
+  "id": 1242936247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.79084,69.27287,17.79084,69.27287",
+    "geom:latitude":69.27287,
+    "geom:longitude":17.79084,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1931.0",
+    "gn:asciiname":"Kvannlia",
+    "gn:country_code":"NO",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536186,
+    "gn:latitude":69.27287,
+    "gn:longitude":17.79084,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Kvannlia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Kvannlia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297333,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536186
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"85f8704c9a9dc852caf614d9eaba1d31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297333,
+            "locality_id":1242936247,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1242936247,
+    "wof:lastmodified":1537675958,
+    "wof:name":"Kvannlia",
+    "wof:parent_id":1159297333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.79084,
+    69.27287,
+    17.79084,
+    69.27287
+],
+  "geometry": {"coordinates":[17.79084,69.27287],"type":"Point"}
+}

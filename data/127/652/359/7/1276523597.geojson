@@ -1,0 +1,73 @@
+{
+  "id": 1276523597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.75479,68.96574,17.75479,68.96574",
+    "geom:latitude":68.96574,
+    "geom:longitude":17.75479,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1923.0",
+    "gn:asciiname":"Royrbakken",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141079,
+    "gn:latitude":68.96574,
+    "gn:longitude":17.75479,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"R\u00f8yrbakken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00f6yrbakkan",
+        "R\u00f8yrbakken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297455,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141079
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"48adeb0aaec59161388c0c325b7fc182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297455,
+            "locality_id":1276523597,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1276523597,
+    "wof:lastmodified":1537675734,
+    "wof:name":"Royrbakken",
+    "wof:parent_id":1159297455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.75479,
+    68.96574,
+    17.75479,
+    68.96574
+],
+  "geometry": {"coordinates":[17.75479,68.96574],"type":"Point"}
+}

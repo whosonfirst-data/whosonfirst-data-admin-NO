@@ -1,0 +1,65 @@
+{
+  "id": 1209302879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.58333,60.35,10.58333,60.35",
+    "geom:latitude":60.35,
+    "geom:longitude":10.58333,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"534.0",
+    "gn:asciiname":"Aal",
+    "gn:country_code":"NO",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3163411,
+    "gn:latitude":60.35,
+    "gn:longitude":10.58333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Aal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c5l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3163411
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c1117034e539b75a27af9a7dc703db48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209302879
+        }
+    ],
+    "wof:id":1209302879,
+    "wof:lastmodified":1537675894,
+    "wof:name":"Aal",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.58333,
+    60.35,
+    10.58333,
+    60.35
+],
+  "geometry": {"coordinates":[10.58333,60.35],"type":"Point"}
+}

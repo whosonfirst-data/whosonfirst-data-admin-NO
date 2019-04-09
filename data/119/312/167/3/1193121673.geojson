@@ -1,0 +1,71 @@
+{
+  "id": 1193121673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.31667,66.96667,15.31667,66.96667",
+    "geom:latitude":66.96667,
+    "geom:longitude":15.31667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1840.0",
+    "gn:asciiname":"Storalmenningen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3136611,
+    "gn:latitude":66.96667,
+    "gn:longitude":15.31667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Storalmenningen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00f6ralmenningen",
+        "Storalmenningen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297115,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3136611
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"da5f881fc4c307e65e99c4a69fee3424",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297115,
+            "locality_id":1193121673,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1193121673,
+    "wof:lastmodified":1537675704,
+    "wof:name":"Storalmenningen",
+    "wof:parent_id":1159297115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.31667,
+    66.96667,
+    15.31667,
+    66.96667
+],
+  "geometry": {"coordinates":[15.31667,66.96666999999999],"type":"Point"}
+}

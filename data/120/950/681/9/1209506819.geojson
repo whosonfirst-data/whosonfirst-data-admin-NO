@@ -1,0 +1,68 @@
+{
+  "id": 1209506819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.18453,60.0688,5.18453,60.0688",
+    "geom:latitude":60.0688,
+    "geom:longitude":5.18453,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1244.0",
+    "gn:asciiname":"Dronen",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3158949,
+    "gn:latitude":60.0688,
+    "gn:longitude":5.18453,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Dr\u00f8nen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Dr\u00f8nen"
+    ],
+    "name:und_x_variant":[
+        "Dr\u00f8ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3158949
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"60f625ac61ec3840a5d56acf7780c3af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209506819
+        }
+    ],
+    "wof:id":1209506819,
+    "wof:lastmodified":1537675858,
+    "wof:name":"Dronen",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.18453,
+    60.0688,
+    5.18453,
+    60.0688
+],
+  "geometry": {"coordinates":[5.18453,60.0688],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1226214989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.07247,64.03947,10.07247,64.03947",
+    "geom:latitude":64.03947,
+    "geom:longitude":10.07247,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5018.0",
+    "gn:asciiname":"Blindvagen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3160960,
+    "gn:latitude":64.03947,
+    "gn:longitude":10.07247,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Blindv\u00e5gen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Blindv\u00e5gen"
+    ],
+    "name:nor_x_variant":[
+        "Blindv\u00e5g"
+    ],
+    "name:und_x_variant":[
+        "Blindvaagen",
+        "Blindv\u00e5g"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297163,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160960
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8c80d2ce1cf46f3b2afc2ed89bea3a8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297163,
+            "locality_id":1226214989,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1226214989,
+    "wof:lastmodified":1537675873,
+    "wof:name":"Blindvagen",
+    "wof:parent_id":1159297163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.07247,
+    64.03947,
+    10.07247,
+    64.03947
+],
+  "geometry": {"coordinates":[10.07247,64.03946999999999],"type":"Point"}
+}

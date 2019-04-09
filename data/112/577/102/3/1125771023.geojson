@@ -1,0 +1,129 @@
+{
+  "id": 1125771023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.95139,70.04417,22.95139,70.04417",
+    "geom:latitude":70.04417,
+    "geom:longitude":22.95139,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":70.04417,
+    "lbl:longitude":22.95139,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0422\u0430\u043b\u0432\u0438\u043a"
+    ],
+    "name:dan_x_preferred":[
+        "Talvik"
+    ],
+    "name:dut_x_preferred":[
+        "Talvik"
+    ],
+    "name:eng_x_preferred":[
+        "Talvik"
+    ],
+    "name:est_x_preferred":[
+        "Talvik"
+    ],
+    "name:fre_x_preferred":[
+        "Talvik"
+    ],
+    "name:jav_x_preferred":[
+        "Talvik"
+    ],
+    "name:may_x_preferred":[
+        "Talvik"
+    ],
+    "name:nno_x_preferred":[
+        "Talvik"
+    ],
+    "name:nob_x_preferred":[
+        "Talvik"
+    ],
+    "name:nor_x_preferred":[
+        "Talvik"
+    ],
+    "name:nor_x_variant":[
+        "D\u00e1lmeluokta",
+        "Talmulahti"
+    ],
+    "name:swe_x_preferred":[
+        "Talvik"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":777204,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Talvik",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Finnmark Fylke",
+    "qs_pg:photos":39,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":39,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":266781,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":864870,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Finnmark Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296893,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":777204,
+        "gp:id":864870,
+        "qs_pg:id":266781,
+        "wd:id":"Q3735029"
+    },
+    "wof:country":"NO",
+    "wof:created":1497290066,
+    "wof:geomhash":"f226667a92536feaac860931994102dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296893,
+            "locality_id":1125771023,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1125771023,
+    "wof:lastmodified":1529699908,
+    "wof:name":"Talvik",
+    "wof:parent_id":1159296893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.95139,
+    70.04417,
+    22.95139,
+    70.04417
+],
+  "geometry": {"coordinates":[22.95139,70.04416999999999],"type":"Point"}
+}

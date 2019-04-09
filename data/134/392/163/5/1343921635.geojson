@@ -1,0 +1,68 @@
+{
+  "id": 1343921635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.51211,59.19846,8.51211,59.19846",
+    "geom:latitude":59.19846,
+    "geom:longitude":8.51211,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"830.0",
+    "gn:asciiname":"Nordbygdi",
+    "gn:country_code":"NO",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3144426,
+    "gn:latitude":59.19846,
+    "gn:longitude":8.51211,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Nordbygdi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297341,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3144426
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8b010ee4541b58ca1dc0ba2558776f64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297341,
+            "locality_id":1343921635,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1343921635,
+    "wof:lastmodified":1537073063,
+    "wof:name":"Nordbygdi",
+    "wof:parent_id":1159297341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.51211,
+    59.19846,
+    8.51211,
+    59.19846
+],
+  "geometry": {"coordinates":[8.51211,59.19846],"type":"Point"}
+}

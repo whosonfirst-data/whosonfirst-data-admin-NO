@@ -1,0 +1,75 @@
+{
+  "id": 1225950571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.3689,60.20587,10.3689,60.20587",
+    "geom:latitude":60.20587,
+    "geom:longitude":10.3689,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"605.0",
+    "gn:asciiname":"Aasbygden",
+    "gn:country_code":"NO",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536512,
+    "gn:latitude":60.20587,
+    "gn:longitude":10.3689,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Aasbygden",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Aasbygden"
+    ],
+    "name:nor_x_variant":[
+        "\u00c5sbygda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297513,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536512,
+        "wk:page":"%C3%85sbygda"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"dc6a3185f0dfec57d764266cbca3f648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297513,
+            "locality_id":1225950571,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1225950571,
+    "wof:lastmodified":1537675972,
+    "wof:name":"Aasbygden",
+    "wof:parent_id":1159297513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3689,
+    60.20587,
+    10.3689,
+    60.20587
+],
+  "geometry": {"coordinates":[10.3689,60.20587],"type":"Point"}
+}

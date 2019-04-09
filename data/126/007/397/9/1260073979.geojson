@@ -1,0 +1,73 @@
+{
+  "id": 1260073979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.01444,64.58139,11.01444,64.58139",
+    "geom:latitude":64.58139,
+    "geom:longitude":11.01444,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5049.0",
+    "gn:asciiname":"Innvorda",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3151018,
+    "gn:latitude":64.58139,
+    "gn:longitude":11.01444,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Innvorda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Indvorden",
+        "Innvorda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296889,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3151018
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ced16c5cb043f9633d1afcbfe57c0f89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296889,
+            "locality_id":1260073979,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1260073979,
+    "wof:lastmodified":1537675803,
+    "wof:name":"Innvorda",
+    "wof:parent_id":1159296889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.01444,
+    64.58139,
+    11.01444,
+    64.58139
+],
+  "geometry": {"coordinates":[11.01444,64.58139],"type":"Point"}
+}

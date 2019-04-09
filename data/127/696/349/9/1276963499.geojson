@@ -1,0 +1,71 @@
+{
+  "id": 1276963499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.45,68.36667,17.45,68.36667",
+    "geom:latitude":68.36667,
+    "geom:longitude":17.45,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1805.0",
+    "gn:asciiname":"Marka",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3146373,
+    "gn:latitude":68.36667,
+    "gn:longitude":17.45,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Marka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marken",
+        "Marka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297203,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3146373
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"82501b34e153e9846acc6eff9c3bbd16",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297203,
+            "locality_id":1276963499,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1276963499,
+    "wof:lastmodified":1537675770,
+    "wof:name":"Marka",
+    "wof:parent_id":1159297203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.45,
+    68.36667,
+    17.45,
+    68.36667
+],
+  "geometry": {"coordinates":[17.45,68.36667],"type":"Point"}
+}

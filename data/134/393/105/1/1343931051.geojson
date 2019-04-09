@@ -1,0 +1,68 @@
+{
+  "id": 1343931051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.19499,61.00878,5.19499,61.00878",
+    "geom:latitude":61.00878,
+    "geom:longitude":5.19499,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1411.0",
+    "gn:asciiname":"Nordgulen",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3144339,
+    "gn:latitude":61.00878,
+    "gn:longitude":5.19499,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Nordgulen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297577,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3144339
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"eacbb902f30b3755e3dce91d20657afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297577,
+            "locality_id":1343931051,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1343931051,
+    "wof:lastmodified":1537059892,
+    "wof:name":"Nordgulen",
+    "wof:parent_id":1159297577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.19499,
+    61.00878,
+    5.19499,
+    61.00878
+],
+  "geometry": {"coordinates":[5.19499,61.00878],"type":"Point"}
+}

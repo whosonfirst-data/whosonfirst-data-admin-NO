@@ -1,0 +1,136 @@
+{
+  "id": 1126017665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.57546,68.58491,16.57546,68.58491",
+    "geom:latitude":68.58491,
+    "geom:longitude":16.57546,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":601,
+    "gn:population":601,
+    "iso:country":"NO",
+    "lbl:latitude":68.58491,
+    "lbl:longitude":16.57546,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Evenskjer"
+    ],
+    "name:dut_x_preferred":[
+        "Evenskj\u00e6r"
+    ],
+    "name:eng_x_preferred":[
+        "Evenskjer"
+    ],
+    "name:fre_x_preferred":[
+        "Evenskjer"
+    ],
+    "name:may_x_preferred":[
+        "Evenskjer"
+    ],
+    "name:nno_x_preferred":[
+        "Evenskjer"
+    ],
+    "name:nob_x_preferred":[
+        "Evenskjer"
+    ],
+    "name:nor_x_preferred":[
+        "Evenskjer"
+    ],
+    "name:rum_x_preferred":[
+        "Evenskjer"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0432\u0435\u043d\u0441\u043a\u044c\u0435\u0440"
+    ],
+    "name:sme_x_preferred":[
+        "Skearri"
+    ],
+    "name:sme_x_variant":[
+        "Vierv\u00e1",
+        "Skierri"
+    ],
+    "name:spa_x_preferred":[
+        "Evenskjer"
+    ],
+    "name:unk_x_variant":[
+        "Evenskjer"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":3157994,
+    "qs_pg:gn_pop":601,
+    "qs_pg:name":"Evenskj\u00e6r",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Troms Fylke",
+    "qs_pg:photos":24,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":24,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":249395,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":858255,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Troms Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296791,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3157994,
+        "gp:id":858255,
+        "qs_pg:id":249395,
+        "wd:id":"Q2232941"
+    },
+    "wof:country":"NO",
+    "wof:created":1497300648,
+    "wof:geomhash":"65e3350028dc0dd0d2184f3417665067",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296791,
+            "locality_id":1126017665,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1126017665,
+    "wof:lastmodified":1529700453,
+    "wof:name":"Evenskj\u00e6r",
+    "wof:parent_id":1159296791,
+    "wof:placetype":"locality",
+    "wof:population":601,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.57546,
+    68.58491,
+    16.57546,
+    68.58491
+],
+  "geometry": {"coordinates":[16.57546,68.58490999999999],"type":"Point"}
+}

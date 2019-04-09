@@ -1,0 +1,117 @@
+{
+  "id": 1125772687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.76667,58.53333,5.76667,58.53333",
+    "geom:latitude":58.53333,
+    "geom:longitude":5.76667,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":384,
+    "gn:population":384,
+    "iso:country":"NO",
+    "lbl:latitude":58.53333,
+    "lbl:longitude":5.76667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Brusand"
+    ],
+    "name:eng_x_preferred":[
+        "Brusand"
+    ],
+    "name:fre_x_preferred":[
+        "Brusand"
+    ],
+    "name:jav_x_preferred":[
+        "Brusand"
+    ],
+    "name:may_x_preferred":[
+        "Brusand"
+    ],
+    "name:nno_x_preferred":[
+        "Brusand"
+    ],
+    "name:nob_x_preferred":[
+        "Brusand"
+    ],
+    "name:rum_x_preferred":[
+        "Brusand"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3159857,
+    "qs_pg:gn_pop":384,
+    "qs_pg:name":"Brusand",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Rogaland Fylke",
+    "qs_pg:photos":114,
+    "qs_pg:photos_1k":23,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":114,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1159109,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":857641,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Rogaland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296955,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3159857,
+        "gp:id":857641,
+        "qs_pg:id":1159109,
+        "wd:id":"Q1782869"
+    },
+    "wof:country":"NO",
+    "wof:created":1497290125,
+    "wof:geomhash":"bd024bd91628aa87e98f8b44e1feddeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296955,
+            "locality_id":1125772687,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1125772687,
+    "wof:lastmodified":1529700286,
+    "wof:name":"Brusand",
+    "wof:parent_id":1159296955,
+    "wof:placetype":"locality",
+    "wof:population":384,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.76667,
+    58.53333,
+    5.76667,
+    58.53333
+],
+  "geometry": {"coordinates":[5.76667,58.53333],"type":"Point"}
+}

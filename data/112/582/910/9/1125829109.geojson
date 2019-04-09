@@ -1,0 +1,104 @@
+{
+  "id": 1125829109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.99833,69.28306,15.99833,69.28306",
+    "geom:latitude":69.28306,
+    "geom:longitude":15.99833,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":456,
+    "gn:population":456,
+    "iso:country":"NO",
+    "lbl:latitude":69.28306,
+    "lbl:longitude":15.99833,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Bleik"
+    ],
+    "name:eng_x_preferred":[
+        "Bleik"
+    ],
+    "name:fre_x_preferred":[
+        "Bleik"
+    ],
+    "name:jav_x_preferred":[
+        "Bleik"
+    ],
+    "name:may_x_preferred":[
+        "Bleik"
+    ],
+    "name:nno_x_preferred":[
+        "Bleik"
+    ],
+    "name:nob_x_preferred":[
+        "Bleik"
+    ],
+    "name:pol_x_preferred":[
+        "Bleik"
+    ],
+    "name:rum_x_preferred":[
+        "Bleik"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3161008,
+    "qs_pg:gn_pop":456,
+    "qs_pg:name":"Bleik",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":581145,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        1159297539,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3161008,
+        "qs_pg:id":581145,
+        "wd:id":"Q2378793"
+    },
+    "wof:country":"NO",
+    "wof:created":1497292412,
+    "wof:geomhash":"75a9c0fbcb2436fddac5dd538a308fb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297539,
+            "locality_id":1125829109,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1125829109,
+    "wof:lastmodified":1529700176,
+    "wof:name":"Bleik",
+    "wof:parent_id":1159297539,
+    "wof:placetype":"locality",
+    "wof:population":456,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.99833,
+    69.28306,
+    15.99833,
+    69.28306
+],
+  "geometry": {"coordinates":[15.99833,69.28306000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276852189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.14324,62.04598,9.14324,62.04598",
+    "geom:latitude":62.04598,
+    "geom:longitude":9.14324,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"511.0",
+    "gn:asciiname":"Mossjordet",
+    "gn:country_code":"NO",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537068,
+    "gn:latitude":62.04598,
+    "gn:longitude":9.14324,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Mossjordet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Mossjordet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297013,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537068
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7ed635cb5e07f71d5f06f84568c8dc74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297013,
+            "locality_id":1276852189,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1276852189,
+    "wof:lastmodified":1537675995,
+    "wof:name":"Mossjordet",
+    "wof:parent_id":1159297013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.14324,
+    62.04598000000001,
+    9.14324,
+    62.04598000000001
+],
+  "geometry": {"coordinates":[9.14324,62.04598000000001],"type":"Point"}
+}

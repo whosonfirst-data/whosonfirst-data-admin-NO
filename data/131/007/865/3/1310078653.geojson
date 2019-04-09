@@ -1,0 +1,68 @@
+{
+  "id": 1310078653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.23333,61.21667,5.23333,61.21667",
+    "geom:latitude":61.21667,
+    "geom:longitude":5.23333,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1413.0",
+    "gn:asciiname":"Smilden",
+    "gn:country_code":"NO",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3138124,
+    "gn:latitude":61.21667,
+    "gn:longitude":5.23333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Smilden",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297157,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3138124
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f4405b3e3a5d71c77e6f4b63012b926e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297157,
+            "locality_id":1310078653,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1310078653,
+    "wof:lastmodified":1537033882,
+    "wof:name":"Smilden",
+    "wof:parent_id":1159297157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.23333,
+    61.21666999999999,
+    5.23333,
+    61.21666999999999
+],
+  "geometry": {"coordinates":[5.23333,61.21666999999999],"type":"Point"}
+}

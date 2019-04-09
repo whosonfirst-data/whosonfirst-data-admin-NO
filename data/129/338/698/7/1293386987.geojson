@@ -1,0 +1,73 @@
+{
+  "id": 1293386987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.81278,60.56722,4.81278,60.56722",
+    "geom:latitude":60.56722,
+    "geom:longitude":4.81278,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1259.0",
+    "gn:asciiname":"Herdlevaeret",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3152924,
+    "gn:latitude":60.56722,
+    "gn:longitude":4.81278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Herdlev\u00e6ret",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Herdlev\u00e6r",
+        "Herdlev\u00e6ret"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297547,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3152924
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e6977a4c6ccffb578b1c55022bfa7782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297547,
+            "locality_id":1293386987,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1293386987,
+    "wof:lastmodified":1537675815,
+    "wof:name":"Herdlevaeret",
+    "wof:parent_id":1159297547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.81278,
+    60.56721999999999,
+    4.81278,
+    60.56721999999999
+],
+  "geometry": {"coordinates":[4.81278,60.56721999999999],"type":"Point"}
+}

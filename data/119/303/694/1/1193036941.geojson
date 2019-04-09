@@ -1,0 +1,71 @@
+{
+  "id": 1193036941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.25,65.7,13.25,65.7",
+    "geom:latitude":65.7,
+    "geom:longitude":13.25,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1824.0",
+    "gn:asciiname":"Eiterastrommen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3158461,
+    "gn:latitude":65.7,
+    "gn:longitude":13.25,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Eiter\u00e5str\u00f8mmen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eiter\u00e5straumen",
+        "Eiter\u00e5str\u00f8mmen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296877,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3158461
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"fd471f838376ee5d92e4c422c49ff736",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296877,
+            "locality_id":1193036941,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1193036941,
+    "wof:lastmodified":1537675853,
+    "wof:name":"Eiterastrommen",
+    "wof:parent_id":1159296877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.25,
+    65.7,
+    13.25,
+    65.7
+],
+  "geometry": {"coordinates":[13.25,65.7],"type":"Point"}
+}

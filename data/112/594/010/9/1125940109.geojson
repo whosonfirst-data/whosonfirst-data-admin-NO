@@ -1,0 +1,80 @@
+{
+  "id": 1125940109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.710945,66.145899,12.710945,66.145899",
+    "geom:latitude":66.145899,
+    "geom:longitude":12.710945,
+    "gn:gn_country":"NO",
+    "iso:country":"NO",
+    "lbl:latitude":66.145899,
+    "lbl:longitude":12.710945,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:name":"Kopardal",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nordland Fylke",
+    "qs_pg:photos":101,
+    "qs_pg:photos_1k":20,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":101,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":986566,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":860768,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Nordland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159297149,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":860768,
+        "qs_pg:id":986566
+    },
+    "wof:country":"NO",
+    "wof:created":1497297091,
+    "wof:geomhash":"12d298d30086d5b4d88ee241aafe5eb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297149,
+            "locality_id":1125940109,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1125940109,
+    "wof:lastmodified":1529700158,
+    "wof:name":"Kopardal",
+    "wof:parent_id":1159297149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.710945,
+    66.145899,
+    12.710945,
+    66.145899
+],
+  "geometry": {"coordinates":[12.710945,66.145899],"type":"Point"}
+}

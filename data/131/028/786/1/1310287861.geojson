@@ -1,0 +1,68 @@
+{
+  "id": 1310287861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.41667,60.95,5.41667,60.95",
+    "geom:latitude":60.95,
+    "geom:longitude":5.41667,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1411.0",
+    "gn:asciiname":"Verkland",
+    "gn:country_code":"NO",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3132165,
+    "gn:latitude":60.95,
+    "gn:longitude":5.41667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Verkland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297577,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3132165
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ae6157494d069410e5fa47d025d72a2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297577,
+            "locality_id":1310287861,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1310287861,
+    "wof:lastmodified":1536733610,
+    "wof:name":"Verkland",
+    "wof:parent_id":1159297577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.41667,
+    60.95,
+    5.41667,
+    60.95
+],
+  "geometry": {"coordinates":[5.41667,60.95],"type":"Point"}
+}

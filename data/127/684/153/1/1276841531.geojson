@@ -1,0 +1,68 @@
+{
+  "id": 1276841531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.89409,59.6095,7.89409,59.6095",
+    "geom:latitude":59.6095,
+    "geom:longitude":7.89409,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"834.0",
+    "gn:asciiname":"Bogrend",
+    "gn:country_code":"NO",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3160830,
+    "gn:latitude":59.6095,
+    "gn:longitude":7.89409,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"B\u00f8grend",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297225,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160830
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5b5d7b8a47c7eec86d0ae23702a601d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297225,
+            "locality_id":1276841531,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1276841531,
+    "wof:lastmodified":1537089344,
+    "wof:name":"Bogrend",
+    "wof:parent_id":1159297225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.89409,
+    59.6095,
+    7.89409,
+    59.6095
+],
+  "geometry": {"coordinates":[7.89409,59.6095],"type":"Point"}
+}

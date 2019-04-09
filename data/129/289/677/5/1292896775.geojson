@@ -1,0 +1,71 @@
+{
+  "id": 1292896775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.93449,62.10551,5.93449,62.10551",
+    "geom:latitude":62.10551,
+    "geom:longitude":5.93449,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1519.0",
+    "gn:asciiname":"Lovik",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536886,
+    "gn:latitude":62.10551,
+    "gn:longitude":5.93449,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"L\u00f8vik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "L\u00f8vik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297487,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536886
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f1e13d3d9776624864526e0cc8de63e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297487,
+            "locality_id":1292896775,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1292896775,
+    "wof:lastmodified":1537675987,
+    "wof:name":"Lovik",
+    "wof:parent_id":1159297487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.93449,
+    62.10551,
+    5.93449,
+    62.10551
+],
+  "geometry": {"coordinates":[5.93449,62.10551],"type":"Point"}
+}

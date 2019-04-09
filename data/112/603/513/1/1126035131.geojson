@@ -1,0 +1,110 @@
+{
+  "id": 1126035131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.84361,58.49083,8.84361,58.49083",
+    "geom:latitude":58.49083,
+    "geom:longitude":8.84361,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":58.49083,
+    "lbl:longitude":8.84361,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Saltr\u00f8d"
+    ],
+    "name:eng_x_preferred":[
+        "Saltr\u00f8d"
+    ],
+    "name:fre_x_preferred":[
+        "Saltr\u00f8d"
+    ],
+    "name:jav_x_preferred":[
+        "Saltr\u00f8d"
+    ],
+    "name:may_x_preferred":[
+        "Saltr\u00f8d"
+    ],
+    "name:nob_x_preferred":[
+        "Saltr\u00f8d"
+    ],
+    "name:rum_x_preferred":[
+        "Saltr\u00f8d"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3140492,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Salter\u00f8d",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Aust-Agder Fylke",
+    "qs_pg:photos":43,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":43,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":964658,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":863361,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Aust-Agder Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297607,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3140492,
+        "gp:id":863361,
+        "qs_pg:id":964658,
+        "wd:id":"Q7406202"
+    },
+    "wof:country":"NO",
+    "wof:created":1497301739,
+    "wof:geomhash":"631042c8eb791f7ef2f8d6f298a26314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297607,
+            "locality_id":1126035131,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1126035131,
+    "wof:lastmodified":1529699816,
+    "wof:name":"Salter\u00f8d",
+    "wof:parent_id":1159297607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.84361,
+    58.49083,
+    8.84361,
+    58.49083
+],
+  "geometry": {"coordinates":[8.84361,58.49083],"type":"Point"}
+}

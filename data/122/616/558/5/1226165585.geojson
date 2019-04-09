@@ -1,0 +1,73 @@
+{
+  "id": 1226165585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.53333,70.28333,23.53333,70.28333",
+    "geom:latitude":70.28333,
+    "geom:longitude":23.53333,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2012.0",
+    "gn:asciiname":"Indre Vieluft",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":779476,
+    "gn:latitude":70.28333,
+    "gn:longitude":23.53333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Indre Vieluft",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vieluft",
+        "Indre Vieluft"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296893,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":779476
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c5bb82c6997acc84e367245124ed27ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296893,
+            "locality_id":1226165585,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1226165585,
+    "wof:lastmodified":1537675659,
+    "wof:name":"Indre Vieluft",
+    "wof:parent_id":1159296893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.53333,
+    70.28333,
+    23.53333,
+    70.28333
+],
+  "geometry": {"coordinates":[23.53333,70.28333000000001],"type":"Point"}
+}

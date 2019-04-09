@@ -1,0 +1,127 @@
+{
+  "id": 101803849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000182,
+    "geom:area_square_m":1173856.698083,
+    "geom:bbox":"5.67898610088,58.5618647025,5.70703637161,58.5736944911",
+    "geom:latitude":58.56846,
+    "geom:longitude":5.69235,
+    "gn:population":1764,
+    "iso:country":"NO",
+    "lbl:latitude":58.568365,
+    "lbl:longitude":5.687888,
+    "mps:latitude":58.568365,
+    "mps:longitude":5.687888,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Vigrestad"
+    ],
+    "name:eng_x_preferred":[
+        "Vigrestad"
+    ],
+    "name:fre_x_preferred":[
+        "Vigrestad"
+    ],
+    "name:may_x_preferred":[
+        "Vigrestad"
+    ],
+    "name:msa_x_preferred":[
+        "Vigrestad"
+    ],
+    "name:nld_x_preferred":[
+        "Vigrestad"
+    ],
+    "name:nno_x_preferred":[
+        "Vigrestad"
+    ],
+    "name:nob_x_preferred":[
+        "Vigrestad"
+    ],
+    "name:nor_x_preferred":[
+        "Vigrestad"
+    ],
+    "name:nor_x_variant":[
+        "Vigrestads"
+    ],
+    "name:por_x_preferred":[
+        "Vigrestad"
+    ],
+    "name:ron_x_preferred":[
+        "Vigrestad"
+    ],
+    "name:rum_x_preferred":[
+        "Vigrestad"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Rogaland",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"H\u00e5",
+    "qs:la_lc":"*NO1119",
+    "qs:level":"locality",
+    "qs:loc":"Vigrestad",
+    "qs:loc_alt":"Vigrestad",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":338,
+    "wof:belongsto":[
+        102191581,
+        1159296955,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01fe3668-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3131824,
+        "gp:id":865734,
+        "qs:id":1043317,
+        "qs_pg:id":1043317,
+        "wd:id":"Q1771452",
+        "wk:page":"Vigrestad"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e36b22bd6e98d9aed861e16fb16946e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296955,
+            "locality_id":101803849,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":101803849,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1529700282,
+    "wof:name":"Vigrestad",
+    "wof:parent_id":1159296955,
+    "wof:placetype":"locality",
+    "wof:population":1764,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.6789861008819,
+    58.56186470250299,
+    5.70703637161046,
+    58.57369449111371
+],
+  "geometry": {"coordinates":[[[5.68551089200741,58.57369449111371],[5.68561944796113,58.57279706433764],[5.69075758621506,58.57296018061209],[5.69086600728696,58.57206274937221],[5.69942945477021,58.5723341707843],[5.69953765531739,58.57143673199721],[5.70467565395586,58.57159932142798],[5.70478371964737,58.57070187819272],[5.70649635279324,58.5707560299972],[5.70660436929012,58.56985858540156],[5.70489177896815,58.56980443513879],[5.70521591871534,58.56711210706453],[5.7069283805792,58.56716625270258],[5.70703637161046,58.56626880883204],[5.70532395256106,58.56621466473536],[5.70543198003901,58.56531722258757],[5.70029488058708,58.56515466555504],[5.70018672467637,58.56605210307561],[5.69333715585168,58.56583505233664],[5.69355380376373,58.56404018983318],[5.68328011092188,58.56371398546833],[5.68349724691001,58.56191914225559],[5.68178506750763,58.56186470250299],[5.68145922552526,58.56455696294302],[5.68317153332941,58.5646114073445],[5.68262854936603,58.56909851942339],[5.67920351055545,58.56898959355755],[5.6789861008819,58.5707844334467],[5.68069870347284,58.57083891026286],[5.68059003184612,58.57173633202854],[5.68401533738984,58.57184522406902],[5.68379814622574,58.57364007434182],[5.68551089200741,58.57369449111371]]],"type":"Polygon"}
+}

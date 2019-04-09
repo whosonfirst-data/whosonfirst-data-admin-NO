@@ -1,0 +1,66 @@
+{
+  "id": 1276532683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.95,66.03333,12.95,66.03333",
+    "geom:latitude":66.03333,
+    "geom:longitude":12.95,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1822.0",
+    "gn:asciiname":"Tjaerstad",
+    "gn:country_code":"NO",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3134562,
+    "gn:latitude":66.03333,
+    "gn:longitude":12.95,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Tj\u00e6rstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297535,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3134562
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e9974ab499b7cc35a2f09db408fd5125",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297535,
+            "locality_id":1276532683,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1276532683,
+    "wof:lastmodified":1537008160,
+    "wof:name":"Tjaerstad",
+    "wof:parent_id":1159297535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.95,
+    66.03333,
+    12.95,
+    66.03333
+],
+  "geometry": {"coordinates":[12.95,66.03333000000001],"type":"Point"}
+}

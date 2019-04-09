@@ -1,0 +1,71 @@
+{
+  "id": 1276785169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.55,66.15,12.55,66.15",
+    "geom:latitude":66.15,
+    "geom:longitude":12.55,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1827.0",
+    "gn:asciiname":"Akeroen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3163486,
+    "gn:latitude":66.15,
+    "gn:longitude":12.55,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u00c5ker\u00f8en",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aaker\u00f6en",
+        "\u00c5ker\u00f8en"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297149,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3163486
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c90ff71dc5bd2cd6e7056fcd10061a90",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297149,
+            "locality_id":1276785169,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1276785169,
+    "wof:lastmodified":1537675895,
+    "wof:name":"Akeroen",
+    "wof:parent_id":1159297149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.55,
+    66.15,
+    12.55,
+    66.15
+],
+  "geometry": {"coordinates":[12.55,66.15000000000001],"type":"Point"}
+}

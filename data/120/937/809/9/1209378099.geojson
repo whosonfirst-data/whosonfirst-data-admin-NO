@@ -1,0 +1,68 @@
+{
+  "id": 1209378099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.33537,69.61266,18.33537,69.61266",
+    "geom:latitude":69.61266,
+    "geom:longitude":18.33537,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1902.0",
+    "gn:asciiname":"Synnovjorda",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3134943,
+    "gn:latitude":69.61266,
+    "gn:longitude":18.33537,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Synn\u00f8vjorda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Synn\u00f8vjord",
+        "Synn\u00f6vjord",
+        "Synn\u00f8vjorda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3134943
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"561293c6787e4febbc160f2289323809",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209378099
+        }
+    ],
+    "wof:id":1209378099,
+    "wof:lastmodified":1537675696,
+    "wof:name":"Synnovjorda",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.33537,
+    69.61265999999999,
+    18.33537,
+    69.61265999999999
+],
+  "geometry": {"coordinates":[18.33537,69.61265999999999],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293381835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.4785,59.69347,5.4785,59.69347",
+    "geom:latitude":59.69347,
+    "geom:longitude":5.4785,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1216.0",
+    "gn:asciiname":"Valebygda",
+    "gn:country_code":"NO",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537713,
+    "gn:latitude":59.69347,
+    "gn:longitude":5.4785,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Valebygda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Valebygda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297363,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537713
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d238f1a16a19fa37c934c21cb6eeb585",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297363,
+            "locality_id":1293381835,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1293381835,
+    "wof:lastmodified":1537676025,
+    "wof:name":"Valebygda",
+    "wof:parent_id":1159297363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.4785,
+    59.69347,
+    5.4785,
+    59.69347
+],
+  "geometry": {"coordinates":[5.4785,59.69347],"type":"Point"}
+}

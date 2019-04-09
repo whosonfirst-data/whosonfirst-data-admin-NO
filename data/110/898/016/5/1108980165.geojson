@@ -1,0 +1,107 @@
+{
+  "id": 1108980165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.26667,58.2,8.26667,58.2",
+    "geom:latitude":58.2,
+    "geom:longitude":8.26667,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":58.2,
+    "lbl:longitude":8.26667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Tr\u00f8e"
+    ],
+    "name:eng_x_preferred":[
+        "Tr\u00f8e"
+    ],
+    "name:fre_x_preferred":[
+        "Tr\u00f8e"
+    ],
+    "name:jav_x_preferred":[
+        "Tr\u00f8e"
+    ],
+    "name:may_x_preferred":[
+        "Tr\u00f8e"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0631\u0648\u06cc\u0647\u060c \u0646\u0631\u0648\u0698"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3133986,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Tr\u00f8e",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Aust-Agder Fylke",
+    "qs_pg:photos":41,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":41,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1167511,
+    "qs_pg:qs_pg_placetype":"locality_gp_neighbourhood_gn",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":865141,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Aust-Agder Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297591,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3133986,
+        "qs_pg:id":1167511,
+        "wd:id":"Q7849183",
+        "woe:id":865141
+    },
+    "wof:country":"NO",
+    "wof:created":1496793296,
+    "wof:geomhash":"7d6575b7ded98a2a98f2a57e38c9a218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297591,
+            "locality_id":1108980165,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1108980165,
+    "wof:lastmodified":1529699813,
+    "wof:name":"Tr\u00f8e",
+    "wof:parent_id":1159297591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.26667,
+    58.2,
+    8.26667,
+    58.2
+],
+  "geometry": {"coordinates":[8.26667,58.2],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243038227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.95815,61.58464,5.95815,61.58464",
+    "geom:latitude":61.58464,
+    "geom:longitude":5.95815,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1433.0",
+    "gn:asciiname":"Fimland",
+    "gn:country_code":"NO",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3157647,
+    "gn:latitude":61.58464,
+    "gn:longitude":5.95815,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Fimland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Fimland"
+    ],
+    "name:nor_x_variant":[
+        "Fimlandsgrend"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297179,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3157647
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a2e4325d1454b5723717d7639199f6aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297179,
+            "locality_id":1243038227,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1243038227,
+    "wof:lastmodified":1537675847,
+    "wof:name":"Fimland",
+    "wof:parent_id":1159297179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.95815,
+    61.58464,
+    5.95815,
+    61.58464
+],
+  "geometry": {"coordinates":[5.95815,61.58464],"type":"Point"}
+}

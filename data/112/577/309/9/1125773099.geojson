@@ -1,0 +1,120 @@
+{
+  "id": 1125773099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.22417,59.35556,5.22417,59.35556",
+    "geom:latitude":59.35556,
+    "geom:longitude":5.22417,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":609,
+    "gn:population":609,
+    "iso:country":"NO",
+    "lbl:latitude":59.35556,
+    "lbl:longitude":5.22417,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Visnes"
+    ],
+    "name:eng_x_preferred":[
+        "Visnes"
+    ],
+    "name:epo_x_preferred":[
+        "Visnes"
+    ],
+    "name:fre_x_preferred":[
+        "Visnes"
+    ],
+    "name:jav_x_preferred":[
+        "Visnes"
+    ],
+    "name:may_x_preferred":[
+        "Visnes"
+    ],
+    "name:nno_x_preferred":[
+        "Visnes"
+    ],
+    "name:nob_x_preferred":[
+        "Visnes"
+    ],
+    "name:rum_x_preferred":[
+        "Visnes"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3131500,
+    "qs_pg:gn_pop":609,
+    "qs_pg:name":"Visnes",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Rogaland Fylke",
+    "qs_pg:photos":49,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":49,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1159182,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":865847,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Rogaland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297005,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3131500,
+        "gp:id":865847,
+        "qs_pg:id":1159182,
+        "wd:id":"Q1785155"
+    },
+    "wof:country":"NO",
+    "wof:created":1497290141,
+    "wof:geomhash":"abeed43048281def817f17d9c58cb8c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297005,
+            "locality_id":1125773099,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1125773099,
+    "wof:lastmodified":1529700287,
+    "wof:name":"Visnes",
+    "wof:parent_id":1159297005,
+    "wof:placetype":"locality",
+    "wof:population":609,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.22417,
+    59.35556,
+    5.22417,
+    59.35556
+],
+  "geometry": {"coordinates":[5.22417,59.35556],"type":"Point"}
+}

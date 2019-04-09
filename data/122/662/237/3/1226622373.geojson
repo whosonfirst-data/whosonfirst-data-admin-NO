@@ -1,0 +1,71 @@
+{
+  "id": 1226622373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.52817,59.30466,9.52817,59.30466",
+    "geom:latitude":59.30466,
+    "geom:longitude":9.52817,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"806.0",
+    "gn:asciiname":"Stulen",
+    "gn:country_code":"NO",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537693,
+    "gn:latitude":59.30466,
+    "gn:longitude":9.52817,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Stulen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Stulen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297035,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537693
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"48415536c8d5321ddc0427db6b9d93ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297035,
+            "locality_id":1226622373,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1226622373,
+    "wof:lastmodified":1537676024,
+    "wof:name":"Stulen",
+    "wof:parent_id":1159297035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.52817,
+    59.30466,
+    9.52817,
+    59.30466
+],
+  "geometry": {"coordinates":[9.52817,59.30466],"type":"Point"}
+}

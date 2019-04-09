@@ -1,0 +1,82 @@
+{
+  "id": 1125406817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-04-24",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.92805,59.96146,10.92805,59.96146",
+    "geom:latitude":59.96146,
+    "geom:longitude":10.92805,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"ADMD",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":59.96146,
+    "lbl:longitude":10.92805,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Stovner"
+    ],
+    "name:nor_x_preferred":[
+        "Bydel Stovner"
+    ],
+    "name:nor_x_variant":[
+        "Stovner"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"ADMD",
+    "qs_pg:gn_id":6940984,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Stovner District",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1153886,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191581,
+        85633341,
+        85687089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6940984,
+        "qs_pg:id":1153886
+    },
+    "wof:country":"NO",
+    "wof:created":1497049691,
+    "wof:geomhash":"d675eef8dfbeeb0b137ab9e2f34d1e81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1125406817,
+            "region_id":85687089
+        }
+    ],
+    "wof:id":1125406817,
+    "wof:lastmodified":1524600366,
+    "wof:name":"Stovner District",
+    "wof:parent_id":85687089,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.92805,
+    59.96146,
+    10.92805,
+    59.96146
+],
+  "geometry": {"coordinates":[10.92805,59.96146],"type":"Point"}
+}

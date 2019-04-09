@@ -1,0 +1,67 @@
+{
+  "id": 1209284059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.45,64.05,10.45,64.05",
+    "geom:latitude":64.05,
+    "geom:longitude":10.45,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5018.0",
+    "gn:asciiname":"Bormarka",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3160621,
+    "gn:latitude":64.05,
+    "gn:longitude":10.45,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"B\u00f8rmarka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00f6remark",
+        "B\u00f8rmarka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160621
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"cbb722d47cb498e1c6dc66cd5a8b1526",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209284059
+        }
+    ],
+    "wof:id":1209284059,
+    "wof:lastmodified":1537675871,
+    "wof:name":"Bormarka",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.45,
+    64.05,
+    10.45,
+    64.05
+],
+  "geometry": {"coordinates":[10.45,64.05],"type":"Point"}
+}

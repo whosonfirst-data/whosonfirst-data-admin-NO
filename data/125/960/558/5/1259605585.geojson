@@ -1,0 +1,73 @@
+{
+  "id": 1259605585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.76667,63.08333,7.76667,63.08333",
+    "geom:latitude":63.08333,
+    "geom:longitude":7.76667,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1505.0",
+    "gn:asciiname":"Bolga",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3160791,
+    "gn:latitude":63.08333,
+    "gn:longitude":7.76667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bolga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bolgen",
+        "Bolga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297475,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160791
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"91d0afb2f0c4f2795310c8e7f3d2c06b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297475,
+            "locality_id":1259605585,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1259605585,
+    "wof:lastmodified":1537675872,
+    "wof:name":"Bolga",
+    "wof:parent_id":1159297475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.76667,
+    63.08333,
+    7.76667,
+    63.08333
+],
+  "geometry": {"coordinates":[7.76667,63.08333],"type":"Point"}
+}

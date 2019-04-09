@@ -1,0 +1,73 @@
+{
+  "id": 1293014903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.98333,60.25,10.98333,60.25",
+    "geom:latitude":60.25,
+    "geom:longitude":10.98333,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"238.0",
+    "gn:asciiname":"Valaug",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3132929,
+    "gn:latitude":60.25,
+    "gn:longitude":10.98333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"V\u00e5laug",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vaalaug",
+        "V\u00e5laug"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297073,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3132929
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"adb8db1d6c7e5eb823fc788c9a474881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297073,
+            "locality_id":1293014903,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1293014903,
+    "wof:lastmodified":1537675683,
+    "wof:name":"Valaug",
+    "wof:parent_id":1159297073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.98333,
+    60.25,
+    10.98333,
+    60.25
+],
+  "geometry": {"coordinates":[10.98333,60.25],"type":"Point"}
+}

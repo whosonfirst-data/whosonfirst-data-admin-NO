@@ -1,0 +1,71 @@
+{
+  "id": 1292921221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.65977,59.68398,10.65977,59.68398",
+    "geom:latitude":59.68398,
+    "geom:longitude":10.65977,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"215",
+    "gn:asciiname":"Heer",
+    "gn:country_code":"NO",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404436,
+    "gn:latitude":59.68398,
+    "gn:longitude":10.65977,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Heer",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Heer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297355,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404436
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ac89fe3e86433eb7695bcfde8dd4a294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297355,
+            "locality_id":1292921221,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1292921221,
+    "wof:lastmodified":1537675931,
+    "wof:name":"Heer",
+    "wof:parent_id":1159297355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.65977,
+    59.68398000000001,
+    10.65977,
+    59.68398000000001
+],
+  "geometry": {"coordinates":[10.65977,59.68398000000001],"type":"Point"}
+}

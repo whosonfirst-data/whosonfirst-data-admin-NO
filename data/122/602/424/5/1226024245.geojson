@@ -1,0 +1,68 @@
+{
+  "id": 1226024245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.80524,59.31943,10.80524,59.31943",
+    "geom:latitude":59.31943,
+    "geom:longitude":10.80524,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"135.0",
+    "gn:asciiname":"Tomb",
+    "gn:country_code":"NO",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3134387,
+    "gn:latitude":59.31943,
+    "gn:longitude":10.80524,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Tomb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297257,
+        85633341,
+        85687079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3134387
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"af48ab0ca072e273cd49ff97db8d183e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297257,
+            "locality_id":1226024245,
+            "region_id":85687079
+        }
+    ],
+    "wof:id":1226024245,
+    "wof:lastmodified":1536756301,
+    "wof:name":"Tomb",
+    "wof:parent_id":1159297257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.80524,
+    59.31943,
+    10.80524,
+    59.31943
+],
+  "geometry": {"coordinates":[10.80524,59.31943],"type":"Point"}
+}

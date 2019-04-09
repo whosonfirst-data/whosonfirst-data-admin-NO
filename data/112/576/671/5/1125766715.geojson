@@ -1,0 +1,93 @@
+{
+  "id": 1125766715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.57806,61.05712,6.57806,61.05712",
+    "geom:latitude":61.05712,
+    "geom:longitude":6.57806,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2899,
+    "gn:population":2899,
+    "iso:country":"NO",
+    "lbl:latitude":61.05712,
+    "lbl:longitude":6.57806,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043a"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7288344,
+    "qs_pg:gn_pop":2899,
+    "qs_pg:name":"Vik",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Sogn og Fjordane Fylke",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":266438,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":29305214,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Sogn og Fjordane Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297277,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7288344,
+        "gp:id":29305214,
+        "qs_pg:id":266438
+    },
+    "wof:country":"NO",
+    "wof:created":1497289923,
+    "wof:geomhash":"3d042bcbc32f41930e45e2243adb0d49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297277,
+            "locality_id":1125766715,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1125766715,
+    "wof:lastmodified":1529699935,
+    "wof:name":"Vik",
+    "wof:parent_id":1159297277,
+    "wof:placetype":"locality",
+    "wof:population":2899,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.57806,
+    61.05712,
+    6.57806,
+    61.05712
+],
+  "geometry": {"coordinates":[6.57806,61.05712],"type":"Point"}
+}

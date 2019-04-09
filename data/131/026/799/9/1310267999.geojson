@@ -1,0 +1,71 @@
+{
+  "id": 1310267999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.04943,69.78909,21.04943,69.78909",
+    "geom:latitude":69.78909,
+    "geom:longitude":21.04943,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1942.0",
+    "gn:asciiname":"Flatvoll",
+    "gn:country_code":"NO",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536347,
+    "gn:latitude":69.78909,
+    "gn:longitude":21.04943,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Flatvoll",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Flatvoll"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297593,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536347
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e51eaa40ead2aa9df0ddd0d8b90ed69e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297593,
+            "locality_id":1310267999,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1310267999,
+    "wof:lastmodified":1537675965,
+    "wof:name":"Flatvoll",
+    "wof:parent_id":1159297593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.04943,
+    69.78909,
+    21.04943,
+    69.78909
+],
+  "geometry": {"coordinates":[21.04943,69.78909],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1260272721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33333,67.15,14.33333,67.15",
+    "geom:latitude":67.15,
+    "geom:longitude":14.33333,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1838.0",
+    "gn:asciiname":"Ytre Okslia",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3230684,
+    "gn:latitude":67.15,
+    "gn:longitude":14.33333,
+    "gn:modification_date":"2010-10-15",
+    "gn:name":"Ytre Okslia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296997,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3230684
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b3452a39e5b27475356ec4568b2a9c63",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296997,
+            "locality_id":1260272721,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1260272721,
+    "wof:lastmodified":1536726734,
+    "wof:name":"Ytre Okslia",
+    "wof:parent_id":1159296997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33333,
+    67.15,
+    14.33333,
+    67.15
+],
+  "geometry": {"coordinates":[14.33333,67.15000000000001],"type":"Point"}
+}

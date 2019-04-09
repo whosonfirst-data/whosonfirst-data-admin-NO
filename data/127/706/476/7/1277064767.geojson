@@ -1,0 +1,68 @@
+{
+  "id": 1277064767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.91667,61.58333,9.91667,61.58333",
+    "geom:latitude":61.58333,
+    "geom:longitude":9.91667,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"519.0",
+    "gn:asciiname":"Korstad",
+    "gn:country_code":"NO",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3149459,
+    "gn:latitude":61.58333,
+    "gn:longitude":9.91667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Korstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297243,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3149459
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2b928152a2ca36448df97bca1b65c823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297243,
+            "locality_id":1277064767,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1277064767,
+    "wof:lastmodified":1536793485,
+    "wof:name":"Korstad",
+    "wof:parent_id":1159297243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.91667,
+    61.58333,
+    9.91667,
+    61.58333
+],
+  "geometry": {"coordinates":[9.91667,61.58333],"type":"Point"}
+}

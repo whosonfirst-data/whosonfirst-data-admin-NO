@@ -1,0 +1,74 @@
+{
+  "id": 1259567113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.48419,63.77319,10.48419,63.77319",
+    "geom:latitude":63.77319,
+    "geom:longitude":10.48419,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5039.0",
+    "gn:asciiname":"Orsjodalen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3143344,
+    "gn:latitude":63.77319,
+    "gn:longitude":10.48419,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"\u00d8rsj\u00f8dalen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00d8rsidalen",
+        "\u00d6rsiden",
+        "\u00d8rsj\u00f8dal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297077,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3143344
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"eb3c244ef4211b333f21bf5cb8f02a97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297077,
+            "locality_id":1259567113,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1259567113,
+    "wof:lastmodified":1537675750,
+    "wof:name":"Orsjodalen",
+    "wof:parent_id":1159297077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.48419,
+    63.77319,
+    10.48419,
+    63.77319
+],
+  "geometry": {"coordinates":[10.48419,63.77319],"type":"Point"}
+}

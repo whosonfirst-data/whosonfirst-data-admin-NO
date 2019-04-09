@@ -1,0 +1,68 @@
+{
+  "id": 1327005897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.05,69.8,21.05,69.8",
+    "geom:latitude":69.8,
+    "geom:longitude":21.05,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1942.0",
+    "gn:asciiname":"Nordkjosbotn",
+    "gn:country_code":"NO",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":778455,
+    "gn:latitude":69.8,
+    "gn:longitude":21.05,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Nordkjosbotn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297593,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":778455
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c3f0ae5646059c20dda8d1f87d24029e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297593,
+            "locality_id":1327005897,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1327005897,
+    "wof:lastmodified":1536798887,
+    "wof:name":"Nordkjosbotn",
+    "wof:parent_id":1159297593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.05,
+    69.8,
+    21.05,
+    69.8
+],
+  "geometry": {"coordinates":[21.05,69.8],"type":"Point"}
+}

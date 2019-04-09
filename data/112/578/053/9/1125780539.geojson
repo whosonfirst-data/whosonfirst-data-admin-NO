@@ -1,0 +1,120 @@
+{
+  "id": 1125780539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.7,61.66667,9.7,61.66667",
+    "geom:latitude":61.66667,
+    "geom:longitude":9.7,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":844,
+    "gn:population":844,
+    "iso:country":"NO",
+    "lbl:latitude":61.66667,
+    "lbl:longitude":9.7,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Kvam"
+    ],
+    "name:eng_x_preferred":[
+        "Kvam"
+    ],
+    "name:fre_x_preferred":[
+        "Kvam"
+    ],
+    "name:jav_x_preferred":[
+        "Kvam"
+    ],
+    "name:lim_x_preferred":[
+        "Kvam"
+    ],
+    "name:may_x_preferred":[
+        "Kvam"
+    ],
+    "name:nno_x_preferred":[
+        "Kvam i Gudbrandsdalen"
+    ],
+    "name:nob_x_preferred":[
+        "Kvam"
+    ],
+    "name:rum_x_preferred":[
+        "Kvam"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3149009,
+    "qs_pg:gn_pop":844,
+    "qs_pg:name":"Kvam",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Oppland Fylke",
+    "qs_pg:photos":109,
+    "qs_pg:photos_1k":22,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":109,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1325050,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":860925,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Oppland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297033,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3149009,
+        "gp:id":860925,
+        "qs_pg:id":1325050,
+        "wd:id":"Q1772293"
+    },
+    "wof:country":"NO",
+    "wof:created":1497290451,
+    "wof:geomhash":"362f49832e275c6bbe8d53ae04f13b4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297033,
+            "locality_id":1125780539,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1125780539,
+    "wof:lastmodified":1529700237,
+    "wof:name":"Kvam",
+    "wof:parent_id":1159297033,
+    "wof:placetype":"locality",
+    "wof:population":844,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.7,
+    61.66667,
+    9.7,
+    61.66667
+],
+  "geometry": {"coordinates":[9.7,61.66667],"type":"Point"}
+}

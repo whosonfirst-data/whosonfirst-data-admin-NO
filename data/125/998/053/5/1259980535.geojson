@@ -1,0 +1,68 @@
+{
+  "id": 1259980535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.56537,60.86114,8.56537,60.86114",
+    "geom:latitude":60.86114,
+    "geom:longitude":8.56537,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"618.0",
+    "gn:asciiname":"Troim",
+    "gn:country_code":"NO",
+    "gn:dem":620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":7626339,
+    "gn:latitude":60.86114,
+    "gn:longitude":8.56537,
+    "gn:modification_date":"2010-12-07",
+    "gn:name":"Tr\u00f8im",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297473,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626339
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"02454fd5e1b33f49aa2833b85d14b736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297473,
+            "locality_id":1259980535,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1259980535,
+    "wof:lastmodified":1536638344,
+    "wof:name":"Troim",
+    "wof:parent_id":1159297473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.56537,
+    60.86114,
+    8.56537,
+    60.86114
+],
+  "geometry": {"coordinates":[8.56537,60.86114],"type":"Point"}
+}

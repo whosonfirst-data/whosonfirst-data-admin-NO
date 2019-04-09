@@ -1,0 +1,68 @@
+{
+  "id": 1225953033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.03333,58.86667,9.03333,58.86667",
+    "geom:latitude":58.86667,
+    "geom:longitude":9.03333,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"911.0",
+    "gn:asciiname":"Hoggto",
+    "gn:country_code":"NO",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3152418,
+    "gn:latitude":58.86667,
+    "gn:longitude":9.03333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"H\u00f8ggto",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296731,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3152418
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3e4bc24272a0998be0d553e159dd10e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296731,
+            "locality_id":1225953033,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1225953033,
+    "wof:lastmodified":1536857439,
+    "wof:name":"Hoggto",
+    "wof:parent_id":1159296731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.03333,
+    58.86666999999999,
+    9.03333,
+    58.86666999999999
+],
+  "geometry": {"coordinates":[9.03333,58.86666999999999],"type":"Point"}
+}

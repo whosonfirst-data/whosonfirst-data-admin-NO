@@ -1,0 +1,129 @@
+{
+  "id": 1125879819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.33333,60.06667,10.33333,60.06667",
+    "geom:latitude":60.06667,
+    "geom:longitude":10.33333,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":718,
+    "gn:population":718,
+    "iso:country":"NO",
+    "lbl:latitude":60.06667,
+    "lbl:longitude":10.33333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0421\u0443\u043d\u0434\u0432\u043e\u043b\u0435\u043d"
+    ],
+    "name:dut_x_preferred":[
+        "Sundvollen"
+    ],
+    "name:eng_x_preferred":[
+        "Sundvollen"
+    ],
+    "name:fre_x_preferred":[
+        "Sundvollen"
+    ],
+    "name:ger_x_preferred":[
+        "Sundvollen"
+    ],
+    "name:jav_x_preferred":[
+        "Sundvollen"
+    ],
+    "name:may_x_preferred":[
+        "Sundvollen"
+    ],
+    "name:nno_x_preferred":[
+        "Sundvollen"
+    ],
+    "name:nob_x_preferred":[
+        "Sundvollen"
+    ],
+    "name:rum_x_preferred":[
+        "Sundvollen"
+    ],
+    "name:swe_x_preferred":[
+        "Sundvollen"
+    ],
+    "name:unk_x_variant":[
+        "Sundvolden"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3135392,
+    "qs_pg:gn_pop":718,
+    "qs_pg:name":"Sundvollen",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Buskerud Fylke",
+    "qs_pg:photos":19,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":19,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":466009,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":864748,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Buskerud Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296811,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3135392,
+        "gp:id":864748,
+        "qs_pg:id":466009,
+        "wd:id":"Q2385157"
+    },
+    "wof:country":"NO",
+    "wof:created":1497294742,
+    "wof:geomhash":"ae98e27fe56f4202995fb464f3debfe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296811,
+            "locality_id":1125879819,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1125879819,
+    "wof:lastmodified":1529699843,
+    "wof:name":"Sundvollen",
+    "wof:parent_id":1159296811,
+    "wof:placetype":"locality",
+    "wof:population":718,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.33333,
+    60.06667,
+    10.33333,
+    60.06667
+],
+  "geometry": {"coordinates":[10.33333,60.06667],"type":"Point"}
+}

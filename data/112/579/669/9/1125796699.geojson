@@ -1,0 +1,117 @@
+{
+  "id": 1125796699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.38333,65.16667,13.38333,65.16667",
+    "geom:latitude":65.16667,
+    "geom:longitude":13.38333,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":65.16667,
+    "lbl:longitude":13.38333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Majavatn"
+    ],
+    "name:eng_x_preferred":[
+        "Majavatn"
+    ],
+    "name:fre_x_preferred":[
+        "Majavatn"
+    ],
+    "name:jav_x_preferred":[
+        "Majavatn"
+    ],
+    "name:may_x_preferred":[
+        "Majavatn"
+    ],
+    "name:nno_x_preferred":[
+        "Majavatnet"
+    ],
+    "name:nob_x_preferred":[
+        "Majavatn"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u044f\u0432\u0430\u0442\u043d"
+    ],
+    "name:sma_x_preferred":[
+        "Maajehjaevrie"
+    ],
+    "name:unk_x_variant":[
+        "Majavatnet"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3146530,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Majavatn",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nordland Fylke",
+    "qs_pg:photos":21,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":21,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":271047,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":861621,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Nordland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159297571,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3146530,
+        "gp:id":861621,
+        "qs_pg:id":271047,
+        "wd:id":"Q2559855"
+    },
+    "wof:country":"NO",
+    "wof:created":1497291082,
+    "wof:geomhash":"a36e5aa30b32bcad235ff781d6f69483",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297571,
+            "locality_id":1125796699,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1125796699,
+    "wof:lastmodified":1529700172,
+    "wof:name":"Majavatn",
+    "wof:parent_id":1159297571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.38333,
+    65.16667,
+    13.38333,
+    65.16667
+],
+  "geometry": {"coordinates":[13.38333,65.16667],"type":"Point"}
+}

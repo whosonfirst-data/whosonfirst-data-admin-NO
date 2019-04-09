@@ -1,0 +1,71 @@
+{
+  "id": 1310080097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.30446,59.137,10.30446,59.137",
+    "geom:latitude":59.137,
+    "geom:longitude":10.30446,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"710",
+    "gn:asciiname":"Revebasen",
+    "gn:country_code":"NO",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9403928,
+    "gn:latitude":59.137,
+    "gn:longitude":10.30446,
+    "gn:modification_date":"2017-09-20",
+    "gn:name":"Reveb\u00e5sen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Reveb\u00e5sen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297193,
+        85633341,
+        85687073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9403928
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"cbbf523a5e00f547c738be749fd8ef36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297193,
+            "locality_id":1310080097,
+            "region_id":85687073
+        }
+    ],
+    "wof:id":1310080097,
+    "wof:lastmodified":1537675910,
+    "wof:name":"Revebasen",
+    "wof:parent_id":1159297193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.30446,
+    59.137,
+    10.30446,
+    59.137
+],
+  "geometry": {"coordinates":[10.30446,59.137],"type":"Point"}
+}

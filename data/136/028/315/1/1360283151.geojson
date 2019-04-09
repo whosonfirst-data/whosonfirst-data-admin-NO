@@ -1,0 +1,71 @@
+{
+  "id": 1360283151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.33808,62.67074,6.33808,62.67074",
+    "geom:latitude":62.67074,
+    "geom:longitude":6.33808,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1534.0",
+    "gn:asciiname":"Nogva",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536096,
+    "gn:latitude":62.67074,
+    "gn:longitude":6.33808,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Nogva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Nogva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296865,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536096
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"fb9b060c3919f55ea4b5c78ae157314c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296865,
+            "locality_id":1360283151,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1360283151,
+    "wof:lastmodified":1537675954,
+    "wof:name":"Nogva",
+    "wof:parent_id":1159296865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.33808,
+    62.67074,
+    6.33808,
+    62.67074
+],
+  "geometry": {"coordinates":[6.33808,62.67074],"type":"Point"}
+}

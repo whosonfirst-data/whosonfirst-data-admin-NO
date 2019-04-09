@@ -1,0 +1,73 @@
+{
+  "id": 1243348841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.98333,62.98333,8.98333,62.98333",
+    "geom:latitude":62.98333,
+    "geom:longitude":8.98333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1566.0",
+    "gn:asciiname":"Rov",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141132,
+    "gn:latitude":62.98333,
+    "gn:longitude":8.98333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"R\u00f8v",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00f6vsklen",
+        "R\u00f8v"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297613,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141132
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"82afd4bc900dd80ca7c6e602aecd6224",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297613,
+            "locality_id":1243348841,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1243348841,
+    "wof:lastmodified":1537675735,
+    "wof:name":"Rov",
+    "wof:parent_id":1159297613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.98333,
+    62.98333,
+    8.98333,
+    62.98333
+],
+  "geometry": {"coordinates":[8.98333,62.98333],"type":"Point"}
+}

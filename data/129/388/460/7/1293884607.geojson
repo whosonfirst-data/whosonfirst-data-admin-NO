@@ -1,0 +1,68 @@
+{
+  "id": 1293884607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.82975,60.88324,8.82975,60.88324",
+    "geom:latitude":60.88324,
+    "geom:longitude":8.82975,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"618.0",
+    "gn:asciiname":"Lykkja",
+    "gn:country_code":"NO",
+    "gn:dem":833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3146695,
+    "gn:latitude":60.88324,
+    "gn:longitude":8.82975,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Lykkja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297473,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3146695
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c9f759f8f893fb7566eb1033449922ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297473,
+            "locality_id":1293884607,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1293884607,
+    "wof:lastmodified":1536712056,
+    "wof:name":"Lykkja",
+    "wof:parent_id":1159297473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.82975,
+    60.88324,
+    8.82975,
+    60.88324
+],
+  "geometry": {"coordinates":[8.82975,60.88324],"type":"Point"}
+}

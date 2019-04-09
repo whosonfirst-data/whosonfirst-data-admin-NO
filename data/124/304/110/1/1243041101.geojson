@@ -1,0 +1,71 @@
+{
+  "id": 1243041101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.38564,62.03804,5.38564,62.03804",
+    "geom:latitude":62.03804,
+    "geom:longitude":5.38564,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1441.0",
+    "gn:asciiname":"Berge Ovre",
+    "gn:country_code":"NO",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537048,
+    "gn:latitude":62.03804,
+    "gn:longitude":5.38564,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Berge \u00d8vre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Berge \u00d8vre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296915,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537048
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"545ef3b3c1f5523b7ad8b03fa57ad247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296915,
+            "locality_id":1243041101,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1243041101,
+    "wof:lastmodified":1537675994,
+    "wof:name":"Berge Ovre",
+    "wof:parent_id":1159296915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.38564,
+    62.03804,
+    5.38564,
+    62.03804
+],
+  "geometry": {"coordinates":[5.38564,62.03804],"type":"Point"}
+}

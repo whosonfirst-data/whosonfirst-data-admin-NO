@@ -1,0 +1,73 @@
+{
+  "id": 1326992627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.75,58.76667,6.75,58.76667",
+    "geom:latitude":58.76667,
+    "geom:longitude":6.75,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1046.0",
+    "gn:asciiname":"Linland",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3147381,
+    "gn:latitude":58.76667,
+    "gn:longitude":6.75,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Linland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lindeland",
+        "Linland"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297553,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3147381
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"99c45f4e0e6c1630046b86edff026aa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297553,
+            "locality_id":1326992627,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1326992627,
+    "wof:lastmodified":1537675777,
+    "wof:name":"Linland",
+    "wof:parent_id":1159297553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.75,
+    58.76667,
+    6.75,
+    58.76667
+],
+  "geometry": {"coordinates":[6.75,58.76667],"type":"Point"}
+}

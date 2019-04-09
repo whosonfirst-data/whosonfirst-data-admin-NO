@@ -1,0 +1,72 @@
+{
+  "id": 1226326867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.75999,66.98949,14.75999,66.98949",
+    "geom:latitude":66.98949,
+    "geom:longitude":14.75999,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1839.0",
+    "gn:asciiname":"Storjorda",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3136162,
+    "gn:latitude":66.98949,
+    "gn:longitude":14.75999,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Storjorda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Storjord",
+        "Storjorden",
+        "Storjorda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297265,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3136162
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"08082b10a0225fa4e9cdd5f9c355a567",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297265,
+            "locality_id":1226326867,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1226326867,
+    "wof:lastmodified":1537675703,
+    "wof:name":"Storjorda",
+    "wof:parent_id":1159297265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.75999,
+    66.98949,
+    14.75999,
+    66.98949
+],
+  "geometry": {"coordinates":[14.75999,66.98949],"type":"Point"}
+}

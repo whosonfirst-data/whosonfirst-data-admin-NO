@@ -1,0 +1,71 @@
+{
+  "id": 1260077047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.22097,60.36205,5.22097,60.36205",
+    "geom:latitude":60.36205,
+    "geom:longitude":5.22097,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1201",
+    "gn:asciiname":"Vadmyra",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404503,
+    "gn:latitude":60.36205,
+    "gn:longitude":5.22097,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Vadmyra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Vadmyra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297617,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404503
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"76ebfb0da2ba512dce50fb7ba9ceaeaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":1260077047,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1260077047,
+    "wof:lastmodified":1537675933,
+    "wof:name":"Vadmyra",
+    "wof:parent_id":1159297617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.22097,
+    60.36205,
+    5.22097,
+    60.36205
+],
+  "geometry": {"coordinates":[5.22097,60.36205],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226237559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.89814,64.18373,11.89814,64.18373",
+    "geom:latitude":64.18373,
+    "geom:longitude":11.89814,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5004.0",
+    "gn:asciiname":"Ovre Rygg",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3140827,
+    "gn:latitude":64.18373,
+    "gn:longitude":11.89814,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"\u00d8vre Rygg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d8vre Rygg"
+    ],
+    "name:und_x_variant":[
+        "Ryg",
+        "Rygg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296907,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3140827
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6b5de7b381bafe4dd8988b03ba899680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296907,
+            "locality_id":1226237559,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1226237559,
+    "wof:lastmodified":1537675732,
+    "wof:name":"Ovre Rygg",
+    "wof:parent_id":1159296907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.89814,
+    64.18373000000001,
+    11.89814,
+    64.18373000000001
+],
+  "geometry": {"coordinates":[11.89814,64.18373000000001],"type":"Point"}
+}

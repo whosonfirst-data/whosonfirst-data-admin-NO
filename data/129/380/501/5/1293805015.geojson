@@ -1,0 +1,68 @@
+{
+  "id": 1293805015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.28333,59.53333,5.28333,59.53333",
+    "geom:latitude":59.53333,
+    "geom:longitude":5.28333,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1216.0",
+    "gn:asciiname":"Vandaskog",
+    "gn:country_code":"NO",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3132779,
+    "gn:latitude":59.53333,
+    "gn:longitude":5.28333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Vandaskog",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297363,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3132779
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"fb1eec177bb0f6483f2384ec51221adb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297363,
+            "locality_id":1293805015,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1293805015,
+    "wof:lastmodified":1536825527,
+    "wof:name":"Vandaskog",
+    "wof:parent_id":1159297363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.28333,
+    59.53333000000001,
+    5.28333,
+    59.53333000000001
+],
+  "geometry": {"coordinates":[5.28333,59.53333000000001],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1226265497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.54861,70.75306,24.54861,70.75306",
+    "geom:latitude":70.75306,
+    "geom:longitude":24.54861,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2018.0",
+    "gn:asciiname":"Muotki",
+    "gn:country_code":"NO",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":777640,
+    "gn:latitude":70.75306,
+    "gn:longitude":24.54861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Muotki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Muotki"
+    ],
+    "name:nor_x_preferred":[
+        "Sl\u00e5tten"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u043e\u0442\u0442\u0435\u043d"
+    ],
+    "name:sme_x_preferred":[
+        "Muotki"
+    ],
+    "name:und_x_variant":[
+        "Slotten",
+        "Sletten"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297565,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":777640,
+        "wk:page":"Sl%C3%A5tten"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"91a1608ded88b9da5965ed7946837e52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297565,
+            "locality_id":1226265497,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1226265497,
+    "wof:lastmodified":1537675644,
+    "wof:name":"Muotki",
+    "wof:parent_id":1159297565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.54861,
+    70.75305999999998,
+    24.54861,
+    70.75305999999998
+],
+  "geometry": {"coordinates":[24.54861,70.75305999999998],"type":"Point"}
+}

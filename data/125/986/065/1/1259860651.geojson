@@ -1,0 +1,71 @@
+{
+  "id": 1259860651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.20646,61.16177,10.20646,61.16177",
+    "geom:latitude":61.16177,
+    "geom:longitude":10.20646,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"501.0",
+    "gn:asciiname":"Rindasen",
+    "gn:country_code":"NO",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535852,
+    "gn:latitude":61.16177,
+    "gn:longitude":10.20646,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Rind\u00e5sen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Rind\u00e5sen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297519,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535852
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"56750daf3e1ab0c80ee3c6d45fc46a14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297519,
+            "locality_id":1259860651,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1259860651,
+    "wof:lastmodified":1537675944,
+    "wof:name":"Rindasen",
+    "wof:parent_id":1159297519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.20646,
+    61.16177,
+    10.20646,
+    61.16177
+],
+  "geometry": {"coordinates":[10.20646,61.16177],"type":"Point"}
+}

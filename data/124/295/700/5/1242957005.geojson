@@ -1,0 +1,71 @@
+{
+  "id": 1242957005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.80305,63.50691,10.80305,63.50691",
+    "geom:latitude":63.50691,
+    "geom:longitude":10.80305,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5035.0",
+    "gn:asciiname":"Maera",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536545,
+    "gn:latitude":63.50691,
+    "gn:longitude":10.80305,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"M\u00e6ra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "M\u00e6ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296711,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536545
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e4dbfbc17d0d0f3a80ad53c34f535f78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296711,
+            "locality_id":1242957005,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1242957005,
+    "wof:lastmodified":1537675973,
+    "wof:name":"Maera",
+    "wof:parent_id":1159296711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.80305,
+    63.50691,
+    10.80305,
+    63.50691
+],
+  "geometry": {"coordinates":[10.80305,63.50691],"type":"Point"}
+}

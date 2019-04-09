@@ -1,0 +1,71 @@
+{
+  "id": 1209918229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.47446,60.16741,11.47446,60.16741",
+    "geom:latitude":60.16741,
+    "geom:longitude":11.47446,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"236.0",
+    "gn:asciiname":"Uvesund",
+    "gn:country_code":"NO",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537893,
+    "gn:latitude":60.16741,
+    "gn:longitude":11.47446,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Uvesund",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Uvesund"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297349,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537893
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6c3a59a9ebf24bce4379829be64e344c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297349,
+            "locality_id":1209918229,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1209918229,
+    "wof:lastmodified":1537676032,
+    "wof:name":"Uvesund",
+    "wof:parent_id":1159297349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.47446,
+    60.16741,
+    11.47446,
+    60.16741
+],
+  "geometry": {"coordinates":[11.47446,60.16741],"type":"Point"}
+}

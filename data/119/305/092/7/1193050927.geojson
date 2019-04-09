@@ -1,0 +1,68 @@
+{
+  "id": 1193050927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.76667,60.76667,8.76667,60.76667",
+    "geom:latitude":60.76667,
+    "geom:longitude":8.76667,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"617.0",
+    "gn:asciiname":"Granheim",
+    "gn:country_code":"NO",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3155281,
+    "gn:latitude":60.76667,
+    "gn:longitude":8.76667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Granheim",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297373,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3155281
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"797ab3cd2abd391b9abc1239c65c318f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297373,
+            "locality_id":1193050927,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1193050927,
+    "wof:lastmodified":1536366172,
+    "wof:name":"Granheim",
+    "wof:parent_id":1159297373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.76667,
+    60.76667,
+    8.76667,
+    60.76667
+],
+  "geometry": {"coordinates":[8.76667,60.76667],"type":"Point"}
+}

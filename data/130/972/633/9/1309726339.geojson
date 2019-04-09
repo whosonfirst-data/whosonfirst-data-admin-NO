@@ -1,0 +1,68 @@
+{
+  "id": 1309726339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.1,59.73333,11.1,59.73333",
+    "geom:latitude":59.73333,
+    "geom:longitude":11.1,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"229.0",
+    "gn:asciiname":"Omberg",
+    "gn:country_code":"NO",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3143561,
+    "gn:latitude":59.73333,
+    "gn:longitude":11.1,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Omberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297449,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3143561
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c83aae8dc7d82ad00fbe95cbf95db9ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297449,
+            "locality_id":1309726339,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1309726339,
+    "wof:lastmodified":1537043757,
+    "wof:name":"Omberg",
+    "wof:parent_id":1159297449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.1,
+    59.73333,
+    11.1,
+    59.73333
+],
+  "geometry": {"coordinates":[11.1,59.73333],"type":"Point"}
+}

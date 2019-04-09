@@ -1,0 +1,74 @@
+{
+  "id": 1276836027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.4687,69.37812,18.4687,69.37812",
+    "geom:latitude":69.37812,
+    "geom:longitude":18.4687,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1931.0",
+    "gn:asciiname":"Malsjord",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3146476,
+    "gn:latitude":69.37812,
+    "gn:longitude":18.4687,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"M\u00e5lsjord",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mols",
+        "Maalsjord",
+        "M\u00e5lsjorda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297333,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3146476
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3e899549aa67922177eeee135aba05e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297333,
+            "locality_id":1276836027,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1276836027,
+    "wof:lastmodified":1537675771,
+    "wof:name":"Malsjord",
+    "wof:parent_id":1159297333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.4687,
+    69.37812,
+    18.4687,
+    69.37812
+],
+  "geometry": {"coordinates":[18.4687,69.37812],"type":"Point"}
+}

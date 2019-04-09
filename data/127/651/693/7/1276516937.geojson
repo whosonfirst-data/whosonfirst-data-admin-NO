@@ -1,0 +1,71 @@
+{
+  "id": 1276516937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.29276,64.23491,10.29276,64.23491",
+    "geom:latitude":64.23491,
+    "geom:longitude":10.29276,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5019.0",
+    "gn:asciiname":"Storvika",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3135901,
+    "gn:latitude":64.23491,
+    "gn:longitude":10.29276,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Storvika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Storvik",
+        "Storvika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297423,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3135901
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a05b49eba776547d35ec422b0b282203",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297423,
+            "locality_id":1276516937,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1276516937,
+    "wof:lastmodified":1537675702,
+    "wof:name":"Storvika",
+    "wof:parent_id":1159297423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.29276,
+    64.23491,
+    10.29276,
+    64.23491
+],
+  "geometry": {"coordinates":[10.29276,64.23491],"type":"Point"}
+}

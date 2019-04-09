@@ -1,0 +1,73 @@
+{
+  "id": 1193254193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.39699,69.7767,19.39699,69.7767",
+    "geom:latitude":69.7767,
+    "geom:longitude":19.39699,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1902.0",
+    "gn:asciiname":"Skittenelv",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3139005,
+    "gn:latitude":69.7767,
+    "gn:longitude":19.39699,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Skittenelv",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Skitenelv",
+        "Skitnelv"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297187,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3139005
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4e9161420fa2a77efb68445690b60462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297187,
+            "locality_id":1193254193,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1193254193,
+    "wof:lastmodified":1537675720,
+    "wof:name":"Skittenelv",
+    "wof:parent_id":1159297187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.39699,
+    69.7767,
+    19.39699,
+    69.7767
+],
+  "geometry": {"coordinates":[19.39699,69.77670000000001],"type":"Point"}
+}

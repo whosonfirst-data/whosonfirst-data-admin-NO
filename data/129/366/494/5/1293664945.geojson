@@ -1,0 +1,72 @@
+{
+  "id": 1293664945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.44088,69.51579,17.44088,69.51579",
+    "geom:latitude":69.51579,
+    "geom:longitude":17.44088,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1929.0",
+    "gn:asciiname":"Mefjordvaer",
+    "gn:country_code":"NO",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3146220,
+    "gn:latitude":69.51579,
+    "gn:longitude":17.44088,
+    "gn:modification_date":"2013-07-13",
+    "gn:name":"Mefjordv\u00e6r",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mefjordv\u00e6r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297625,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3146220,
+        "wk:page":"Mefjordv%C3%A6r"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f78340dec867f8fa190da28012420553",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297625,
+            "locality_id":1293664945,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1293664945,
+    "wof:lastmodified":1537675768,
+    "wof:name":"Mefjordvaer",
+    "wof:parent_id":1159297625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.44088,
+    69.51579,
+    17.44088,
+    69.51579
+],
+  "geometry": {"coordinates":[17.44088,69.51579],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242859875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.06686,62.06764,6.06686,62.06764",
+    "geom:latitude":62.06764,
+    "geom:longitude":6.06686,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1519.0",
+    "gn:asciiname":"Straumshamn",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3135694,
+    "gn:latitude":62.06764,
+    "gn:longitude":6.06686,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Straumshamn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Straums",
+        "Straumshavn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297487,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3135694,
+        "wk:page":"Straumshamn"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ced4379324babb7e97af965454061049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297487,
+            "locality_id":1242859875,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1242859875,
+    "wof:lastmodified":1537675700,
+    "wof:name":"Straumshamn",
+    "wof:parent_id":1159297487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.06686,
+    62.06764,
+    6.06686,
+    62.06764
+],
+  "geometry": {"coordinates":[6.06686,62.06764],"type":"Point"}
+}

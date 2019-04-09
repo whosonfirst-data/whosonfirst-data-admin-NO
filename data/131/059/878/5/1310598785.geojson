@@ -1,0 +1,68 @@
+{
+  "id": 1310598785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.6251,62.16623,10.6251,62.16623",
+    "geom:latitude":62.16623,
+    "geom:longitude":10.6251,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"438.0",
+    "gn:asciiname":"Brandvalen",
+    "gn:country_code":"NO",
+    "gn:dem":800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3160400,
+    "gn:latitude":62.16623,
+    "gn:longitude":10.6251,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Brandv\u00e5len",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296891,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160400
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"cde1461a72d60c6146fb280873fbe8d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296891,
+            "locality_id":1310598785,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1310598785,
+    "wof:lastmodified":1536782902,
+    "wof:name":"Brandvalen",
+    "wof:parent_id":1159296891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.6251,
+    62.16623000000001,
+    10.6251,
+    62.16623000000001
+],
+  "geometry": {"coordinates":[10.6251,62.16623000000001],"type":"Point"}
+}

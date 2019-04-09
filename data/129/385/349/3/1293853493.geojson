@@ -1,0 +1,69 @@
+{
+  "id": 1293853493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.66667,63.61667,8.66667,63.61667",
+    "geom:latitude":63.61667,
+    "geom:longitude":8.66667,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5013.0",
+    "gn:asciiname":"Risnes",
+    "gn:country_code":"NO",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141750,
+    "gn:latitude":63.61667,
+    "gn:longitude":8.66667,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Risnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Risnes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297259,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141750
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"909b9a0dba186e74c8c03910f7470726",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297259,
+            "locality_id":1293853493,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1293853493,
+    "wof:lastmodified":1537675739,
+    "wof:name":"Risnes",
+    "wof:parent_id":1159297259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.66667,
+    63.61666999999999,
+    8.66667,
+    63.61666999999999
+],
+  "geometry": {"coordinates":[8.66667,63.61666999999999],"type":"Point"}
+}

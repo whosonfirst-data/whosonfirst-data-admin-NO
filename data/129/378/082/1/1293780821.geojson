@@ -1,0 +1,69 @@
+{
+  "id": 1293780821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.87587,60.52984,4.87587,60.52984",
+    "geom:latitude":60.52984,
+    "geom:longitude":4.87587,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1259.0",
+    "gn:asciiname":"Blomvag",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3241072,
+    "gn:latitude":60.52984,
+    "gn:longitude":4.87587,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Blomv\u00e5g",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297547,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3241072,
+        "wk:page":"Blomv%C3%A5g"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5aced79fb040a0c0624b912f65b193e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297547,
+            "locality_id":1293780821,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1293780821,
+    "wof:lastmodified":1537570111,
+    "wof:name":"Blomvag",
+    "wof:parent_id":1159297547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.87587,
+    60.52984,
+    4.87587,
+    60.52984
+],
+  "geometry": {"coordinates":[4.87587,60.52984],"type":"Point"}
+}

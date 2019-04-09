@@ -1,0 +1,74 @@
+{
+  "id": 1276218411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.89833,60.70583,4.89833,60.70583",
+    "geom:latitude":60.70583,
+    "geom:longitude":4.89833,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1260.0",
+    "gn:asciiname":"Maroy",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3146344,
+    "gn:latitude":60.70583,
+    "gn:longitude":4.89833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mar\u00f8y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maroen",
+        "Maro",
+        "Mar\u00f8y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297557,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3146344
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"00d6bd81b44ab0e377fe4cb0b0c62389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297557,
+            "locality_id":1276218411,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1276218411,
+    "wof:lastmodified":1537675770,
+    "wof:name":"Maroy",
+    "wof:parent_id":1159297557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.89833,
+    60.70583000000001,
+    4.89833,
+    60.70583000000001
+],
+  "geometry": {"coordinates":[4.89833,60.70583000000001],"type":"Point"}
+}

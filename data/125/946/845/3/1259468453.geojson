@@ -1,0 +1,72 @@
+{
+  "id": 1259468453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.68861,62.81806,8.68861,62.81806",
+    "geom:latitude":62.81806,
+    "geom:longitude":8.68861,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1566.0",
+    "gn:asciiname":"Todalsora",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3134443,
+    "gn:latitude":62.81806,
+    "gn:longitude":8.68861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Todals\u00f8ra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Todals\u00f8ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297613,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3134443,
+        "wk:page":"Todals%C3%B8ra"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"61f79257fb0a193c165212a79606c17f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297613,
+            "locality_id":1259468453,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1259468453,
+    "wof:lastmodified":1537675693,
+    "wof:name":"Todalsora",
+    "wof:parent_id":1159297613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.68861,
+    62.81806,
+    8.68861,
+    62.81806
+],
+  "geometry": {"coordinates":[8.68861,62.81806],"type":"Point"}
+}

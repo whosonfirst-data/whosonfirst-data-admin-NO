@@ -1,0 +1,69 @@
+{
+  "id": 1326999693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.25309,62.84627,11.25309,62.84627",
+    "geom:latitude":62.84627,
+    "geom:longitude":11.25309,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5026.0",
+    "gn:asciiname":"Kvelva",
+    "gn:country_code":"NO",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536969,
+    "gn:latitude":62.84627,
+    "gn:longitude":11.25309,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Kvelva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Kvelva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296983,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536969
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1ee497bc11e3c8c7f700c67ab3aeae8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296983,
+            "locality_id":1326999693,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1326999693,
+    "wof:lastmodified":1537675991,
+    "wof:name":"Kvelva",
+    "wof:parent_id":1159296983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.25309,
+    62.84627,
+    11.25309,
+    62.84627
+],
+  "geometry": {"coordinates":[11.25309,62.84627],"type":"Point"}
+}

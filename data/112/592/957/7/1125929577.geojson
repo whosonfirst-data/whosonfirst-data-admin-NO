@@ -1,0 +1,111 @@
+{
+  "id": 1125929577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.13333,69.01667,15.13333,69.01667",
+    "geom:latitude":69.01667,
+    "geom:longitude":15.13333,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":69.01667,
+    "lbl:longitude":15.13333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "St\u00f8"
+    ],
+    "name:eng_x_preferred":[
+        "St\u00f8"
+    ],
+    "name:fre_x_preferred":[
+        "St\u00f8"
+    ],
+    "name:ger_x_preferred":[
+        "St\u00f8"
+    ],
+    "name:jav_x_preferred":[
+        "St\u00f8"
+    ],
+    "name:may_x_preferred":[
+        "St\u00f8"
+    ],
+    "name:nno_x_preferred":[
+        "St\u00f8 i Vester\u00e5len"
+    ],
+    "name:nob_x_preferred":[
+        "St\u00f8"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3136760,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"St\u00f8",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nordland Fylke",
+    "qs_pg:photos":331,
+    "qs_pg:photos_1k":67,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":331,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1083395,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":864434,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Nordland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159296769,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3136760,
+        "gp:id":864434,
+        "qs_pg:id":1083395,
+        "wd:id":"Q991431"
+    },
+    "wof:country":"NO",
+    "wof:created":1497296757,
+    "wof:geomhash":"d9bbd1767b7b4bf7fbabcf55311ed3bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296769,
+            "locality_id":1125929577,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1125929577,
+    "wof:lastmodified":1529700178,
+    "wof:name":"St\u00f8",
+    "wof:parent_id":1159296769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.13333,
+    69.01667,
+    15.13333,
+    69.01667
+],
+  "geometry": {"coordinates":[15.13333,69.01667],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1326843395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.96306,58.63194,8.96306,58.63194",
+    "geom:latitude":58.63194,
+    "geom:longitude":8.96306,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"914.0",
+    "gn:asciiname":"Ostera",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3162338,
+    "gn:latitude":58.63194,
+    "gn:longitude":8.96306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u00d8ster\u00e5",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Auster\u00e5",
+        "\u00d6steraa",
+        "\u00d8ster\u00e5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297531,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3162338,
+        "wk:page":"%C3%98ster%C3%A5"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b94523896847085102be954dbc95eff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297531,
+            "locality_id":1326843395,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1326843395,
+    "wof:lastmodified":1537675881,
+    "wof:name":"Ostera",
+    "wof:parent_id":1159297531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.96306,
+    58.63194,
+    8.96306,
+    58.63194
+],
+  "geometry": {"coordinates":[8.96306,58.63194],"type":"Point"}
+}

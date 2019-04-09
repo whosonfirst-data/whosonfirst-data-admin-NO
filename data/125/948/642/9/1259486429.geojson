@@ -1,0 +1,71 @@
+{
+  "id": 1259486429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.08527,59.31269,7.08527,59.31269",
+    "geom:latitude":59.31269,
+    "geom:longitude":7.08527,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"941.0",
+    "gn:asciiname":"Botnen",
+    "gn:country_code":"NO",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537125,
+    "gn:latitude":59.31269,
+    "gn:longitude":7.08527,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Botnen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Botnen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296911,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537125
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"cfba5c53d7799011e2cfe523044c7125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296911,
+            "locality_id":1259486429,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1259486429,
+    "wof:lastmodified":1537675997,
+    "wof:name":"Botnen",
+    "wof:parent_id":1159296911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.08527,
+    59.31269,
+    7.08527,
+    59.31269
+],
+  "geometry": {"coordinates":[7.08527,59.31269],"type":"Point"}
+}

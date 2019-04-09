@@ -1,0 +1,68 @@
+{
+  "id": 1276241161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.25,58.3,8.25,58.3",
+    "geom:latitude":58.3,
+    "geom:longitude":8.25,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"928.0",
+    "gn:asciiname":"Tveite",
+    "gn:country_code":"NO",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3133625,
+    "gn:latitude":58.3,
+    "gn:longitude":8.25,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Tveite",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297559,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3133625
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"138e2c838d84655c6282c6f516467718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297559,
+            "locality_id":1276241161,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1276241161,
+    "wof:lastmodified":1536902184,
+    "wof:name":"Tveite",
+    "wof:parent_id":1159297559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.25,
+    58.3,
+    8.25,
+    58.3
+],
+  "geometry": {"coordinates":[8.25,58.3],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243348905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.5,62.96667,8.5,62.96667",
+    "geom:latitude":62.96667,
+    "geom:longitude":8.5,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1566.0",
+    "gn:asciiname":"Torvik",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3134164,
+    "gn:latitude":62.96667,
+    "gn:longitude":8.5,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Torvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297613,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3134164
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8d072b1efdb71b72c74d604e5a0d9d46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297613,
+            "locality_id":1243348905,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1243348905,
+    "wof:lastmodified":1536946624,
+    "wof:name":"Torvik",
+    "wof:parent_id":1159297613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.5,
+    62.96666999999999,
+    8.5,
+    62.96666999999999
+],
+  "geometry": {"coordinates":[8.5,62.96666999999999],"type":"Point"}
+}

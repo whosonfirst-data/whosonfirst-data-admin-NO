@@ -1,0 +1,71 @@
+{
+  "id": 1259681669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.8695,61.99835,10.8695,61.99835",
+    "geom:latitude":61.99835,
+    "geom:longitude":10.8695,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"438.0",
+    "gn:asciiname":"Barkald",
+    "gn:country_code":"NO",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536658,
+    "gn:latitude":61.99835,
+    "gn:longitude":10.8695,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Barkald",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Barkald"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296891,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536658
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a2586e200bc219dc8e08e82fa13393af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296891,
+            "locality_id":1259681669,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1259681669,
+    "wof:lastmodified":1537675978,
+    "wof:name":"Barkald",
+    "wof:parent_id":1159296891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.8695,
+    61.99835,
+    10.8695,
+    61.99835
+],
+  "geometry": {"coordinates":[10.8695,61.99835],"type":"Point"}
+}

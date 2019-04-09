@@ -1,0 +1,71 @@
+{
+  "id": 1326614489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.0,66.26667,14.0,66.26667",
+    "geom:latitude":66.26667,
+    "geom:longitude":14.0,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1833.0",
+    "gn:asciiname":"Skjanes",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3138963,
+    "gn:latitude":66.26667,
+    "gn:longitude":14.0,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Skj\u00e5nes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Skjaanes",
+        "Skj\u00e5nes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296963,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3138963
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e99aa0470be1b5faec9cb146f291e4b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296963,
+            "locality_id":1326614489,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1326614489,
+    "wof:lastmodified":1537675720,
+    "wof:name":"Skjanes",
+    "wof:parent_id":1159296963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.0,
+    66.26666999999999,
+    14.0,
+    66.26666999999999
+],
+  "geometry": {"coordinates":[14.0,66.26666999999999],"type":"Point"}
+}

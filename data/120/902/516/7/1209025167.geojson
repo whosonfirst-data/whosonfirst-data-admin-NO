@@ -1,0 +1,63 @@
+{
+  "id": 1209025167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.25,65.98333,13.25,65.98333",
+    "geom:latitude":65.98333,
+    "geom:longitude":13.25,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1824.0",
+    "gn:asciiname":"Drevja",
+    "gn:country_code":"NO",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3158984,
+    "gn:latitude":65.98333,
+    "gn:longitude":13.25,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Drevja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3158984,
+        "wk:page":"Drevja"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"87a65a0445c5d21f97984bc5740f059f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209025167
+        }
+    ],
+    "wof:id":1209025167,
+    "wof:lastmodified":1537570104,
+    "wof:name":"Drevja",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.25,
+    65.98333000000001,
+    13.25,
+    65.98333000000001
+],
+  "geometry": {"coordinates":[13.25,65.98333000000001],"type":"Point"}
+}

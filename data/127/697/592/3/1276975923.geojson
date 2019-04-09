@@ -1,0 +1,72 @@
+{
+  "id": 1276975923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.41667,68.12389,15.41667,68.12389",
+    "geom:latitude":68.12389,
+    "geom:longitude":15.41667,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1849.0",
+    "gn:asciiname":"Bjornvagen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3161196,
+    "gn:latitude":68.12389,
+    "gn:longitude":15.41667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bj\u00f8rnv\u00e5gen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bj\u00f6rnvaag",
+        "Bj\u00f8rnv\u00e5g",
+        "Bj\u00f8rnv\u00e5gen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297087,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3161196
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ac39961c61d56d20418d37ca270ef35b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297087,
+            "locality_id":1276975923,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1276975923,
+    "wof:lastmodified":1537675874,
+    "wof:name":"Bjornvagen",
+    "wof:parent_id":1159297087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.41667,
+    68.12389,
+    15.41667,
+    68.12389
+],
+  "geometry": {"coordinates":[15.41667,68.12389],"type":"Point"}
+}

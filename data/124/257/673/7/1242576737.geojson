@@ -1,0 +1,71 @@
+{
+  "id": 1242576737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.22329,70.48039,24.22329,70.48039",
+    "geom:latitude":70.48039,
+    "geom:longitude":24.22329,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2017.0",
+    "gn:asciiname":"Faegfjord",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537609,
+    "gn:latitude":70.48039,
+    "gn:longitude":24.22329,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"F\u00e6gfjord",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "F\u00e6gfjord"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297439,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537609
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d0466b87a193913b84a0410058c2abfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297439,
+            "locality_id":1242576737,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1242576737,
+    "wof:lastmodified":1537676020,
+    "wof:name":"Faegfjord",
+    "wof:parent_id":1159297439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.22329,
+    70.48039,
+    24.22329,
+    70.48039
+],
+  "geometry": {"coordinates":[24.22329,70.48039],"type":"Point"}
+}

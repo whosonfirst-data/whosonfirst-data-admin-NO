@@ -1,0 +1,80 @@
+{
+  "id": 1226418355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.66544,69.97311,20.66544,69.97311",
+    "geom:latitude":69.97311,
+    "geom:longitude":20.66544,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1941.0",
+    "gn:asciiname":"Jekthamna",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":779425,
+    "gn:latitude":69.97311,
+    "gn:longitude":20.66544,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Jekthamna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Jekthamna"
+    ],
+    "name:nor_x_variant":[
+        "Jekthamn"
+    ],
+    "name:und_x_variant":[
+        "Jegthamn",
+        "Jekthamn",
+        "Jekthamna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297483,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":779425
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f7be6cf774e96ea17b50f38c4ce7f249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297483,
+            "locality_id":1226418355,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1226418355,
+    "wof:lastmodified":1537675658,
+    "wof:name":"Jekthamna",
+    "wof:parent_id":1159297483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.66544,
+    69.97310999999999,
+    20.66544,
+    69.97310999999999
+],
+  "geometry": {"coordinates":[20.66544,69.97310999999999],"type":"Point"}
+}

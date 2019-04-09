@@ -1,0 +1,69 @@
+{
+  "id": 1326800101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.08333,63.31667,9.08333,63.31667",
+    "geom:latitude":63.31667,
+    "geom:longitude":9.08333,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5011.0",
+    "gn:asciiname":"Alstad",
+    "gn:country_code":"NO",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3224783,
+    "gn:latitude":63.31667,
+    "gn:longitude":9.08333,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Alstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Alstad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296725,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3224783
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1b6555f4d6980c4a609b8cd0c24595f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296725,
+            "locality_id":1326800101,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1326800101,
+    "wof:lastmodified":1537675898,
+    "wof:name":"Alstad",
+    "wof:parent_id":1159296725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.08333,
+    63.31667,
+    9.08333,
+    63.31667
+],
+  "geometry": {"coordinates":[9.08333,63.31667],"type":"Point"}
+}

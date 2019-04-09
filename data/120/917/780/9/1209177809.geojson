@@ -1,0 +1,68 @@
+{
+  "id": 1209177809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.81198,59.55975,7.81198,59.55975",
+    "geom:latitude":59.55975,
+    "geom:longitude":7.81198,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"833.0",
+    "gn:asciiname":"Ovre Byrte",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3143016,
+    "gn:latitude":59.55975,
+    "gn:longitude":7.81198,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"\u00d8vre Byrte",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00f8rte",
+        "\u00d8vre Byrte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3143016,
+        "wk:page":"%C3%98vre_Byrte"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"db359efb42bfa0d596d45094fa461e38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209177809
+        }
+    ],
+    "wof:id":1209177809,
+    "wof:lastmodified":1537675748,
+    "wof:name":"Ovre Byrte",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.81198,
+    59.55975,
+    7.81198,
+    59.55975
+],
+  "geometry": {"coordinates":[7.81198,59.55975],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310128063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.80324,62.33933,10.80324,62.33933",
+    "geom:latitude":62.33933,
+    "geom:longitude":10.80324,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"437.0",
+    "gn:asciiname":"Ytre Asen",
+    "gn:country_code":"NO",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536087,
+    "gn:latitude":62.33933,
+    "gn:longitude":10.80324,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Ytre \u00c5sen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Ytre \u00c5sen"
+    ],
+    "name:nor_x_variant":[
+        "\u00c5sen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297041,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536087
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e01fa405ba621c60bb1ea960cb1e896e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297041,
+            "locality_id":1310128063,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1310128063,
+    "wof:lastmodified":1537675954,
+    "wof:name":"Ytre Asen",
+    "wof:parent_id":1159297041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.80324,
+    62.33933,
+    10.80324,
+    62.33933
+],
+  "geometry": {"coordinates":[10.80324,62.33933],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1276788017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.81888,60.58639,5.81888,60.58639",
+    "geom:latitude":60.58639,
+    "geom:longitude":5.81888,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1251.0",
+    "gn:asciiname":"Dale",
+    "gn:country_code":"NO",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3159438,
+    "gn:latitude":60.58639,
+    "gn:longitude":5.81888,
+    "gn:modification_date":"2017-10-17",
+    "gn:name":"Dale",
+    "gn:population":1167,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dale i Bruvik",
+        "Dale",
+        "Dalekvam"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297437,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3159438,
+        "wk:page":"Dale%2C_Hordaland"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"db05588085928c7a2514be3d90f9852d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297437,
+            "locality_id":1276788017,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1276788017,
+    "wof:lastmodified":1537675862,
+    "wof:name":"Dale",
+    "wof:parent_id":1159297437,
+    "wof:placetype":"locality",
+    "wof:population":1167,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.81888,
+    60.58639,
+    5.81888,
+    60.58639
+],
+  "geometry": {"coordinates":[5.81888,60.58639],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1309990331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.05,66.18333,13.05,66.18333",
+    "geom:latitude":66.18333,
+    "geom:longitude":13.05,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1828.0",
+    "gn:asciiname":"Sandnes",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3140312,
+    "gn:latitude":66.18333,
+    "gn:longitude":13.05,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Sandnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297235,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3140312
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f26c8abe32eb9503b3b88bc93d1c1e7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297235,
+            "locality_id":1309990331,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1309990331,
+    "wof:lastmodified":1536665196,
+    "wof:name":"Sandnes",
+    "wof:parent_id":1159297235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.05,
+    66.18333,
+    13.05,
+    66.18333
+],
+  "geometry": {"coordinates":[13.05,66.18333],"type":"Point"}
+}

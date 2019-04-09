@@ -1,0 +1,71 @@
+{
+  "id": 1243439925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.73953,62.08897,5.73953,62.08897",
+    "geom:latitude":62.08897,
+    "geom:longitude":5.73953,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1511",
+    "gn:asciiname":"Syvden",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9403889,
+    "gn:latitude":62.08897,
+    "gn:longitude":5.73953,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Syvden",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Syvden"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297537,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9403889
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"bdf58a7d7d653b2140f975b5f06c19e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297537,
+            "locality_id":1243439925,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1243439925,
+    "wof:lastmodified":1537675909,
+    "wof:name":"Syvden",
+    "wof:parent_id":1159297537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.73953,
+    62.08897,
+    5.73953,
+    62.08897
+],
+  "geometry": {"coordinates":[5.73953,62.08897],"type":"Point"}
+}

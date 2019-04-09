@@ -1,0 +1,67 @@
+{
+  "id": 1276963599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.25465,67.38343,14.25465,67.38343",
+    "geom:latitude":67.38343,
+    "geom:longitude":14.25465,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1804.0",
+    "gn:asciiname":"Fenes",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3157734,
+    "gn:latitude":67.38343,
+    "gn:longitude":14.25465,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Fenes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297465,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3157734,
+        "wk:page":"Fenes%2C_Nordland"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"eb247070700bd206aaa9581279233911",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297465,
+            "locality_id":1276963599,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1276963599,
+    "wof:lastmodified":1537570101,
+    "wof:name":"Fenes",
+    "wof:parent_id":1159297465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.25465,
+    67.38343,
+    14.25465,
+    67.38343
+],
+  "geometry": {"coordinates":[14.25465,67.38343],"type":"Point"}
+}

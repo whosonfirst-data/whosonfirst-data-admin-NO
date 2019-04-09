@@ -1,0 +1,73 @@
+{
+  "id": 1293381605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.07799,60.5707,5.07799,60.5707",
+    "geom:latitude":60.5707,
+    "geom:longitude":5.07799,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1256.0",
+    "gn:asciiname":"Asebo",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3242771,
+    "gn:latitude":60.5707,
+    "gn:longitude":5.07799,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"\u00c5seb\u00f8",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aasb\u00f6",
+        "\u00c5seb\u00f8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297633,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3242771
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6b81747a2bf48829866e59fbd04e86ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297633,
+            "locality_id":1293381605,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1293381605,
+    "wof:lastmodified":1537675900,
+    "wof:name":"Asebo",
+    "wof:parent_id":1159297633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.07799,
+    60.5707,
+    5.07799,
+    60.5707
+],
+  "geometry": {"coordinates":[5.07799,60.5707],"type":"Point"}
+}

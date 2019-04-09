@@ -1,0 +1,72 @@
+{
+  "id": 1260165517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.20456,66.30922,14.20456,66.30922",
+    "geom:latitude":66.30922,
+    "geom:longitude":14.20456,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1833",
+    "gn:asciiname":"Hammaren",
+    "gn:country_code":"NO",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404292,
+    "gn:latitude":66.30922,
+    "gn:longitude":14.20456,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Hammaren",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Hammaren"
+    ],
+    "name:nor_x_variant":[
+        "Hammern"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296963,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404292
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6209c1d6e62825e7d6e1470fbb11590b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296963,
+            "locality_id":1260165517,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1260165517,
+    "wof:lastmodified":1537675925,
+    "wof:name":"Hammaren",
+    "wof:parent_id":1159296963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.20456,
+    66.30922,
+    14.20456,
+    66.30922
+],
+  "geometry": {"coordinates":[14.20456,66.30922],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1277045057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.96667,63.6,9.96667,63.6",
+    "geom:latitude":63.6,
+    "geom:longitude":9.96667,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5054.0",
+    "gn:asciiname":"Dorndal",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3159069,
+    "gn:latitude":63.6,
+    "gn:longitude":9.96667,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"D\u00f8rndal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dyndal",
+        "D\u00f8rndal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296767,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3159069
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4344edee9ae03ca55ae270af7acc5b47",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296767,
+            "locality_id":1277045057,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1277045057,
+    "wof:lastmodified":1537675859,
+    "wof:name":"Dorndal",
+    "wof:parent_id":1159296767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.96667,
+    63.6,
+    9.96667,
+    63.6
+],
+  "geometry": {"coordinates":[9.96667,63.6],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209421145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.10678,60.51849,8.10678,60.51849",
+    "geom:latitude":60.51849,
+    "geom:longitude":8.10678,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"620.0",
+    "gn:asciiname":"Sabalstolane",
+    "gn:country_code":"NO",
+    "gn:dem":920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535684,
+    "gn:latitude":60.51849,
+    "gn:longitude":8.10678,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"S\u00e5balst\u00f8lane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "S\u00e5balst\u00f8lane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535684
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ccbdf52c582a639fa78080ea92c46e6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209421145
+        }
+    ],
+    "wof:id":1209421145,
+    "wof:lastmodified":1537675936,
+    "wof:name":"Sabalstolane",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.10678,
+    60.51849,
+    8.10678,
+    60.51849
+],
+  "geometry": {"coordinates":[8.10678,60.51849],"type":"Point"}
+}

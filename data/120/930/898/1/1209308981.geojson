@@ -1,0 +1,65 @@
+{
+  "id": 1209308981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.71012,59.85659,5.71012,59.85659",
+    "geom:latitude":59.85659,
+    "geom:longitude":5.71012,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1224",
+    "gn:asciiname":"Royrvikvag",
+    "gn:country_code":"NO",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404457,
+    "gn:latitude":59.85659,
+    "gn:longitude":5.71012,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"R\u00f8yrvikv\u00e5g",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "R\u00f8yrvikv\u00e5g"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404457
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6d52b1e54630dc5e38a29e9f29fe4575",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209308981
+        }
+    ],
+    "wof:id":1209308981,
+    "wof:lastmodified":1537675931,
+    "wof:name":"Royrvikvag",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.71012,
+    59.85659,
+    5.71012,
+    59.85659
+],
+  "geometry": {"coordinates":[5.71012,59.85659],"type":"Point"}
+}

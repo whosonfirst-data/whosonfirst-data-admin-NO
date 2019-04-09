@@ -1,0 +1,66 @@
+{
+  "id": 1344041877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.41667,68.9,15.41667,68.9",
+    "geom:latitude":68.9,
+    "geom:longitude":15.41667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1871.0",
+    "gn:asciiname":"Store Sandnes",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3136336,
+    "gn:latitude":68.9,
+    "gn:longitude":15.41667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Store Sandnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297539,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3136336
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8c01b5dbba424c05aecef4f3d5dff7d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297539,
+            "locality_id":1344041877,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1344041877,
+    "wof:lastmodified":1536902573,
+    "wof:name":"Store Sandnes",
+    "wof:parent_id":1159297539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.41667,
+    68.9,
+    15.41667,
+    68.9
+],
+  "geometry": {"coordinates":[15.41667,68.90000000000001],"type":"Point"}
+}

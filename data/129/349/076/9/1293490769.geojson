@@ -1,0 +1,68 @@
+{
+  "id": 1293490769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.57927,58.50053,8.57927,58.50053",
+    "geom:latitude":58.50053,
+    "geom:longitude":8.57927,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"919.0",
+    "gn:asciiname":"Frolands verk",
+    "gn:country_code":"NO",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3156454,
+    "gn:latitude":58.50053,
+    "gn:longitude":8.57927,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Frolands verk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297377,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3156454
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"fa56dfacb5586cb93c4b50e43fa697bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297377,
+            "locality_id":1293490769,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1293490769,
+    "wof:lastmodified":1536782783,
+    "wof:name":"Frolands verk",
+    "wof:parent_id":1159297377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.57927,
+    58.50053000000001,
+    8.57927,
+    58.50053000000001
+],
+  "geometry": {"coordinates":[8.57927,58.50053000000001],"type":"Point"}
+}

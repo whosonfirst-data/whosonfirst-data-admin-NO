@@ -1,0 +1,106 @@
+{
+  "id": 1125784243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.26667,61.81667,9.26667,61.81667",
+    "geom:latitude":61.81667,
+    "geom:longitude":9.26667,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":301,
+    "gn:population":301,
+    "iso:country":"NO",
+    "lbl:latitude":61.81667,
+    "lbl:longitude":9.26667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Lalm"
+    ],
+    "name:eng_x_preferred":[
+        "Lalm"
+    ],
+    "name:fre_x_preferred":[
+        "Lalm"
+    ],
+    "name:jav_x_preferred":[
+        "Lalm"
+    ],
+    "name:may_x_preferred":[
+        "Lalm"
+    ],
+    "name:nno_x_preferred":[
+        "Lalm"
+    ],
+    "name:nob_x_preferred":[
+        "Lalm"
+    ],
+    "name:rum_x_preferred":[
+        "Lalm"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0644\u0645"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3148506,
+    "qs_pg:gn_pop":301,
+    "qs_pg:name":"Lalm",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":581086,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296879,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3148506,
+        "qs_pg:id":581086,
+        "wd:id":"Q1772999"
+    },
+    "wof:country":"NO",
+    "wof:created":1497290610,
+    "wof:geomhash":"e0bf36913ee728a3540534732f12793e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296879,
+            "locality_id":1125784243,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1125784243,
+    "wof:lastmodified":1529700243,
+    "wof:name":"Lalm",
+    "wof:parent_id":1159296879,
+    "wof:placetype":"locality",
+    "wof:population":301,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.26667,
+    61.81667,
+    9.26667,
+    61.81667
+],
+  "geometry": {"coordinates":[9.26667,61.81667],"type":"Point"}
+}

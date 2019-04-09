@@ -1,0 +1,74 @@
+{
+  "id": 1327154281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.82167,62.36065,5.82167,62.36065",
+    "geom:latitude":62.36065,
+    "geom:longitude":5.82167,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1516.0",
+    "gn:asciiname":"Ulstein",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3133351,
+    "gn:latitude":62.36065,
+    "gn:longitude":5.82167,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Ulstein",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ulfsten",
+        "Ulvsten",
+        "Ulstein"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297271,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3133351
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"33666b8fc3798874d7137ad2356921cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297271,
+            "locality_id":1327154281,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1327154281,
+    "wof:lastmodified":1537675687,
+    "wof:name":"Ulstein",
+    "wof:parent_id":1159297271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.82167,
+    62.36065,
+    5.82167,
+    62.36065
+],
+  "geometry": {"coordinates":[5.82167,62.36065],"type":"Point"}
+}

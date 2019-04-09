@@ -1,0 +1,74 @@
+{
+  "id": 1226830177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.23039,60.95128,10.23039,60.95128",
+    "geom:latitude":60.95128,
+    "geom:longitude":10.23039,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"502.0",
+    "gn:asciiname":"Gilbergroa",
+    "gn:country_code":"NO",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537707,
+    "gn:latitude":60.95128,
+    "gn:longitude":10.23039,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Gilbergroa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Gilbergroa"
+    ],
+    "name:nor_x_variant":[
+        "Gilbergsroa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297365,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537707
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d196ae1ac3affc7ff2771f41190af73b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297365,
+            "locality_id":1226830177,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1226830177,
+    "wof:lastmodified":1537676025,
+    "wof:name":"Gilbergroa",
+    "wof:parent_id":1159297365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.23039,
+    60.95128,
+    10.23039,
+    60.95128
+],
+  "geometry": {"coordinates":[10.23039,60.95128],"type":"Point"}
+}

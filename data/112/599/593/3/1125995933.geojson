@@ -1,0 +1,102 @@
+{
+  "id": 1125995933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.225181,63.335725,10.225181,63.335725",
+    "geom:latitude":63.335725,
+    "geom:longitude":10.225181,
+    "gn:gn_country":"NO",
+    "iso:country":"NO",
+    "lbl:latitude":63.335725,
+    "lbl:longitude":10.225181,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Ringvol"
+    ],
+    "name:eng_x_preferred":[
+        "Ringv\u00e5l"
+    ],
+    "name:fre_x_preferred":[
+        "Ringv\u00e5l"
+    ],
+    "name:may_x_preferred":[
+        "Ringv\u00e5l"
+    ],
+    "name:nno_x_preferred":[
+        "Ringv\u00e5l"
+    ],
+    "name:nob_x_preferred":[
+        "Ringv\u00e5l"
+    ],
+    "name:rum_x_preferred":[
+        "Ringv\u00e5l"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:name":"Ringv\u00e5l",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
+    "qs_pg:photos":66,
+    "qs_pg:photos_1k":13,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":66,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1000749,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":22659902,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159297511,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22659902,
+        "qs_pg:id":1000749,
+        "wd:id":"Q1780059"
+    },
+    "wof:country":"NO",
+    "wof:created":1497299331,
+    "wof:geomhash":"b0e86910bfc53967055765dc4d139063",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297511,
+            "locality_id":1125995933,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1125995933,
+    "wof:lastmodified":1529700336,
+    "wof:name":"Ringv\u00e5l",
+    "wof:parent_id":1159297511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.225181,
+    63.335725,
+    10.225181,
+    63.335725
+],
+  "geometry": {"coordinates":[10.225181,63.335725],"type":"Point"}
+}

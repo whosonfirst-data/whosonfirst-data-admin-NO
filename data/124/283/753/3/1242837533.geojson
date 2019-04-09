@@ -1,0 +1,69 @@
+{
+  "id": 1242837533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.71667,68.91667,17.71667,68.91667",
+    "geom:latitude":68.91667,
+    "geom:longitude":17.71667,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1923.0",
+    "gn:asciiname":"Salangsverket",
+    "gn:country_code":"NO",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3140539,
+    "gn:latitude":68.91667,
+    "gn:longitude":17.71667,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Salangsverket",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297455,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3140539,
+        "wk:page":"Salangsverket"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a5254b8685711b4b4143993b9be0dd52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297455,
+            "locality_id":1242837533,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1242837533,
+    "wof:lastmodified":1537570080,
+    "wof:name":"Salangsverket",
+    "wof:parent_id":1159297455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.71667,
+    68.91667,
+    17.71667,
+    68.91667
+],
+  "geometry": {"coordinates":[17.71667,68.91667],"type":"Point"}
+}

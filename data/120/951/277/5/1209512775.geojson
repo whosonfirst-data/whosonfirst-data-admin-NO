@@ -1,0 +1,65 @@
+{
+  "id": 1209512775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.76788,62.28717,10.76788,62.28717",
+    "geom:latitude":62.28717,
+    "geom:longitude":10.76788,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"437.0",
+    "gn:asciiname":"Ostigardsgardene",
+    "gn:country_code":"NO",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537095,
+    "gn:latitude":62.28717,
+    "gn:longitude":10.76788,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"\u00d8stig\u00e5rdsgardene",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d8stig\u00e5rdsgardene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537095
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d8f77869fc3f460caa1b5dff98e2c8e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209512775
+        }
+    ],
+    "wof:id":1209512775,
+    "wof:lastmodified":1537675996,
+    "wof:name":"Ostigardsgardene",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.76788,
+    62.28717,
+    10.76788,
+    62.28717
+],
+  "geometry": {"coordinates":[10.76788,62.28717],"type":"Point"}
+}

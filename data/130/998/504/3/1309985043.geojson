@@ -1,0 +1,68 @@
+{
+  "id": 1309985043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.96781,59.02461,5.96781,59.02461",
+    "geom:latitude":59.02461,
+    "geom:longitude":5.96781,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1130.0",
+    "gn:asciiname":"Nag",
+    "gn:country_code":"NO",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3145052,
+    "gn:latitude":59.02461,
+    "gn:longitude":5.96781,
+    "gn:modification_date":"2011-04-13",
+    "gn:name":"Nag",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297053,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3145052
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b97b2966d39a987b64943105fd9c3f10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297053,
+            "locality_id":1309985043,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1309985043,
+    "wof:lastmodified":1536672801,
+    "wof:name":"Nag",
+    "wof:parent_id":1159297053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.96781,
+    59.02461,
+    5.96781,
+    59.02461
+],
+  "geometry": {"coordinates":[5.96781,59.02461],"type":"Point"}
+}

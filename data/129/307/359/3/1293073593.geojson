@@ -1,0 +1,71 @@
+{
+  "id": 1293073593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.26667,62.88333,10.26667,62.88333",
+    "geom:latitude":62.88333,
+    "geom:longitude":10.26667,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5027.0",
+    "gn:asciiname":"Flottom",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3156955,
+    "gn:latitude":62.88333,
+    "gn:longitude":10.26667,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Fl\u00f8ttom",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fl\u00f8ttum",
+        "Fl\u00f8ttom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296717,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3156955
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"df6c61d1fdfe4cedb2f23558eab84272",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296717,
+            "locality_id":1293073593,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1293073593,
+    "wof:lastmodified":1537675842,
+    "wof:name":"Flottom",
+    "wof:parent_id":1159296717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.26667,
+    62.88333000000001,
+    10.26667,
+    62.88333000000001
+],
+  "geometry": {"coordinates":[10.26667,62.88333000000001],"type":"Point"}
+}

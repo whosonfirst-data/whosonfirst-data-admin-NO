@@ -1,0 +1,65 @@
+{
+  "id": 1209095929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.53268,68.23214,14.53268,68.23214",
+    "geom:latitude":68.23214,
+    "geom:longitude":14.53268,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1865",
+    "gn:asciiname":"Osan",
+    "gn:country_code":"NO",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404323,
+    "gn:latitude":68.23214,
+    "gn:longitude":14.53268,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Osan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Osan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404323
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9f1803c787c46ea17f7acdca3083c7a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209095929
+        }
+    ],
+    "wof:id":1209095929,
+    "wof:lastmodified":1537675926,
+    "wof:name":"Osan",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.53268,
+    68.23214,
+    14.53268,
+    68.23214
+],
+  "geometry": {"coordinates":[14.53268,68.23214],"type":"Point"}
+}

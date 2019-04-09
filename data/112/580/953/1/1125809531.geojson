@@ -1,0 +1,123 @@
+{
+  "id": 1125809531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.61833,69.69194,18.61833,69.69194",
+    "geom:latitude":69.69194,
+    "geom:longitude":18.61833,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":306,
+    "gn:population":306,
+    "iso:country":"NO",
+    "lbl:latitude":69.69194,
+    "lbl:longitude":18.61833,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Ersfjordbotn"
+    ],
+    "name:eng_x_preferred":[
+        "Ersfjordbotn"
+    ],
+    "name:fre_x_preferred":[
+        "Ersfjordbotn"
+    ],
+    "name:may_x_preferred":[
+        "Ersfjordbotn"
+    ],
+    "name:nno_x_preferred":[
+        "Ersfjordbotn"
+    ],
+    "name:nob_x_preferred":[
+        "Ersfjordbotn"
+    ],
+    "name:nor_x_preferred":[
+        "Ersfjord"
+    ],
+    "name:nor_x_variant":[
+        "Ersfjordbotn"
+    ],
+    "name:rum_x_preferred":[
+        "Ersfjordbotn"
+    ],
+    "name:unk_x_variant":[
+        "Ersfjord"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3158117,
+    "qs_pg:gn_pop":306,
+    "qs_pg:name":"Ersfjordbotn",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Troms Fylke",
+    "qs_pg:photos":782,
+    "qs_pg:photos_1k":158,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":782,
+    "qs_pg:photos_sr":9,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1083370,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":858202,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Troms Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297187,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3158117,
+        "gp:id":858202,
+        "qs_pg:id":1083370,
+        "wd:id":"Q2649679"
+    },
+    "wof:country":"NO",
+    "wof:created":1497291599,
+    "wof:geomhash":"fc51470ff30fa97ba04bd2fa38351fc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297187,
+            "locality_id":1125809531,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1125809531,
+    "wof:lastmodified":1529700457,
+    "wof:name":"Ersfjordbotn",
+    "wof:parent_id":1159297187,
+    "wof:placetype":"locality",
+    "wof:population":306,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.61833,
+    69.69194,
+    18.61833,
+    69.69194
+],
+  "geometry": {"coordinates":[18.61833,69.69194],"type":"Point"}
+}

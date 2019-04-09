@@ -1,0 +1,68 @@
+{
+  "id": 1343670631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.82211,58.68029,8.82211,58.68029",
+    "geom:latitude":58.68029,
+    "geom:longitude":8.82211,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"912.0",
+    "gn:asciiname":"Ubergsmoen",
+    "gn:country_code":"NO",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3133437,
+    "gn:latitude":58.68029,
+    "gn:longitude":8.82211,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Ubergsmoen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296875,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3133437
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a2905f273ea6b4f690ffa1b540477aa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296875,
+            "locality_id":1343670631,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1343670631,
+    "wof:lastmodified":1536940947,
+    "wof:name":"Ubergsmoen",
+    "wof:parent_id":1159296875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.82211,
+    58.68029,
+    8.82211,
+    58.68029
+],
+  "geometry": {"coordinates":[8.82211,58.68029],"type":"Point"}
+}

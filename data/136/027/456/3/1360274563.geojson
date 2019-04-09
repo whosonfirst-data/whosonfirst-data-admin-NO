@@ -1,0 +1,68 @@
+{
+  "id": 1360274563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.85403,64.1685,13.85403,64.1685",
+    "geom:latitude":64.1685,
+    "geom:longitude":13.85403,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5042.0",
+    "gn:asciiname":"Jule",
+    "gn:country_code":"NO",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3150690,
+    "gn:latitude":64.1685,
+    "gn:longitude":13.85403,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Jule",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297309,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3150690
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"acb145bc15b256eafc4f3cbb9df0d805",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297309,
+            "locality_id":1360274563,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1360274563,
+    "wof:lastmodified":1536672266,
+    "wof:name":"Jule",
+    "wof:parent_id":1159297309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.85403,
+    64.1685,
+    13.85403,
+    64.1685
+],
+  "geometry": {"coordinates":[13.85403,64.16849999999999],"type":"Point"}
+}

@@ -1,0 +1,114 @@
+{
+  "id": 1125922341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.81667,58.08333,7.81667,58.08333",
+    "geom:latitude":58.08333,
+    "geom:longitude":7.81667,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":456,
+    "gn:population":456,
+    "iso:country":"NO",
+    "lbl:latitude":58.08333,
+    "lbl:longitude":7.81667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "H\u00f8llen"
+    ],
+    "name:eng_x_preferred":[
+        "H\u00f8llen"
+    ],
+    "name:fre_x_preferred":[
+        "H\u00f8llen"
+    ],
+    "name:may_x_preferred":[
+        "H\u00f8llen"
+    ],
+    "name:nno_x_preferred":[
+        "H\u00f8llen i Lindesnes"
+    ],
+    "name:nob_x_preferred":[
+        "H\u00f8llen"
+    ],
+    "name:unk_x_variant":[
+        "H\u00f8llen i S\u00f8gne"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3152203,
+    "qs_pg:gn_pop":456,
+    "qs_pg:name":"H\u00f8llen",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Vest-Agder Fylke",
+    "qs_pg:photos":52,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":52,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":983711,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":859915,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Vest-Agder Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296847,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3152203,
+        "gp:id":859915,
+        "qs_pg:id":983711,
+        "wd:id":"Q1770355"
+    },
+    "wof:country":"NO",
+    "wof:created":1497296524,
+    "wof:geomhash":"107df4467fb9530c9af334261ca48dc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296847,
+            "locality_id":1125922341,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1125922341,
+    "wof:lastmodified":1529700471,
+    "wof:name":"H\u00f8llen",
+    "wof:parent_id":1159296847,
+    "wof:placetype":"locality",
+    "wof:population":456,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.81667,
+    58.08333,
+    7.81667,
+    58.08333
+],
+  "geometry": {"coordinates":[7.81667,58.08333],"type":"Point"}
+}

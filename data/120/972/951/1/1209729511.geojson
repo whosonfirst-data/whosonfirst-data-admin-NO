@@ -1,0 +1,71 @@
+{
+  "id": 1209729511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.73599,59.56618,10.73599,59.56618",
+    "geom:latitude":59.56618,
+    "geom:longitude":10.73599,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"211.0",
+    "gn:asciiname":"Kjenn",
+    "gn:country_code":"NO",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537722,
+    "gn:latitude":59.56618,
+    "gn:longitude":10.73599,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Kjenn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Kjenn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297237,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537722
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"bbb1c1213c95befe11320bd32a891f34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297237,
+            "locality_id":1209729511,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1209729511,
+    "wof:lastmodified":1537676025,
+    "wof:name":"Kjenn",
+    "wof:parent_id":1159297237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.73599,
+    59.56618,
+    10.73599,
+    59.56618
+],
+  "geometry": {"coordinates":[10.73599,59.56618],"type":"Point"}
+}

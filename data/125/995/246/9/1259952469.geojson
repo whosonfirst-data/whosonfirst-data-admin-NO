@@ -1,0 +1,72 @@
+{
+  "id": 1259952469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.55,62.58333,9.55,62.58333",
+    "geom:latitude":62.58333,
+    "geom:longitude":9.55,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5021.0",
+    "gn:asciiname":"Holsaetra",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3152061,
+    "gn:latitude":62.58333,
+    "gn:longitude":9.55,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Hols\u00e6tra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Holseter",
+        "Hols\u00e6ter",
+        "Hols\u00e6tra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297021,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3152061
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4970dcb3ca974d8bdb4d8b07310b0b6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297021,
+            "locality_id":1259952469,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1259952469,
+    "wof:lastmodified":1537675810,
+    "wof:name":"Holsaetra",
+    "wof:parent_id":1159297021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.55,
+    62.58333,
+    9.55,
+    62.58333
+],
+  "geometry": {"coordinates":[9.55,62.58333],"type":"Point"}
+}

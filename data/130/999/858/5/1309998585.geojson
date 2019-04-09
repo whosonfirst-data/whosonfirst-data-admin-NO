@@ -1,0 +1,71 @@
+{
+  "id": 1309998585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.54901,62.1644,10.54901,62.1644",
+    "geom:latitude":62.1644,
+    "geom:longitude":10.54901,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"438.0",
+    "gn:asciiname":"Steivanglia",
+    "gn:country_code":"NO",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537099,
+    "gn:latitude":62.1644,
+    "gn:longitude":10.54901,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Steivanglia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Steivanglia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296891,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537099
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"378ffe66c539e20cf6e025a8e95ba03d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296891,
+            "locality_id":1309998585,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1309998585,
+    "wof:lastmodified":1537675996,
+    "wof:name":"Steivanglia",
+    "wof:parent_id":1159296891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.54901,
+    62.1644,
+    10.54901,
+    62.1644
+],
+  "geometry": {"coordinates":[10.54901,62.1644],"type":"Point"}
+}

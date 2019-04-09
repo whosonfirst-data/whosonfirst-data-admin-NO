@@ -1,0 +1,127 @@
+{
+  "id": 101911333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000213,
+    "geom:area_square_m":1352758.198908,
+    "geom:bbox":"11.2963908814,59.1117262399,11.3224879194,59.1253320271",
+    "geom:latitude":59.118774,
+    "geom:longitude":11.308046,
+    "iso:country":"NO",
+    "lbl:latitude":59.118786,
+    "lbl:longitude":11.306493,
+    "mps:latitude":59.118786,
+    "mps:longitude":11.306493,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Isebakke"
+    ],
+    "name:eng_x_preferred":[
+        "Grigor'yevka"
+    ],
+    "name:eng_x_variant":[
+        "Grigor'evka",
+        "Isebakke"
+    ],
+    "name:fre_x_preferred":[
+        "Isebakke"
+    ],
+    "name:jav_x_preferred":[
+        "Isebakke"
+    ],
+    "name:may_x_preferred":[
+        "Isebakke"
+    ],
+    "name:msa_x_preferred":[
+        "Isebakke"
+    ],
+    "name:nld_x_preferred":[
+        "Isebakke"
+    ],
+    "name:nno_x_preferred":[
+        "Isebakke"
+    ],
+    "name:nob_x_preferred":[
+        "Isebakke"
+    ],
+    "name:nor_x_preferred":[
+        "Isebakke"
+    ],
+    "name:ron_x_preferred":[
+        "Isebakke"
+    ],
+    "name:rum_x_preferred":[
+        "Isebakke"
+    ],
+    "name:swe_x_preferred":[
+        "Isebakke"
+    ],
+    "name:und_x_preferred":[
+        "\u0413\u0440\u0438\u0433\u043e\u0440\u044c\u0435\u0432\u043a\u0430"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*\u00d8stfold",
+    "qs:a1r":"9",
+    "qs:adm0":"Norge",
+    "qs:id":0,
+    "qs:la":"Halden",
+    "qs:la_lc":"*NO0101",
+    "qs:level":"locality",
+    "qs:loc":"Isebakke",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":40,
+    "wof:belongsto":[
+        102191581,
+        1159296713,
+        85633341,
+        85687079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20100139,
+        "qs:id":113175,
+        "qs_pg:id":113175,
+        "wd:id":"Q2468595"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ba5cffeb134da862d70a9c5d3d27c6d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296713,
+            "locality_id":101911333,
+            "region_id":85687079
+        }
+    ],
+    "wof:id":101911333,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1529700545,
+    "wof:name":"Isebakke",
+    "wof:parent_id":1159296713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.29639088137276,
+    59.11172623987034,
+    11.32248791941089,
+    59.12533202707459
+],
+  "geometry": {"coordinates":[[[11.31213698322097,59.12158614266639],[11.3191055930406,59.12151961693536],[11.31913949734667,59.12241898263301],[11.32088169065236,59.12240229566402],[11.32074590666014,59.11880483672599],[11.32248791941089,59.11878812967996],[11.32245393377082,59.11788876622745],[11.32071196576061,59.11790547278747],[11.32067802690057,59.11700610916728],[11.3189361020647,59.11702279322424],[11.31886831992978,59.11522406596822],[11.31712648300106,59.11524072703895],[11.31709263971783,59.1143413634037],[11.31186725377631,59.11439121307103],[11.3118335467102,59.11349184830419],[11.30835003777037,59.11352497037581],[11.30828280860948,59.11172623987034],[11.30479947237313,59.11175927196189],[11.30483299649723,59.112658638016],[11.30134956463604,59.11269158301138],[11.30144988071947,59.11538968595812],[11.29970802828973,59.11540612686861],[11.29974142626799,59.11630549563245],[11.29799952756468,59.11632191500445],[11.29803288281175,59.11722128456444],[11.29977482625208,59.11720486471495],[11.29987503824691,59.11990297387399],[11.29639088137276,59.11993579441918],[11.29659082250487,59.12533202707459],[11.30007551643683,59.12529920080044],[11.3000420983854,59.1243998288486],[11.30875358241929,59.12431738015573],[11.30871994258382,59.12341801092151],[11.31046218998955,59.12340145559693],[11.31042850742028,59.12250208716318],[11.31217070851852,59.12248551029938],[11.31213698322097,59.12158614266639]]],"type":"Polygon"}
+}

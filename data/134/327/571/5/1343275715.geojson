@@ -1,0 +1,74 @@
+{
+  "id": 1343275715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.56667,60.23333,11.56667,60.23333",
+    "geom:latitude":60.23333,
+    "geom:longitude":11.56667,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"236.0",
+    "gn:asciiname":"Togstad",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3134412,
+    "gn:latitude":60.23333,
+    "gn:longitude":11.56667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Togstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tokkstad",
+        "Tokstad",
+        "Togstad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297349,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3134412
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"613a24f5627e3a33db47b3fce8b1e458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297349,
+            "locality_id":1343275715,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1343275715,
+    "wof:lastmodified":1537675693,
+    "wof:name":"Togstad",
+    "wof:parent_id":1159297349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.56667,
+    60.23333,
+    11.56667,
+    60.23333
+],
+  "geometry": {"coordinates":[11.56667,60.23333],"type":"Point"}
+}

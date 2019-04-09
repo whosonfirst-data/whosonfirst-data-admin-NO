@@ -1,0 +1,74 @@
+{
+  "id": 1209799229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.16667,63.8,11.16667,63.8",
+    "geom:latitude":63.8,
+    "geom:longitude":11.16667,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5037.0",
+    "gn:asciiname":"Hokstad",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3152324,
+    "gn:latitude":63.8,
+    "gn:longitude":11.16667,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Hokstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Holstad",
+        "Hokstad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297125,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3152324,
+        "wk:page":"Hokstad"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"325d5fa96736de18a857901ba76d35a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297125,
+            "locality_id":1209799229,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1209799229,
+    "wof:lastmodified":1537675812,
+    "wof:name":"Hokstad",
+    "wof:parent_id":1159297125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.16667,
+    63.8,
+    11.16667,
+    63.8
+],
+  "geometry": {"coordinates":[11.16667,63.8],"type":"Point"}
+}

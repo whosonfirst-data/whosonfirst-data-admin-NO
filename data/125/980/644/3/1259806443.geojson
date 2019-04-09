@@ -1,0 +1,80 @@
+{
+  "id": 1259806443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.16581,70.32759,25.16581,70.32759",
+    "geom:latitude":70.32759,
+    "geom:longitude":25.16581,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2020.0",
+    "gn:asciiname":"Sandvik,yt",
+    "gn:country_code":"NO",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537611,
+    "gn:latitude":70.32759,
+    "gn:longitude":25.16581,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Sandvik,yt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fkv_x_preferred":[
+        "Kalkasenlahti"
+    ],
+    "name:nor_x_preferred":[
+        "Sandvik,yt"
+    ],
+    "name:nor_x_variant":[
+        "Ytre Sandvik"
+    ],
+    "name:sme_x_preferred":[
+        "G\u00e1lggo\u0161luokta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297563,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537611
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"536e83d3230ef91761adc3223d3872bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297563,
+            "locality_id":1259806443,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1259806443,
+    "wof:lastmodified":1537676020,
+    "wof:name":"Sandvik,yt",
+    "wof:parent_id":1159297563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.16581,
+    70.32759,
+    25.16581,
+    70.32759
+],
+  "geometry": {"coordinates":[25.16581,70.32759],"type":"Point"}
+}

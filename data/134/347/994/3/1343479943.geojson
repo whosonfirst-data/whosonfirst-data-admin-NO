@@ -1,0 +1,94 @@
+{
+  "id": 1343479943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.08955,67.93249,13.08955,67.93249",
+    "geom:latitude":67.93249,
+    "geom:longitude":13.08955,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1874.0",
+    "gn:asciiname":"Reine",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3142127,
+    "gn:latitude":67.93249,
+    "gn:longitude":13.08955,
+    "gn:modification_date":"2010-12-07",
+    "gn:name":"Reine",
+    "gn:population":342,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u0626\u06cc\u0646"
+    ],
+    "name:hye_x_preferred":[
+        "\u054c\u0565\u0575\u0576\u0565"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30fc\u30cc"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0420\u0435\u0458\u043d\u0435"
+    ],
+    "name:oss_x_preferred":[
+        "\u0420\u0435\u0439\u043d\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u0439\u043d\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0439\u043d\u0435"
+    ],
+    "name:zho_x_preferred":[
+        "\u96f7\u8bb7"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        1159297153,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3142127,
+        "wk:page":"Reine"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"217500928e352a537a50851cb96a390c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297153,
+            "locality_id":1343479943,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1343479943,
+    "wof:lastmodified":1537675742,
+    "wof:name":"Reine",
+    "wof:parent_id":1159297153,
+    "wof:placetype":"locality",
+    "wof:population":342,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.08955,
+    67.93249,
+    13.08955,
+    67.93249
+],
+  "geometry": {"coordinates":[13.08955,67.93249],"type":"Point"}
+}

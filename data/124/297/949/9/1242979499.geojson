@@ -1,0 +1,68 @@
+{
+  "id": 1242979499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.08333,58.85,9.08333,58.85",
+    "geom:latitude":58.85,
+    "geom:longitude":9.08333,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"911.0",
+    "gn:asciiname":"Fone",
+    "gn:country_code":"NO",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3156842,
+    "gn:latitude":58.85,
+    "gn:longitude":9.08333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Fone",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296731,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3156842
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4f1cfbf5d510d1a83ef6c5bb034766e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296731,
+            "locality_id":1242979499,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1242979499,
+    "wof:lastmodified":1536981000,
+    "wof:name":"Fone",
+    "wof:parent_id":1159296731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.08333,
+    58.85,
+    9.08333,
+    58.85
+],
+  "geometry": {"coordinates":[9.08333,58.85],"type":"Point"}
+}

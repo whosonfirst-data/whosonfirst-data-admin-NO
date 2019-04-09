@@ -1,0 +1,116 @@
+{
+  "id": 1125791587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.81861,58.45528,8.81861,58.45528",
+    "geom:latitude":58.45528,
+    "geom:longitude":8.81861,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":58.45528,
+    "lbl:longitude":8.81861,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "F\u00e6rvik"
+    ],
+    "name:eng_x_preferred":[
+        "F\u00e6rvik"
+    ],
+    "name:fre_x_preferred":[
+        "F\u00e6rvik"
+    ],
+    "name:jav_x_preferred":[
+        "F\u00e6rvik"
+    ],
+    "name:may_x_preferred":[
+        "F\u00e6rvik"
+    ],
+    "name:nno_x_preferred":[
+        "F\u00e6rvik"
+    ],
+    "name:nob_x_preferred":[
+        "F\u00e6rvik"
+    ],
+    "name:unk_x_variant":[
+        "F\u00e6rvig"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u06cc\u0631\u0648\u06cc\u06a9"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3157942,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"F\u00e6rvik",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Aust-Agder Fylke",
+    "qs_pg:photos":1469,
+    "qs_pg:photos_1k":298,
+    "qs_pg:photos_9k":7,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1469,
+    "qs_pg:photos_sr":12,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":481053,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":858275,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Aust-Agder Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297607,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3157942,
+        "gp:id":858275,
+        "qs_pg:id":481053,
+        "wd:id":"Q5511505"
+    },
+    "wof:country":"NO",
+    "wof:created":1497290884,
+    "wof:geomhash":"fa97a1b2c4dea5d36729fac95a7316a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297607,
+            "locality_id":1125791587,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1125791587,
+    "wof:lastmodified":1529699814,
+    "wof:name":"F\u00e6rvik",
+    "wof:parent_id":1159297607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.81861,
+    58.45528,
+    8.81861,
+    58.45528
+],
+  "geometry": {"coordinates":[8.81861,58.45528],"type":"Point"}
+}

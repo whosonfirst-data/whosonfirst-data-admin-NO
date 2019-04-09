@@ -1,0 +1,71 @@
+{
+  "id": 1225958365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.80503,59.71925,10.80503,59.71925",
+    "geom:latitude":59.71925,
+    "geom:longitude":10.80503,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"214.0",
+    "gn:asciiname":"Solhaug",
+    "gn:country_code":"NO",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536263,
+    "gn:latitude":59.71925,
+    "gn:longitude":10.80503,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Solhaug",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Solhaug"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297627,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536263
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"035fc2e7f8285e8e2f9c526017f7339f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297627,
+            "locality_id":1225958365,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1225958365,
+    "wof:lastmodified":1537675962,
+    "wof:name":"Solhaug",
+    "wof:parent_id":1159297627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.80503,
+    59.71925,
+    10.80503,
+    59.71925
+],
+  "geometry": {"coordinates":[10.80503,59.71925],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226451243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.35,58.85,8.35,58.85",
+    "geom:latitude":58.85,
+    "geom:longitude":8.35,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"929.0",
+    "gn:asciiname":"Saurbekkflot",
+    "gn:country_code":"NO",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3140027,
+    "gn:latitude":58.85,
+    "gn:longitude":8.35,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Saurbekkflot",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297279,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3140027
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"cd2401789a927c24bf721ca7854a5842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297279,
+            "locality_id":1226451243,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1226451243,
+    "wof:lastmodified":1536636256,
+    "wof:name":"Saurbekkflot",
+    "wof:parent_id":1159297279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.35,
+    58.85,
+    8.35,
+    58.85
+],
+  "geometry": {"coordinates":[8.35,58.85],"type":"Point"}
+}

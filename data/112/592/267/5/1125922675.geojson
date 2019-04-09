@@ -1,0 +1,108 @@
+{
+  "id": 1125922675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.46667,66.33333,13.46667,66.33333",
+    "geom:latitude":66.33333,
+    "geom:longitude":13.46667,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":66.33333,
+    "lbl:longitude":13.46667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "S\u00f8rfjorden"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00f8rfjorden"
+    ],
+    "name:fre_x_preferred":[
+        "S\u00f8rfjorden"
+    ],
+    "name:jav_x_preferred":[
+        "S\u00f8rfjorden"
+    ],
+    "name:may_x_preferred":[
+        "S\u00f8rfjorden"
+    ],
+    "name:nno_x_preferred":[
+        "Bygda S\u00f8rfjorden"
+    ],
+    "name:nob_x_preferred":[
+        "S\u00f8rfjorden"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3144361,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"S\u00f8rfjorden",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nordland Fylke",
+    "qs_pg:photos":40,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":40,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":983738,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":864203,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Nordland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159296963,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3144361,
+        "gp:id":864203,
+        "qs_pg:id":983738,
+        "wd:id":"Q7666607"
+    },
+    "wof:country":"NO",
+    "wof:created":1497296536,
+    "wof:geomhash":"c45cf5a18211a12dbdcce8eabc288e7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296963,
+            "locality_id":1125922675,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1125922675,
+    "wof:lastmodified":1529700164,
+    "wof:name":"S\u00f8rfjorden",
+    "wof:parent_id":1159296963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.46667,
+    66.33333,
+    13.46667,
+    66.33333
+],
+  "geometry": {"coordinates":[13.46667,66.33333],"type":"Point"}
+}

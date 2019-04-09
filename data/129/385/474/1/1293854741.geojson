@@ -1,0 +1,68 @@
+{
+  "id": 1293854741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.93333,59.65,6.93333,59.65",
+    "geom:latitude":59.65,
+    "geom:longitude":6.93333,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1134.0",
+    "gn:asciiname":"Bleskestad",
+    "gn:country_code":"NO",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3160980,
+    "gn:latitude":59.65,
+    "gn:longitude":6.93333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Bleskestad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297509,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160980
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"148b17646a1d4f319c7ae55a5b9597f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297509,
+            "locality_id":1293854741,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1293854741,
+    "wof:lastmodified":1536754882,
+    "wof:name":"Bleskestad",
+    "wof:parent_id":1159297509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.93333,
+    59.65,
+    6.93333,
+    59.65
+],
+  "geometry": {"coordinates":[6.93333,59.65],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260000951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.85,59.6,5.85,59.6",
+    "geom:latitude":59.6,
+    "geom:longitude":5.85,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Dorheim",
+    "gn:country_code":"NO",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3159074,
+    "gn:latitude":59.6,
+    "gn:longitude":5.85,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"D\u00f8rheim",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296919,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3159074
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c724620274eef05d8a21389bf55f5182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296919,
+            "locality_id":1260000951,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1260000951,
+    "wof:lastmodified":1536607199,
+    "wof:name":"Dorheim",
+    "wof:parent_id":1159296919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.85,
+    59.6,
+    5.85,
+    59.6
+],
+  "geometry": {"coordinates":[5.85,59.6],"type":"Point"}
+}

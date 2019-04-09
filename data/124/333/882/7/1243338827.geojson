@@ -1,0 +1,71 @@
+{
+  "id": 1243338827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.29081,58.03449,7.29081,58.03449",
+    "geom:latitude":58.03449,
+    "geom:longitude":7.29081,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1029.0",
+    "gn:asciiname":"Austgarden",
+    "gn:country_code":"NO",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536230,
+    "gn:latitude":58.03449,
+    "gn:longitude":7.29081,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Austg\u00e5rden",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Austg\u00e5rden"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297315,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536230
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0d4995cf596f8a6d9d755f9243c7da45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297315,
+            "locality_id":1243338827,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1243338827,
+    "wof:lastmodified":1537675960,
+    "wof:name":"Austgarden",
+    "wof:parent_id":1159297315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.29081,
+    58.03449000000001,
+    7.29081,
+    58.03449000000001
+],
+  "geometry": {"coordinates":[7.29081,58.03449000000001],"type":"Point"}
+}

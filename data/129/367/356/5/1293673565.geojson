@@ -1,0 +1,66 @@
+{
+  "id": 1293673565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16645,67.77322,15.16645,67.77322",
+    "geom:latitude":67.77322,
+    "geom:longitude":15.16645,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1848.0",
+    "gn:asciiname":"Marhaug",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3146395,
+    "gn:latitude":67.77322,
+    "gn:longitude":15.16645,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Marhaug",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297343,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3146395
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2da8195c64e1c75208069dd0ba79b315",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297343,
+            "locality_id":1293673565,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1293673565,
+    "wof:lastmodified":1537015339,
+    "wof:name":"Marhaug",
+    "wof:parent_id":1159297343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.16645,
+    67.77322,
+    15.16645,
+    67.77322
+],
+  "geometry": {"coordinates":[15.16645,67.77321999999999],"type":"Point"}
+}

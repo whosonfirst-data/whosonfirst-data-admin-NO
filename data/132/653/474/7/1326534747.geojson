@@ -1,0 +1,80 @@
+{
+  "id": 1326534747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.015,70.04771,25.015,70.04771",
+    "geom:latitude":70.04771,
+    "geom:longitude":25.015,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2020.0",
+    "gn:asciiname":"Dulerohtu",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":780249,
+    "gn:latitude":70.04771,
+    "gn:longitude":25.015,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Dulerohtu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fkv_x_preferred":[
+        "Tyllyruto"
+    ],
+    "name:nor_x_preferred":[
+        "Ildskog"
+    ],
+    "name:nor_x_variant":[
+        "Eldskog"
+    ],
+    "name:sme_x_preferred":[
+        "Dulerohtu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297563,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":780249
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"da8473e5e99a503198a718984826bcb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297563,
+            "locality_id":1326534747,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1326534747,
+    "wof:lastmodified":1537675664,
+    "wof:name":"Dulerohtu",
+    "wof:parent_id":1159297563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.015,
+    70.04771,
+    25.015,
+    70.04771
+],
+  "geometry": {"coordinates":[25.015,70.04771],"type":"Point"}
+}

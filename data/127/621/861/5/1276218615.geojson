@@ -1,0 +1,80 @@
+{
+  "id": 1276218615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.32108,59.59692,5.32108,59.59692",
+    "geom:latitude":59.59692,
+    "geom:longitude":5.32108,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1216.0",
+    "gn:asciiname":"Buavag",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3159815,
+    "gn:latitude":59.59692,
+    "gn:longitude":5.32108,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Buav\u00e5g",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Buav\u00e5g"
+    ],
+    "name:nor_x_variant":[
+        "Buav\u00e5gen"
+    ],
+    "name:und_x_variant":[
+        "Bua",
+        "Buav\u00e5g",
+        "Buav\u00e5gen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297363,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3159815
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a1928668f33bba6a9101f7f8451a3f0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297363,
+            "locality_id":1276218615,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1276218615,
+    "wof:lastmodified":1537675864,
+    "wof:name":"Buavag",
+    "wof:parent_id":1159297363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.32108,
+    59.59692,
+    5.32108,
+    59.59692
+],
+  "geometry": {"coordinates":[5.32108,59.59692],"type":"Point"}
+}

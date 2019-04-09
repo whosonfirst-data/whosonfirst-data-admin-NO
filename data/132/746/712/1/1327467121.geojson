@@ -1,0 +1,68 @@
+{
+  "id": 1327467121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.36117,60.68939,8.36117,60.68939",
+    "geom:latitude":60.68939,
+    "geom:longitude":8.36117,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"619.0",
+    "gn:asciiname":"Vass",
+    "gn:country_code":"NO",
+    "gn:dem":732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3132599,
+    "gn:latitude":60.68939,
+    "gn:longitude":8.36117,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Vass",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297217,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3132599
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"bc44c49bd23aa8cdb8985e3c9b778623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297217,
+            "locality_id":1327467121,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1327467121,
+    "wof:lastmodified":1536628995,
+    "wof:name":"Vass",
+    "wof:parent_id":1159297217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.36117,
+    60.68939,
+    8.36117,
+    60.68939
+],
+  "geometry": {"coordinates":[8.36117,60.68939],"type":"Point"}
+}

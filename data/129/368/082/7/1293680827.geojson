@@ -1,0 +1,68 @@
+{
+  "id": 1293680827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.74425,60.46681,5.74425,60.46681",
+    "geom:latitude":60.46681,
+    "geom:longitude":5.74425,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1251.0",
+    "gn:asciiname":"Indre Bogo",
+    "gn:country_code":"NO",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3160834,
+    "gn:latitude":60.46681,
+    "gn:longitude":5.74425,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Indre Bogo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297437,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160834
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"36d73069fad36036e0badc9a03dc1238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297437,
+            "locality_id":1293680827,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1293680827,
+    "wof:lastmodified":1537004915,
+    "wof:name":"Indre Bogo",
+    "wof:parent_id":1159297437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.74425,
+    60.46681,
+    5.74425,
+    60.46681
+],
+  "geometry": {"coordinates":[5.74425,60.46681],"type":"Point"}
+}

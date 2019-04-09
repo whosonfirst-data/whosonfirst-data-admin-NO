@@ -1,0 +1,71 @@
+{
+  "id": 1293465593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.36168,68.92274,17.36168,68.92274",
+    "geom:latitude":68.92274,
+    "geom:longitude":17.36168,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1917.0",
+    "gn:asciiname":"Arbostad",
+    "gn:country_code":"NO",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537481,
+    "gn:latitude":68.92274,
+    "gn:longitude":17.36168,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"\u00c5rbostad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00c5rbostad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296917,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537481
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e4033cd4fecc61115bfbe950674a2d23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296917,
+            "locality_id":1293465593,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1293465593,
+    "wof:lastmodified":1537676014,
+    "wof:name":"Arbostad",
+    "wof:parent_id":1159296917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.36168,
+    68.92274,
+    17.36168,
+    68.92274
+],
+  "geometry": {"coordinates":[17.36168,68.92274],"type":"Point"}
+}

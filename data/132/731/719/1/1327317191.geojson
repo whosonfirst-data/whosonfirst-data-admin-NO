@@ -1,0 +1,73 @@
+{
+  "id": 1327317191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.08333,58.66667,6.08333,58.66667",
+    "geom:latitude":58.66667,
+    "geom:longitude":6.08333,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1114.0",
+    "gn:asciiname":"Skjeveland",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3138809,
+    "gn:latitude":58.66667,
+    "gn:longitude":6.08333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Skjeveland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Skj\u00e6veland",
+        "Skjeveland"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297601,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3138809
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"76cd3d43e4202940e9b2c4f1a21cf0e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297601,
+            "locality_id":1327317191,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1327317191,
+    "wof:lastmodified":1537675718,
+    "wof:name":"Skjeveland",
+    "wof:parent_id":1159297601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.08333,
+    58.66667,
+    6.08333,
+    58.66667
+],
+  "geometry": {"coordinates":[6.08333,58.66667],"type":"Point"}
+}

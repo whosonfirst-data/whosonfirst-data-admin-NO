@@ -1,0 +1,73 @@
+{
+  "id": 1344128413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.32666,58.95249,9.32666,58.95249",
+    "geom:latitude":58.95249,
+    "geom:longitude":9.32666,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"815.0",
+    "gn:asciiname":"Farsjo",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3132600,
+    "gn:latitude":58.95249,
+    "gn:longitude":9.32666,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Farsj\u00f8",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vassj\u00f6",
+        "V\u00e5sj\u00f8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297523,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3132600
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c3c14830b2a23cf94225ff5c370e3318",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297523,
+            "locality_id":1344128413,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1344128413,
+    "wof:lastmodified":1537675681,
+    "wof:name":"Farsjo",
+    "wof:parent_id":1159297523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.32666,
+    58.95249,
+    9.32666,
+    58.95249
+],
+  "geometry": {"coordinates":[9.32666,58.95249],"type":"Point"}
+}

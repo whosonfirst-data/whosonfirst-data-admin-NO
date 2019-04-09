@@ -1,0 +1,71 @@
+{
+  "id": 1327445447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.07671,60.50254,11.07671,60.50254",
+    "geom:latitude":60.50254,
+    "geom:longitude":11.07671,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"239.0",
+    "gn:asciiname":"Nord-Bergvatn",
+    "gn:country_code":"NO",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537398,
+    "gn:latitude":60.50254,
+    "gn:longitude":11.07671,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Nord-Bergvatn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Nord-Bergvatn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296797,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537398
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b29ec3018767154c6ca554345d880302",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296797,
+            "locality_id":1327445447,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1327445447,
+    "wof:lastmodified":1537676010,
+    "wof:name":"Nord-Bergvatn",
+    "wof:parent_id":1159296797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.07671,
+    60.50254,
+    11.07671,
+    60.50254
+],
+  "geometry": {"coordinates":[11.07671,60.50254],"type":"Point"}
+}

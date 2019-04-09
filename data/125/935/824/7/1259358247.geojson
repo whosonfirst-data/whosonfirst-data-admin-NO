@@ -1,0 +1,68 @@
+{
+  "id": 1259358247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.53333,58.01667,7.53333,58.01667",
+    "geom:latitude":58.01667,
+    "geom:longitude":7.53333,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1002.0",
+    "gn:asciiname":"Eskeland",
+    "gn:country_code":"NO",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3158072,
+    "gn:latitude":58.01667,
+    "gn:longitude":7.53333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Eskeland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297379,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3158072
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"283fb738e51eb3da998798f3f7f3c418",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297379,
+            "locality_id":1259358247,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1259358247,
+    "wof:lastmodified":1537037063,
+    "wof:name":"Eskeland",
+    "wof:parent_id":1159297379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.53333,
+    58.01667,
+    7.53333,
+    58.01667
+],
+  "geometry": {"coordinates":[7.53333,58.01667],"type":"Point"}
+}

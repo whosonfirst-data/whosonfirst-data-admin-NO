@@ -1,0 +1,72 @@
+{
+  "id": 1209900577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.15,65.31667,12.15,65.31667",
+    "geom:latitude":65.31667,
+    "geom:longitude":12.15,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1812.0",
+    "gn:asciiname":"Vikasjoen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3131723,
+    "gn:latitude":65.31667,
+    "gn:longitude":12.15,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Vikasj\u00f8en",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Viksj\u00f6en",
+        "Vikesj\u00f6en",
+        "Vikasj\u00f8en"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297181,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3131723
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b535dc9686508b49dd5665979e0a00b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297181,
+            "locality_id":1209900577,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1209900577,
+    "wof:lastmodified":1537675676,
+    "wof:name":"Vikasjoen",
+    "wof:parent_id":1159297181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.15,
+    65.31667,
+    12.15,
+    65.31667
+],
+  "geometry": {"coordinates":[12.15,65.31667],"type":"Point"}
+}

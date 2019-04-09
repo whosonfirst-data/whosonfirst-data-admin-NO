@@ -1,0 +1,108 @@
+{
+  "id": 1125924913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.38333,63.53333,8.38333,63.53333",
+    "geom:latitude":63.53333,
+    "geom:longitude":8.38333,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":63.53333,
+    "lbl:longitude":8.38333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Kvenv\u00e6r"
+    ],
+    "name:eng_x_preferred":[
+        "Kvenv\u00e6r"
+    ],
+    "name:fre_x_preferred":[
+        "Kvenv\u00e6r"
+    ],
+    "name:may_x_preferred":[
+        "Kvenv\u00e6r"
+    ],
+    "name:nno_x_preferred":[
+        "Kvenv\u00e6r kommune"
+    ],
+    "name:nob_x_preferred":[
+        "Kvenv\u00e6r"
+    ],
+    "name:unk_x_variant":[
+        "Kvenv\u00e6r"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3224758,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kvenvaer",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
+    "qs_pg:photos":32,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":32,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":270975,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":860962,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159297259,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3224758,
+        "gp:id":860962,
+        "qs_pg:id":270975,
+        "wd:id":"Q4588388"
+    },
+    "wof:country":"NO",
+    "wof:created":1497296607,
+    "wof:geomhash":"9d2d04cd306281d37a9419db833b9cd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297259,
+            "locality_id":1125924913,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1125924913,
+    "wof:lastmodified":1529700330,
+    "wof:name":"Kvenvaer",
+    "wof:parent_id":1159297259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.38333,
+    63.53333,
+    8.38333,
+    63.53333
+],
+  "geometry": {"coordinates":[8.38333,63.53333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259752787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.13333,63.98333,10.13333,63.98333",
+    "geom:latitude":63.98333,
+    "geom:longitude":10.13333,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5018.0",
+    "gn:asciiname":"Morkastrand",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3145466,
+    "gn:latitude":63.98333,
+    "gn:longitude":10.13333,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Morkastrand",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Morkestrand",
+        "Morkastrand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297163,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3145466
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f53efa0e70c47aacf4fb9d0ce7ec7ed3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297163,
+            "locality_id":1259752787,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1259752787,
+    "wof:lastmodified":1537675764,
+    "wof:name":"Morkastrand",
+    "wof:parent_id":1159297163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.13333,
+    63.98333,
+    10.13333,
+    63.98333
+],
+  "geometry": {"coordinates":[10.13333,63.98333],"type":"Point"}
+}

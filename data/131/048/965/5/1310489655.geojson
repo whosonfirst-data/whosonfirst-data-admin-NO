@@ -1,0 +1,73 @@
+{
+  "id": 1310489655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.01344,61.15963,9.01344,61.15963",
+    "geom:latitude":61.15963,
+    "geom:longitude":9.01344,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"544.0",
+    "gn:asciiname":"Hegge",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3153382,
+    "gn:latitude":61.15963,
+    "gn:longitude":9.01344,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Hegge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00d6stre Slidre",
+        "Hegge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296737,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3153382
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a9d485cd62a9e7a3c927e71071f546c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296737,
+            "locality_id":1310489655,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1310489655,
+    "wof:lastmodified":1537675819,
+    "wof:name":"Hegge",
+    "wof:parent_id":1159296737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.01344,
+    61.15963000000001,
+    9.01344,
+    61.15963000000001
+],
+  "geometry": {"coordinates":[9.01344,61.15963000000001],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 1125921769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.86667,69.73333,19.86667,69.73333",
+    "geom:latitude":69.73333,
+    "geom:longitude":19.86667,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":69.73333,
+    "lbl:longitude":19.86667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "J\u00e4gervatn"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3150942,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"J\u00e6gervatnet",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Troms Fylke",
+    "qs_pg:photos":53,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":53,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":393989,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":860309,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Troms Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297359,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3150942,
+        "gp:id":860309,
+        "qs_pg:id":393989
+    },
+    "wof:country":"NO",
+    "wof:created":1497296505,
+    "wof:geomhash":"b9146e3d9041d6f37940a94587ba440e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297359,
+            "locality_id":1125921769,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1125921769,
+    "wof:lastmodified":1529700447,
+    "wof:name":"J\u00e6gervatnet",
+    "wof:parent_id":1159297359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.86667,
+    69.73333,
+    19.86667,
+    69.73333
+],
+  "geometry": {"coordinates":[19.86667,69.73333],"type":"Point"}
+}

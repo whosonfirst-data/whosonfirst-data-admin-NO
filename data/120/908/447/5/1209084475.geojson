@@ -1,0 +1,62 @@
+{
+  "id": 1209084475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.36667,60.66667,10.36667,60.66667",
+    "geom:latitude":60.66667,
+    "geom:longitude":10.36667,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"536.0",
+    "gn:asciiname":"Holmen",
+    "gn:country_code":"NO",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3152140,
+    "gn:latitude":60.66667,
+    "gn:longitude":10.36667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Holmen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3152140
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"bf28058003456deee0fceafe54eef93f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209084475
+        }
+    ],
+    "wof:id":1209084475,
+    "wof:lastmodified":1536298232,
+    "wof:name":"Holmen",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.36667,
+    60.66667,
+    10.36667,
+    60.66667
+],
+  "geometry": {"coordinates":[10.36667,60.66667],"type":"Point"}
+}

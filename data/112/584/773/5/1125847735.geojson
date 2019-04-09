@@ -1,0 +1,106 @@
+{
+  "id": 1125847735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.03333,58.83333,6.03333,58.83333",
+    "geom:latitude":58.83333,
+    "geom:longitude":6.03333,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":725,
+    "gn:population":725,
+    "iso:country":"NO",
+    "lbl:latitude":58.83333,
+    "lbl:longitude":6.03333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Oltedal"
+    ],
+    "name:dut_x_preferred":[
+        "Oltedal"
+    ],
+    "name:eng_x_preferred":[
+        "Oltedal"
+    ],
+    "name:fre_x_preferred":[
+        "Oltedal"
+    ],
+    "name:may_x_preferred":[
+        "Oltedal"
+    ],
+    "name:nno_x_preferred":[
+        "Oltedal"
+    ],
+    "name:nob_x_preferred":[
+        "Oltedal"
+    ],
+    "name:rum_x_preferred":[
+        "Oltedal"
+    ],
+    "name:unk_x_variant":[
+        "\u00d6vre Oltedal"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3143573,
+    "qs_pg:gn_pop":725,
+    "qs_pg:name":"Oltedal",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":94761,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297401,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3143573,
+        "qs_pg:id":94761,
+        "wd:id":"Q2351148"
+    },
+    "wof:country":"NO",
+    "wof:created":1497293244,
+    "wof:geomhash":"ddfc3a922ea4a63d8256f6296a6a8565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297401,
+            "locality_id":1125847735,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1125847735,
+    "wof:lastmodified":1529700292,
+    "wof:name":"Oltedal",
+    "wof:parent_id":1159297401,
+    "wof:placetype":"locality",
+    "wof:population":725,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.03333,
+    58.83333,
+    6.03333,
+    58.83333
+],
+  "geometry": {"coordinates":[6.03333,58.83333],"type":"Point"}
+}

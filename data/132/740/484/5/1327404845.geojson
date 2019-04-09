@@ -1,0 +1,73 @@
+{
+  "id": 1327404845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.65,58.7,5.65,58.7",
+    "geom:latitude":58.7,
+    "geom:longitude":5.65,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1121.0",
+    "gn:asciiname":"Haugland",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3153610,
+    "gn:latitude":58.7,
+    "gn:longitude":5.65,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Haugland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hangland",
+        "Haugland"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296707,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3153610
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0c3f7e8f5a39f25b6239f9f5f97e09f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296707,
+            "locality_id":1327404845,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1327404845,
+    "wof:lastmodified":1537675820,
+    "wof:name":"Haugland",
+    "wof:parent_id":1159296707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.65,
+    58.7,
+    5.65,
+    58.7
+],
+  "geometry": {"coordinates":[5.65,58.7],"type":"Point"}
+}

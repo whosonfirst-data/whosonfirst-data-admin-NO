@@ -1,0 +1,68 @@
+{
+  "id": 1259346039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88333,67.8,15.88333,67.8",
+    "geom:latitude":67.8,
+    "geom:longitude":15.88333,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Myrland",
+    "gn:country_code":"NO",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3145125,
+    "gn:latitude":67.8,
+    "gn:longitude":15.88333,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Myrland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Myrland"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297343,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3145125
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e462ec79cba750ae5d06ab8d8063653a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297343,
+            "locality_id":1259346039,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1259346039,
+    "wof:lastmodified":1537675761,
+    "wof:name":"Myrland",
+    "wof:parent_id":1159297343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88333,
+    67.8,
+    15.88333,
+    67.8
+],
+  "geometry": {"coordinates":[15.88333,67.8],"type":"Point"}
+}

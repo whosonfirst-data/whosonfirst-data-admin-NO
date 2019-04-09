@@ -1,0 +1,68 @@
+{
+  "id": 1309996627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.46774,63.01762,7.46774,63.01762",
+    "geom:latitude":63.01762,
+    "geom:longitude":7.46774,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"1554.0",
+    "gn:asciiname":"Karvag",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10860995,
+    "gn:latitude":63.01762,
+    "gn:longitude":7.46774,
+    "gn:modification_date":"2017-09-23",
+    "gn:name":"Karv\u00e5g",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297467,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10860995
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"dba15369de55188874b0ab612156872f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297467,
+            "locality_id":1309996627,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1309996627,
+    "wof:lastmodified":1536656183,
+    "wof:name":"Karvag",
+    "wof:parent_id":1159297467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.46774,
+    63.01762,
+    7.46774,
+    63.01762
+],
+  "geometry": {"coordinates":[7.46774,63.01762],"type":"Point"}
+}

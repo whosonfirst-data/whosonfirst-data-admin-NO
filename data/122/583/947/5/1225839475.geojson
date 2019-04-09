@@ -1,0 +1,73 @@
+{
+  "id": 1225839475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.83333,60.01667,5.83333,60.01667",
+    "geom:latitude":60.01667,
+    "geom:longitude":5.83333,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1224.0",
+    "gn:asciiname":"Asen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3162713,
+    "gn:latitude":60.01667,
+    "gn:longitude":5.83333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u00c5sen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aasen",
+        "\u00c5sen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296949,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3162713
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"553f0bf015c1a369616942bc0463a03f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296949,
+            "locality_id":1225839475,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1225839475,
+    "wof:lastmodified":1537675886,
+    "wof:name":"Asen",
+    "wof:parent_id":1159296949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.83333,
+    60.01667,
+    5.83333,
+    60.01667
+],
+  "geometry": {"coordinates":[5.83333,60.01667],"type":"Point"}
+}

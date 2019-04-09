@@ -1,0 +1,73 @@
+{
+  "id": 1310311189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.16667,60.15,10.16667,60.15",
+    "geom:latitude":60.15,
+    "geom:longitude":10.16667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"605.0",
+    "gn:asciiname":"Roysing",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141045,
+    "gn:latitude":60.15,
+    "gn:longitude":10.16667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"R\u00f8ysing",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00f6ising",
+        "R\u00f8ysing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297513,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141045
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"64fd2bac14eaae04d999a8499952d877",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297513,
+            "locality_id":1310311189,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1310311189,
+    "wof:lastmodified":1537675734,
+    "wof:name":"Roysing",
+    "wof:parent_id":1159297513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.16667,
+    60.15,
+    10.16667,
+    60.15
+],
+  "geometry": {"coordinates":[10.16667,60.15],"type":"Point"}
+}

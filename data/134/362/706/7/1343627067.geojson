@@ -1,0 +1,68 @@
+{
+  "id": 1343627067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.6359,58.2458,7.6359,58.2458",
+    "geom:latitude":58.2458,
+    "geom:longitude":7.6359,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1017.0",
+    "gn:asciiname":"Mesel",
+    "gn:country_code":"NO",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3146004,
+    "gn:latitude":58.2458,
+    "gn:longitude":7.6359,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Mesel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296715,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3146004
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7e03c83a2f7057ce0d735642fcb38895",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296715,
+            "locality_id":1343627067,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1343627067,
+    "wof:lastmodified":1537002540,
+    "wof:name":"Mesel",
+    "wof:parent_id":1159296715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.6359,
+    58.2458,
+    7.6359,
+    58.2458
+],
+  "geometry": {"coordinates":[7.6359,58.2458],"type":"Point"}
+}

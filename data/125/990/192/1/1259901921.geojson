@@ -1,0 +1,73 @@
+{
+  "id": 1259901921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.28333,61.75,10.28333,61.75",
+    "geom:latitude":61.75,
+    "geom:longitude":10.28333,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"430.0",
+    "gn:asciiname":"Brettninga",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3160011,
+    "gn:latitude":61.75,
+    "gn:longitude":10.28333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Brettninga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bretningen",
+        "Brettninga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297241,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160011
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"49f09d8a4aa95c585f57c5a4d43dc464",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297241,
+            "locality_id":1259901921,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1259901921,
+    "wof:lastmodified":1537675865,
+    "wof:name":"Brettninga",
+    "wof:parent_id":1159297241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.28333,
+    61.75,
+    10.28333,
+    61.75
+],
+  "geometry": {"coordinates":[10.28333,61.75],"type":"Point"}
+}

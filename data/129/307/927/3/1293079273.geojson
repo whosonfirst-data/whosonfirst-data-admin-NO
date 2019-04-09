@@ -1,0 +1,71 @@
+{
+  "id": 1293079273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.59909,62.10487,8.59909,62.10487",
+    "geom:latitude":62.10487,
+    "geom:longitude":8.59909,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"512.0",
+    "gn:asciiname":"Sausaeter",
+    "gn:country_code":"NO",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536029,
+    "gn:latitude":62.10487,
+    "gn:longitude":8.59909,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Saus\u00e6ter",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Saus\u00e6ter"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297151,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536029
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7ffb33aec65a63b85da83c58184e9d85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297151,
+            "locality_id":1293079273,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1293079273,
+    "wof:lastmodified":1537675951,
+    "wof:name":"Sausaeter",
+    "wof:parent_id":1159297151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.59909,
+    62.10487,
+    8.59909,
+    62.10487
+],
+  "geometry": {"coordinates":[8.59909,62.10487],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226735229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.45483,62.68557,7.45483,62.68557",
+    "geom:latitude":62.68557,
+    "geom:longitude":7.45483,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1502.0",
+    "gn:asciiname":"Solsnes",
+    "gn:country_code":"NO",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536238,
+    "gn:latitude":62.68557,
+    "gn:longitude":7.45483,
+    "gn:modification_date":"2017-10-12",
+    "gn:name":"S\u00f8lsnes",
+    "gn:population":100,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "S\u00f8lsnes"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297499,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536238,
+        "wk:page":"S%C3%B8lsnes"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8f5951a33670b56682f385542e0dd5b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297499,
+            "locality_id":1226735229,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1226735229,
+    "wof:lastmodified":1537675961,
+    "wof:name":"Solsnes",
+    "wof:parent_id":1159297499,
+    "wof:placetype":"locality",
+    "wof:population":100,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.45483,
+    62.68557,
+    7.45483,
+    62.68557
+],
+  "geometry": {"coordinates":[7.45483,62.68557],"type":"Point"}
+}

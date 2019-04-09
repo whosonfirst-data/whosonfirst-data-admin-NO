@@ -1,0 +1,67 @@
+{
+  "id": 1343550975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.17614,66.32593,14.17614,66.32593",
+    "geom:latitude":66.32593,
+    "geom:longitude":14.17614,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1833.0",
+    "gn:asciiname":"Selfors",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3139923,
+    "gn:latitude":66.32593,
+    "gn:longitude":14.17614,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Selfors",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296963,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3139923,
+        "wk:page":"Selfors"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c553b93c527d2771d3f88477a0135f2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296963,
+            "locality_id":1343550975,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1343550975,
+    "wof:lastmodified":1537570079,
+    "wof:name":"Selfors",
+    "wof:parent_id":1159296963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.17614,
+    66.32593,
+    14.17614,
+    66.32593
+],
+  "geometry": {"coordinates":[14.17614,66.32593],"type":"Point"}
+}

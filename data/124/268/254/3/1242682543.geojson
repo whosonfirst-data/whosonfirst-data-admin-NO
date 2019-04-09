@@ -1,0 +1,84 @@
+{
+  "id": 1242682543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.07822,69.83981,25.07822,69.83981",
+    "geom:latitude":69.83981,
+    "geom:longitude":25.07822,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2020.0",
+    "gn:asciiname":"Skoganvarre",
+    "gn:country_code":"NO",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":777675,
+    "gn:latitude":69.83981,
+    "gn:longitude":25.07822,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Skoganvarre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Skoganvarre"
+    ],
+    "name:nor_x_preferred":[
+        "Skoganvarre"
+    ],
+    "name:nor_x_variant":[
+        "Skoganvarri"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043a\u0443\u0433\u0430\u043d\u0432\u0430\u0440\u0440\u0435"
+    ],
+    "name:sme_x_preferred":[
+        "Skuvvanv\u00e1rri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297563,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":777675,
+        "wk:page":"Skoganvarre"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5d421671e0517a2b7d87dc914ccf6931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297563,
+            "locality_id":1242682543,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1242682543,
+    "wof:lastmodified":1537675644,
+    "wof:name":"Skoganvarre",
+    "wof:parent_id":1159297563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.07822,
+    69.83981,
+    25.07822,
+    69.83981
+],
+  "geometry": {"coordinates":[25.07822,69.83981],"type":"Point"}
+}

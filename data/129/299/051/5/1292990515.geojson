@@ -1,0 +1,66 @@
+{
+  "id": 1292990515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.31667,68.55,16.31667,68.55",
+    "geom:latitude":68.55,
+    "geom:longitude":16.31667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1852.0",
+    "gn:asciiname":"Sand",
+    "gn:country_code":"NO",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3140446,
+    "gn:latitude":68.55,
+    "gn:longitude":16.31667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Sand",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297631,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3140446
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b73288e35b9aee0dc356d9692e3313c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297631,
+            "locality_id":1292990515,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1292990515,
+    "wof:lastmodified":1537005755,
+    "wof:name":"Sand",
+    "wof:parent_id":1159297631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.31667,
+    68.55,
+    16.31667,
+    68.55
+],
+  "geometry": {"coordinates":[16.31667,68.55],"type":"Point"}
+}

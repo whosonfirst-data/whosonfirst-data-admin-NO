@@ -1,0 +1,94 @@
+{
+  "id": 1126023665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.25,63.65,12.25,63.65",
+    "geom:latitude":63.65,
+    "geom:longitude":12.25,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":63.65,
+    "lbl:longitude":12.25,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0434\u0432\u0438\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Sandvike"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3140126,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Sandvika",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nord-Tr\u00f8ndelag Fylke",
+    "qs_pg:photos":116,
+    "qs_pg:photos_1k":24,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":116,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":314515,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":863472,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Nord-Tr\u00f8ndelag Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296801,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3140126,
+        "gp:id":863472,
+        "qs_pg:id":314515
+    },
+    "wof:country":"NO",
+    "wof:created":1497300991,
+    "wof:geomhash":"4f29c581d7724b6b5706e5a55d52895c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296801,
+            "locality_id":1126023665,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1126023665,
+    "wof:lastmodified":1529700206,
+    "wof:name":"Sandvika",
+    "wof:parent_id":1159296801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.25,
+    63.65,
+    12.25,
+    63.65
+],
+  "geometry": {"coordinates":[12.25,63.65],"type":"Point"}
+}

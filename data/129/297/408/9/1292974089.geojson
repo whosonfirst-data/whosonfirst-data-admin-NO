@@ -1,0 +1,73 @@
+{
+  "id": 1292974089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.08333,61.18333,5.08333,61.18333",
+    "geom:latitude":61.18333,
+    "geom:longitude":5.08333,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1413.0",
+    "gn:asciiname":"Storaker",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3136614,
+    "gn:latitude":61.18333,
+    "gn:longitude":5.08333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Storaker",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Storakersund",
+        "Storaker"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297157,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3136614
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f790db5dab13b96fd6008d6435f240f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297157,
+            "locality_id":1292974089,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1292974089,
+    "wof:lastmodified":1537675704,
+    "wof:name":"Storaker",
+    "wof:parent_id":1159297157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.08333,
+    61.18333000000001,
+    5.08333,
+    61.18333000000001
+],
+  "geometry": {"coordinates":[5.08333,61.18333000000001],"type":"Point"}
+}

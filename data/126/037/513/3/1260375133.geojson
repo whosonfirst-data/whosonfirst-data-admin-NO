@@ -1,0 +1,66 @@
+{
+  "id": 1260375133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.98277,68.58598,14.98277,68.58598",
+    "geom:latitude":68.58598,
+    "geom:longitude":14.98277,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1866.0",
+    "gn:asciiname":"Bitterstad",
+    "gn:country_code":"NO",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3161511,
+    "gn:latitude":68.58598,
+    "gn:longitude":14.98277,
+    "gn:modification_date":"2014-05-29",
+    "gn:name":"Bitterstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296743,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3161511
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b6aaafe798c9a8c0d8a0a64fefa46373",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296743,
+            "locality_id":1260375133,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1260375133,
+    "wof:lastmodified":1537082962,
+    "wof:name":"Bitterstad",
+    "wof:parent_id":1159296743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.98277,
+    68.58598,
+    14.98277,
+    68.58598
+],
+  "geometry": {"coordinates":[14.98277,68.58598000000001],"type":"Point"}
+}

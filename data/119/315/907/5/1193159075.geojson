@@ -1,0 +1,68 @@
+{
+  "id": 1193159075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.86191,62.41723,10.86191,62.41723",
+    "geom:latitude":62.41723,
+    "geom:longitude":10.86191,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"436.0",
+    "gn:asciiname":"Vingelen",
+    "gn:country_code":"NO",
+    "gn:dem":720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3131582,
+    "gn:latitude":62.41723,
+    "gn:longitude":10.86191,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Vingelen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297297,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3131582
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d6688cbb72ad6fb40ebe03f4f5109cbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297297,
+            "locality_id":1193159075,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1193159075,
+    "wof:lastmodified":1536370003,
+    "wof:name":"Vingelen",
+    "wof:parent_id":1159297297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.86191,
+    62.41723,
+    10.86191,
+    62.41723
+],
+  "geometry": {"coordinates":[10.86191,62.41723],"type":"Point"}
+}

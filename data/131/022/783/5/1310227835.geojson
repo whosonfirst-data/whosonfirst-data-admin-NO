@@ -1,0 +1,83 @@
+{
+  "id": 1310227835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.67293,70.07425,22.67293,70.07425",
+    "geom:latitude":70.07425,
+    "geom:longitude":22.67293,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2012.0",
+    "gn:asciiname":"Indre Ulvsvag",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":777101,
+    "gn:latitude":70.07425,
+    "gn:longitude":22.67293,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Indre Ulvsv\u00e5g",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Indre Ulvsv\u00e5g"
+    ],
+    "name:nor_x_variant":[
+        "Ulvsv\u00e5g"
+    ],
+    "name:und_x_variant":[
+        "Ultasvagge",
+        "Ulvsv\u00e5g",
+        "Ulvsvaag",
+        "Ulfsvaag",
+        "Ullsv\u00e5g",
+        "Ulsv\u00e5g"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296893,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":777101
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"764debfcbc607af2019d7d8139f8811c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296893,
+            "locality_id":1310227835,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1310227835,
+    "wof:lastmodified":1537675639,
+    "wof:name":"Indre Ulvsvag",
+    "wof:parent_id":1159296893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.67293,
+    70.07425,
+    22.67293,
+    70.07425
+],
+  "geometry": {"coordinates":[22.67293,70.07425000000001],"type":"Point"}
+}

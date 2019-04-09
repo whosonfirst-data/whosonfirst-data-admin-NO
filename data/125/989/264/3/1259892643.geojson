@@ -1,0 +1,74 @@
+{
+  "id": 1259892643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.10463,58.71847,9.10463,58.71847",
+    "geom:latitude":58.71847,
+    "geom:longitude":9.10463,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"901.0",
+    "gn:asciiname":"Bossvika",
+    "gn:country_code":"NO",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3160977,
+    "gn:latitude":58.71847,
+    "gn:longitude":9.10463,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Bossvika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Bossvika"
+    ],
+    "name:nor_x_variant":[
+        "Bossvik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296923,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160977
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7ce2c0bac6fe0b026b89651a88ff80ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296923,
+            "locality_id":1259892643,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1259892643,
+    "wof:lastmodified":1537675873,
+    "wof:name":"Bossvika",
+    "wof:parent_id":1159296923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.10463,
+    58.71847,
+    9.10463,
+    58.71847
+],
+  "geometry": {"coordinates":[9.10463,58.71847],"type":"Point"}
+}

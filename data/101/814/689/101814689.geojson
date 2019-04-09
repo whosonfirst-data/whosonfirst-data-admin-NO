@@ -1,0 +1,145 @@
+{
+  "id": 101814689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000108,
+    "geom:area_square_m":476568.745249,
+    "geom:bbox":"18.5889549845,69.1373789989,18.6153966558,69.1461429623",
+    "geom:latitude":69.14178,
+    "geom:longitude":18.600777,
+    "gn:population":840,
+    "iso:country":"NO",
+    "lbl:latitude":69.141262,
+    "lbl:longitude":18.601679,
+    "mps:latitude":69.141262,
+    "mps:longitude":18.601679,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Moen"
+    ],
+    "name:dut_x_preferred":[
+        "Moen"
+    ],
+    "name:eng_x_preferred":[
+        "Moen"
+    ],
+    "name:fra_x_preferred":[
+        "Moen"
+    ],
+    "name:fre_x_preferred":[
+        "Moen"
+    ],
+    "name:may_x_preferred":[
+        "Moen"
+    ],
+    "name:msa_x_preferred":[
+        "Moen"
+    ],
+    "name:nld_x_preferred":[
+        "Moen"
+    ],
+    "name:nno_x_preferred":[
+        "Moen i M\u00e5lselv"
+    ],
+    "name:nob_x_preferred":[
+        "Moen i M\u00e5lselv"
+    ],
+    "name:nor_x_colloquial":[
+        "Moen I Maalselv",
+        "Moen I Maalselvs",
+        "Moen I Malselv",
+        "Moen I Malselvs"
+    ],
+    "name:nor_x_preferred":[
+        "Moen"
+    ],
+    "name:nor_x_variant":[
+        "Moen I M\u00e5lselv",
+        "Moen I M\u00e5lselvs",
+        "Moens"
+    ],
+    "name:ron_x_preferred":[
+        "Moen i M\u00e5lselv"
+    ],
+    "name:rum_x_preferred":[
+        "Moen i M\u00e5lselv"
+    ],
+    "name:spa_x_preferred":[
+        "Moen"
+    ],
+    "name:unk_x_variant":[
+        "Moen i M\u00e5lselv"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Troms",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:id":0,
+    "qs:la":"M\u00e5lselv",
+    "qs:la_lc":"*NO1924",
+    "qs:level":"locality",
+    "qs:loc":"Moen",
+    "qs:loc_alt":"Moen",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":149,
+    "wof:belongsto":[
+        102191581,
+        1159296775,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01ff1baa-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3145649,
+        "gp:id":861634,
+        "qs:id":1159158,
+        "qs_pg:id":267178,
+        "wd:id":"Q1782739",
+        "wk:page":"Moen, Troms"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"54879f9a2f4a48f642b5795dee6212ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296775,
+            "locality_id":101814689,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":101814689,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1529700444,
+    "wof:name":"Moen",
+    "wof:parent_id":1159296775,
+    "wof:placetype":"locality",
+    "wof:population":840,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.58895498451204,
+    69.13737899893124,
+    18.61539665582467,
+    69.14614296229234
+],
+  "geometry": {"coordinates":[[[18.60232642132212,69.1458038422449],[18.60163483351022,69.1440070477596],[18.60656850011492,69.14378082656958],[18.60622255876876,69.14288243963904],[18.60868925973296,69.14276928570746],[18.60834325230508,69.1418709039927],[18.6108098328632,69.14175772283363],[18.61046375936905,69.14085934633511],[18.61539665582467,69.14063289736038],[18.61505041975533,69.13973453106291],[18.60765132886314,69.14007414126547],[18.60661367217585,69.13737899893124],[18.601681404771,69.1376052148313],[18.60202706685379,69.13850360533161],[18.59462819750303,69.13884270258325],[18.59497360044554,69.13974110824472],[18.59004070874261,69.13996702199483],[18.59038594901875,69.14086543783753],[18.59531903380781,69.14063951414266],[18.59635551645295,69.14333473325456],[18.58895498451204,69.14367361523551],[18.58964554562647,69.14547045900014],[18.59457964373684,69.14524455000094],[18.59492516311104,69.14614296229234],[18.60232642132212,69.1458038422449]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276221659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.43333,66.0,13.43333,66.0",
+    "geom:latitude":66.0,
+    "geom:longitude":13.43333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1824.0",
+    "gn:asciiname":"Sandbukta",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3140418,
+    "gn:latitude":66.0,
+    "gn:longitude":13.43333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sandbukta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sandbugten",
+        "Sandbukta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296877,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3140418
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7c0a08f86dfd332254576dd576d345d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296877,
+            "locality_id":1276221659,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1276221659,
+    "wof:lastmodified":1537675730,
+    "wof:name":"Sandbukta",
+    "wof:parent_id":1159296877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.43333,
+    66.0,
+    13.43333,
+    66.0
+],
+  "geometry": {"coordinates":[13.43333,66.0],"type":"Point"}
+}

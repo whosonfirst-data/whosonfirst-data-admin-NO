@@ -1,0 +1,71 @@
+{
+  "id": 1327229155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.35816,60.51183,11.35816,60.51183",
+    "geom:latitude":60.51183,
+    "geom:longitude":11.35816,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"418.0",
+    "gn:asciiname":"Tjernli",
+    "gn:country_code":"NO",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535715,
+    "gn:latitude":60.51183,
+    "gn:longitude":11.35816,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Tjernli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Tjernli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297485,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535715
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"58ec28777aae67b55846b44e21d1e4fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297485,
+            "locality_id":1327229155,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1327229155,
+    "wof:lastmodified":1537675938,
+    "wof:name":"Tjernli",
+    "wof:parent_id":1159297485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.35816,
+    60.51183,
+    11.35816,
+    60.51183
+],
+  "geometry": {"coordinates":[11.35816,60.51183],"type":"Point"}
+}

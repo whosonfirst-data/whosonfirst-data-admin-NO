@@ -1,0 +1,71 @@
+{
+  "id": 1310097097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.04842,60.63076,5.04842,60.63076",
+    "geom:latitude":60.63076,
+    "geom:longitude":5.04842,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1260.0",
+    "gn:asciiname":"Mangersneset",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536924,
+    "gn:latitude":60.63076,
+    "gn:longitude":5.04842,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Mangersneset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Mangersneset"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297557,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536924
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"81e4797bfde2217a2c56e669c82ad467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297557,
+            "locality_id":1310097097,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1310097097,
+    "wof:lastmodified":1537675989,
+    "wof:name":"Mangersneset",
+    "wof:parent_id":1159297557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.04842,
+    60.63076,
+    5.04842,
+    60.63076
+],
+  "geometry": {"coordinates":[5.04842,60.63076],"type":"Point"}
+}

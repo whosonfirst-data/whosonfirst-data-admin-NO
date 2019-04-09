@@ -1,0 +1,122 @@
+{
+  "id": 85800725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":47399562.756417,
+    "geom:bbox":"5.730103,58.965141,5.730103,58.965141",
+    "geom:latitude":58.965141,
+    "geom:longitude":5.730103,
+    "iso:country":"NO",
+    "lbl:latitude":58.965141,
+    "lbl:longitude":5.730103,
+    "mps:latitude":58.951891,
+    "mps:longitude":5.729825,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Vaaland"
+    ],
+    "name:eng_x_variant":[
+        "Vaaland"
+    ],
+    "name:nor_x_colloquial":[
+        "Valand"
+    ],
+    "name:nor_x_preferred":[
+        "V\u00e5land"
+    ],
+    "name:unk_x_variant":[
+        "Vaaland",
+        "V\u00e5land"
+    ],
+    "qs:gn_adm0_cc":"NO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3137115,
+    "qs:gn_nam_loc":"Stavanger, Stavanger, Rogaland Fylke, NO",
+    "qs:gn_namadm1":"14",
+    "qs:gn_name":"V\u00e5land",
+    "qs:local_max":8021,
+    "qs:local_sum":8021,
+    "qs:localhoods":1,
+    "qs:name":"V\u00e5land",
+    "qs:name_adm0":"Norge",
+    "qs:name_adm1":"Rogaland Fylke",
+    "qs:name_adm2":"Stavanger Kommune",
+    "qs:name_en":"Vaaland",
+    "qs:name_local":"Stavanger",
+    "qs:photo_max":558,
+    "qs:photo_sum":8021,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":239,
+    "qs:woe_adm0":23424910,
+    "qs:woe_adm1":2346397,
+    "qs:woe_adm2":12592824,
+    "qs:woe_lau":0,
+    "qs:woe_local":864342,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":133,
+    "wof:belongsto":[
+        85687085,
+        102191581,
+        1159297103,
+        85633341,
+        101751915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3132939,
+        "gp:id":865467,
+        "qs:id":235359,
+        "qs_pg:id":235359,
+        "wd:id":"Q7944473",
+        "wk:page":"V\u00e5land"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"fab6febfe927cd7b7943026a35359074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297103,
+            "locality_id":101751915,
+            "neighbourhood_id":85800725,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":85800725,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1531862039,
+    "wof:name":"V\u00e5land",
+    "wof:parent_id":101751915,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.730103,
+    58.965141,
+    5.730103,
+    58.965141
+],
+  "geometry": {"coordinates":[5.730103,58.965141],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 1343560299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.52812,70.30497,25.52812,70.30497",
+    "geom:latitude":70.30497,
+    "geom:longitude":25.52812,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2020.0",
+    "gn:asciiname":"Etelaenpuoli",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":780608,
+    "gn:latitude":70.30497,
+    "gn:longitude":25.52812,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Etel\u00e4npuoli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "B\u00f8rselv"
+    ],
+    "name:fkv_x_preferred":[
+        "Etel\u00e4npuoli"
+    ],
+    "name:nor_x_preferred":[
+        "B\u00f8rselv"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0441\u0435\u043b\u044c\u0432"
+    ],
+    "name:und_x_variant":[
+        "B\u00f8rselven",
+        "B\u00f6rselv Kapel",
+        "B\u00f8rselv"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297563,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":780608,
+        "wk:page":"B%C3%B8rselv"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"efd51d47e5c97999c93dfd89e105e35d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297563,
+            "locality_id":1343560299,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1343560299,
+    "wof:lastmodified":1537675666,
+    "wof:name":"Etelaenpuoli",
+    "wof:parent_id":1159297563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.52812,
+    70.30497,
+    25.52812,
+    70.30497
+],
+  "geometry": {"coordinates":[25.52812,70.30497],"type":"Point"}
+}

@@ -1,0 +1,102 @@
+{
+  "id": 1125829085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.74298,63.41406,11.74298,63.41406",
+    "geom:latitude":63.41406,
+    "geom:longitude":11.74298,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":961,
+    "gn:population":961,
+    "iso:country":"NO",
+    "lbl:latitude":63.41406,
+    "lbl:longitude":11.74298,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bpy_x_preferred":[
+        "\u09ae\u09c7\u09b0\u09cb\u0995\u09cb\u09b0"
+    ],
+    "name:nds_x_preferred":[
+        "Kommun Mer\u00e5ker"
+    ],
+    "name:nno_x_preferred":[
+        "Mer\u00e5ker"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0440\u043e\u043a\u0435\u0440"
+    ],
+    "name:sme_x_preferred":[
+        "Muorahk\u00e1"
+    ],
+    "name:swe_x_preferred":[
+        "Mer\u00e5kers kommun"
+    ],
+    "name:unk_x_variant":[
+        "Mar\u00e5ker"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u7f85\u514b"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":3146023,
+    "qs_pg:gn_pop":961,
+    "qs_pg:name":"Mer\u00e5ker",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":581097,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297383,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3146023,
+        "qs_pg:id":581097
+    },
+    "wof:country":"NO",
+    "wof:created":1497292411,
+    "wof:geomhash":"717dec37987a5aa711e1d0057b6b2a5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297383,
+            "locality_id":1125829085,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1125829085,
+    "wof:lastmodified":1529700208,
+    "wof:name":"Mer\u00e5ker",
+    "wof:parent_id":1159297383,
+    "wof:placetype":"locality",
+    "wof:population":961,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.74298,
+    63.41406,
+    11.74298,
+    63.41406
+],
+  "geometry": {"coordinates":[11.74298,63.41406],"type":"Point"}
+}

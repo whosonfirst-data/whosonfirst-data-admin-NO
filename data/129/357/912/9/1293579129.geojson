@@ -1,0 +1,66 @@
+{
+  "id": 1293579129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.56667,65.51667,13.56667,65.51667",
+    "geom:latitude":65.51667,
+    "geom:longitude":13.56667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1825.0",
+    "gn:asciiname":"Stormoen",
+    "gn:country_code":"NO",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3136109,
+    "gn:latitude":65.51667,
+    "gn:longitude":13.56667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Stormoen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297571,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3136109
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1dd7151348673f8d12bc9360c4b5c1d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297571,
+            "locality_id":1293579129,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1293579129,
+    "wof:lastmodified":1536655031,
+    "wof:name":"Stormoen",
+    "wof:parent_id":1159297571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.56667,
+    65.51666999999999,
+    13.56667,
+    65.51666999999999
+],
+  "geometry": {"coordinates":[13.56667,65.51666999999999],"type":"Point"}
+}

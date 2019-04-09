@@ -1,0 +1,72 @@
+{
+  "id": 1259983871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.58363,59.76246,10.58363,59.76246",
+    "geom:latitude":59.76246,
+    "geom:longitude":10.58363,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"216",
+    "gn:asciiname":"Spro",
+    "gn:country_code":"NO",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404472,
+    "gn:latitude":59.76246,
+    "gn:longitude":10.58363,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Spro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Spro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297221,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404472,
+        "wk:page":"Spro"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1f54b49034c52f13a8f6bef36adebe6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297221,
+            "locality_id":1259983871,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1259983871,
+    "wof:lastmodified":1537675932,
+    "wof:name":"Spro",
+    "wof:parent_id":1159297221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.58363,
+    59.76246,
+    10.58363,
+    59.76246
+],
+  "geometry": {"coordinates":[10.58363,59.76246],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360177289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.45,61.15,11.45,61.15",
+    "geom:latitude":61.15,
+    "geom:longitude":11.45,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"429.0",
+    "gn:asciiname":"Melvoll",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3146039,
+    "gn:latitude":61.15,
+    "gn:longitude":11.45,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Melvoll",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Melvold",
+        "Melvoll"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297061,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3146039
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f88270c2fe2d06ef47393226294bc5c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297061,
+            "locality_id":1360177289,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1360177289,
+    "wof:lastmodified":1537675767,
+    "wof:name":"Melvoll",
+    "wof:parent_id":1159297061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.45,
+    61.15,
+    11.45,
+    61.15
+],
+  "geometry": {"coordinates":[11.45,61.15],"type":"Point"}
+}

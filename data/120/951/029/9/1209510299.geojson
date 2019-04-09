@@ -1,0 +1,65 @@
+{
+  "id": 1209510299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.36667,63.91667,11.36667,63.91667",
+    "geom:latitude":63.91667,
+    "geom:longitude":11.36667,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5004.0",
+    "gn:asciiname":"Fagervik",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3157883,
+    "gn:latitude":63.91667,
+    "gn:longitude":11.36667,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Fagervik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Fagervik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3157883
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9d9ab96c12a93b6f2a62dc57df54b927",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209510299
+        }
+    ],
+    "wof:id":1209510299,
+    "wof:lastmodified":1537675849,
+    "wof:name":"Fagervik",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.36667,
+    63.91667,
+    11.36667,
+    63.91667
+],
+  "geometry": {"coordinates":[11.36667,63.91667],"type":"Point"}
+}

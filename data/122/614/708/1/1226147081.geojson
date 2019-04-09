@@ -1,0 +1,73 @@
+{
+  "id": 1226147081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.05,60.41667,11.05,60.41667",
+    "geom:latitude":60.41667,
+    "geom:longitude":11.05,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"239.0",
+    "gn:asciiname":"Knai",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3149739,
+    "gn:latitude":60.41667,
+    "gn:longitude":11.05,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Knai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Knaimoen",
+        "Knai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296797,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3149739
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1d1f9093fb9b92cd277977673b9fbd81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296797,
+            "locality_id":1226147081,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1226147081,
+    "wof:lastmodified":1537675793,
+    "wof:name":"Knai",
+    "wof:parent_id":1159296797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.05,
+    60.41667,
+    11.05,
+    60.41667
+],
+  "geometry": {"coordinates":[11.05,60.41667],"type":"Point"}
+}

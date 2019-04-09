@@ -1,0 +1,65 @@
+{
+  "id": 1209597577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.11732,63.18937,11.11732,63.18937",
+    "geom:latitude":63.18937,
+    "geom:longitude":11.11732,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5032.0",
+    "gn:asciiname":"Uthus",
+    "gn:country_code":"NO",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536820,
+    "gn:latitude":63.18937,
+    "gn:longitude":11.11732,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Uthus",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Uthus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536820
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b3998a5c5f9951da5e287885e08a3ff9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209597577
+        }
+    ],
+    "wof:id":1209597577,
+    "wof:lastmodified":1537675985,
+    "wof:name":"Uthus",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.11732,
+    63.18937,
+    11.11732,
+    63.18937
+],
+  "geometry": {"coordinates":[11.11732,63.18937],"type":"Point"}
+}

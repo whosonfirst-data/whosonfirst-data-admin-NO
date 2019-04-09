@@ -1,0 +1,67 @@
+{
+  "id": 1310100041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.83894,66.44562,14.83894,66.44562",
+    "geom:latitude":66.44562,
+    "geom:longitude":14.83894,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1833.0",
+    "gn:asciiname":"Dunderland",
+    "gn:country_code":"NO",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3158919,
+    "gn:latitude":66.44562,
+    "gn:longitude":14.83894,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Dunderland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296963,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3158919,
+        "wk:page":"Dunderland"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"54e6253696504f16d5e3717fde259fdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296963,
+            "locality_id":1310100041,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1310100041,
+    "wof:lastmodified":1537570103,
+    "wof:name":"Dunderland",
+    "wof:parent_id":1159296963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.83894,
+    66.44561999999999,
+    14.83894,
+    66.44561999999999
+],
+  "geometry": {"coordinates":[14.83894,66.44561999999999],"type":"Point"}
+}

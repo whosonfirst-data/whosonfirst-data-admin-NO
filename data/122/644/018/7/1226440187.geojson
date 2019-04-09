@@ -1,0 +1,71 @@
+{
+  "id": 1226440187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.50127,60.44045,11.50127,60.44045",
+    "geom:latitude":60.44045,
+    "geom:longitude":11.50127,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"418.0",
+    "gn:asciiname":"Bruvoll",
+    "gn:country_code":"NO",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535648,
+    "gn:latitude":60.44045,
+    "gn:longitude":11.50127,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Bruvoll",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Bruvoll"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297485,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535648
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"dc75e732bccba2d6dccd41a08f97d852",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297485,
+            "locality_id":1226440187,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1226440187,
+    "wof:lastmodified":1537675935,
+    "wof:name":"Bruvoll",
+    "wof:parent_id":1159297485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.50127,
+    60.44045,
+    11.50127,
+    60.44045
+],
+  "geometry": {"coordinates":[11.50127,60.44045],"type":"Point"}
+}

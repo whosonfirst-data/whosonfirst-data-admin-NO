@@ -1,0 +1,74 @@
+{
+  "id": 1310381747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.53333,59.36667,8.53333,59.36667",
+    "geom:latitude":59.36667,
+    "geom:longitude":8.53333,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"829.0",
+    "gn:asciiname":"Spjotsodd",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3137268,
+    "gn:latitude":59.36667,
+    "gn:longitude":8.53333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Spjotsodd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sajotsedd",
+        "Spjotsod",
+        "Spjotsodd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297233,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3137268
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d18a628729a3e5e527018ef8a297fb98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297233,
+            "locality_id":1310381747,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1310381747,
+    "wof:lastmodified":1537675708,
+    "wof:name":"Spjotsodd",
+    "wof:parent_id":1159297233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.53333,
+    59.36666999999999,
+    8.53333,
+    59.36666999999999
+],
+  "geometry": {"coordinates":[8.53333,59.36666999999999],"type":"Point"}
+}

@@ -1,0 +1,113 @@
+{
+  "id": 1125795569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.4916,59.9758455,10.4916,59.9758455",
+    "geom:latitude":59.975845,
+    "geom:longitude":10.4916,
+    "gn:gn_country":null,
+    "iso:country":"NO",
+    "lbl:latitude":59.975845,
+    "lbl:longitude":10.4916,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Lommedalen"
+    ],
+    "name:eng_x_preferred":[
+        "Lommedalen"
+    ],
+    "name:fre_x_preferred":[
+        "Lommedalen"
+    ],
+    "name:jav_x_preferred":[
+        "Lommedalen"
+    ],
+    "name:may_x_preferred":[
+        "Lommedalen"
+    ],
+    "name:nob_x_preferred":[
+        "Lommedalen"
+    ],
+    "name:pol_x_preferred":[
+        "Lommedalen"
+    ],
+    "name:rum_x_preferred":[
+        "Lommedalen"
+    ],
+    "name:spa_x_preferred":[
+        "Lommedalen"
+    ],
+    "name:swe_x_preferred":[
+        "Lommedalen"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Lommedalen",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Akershus Fylke",
+    "qs_pg:photos":298,
+    "qs_pg:photos_1k":60,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":298,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":893497,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":22658583,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Akershus Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297009,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22658583,
+        "qs_pg:id":893497,
+        "wd:id":"Q1782665"
+    },
+    "wof:country":"NO",
+    "wof:created":1497291035,
+    "wof:geomhash":"52909f12f3a9624e97653967ee9da58d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297009,
+            "locality_id":1125795569,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1125795569,
+    "wof:lastmodified":1529699781,
+    "wof:name":"Lommedalen",
+    "wof:parent_id":1159297009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4916,
+    59.9758455,
+    10.4916,
+    59.9758455
+],
+  "geometry": {"coordinates":[10.4916,59.9758455],"type":"Point"}
+}

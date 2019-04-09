@@ -1,0 +1,74 @@
+{
+  "id": 1343728435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.03333,70.15,19.03333,70.15",
+    "geom:latitude":70.15,
+    "geom:longitude":19.03333,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1936.0",
+    "gn:asciiname":"Rotvika",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141137,
+    "gn:latitude":70.15,
+    "gn:longitude":19.03333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Rotvika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rotvic",
+        "Rotvik",
+        "Rotvika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297199,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141137
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2a6b2457bfee0d9ba26fd1a159b0a10e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297199,
+            "locality_id":1343728435,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1343728435,
+    "wof:lastmodified":1537675735,
+    "wof:name":"Rotvika",
+    "wof:parent_id":1159297199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.03333,
+    70.15,
+    19.03333,
+    70.15
+],
+  "geometry": {"coordinates":[19.03333,70.15000000000001],"type":"Point"}
+}

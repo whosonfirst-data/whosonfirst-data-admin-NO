@@ -1,0 +1,128 @@
+{
+  "id": 1125910651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.73416,69.17057,17.73416,69.17057",
+    "geom:latitude":69.17057,
+    "geom:longitude":17.73416,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":69.17057,
+    "lbl:longitude":17.73416,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0646\u063a\u0633\u0641\u064a\u0643"
+    ],
+    "name:dan_x_preferred":[
+        "Vangsvik"
+    ],
+    "name:dut_x_preferred":[
+        "Vangsvik"
+    ],
+    "name:eng_x_preferred":[
+        "Vangsvik"
+    ],
+    "name:fre_x_preferred":[
+        "Vangsvik"
+    ],
+    "name:ger_x_preferred":[
+        "Vangsvik"
+    ],
+    "name:may_x_preferred":[
+        "Vangsvik"
+    ],
+    "name:nno_x_preferred":[
+        "Vangsvik"
+    ],
+    "name:nob_x_preferred":[
+        "Vangsvik"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0646\u06af\u0633\u0648\u06cc\u06a9"
+    ],
+    "name:sme_x_preferred":[
+        "Vangsvik"
+    ],
+    "name:spa_x_preferred":[
+        "Vangsvik"
+    ],
+    "name:unk_x_variant":[
+        "Vangsvika"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":3132735,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Vangsvik",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Troms Fylke",
+    "qs_pg:photos":8,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":8,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":57906,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":865535,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Troms Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297595,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3132735,
+        "gp:id":865535,
+        "qs_pg:id":57906,
+        "wd:id":"Q3125092"
+    },
+    "wof:country":"NO",
+    "wof:created":1497296126,
+    "wof:geomhash":"b461c750ef95f2ff561beb62ba0b38bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297595,
+            "locality_id":1125910651,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1125910651,
+    "wof:lastmodified":1529700446,
+    "wof:name":"Vangsvik",
+    "wof:parent_id":1159297595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.73416,
+    69.17057,
+    17.73416,
+    69.17057
+],
+  "geometry": {"coordinates":[17.73416,69.17057],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1344251521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.33909,68.01074,16.33909,68.01074",
+    "geom:latitude":68.01074,
+    "geom:longitude":16.33909,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1850.0",
+    "gn:asciiname":"Slihppe",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3150079,
+    "gn:latitude":68.01074,
+    "gn:longitude":16.33909,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Slihppe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Kjerr"
+    ],
+    "name:smj_x_preferred":[
+        "Slihppe"
+    ],
+    "name:und_x_variant":[
+        "Kj\u00e6rvika",
+        "Kjerr",
+        "Kj\u00e6rrvika",
+        "Kjerrvika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297109,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3150079
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e384dabd1412ed7790a2373dff3750d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297109,
+            "locality_id":1344251521,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1344251521,
+    "wof:lastmodified":1537675796,
+    "wof:name":"Slihppe",
+    "wof:parent_id":1159297109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.33909,
+    68.01074,
+    16.33909,
+    68.01074
+],
+  "geometry": {"coordinates":[16.33909,68.01074],"type":"Point"}
+}

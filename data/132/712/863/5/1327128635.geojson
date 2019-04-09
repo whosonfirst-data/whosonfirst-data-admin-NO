@@ -1,0 +1,66 @@
+{
+  "id": 1327128635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.26667,66.73333,13.26667,66.73333",
+    "geom:latitude":66.73333,
+    "geom:longitude":13.26667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1836.0",
+    "gn:asciiname":"Sleipnes",
+    "gn:country_code":"NO",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3138312,
+    "gn:latitude":66.73333,
+    "gn:longitude":13.26667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Sleipnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296809,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3138312
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ecf0c825d197463547d50afe0aa303bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296809,
+            "locality_id":1327128635,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1327128635,
+    "wof:lastmodified":1536619414,
+    "wof:name":"Sleipnes",
+    "wof:parent_id":1159296809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.26667,
+    66.73333000000001,
+    13.26667,
+    66.73333000000001
+],
+  "geometry": {"coordinates":[13.26667,66.73333000000001],"type":"Point"}
+}

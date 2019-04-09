@@ -1,0 +1,68 @@
+{
+  "id": 1327417249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.46667,59.48333,5.46667,59.48333",
+    "geom:latitude":59.48333,
+    "geom:longitude":5.46667,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1146.0",
+    "gn:asciiname":"Glette",
+    "gn:country_code":"NO",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3155506,
+    "gn:latitude":59.48333,
+    "gn:longitude":5.46667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Glette",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297113,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3155506
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ad43500739b26262a6ab4097ff291f37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297113,
+            "locality_id":1327417249,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1327417249,
+    "wof:lastmodified":1536702947,
+    "wof:name":"Glette",
+    "wof:parent_id":1159297113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.46667,
+    59.48333,
+    5.46667,
+    59.48333
+],
+  "geometry": {"coordinates":[5.46667,59.48333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310698479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.07889,59.98556,5.07889,59.98556",
+    "geom:latitude":59.98556,
+    "geom:longitude":5.07889,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1244.0",
+    "gn:asciiname":"Vage",
+    "gn:country_code":"NO",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3133028,
+    "gn:latitude":59.98556,
+    "gn:longitude":5.07889,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"V\u00e5ge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "V\u00e5ge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297091,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3133028,
+        "wk:page":"V%C3%A5ge%2C_Austevoll"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"816d4e640eb837de7b25cbb7e8d909b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297091,
+            "locality_id":1310698479,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1310698479,
+    "wof:lastmodified":1537675684,
+    "wof:name":"Vage",
+    "wof:parent_id":1159297091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.07889,
+    59.98556,
+    5.07889,
+    59.98556
+],
+  "geometry": {"coordinates":[5.07889,59.98556],"type":"Point"}
+}

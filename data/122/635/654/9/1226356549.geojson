@@ -1,0 +1,71 @@
+{
+  "id": 1226356549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.08192,59.91488,11.08192,59.91488",
+    "geom:latitude":59.91488,
+    "geom:longitude":11.08192,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"228.0",
+    "gn:asciiname":"Haug",
+    "gn:country_code":"NO",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536288,
+    "gn:latitude":59.91488,
+    "gn:longitude":11.08192,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Haug",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Haug"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297185,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536288
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e50f17dc761c549baa97ee968ee894fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297185,
+            "locality_id":1226356549,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1226356549,
+    "wof:lastmodified":1537675963,
+    "wof:name":"Haug",
+    "wof:parent_id":1159297185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.08192,
+    59.91488,
+    11.08192,
+    59.91488
+],
+  "geometry": {"coordinates":[11.08192,59.91488],"type":"Point"}
+}

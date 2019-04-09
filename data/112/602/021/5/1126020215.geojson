@@ -1,0 +1,114 @@
+{
+  "id": 1126020215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.23333,59.3,11.23333,59.3",
+    "geom:latitude":59.3,
+    "geom:longitude":11.23333,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":691,
+    "gn:population":691,
+    "iso:country":"NO",
+    "lbl:latitude":59.3,
+    "lbl:longitude":11.23333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Ise"
+    ],
+    "name:eng_x_preferred":[
+        "Ise"
+    ],
+    "name:fre_x_preferred":[
+        "Ise"
+    ],
+    "name:jav_x_preferred":[
+        "Ise"
+    ],
+    "name:may_x_preferred":[
+        "Ise"
+    ],
+    "name:nno_x_preferred":[
+        "Ise"
+    ],
+    "name:nob_x_preferred":[
+        "Ise"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3151000,
+    "qs_pg:gn_pop":691,
+    "qs_pg:name":"Ise",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"\u00d8stfold Fylke",
+    "qs_pg:photos":71,
+    "qs_pg:photos_1k":14,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":71,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":250770,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":860303,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"\u00d8stfold Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297543,
+        85633341,
+        85687079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3151000,
+        "gp:id":860303,
+        "qs_pg:id":250770,
+        "wd:id":"Q1772264"
+    },
+    "wof:country":"NO",
+    "wof:created":1497300788,
+    "wof:geomhash":"b92ac643c7689ad0f22841f9cda656a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297543,
+            "locality_id":1126020215,
+            "region_id":85687079
+        }
+    ],
+    "wof:id":1126020215,
+    "wof:lastmodified":1529700545,
+    "wof:name":"Ise",
+    "wof:parent_id":1159297543,
+    "wof:placetype":"locality",
+    "wof:population":691,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.23333,
+    59.3,
+    11.23333,
+    59.3
+],
+  "geometry": {"coordinates":[11.23333,59.3],"type":"Point"}
+}

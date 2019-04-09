@@ -1,0 +1,66 @@
+{
+  "id": 1243253307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.81032,67.83889,14.81032,67.83889",
+    "geom:latitude":67.83889,
+    "geom:longitude":14.81032,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1848.0",
+    "gn:asciiname":"Nordskot",
+    "gn:country_code":"NO",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3144176,
+    "gn:latitude":67.83889,
+    "gn:longitude":14.81032,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Nordskot",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297343,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3144176
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0fd40418417219a3cacc19cddbe3aaee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297343,
+            "locality_id":1243253307,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1243253307,
+    "wof:lastmodified":1537080807,
+    "wof:name":"Nordskot",
+    "wof:parent_id":1159297343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.81032,
+    67.83889,
+    14.81032,
+    67.83889
+],
+  "geometry": {"coordinates":[14.81032,67.83889000000001],"type":"Point"}
+}

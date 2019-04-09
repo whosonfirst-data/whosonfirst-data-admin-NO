@@ -1,0 +1,73 @@
+{
+  "id": 1243090295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.83523,69.4288,29.83523,69.4288",
+    "geom:latitude":69.4288,
+    "geom:longitude":29.83523,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2030.0",
+    "gn:asciiname":"Stenbakk",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":777497,
+    "gn:latitude":69.4288,
+    "gn:longitude":29.83523,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Stenbakk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stenbak",
+        "Steinbakk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296947,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":777497
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f8effea48dedb6d28f369f89b3d2cdf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296947,
+            "locality_id":1243090295,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1243090295,
+    "wof:lastmodified":1537675642,
+    "wof:name":"Stenbakk",
+    "wof:parent_id":1159296947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.83523,
+    69.4288,
+    29.83523,
+    69.4288
+],
+  "geometry": {"coordinates":[29.83523,69.4288],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360066453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.54699,61.14819,10.54699,61.14819",
+    "geom:latitude":61.14819,
+    "geom:longitude":10.54699,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"501.0",
+    "gn:asciiname":"Vesle-Kvanndalen",
+    "gn:country_code":"NO",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535874,
+    "gn:latitude":61.14819,
+    "gn:longitude":10.54699,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Vesle-Kvanndalen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Vesle-Kvanndalen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297519,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535874
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"058ed00fee374247fe060f539335bd22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297519,
+            "locality_id":1360066453,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1360066453,
+    "wof:lastmodified":1537675945,
+    "wof:name":"Vesle-Kvanndalen",
+    "wof:parent_id":1159297519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.54699,
+    61.14819,
+    10.54699,
+    61.14819
+],
+  "geometry": {"coordinates":[10.54699,61.14819],"type":"Point"}
+}

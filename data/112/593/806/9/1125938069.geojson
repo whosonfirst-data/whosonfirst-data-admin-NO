@@ -1,0 +1,120 @@
+{
+  "id": 1125938069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.71667,62.65,8.71667,62.65",
+    "geom:latitude":62.65,
+    "geom:longitude":8.71667,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":502,
+    "gn:population":502,
+    "iso:country":"NO",
+    "lbl:latitude":62.65,
+    "lbl:longitude":8.71667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Gr\u00f8a"
+    ],
+    "name:eng_x_preferred":[
+        "Gr\u00f8a"
+    ],
+    "name:fre_x_preferred":[
+        "Gr\u00f8a"
+    ],
+    "name:jav_x_preferred":[
+        "Gr\u00f8a"
+    ],
+    "name:may_x_preferred":[
+        "Gr\u00f8a"
+    ],
+    "name:nno_x_preferred":[
+        "Gr\u00f8a"
+    ],
+    "name:nob_x_preferred":[
+        "Gr\u00f8a"
+    ],
+    "name:rum_x_preferred":[
+        "Gr\u00f8a"
+    ],
+    "name:unk_x_variant":[
+        "Gr\u00f8a p\u00e5 Nordm\u00f8re"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3154972,
+    "qs_pg:gn_pop":502,
+    "qs_pg:name":"Gr\u00f8dal",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"M\u00f8re og Romsdal Fylke",
+    "qs_pg:photos":24,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":24,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1276673,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":859105,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"M\u00f8re og Romsdal Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296805,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3154972,
+        "gp:id":859105,
+        "qs_pg:id":1276673,
+        "wd:id":"Q1893248"
+    },
+    "wof:country":"NO",
+    "wof:created":1497297030,
+    "wof:geomhash":"8d023061d9039611bd24c34b1b17848f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296805,
+            "locality_id":1125938069,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1125938069,
+    "wof:lastmodified":1529700102,
+    "wof:name":"Gr\u00f8dal",
+    "wof:parent_id":1159296805,
+    "wof:placetype":"locality",
+    "wof:population":502,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.71667,
+    62.65,
+    8.71667,
+    62.65
+],
+  "geometry": {"coordinates":[8.71667,62.65],"type":"Point"}
+}

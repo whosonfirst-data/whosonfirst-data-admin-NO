@@ -1,0 +1,69 @@
+{
+  "id": 1243156515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.2024,67.73796,15.2024,67.73796",
+    "geom:latitude":67.73796,
+    "geom:longitude":15.2024,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1848.0",
+    "gn:asciiname":"Abornes",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537106,
+    "gn:latitude":67.73796,
+    "gn:longitude":15.2024,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"\u00c5bornes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00c5bornes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297343,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537106
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1763ecc2191bb9addf8d52b041247250",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297343,
+            "locality_id":1243156515,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1243156515,
+    "wof:lastmodified":1537675996,
+    "wof:name":"Abornes",
+    "wof:parent_id":1159297343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.2024,
+    67.73796,
+    15.2024,
+    67.73796
+],
+  "geometry": {"coordinates":[15.2024,67.73796],"type":"Point"}
+}

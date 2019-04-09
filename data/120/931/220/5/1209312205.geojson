@@ -1,0 +1,65 @@
+{
+  "id": 1209312205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.06178,62.44606,11.06178,62.44606",
+    "geom:latitude":62.44606,
+    "geom:longitude":11.06178,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"436.0",
+    "gn:asciiname":"Bjonnkuvvollan",
+    "gn:country_code":"NO",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536076,
+    "gn:latitude":62.44606,
+    "gn:longitude":11.06178,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Bj\u00f8nnkuvvollan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Bj\u00f8nnkuvvollan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536076
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e92dc839ed7c4ff6fe3e94d096b8f541",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209312205
+        }
+    ],
+    "wof:id":1209312205,
+    "wof:lastmodified":1537675953,
+    "wof:name":"Bjonnkuvvollan",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.06178,
+    62.44606,
+    11.06178,
+    62.44606
+],
+  "geometry": {"coordinates":[11.06178,62.44606],"type":"Point"}
+}

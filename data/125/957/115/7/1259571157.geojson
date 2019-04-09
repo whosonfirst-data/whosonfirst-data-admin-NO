@@ -1,0 +1,71 @@
+{
+  "id": 1259571157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.10339,61.10917,10.10339,61.10917",
+    "geom:latitude":61.10917,
+    "geom:longitude":10.10339,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"501.0",
+    "gn:asciiname":"Skjellbreida",
+    "gn:country_code":"NO",
+    "gn:dem":890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535858,
+    "gn:latitude":61.10917,
+    "gn:longitude":10.10339,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Skjellbreida",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Skjellbreida"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297519,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535858
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7d42ec337d5aede402c1af04d4233e46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297519,
+            "locality_id":1259571157,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1259571157,
+    "wof:lastmodified":1537675944,
+    "wof:name":"Skjellbreida",
+    "wof:parent_id":1159297519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.10339,
+    61.10917,
+    10.10339,
+    61.10917
+],
+  "geometry": {"coordinates":[10.10339,61.10917],"type":"Point"}
+}

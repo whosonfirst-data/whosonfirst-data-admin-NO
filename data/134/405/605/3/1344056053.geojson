@@ -1,0 +1,86 @@
+{
+  "id": 1344056053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.08179,70.71884,28.08179,70.71884",
+    "geom:latitude":70.71884,
+    "geom:longitude":28.08179,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2023.0",
+    "gn:asciiname":"Goalsevuohppi",
+    "gn:country_code":"NO",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":779052,
+    "gn:latitude":70.71884,
+    "gn:longitude":28.08179,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Goalsevuohppi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Langfjordnes"
+    ],
+    "name:nor_x_preferred":[
+        "Langfjordnes"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043d\u0433\u0444\u044c\u043e\u0440\u0434\u043d\u0435\u0441\u0435\u0442"
+    ],
+    "name:sme_x_preferred":[
+        "Goalsevuohppi"
+    ],
+    "name:sme_x_variant":[
+        "Goalsevuoppi"
+    ],
+    "name:und_x_variant":[
+        "Langfjordnes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297403,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":779052
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"aee1bc9c3b0f49ad06647cec465b4c32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297403,
+            "locality_id":1344056053,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1344056053,
+    "wof:lastmodified":1537675655,
+    "wof:name":"Goalsevuohppi",
+    "wof:parent_id":1159297403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.08179,
+    70.71884,
+    28.08179,
+    70.71884
+],
+  "geometry": {"coordinates":[28.08179,70.71884],"type":"Point"}
+}

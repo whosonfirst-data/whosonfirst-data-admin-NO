@@ -1,0 +1,67 @@
+{
+  "id": 1209202631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.08333,60.61667,11.08333,60.61667",
+    "geom:latitude":60.61667,
+    "geom:longitude":11.08333,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"528.0",
+    "gn:asciiname":"Fjellhaug",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3157361,
+    "gn:latitude":60.61667,
+    "gn:longitude":11.08333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Fjellhaug",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fjeldhaug",
+        "Fjellhaug"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3157361
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"47625b120a62da4fe637e351c7c5b065",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209202631
+        }
+    ],
+    "wof:id":1209202631,
+    "wof:lastmodified":1537675844,
+    "wof:name":"Fjellhaug",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.08333,
+    60.61666999999999,
+    11.08333,
+    60.61666999999999
+],
+  "geometry": {"coordinates":[11.08333,60.61666999999999],"type":"Point"}
+}

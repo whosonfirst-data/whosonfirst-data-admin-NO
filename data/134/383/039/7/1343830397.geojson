@@ -1,0 +1,71 @@
+{
+  "id": 1343830397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.41667,63.03333,10.41667,63.03333",
+    "geom:latitude":63.03333,
+    "geom:longitude":10.41667,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5027.0",
+    "gn:asciiname":"Bjorgja",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3161383,
+    "gn:latitude":63.03333,
+    "gn:longitude":10.41667,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Bj\u00f8rgja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bj\u00f6rgen",
+        "Bj\u00f8rgja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296717,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3161383
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"af9f55e46d8a87ade591de78f092d9e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296717,
+            "locality_id":1343830397,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1343830397,
+    "wof:lastmodified":1537675875,
+    "wof:name":"Bjorgja",
+    "wof:parent_id":1159296717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.41667,
+    63.03333000000001,
+    10.41667,
+    63.03333000000001
+],
+  "geometry": {"coordinates":[10.41667,63.03333000000001],"type":"Point"}
+}

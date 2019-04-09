@@ -1,0 +1,68 @@
+{
+  "id": 1242741531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.09037,59.28472,8.09037,59.28472",
+    "geom:latitude":59.28472,
+    "geom:longitude":8.09037,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"831.0",
+    "gn:asciiname":"Veum",
+    "gn:country_code":"NO",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3131908,
+    "gn:latitude":59.28472,
+    "gn:longitude":8.09037,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Veum",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297079,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3131908
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0a264a0fff6f985f5cf559947a321341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297079,
+            "locality_id":1242741531,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1242741531,
+    "wof:lastmodified":1536826806,
+    "wof:name":"Veum",
+    "wof:parent_id":1159297079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.09037,
+    59.28471999999999,
+    8.09037,
+    59.28471999999999
+],
+  "geometry": {"coordinates":[8.09037,59.28471999999999],"type":"Point"}
+}

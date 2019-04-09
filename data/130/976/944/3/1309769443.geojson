@@ -1,0 +1,73 @@
+{
+  "id": 1309769443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.96667,69.08333,16.96667,69.08333",
+    "geom:latitude":69.08333,
+    "geom:longitude":16.96667,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1927.0",
+    "gn:asciiname":"Finnelv",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3157618,
+    "gn:latitude":69.08333,
+    "gn:longitude":16.96667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Finnelv",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Finnelva",
+        "Finnelv"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297595,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3157618
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8ac6b2d43118c16818a9e1e5581f3e78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297595,
+            "locality_id":1309769443,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1309769443,
+    "wof:lastmodified":1537675847,
+    "wof:name":"Finnelv",
+    "wof:parent_id":1159297595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.96667,
+    69.08333,
+    16.96667,
+    69.08333
+],
+  "geometry": {"coordinates":[16.96667,69.08333],"type":"Point"}
+}

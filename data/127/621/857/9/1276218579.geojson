@@ -1,0 +1,68 @@
+{
+  "id": 1276218579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.3,60.16667,6.3,60.16667",
+    "geom:latitude":60.16667,
+    "geom:longitude":6.3,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1224.0",
+    "gn:asciiname":"Oyre",
+    "gn:country_code":"NO",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3142773,
+    "gn:latitude":60.16667,
+    "gn:longitude":6.3,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"\u00d8yre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296949,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3142773
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a6290cb87d0223cae0cb0a58e5ea09e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296949,
+            "locality_id":1276218579,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1276218579,
+    "wof:lastmodified":1536933517,
+    "wof:name":"Oyre",
+    "wof:parent_id":1159296949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.3,
+    60.16667,
+    6.3,
+    60.16667
+],
+  "geometry": {"coordinates":[6.3,60.16667],"type":"Point"}
+}

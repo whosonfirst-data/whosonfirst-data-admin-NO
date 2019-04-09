@@ -1,0 +1,65 @@
+{
+  "id": 1209387511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.08333,63.33333,10.08333,63.33333",
+    "geom:latitude":63.33333,
+    "geom:longitude":10.08333,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5029.0",
+    "gn:asciiname":"AEli",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3163561,
+    "gn:latitude":63.33333,
+    "gn:longitude":10.08333,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"\u00c6li",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00c6li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3163561
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d79e2b261c0ebae880cbd35389f6c8f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209387511
+        }
+    ],
+    "wof:id":1209387511,
+    "wof:lastmodified":1537675896,
+    "wof:name":"AEli",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.08333,
+    63.33333,
+    10.08333,
+    63.33333
+],
+  "geometry": {"coordinates":[10.08333,63.33333],"type":"Point"}
+}

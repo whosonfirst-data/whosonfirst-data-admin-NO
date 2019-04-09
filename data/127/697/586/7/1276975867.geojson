@@ -1,0 +1,69 @@
+{
+  "id": 1276975867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.44839,66.0855,12.44839,66.0855",
+    "geom:latitude":66.0855,
+    "geom:longitude":12.44839,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1827.0",
+    "gn:asciiname":"Hola",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536900,
+    "gn:latitude":66.0855,
+    "gn:longitude":12.44839,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"H\u00f8la",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "H\u00f8la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297149,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536900
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b9fd2eec226c591ec7b59b43a672bae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297149,
+            "locality_id":1276975867,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1276975867,
+    "wof:lastmodified":1537675988,
+    "wof:name":"Hola",
+    "wof:parent_id":1159297149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.44839,
+    66.0855,
+    12.44839,
+    66.0855
+],
+  "geometry": {"coordinates":[12.44839,66.0855],"type":"Point"}
+}

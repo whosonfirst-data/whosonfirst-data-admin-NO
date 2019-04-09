@@ -1,0 +1,68 @@
+{
+  "id": 1276788893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.71667,60.8,11.71667,60.8",
+    "geom:latitude":60.8,
+    "geom:longitude":11.71667,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"427.0",
+    "gn:asciiname":"Kverndalen",
+    "gn:country_code":"NO",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3148865,
+    "gn:latitude":60.8,
+    "gn:longitude":11.71667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Kverndalen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297469,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3148865
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3005e74ea11b3dc4dc2028157a14e6ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297469,
+            "locality_id":1276788893,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1276788893,
+    "wof:lastmodified":1536665585,
+    "wof:name":"Kverndalen",
+    "wof:parent_id":1159297469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.71667,
+    60.8,
+    11.71667,
+    60.8
+],
+  "geometry": {"coordinates":[11.71667,60.8],"type":"Point"}
+}

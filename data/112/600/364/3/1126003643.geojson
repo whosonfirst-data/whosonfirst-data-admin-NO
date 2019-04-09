@@ -1,0 +1,116 @@
+{
+  "id": 1126003643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.85,59.16667,10.85,59.16667",
+    "geom:latitude":59.16667,
+    "geom:longitude":10.85,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":59.16667,
+    "lbl:longitude":10.85,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "\u00d8yenkilen"
+    ],
+    "name:eng_x_preferred":[
+        "\u00d8yenkilen"
+    ],
+    "name:fre_x_preferred":[
+        "\u00d8yenkilen"
+    ],
+    "name:jav_x_preferred":[
+        "\u00d8yenkilen"
+    ],
+    "name:may_x_preferred":[
+        "\u00d8yenkilen"
+    ],
+    "name:nno_x_preferred":[
+        "\u00d8yenkilen"
+    ],
+    "name:nob_x_preferred":[
+        "\u00d8yenkilen"
+    ],
+    "name:rum_x_preferred":[
+        "\u00d8yenkilen"
+    ],
+    "name:swe_x_preferred":[
+        "\u00d8yenkilen"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3142870,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"\u00d8ydnekilen",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"\u00d8stfold Fylke",
+    "qs_pg:photos":123,
+    "qs_pg:photos_1k":25,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":123,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":278630,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":862697,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"\u00d8stfold Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297385,
+        85633341,
+        85687079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3142870,
+        "gp:id":862697,
+        "qs_pg:id":278630,
+        "wd:id":"Q3356356"
+    },
+    "wof:country":"NO",
+    "wof:created":1497299801,
+    "wof:geomhash":"65acbd45bbabfbac0393423dfff3b650",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297385,
+            "locality_id":1126003643,
+            "region_id":85687079
+        }
+    ],
+    "wof:id":1126003643,
+    "wof:lastmodified":1529700547,
+    "wof:name":"\u00d8ydnekilen",
+    "wof:parent_id":1159297385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.85,
+    59.16667,
+    10.85,
+    59.16667
+],
+  "geometry": {"coordinates":[10.85,59.16667],"type":"Point"}
+}

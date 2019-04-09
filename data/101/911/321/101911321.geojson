@@ -1,0 +1,73 @@
+{
+  "id": 101911321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000062,
+    "geom:bbox":"15.1590211429,67.2969223945,15.1834694676,67.3049725347",
+    "geom:latitude":67.301176,
+    "geom:longitude":15.172702,
+    "iso:country":"NO",
+    "lbl:latitude":67.300909,
+    "lbl:longitude":15.171497,
+    "mps:latitude":67.300909,
+    "mps:longitude":15.171497,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Norge",
+    "qs:a1":"*Nordland",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:id":0,
+    "qs:la":"Fauske",
+    "qs:la_lc":"*NO1841",
+    "qs:level":"locality",
+    "qs:loc":"Valnesfjord",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        1159296833,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15000850,
+        "qs:id":364276,
+        "qs_pg:id":364276
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"86271b877d43c6ca3e726e7aa2f48fe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296833,
+            "locality_id":101911321,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":101911321,
+    "wof:lastmodified":1529700158,
+    "wof:name":"Valnesfjord",
+    "wof:parent_id":1159296833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.15902114294636,
+    67.29692239454266,
+    15.18346946758493,
+    67.304972534657
+],
+  "geometry": {"coordinates":[[[15.18346946758493,67.30373247708854],[15.1832796750553,67.30283052808136],[15.18098610530234,67.30289820395654],[15.18060673294229,67.30109430232972],[15.17601989005385,67.30122955348116],[15.17583039338166,67.30032759812559],[15.17353703706385,67.30039517614523],[15.17315825631073,67.29859126183203],[15.17086505431092,67.29865880450319],[15.17067577020782,67.29775684554699],[15.16838263935267,67.2978243556085],[15.16819345380526,67.29692239454266],[15.15902114294636,67.29719212510696],[15.15920999584716,67.29809409709276],[15.16608949648366,67.29789183579385],[15.16627861425576,67.29879380021521],[15.16857184029101,67.29872631729785],[15.16951807591397,67.30323613510166],[15.17181170585724,67.30316860863758],[15.17219047432502,67.304972534657],[15.17677803094688,67.3048373811352],[15.1765884725894,67.3039354232867],[15.18346946758493,67.30373247708854]]],"type":"Polygon"}
+}

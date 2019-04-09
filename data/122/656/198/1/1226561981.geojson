@@ -1,0 +1,73 @@
+{
+  "id": 1226561981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.56667,62.86667,7.56667,62.86667",
+    "geom:latitude":62.86667,
+    "geom:longitude":7.56667,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1557.0",
+    "gn:asciiname":"Andal",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3163162,
+    "gn:latitude":62.86667,
+    "gn:longitude":7.56667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u00c5ndal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aandal",
+        "\u00c5ndal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296785,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3163162
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e932b9f72126466bd27cd8b8e1802ba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296785,
+            "locality_id":1226561981,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1226561981,
+    "wof:lastmodified":1537675891,
+    "wof:name":"Andal",
+    "wof:parent_id":1159296785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.56667,
+    62.86666999999999,
+    7.56667,
+    62.86666999999999
+],
+  "geometry": {"coordinates":[7.56667,62.86666999999999],"type":"Point"}
+}

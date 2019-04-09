@@ -1,0 +1,69 @@
+{
+  "id": 1360257619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.83333,62.65,11.83333,62.65",
+    "geom:latitude":62.65,
+    "geom:longitude":11.83333,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5025.0",
+    "gn:asciiname":"Borgos",
+    "gn:country_code":"NO",
+    "gn:dem":720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3160653,
+    "gn:latitude":62.65,
+    "gn:longitude":11.83333,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Borgos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Borgos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297133,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160653
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"80c26a05e3a9aff7ba6fe43ee10198f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297133,
+            "locality_id":1360257619,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1360257619,
+    "wof:lastmodified":1537675871,
+    "wof:name":"Borgos",
+    "wof:parent_id":1159297133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.83333,
+    62.65,
+    11.83333,
+    62.65
+],
+  "geometry": {"coordinates":[11.83333,62.65],"type":"Point"}
+}

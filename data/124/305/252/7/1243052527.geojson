@@ -1,0 +1,66 @@
+{
+  "id": 1243052527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.26667,65.83333,13.26667,65.83333",
+    "geom:latitude":65.83333,
+    "geom:longitude":13.26667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1824.0",
+    "gn:asciiname":"Remmen",
+    "gn:country_code":"NO",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141987,
+    "gn:latitude":65.83333,
+    "gn:longitude":13.26667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Remmen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296877,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141987
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b487b67801fb44f4bdb42b1b46c40fbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296877,
+            "locality_id":1243052527,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1243052527,
+    "wof:lastmodified":1536875515,
+    "wof:name":"Remmen",
+    "wof:parent_id":1159296877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.26667,
+    65.83333,
+    13.26667,
+    65.83333
+],
+  "geometry": {"coordinates":[13.26667,65.83333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1242871077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.13556,60.00194,5.13556,60.00194",
+    "geom:latitude":60.00194,
+    "geom:longitude":5.13556,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1244.0",
+    "gn:asciiname":"Djupavag",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3159202,
+    "gn:latitude":60.00194,
+    "gn:longitude":5.13556,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Djupav\u00e5g",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297091,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3159202
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a96eeef2430e631b8d56ed251855b06b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297091,
+            "locality_id":1242871077,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1242871077,
+    "wof:lastmodified":1536640076,
+    "wof:name":"Djupavag",
+    "wof:parent_id":1159297091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.13556,
+    60.00194000000001,
+    5.13556,
+    60.00194000000001
+],
+  "geometry": {"coordinates":[5.13556,60.00194000000001],"type":"Point"}
+}

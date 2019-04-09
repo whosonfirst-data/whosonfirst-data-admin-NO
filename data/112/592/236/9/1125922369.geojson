@@ -1,0 +1,117 @@
+{
+  "id": 1125922369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.38333,63.83333,11.38333,63.83333",
+    "geom:latitude":63.83333,
+    "geom:longitude":11.38333,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":370,
+    "gn:population":370,
+    "iso:country":"NO",
+    "lbl:latitude":63.83333,
+    "lbl:longitude":11.38333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Hylla"
+    ],
+    "name:eng_x_preferred":[
+        "Hylla"
+    ],
+    "name:fre_x_preferred":[
+        "Hylla"
+    ],
+    "name:jav_x_preferred":[
+        "Hylla"
+    ],
+    "name:may_x_preferred":[
+        "Hylla"
+    ],
+    "name:nno_x_preferred":[
+        "Hylla"
+    ],
+    "name:nob_x_preferred":[
+        "Hylla"
+    ],
+    "name:rum_x_preferred":[
+        "Hylla"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3151271,
+    "qs_pg:gn_pop":370,
+    "qs_pg:name":"Hylla",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nord-Tr\u00f8ndelag Fylke",
+    "qs_pg:photos":39,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":39,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":983714,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":860207,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Nord-Tr\u00f8ndelag Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296757,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3151271,
+        "gp:id":860207,
+        "qs_pg:id":983714,
+        "wd:id":"Q2610271"
+    },
+    "wof:country":"NO",
+    "wof:created":1497296525,
+    "wof:geomhash":"1c46a09c8d829fce242782bcbf0bda64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296757,
+            "locality_id":1125922369,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1125922369,
+    "wof:lastmodified":1529700205,
+    "wof:name":"Hylla",
+    "wof:parent_id":1159296757,
+    "wof:placetype":"locality",
+    "wof:population":370,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.38333,
+    63.83333,
+    11.38333,
+    63.83333
+],
+  "geometry": {"coordinates":[11.38333,63.83333],"type":"Point"}
+}

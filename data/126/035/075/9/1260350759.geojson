@@ -1,0 +1,68 @@
+{
+  "id": 1260350759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.31667,59.43333,10.31667,59.43333",
+    "geom:latitude":59.43333,
+    "geom:longitude":10.31667,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"716.0",
+    "gn:asciiname":"Haga",
+    "gn:country_code":"NO",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3154343,
+    "gn:latitude":59.43333,
+    "gn:longitude":10.31667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Haga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296901,
+        85633341,
+        85687073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3154343
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a9a28bbced3ba3d5339152e0bb025c64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296901,
+            "locality_id":1260350759,
+            "region_id":85687073
+        }
+    ],
+    "wof:id":1260350759,
+    "wof:lastmodified":1536619901,
+    "wof:name":"Haga",
+    "wof:parent_id":1159296901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.31667,
+    59.43333000000001,
+    10.31667,
+    59.43333000000001
+],
+  "geometry": {"coordinates":[10.31667,59.43333000000001],"type":"Point"}
+}

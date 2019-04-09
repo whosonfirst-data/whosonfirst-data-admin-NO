@@ -1,0 +1,80 @@
+{
+  "id": 1125939711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.185401,67.9002645,15.185401,67.9002645",
+    "geom:latitude":67.900265,
+    "geom:longitude":15.185401,
+    "gn:gn_country":"NO",
+    "iso:country":"NO",
+    "lbl:latitude":67.900265,
+    "lbl:longitude":15.185401,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:name":"Bog\u00f8y",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nordland Fylke",
+    "qs_pg:photos":12,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":12,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":986410,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":857353,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Nordland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159297343,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":857353,
+        "qs_pg:id":986410
+    },
+    "wof:country":"NO",
+    "wof:created":1497297076,
+    "wof:geomhash":"4b9bc5cd12beabe0a6fd00da62639482",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297343,
+            "locality_id":1125939711,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1125939711,
+    "wof:lastmodified":1529700178,
+    "wof:name":"Bog\u00f8y",
+    "wof:parent_id":1159297343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.185401,
+    67.9002645,
+    15.185401,
+    67.9002645
+],
+  "geometry": {"coordinates":[15.185401,67.90026450000001],"type":"Point"}
+}

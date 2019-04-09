@@ -1,0 +1,65 @@
+{
+  "id": 1209079279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.30645,61.38122,7.30645,61.38122",
+    "geom:latitude":61.38122,
+    "geom:longitude":7.30645,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1426",
+    "gn:asciiname":"Marifjora",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404062,
+    "gn:latitude":61.38122,
+    "gn:longitude":7.30645,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Marifj\u00f8ra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Marifj\u00f8ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404062
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"51fa35a66caafa8fce45488fc876b27f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209079279
+        }
+    ],
+    "wof:id":1209079279,
+    "wof:lastmodified":1537675915,
+    "wof:name":"Marifjora",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.30645,
+    61.38121999999999,
+    7.30645,
+    61.38121999999999
+],
+  "geometry": {"coordinates":[7.30645,61.38121999999999],"type":"Point"}
+}

@@ -1,0 +1,128 @@
+{
+  "id": 1125824883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.03333,59.98333,11.03333,59.98333",
+    "geom:latitude":59.98333,
+    "geom:longitude":11.03333,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":59.98333,
+    "lbl:longitude":11.03333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Kjeller"
+    ],
+    "name:cze_x_preferred":[
+        "Kjeller"
+    ],
+    "name:dut_x_preferred":[
+        "Kjeller"
+    ],
+    "name:eng_x_preferred":[
+        "Kjeller"
+    ],
+    "name:fre_x_preferred":[
+        "Kjeller"
+    ],
+    "name:ger_x_preferred":[
+        "Kjeller"
+    ],
+    "name:ita_x_preferred":[
+        "Kjeller"
+    ],
+    "name:jav_x_preferred":[
+        "Kjeller"
+    ],
+    "name:may_x_preferred":[
+        "Kjeller"
+    ],
+    "name:nno_x_preferred":[
+        "Kjeller"
+    ],
+    "name:nob_x_preferred":[
+        "Kjeller"
+    ],
+    "name:slo_x_preferred":[
+        "Kjeller"
+    ],
+    "name:swe_x_preferred":[
+        "Kjeller"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3150191,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kjeller",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Akershus Fylke",
+    "qs_pg:photos":825,
+    "qs_pg:photos_1k":167,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":825,
+    "qs_pg:photos_sr":9,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1168873,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":860546,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Akershus Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297495,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3150191,
+        "gp:id":860546,
+        "qs_pg:id":1168873,
+        "wd:id":"Q1289596"
+    },
+    "wof:country":"NO",
+    "wof:created":1497292231,
+    "wof:geomhash":"35c4d1ec27db9109a953772523394ff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297495,
+            "locality_id":1125824883,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1125824883,
+    "wof:lastmodified":1529699779,
+    "wof:name":"Kjeller",
+    "wof:parent_id":1159297495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.03333,
+    59.98333,
+    11.03333,
+    59.98333
+],
+  "geometry": {"coordinates":[11.03333,59.98333],"type":"Point"}
+}

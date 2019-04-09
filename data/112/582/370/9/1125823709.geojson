@@ -1,0 +1,82 @@
+{
+  "id": 1125823709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.262702,59.367406,11.262702,59.367406",
+    "geom:latitude":59.367406,
+    "geom:longitude":11.262702,
+    "gn:gn_country":null,
+    "iso:country":"NO",
+    "lbl:latitude":59.367406,
+    "lbl:longitude":11.262702,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Ytterskogen",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"\u00d8stfold Fylke",
+    "qs_pg:photos":828,
+    "qs_pg:photos_1k":168,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":828,
+    "qs_pg:photos_sr":9,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1087379,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":20100621,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"\u00d8stfold Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296869,
+        85633341,
+        85687079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20100621,
+        "qs_pg:id":1087379
+    },
+    "wof:country":"NO",
+    "wof:created":1497292182,
+    "wof:geomhash":"78b4afacec4b46ff6bb6cfce14622f6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296869,
+            "locality_id":1125823709,
+            "region_id":85687079
+        }
+    ],
+    "wof:id":1125823709,
+    "wof:lastmodified":1529700548,
+    "wof:name":"Ytterskogen",
+    "wof:parent_id":1159296869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.262702,
+    59.367406,
+    11.262702,
+    59.367406
+],
+  "geometry": {"coordinates":[11.262702,59.367406],"type":"Point"}
+}

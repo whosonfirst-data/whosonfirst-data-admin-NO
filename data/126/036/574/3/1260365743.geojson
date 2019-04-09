@@ -1,0 +1,68 @@
+{
+  "id": 1260365743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.33333,69.21667,18.33333,69.21667",
+    "geom:latitude":69.21667,
+    "geom:longitude":18.33333,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1924.0",
+    "gn:asciiname":"Engerud",
+    "gn:country_code":"NO",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3158201,
+    "gn:latitude":69.21667,
+    "gn:longitude":18.33333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Engerud",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296775,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3158201
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6f74ea8b99c0a7065256aba7abc24fe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296775,
+            "locality_id":1260365743,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1260365743,
+    "wof:lastmodified":1537095456,
+    "wof:name":"Engerud",
+    "wof:parent_id":1159296775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.33333,
+    69.21667,
+    18.33333,
+    69.21667
+],
+  "geometry": {"coordinates":[18.33333,69.21666999999999],"type":"Point"}
+}

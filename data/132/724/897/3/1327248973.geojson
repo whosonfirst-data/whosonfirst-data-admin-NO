@@ -1,0 +1,71 @@
+{
+  "id": 1327248973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.65309,59.70423,10.65309,59.70423",
+    "geom:latitude":59.70423,
+    "geom:longitude":10.65309,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"215.0",
+    "gn:asciiname":"Spervika",
+    "gn:country_code":"NO",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537254,
+    "gn:latitude":59.70423,
+    "gn:longitude":10.65309,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Spervika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Spervika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297355,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537254
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"537226b44ac2f368011c69c952d64c0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297355,
+            "locality_id":1327248973,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1327248973,
+    "wof:lastmodified":1537676003,
+    "wof:name":"Spervika",
+    "wof:parent_id":1159297355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.65309,
+    59.70423,
+    10.65309,
+    59.70423
+],
+  "geometry": {"coordinates":[10.65309,59.70423],"type":"Point"}
+}

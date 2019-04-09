@@ -1,0 +1,82 @@
+{
+  "id": 1125827799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.941183,62.166999,11.941183,62.166999",
+    "geom:latitude":62.166999,
+    "geom:longitude":11.941183,
+    "gn:gn_country":null,
+    "iso:country":"NO",
+    "lbl:latitude":62.166999,
+    "lbl:longitude":11.941183,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Elga",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Hedmark Fylke",
+    "qs_pg:photos":375,
+    "qs_pg:photos_1k":76,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":375,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1089429,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":858098,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Hedmark Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296763,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":858098,
+        "qs_pg:id":1089429
+    },
+    "wof:country":"NO",
+    "wof:created":1497292357,
+    "wof:geomhash":"8090879ac72fd6d273f06911e48f0ed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296763,
+            "locality_id":1125827799,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1125827799,
+    "wof:lastmodified":1529700031,
+    "wof:name":"Elga",
+    "wof:parent_id":1159296763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.941183,
+    62.166999,
+    11.941183,
+    62.166999
+],
+  "geometry": {"coordinates":[11.941183,62.166999],"type":"Point"}
+}

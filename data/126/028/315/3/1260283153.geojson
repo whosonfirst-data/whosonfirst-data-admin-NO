@@ -1,0 +1,80 @@
+{
+  "id": 1260283153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0915,70.53602,30.0915,70.53602",
+    "geom:latitude":70.53602,
+    "geom:longitude":30.0915,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2028.0",
+    "gn:asciiname":"Hamna",
+    "gn:country_code":"NO",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":779682,
+    "gn:latitude":70.53602,
+    "gn:longitude":30.0915,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Hamna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Hamna"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043c\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Syltefjordbotn",
+        "Hamna i Syltefjord",
+        "Finnes",
+        "Hamna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297303,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":779682
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8ccbe208dcd2d960d1724bc543cdccc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297303,
+            "locality_id":1260283153,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1260283153,
+    "wof:lastmodified":1537675662,
+    "wof:name":"Hamna",
+    "wof:parent_id":1159297303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0915,
+    70.53602,
+    30.0915,
+    70.53602
+],
+  "geometry": {"coordinates":[30.0915,70.53601999999999],"type":"Point"}
+}

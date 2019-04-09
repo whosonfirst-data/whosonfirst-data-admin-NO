@@ -1,0 +1,74 @@
+{
+  "id": 1210015811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.61707,69.762,29.61707,69.762",
+    "geom:latitude":69.762,
+    "geom:longitude":29.61707,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2030.0",
+    "gn:asciiname":"Storbukt",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":777465,
+    "gn:latitude":69.762,
+    "gn:longitude":29.61707,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Storbukt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Storbugten",
+        "Storbukt",
+        "Storbukta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296947,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":777465
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6bd2c0df875ca2682529b9fc7c0b2560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296947,
+            "locality_id":1210015811,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1210015811,
+    "wof:lastmodified":1537675642,
+    "wof:name":"Storbukt",
+    "wof:parent_id":1159296947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.61707,
+    69.762,
+    29.61707,
+    69.762
+],
+  "geometry": {"coordinates":[29.61707,69.762],"type":"Point"}
+}

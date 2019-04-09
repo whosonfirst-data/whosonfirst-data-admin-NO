@@ -1,0 +1,67 @@
+{
+  "id": 1209293429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.01667,58.88333,6.01667,58.88333",
+    "geom:latitude":58.88333,
+    "geom:longitude":6.01667,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1102.0",
+    "gn:asciiname":"Gjestaland",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3155645,
+    "gn:latitude":58.88333,
+    "gn:longitude":6.01667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gjestaland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gjesteland",
+        "Gjestaland"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3155645
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6b85015a52304558dc5f611bb4181343",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209293429
+        }
+    ],
+    "wof:id":1209293429,
+    "wof:lastmodified":1537675833,
+    "wof:name":"Gjestaland",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.01667,
+    58.88333000000001,
+    6.01667,
+    58.88333000000001
+],
+  "geometry": {"coordinates":[6.01667,58.88333000000001],"type":"Point"}
+}

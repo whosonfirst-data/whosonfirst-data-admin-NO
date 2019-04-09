@@ -1,0 +1,71 @@
+{
+  "id": 1343642653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.33531,61.92087,9.33531,61.92087",
+    "geom:latitude":61.92087,
+    "geom:longitude":9.33531,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"511.0",
+    "gn:asciiname":"Dovreskogen",
+    "gn:country_code":"NO",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536236,
+    "gn:latitude":61.92087,
+    "gn:longitude":9.33531,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Dovreskogen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Dovreskogen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297013,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536236
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a466241aa808d0cdc72a68ed3e64e2a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297013,
+            "locality_id":1343642653,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1343642653,
+    "wof:lastmodified":1537675961,
+    "wof:name":"Dovreskogen",
+    "wof:parent_id":1159297013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.33531,
+    61.92087,
+    9.33531,
+    61.92087
+],
+  "geometry": {"coordinates":[9.33531,61.92087],"type":"Point"}
+}

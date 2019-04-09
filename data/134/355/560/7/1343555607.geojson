@@ -1,0 +1,75 @@
+{
+  "id": 1343555607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.60966,60.47133,6.60966,60.47133",
+    "geom:latitude":60.47133,
+    "geom:longitude":6.60966,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1234.0",
+    "gn:asciiname":"Kvanndal",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3148957,
+    "gn:latitude":60.47133,
+    "gn:longitude":6.60966,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Kvanndal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kavnendal",
+        "Kvandal",
+        "Qvandal",
+        "Kvanndal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297567,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3148957
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1757f5e3ad4fda2f4c588b9da389caa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297567,
+            "locality_id":1343555607,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1343555607,
+    "wof:lastmodified":1537675787,
+    "wof:name":"Kvanndal",
+    "wof:parent_id":1159297567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.60966,
+    60.47133,
+    6.60966,
+    60.47133
+],
+  "geometry": {"coordinates":[6.60966,60.47133],"type":"Point"}
+}

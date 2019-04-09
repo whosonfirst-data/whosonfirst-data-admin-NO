@@ -1,0 +1,68 @@
+{
+  "id": 1276724481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.52431,58.19344,7.52431,58.19344",
+    "geom:latitude":58.19344,
+    "geom:longitude":7.52431,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1021.0",
+    "gn:asciiname":"Heddeland",
+    "gn:country_code":"NO",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3153410,
+    "gn:latitude":58.19344,
+    "gn:longitude":7.52431,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Heddeland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297583,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3153410
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"df5c82faf53363d88643063361af0a21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297583,
+            "locality_id":1276724481,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1276724481,
+    "wof:lastmodified":1536751809,
+    "wof:name":"Heddeland",
+    "wof:parent_id":1159297583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.52431,
+    58.19344,
+    7.52431,
+    58.19344
+],
+  "geometry": {"coordinates":[7.52431,58.19344],"type":"Point"}
+}

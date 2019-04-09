@@ -1,0 +1,66 @@
+{
+  "id": 1276422905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.19487,63.96172,10.19487,63.96172",
+    "geom:latitude":63.96172,
+    "geom:longitude":10.19487,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5018.0",
+    "gn:asciiname":"Monstad",
+    "gn:country_code":"NO",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3145503,
+    "gn:latitude":63.96172,
+    "gn:longitude":10.19487,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Monstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297163,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3145503
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"33704f0e42f7c00f300511bd2e57b851",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297163,
+            "locality_id":1276422905,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1276422905,
+    "wof:lastmodified":1536658772,
+    "wof:name":"Monstad",
+    "wof:parent_id":1159297163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.19487,
+    63.96171999999999,
+    10.19487,
+    63.96171999999999
+],
+  "geometry": {"coordinates":[10.19487,63.96171999999999],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276518407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.73907,58.87263,5.73907,58.87263",
+    "geom:latitude":58.87263,
+    "geom:longitude":5.73907,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1102.0",
+    "gn:asciiname":"Lura",
+    "gn:country_code":"NO",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3146755,
+    "gn:latitude":58.87263,
+    "gn:longitude":5.73907,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Lura",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296819,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3146755
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"50876f4eb2ffc14eb22b32393e819792",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296819,
+            "locality_id":1276518407,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1276518407,
+    "wof:lastmodified":1537026955,
+    "wof:name":"Lura",
+    "wof:parent_id":1159296819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.73907,
+    58.87263000000001,
+    5.73907,
+    58.87263000000001
+],
+  "geometry": {"coordinates":[5.73907,58.87263000000001],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1242857837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.98333,58.83333,5.98333,58.83333",
+    "geom:latitude":58.83333,
+    "geom:longitude":5.98333,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1102.0",
+    "gn:asciiname":"Seldal",
+    "gn:country_code":"NO",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3139937,
+    "gn:latitude":58.83333,
+    "gn:longitude":5.98333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Seldal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296819,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3139937
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"03307b82fe7780cc6a188a47159a17aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296819,
+            "locality_id":1242857837,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1242857837,
+    "wof:lastmodified":1536660082,
+    "wof:name":"Seldal",
+    "wof:parent_id":1159296819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.98333,
+    58.83333,
+    5.98333,
+    58.83333
+],
+  "geometry": {"coordinates":[5.98333,58.83333],"type":"Point"}
+}

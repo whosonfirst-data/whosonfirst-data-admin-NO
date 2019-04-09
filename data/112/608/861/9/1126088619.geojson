@@ -1,0 +1,80 @@
+{
+  "id": 1126088619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.67908,59.92414,10.67908,59.92414",
+    "geom:latitude":59.92414,
+    "geom:longitude":10.67908,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":500,
+    "gn:population":500,
+    "iso:country":"NO",
+    "lbl:latitude":59.92414,
+    "lbl:longitude":10.67908,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":6693004,
+    "qs_pg:gn_pop":500,
+    "qs_pg:name":"Sk\u00f8yenhagen",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":644007,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85687089,
+        102191581,
+        1159297167,
+        85633341,
+        101751917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6693004,
+        "qs_pg:id":644007
+    },
+    "wof:country":"NO",
+    "wof:created":1497313221,
+    "wof:geomhash":"ce9a42293d660b0f0feaedb44e2629a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297167,
+            "locality_id":101751917,
+            "neighbourhood_id":1126088619,
+            "region_id":85687089
+        }
+    ],
+    "wof:id":1126088619,
+    "wof:lastmodified":1529700270,
+    "wof:name":"Sk\u00f8yenhagen",
+    "wof:parent_id":101751917,
+    "wof:placetype":"neighbourhood",
+    "wof:population":500,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.67908,
+    59.92414,
+    10.67908,
+    59.92414
+],
+  "geometry": {"coordinates":[10.67908,59.92414],"type":"Point"}
+}

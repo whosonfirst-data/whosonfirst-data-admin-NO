@@ -1,0 +1,79 @@
+{
+  "id": 1326922941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.481,61.19112,12.481,61.19112",
+    "geom:latitude":61.19112,
+    "geom:longitude":12.481,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"428.0",
+    "gn:asciiname":"Nordre Landsjoasen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3148246,
+    "gn:latitude":61.19112,
+    "gn:longitude":12.481,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Nordre Landsj\u00f8\u00e5sen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Nordre Landsj\u00f8\u00e5sen"
+    ],
+    "name:nor_x_variant":[
+        "N\u00f8rdre Langsj\u00f8\u00e5sen"
+    ],
+    "name:und_x_variant":[
+        "Langsj\u00f6aasen",
+        "Langsj\u00f8\u00e5sen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297339,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3148246
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d21734a25935cd6b56bb35fd72cdbd13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297339,
+            "locality_id":1326922941,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1326922941,
+    "wof:lastmodified":1537675783,
+    "wof:name":"Nordre Landsjoasen",
+    "wof:parent_id":1159297339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.481,
+    61.19112,
+    12.481,
+    61.19112
+],
+  "geometry": {"coordinates":[12.481,61.19112],"type":"Point"}
+}

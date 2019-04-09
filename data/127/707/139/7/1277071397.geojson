@@ -1,0 +1,74 @@
+{
+  "id": 1277071397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.56667,60.41667,5.56667,60.41667",
+    "geom:latitude":60.41667,
+    "geom:longitude":5.56667,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1201.0",
+    "gn:asciiname":"Romslo",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141406,
+    "gn:latitude":60.41667,
+    "gn:longitude":5.56667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Romslo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Romsle",
+        "Romslaa",
+        "Romslo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297617,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141406
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7dd91b548de873d40ef9200cbc0f59fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":1277071397,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1277071397,
+    "wof:lastmodified":1537675738,
+    "wof:name":"Romslo",
+    "wof:parent_id":1159297617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.56667,
+    60.41667,
+    5.56667,
+    60.41667
+],
+  "geometry": {"coordinates":[5.56667,60.41667],"type":"Point"}
+}

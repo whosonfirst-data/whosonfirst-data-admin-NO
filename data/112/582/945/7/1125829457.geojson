@@ -1,0 +1,82 @@
+{
+  "id": 1125829457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.700042,61.804121,7.700042,61.804121",
+    "geom:latitude":61.804121,
+    "geom:longitude":7.700042,
+    "gn:gn_country":null,
+    "iso:country":"NO",
+    "lbl:latitude":61.804121,
+    "lbl:longitude":7.700042,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Sotaseter",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Oppland Fylke",
+    "qs_pg:photos":40,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":40,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1090565,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":864261,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Oppland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297411,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":864261,
+        "qs_pg:id":1090565
+    },
+    "wof:country":"NO",
+    "wof:created":1497292426,
+    "wof:geomhash":"e9c89a2de903b902d8a89a8dfcf056bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297411,
+            "locality_id":1125829457,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1125829457,
+    "wof:lastmodified":1529700248,
+    "wof:name":"Sotaseter",
+    "wof:parent_id":1159297411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.700042,
+    61.804121,
+    7.700042,
+    61.804121
+],
+  "geometry": {"coordinates":[7.700042,61.804121],"type":"Point"}
+}

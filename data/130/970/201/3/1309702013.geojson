@@ -1,0 +1,66 @@
+{
+  "id": 1309702013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.16667,68.33333,14.16667,68.33333",
+    "geom:latitude":68.33333,
+    "geom:longitude":14.16667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1865.0",
+    "gn:asciiname":"Saupstad",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3140032,
+    "gn:latitude":68.33333,
+    "gn:longitude":14.16667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Saupstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296883,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3140032
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"68508008f4e83c9857bc827c50eb7a17",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296883,
+            "locality_id":1309702013,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1309702013,
+    "wof:lastmodified":1537077673,
+    "wof:name":"Saupstad",
+    "wof:parent_id":1159296883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.16667,
+    68.33333,
+    14.16667,
+    68.33333
+],
+  "geometry": {"coordinates":[14.16667,68.33333],"type":"Point"}
+}

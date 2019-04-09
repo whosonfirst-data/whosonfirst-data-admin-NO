@@ -1,0 +1,74 @@
+{
+  "id": 1293869275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.15,63.03333,8.15,63.03333",
+    "geom:latitude":63.03333,
+    "geom:longitude":8.15,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1560.0",
+    "gn:asciiname":"Floystad",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3156938,
+    "gn:latitude":63.03333,
+    "gn:longitude":8.15,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Fl\u00f8ystad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fl\u00f6istad",
+        "Fl\u00f6jstad",
+        "Fl\u00f8ystad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297327,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3156938
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"de0f87620c45b3af57e29ec963a3e541",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297327,
+            "locality_id":1293869275,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1293869275,
+    "wof:lastmodified":1537675841,
+    "wof:name":"Floystad",
+    "wof:parent_id":1159297327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.15,
+    63.03333000000001,
+    8.15,
+    63.03333000000001
+],
+  "geometry": {"coordinates":[8.15,63.03333000000001],"type":"Point"}
+}

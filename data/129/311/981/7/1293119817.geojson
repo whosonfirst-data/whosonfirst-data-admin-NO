@@ -1,0 +1,71 @@
+{
+  "id": 1293119817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.45,66.93333,15.45,66.93333",
+    "geom:latitude":66.93333,
+    "geom:longitude":15.45,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1840.0",
+    "gn:asciiname":"Evenesdal",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3158004,
+    "gn:latitude":66.93333,
+    "gn:longitude":15.45,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Evenesdal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Evenesdalen",
+        "Evenesdal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297115,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3158004
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"28ed0a6623c556d34ede81361602361c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297115,
+            "locality_id":1293119817,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1293119817,
+    "wof:lastmodified":1537675850,
+    "wof:name":"Evenesdal",
+    "wof:parent_id":1159297115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.45,
+    66.93333,
+    15.45,
+    66.93333
+],
+  "geometry": {"coordinates":[15.45,66.93333],"type":"Point"}
+}

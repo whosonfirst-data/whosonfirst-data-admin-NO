@@ -1,0 +1,83 @@
+{
+  "id": 1292999689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.84784,70.072,28.84784,70.072",
+    "geom:latitude":70.072,
+    "geom:longitude":28.84784,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2027.0",
+    "gn:asciiname":"Oggajohka",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":795640,
+    "gn:latitude":70.072,
+    "gn:longitude":28.84784,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"O\u0111\u0111ajohka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Nyelv"
+    ],
+    "name:sme_x_preferred":[
+        "O\u0111\u0111ajohka"
+    ],
+    "name:sme_x_variant":[
+        "\u00c5\u0111\u0111aj\u00e5kka"
+    ],
+    "name:und_x_variant":[
+        "Nyelva",
+        "Nyelv"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297285,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":795640,
+        "wk:page":"Nyelv"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7778f7bc23b895ec16d543240b8066e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297285,
+            "locality_id":1292999689,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1292999689,
+    "wof:lastmodified":1537675668,
+    "wof:name":"Oggajohka",
+    "wof:parent_id":1159297285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.84784,
+    70.072,
+    28.84784,
+    70.072
+],
+  "geometry": {"coordinates":[28.84784,70.072],"type":"Point"}
+}

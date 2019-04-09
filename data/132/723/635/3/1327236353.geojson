@@ -1,0 +1,85 @@
+{
+  "id": 1327236353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.67757,70.17689,28.67757,70.17689",
+    "geom:latitude":70.17689,
+    "geom:longitude":28.67757,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2027.0",
+    "gn:asciiname":"Alddanjarga",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":778699,
+    "gn:latitude":70.17689,
+    "gn:longitude":28.67757,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"\u00c1lddanj\u00e1rga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Meskelva"
+    ],
+    "name:nor_x_preferred":[
+        "Meskelv"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0441\u043a\u0435\u043b\u044c\u0432"
+    ],
+    "name:sme_x_preferred":[
+        "\u00c1lddanj\u00e1rga"
+    ],
+    "name:und_x_variant":[
+        "M\u00e6skelven",
+        "Meskelva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297285,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":778699
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d2ece5e3348a4c8d74ee0a8231465059",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297285,
+            "locality_id":1327236353,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1327236353,
+    "wof:lastmodified":1537675651,
+    "wof:name":"Alddanjarga",
+    "wof:parent_id":1159297285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.67757000000001,
+    70.17689,
+    28.67757000000001,
+    70.17689
+],
+  "geometry": {"coordinates":[28.67757000000001,70.17689],"type":"Point"}
+}

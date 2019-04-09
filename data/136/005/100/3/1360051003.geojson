@@ -1,0 +1,71 @@
+{
+  "id": 1360051003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.52054,58.26423,7.52054,58.26423",
+    "geom:latitude":58.26423,
+    "geom:longitude":7.52054,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1021.0",
+    "gn:asciiname":"Kleveland",
+    "gn:country_code":"NO",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537810,
+    "gn:latitude":58.26423,
+    "gn:longitude":7.52054,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Kleveland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Kleveland"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297583,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537810
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e3f536f8300bfbec598ef2c1286fc5ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297583,
+            "locality_id":1360051003,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1360051003,
+    "wof:lastmodified":1537676029,
+    "wof:name":"Kleveland",
+    "wof:parent_id":1159297583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.52054,
+    58.26423000000001,
+    7.52054,
+    58.26423000000001
+],
+  "geometry": {"coordinates":[7.52054,58.26423000000001],"type":"Point"}
+}

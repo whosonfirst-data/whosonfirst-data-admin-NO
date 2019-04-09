@@ -1,0 +1,79 @@
+{
+  "id": 1260072841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.71677,60.23974,11.71677,60.23974",
+    "geom:latitude":60.23974,
+    "geom:longitude":11.71677,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"419.0",
+    "gn:asciiname":"Aukner",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3162481,
+    "gn:latitude":60.23974,
+    "gn:longitude":11.71677,
+    "gn:modification_date":"2014-05-29",
+    "gn:name":"Aukner",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d8ktner"
+    ],
+    "name:nor_x_variant":[
+        "Auktner"
+    ],
+    "name:und_x_variant":[
+        "\u00d6kner",
+        "Aukner"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296729,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3162481
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"92c40658c1c05b85c3d9bdc91ceb70d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296729,
+            "locality_id":1260072841,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1260072841,
+    "wof:lastmodified":1537675882,
+    "wof:name":"Aukner",
+    "wof:parent_id":1159296729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.71677,
+    60.23974000000001,
+    11.71677,
+    60.23974000000001
+],
+  "geometry": {"coordinates":[11.71677,60.23974000000001],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1343666625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.79116,70.16338,28.79116,70.16338",
+    "geom:latitude":70.16338,
+    "geom:longitude":28.79116,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2027.0",
+    "gn:asciiname":"Apposborri",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781025,
+    "gn:latitude":70.16338,
+    "gn:longitude":28.79116,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"\u00c1ppo\u0161borri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Abelsborg"
+    ],
+    "name:sme_x_preferred":[
+        "\u00c1ppo\u0161borri"
+    ],
+    "name:sme_x_variant":[
+        "Abbu\u0161b\u00e5rri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297285,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781025
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5f9c6ef238e699599678dd7eeb7648bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297285,
+            "locality_id":1343666625,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1343666625,
+    "wof:lastmodified":1537675668,
+    "wof:name":"Apposborri",
+    "wof:parent_id":1159297285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.79116,
+    70.16338,
+    28.79116,
+    70.16338
+],
+  "geometry": {"coordinates":[28.79116,70.16338],"type":"Point"}
+}

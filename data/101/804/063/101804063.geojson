@@ -1,0 +1,135 @@
+{
+  "id": 101804063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000089,
+    "geom:area_square_m":496929.054443,
+    "geom:bbox":"8.523406641,63.2658727413,8.54520224869,63.2741176496",
+    "geom:latitude":63.269708,
+    "geom:longitude":8.5345,
+    "gn:population":596,
+    "iso:country":"NO",
+    "lbl:latitude":63.269087,
+    "lbl:longitude":8.533592,
+    "mps:latitude":63.269087,
+    "mps:longitude":8.533592,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0994\u09b0\u09c7"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0443\u0440\u0435"
+    ],
+    "name:deu_x_preferred":[
+        "Aure"
+    ],
+    "name:eng_x_preferred":[
+        "Aure"
+    ],
+    "name:fra_x_preferred":[
+        "Aure"
+    ],
+    "name:nds_x_preferred":[
+        "Kommun Aure"
+    ],
+    "name:nld_x_preferred":[
+        "Aure"
+    ],
+    "name:nno_x_preferred":[
+        "Aure"
+    ],
+    "name:nor_x_preferred":[
+        "Aure"
+    ],
+    "name:nor_x_variant":[
+        "Aures"
+    ],
+    "name:pol_x_preferred":[
+        "Aure"
+    ],
+    "name:por_x_preferred":[
+        "Aure"
+    ],
+    "name:ron_x_preferred":[
+        "Aure"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0443\u0440\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Aure kommun"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u4e8e\u52d2"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*M\u00f8re og Romsdal",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"Aure",
+    "qs:la_lc":"*NO1576",
+    "qs:level":"locality",
+    "qs:loc":"Aure",
+    "qs:loc_alt":"Aure",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":77,
+    "wof:belongsto":[
+        102191581,
+        1159297491,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01fd06d0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3162412,
+        "gp:id":856890,
+        "qs:id":245896,
+        "qs_pg:id":245896,
+        "wd:id":"Q299858"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e42d9a0ccb3db43d61f63ef35fb9ab8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297491,
+            "locality_id":101804063,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":101804063,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1529700087,
+    "wof:name":"Aure",
+    "wof:parent_id":1159297491,
+    "wof:placetype":"locality",
+    "wof:population":596,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.52340664099535,
+    63.26587274130151,
+    8.54520224869088,
+    63.2741176496462
+],
+  "geometry": {"coordinates":[[[8.54106191158291,63.2741176496462],[8.54110628565638,63.27321619118595],[8.54506950624773,63.27325363041791],[8.54520224869088,63.2705492547189],[8.54123938942899,63.270511819315],[8.54132810990689,63.26870890765855],[8.53934680426772,63.26869015305357],[8.53939122010104,63.2677886987417],[8.53542873638582,63.26775111445562],[8.53547326954185,63.26684966200884],[8.53349209146762,63.26683083233041],[8.53353668173366,63.26592938110974],[8.52759334246724,63.26587274130151],[8.52750379766348,63.26767564046673],[8.52354134270843,63.26763775076472],[8.52340664099535,63.27034210002142],[8.5313322830022,63.27041778535801],[8.53128761707012,63.2713192388585],[8.53525057290312,63.27135693008796],[8.53520602431661,63.27225838545769],[8.53718756604235,63.27227719353124],[8.53714307459325,63.27317865012697],[8.53912467893196,63.27319743338478],[8.53908024462896,63.27409889120571],[8.54106191158291,63.2741176496462]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293257809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.88219,58.10947,6.88219,58.10947",
+    "geom:latitude":58.10947,
+    "geom:longitude":6.88219,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1003.0",
+    "gn:asciiname":"Sondre Bjornestad",
+    "gn:country_code":"NO",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536227,
+    "gn:latitude":58.10947,
+    "gn:longitude":6.88219,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"S\u00f8ndre Bj\u00f8rnestad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "S\u00f8ndre Bj\u00f8rnestad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297123,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536227
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4eaf957ec55afed9d3b82159d756527f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297123,
+            "locality_id":1293257809,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1293257809,
+    "wof:lastmodified":1537675960,
+    "wof:name":"Sondre Bjornestad",
+    "wof:parent_id":1159297123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.88219,
+    58.10947,
+    6.88219,
+    58.10947
+],
+  "geometry": {"coordinates":[6.88219,58.10947],"type":"Point"}
+}

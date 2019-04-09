@@ -1,0 +1,71 @@
+{
+  "id": 1310119945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.17304,60.5538,11.17304,60.5538",
+    "geom:latitude":60.5538,
+    "geom:longitude":11.17304,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"237.0",
+    "gn:asciiname":"Overbygda",
+    "gn:country_code":"NO",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535714,
+    "gn:latitude":60.5538,
+    "gn:longitude":11.17304,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"\u00d8verbygda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d8verbygda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297097,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535714
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"21645c653945940da52755cea1197c1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297097,
+            "locality_id":1310119945,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1310119945,
+    "wof:lastmodified":1537675938,
+    "wof:name":"Overbygda",
+    "wof:parent_id":1159297097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.17304,
+    60.5538,
+    11.17304,
+    60.5538
+],
+  "geometry": {"coordinates":[11.17304,60.5538],"type":"Point"}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 1125882725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.655,59.385,10.655,59.385",
+    "geom:latitude":59.385,
+    "geom:longitude":10.655,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":471,
+    "gn:population":471,
+    "iso:country":"NO",
+    "lbl:latitude":59.385,
+    "lbl:longitude":10.655,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Fuglevik"
+    ],
+    "name:eng_x_preferred":[
+        "Fuglevik"
+    ],
+    "name:fre_x_preferred":[
+        "Fuglevik"
+    ],
+    "name:jav_x_preferred":[
+        "Fuglevik"
+    ],
+    "name:may_x_preferred":[
+        "Fuglevik"
+    ],
+    "name:nno_x_preferred":[
+        "Fuglevik"
+    ],
+    "name:nob_x_preferred":[
+        "Fuglevik"
+    ],
+    "name:rum_x_preferred":[
+        "Fuglevik"
+    ],
+    "name:swe_x_preferred":[
+        "Fuglevik"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3156369,
+    "qs_pg:gn_pop":471,
+    "qs_pg:name":"Fuglevik",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":581137,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297517,
+        85633341,
+        85687079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3156369,
+        "qs_pg:id":581137,
+        "wd:id":"Q2512337"
+    },
+    "wof:country":"NO",
+    "wof:created":1497294897,
+    "wof:geomhash":"202fcf85910d7b0f239882448b30cf8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297517,
+            "locality_id":1125882725,
+            "region_id":85687079
+        }
+    ],
+    "wof:id":1125882725,
+    "wof:lastmodified":1529700547,
+    "wof:name":"Fuglevik",
+    "wof:parent_id":1159297517,
+    "wof:placetype":"locality",
+    "wof:population":471,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.655,
+    59.385,
+    10.655,
+    59.385
+],
+  "geometry": {"coordinates":[10.655,59.385],"type":"Point"}
+}

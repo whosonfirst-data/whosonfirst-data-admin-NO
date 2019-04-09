@@ -1,0 +1,71 @@
+{
+  "id": 1343642779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.71473,61.20631,10.71473,61.20631",
+    "geom:latitude":61.20631,
+    "geom:longitude":10.71473,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"501.0",
+    "gn:asciiname":"Mellsjoen",
+    "gn:country_code":"NO",
+    "gn:dem":930,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535871,
+    "gn:latitude":61.20631,
+    "gn:longitude":10.71473,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Mellsj\u00f8en",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Mellsj\u00f8en"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297519,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535871
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c7891618fc7d6899ab49937d5cc7f1c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297519,
+            "locality_id":1343642779,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1343642779,
+    "wof:lastmodified":1537675944,
+    "wof:name":"Mellsjoen",
+    "wof:parent_id":1159297519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.71473,
+    61.20631,
+    10.71473,
+    61.20631
+],
+  "geometry": {"coordinates":[10.71473,61.20631],"type":"Point"}
+}

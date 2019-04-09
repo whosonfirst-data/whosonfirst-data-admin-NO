@@ -1,0 +1,80 @@
+{
+  "id": 1125791971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.841419,63.650869,8.841419,63.650869",
+    "geom:latitude":63.650869,
+    "geom:longitude":8.841419,
+    "gn:gn_country":"NO",
+    "iso:country":"NO",
+    "lbl:latitude":63.650869,
+    "lbl:longitude":8.841419,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:name":"Dolm\u00f8y",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
+    "qs_pg:photos":155,
+    "qs_pg:photos_1k":31,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":155,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":481414,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":15000825,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159297259,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15000825,
+        "qs_pg:id":481414
+    },
+    "wof:country":"NO",
+    "wof:created":1497290898,
+    "wof:geomhash":"c36c80bed6477cad42368259dcc6a3fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297259,
+            "locality_id":1125791971,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1125791971,
+    "wof:lastmodified":1529700332,
+    "wof:name":"Dolm\u00f8y",
+    "wof:parent_id":1159297259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.841419,
+    63.650869,
+    8.841419,
+    63.650869
+],
+  "geometry": {"coordinates":[8.841419,63.650869],"type":"Point"}
+}

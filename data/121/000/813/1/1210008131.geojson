@@ -1,0 +1,68 @@
+{
+  "id": 1210008131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.33333,60.83333,5.33333,60.83333",
+    "geom:latitude":60.83333,
+    "geom:longitude":5.33333,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1266.0",
+    "gn:asciiname":"Selvag",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3139835,
+    "gn:latitude":60.83333,
+    "gn:longitude":5.33333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Selv\u00e5g",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297135,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3139835
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8aff9ef3e5c82fa4d6c3bd6153efbb94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297135,
+            "locality_id":1210008131,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1210008131,
+    "wof:lastmodified":1536371449,
+    "wof:name":"Selvag",
+    "wof:parent_id":1159297135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.33333,
+    60.83333,
+    5.33333,
+    60.83333
+],
+  "geometry": {"coordinates":[5.33333,60.83333],"type":"Point"}
+}

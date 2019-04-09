@@ -1,0 +1,65 @@
+{
+  "id": 1209412535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.03011,60.28067,12.03011,60.28067",
+    "geom:latitude":60.28067,
+    "geom:longitude":12.03011,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"402.0",
+    "gn:asciiname":"Rymoen",
+    "gn:country_code":"NO",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535659,
+    "gn:latitude":60.28067,
+    "gn:longitude":12.03011,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Rymoen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Rymoen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535659
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"faba7ecf4ef69f6047e707f343931ce2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209412535
+        }
+    ],
+    "wof:id":1209412535,
+    "wof:lastmodified":1537675936,
+    "wof:name":"Rymoen",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.03011,
+    60.28066999999999,
+    12.03011,
+    60.28066999999999
+],
+  "geometry": {"coordinates":[12.03011,60.28066999999999],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226824383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.00464,58.31621,8.00464,58.31621",
+    "geom:latitude":58.31621,
+    "geom:longitude":8.00464,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1014",
+    "gn:asciiname":"Samkom",
+    "gn:country_code":"NO",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404459,
+    "gn:latitude":58.31621,
+    "gn:longitude":8.00464,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Samkom",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Samkom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296843,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404459
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"815d09ce090832ddea781eb0972887a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296843,
+            "locality_id":1226824383,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1226824383,
+    "wof:lastmodified":1537675932,
+    "wof:name":"Samkom",
+    "wof:parent_id":1159296843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.00464,
+    58.31621,
+    8.00464,
+    58.31621
+],
+  "geometry": {"coordinates":[8.00464,58.31621],"type":"Point"}
+}

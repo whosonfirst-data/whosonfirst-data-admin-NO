@@ -1,0 +1,71 @@
+{
+  "id": 1310099253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.08333,63.53333,11.08333,63.53333",
+    "geom:latitude":63.53333,
+    "geom:longitude":11.08333,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5035.0",
+    "gn:asciiname":"Okkelberg",
+    "gn:country_code":"NO",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3143763,
+    "gn:latitude":63.53333,
+    "gn:longitude":11.08333,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Okkelberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Okkelberg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296711,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3143763
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ba7a4b99337afe6593801ecaee6922d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296711,
+            "locality_id":1310099253,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1310099253,
+    "wof:lastmodified":1537675753,
+    "wof:name":"Okkelberg",
+    "wof:parent_id":1159296711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.08333,
+    63.53333000000001,
+    11.08333,
+    63.53333000000001
+],
+  "geometry": {"coordinates":[11.08333,63.53333000000001],"type":"Point"}
+}

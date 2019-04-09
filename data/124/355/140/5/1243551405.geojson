@@ -1,0 +1,73 @@
+{
+  "id": 1243551405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.55,60.41667,5.55,60.41667",
+    "geom:latitude":60.41667,
+    "geom:longitude":5.55,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1201.0",
+    "gn:asciiname":"Songstad",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3137662,
+    "gn:latitude":60.41667,
+    "gn:longitude":5.55,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Songstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sognstad",
+        "Songstad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297617,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3137662
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c17e997fe7227153bd56036a727ab018",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":1243551405,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1243551405,
+    "wof:lastmodified":1537675711,
+    "wof:name":"Songstad",
+    "wof:parent_id":1159297617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.55,
+    60.41667,
+    5.55,
+    60.41667
+],
+  "geometry": {"coordinates":[5.55,60.41667],"type":"Point"}
+}

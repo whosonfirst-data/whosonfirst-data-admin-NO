@@ -1,0 +1,107 @@
+{
+  "id": 1125817953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.75,64.13333,11.75,64.13333",
+    "geom:latitude":64.13333,
+    "geom:longitude":11.75,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":64.13333,
+    "lbl:longitude":11.75,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Kvam"
+    ],
+    "name:eng_x_preferred":[
+        "Kvam"
+    ],
+    "name:fre_x_preferred":[
+        "Kvam"
+    ],
+    "name:jav_x_preferred":[
+        "Kvam"
+    ],
+    "name:may_x_preferred":[
+        "Kvam"
+    ],
+    "name:nob_x_preferred":[
+        "Kvam i Nord-Tr\u00f8ndelag"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3149006,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kvam",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nord-Tr\u00f8ndelag Fylke",
+    "qs_pg:photos":166,
+    "qs_pg:photos_1k":34,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":166,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1167479,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":860924,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Nord-Tr\u00f8ndelag Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296907,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3149006,
+        "gp:id":860924,
+        "qs_pg:id":1167479,
+        "wd:id":"Q6449608"
+    },
+    "wof:country":"NO",
+    "wof:created":1497291922,
+    "wof:geomhash":"f82a98e70a7478c5f1c71150459046b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296907,
+            "locality_id":1125817953,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1125817953,
+    "wof:lastmodified":1529700208,
+    "wof:name":"Kvam",
+    "wof:parent_id":1159296907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.75,
+    64.13333,
+    11.75,
+    64.13333
+],
+  "geometry": {"coordinates":[11.75,64.13333],"type":"Point"}
+}

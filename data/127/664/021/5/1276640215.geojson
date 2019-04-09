@@ -1,0 +1,72 @@
+{
+  "id": 1276640215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.28283,65.3845,12.28283,65.3845",
+    "geom:latitude":65.3845,
+    "geom:longitude":12.28283,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1812.0",
+    "gn:asciiname":"Dalbotnet",
+    "gn:country_code":"NO",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536769,
+    "gn:latitude":65.3845,
+    "gn:longitude":12.28283,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Dalbotnet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Dalbotnet"
+    ],
+    "name:nor_x_variant":[
+        "Dalbotnan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297181,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536769
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e738a7e771832b12812a3d9379255f6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297181,
+            "locality_id":1276640215,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1276640215,
+    "wof:lastmodified":1537675983,
+    "wof:name":"Dalbotnet",
+    "wof:parent_id":1159297181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.28283,
+    65.3845,
+    12.28283,
+    65.3845
+],
+  "geometry": {"coordinates":[12.28283,65.3845],"type":"Point"}
+}

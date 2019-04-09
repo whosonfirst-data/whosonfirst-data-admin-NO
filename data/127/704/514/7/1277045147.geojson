@@ -1,0 +1,71 @@
+{
+  "id": 1277045147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.06667,63.2,11.06667,63.2",
+    "geom:latitude":63.2,
+    "geom:longitude":11.06667,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5032.0",
+    "gn:asciiname":"Kolset",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3149594,
+    "gn:latitude":63.2,
+    "gn:longitude":11.06667,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Kolset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kulset",
+        "Kolset"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296977,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3149594
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ad387812ac69f8aeb2d6081a98beffb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296977,
+            "locality_id":1277045147,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1277045147,
+    "wof:lastmodified":1537675792,
+    "wof:name":"Kolset",
+    "wof:parent_id":1159296977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.06667,
+    63.2,
+    11.06667,
+    63.2
+],
+  "geometry": {"coordinates":[11.06667,63.2],"type":"Point"}
+}

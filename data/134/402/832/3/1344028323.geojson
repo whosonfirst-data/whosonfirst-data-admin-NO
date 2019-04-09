@@ -1,0 +1,74 @@
+{
+  "id": 1344028323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.18333,61.83333,6.18333,61.83333",
+    "geom:latitude":61.83333,
+    "geom:longitude":6.18333,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1445.0",
+    "gn:asciiname":"Rosfjaera",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141286,
+    "gn:latitude":61.83333,
+    "gn:longitude":6.18333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"R\u00f8sfj\u00e6ra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ryssfj\u00f6ra",
+        "Rysfj\u00e6ren",
+        "R\u00f8sfj\u00e6ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296787,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141286
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c750c9bd1fa670dc1d6d2e107bd245a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296787,
+            "locality_id":1344028323,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1344028323,
+    "wof:lastmodified":1537675737,
+    "wof:name":"Rosfjaera",
+    "wof:parent_id":1159296787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.18333,
+    61.83333,
+    6.18333,
+    61.83333
+],
+  "geometry": {"coordinates":[6.18333,61.83333],"type":"Point"}
+}

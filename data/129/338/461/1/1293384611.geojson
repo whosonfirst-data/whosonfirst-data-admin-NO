@@ -1,0 +1,66 @@
+{
+  "id": 1293384611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.98333,66.05,12.98333,66.05",
+    "geom:latitude":66.05,
+    "geom:longitude":12.98333,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1822.0",
+    "gn:asciiname":"Nyland",
+    "gn:country_code":"NO",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3143953,
+    "gn:latitude":66.05,
+    "gn:longitude":12.98333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Nyland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297535,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3143953
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"04369c513e79d308ffcb6f49ac365e50",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297535,
+            "locality_id":1293384611,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1293384611,
+    "wof:lastmodified":1536936104,
+    "wof:name":"Nyland",
+    "wof:parent_id":1159297535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.98333,
+    66.05,
+    12.98333,
+    66.05
+],
+  "geometry": {"coordinates":[12.98333,66.05],"type":"Point"}
+}

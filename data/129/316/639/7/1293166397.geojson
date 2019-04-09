@@ -1,0 +1,68 @@
+{
+  "id": 1293166397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.1,58.5,7.1,58.5",
+    "geom:latitude":58.5,
+    "geom:longitude":7.1,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1034.0",
+    "gn:asciiname":"Eiasland",
+    "gn:country_code":"NO",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3158748,
+    "gn:latitude":58.5,
+    "gn:longitude":7.1,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Ei\u00e5sland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297205,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3158748
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0a4f73894dd0017143d857ae6a93bd67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297205,
+            "locality_id":1293166397,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1293166397,
+    "wof:lastmodified":1536753094,
+    "wof:name":"Eiasland",
+    "wof:parent_id":1159297205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.1,
+    58.5,
+    7.1,
+    58.5
+],
+  "geometry": {"coordinates":[7.1,58.5],"type":"Point"}
+}

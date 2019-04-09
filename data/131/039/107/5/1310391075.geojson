@@ -1,0 +1,68 @@
+{
+  "id": 1310391075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.51667,62.5,6.51667,62.5",
+    "geom:latitude":62.5,
+    "geom:longitude":6.51667,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1529.0",
+    "gn:asciiname":"Reiakvam",
+    "gn:country_code":"NO",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3142156,
+    "gn:latitude":62.5,
+    "gn:longitude":6.51667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Reiakvam",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297019,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3142156
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"72217714e5be3dceaf3969fc28faba20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297019,
+            "locality_id":1310391075,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1310391075,
+    "wof:lastmodified":1537078922,
+    "wof:name":"Reiakvam",
+    "wof:parent_id":1159297019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.51667,
+    62.5,
+    6.51667,
+    62.5
+],
+  "geometry": {"coordinates":[6.51667,62.5],"type":"Point"}
+}

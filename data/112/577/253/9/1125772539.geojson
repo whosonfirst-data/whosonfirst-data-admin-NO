@@ -1,0 +1,116 @@
+{
+  "id": 1125772539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.28333,70.25,21.28333,70.25",
+    "geom:latitude":70.25,
+    "geom:longitude":21.28333,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":70.25,
+    "lbl:longitude":21.28333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Andsnes"
+    ],
+    "name:eng_x_preferred":[
+        "Andsnes"
+    ],
+    "name:fre_x_preferred":[
+        "Andsnes"
+    ],
+    "name:jav_x_preferred":[
+        "Andsnes"
+    ],
+    "name:may_x_preferred":[
+        "Andsnes"
+    ],
+    "name:nno_x_preferred":[
+        "Andsnes"
+    ],
+    "name:nob_x_preferred":[
+        "Andsnes"
+    ],
+    "name:spa_x_preferred":[
+        "Andsnes"
+    ],
+    "name:unk_x_variant":[
+        "Ansnes"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":780931,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Andsnes",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Finnmark Fylke",
+    "qs_pg:photos":40,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":40,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1159095,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":856653,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Finnmark Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297177,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":780931,
+        "gp:id":856653,
+        "qs_pg:id":1159095,
+        "wd:id":"Q4760303"
+    },
+    "wof:country":"NO",
+    "wof:created":1497290119,
+    "wof:geomhash":"db8a30c5d86b20392be4d243ce7e3011",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297177,
+            "locality_id":1125772539,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1125772539,
+    "wof:lastmodified":1529699909,
+    "wof:name":"Andsnes",
+    "wof:parent_id":1159297177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.28333,
+    70.25,
+    21.28333,
+    70.25
+],
+  "geometry": {"coordinates":[21.28333,70.25],"type":"Point"}
+}

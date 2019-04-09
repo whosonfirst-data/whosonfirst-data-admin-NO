@@ -1,0 +1,137 @@
+{
+  "id": 101803883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000188,
+    "geom:area_square_m":1183576.314367,
+    "geom:bbox":"7.97188914321,59.4400757364,8.0246828501,59.4492946023",
+    "geom:latitude":59.445205,
+    "geom:longitude":8.000776,
+    "gn:population":801,
+    "iso:country":"NO",
+    "lbl:latitude":59.444151,
+    "lbl:longitude":8.007375,
+    "mps:latitude":59.444151,
+    "mps:longitude":8.007375,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Dalen"
+    ],
+    "name:deu_x_preferred":[
+        "Dalen"
+    ],
+    "name:dut_x_preferred":[
+        "Dalen"
+    ],
+    "name:eng_x_preferred":[
+        "Dalen"
+    ],
+    "name:fre_x_preferred":[
+        "Dalen"
+    ],
+    "name:ger_x_preferred":[
+        "Dalen"
+    ],
+    "name:may_x_preferred":[
+        "Dalen"
+    ],
+    "name:msa_x_preferred":[
+        "Dalen"
+    ],
+    "name:nld_x_preferred":[
+        "Dalen"
+    ],
+    "name:nno_x_preferred":[
+        "Dalen i Tokke"
+    ],
+    "name:nob_x_preferred":[
+        "Dalen"
+    ],
+    "name:nor_x_preferred":[
+        "Dalen"
+    ],
+    "name:nor_x_variant":[
+        "Dalen I Telemark",
+        "Dalens"
+    ],
+    "name:ron_x_preferred":[
+        "Dalen"
+    ],
+    "name:rum_x_preferred":[
+        "Dalen"
+    ],
+    "name:unk_x_variant":[
+        "Dalen i Telemark"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Telemark",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"Tokke",
+    "qs:la_lc":"*NO0833",
+    "qs:level":"locality",
+    "qs:loc":"Dalen",
+    "qs:loc_alt":"Dalen",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":206,
+    "wof:belongsto":[
+        102191581,
+        1159297609,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01fb3e9a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3159400,
+        "gp:id":857776,
+        "qs:id":581140,
+        "qs_pg:id":581140,
+        "wd:id":"Q1019138",
+        "wk:page":"Dalen, Telemark"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8c637e7a14b1542b7e472dd61ebecd15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297609,
+            "locality_id":101803883,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":101803883,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1529700382,
+    "wof:name":"Dalen",
+    "wof:parent_id":1159297609,
+    "wof:placetype":"locality",
+    "wof:population":801,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.97188914320998,
+    59.44007573640926,
+    8.02468285009934,
+    59.44929460227956
+],
+  "geometry": {"coordinates":[[[8.02090922240262,59.44929460227956],[8.02106373040868,59.44659681971763],[8.0228218855828,59.44662185464216],[8.02287333630738,59.44572259370284],[8.02463144818711,59.44574760564643],[8.02468285009934,59.44484834429664],[8.01765059972905,59.44474816600467],[8.01770218126688,59.44384890792793],[8.01418616186447,59.44379868679914],[8.0142894982738,59.442000174577],[8.00725785382042,59.44189947133447],[8.0073615430893,59.44010096633815],[8.00560372935865,59.44007573640926],[8.00555184062409,59.44097498800261],[8.00379398363754,59.44094973509101],[8.00369010536622,59.44274823776652],[8.00193215944512,59.44272296112723],[8.00188016990001,59.44362221220848],[8.00012218071981,59.44359691258336],[8.0000701423354,59.44449616324516],[7.99303802714797,59.44439473933807],[7.99309024826465,59.44349549166031],[7.99133227122763,59.4434700808244],[7.99138453485523,59.442570834219],[7.986110755401,59.44249447050635],[7.98600595088982,59.44429295954774],[7.97194191570588,59.4440883323316],[7.97188914320998,59.44498757131817],[7.97540522866302,59.4450388630849],[7.97529985681024,59.44683734504935],[7.98584872026697,59.44699069554451],[7.9857963036963,59.447889941526],[7.98755450185905,59.44791542283639],[7.98760687273642,59.44701617610508],[8.00343035451573,59.44724450014212],[8.00348231099235,59.44634524701678],[8.01403113372874,59.44649645757181],[8.0138760773599,59.44919423127311],[8.02090922240262,59.44929460227956]]],"type":"Polygon"}
+}

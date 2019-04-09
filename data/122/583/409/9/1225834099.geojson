@@ -1,0 +1,73 @@
+{
+  "id": 1225834099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.25287,64.90286,11.25287,64.90286",
+    "geom:latitude":64.90286,
+    "geom:longitude":11.25287,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5050.0",
+    "gn:asciiname":"Hansvika",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3153908,
+    "gn:latitude":64.90286,
+    "gn:longitude":11.25287,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Hansvika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hansviken",
+        "Hansvika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296895,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3153908
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b7aa3650333bf6385c8c07be916c102c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296895,
+            "locality_id":1225834099,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1225834099,
+    "wof:lastmodified":1537675822,
+    "wof:name":"Hansvika",
+    "wof:parent_id":1159296895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.25287,
+    64.90286,
+    11.25287,
+    64.90286
+],
+  "geometry": {"coordinates":[11.25287,64.90286],"type":"Point"}
+}

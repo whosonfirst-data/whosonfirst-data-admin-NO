@@ -1,0 +1,72 @@
+{
+  "id": 1209205297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.92552,62.06319,5.92552,62.06319",
+    "geom:latitude":62.06319,
+    "geom:longitude":5.92552,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1519.0",
+    "gn:asciiname":"Dalsbygda",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3159356,
+    "gn:latitude":62.06319,
+    "gn:longitude":5.92552,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Dalsbygda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Dalsbygda"
+    ],
+    "name:nor_x_variant":[
+        "Dale"
+    ],
+    "name:und_x_variant":[
+        "Dale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3159356
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"057aab43e5bd397f3457d32eed076a45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209205297
+        }
+    ],
+    "wof:id":1209205297,
+    "wof:lastmodified":1537675861,
+    "wof:name":"Dalsbygda",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.92552,
+    62.06319000000001,
+    5.92552,
+    62.06319000000001
+],
+  "geometry": {"coordinates":[5.92552,62.06319000000001],"type":"Point"}
+}

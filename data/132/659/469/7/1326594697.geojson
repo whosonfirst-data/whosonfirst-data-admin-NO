@@ -1,0 +1,71 @@
+{
+  "id": 1326594697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.28799,59.42835,10.28799,59.42835",
+    "geom:latitude":59.42835,
+    "geom:longitude":10.28799,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"716",
+    "gn:asciiname":"Ranerudasen",
+    "gn:country_code":"NO",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404431,
+    "gn:latitude":59.42835,
+    "gn:longitude":10.28799,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"R\u00e5nerud\u00e5sen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "R\u00e5nerud\u00e5sen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296901,
+        85633341,
+        85687073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404431
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"cd9e79cee4b55129f89b52d23af3632b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296901,
+            "locality_id":1326594697,
+            "region_id":85687073
+        }
+    ],
+    "wof:id":1326594697,
+    "wof:lastmodified":1537675931,
+    "wof:name":"Ranerudasen",
+    "wof:parent_id":1159296901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.28799,
+    59.42835,
+    10.28799,
+    59.42835
+],
+  "geometry": {"coordinates":[10.28799,59.42835],"type":"Point"}
+}

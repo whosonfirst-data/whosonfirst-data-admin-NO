@@ -1,0 +1,68 @@
+{
+  "id": 1242590557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.21667,58.68333,9.21667,58.68333",
+    "geom:latitude":58.68333,
+    "geom:longitude":9.21667,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"901.0",
+    "gn:asciiname":"Fidje",
+    "gn:country_code":"NO",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3157667,
+    "gn:latitude":58.68333,
+    "gn:longitude":9.21667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Fidje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296923,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3157667
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"179e1029537c6b1bb6f3131778b5f894",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296923,
+            "locality_id":1242590557,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1242590557,
+    "wof:lastmodified":1537043115,
+    "wof:name":"Fidje",
+    "wof:parent_id":1159296923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.21667,
+    58.68333000000001,
+    9.21667,
+    58.68333000000001
+],
+  "geometry": {"coordinates":[9.21667,58.68333000000001],"type":"Point"}
+}

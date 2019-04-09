@@ -1,0 +1,97 @@
+{
+  "id": 1125910319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.52694,62.88944,8.52694,62.88944",
+    "geom:latitude":62.88944,
+    "geom:longitude":8.52694,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":62.88944,
+    "lbl:longitude":8.52694,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:nor_x_preferred":[
+        "Kvanne"
+    ],
+    "name:nor_x_variant":[
+        "Kvenna"
+    ],
+    "name:unk_x_variant":[
+        "Kvande"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3148942,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kvanne",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"M\u00f8re og Romsdal Fylke",
+    "qs_pg:photos":19,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":19,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":57785,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":860940,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"M\u00f8re og Romsdal Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297613,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3148942,
+        "gp:id":860940,
+        "qs_pg:id":57785
+    },
+    "wof:country":"NO",
+    "wof:created":1497296118,
+    "wof:geomhash":"f196ad56d1352a8c3b328aab04355737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297613,
+            "locality_id":1125910319,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1125910319,
+    "wof:lastmodified":1529700091,
+    "wof:name":"Kvanne",
+    "wof:parent_id":1159297613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.52694,
+    62.88944,
+    8.52694,
+    62.88944
+],
+  "geometry": {"coordinates":[8.52694,62.88944],"type":"Point"}
+}

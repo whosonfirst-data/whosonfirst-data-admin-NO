@@ -1,0 +1,68 @@
+{
+  "id": 1309769383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.11449,68.74941,17.11449,68.74941",
+    "geom:latitude":68.74941,
+    "geom:longitude":17.11449,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1917.0",
+    "gn:asciiname":"Storskog",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3136035,
+    "gn:latitude":68.74941,
+    "gn:longitude":17.11449,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Storskog",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296917,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3136035
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"242fe0654f3fea901a2b3f6c25a2db10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296917,
+            "locality_id":1309769383,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1309769383,
+    "wof:lastmodified":1536982984,
+    "wof:name":"Storskog",
+    "wof:parent_id":1159296917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.11449,
+    68.74941,
+    17.11449,
+    68.74941
+],
+  "geometry": {"coordinates":[17.11449,68.74941],"type":"Point"}
+}

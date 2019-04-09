@@ -1,0 +1,72 @@
+{
+  "id": 1276839623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.7003,63.03413,9.7003,63.03413",
+    "geom:latitude":63.03413,
+    "geom:longitude":9.7003,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5023.0",
+    "gn:asciiname":"Systogrenda",
+    "gn:country_code":"NO",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3134926,
+    "gn:latitude":63.03413,
+    "gn:longitude":9.7003,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Systogrenda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Systogrenda"
+    ],
+    "name:nor_x_variant":[
+        "Systad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297549,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3134926
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2fe1ba36283284a918fb33a04ddea87d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297549,
+            "locality_id":1276839623,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1276839623,
+    "wof:lastmodified":1537675696,
+    "wof:name":"Systogrenda",
+    "wof:parent_id":1159297549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.7003,
+    63.03413000000001,
+    9.7003,
+    63.03413000000001
+],
+  "geometry": {"coordinates":[9.7003,63.03413000000001],"type":"Point"}
+}

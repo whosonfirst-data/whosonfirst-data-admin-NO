@@ -1,0 +1,71 @@
+{
+  "id": 1259361211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.90185,61.02119,8.90185,61.02119",
+    "geom:latitude":61.02119,
+    "geom:longitude":8.90185,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"543.0",
+    "gn:asciiname":"Sore Trollhovd",
+    "gn:country_code":"NO",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535829,
+    "gn:latitude":61.02119,
+    "gn:longitude":8.90185,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"S\u00f8re Trollhovd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "S\u00f8re Trollhovd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297129,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535829
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4b958d4acd58a7dfde713f5680b946d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297129,
+            "locality_id":1259361211,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1259361211,
+    "wof:lastmodified":1537675943,
+    "wof:name":"Sore Trollhovd",
+    "wof:parent_id":1159297129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.90185,
+    61.02119,
+    8.90185,
+    61.02119
+],
+  "geometry": {"coordinates":[8.90185,61.02119],"type":"Point"}
+}

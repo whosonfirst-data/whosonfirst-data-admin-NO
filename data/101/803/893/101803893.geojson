@@ -1,0 +1,137 @@
+{
+  "id": 101803893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0001,
+    "geom:area_square_m":606575.223252,
+    "geom:bbox":"5.81153418704,60.5829617328,5.83117070561,60.5974941647",
+    "geom:latitude":60.589461,
+    "geom:longitude":5.820968,
+    "gn:population":1167,
+    "iso:country":"NO",
+    "lbl:latitude":60.589402,
+    "lbl:longitude":5.821117,
+    "mps:latitude":60.589402,
+    "mps:longitude":5.821117,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Dale"
+    ],
+    "name:dut_x_preferred":[
+        "Dale"
+    ],
+    "name:eng_x_preferred":[
+        "Dale"
+    ],
+    "name:eng_x_variant":[
+        "Dalekvam"
+    ],
+    "name:fre_x_preferred":[
+        "Dale"
+    ],
+    "name:jav_x_preferred":[
+        "Dale"
+    ],
+    "name:may_x_preferred":[
+        "Dale"
+    ],
+    "name:msa_x_preferred":[
+        "Dale"
+    ],
+    "name:nld_x_preferred":[
+        "Dale"
+    ],
+    "name:nno_x_preferred":[
+        "Dale i Vaksdal"
+    ],
+    "name:nob_x_preferred":[
+        "Dale"
+    ],
+    "name:nor_x_preferred":[
+        "Dale"
+    ],
+    "name:nor_x_variant":[
+        "Dale I Bruvik",
+        "Dales"
+    ],
+    "name:spa_x_preferred":[
+        "Dale"
+    ],
+    "name:swe_x_preferred":[
+        "Dale"
+    ],
+    "name:unk_x_variant":[
+        "Dale i Bruvik"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Hordaland",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"Vaksdal",
+    "qs:la_lc":"*NO1251",
+    "qs:level":"locality",
+    "qs:loc":"Dale",
+    "qs:loc_alt":"Dale",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":185,
+    "wof:belongsto":[
+        102191581,
+        1159297437,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01fc1612-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3132953,
+        "gp:id":865463,
+        "qs:id":375037,
+        "qs_pg:id":245903,
+        "wd:id":"Q1951189",
+        "wk:page":"Dale, Hordaland"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"683238b25d344532b05f21719e2cb277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297437,
+            "locality_id":101803893,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":101803893,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1529700044,
+    "wof:name":"Dale",
+    "wof:parent_id":1159297437,
+    "wof:placetype":"locality",
+    "wof:population":1167,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.81153418703769,
+    60.58296173280758,
+    5.83117070560832,
+    60.59749416467736
+],
+  "geometry": {"coordinates":[[[5.82095267387984,60.59749416467736],[5.8210663950764,60.59659584427743],[5.82288305462311,60.5966489367483],[5.8231103772585,60.59485229361837],[5.82129381599992,60.59479920440288],[5.82163489371891,60.59210424690286],[5.82345130756846,60.59215733123619],[5.82356493670318,60.5912590110587],[5.83083045060567,60.59147111139845],[5.83117070560832,60.58877613321209],[5.82572200406116,60.58861710715382],[5.82583555548166,60.5877187865828],[5.82401938174991,60.58766573342984],[5.82413297514165,60.58676741479275],[5.82231685602756,60.58671434022096],[5.82243049138452,60.58581602351836],[5.8206144268861,60.58576292752906],[5.82084177436752,60.58396629830145],[5.81902581358793,60.58391318252387],[5.81913952570358,60.58301486999909],[5.81732361953288,60.58296173280758],[5.81720985831589,60.58386004370396],[5.81176202557026,60.5837004889907],[5.81153418703769,60.58549710192631],[5.81335022398019,60.58555031313398],[5.81323634307176,60.58644862169325],[5.81686853172152,60.58655497823764],[5.81675474187341,60.58745329036401],[5.81857089357993,60.58750643569834],[5.81743309251681,60.59648959017875],[5.81924974104032,60.59654272875423],[5.81913597069553,60.59744104752559],[5.82095267387984,60.59749416467736]]],"type":"Polygon"}
+}

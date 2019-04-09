@@ -1,0 +1,75 @@
+{
+  "id": 1243448891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.32374,68.22299,16.32374,68.22299",
+    "geom:latitude":68.22299,
+    "geom:longitude":16.32374,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1850.0",
+    "gn:asciiname":"Lattas",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537267,
+    "gn:latitude":68.22299,
+    "gn:longitude":16.32374,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"L\u00e1tta\u0161",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Lysvoll"
+    ],
+    "name:smj_x_preferred":[
+        "L\u00e1tta\u0161"
+    ],
+    "name:smj_x_variant":[
+        "Latt\u00e1sj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297109,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537267
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"64a935bda9316e8756711f9a3378cb88",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297109,
+            "locality_id":1243448891,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1243448891,
+    "wof:lastmodified":1537676004,
+    "wof:name":"Lattas",
+    "wof:parent_id":1159297109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.32374,
+    68.22299,
+    16.32374,
+    68.22299
+],
+  "geometry": {"coordinates":[16.32374,68.22299],"type":"Point"}
+}

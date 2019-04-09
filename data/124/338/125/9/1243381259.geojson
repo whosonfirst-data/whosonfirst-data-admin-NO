@@ -1,0 +1,73 @@
+{
+  "id": 1243381259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.01667,60.48333,11.01667,60.48333",
+    "geom:latitude":60.48333,
+    "geom:longitude":11.01667,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"239.0",
+    "gn:asciiname":"Garsjoen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3156057,
+    "gn:latitude":60.48333,
+    "gn:longitude":11.01667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Garsj\u00f8en",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garsj\u00f6",
+        "Garsj\u00f8en"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296797,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3156057
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"31a2143d10ce45a3c4c4aef08fdbcf07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296797,
+            "locality_id":1243381259,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1243381259,
+    "wof:lastmodified":1537675836,
+    "wof:name":"Garsjoen",
+    "wof:parent_id":1159296797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.01667,
+    60.48333,
+    11.01667,
+    60.48333
+],
+  "geometry": {"coordinates":[11.01667,60.48333],"type":"Point"}
+}

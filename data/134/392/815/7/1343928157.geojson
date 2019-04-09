@@ -1,0 +1,72 @@
+{
+  "id": 1343928157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.79344,61.56461,4.79344,61.56461",
+    "geom:latitude":61.56461,
+    "geom:longitude":4.79344,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1401.0",
+    "gn:asciiname":"Rognaldsvag",
+    "gn:country_code":"NO",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3141551,
+    "gn:latitude":61.56461,
+    "gn:longitude":4.79344,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Rognaldsv\u00e5g",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rognaldsv\u00e5g"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297017,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141551,
+        "wk:page":"Rognaldsv%C3%A5g"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"80634aca258458339bd82515f31a12ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297017,
+            "locality_id":1343928157,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1343928157,
+    "wof:lastmodified":1537675738,
+    "wof:name":"Rognaldsvag",
+    "wof:parent_id":1159297017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.79344,
+    61.56461,
+    4.79344,
+    61.56461
+],
+  "geometry": {"coordinates":[4.79344,61.56461],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1260055951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.69279,68.60858,16.69279,68.60858",
+    "geom:latitude":68.60858,
+    "geom:longitude":16.69279,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1913.0",
+    "gn:asciiname":"Huonttas",
+    "gn:country_code":"NO",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537642,
+    "gn:latitude":68.60858,
+    "gn:longitude":16.69279,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Huontta\u0161",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Nipen"
+    ],
+    "name:sme_x_preferred":[
+        "Huontta\u0161"
+    ],
+    "name:sme_x_variant":[
+        "Hoanttas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296791,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537642
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9ba9a34068303d4052369e7f85bb51be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296791,
+            "locality_id":1260055951,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1260055951,
+    "wof:lastmodified":1537676022,
+    "wof:name":"Huonttas",
+    "wof:parent_id":1159296791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.69279,
+    68.60858,
+    16.69279,
+    68.60858
+],
+  "geometry": {"coordinates":[16.69279,68.60858],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209506691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.2051,60.08007,5.2051,60.08007",
+    "geom:latitude":60.08007,
+    "geom:longitude":5.2051,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1244.0",
+    "gn:asciiname":"Rostoy",
+    "gn:country_code":"NO",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141194,
+    "gn:latitude":60.08007,
+    "gn:longitude":5.2051,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Rost\u00f8y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rostoysund",
+        "Rostog",
+        "Rost\u00f8y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141194
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"baf65809a2fd6d5dfe0aaac139497c17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209506691
+        }
+    ],
+    "wof:id":1209506691,
+    "wof:lastmodified":1537675736,
+    "wof:name":"Rostoy",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.2051,
+    60.08006999999999,
+    5.2051,
+    60.08006999999999
+],
+  "geometry": {"coordinates":[5.2051,60.08006999999999],"type":"Point"}
+}

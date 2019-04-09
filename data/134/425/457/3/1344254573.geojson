@@ -1,0 +1,71 @@
+{
+  "id": 1344254573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.15399,62.40437,11.15399,62.40437",
+    "geom:latitude":62.40437,
+    "geom:longitude":11.15399,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"436.0",
+    "gn:asciiname":"Knappasvollan",
+    "gn:country_code":"NO",
+    "gn:dem":840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536084,
+    "gn:latitude":62.40437,
+    "gn:longitude":11.15399,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Knapp\u00e5svollan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Knapp\u00e5svollan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297297,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536084
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f56cad8ae3e308a29a8a4fae9b24018d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297297,
+            "locality_id":1344254573,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1344254573,
+    "wof:lastmodified":1537675954,
+    "wof:name":"Knappasvollan",
+    "wof:parent_id":1159297297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.15399,
+    62.40436999999999,
+    11.15399,
+    62.40436999999999
+],
+  "geometry": {"coordinates":[11.15399,62.40436999999999],"type":"Point"}
+}

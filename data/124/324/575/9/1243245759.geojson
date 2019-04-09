@@ -1,0 +1,72 @@
+{
+  "id": 1243245759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.4349,63.37893,10.4349,63.37893",
+    "geom:latitude":63.37893,
+    "geom:longitude":10.4349,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5001.0",
+    "gn:asciiname":"Bjorkmyr",
+    "gn:country_code":"NO",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536441,
+    "gn:latitude":63.37893,
+    "gn:longitude":10.4349,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Bj\u00f8rkmyr",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Bj\u00f8rkmyr"
+    ],
+    "name:nor_x_variant":[
+        "Bj\u00f8rkmyra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297145,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536441
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0fc94c7bad621859aa0b1128dc6a3baf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297145,
+            "locality_id":1243245759,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1243245759,
+    "wof:lastmodified":1537675969,
+    "wof:name":"Bjorkmyr",
+    "wof:parent_id":1159297145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4349,
+    63.37893,
+    10.4349,
+    63.37893
+],
+  "geometry": {"coordinates":[10.4349,63.37893],"type":"Point"}
+}

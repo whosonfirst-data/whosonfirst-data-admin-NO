@@ -1,0 +1,82 @@
+{
+  "id": 1125957191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.4641365,62.68533,7.4641365,62.68533",
+    "geom:latitude":62.68533,
+    "geom:longitude":7.464137,
+    "gn:gn_country":"NO",
+    "iso:country":"NO",
+    "lbl:latitude":62.68533,
+    "lbl:longitude":7.464137,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:name":"Slsnes",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"M\u00f8re og Romsdal Fylke",
+    "qs_pg:photos":18,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":18,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":505916,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":864011,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"M\u00f8re og Romsdal Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297499,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":864011,
+        "qs_pg:id":505916
+    },
+    "wof:country":"NO",
+    "wof:created":1497297657,
+    "wof:geomhash":"3e811fa61294042ae2c8cf1a4eda139c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297499,
+            "locality_id":1125957191,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1125957191,
+    "wof:lastmodified":1529700100,
+    "wof:name":"Slsnes",
+    "wof:parent_id":1159297499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.4641365,
+    62.68533,
+    7.4641365,
+    62.68533
+],
+  "geometry": {"coordinates":[7.4641365,62.68533],"type":"Point"}
+}

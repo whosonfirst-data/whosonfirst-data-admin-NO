@@ -1,0 +1,68 @@
+{
+  "id": 1343941413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.64802,59.66608,5.64802,59.66608",
+    "geom:latitude":59.66608,
+    "geom:longitude":5.64802,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1160.0",
+    "gn:asciiname":"Innbjoa",
+    "gn:country_code":"NO",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3151060,
+    "gn:latitude":59.66608,
+    "gn:longitude":5.64802,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Innbjoa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296919,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3151060
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7a827e04b0145f3769db1d36bda01247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296919,
+            "locality_id":1343941413,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1343941413,
+    "wof:lastmodified":1537045654,
+    "wof:name":"Innbjoa",
+    "wof:parent_id":1159296919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.64802,
+    59.66608000000001,
+    5.64802,
+    59.66608000000001
+],
+  "geometry": {"coordinates":[5.64802,59.66608000000001],"type":"Point"}
+}

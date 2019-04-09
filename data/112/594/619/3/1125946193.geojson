@@ -1,0 +1,119 @@
+{
+  "id": 1125946193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.4,64.11667,11.4,64.11667",
+    "geom:latitude":64.11667,
+    "geom:longitude":11.4,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":442,
+    "gn:population":442,
+    "iso:country":"NO",
+    "lbl:latitude":64.11667,
+    "lbl:longitude":11.4,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Velle"
+    ],
+    "name:eng_x_preferred":[
+        "Velle"
+    ],
+    "name:fre_x_preferred":[
+        "Velle"
+    ],
+    "name:jav_x_preferred":[
+        "Vellamelen"
+    ],
+    "name:may_x_preferred":[
+        "Vellamelen"
+    ],
+    "name:nno_x_preferred":[
+        "Velde"
+    ],
+    "name:nob_x_preferred":[
+        "Vellamelen"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0644\u0647\u060c \u0646\u0648\u0631\u062f \u062a\u0631\u0646\u062f\u0644\u06af"
+    ],
+    "name:rum_x_preferred":[
+        "Velde"
+    ],
+    "name:unk_x_variant":[
+        "Velde"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3132277,
+    "qs_pg:gn_pop":442,
+    "qs_pg:name":"Velle",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nord-Tr\u00f8ndelag Fylke",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":55367,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":22660043,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Nord-Tr\u00f8ndelag Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296907,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3132277,
+        "gp:id":22660043,
+        "qs_pg:id":55367,
+        "wd:id":"Q3230425"
+    },
+    "wof:country":"NO",
+    "wof:created":1497297289,
+    "wof:geomhash":"975b355738b95c68bcdc6e5be0534674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296907,
+            "locality_id":1125946193,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1125946193,
+    "wof:lastmodified":1529700207,
+    "wof:name":"Velle",
+    "wof:parent_id":1159296907,
+    "wof:placetype":"locality",
+    "wof:population":442,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.4,
+    64.11667,
+    11.4,
+    64.11667
+],
+  "geometry": {"coordinates":[11.4,64.11667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327013371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.45239,59.32655,6.45239,59.32655",
+    "geom:latitude":59.32655,
+    "geom:longitude":6.45239,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1133.0",
+    "gn:asciiname":"Hauga",
+    "gn:country_code":"NO",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3153722,
+    "gn:latitude":59.32655,
+    "gn:longitude":6.45239,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Hauga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296961,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3153722
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"958b8eb16c3778f0228bfb9782191660",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296961,
+            "locality_id":1327013371,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1327013371,
+    "wof:lastmodified":1536788432,
+    "wof:name":"Hauga",
+    "wof:parent_id":1159296961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.45239,
+    59.32655,
+    6.45239,
+    59.32655
+],
+  "geometry": {"coordinates":[6.45239,59.32655],"type":"Point"}
+}

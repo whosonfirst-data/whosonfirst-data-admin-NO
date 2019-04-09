@@ -1,0 +1,65 @@
+{
+  "id": 1209477635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.96478,58.1122,7.96478,58.1122",
+    "geom:latitude":58.1122,
+    "geom:longitude":7.96478,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1001",
+    "gn:asciiname":"Voie",
+    "gn:country_code":"NO",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404253,
+    "gn:latitude":58.1122,
+    "gn:longitude":7.96478,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Voie",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Voie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404253
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e7f5519ff0bb8859bbb2dbf5d5f62f37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209477635
+        }
+    ],
+    "wof:id":1209477635,
+    "wof:lastmodified":1537675923,
+    "wof:name":"Voie",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.96478,
+    58.1122,
+    7.96478,
+    58.1122
+],
+  "geometry": {"coordinates":[7.96478,58.1122],"type":"Point"}
+}

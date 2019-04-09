@@ -1,0 +1,120 @@
+{
+  "id": 1125764761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.98083,69.11861,15.98083,69.11861",
+    "geom:latitude":69.11861,
+    "geom:longitude":15.98083,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":69.11861,
+    "lbl:longitude":15.98083,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u0534\u057e\u0565\u0580\u0562\u0565\u0580\u0563"
+    ],
+    "name:dut_x_preferred":[
+        "Dverberg"
+    ],
+    "name:eng_x_preferred":[
+        "Dverberg"
+    ],
+    "name:fre_x_preferred":[
+        "Dverberg"
+    ],
+    "name:jav_x_preferred":[
+        "Myre"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30d9\u30eb\u30d9\u30eb\u30b0"
+    ],
+    "name:may_x_preferred":[
+        "Myre"
+    ],
+    "name:nno_x_preferred":[
+        "Dverberg"
+    ],
+    "name:nob_x_preferred":[
+        "Dverberg"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0432\u0435\u0440\u0431\u0435\u0440\u0433"
+    ],
+    "name:swe_x_preferred":[
+        "Dverberg"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3158899,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Dverberg",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nordland Fylke",
+    "qs_pg:photos":175,
+    "qs_pg:photos_1k":35,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":175,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1332168,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":857902,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Nordland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159297539,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3158899,
+        "gp:id":857902,
+        "qs_pg:id":1332168,
+        "wd:id":"Q2666708"
+    },
+    "wof:country":"NO",
+    "wof:created":1497289832,
+    "wof:geomhash":"a95f1f33daeaff439ecf7ba63e08c3d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297539,
+            "locality_id":1125764761,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1125764761,
+    "wof:lastmodified":1529700159,
+    "wof:name":"Dverberg",
+    "wof:parent_id":1159297539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.98083,
+    69.11861,
+    15.98083,
+    69.11861
+],
+  "geometry": {"coordinates":[15.98083,69.11861],"type":"Point"}
+}

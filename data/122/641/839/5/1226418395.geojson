@@ -1,0 +1,73 @@
+{
+  "id": 1226418395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.38333,69.01667,17.38333,69.01667",
+    "geom:latitude":69.01667,
+    "geom:longitude":17.38333,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1926.0",
+    "gn:asciiname":"Store Vinje",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3131570,
+    "gn:latitude":69.01667,
+    "gn:longitude":17.38333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Store Vinje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vinja",
+        "Store Vinje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297319,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3131570
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"78bde6b246363d1f7cbbcc01103a782e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297319,
+            "locality_id":1226418395,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1226418395,
+    "wof:lastmodified":1537675675,
+    "wof:name":"Store Vinje",
+    "wof:parent_id":1159297319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.38332999999999,
+    69.01666999999999,
+    17.38332999999999,
+    69.01666999999999
+],
+  "geometry": {"coordinates":[17.38332999999999,69.01666999999999],"type":"Point"}
+}

@@ -1,0 +1,119 @@
+{
+  "id": 1125869637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.325,60.47444,5.325,60.47444",
+    "geom:latitude":60.47444,
+    "geom:longitude":5.325,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":60.47444,
+    "lbl:longitude":5.325,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "\u00c5sane"
+    ],
+    "name:eng_x_preferred":[
+        "\u00c5sane"
+    ],
+    "name:fre_x_preferred":[
+        "\u00c5sane"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30b5\u30cd"
+    ],
+    "name:nno_x_preferred":[
+        "\u00c5sane"
+    ],
+    "name:nob_x_preferred":[
+        "\u00c5sane"
+    ],
+    "name:por_x_preferred":[
+        "\u00c5sane"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c5sane"
+    ],
+    "name:tur_x_preferred":[
+        "\u00c5sane"
+    ],
+    "name:unk_x_variant":[
+        "Aasane"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3162778,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"\u00c5sane",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Hordaland Fylke",
+    "qs_pg:photos":92,
+    "qs_pg:photos_1k":19,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":92,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":2981,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":856775,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Hordaland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297617,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3162778,
+        "gp:id":856775,
+        "qs_pg:id":2981,
+        "wd:id":"Q2403843"
+    },
+    "wof:country":"NO",
+    "wof:created":1497294223,
+    "wof:geomhash":"c313787f684e2193b5dc34569f4d3020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":1125869637,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1125869637,
+    "wof:lastmodified":1529700068,
+    "wof:name":"\u00c5sane",
+    "wof:parent_id":1159297617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.325,
+    60.47444,
+    5.325,
+    60.47444
+],
+  "geometry": {"coordinates":[5.325,60.47444],"type":"Point"}
+}

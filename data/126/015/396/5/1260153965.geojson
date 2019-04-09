@@ -1,0 +1,68 @@
+{
+  "id": 1260153965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.14889,61.91778,5.14889,61.91778",
+    "geom:latitude":61.91778,
+    "geom:longitude":5.14889,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1439.0",
+    "gn:asciiname":"Ukshola",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3223312,
+    "gn:latitude":61.91778,
+    "gn:longitude":5.14889,
+    "gn:modification_date":"2010-10-15",
+    "gn:name":"Ukshola",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297459,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3223312
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"51f988fb4b0f5f1d565555309c10816e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297459,
+            "locality_id":1260153965,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1260153965,
+    "wof:lastmodified":1536888074,
+    "wof:name":"Ukshola",
+    "wof:parent_id":1159297459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.14889,
+    61.91778000000001,
+    5.14889,
+    61.91778000000001
+],
+  "geometry": {"coordinates":[5.14889,61.91778000000001],"type":"Point"}
+}

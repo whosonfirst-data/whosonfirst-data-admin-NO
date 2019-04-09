@@ -1,0 +1,73 @@
+{
+  "id": 1260187183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.06667,69.7,30.06667,69.7",
+    "geom:latitude":69.7,
+    "geom:longitude":30.06667,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2030.0",
+    "gn:asciiname":"Eidet",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":780260,
+    "gn:latitude":69.7,
+    "gn:longitude":30.06667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Eidet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eide",
+        "Eidet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296947,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":780260
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"bcd52a60d2988fc2c7333ead2652b6df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296947,
+            "locality_id":1260187183,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1260187183,
+    "wof:lastmodified":1537675664,
+    "wof:name":"Eidet",
+    "wof:parent_id":1159296947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.06667,
+    69.7,
+    30.06667,
+    69.7
+],
+  "geometry": {"coordinates":[30.06667,69.7],"type":"Point"}
+}

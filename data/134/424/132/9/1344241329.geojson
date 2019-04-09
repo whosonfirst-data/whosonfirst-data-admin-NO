@@ -1,0 +1,72 @@
+{
+  "id": 1344241329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.50861,68.47312,17.50861,68.47312",
+    "geom:latitude":68.47312,
+    "geom:longitude":17.50861,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1805.0",
+    "gn:asciiname":"Oyjorda",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3142803,
+    "gn:latitude":68.47312,
+    "gn:longitude":17.50861,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"\u00d8yjorda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oijord",
+        "\u00d8yjord",
+        "\u00d8yjorda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297203,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3142803
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e57f795cfd7e4146c5572e76282f2991",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297203,
+            "locality_id":1344241329,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1344241329,
+    "wof:lastmodified":1537675746,
+    "wof:name":"Oyjorda",
+    "wof:parent_id":1159297203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.50861,
+    68.47312,
+    17.50861,
+    68.47312
+],
+  "geometry": {"coordinates":[17.50861,68.47311999999999],"type":"Point"}
+}

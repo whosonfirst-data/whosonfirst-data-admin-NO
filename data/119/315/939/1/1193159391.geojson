@@ -1,0 +1,68 @@
+{
+  "id": 1193159391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.20333,62.895,8.20333,62.895",
+    "geom:latitude":62.895,
+    "geom:longitude":8.20333,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1560.0",
+    "gn:asciiname":"Stolsgrenda",
+    "gn:country_code":"NO",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3207857,
+    "gn:latitude":62.895,
+    "gn:longitude":8.20333,
+    "gn:modification_date":"2010-10-15",
+    "gn:name":"St\u00f8lsgrenda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297327,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3207857
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"81ccfc6d07eeb5f85bf1702d327caf31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297327,
+            "locality_id":1193159391,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1193159391,
+    "wof:lastmodified":1536369643,
+    "wof:name":"Stolsgrenda",
+    "wof:parent_id":1159297327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.20333,
+    62.895,
+    8.20333,
+    62.895
+],
+  "geometry": {"coordinates":[8.20333,62.895],"type":"Point"}
+}

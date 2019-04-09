@@ -1,0 +1,116 @@
+{
+  "id": 1125807037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.48488,59.80765,10.48488,59.80765",
+    "geom:latitude":59.80765,
+    "geom:longitude":10.48488,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":59.80765,
+    "lbl:longitude":10.48488,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Vollen"
+    ],
+    "name:eng_x_preferred":[
+        "Vollen"
+    ],
+    "name:fre_x_preferred":[
+        "Vollen"
+    ],
+    "name:jav_x_preferred":[
+        "Vollen"
+    ],
+    "name:may_x_preferred":[
+        "Vollen"
+    ],
+    "name:nno_x_preferred":[
+        "Vollen i Asker"
+    ],
+    "name:nob_x_preferred":[
+        "Vollen"
+    ],
+    "name:rum_x_preferred":[
+        "Vollen"
+    ],
+    "name:unk_x_variant":[
+        "Volden"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3131396,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Vollen",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Akershus Fylke",
+    "qs_pg:photos":140,
+    "qs_pg:photos_1k":28,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":140,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":3278,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":865891,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Akershus Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296931,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3131396,
+        "gp:id":865891,
+        "qs_pg:id":3278,
+        "wd:id":"Q4582736"
+    },
+    "wof:country":"NO",
+    "wof:created":1497291508,
+    "wof:geomhash":"af923fc4a238eb6b6d1a5a124b394ffa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296931,
+            "locality_id":1125807037,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1125807037,
+    "wof:lastmodified":1529699783,
+    "wof:name":"Vollen",
+    "wof:parent_id":1159296931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.48488,
+    59.80765,
+    10.48488,
+    59.80765
+],
+  "geometry": {"coordinates":[10.48488,59.80765],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327117321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.15,61.41667,5.15,61.41667",
+    "geom:latitude":61.41667,
+    "geom:longitude":5.15,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1428.0",
+    "gn:asciiname":"Urdaneset",
+    "gn:country_code":"NO",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3133241,
+    "gn:latitude":61.41667,
+    "gn:longitude":5.15,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Urdaneset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297313,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3133241
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6026d76600afca798385bab998b04867",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297313,
+            "locality_id":1327117321,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1327117321,
+    "wof:lastmodified":1536636763,
+    "wof:name":"Urdaneset",
+    "wof:parent_id":1159297313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.15,
+    61.41667,
+    5.15,
+    61.41667
+],
+  "geometry": {"coordinates":[5.15,61.41667],"type":"Point"}
+}

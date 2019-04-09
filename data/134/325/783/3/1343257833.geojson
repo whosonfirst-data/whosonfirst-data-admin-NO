@@ -1,0 +1,76 @@
+{
+  "id": 1343257833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.68333,64.4,13.68333,64.4",
+    "geom:latitude":64.4,
+    "geom:longitude":13.68333,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5042.0",
+    "gn:asciiname":"Lauvsjolia",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3148006,
+    "gn:latitude":64.4,
+    "gn:longitude":13.68333,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Lauvsj\u00f8lia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "L\u00f8vsj\u00f8lia"
+    ],
+    "name:und_x_variant":[
+        "L\u00f6vsj\u00f6lien",
+        "Lauvsj\u00f8lia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297309,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3148006
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3bf6b1fedff305f63044f5cd157c8251",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297309,
+            "locality_id":1343257833,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1343257833,
+    "wof:lastmodified":1537675781,
+    "wof:name":"Lauvsjolia",
+    "wof:parent_id":1159297309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.68333,
+    64.4,
+    13.68333,
+    64.4
+],
+  "geometry": {"coordinates":[13.68333,64.40000000000001],"type":"Point"}
+}

@@ -1,0 +1,138 @@
+{
+  "id": 85904513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000114,
+    "geom:area_square_m":707141.328675,
+    "geom:bbox":"10.7272906043,59.9440071122,10.7446289062,59.9529474247",
+    "geom:latitude":59.948908,
+    "geom:longitude":10.736274,
+    "gn:latitude":60.3,
+    "gn:longitude":10.41667,
+    "iso:country":"NO",
+    "lbl:latitude":59.953189,
+    "lbl:longitude":10.731598,
+    "mps:latitude":59.948133,
+    "mps:longitude":10.736976,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:dan_x_preferred":[
+        "Sogn"
+    ],
+    "name:deu_x_preferred":[
+        "Sogn"
+    ],
+    "name:fra_x_preferred":[
+        "Royaume de Sogn"
+    ],
+    "name:nno_x_preferred":[
+        "Sogn"
+    ],
+    "name:nor_x_preferred":[
+        "Sogn"
+    ],
+    "name:nor_x_variant":[
+        "Sogns",
+        "Sognsveien"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u0648\u06af\u0646"
+    ],
+    "name:sme_x_preferred":[
+        "Sogn"
+    ],
+    "name:spa_x_preferred":[
+        "Reino de Sogn"
+    ],
+    "name:swe_x_preferred":[
+        "Sogn"
+    ],
+    "name:unk_x_variant":[
+        "Sogn"
+    ],
+    "qs:gn_adm0_cc":"NO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3143244,
+    "qs:gn_namadm1":"11",
+    "qs:gn_name":"Sogn",
+    "qs:local_max":14984,
+    "qs:local_sum":116500,
+    "qs:localhoods":70,
+    "qs:name":"Sogn",
+    "qs:name_adm0":"Norge",
+    "qs:name_adm1":"Oslo Fylke",
+    "qs:name_adm2":"Bydel Nordre Aker",
+    "qs:name_local":"Oslo",
+    "qs:photo_max":645,
+    "qs:photo_sum":748,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424910,
+    "qs:woe_adm1":2346395,
+    "qs:woe_adm2":29305128,
+    "qs:woe_lau":0,
+    "qs:woe_local":862592,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":442,
+    "wof:belongsto":[
+        85687089,
+        102191581,
+        1159297167,
+        85633341,
+        101751917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3137978,
+        "gp:id":20100466,
+        "qs:id":349764,
+        "qs_pg:id":349764
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f0ad14a4e7f2669315a20705b35b6c08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297167,
+            "locality_id":101751917,
+            "neighbourhood_id":85904513,
+            "region_id":85687089
+        }
+    ],
+    "wof:id":85904513,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1529700267,
+    "wof:name":"Sogn",
+    "wof:parent_id":101751917,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.72729060434324,
+    59.94400711222532,
+    10.74462890621817,
+    59.95294742472525
+],
+  "geometry": {"coordinates":[[[10.73415707367593,59.95294742472525],[10.73450135929187,59.95225983130003],[10.73913574220012,59.95225983130003],[10.74462890620975,59.95225983130003],[10.74462890621817,59.95225977425038],[10.74462890621675,59.94950917229998],[10.74462890621675,59.94950911520014],[10.74462890621464,59.94847323772292],[10.74462890619998,59.94675828490007],[10.74205239119345,59.94675828490007],[10.74188232420016,59.94664508669733],[10.74020035820837,59.94552555419118],[10.74016459756228,59.94538274140025],[10.73977989234294,59.94461458294002],[10.7397190462658,59.94400711222532],[10.73913574220012,59.94400711222532],[10.73364257812523,59.94400711222532],[10.73364257811579,59.94400716930004],[10.73364257811483,59.94504331765826],[10.73278372551113,59.94675822785042],[10.72814941407512,59.94675822785042],[10.7281494140845,59.94675828490007],[10.72814941408558,59.94903023211292],[10.72774973753525,59.94950911520014],[10.72729060434324,59.95225977425038],[10.72729062714279,59.95225982646461],[10.72814941410007,59.95225982700985],[10.73089599819559,59.95225982501678],[10.73124029600683,59.95294742472525],[10.7336425781001,59.95294742472525],[10.73415707367593,59.95294742472525]]],"type":"Polygon"}
+}

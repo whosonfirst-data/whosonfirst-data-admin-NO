@@ -1,0 +1,68 @@
+{
+  "id": 1209478351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.49258,69.75135,20.49258,69.75135",
+    "geom:latitude":69.75135,
+    "geom:longitude":20.49258,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1940.0",
+    "gn:asciiname":"Djupvik",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":780314,
+    "gn:latitude":69.75135,
+    "gn:longitude":20.49258,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Djupvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Djupvik i Lyngen",
+        "Djubvik",
+        "Djupvik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":780314
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"efa816a4ac3b04b6286ea000af2676aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209478351
+        }
+    ],
+    "wof:id":1209478351,
+    "wof:lastmodified":1537675664,
+    "wof:name":"Djupvik",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.49258,
+    69.75135,
+    20.49258,
+    69.75135
+],
+  "geometry": {"coordinates":[20.49258,69.75135],"type":"Point"}
+}

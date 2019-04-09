@@ -1,0 +1,71 @@
+{
+  "id": 1226231849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.67306,68.1425,15.67306,68.1425",
+    "geom:latitude":68.1425,
+    "geom:longitude":15.67306,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1849.0",
+    "gn:asciiname":"Hellandsasen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3153138,
+    "gn:latitude":68.1425,
+    "gn:longitude":15.67306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hellands\u00e5sen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hellands\u00e5s",
+        "Hellands\u00e5sen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297087,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3153138
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8b03eb258762ce6f1d893bd4c81b81ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297087,
+            "locality_id":1226231849,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1226231849,
+    "wof:lastmodified":1537675817,
+    "wof:name":"Hellandsasen",
+    "wof:parent_id":1159297087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.67306,
+    68.1425,
+    15.67306,
+    68.1425
+],
+  "geometry": {"coordinates":[15.67306,68.1425],"type":"Point"}
+}

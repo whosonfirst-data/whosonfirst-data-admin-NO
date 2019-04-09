@@ -1,0 +1,68 @@
+{
+  "id": 1243356181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.9424,62.16721,11.9424,62.16721",
+    "geom:latitude":62.16721,
+    "geom:longitude":11.9424,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"434.0",
+    "gn:asciiname":"Elga",
+    "gn:country_code":"NO",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8659168,
+    "gn:latitude":62.16721,
+    "gn:longitude":11.9424,
+    "gn:modification_date":"2017-09-23",
+    "gn:name":"Elg\u00e0",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296763,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8659168
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5cbc60c981636994558bec5aca35f06b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296763,
+            "locality_id":1243356181,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1243356181,
+    "wof:lastmodified":1536936478,
+    "wof:name":"Elga",
+    "wof:parent_id":1159296763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.9424,
+    62.16721,
+    11.9424,
+    62.16721
+],
+  "geometry": {"coordinates":[11.9424,62.16721],"type":"Point"}
+}

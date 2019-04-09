@@ -1,0 +1,66 @@
+{
+  "id": 1327252481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.93333,67.2,14.93333,67.2",
+    "geom:latitude":67.2,
+    "geom:longitude":14.93333,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1804.0",
+    "gn:asciiname":"Hoset",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3151751,
+    "gn:latitude":67.2,
+    "gn:longitude":14.93333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Hoset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297465,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3151751
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"228cfeed35363657f4e47dda37ff568f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297465,
+            "locality_id":1327252481,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1327252481,
+    "wof:lastmodified":1536941220,
+    "wof:name":"Hoset",
+    "wof:parent_id":1159297465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.93333,
+    67.2,
+    14.93333,
+    67.2
+],
+  "geometry": {"coordinates":[14.93333,67.2],"type":"Point"}
+}

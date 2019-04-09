@@ -1,0 +1,73 @@
+{
+  "id": 1293014391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.5,59.96667,11.5,59.96667",
+    "geom:latitude":59.96667,
+    "geom:longitude":11.5,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"221.0",
+    "gn:asciiname":"Haratun",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3153882,
+    "gn:latitude":59.96667,
+    "gn:longitude":11.5,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Haratun",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hareton",
+        "Haratun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297207,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3153882
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a041244f4cd8634387fb28ae4d71ecaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297207,
+            "locality_id":1293014391,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1293014391,
+    "wof:lastmodified":1537675821,
+    "wof:name":"Haratun",
+    "wof:parent_id":1159297207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.5,
+    59.96666999999999,
+    11.5,
+    59.96666999999999
+],
+  "geometry": {"coordinates":[11.5,59.96666999999999],"type":"Point"}
+}

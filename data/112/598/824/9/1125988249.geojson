@@ -1,0 +1,105 @@
+{
+  "id": 1125988249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.8,66.96667,13.8,66.96667",
+    "geom:latitude":66.96667,
+    "geom:longitude":13.8,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":66.96667,
+    "lbl:longitude":13.8,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Storvika"
+    ],
+    "name:eng_x_preferred":[
+        "Storvika"
+    ],
+    "name:fre_x_preferred":[
+        "Storvika"
+    ],
+    "name:jav_x_preferred":[
+        "Storvika"
+    ],
+    "name:may_x_preferred":[
+        "Storvika"
+    ],
+    "name:nob_x_preferred":[
+        "Storvik"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3135907,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Storvik",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nordland Fylke",
+    "qs_pg:photos":131,
+    "qs_pg:photos_1k":27,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":131,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":278656,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":864582,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Nordland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159296997,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3135907,
+        "gp:id":864582,
+        "qs_pg:id":278656,
+        "wd:id":"Q3499896"
+    },
+    "wof:country":"NO",
+    "wof:created":1497298916,
+    "wof:geomhash":"c59812aa74f3989c9c3630914bb3fd82",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296997,
+            "locality_id":1125988249,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1125988249,
+    "wof:lastmodified":1529700175,
+    "wof:name":"Storvik",
+    "wof:parent_id":1159296997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.8,
+    66.96667,
+    13.8,
+    66.96667
+],
+  "geometry": {"coordinates":[13.8,66.96666999999999],"type":"Point"}
+}

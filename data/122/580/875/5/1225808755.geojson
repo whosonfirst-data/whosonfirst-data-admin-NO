@@ -1,0 +1,74 @@
+{
+  "id": 1225808755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.31667,59.4,9.31667,59.4",
+    "geom:latitude":59.4,
+    "geom:longitude":9.31667,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"822.0",
+    "gn:asciiname":"Kvala",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3149094,
+    "gn:latitude":59.4,
+    "gn:longitude":9.31667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kv\u00e5la",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hvalen",
+        "Hvaalen",
+        "Kv\u00e5la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297147,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3149094
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4bdc2416ef7bf36fc4606bcca2c05993",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297147,
+            "locality_id":1225808755,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1225808755,
+    "wof:lastmodified":1537675788,
+    "wof:name":"Kvala",
+    "wof:parent_id":1159297147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.31667,
+    59.4,
+    9.31667,
+    59.4
+],
+  "geometry": {"coordinates":[9.31667,59.4],"type":"Point"}
+}

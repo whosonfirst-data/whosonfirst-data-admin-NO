@@ -1,0 +1,68 @@
+{
+  "id": 1260077915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.6,60.83333,11.6,60.83333",
+    "geom:latitude":60.83333,
+    "geom:longitude":11.6,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"427.0",
+    "gn:asciiname":"Skanshagen",
+    "gn:country_code":"NO",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3139365,
+    "gn:latitude":60.83333,
+    "gn:longitude":11.6,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Skanshagen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297469,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3139365
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d10a63fcae49b7c75308c0795a6ef6a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297469,
+            "locality_id":1260077915,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1260077915,
+    "wof:lastmodified":1536995298,
+    "wof:name":"Skanshagen",
+    "wof:parent_id":1159297469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.6,
+    60.83333,
+    11.6,
+    60.83333
+],
+  "geometry": {"coordinates":[11.6,60.83333],"type":"Point"}
+}

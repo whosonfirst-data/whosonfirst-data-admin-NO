@@ -1,0 +1,82 @@
+{
+  "id": 1310071733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.12079,68.67644,17.12079,68.67644",
+    "geom:latitude":68.67644,
+    "geom:longitude":17.12079,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1913.0",
+    "gn:asciiname":"Grov",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3154712,
+    "gn:latitude":68.67644,
+    "gn:longitude":17.12079,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Grov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Grov"
+    ],
+    "name:nor_x_variant":[
+        "Grovfjord"
+    ],
+    "name:sme_x_preferred":[
+        "Roahpa"
+    ],
+    "name:und_x_variant":[
+        "Grovfjord"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296791,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3154712,
+        "wk:page":"Grov%2C_Troms"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b56c17a9e5cda7b3fd738f9ea79446b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296791,
+            "locality_id":1310071733,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1310071733,
+    "wof:lastmodified":1537675829,
+    "wof:name":"Grov",
+    "wof:parent_id":1159296791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.12079,
+    68.67644,
+    17.12079,
+    68.67644
+],
+  "geometry": {"coordinates":[17.12079,68.67644],"type":"Point"}
+}

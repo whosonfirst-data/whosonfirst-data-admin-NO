@@ -1,0 +1,71 @@
+{
+  "id": 1276834451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.38258,59.53856,10.38258,59.53856",
+    "geom:latitude":59.53856,
+    "geom:longitude":10.38258,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"711",
+    "gn:asciiname":"Blindsand",
+    "gn:country_code":"NO",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404402,
+    "gn:latitude":59.53856,
+    "gn:longitude":10.38258,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Blindsand",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Blindsand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297457,
+        85633341,
+        85687073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404402
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"fb17e901c9b1e55075cc25fe53175c17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297457,
+            "locality_id":1276834451,
+            "region_id":85687073
+        }
+    ],
+    "wof:id":1276834451,
+    "wof:lastmodified":1537675930,
+    "wof:name":"Blindsand",
+    "wof:parent_id":1159297457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.38258,
+    59.53856,
+    10.38258,
+    59.53856
+],
+  "geometry": {"coordinates":[10.38258,59.53856],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293866121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.85607,62.84904,9.85607,62.84904",
+    "geom:latitude":62.84904,
+    "geom:longitude":9.85607,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5022.0",
+    "gn:asciiname":"Stamnan",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3137192,
+    "gn:latitude":62.84904,
+    "gn:longitude":9.85607,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Stamnan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stavnan",
+        "Stavne",
+        "Stamnan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297637,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3137192,
+        "wk:page":"Stamnan"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"147f9e181251e54e9dfb63cb99d7351e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297637,
+            "locality_id":1293866121,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1293866121,
+    "wof:lastmodified":1537675708,
+    "wof:name":"Stamnan",
+    "wof:parent_id":1159297637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.85607,
+    62.84904,
+    9.85607,
+    62.84904
+],
+  "geometry": {"coordinates":[9.85607,62.84904],"type":"Point"}
+}

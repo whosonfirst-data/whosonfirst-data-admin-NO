@@ -1,0 +1,71 @@
+{
+  "id": 1226441693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.95931,69.97111,24.95931,69.97111",
+    "geom:latitude":69.97111,
+    "geom:longitude":24.95931,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2020.0",
+    "gn:asciiname":"Revfossnes",
+    "gn:country_code":"NO",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536930,
+    "gn:latitude":69.97111,
+    "gn:longitude":24.95931,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Revfossnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Revfossnes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297563,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536930
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d5ae778aeb2b5154b70183ad5e10401d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297563,
+            "locality_id":1226441693,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1226441693,
+    "wof:lastmodified":1537675989,
+    "wof:name":"Revfossnes",
+    "wof:parent_id":1159297563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.95931,
+    69.97111,
+    24.95931,
+    69.97111
+],
+  "geometry": {"coordinates":[24.95931,69.97111],"type":"Point"}
+}

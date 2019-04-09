@@ -1,0 +1,77 @@
+{
+  "id": 1343544009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.0,60.73333,7.0,60.73333",
+    "geom:latitude":60.73333,
+    "geom:longitude":7.0,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1421.0",
+    "gn:asciiname":"Uppsete",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":1050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3133264,
+    "gn:latitude":60.73333,
+    "gn:longitude":7.0,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Uppsete",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Opsete",
+        "Upeste",
+        "Upsett",
+        "Upsete",
+        "Uppsete"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297301,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3133264,
+        "wk:page":"Upsete_Station"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6fdeaf237dc5ae0f0097a49f4a4a08ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297301,
+            "locality_id":1343544009,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1343544009,
+    "wof:lastmodified":1537675686,
+    "wof:name":"Uppsete",
+    "wof:parent_id":1159297301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.0,
+    60.73333,
+    7.0,
+    60.73333
+],
+  "geometry": {"coordinates":[7.0,60.73333],"type":"Point"}
+}

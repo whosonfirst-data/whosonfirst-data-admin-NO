@@ -1,0 +1,62 @@
+{
+  "id": 1209204361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.28333,68.86667,15.28333,68.86667",
+    "geom:latitude":68.86667,
+    "geom:longitude":15.28333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1868.0",
+    "gn:asciiname":"Steinsvik",
+    "gn:country_code":"NO",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3136856,
+    "gn:latitude":68.86667,
+    "gn:longitude":15.28333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Steinsvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3136856
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1d672e72f9a9b218c18170f6f97fdec2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209204361
+        }
+    ],
+    "wof:id":1209204361,
+    "wof:lastmodified":1536294503,
+    "wof:name":"Steinsvik",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.28333,
+    68.86667,
+    15.28333,
+    68.86667
+],
+  "geometry": {"coordinates":[15.28333,68.86667],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1276969177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.97423,66.26184,13.97423,66.26184",
+    "geom:latitude":66.26184,
+    "geom:longitude":13.97423,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1833",
+    "gn:asciiname":"Nerdal",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404273,
+    "gn:latitude":66.26184,
+    "gn:longitude":13.97423,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Nerdal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Nerdal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296963,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404273
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6d56b21a85987347143d26f27dd83bb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296963,
+            "locality_id":1276969177,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1276969177,
+    "wof:lastmodified":1537675924,
+    "wof:name":"Nerdal",
+    "wof:parent_id":1159296963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.97423,
+    66.26184,
+    13.97423,
+    66.26184
+],
+  "geometry": {"coordinates":[13.97423,66.26184000000001],"type":"Point"}
+}

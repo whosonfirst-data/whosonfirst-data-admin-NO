@@ -1,0 +1,69 @@
+{
+  "id": 1326915811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.75102,62.17855,5.75102,62.17855",
+    "geom:latitude":62.17855,
+    "geom:longitude":5.75102,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1511.0",
+    "gn:asciiname":"Rovde",
+    "gn:country_code":"NO",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141126,
+    "gn:latitude":62.17855,
+    "gn:longitude":5.75102,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Rovde",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297537,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141126,
+        "wk:page":"Rovde"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5a70bf30b9f74fb78762e66633b03941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297537,
+            "locality_id":1326915811,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1326915811,
+    "wof:lastmodified":1537570080,
+    "wof:name":"Rovde",
+    "wof:parent_id":1159297537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.75102,
+    62.17855,
+    5.75102,
+    62.17855
+],
+  "geometry": {"coordinates":[5.75102,62.17855],"type":"Point"}
+}

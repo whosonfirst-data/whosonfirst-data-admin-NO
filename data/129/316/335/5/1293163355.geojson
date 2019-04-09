@@ -1,0 +1,71 @@
+{
+  "id": 1293163355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.68576,58.07512,6.68576,58.07512",
+    "geom:latitude":58.07512,
+    "geom:longitude":6.68576,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1003.0",
+    "gn:asciiname":"Kviljo",
+    "gn:country_code":"NO",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537833,
+    "gn:latitude":58.07512,
+    "gn:longitude":6.68576,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Kviljo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Kviljo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297123,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537833
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"76b5fd47ee369ccec9c23a43c080030d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297123,
+            "locality_id":1293163355,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1293163355,
+    "wof:lastmodified":1537676030,
+    "wof:name":"Kviljo",
+    "wof:parent_id":1159297123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.68576,
+    58.07512,
+    6.68576,
+    58.07512
+],
+  "geometry": {"coordinates":[6.68576,58.07512],"type":"Point"}
+}

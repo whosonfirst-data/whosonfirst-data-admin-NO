@@ -1,0 +1,106 @@
+{
+  "id": 1125955739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.15642,60.04093,9.15642,60.04093",
+    "geom:latitude":60.04093,
+    "geom:longitude":9.15642,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":292,
+    "gn:population":292,
+    "iso:country":"NO",
+    "lbl:latitude":60.04093,
+    "lbl:longitude":9.15642,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Veggli"
+    ],
+    "name:eng_x_preferred":[
+        "Veggli"
+    ],
+    "name:fre_x_preferred":[
+        "Veggli"
+    ],
+    "name:ger_x_preferred":[
+        "Veggli"
+    ],
+    "name:jav_x_preferred":[
+        "Veggli"
+    ],
+    "name:may_x_preferred":[
+        "Veggli"
+    ],
+    "name:nno_x_preferred":[
+        "Veggli"
+    ],
+    "name:nob_x_preferred":[
+        "Veggli"
+    ],
+    "name:rum_x_preferred":[
+        "Veggli"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3132319,
+    "qs_pg:gn_pop":292,
+    "qs_pg:name":"Veggli",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":581017,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296823,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3132319,
+        "qs_pg:id":581017,
+        "wd:id":"Q1770628"
+    },
+    "wof:country":"NO",
+    "wof:created":1497297614,
+    "wof:geomhash":"4bc18a20aac0fd84d1e85fdc02e230c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296823,
+            "locality_id":1125955739,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1125955739,
+    "wof:lastmodified":1529699853,
+    "wof:name":"Veggli",
+    "wof:parent_id":1159296823,
+    "wof:placetype":"locality",
+    "wof:population":292,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.15642,
+    60.04093,
+    9.15642,
+    60.04093
+],
+  "geometry": {"coordinates":[9.15642,60.04093],"type":"Point"}
+}

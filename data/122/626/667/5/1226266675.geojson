@@ -1,0 +1,68 @@
+{
+  "id": 1226266675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.9,60.71667,8.9,60.71667",
+    "geom:latitude":60.71667,
+    "geom:longitude":8.9,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"617.0",
+    "gn:asciiname":"Holtegard",
+    "gn:country_code":"NO",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3151996,
+    "gn:latitude":60.71667,
+    "gn:longitude":8.9,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Holtegard",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297373,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3151996
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1a08bc132b440f688dc1d0f3e4979c11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297373,
+            "locality_id":1226266675,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1226266675,
+    "wof:lastmodified":1536903626,
+    "wof:name":"Holtegard",
+    "wof:parent_id":1159297373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.9,
+    60.71666999999999,
+    8.9,
+    60.71666999999999
+],
+  "geometry": {"coordinates":[8.9,60.71666999999999],"type":"Point"}
+}

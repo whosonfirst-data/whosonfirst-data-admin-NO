@@ -1,0 +1,71 @@
+{
+  "id": 1309733157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.38507,59.70244,5.38507,59.70244",
+    "geom:latitude":59.70244,
+    "geom:longitude":5.38507,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1219",
+    "gn:asciiname":"Austra Mosterhamn",
+    "gn:country_code":"NO",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9403963,
+    "gn:latitude":59.70244,
+    "gn:longitude":5.38507,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Austra Mosterhamn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Austra Mosterhamn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296859,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9403963
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7ca6dbd6bbef0656fcff05071f5a23d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296859,
+            "locality_id":1309733157,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1309733157,
+    "wof:lastmodified":1537675912,
+    "wof:name":"Austra Mosterhamn",
+    "wof:parent_id":1159296859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.38507,
+    59.70244,
+    5.38507,
+    59.70244
+],
+  "geometry": {"coordinates":[5.38507,59.70244],"type":"Point"}
+}

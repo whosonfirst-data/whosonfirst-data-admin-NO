@@ -1,0 +1,71 @@
+{
+  "id": 1277087401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.95589,58.60691,8.95589,58.60691",
+    "geom:latitude":58.60691,
+    "geom:longitude":8.95589,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"914.0",
+    "gn:asciiname":"Gronland",
+    "gn:country_code":"NO",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535898,
+    "gn:latitude":58.60691,
+    "gn:longitude":8.95589,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Gr\u00f8nland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Gr\u00f8nland"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297531,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535898
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"26ca8604582c4b65537dc4805ce50fc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297531,
+            "locality_id":1277087401,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1277087401,
+    "wof:lastmodified":1537675946,
+    "wof:name":"Gronland",
+    "wof:parent_id":1159297531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.95589,
+    58.60691,
+    8.95589,
+    58.60691
+],
+  "geometry": {"coordinates":[8.95589,58.60691],"type":"Point"}
+}

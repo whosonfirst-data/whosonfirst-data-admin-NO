@@ -1,0 +1,97 @@
+{
+  "id": 101845695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.00007,
+    "geom:area_square_m":437605.389234,
+    "geom:bbox":"5.37130097153,59.6967490736,5.38995475854,59.7058413365",
+    "geom:latitude":59.701283,
+    "geom:longitude":5.383594,
+    "gn:population":1167,
+    "iso:country":"NO",
+    "lbl:latitude":59.700446,
+    "lbl:longitude":5.385784,
+    "mps:latitude":59.700446,
+    "mps:longitude":5.385784,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_variant":[
+        "Moster",
+        "Mosterham"
+    ],
+    "name:nor_x_preferred":[
+        "Mosterhamn"
+    ],
+    "name:nor_x_variant":[
+        "Mosterhamns",
+        "Mosterhavn"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Hordaland",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:id":0,
+    "qs:la":"B\u00f8mlo",
+    "qs:la_lc":"*NO1219",
+    "qs:level":"locality",
+    "qs:loc":"Mosterhamn",
+    "qs:loc_alt":"Mosterhamn",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":182,
+    "wof:belongsto":[
+        102191581,
+        1159296859,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01febf66-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3145357,
+        "gp:id":861962,
+        "qs:id":145893,
+        "wd:id":"Q663354"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7d4c1db332e419cf34b4d0e701485cdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296859,
+            "locality_id":101845695,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":101845695,
+    "wof:lastmodified":1534985961,
+    "wof:name":"Mosterhamn",
+    "wof:parent_id":1159296859,
+    "wof:placetype":"locality",
+    "wof:population":1167,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[
+        1175613115
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.37130097152851,
+    59.69674907361485,
+    5.38995475853551,
+    59.70584133647247
+],
+  "geometry": {"coordinates":[[[5.38697499517497,59.70584133647247],[5.38733855719192,59.70314870691374],[5.38910702904673,59.7032071050354],[5.38995475853551,59.69692429867956],[5.38465032854725,59.69674907361485],[5.38452910818944,59.69764661149446],[5.38276093011984,59.69758815670514],[5.38227579017564,59.70117830359214],[5.38050743332786,59.70111981951698],[5.38038608369686,59.70201735507999],[5.37154415429364,59.70172459072108],[5.37130097152851,59.70351964517641],[5.37837487266398,59.70375391526295],[5.37849628324972,59.70285638097459],[5.38380163054205,59.70303184360392],[5.38343779172396,59.70572446276697],[5.38697499517497,59.70584133647247]]],"type":"Polygon"}
+}

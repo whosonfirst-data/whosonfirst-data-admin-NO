@@ -1,0 +1,68 @@
+{
+  "id": 1310475113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.83333,61.11667,4.83333,61.11667",
+    "geom:latitude":61.11667,
+    "geom:longitude":4.83333,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1412.0",
+    "gn:asciiname":"Rake",
+    "gn:country_code":"NO",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3142530,
+    "gn:latitude":61.11667,
+    "gn:longitude":4.83333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"R\u00e5ke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296887,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3142530
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"00b429b72b1615bc90f97ba4d640e406",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296887,
+            "locality_id":1310475113,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1310475113,
+    "wof:lastmodified":1536960704,
+    "wof:name":"Rake",
+    "wof:parent_id":1159296887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.83333,
+    61.11666999999999,
+    4.83333,
+    61.11666999999999
+],
+  "geometry": {"coordinates":[4.83333,61.11666999999999],"type":"Point"}
+}

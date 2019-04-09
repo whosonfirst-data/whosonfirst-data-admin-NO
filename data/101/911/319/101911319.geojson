@@ -1,0 +1,118 @@
+{
+  "id": 101911319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000071,
+    "geom:area_square_m":327691.36613,
+    "geom:bbox":"14.6471777203,68.1635494444,14.6700077534,68.1704711918",
+    "geom:latitude":68.167324,
+    "geom:longitude":14.659535,
+    "iso:country":"NO",
+    "lbl:latitude":68.167813,
+    "lbl:longitude":14.660313,
+    "mps:latitude":68.167813,
+    "mps:longitude":14.660313,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Skrova"
+    ],
+    "name:dut_x_preferred":[
+        "Skrova"
+    ],
+    "name:eng_x_preferred":[
+        "Skrova"
+    ],
+    "name:fin_x_preferred":[
+        "Skrova"
+    ],
+    "name:fra_x_preferred":[
+        "Skrova"
+    ],
+    "name:fre_x_preferred":[
+        "Skrova"
+    ],
+    "name:ger_x_preferred":[
+        "Skrova"
+    ],
+    "name:jav_x_preferred":[
+        "Skrova"
+    ],
+    "name:may_x_preferred":[
+        "Skrova"
+    ],
+    "name:msa_x_preferred":[
+        "Skrova"
+    ],
+    "name:nld_x_preferred":[
+        "Skrova"
+    ],
+    "name:nno_x_preferred":[
+        "Skrova"
+    ],
+    "name:nob_x_preferred":[
+        "Skrova"
+    ],
+    "name:nor_x_preferred":[
+        "Skrova"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Nordland",
+    "qs:a1r":"3",
+    "qs:adm0":"Norge",
+    "qs:id":0,
+    "qs:la":"V\u00e5gan",
+    "qs:la_lc":"*NO1865",
+    "qs:level":"locality",
+    "qs:loc":"Skrova",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":230,
+    "wof:belongsto":[
+        1159296883,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":863953,
+        "qs:id":1090479,
+        "qs_pg:id":1090479,
+        "wd:id":"Q2062763"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c98c76d97bf776fd5e4645494e9b7edf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296883,
+            "locality_id":101911319,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":101911319,
+    "wof:lastmodified":1529700157,
+    "wof:name":"Skrova",
+    "wof:parent_id":1159296883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.64717772029957,
+    68.16354944441628,
+    14.6700077534187,
+    68.17047119182087
+],
+  "geometry": {"coordinates":[[[14.6700077534187,68.17028763817319],[14.6692931309716,68.16667419114361],[14.66215847709321,68.16685771379667],[14.66198013014076,68.16595434609144],[14.65960197885562,68.16601545548667],[14.65942373727944,68.16511208592226],[14.65466757989384,68.16523420619632],[14.65448953395224,68.16433083219744],[14.64973350999469,68.16445282284326],[14.64955565966216,68.16354944441628],[14.64717772029957,68.16361039048866],[14.64771104563016,68.16632053565149],[14.65246745425674,68.16619859694919],[14.65264544005475,68.16710197496548],[14.65502371699671,68.16704095635629],[14.65537991440499,68.16884770939998],[14.65775836016394,68.16878665451407],[14.65793657179961,68.16969002953971],[14.66269360855239,68.16956782123435],[14.6628720159124,68.17047119182087],[14.6700077534187,68.17028763817319]]],"type":"Polygon"}
+}

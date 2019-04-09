@@ -1,0 +1,81 @@
+{
+  "id": 1125850899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.63333,62.06667,5.63333,62.06667",
+    "geom:latitude":62.06667,
+    "geom:longitude":5.63333,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":403,
+    "gn:population":403,
+    "iso:country":"NO",
+    "lbl:latitude":62.06667,
+    "lbl:longitude":5.63333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Sylte i Vanylven"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3134969,
+    "qs_pg:gn_pop":403,
+    "qs_pg:name":"Sylte",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":581038,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297537,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3134969,
+        "qs_pg:id":581038
+    },
+    "wof:country":"NO",
+    "wof:created":1497293398,
+    "wof:geomhash":"85685bb4335a6ecdb068ab672acd401b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297537,
+            "locality_id":1125850899,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1125850899,
+    "wof:lastmodified":1529700092,
+    "wof:name":"Sylte",
+    "wof:parent_id":1159297537,
+    "wof:placetype":"locality",
+    "wof:population":403,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.63333,
+    62.06667,
+    5.63333,
+    62.06667
+],
+  "geometry": {"coordinates":[5.63333,62.06667],"type":"Point"}
+}

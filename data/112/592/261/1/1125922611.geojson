@@ -1,0 +1,118 @@
+{
+  "id": 1125922611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.88333,68.58333,14.88333,68.58333",
+    "geom:latitude":68.58333,
+    "geom:longitude":14.88333,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":373,
+    "gn:population":373,
+    "iso:country":"NO",
+    "lbl:latitude":68.58333,
+    "lbl:longitude":14.88333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Sandnes"
+    ],
+    "name:eng_x_preferred":[
+        "Sandnes"
+    ],
+    "name:fre_x_preferred":[
+        "Sandnes"
+    ],
+    "name:jav_x_preferred":[
+        "Sandnes"
+    ],
+    "name:lim_x_preferred":[
+        "Sandnes"
+    ],
+    "name:may_x_preferred":[
+        "Sandnes"
+    ],
+    "name:nno_x_preferred":[
+        "Sandnes i Hadsel"
+    ],
+    "name:nob_x_preferred":[
+        "Sandnes"
+    ],
+    "name:rum_x_preferred":[
+        "Sandnes"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3140310,
+    "qs_pg:gn_pop":373,
+    "qs_pg:name":"Sandnes",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nordland Fylke",
+    "qs_pg:photos":45,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":45,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":983734,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":863436,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Nordland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159296743,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3140310,
+        "gp:id":863436,
+        "qs_pg:id":983734,
+        "wd:id":"Q2613079"
+    },
+    "wof:country":"NO",
+    "wof:created":1497296534,
+    "wof:geomhash":"8072ffe99c0350b317552df747bb8caf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296743,
+            "locality_id":1125922611,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1125922611,
+    "wof:lastmodified":1529700164,
+    "wof:name":"Sandnes",
+    "wof:parent_id":1159296743,
+    "wof:placetype":"locality",
+    "wof:population":373,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.88333,
+    68.58333,
+    14.88333,
+    68.58333
+],
+  "geometry": {"coordinates":[14.88333,68.58333],"type":"Point"}
+}

@@ -1,0 +1,157 @@
+{
+  "id": 101814699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000496,
+    "geom:area_square_m":2034880.980544,
+    "geom:bbox":"29.6796346277,70.6215046159,29.7442293042,70.6442235287",
+    "geom:latitude":70.632588,
+    "geom:longitude":29.713961,
+    "gn:population":2166,
+    "iso:country":"NO",
+    "lbl:latitude":70.630204,
+    "lbl:longitude":29.713472,
+    "mps:latitude":70.630204,
+    "mps:longitude":29.713472,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u062a\u0633\u0641\u064a\u0648\u0631\u062f"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09ac\u099f\u09b8\u09cd\u09ab\u099c\u09cb\u09b0\u09cd\u09a1"
+    ],
+    "name:cat_x_preferred":[
+        "B\u00e5tsfjord"
+    ],
+    "name:dan_x_preferred":[
+        "B\u00e5tsfjord"
+    ],
+    "name:deu_x_preferred":[
+        "B\u00e5tsfjord"
+    ],
+    "name:eng_x_preferred":[
+        "Baasfjord"
+    ],
+    "name:eng_x_variant":[
+        "BJF",
+        "B\u00e5tsfjord"
+    ],
+    "name:est_x_preferred":[
+        "B\u00e5tsfjordi vald"
+    ],
+    "name:eus_x_preferred":[
+        "B\u00e5tsfjord"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062a\u0633\u0641\u06cc\u0648\u0631\u062f"
+    ],
+    "name:fin_x_preferred":[
+        "B\u00e5tsfjord"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30c4\u30d5\u30a3\u30e8\u30fc\u30eb"
+    ],
+    "name:nds_x_preferred":[
+        "Kommun B\u00e5tsfjord"
+    ],
+    "name:nno_x_preferred":[
+        "B\u00e5tsfjord"
+    ],
+    "name:nor_x_colloquial":[
+        "Baatsfjord",
+        "Baatsfjords",
+        "Batsfjord",
+        "Batsfjords"
+    ],
+    "name:nor_x_preferred":[
+        "B\u00e5tsfjord"
+    ],
+    "name:nor_x_variant":[
+        "B\u00e5tsfjords"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0442\u0441\u0444\u044c\u043e\u0440\u0434"
+    ],
+    "name:sme_x_preferred":[
+        "B\u00e1hcavuotna"
+    ],
+    "name:spa_x_preferred":[
+        "B\u00e5tsfjord"
+    ],
+    "name:swe_x_preferred":[
+        "B\u00e5tsfjords kommun"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u8328\u83f2\u5c24\u723e"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Finnmark",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"B\u00e5tsfjord",
+    "qs:la_lc":"*NO2028",
+    "qs:level":"locality",
+    "qs:loc":"B\u00e5tsfjord",
+    "qs:loc_alt":"Baatsfjord",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":972,
+    "wof:belongsto":[
+        102191581,
+        1159297303,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01ff52be-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":780717,
+        "gp:id":857024,
+        "qs:id":553159,
+        "qs_pg:id":553159,
+        "wd:id":"Q48813"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0ec2b06f5fcb3a7f8056643af8acbe8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297303,
+            "locality_id":101814699,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":101814699,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1529699905,
+    "wof:name":"B\u00e5tsfjord",
+    "wof:parent_id":1159297303,
+    "wof:placetype":"locality",
+    "wof:population":2166,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.67963462772053,
+    70.62150461585873,
+    29.74422930420752,
+    70.64422352869684
+],
+  "geometry": {"coordinates":[[[29.74169607882624,70.64396508026158],[29.74084343293919,70.64310167447434],[29.74339327791506,70.64284320568697],[29.74083552328489,70.64025300449515],[29.74338502372785,70.63999453902602],[29.74168005373281,70.63826774578718],[29.74422930420752,70.63800927180341],[29.74167214877008,70.63541909327733],[29.73402506449935,70.63619431223179],[29.73487708855794,70.63705774377956],[29.7272291720804,70.63783270861711],[29.72297124553432,70.63351534136962],[29.73061774498854,70.63274055386967],[29.72721166774591,70.62928674405924],[29.7221148178532,70.62980320668589],[29.71871073749389,70.62634925094687],[29.71616259887878,70.62660738675578],[29.71446121282395,70.6248803660103],[29.70936513066715,70.62539649389669],[29.71021559611012,70.62626002948764],[29.70002232408422,70.62729194646636],[29.69747229339413,70.62470118844703],[29.70256848446007,70.62418536510711],[29.70086847364337,70.62245822428986],[29.69577266025306,70.62297400043417],[29.69492295984776,70.62211040162941],[29.69237505639791,70.62236822965627],[29.69152552783737,70.62150461585873],[29.68897765804149,70.62176239992516],[29.69067660373463,70.62348964791124],[29.68303206318149,70.62426287785405],[29.68218283496253,70.62339922008283],[29.67963462772053,70.62365688726305],[29.68473059147817,70.62883885673097],[29.68727936558764,70.62858111879649],[29.68812905840275,70.62944475739818],[29.69067786620866,70.62918697548787],[29.69152773099091,70.63005059909466],[29.69407657247865,70.62979277320602],[29.69662691529061,70.63238358943016],[29.70172498274576,70.6318677702991],[29.70342597691649,70.63359491788833],[29.70852417891217,70.63307892280625],[29.71107681891647,70.63566954929348],[29.71617534433375,70.635153354615],[29.71872924980897,70.63774388133595],[29.71363015731549,70.63826014691114],[29.71703569538283,70.64171423213429],[29.72468537709102,70.64093964365065],[29.72724119714189,70.64353006743352],[29.73489118080107,70.64275508281571],[29.73574355987733,70.64361851548966],[29.73829352692502,70.64336011107554],[29.73914607828641,70.64422352869684],[29.74169607882624,70.64396508026158]]],"type":"Polygon"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1276961007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.37456,64.17411,10.37456,64.17411",
+    "geom:latitude":64.17411,
+    "geom:longitude":10.37456,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5019.0",
+    "gn:asciiname":"Straum",
+    "gn:country_code":"NO",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3135763,
+    "gn:latitude":64.17411,
+    "gn:longitude":10.37456,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Straum",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297423,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3135763
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a9d9dc30a1e86c38a129661123840848",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297423,
+            "locality_id":1276961007,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1276961007,
+    "wof:lastmodified":1536933372,
+    "wof:name":"Straum",
+    "wof:parent_id":1159297423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.37456,
+    64.17411,
+    10.37456,
+    64.17411
+],
+  "geometry": {"coordinates":[10.37456,64.17411],"type":"Point"}
+}

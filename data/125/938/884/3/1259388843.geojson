@@ -1,0 +1,68 @@
+{
+  "id": 1259388843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.0,59.5,10.0,59.5",
+    "geom:latitude":59.5,
+    "geom:longitude":10.0,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"604.0",
+    "gn:asciiname":"Tuft",
+    "gn:country_code":"NO",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3133795,
+    "gn:latitude":59.5,
+    "gn:longitude":10.0,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Tuft",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297255,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3133795
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d3657f4385e526d12699d84567d6c975",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297255,
+            "locality_id":1259388843,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1259388843,
+    "wof:lastmodified":1536993643,
+    "wof:name":"Tuft",
+    "wof:parent_id":1159297255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0,
+    59.5,
+    10.0,
+    59.5
+],
+  "geometry": {"coordinates":[10.0,59.5],"type":"Point"}
+}

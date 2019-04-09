@@ -1,0 +1,111 @@
+{
+  "id": 1125878815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.23177,68.08902,13.23177,68.08902",
+    "geom:latitude":68.08902,
+    "geom:longitude":13.23177,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":68.08902,
+    "lbl:longitude":13.23177,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Ramberg"
+    ],
+    "name:eng_x_preferred":[
+        "Ramberg"
+    ],
+    "name:fre_x_preferred":[
+        "Ramberg"
+    ],
+    "name:jav_x_preferred":[
+        "Ramberg"
+    ],
+    "name:may_x_preferred":[
+        "Ramberg"
+    ],
+    "name:nno_x_preferred":[
+        "Ramberg"
+    ],
+    "name:nob_x_preferred":[
+        "Ramberg"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043c\u0431\u0435\u0440\u0433"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":3142502,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ramberg",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nordland Fylke",
+    "qs_pg:photos":744,
+    "qs_pg:photos_1k":151,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":744,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":901778,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":862798,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Nordland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159297611,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3142502,
+        "gp:id":862798,
+        "qs_pg:id":901778,
+        "wd:id":"Q1771286"
+    },
+    "wof:country":"NO",
+    "wof:created":1497294682,
+    "wof:geomhash":"f71cb3fafcd24e3a0842de636a28770c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297611,
+            "locality_id":1125878815,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1125878815,
+    "wof:lastmodified":1529700175,
+    "wof:name":"Ramberg",
+    "wof:parent_id":1159297611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.23177,
+    68.08902,
+    13.23177,
+    68.08902
+],
+  "geometry": {"coordinates":[13.23177,68.08902],"type":"Point"}
+}

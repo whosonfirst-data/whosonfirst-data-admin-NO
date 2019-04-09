@@ -1,0 +1,117 @@
+{
+  "id": 1125770619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.35528,59.71667,10.35528,59.71667",
+    "geom:latitude":59.71667,
+    "geom:longitude":10.35528,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":408,
+    "gn:population":408,
+    "iso:country":"NO",
+    "lbl:latitude":59.71667,
+    "lbl:longitude":10.35528,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Hyggen"
+    ],
+    "name:eng_x_preferred":[
+        "Hyggen"
+    ],
+    "name:fre_x_preferred":[
+        "Hyggen"
+    ],
+    "name:jav_x_preferred":[
+        "Hyggen"
+    ],
+    "name:may_x_preferred":[
+        "Hyggen"
+    ],
+    "name:nno_x_preferred":[
+        "Hyggen"
+    ],
+    "name:nob_x_preferred":[
+        "Hyggen"
+    ],
+    "name:rum_x_preferred":[
+        "Hyggen"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3151278,
+    "qs_pg:gn_pop":408,
+    "qs_pg:name":"Hyggen",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Buskerud Fylke",
+    "qs_pg:photos":61,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":61,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":266772,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":860204,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Buskerud Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297215,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3151278,
+        "gp:id":860204,
+        "qs_pg:id":266772,
+        "wd:id":"Q3366341"
+    },
+    "wof:country":"NO",
+    "wof:created":1497290049,
+    "wof:geomhash":"9ce4b05dd09f8bce164b08379eb2e9b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297215,
+            "locality_id":1125770619,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1125770619,
+    "wof:lastmodified":1529699847,
+    "wof:name":"Hyggen",
+    "wof:parent_id":1159297215,
+    "wof:placetype":"locality",
+    "wof:population":408,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.35528,
+    59.71667,
+    10.35528,
+    59.71667
+],
+  "geometry": {"coordinates":[10.35528,59.71667],"type":"Point"}
+}

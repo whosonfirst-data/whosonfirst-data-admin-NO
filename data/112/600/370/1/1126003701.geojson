@@ -1,0 +1,101 @@
+{
+  "id": 1126003701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.18333,63.56667,9.18333,63.56667",
+    "geom:latitude":63.56667,
+    "geom:longitude":9.18333,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":241,
+    "gn:population":241,
+    "iso:country":"NO",
+    "lbl:latitude":63.56667,
+    "lbl:longitude":9.18333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Hestvika"
+    ],
+    "name:eng_x_preferred":[
+        "Hestvika"
+    ],
+    "name:fre_x_preferred":[
+        "Hestvika"
+    ],
+    "name:may_x_preferred":[
+        "Hestvika"
+    ],
+    "name:nno_x_preferred":[
+        "Hestvika"
+    ],
+    "name:nob_x_preferred":[
+        "Hestvika"
+    ],
+    "name:rum_x_preferred":[
+        "Hestvika"
+    ],
+    "name:unk_x_variant":[
+        "Hestvik"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3152739,
+    "qs_pg:gn_pop":241,
+    "qs_pg:name":"Hestvika",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":581119,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        1159297259,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3152739,
+        "qs_pg:id":581119,
+        "wd:id":"Q1776299"
+    },
+    "wof:country":"NO",
+    "wof:created":1497299804,
+    "wof:geomhash":"b719e56c8775bc3d13d33f878c2772b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297259,
+            "locality_id":1126003701,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1126003701,
+    "wof:lastmodified":1529700334,
+    "wof:name":"Hestvika",
+    "wof:parent_id":1159297259,
+    "wof:placetype":"locality",
+    "wof:population":241,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.18333,
+    63.56667,
+    9.18333,
+    63.56667
+],
+  "geometry": {"coordinates":[9.18333,63.56667],"type":"Point"}
+}

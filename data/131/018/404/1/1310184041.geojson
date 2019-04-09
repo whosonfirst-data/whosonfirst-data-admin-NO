@@ -1,0 +1,68 @@
+{
+  "id": 1310184041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.25,59.48333,5.25,59.48333",
+    "geom:latitude":59.48333,
+    "geom:longitude":5.25,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1106.0",
+    "gn:asciiname":"Bleivik",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3160993,
+    "gn:latitude":59.48333,
+    "gn:longitude":5.25,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Bleivik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296709,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160993
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"18216fb4e8355217975170f8fb437572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296709,
+            "locality_id":1310184041,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1310184041,
+    "wof:lastmodified":1536882674,
+    "wof:name":"Bleivik",
+    "wof:parent_id":1159296709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.25,
+    59.48333,
+    5.25,
+    59.48333
+],
+  "geometry": {"coordinates":[5.25,59.48333],"type":"Point"}
+}

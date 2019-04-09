@@ -1,0 +1,66 @@
+{
+  "id": 1226531993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.24778,67.93056,15.24778,67.93056",
+    "geom:latitude":67.93056,
+    "geom:longitude":15.24778,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1848.0",
+    "gn:asciiname":"Gronning",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3154848,
+    "gn:latitude":67.93056,
+    "gn:longitude":15.24778,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Gr\u00f8nning",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297343,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3154848
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3a6e22cdd42d92d8219ab123ccb9dcc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297343,
+            "locality_id":1226531993,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1226531993,
+    "wof:lastmodified":1537017164,
+    "wof:name":"Gronning",
+    "wof:parent_id":1159297343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.24778,
+    67.93056,
+    15.24778,
+    67.93056
+],
+  "geometry": {"coordinates":[15.24778,67.93056],"type":"Point"}
+}

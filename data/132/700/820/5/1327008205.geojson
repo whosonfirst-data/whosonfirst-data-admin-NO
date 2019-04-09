@@ -1,0 +1,71 @@
+{
+  "id": 1327008205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.12236,60.92209,9.12236,60.92209",
+    "geom:latitude":60.92209,
+    "geom:longitude":9.12236,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"542.0",
+    "gn:asciiname":"Sandbakkin",
+    "gn:country_code":"NO",
+    "gn:dem":1013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537123,
+    "gn:latitude":60.92209,
+    "gn:longitude":9.12236,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Sandbakkin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Sandbakkin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297391,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537123
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0da4737085ae85c54ee50a48380e961a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297391,
+            "locality_id":1327008205,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1327008205,
+    "wof:lastmodified":1537675997,
+    "wof:name":"Sandbakkin",
+    "wof:parent_id":1159297391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.12236,
+    60.92209,
+    9.12236,
+    60.92209
+],
+  "geometry": {"coordinates":[9.12236,60.92209],"type":"Point"}
+}

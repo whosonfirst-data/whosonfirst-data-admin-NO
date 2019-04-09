@@ -1,0 +1,71 @@
+{
+  "id": 1226832531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.33702,58.31448,6.33702,58.31448",
+    "geom:latitude":58.31448,
+    "geom:longitude":6.33702,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1111",
+    "gn:asciiname":"Vintersto",
+    "gn:country_code":"NO",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9403924,
+    "gn:latitude":58.31448,
+    "gn:longitude":6.33702,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Vinterst\u00f8",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Vinterst\u00f8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297211,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9403924
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"619889045a1cfa86cff60182ae0297dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297211,
+            "locality_id":1226832531,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1226832531,
+    "wof:lastmodified":1537675910,
+    "wof:name":"Vintersto",
+    "wof:parent_id":1159297211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.33702,
+    58.31448,
+    6.33702,
+    58.31448
+],
+  "geometry": {"coordinates":[6.33702,58.31448],"type":"Point"}
+}

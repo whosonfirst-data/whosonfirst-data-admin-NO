@@ -1,0 +1,71 @@
+{
+  "id": 1309794979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.01461,64.06402,14.01461,64.06402",
+    "geom:latitude":64.06402,
+    "geom:longitude":14.01461,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5042.0",
+    "gn:asciiname":"Linneset",
+    "gn:country_code":"NO",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536442,
+    "gn:latitude":64.06402,
+    "gn:longitude":14.01461,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Linneset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Linneset"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297309,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536442
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"aa483c913992fff4543d3e27fc17abae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297309,
+            "locality_id":1309794979,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1309794979,
+    "wof:lastmodified":1537675969,
+    "wof:name":"Linneset",
+    "wof:parent_id":1159297309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.01461,
+    64.06402,
+    14.01461,
+    64.06402
+],
+  "geometry": {"coordinates":[14.01461,64.06402],"type":"Point"}
+}

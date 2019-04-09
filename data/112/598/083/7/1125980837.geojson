@@ -1,0 +1,104 @@
+{
+  "id": 1125980837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.129096,60.423597,7.129096,60.423597",
+    "geom:latitude":60.423597,
+    "geom:longitude":7.129096,
+    "gn:gn_country":null,
+    "iso:country":"NO",
+    "lbl:latitude":60.423597,
+    "lbl:longitude":7.129096,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "\u00d8vre Eidfjord"
+    ],
+    "name:eng_x_preferred":[
+        "\u00d8vre Eidfjord"
+    ],
+    "name:fre_x_preferred":[
+        "\u00d8vre Eidfjord"
+    ],
+    "name:jav_x_preferred":[
+        "\u00d8vre Eidfjord"
+    ],
+    "name:may_x_preferred":[
+        "\u00d8vre Eidfjord"
+    ],
+    "name:nno_x_preferred":[
+        "\u00d8vre Eidfjord"
+    ],
+    "name:spa_x_preferred":[
+        "\u00d8vre Eidfjord"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"\u00d8vre Eidfjord",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Hordaland Fylke",
+    "qs_pg:photos":273,
+    "qs_pg:photos_1k":55,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":273,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":236210,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":15000910,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Hordaland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297267,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15000910,
+        "qs_pg:id":236210,
+        "wd:id":"Q12719682"
+    },
+    "wof:country":"NO",
+    "wof:created":1497298549,
+    "wof:geomhash":"a4793fa076df3aaf80e5c15087edeb08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297267,
+            "locality_id":1125980837,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1125980837,
+    "wof:lastmodified":1529700050,
+    "wof:name":"\u00d8vre Eidfjord",
+    "wof:parent_id":1159297267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.129096,
+    60.423597,
+    7.129096,
+    60.423597
+],
+  "geometry": {"coordinates":[7.129096,60.423597],"type":"Point"}
+}

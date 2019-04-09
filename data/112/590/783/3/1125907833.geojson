@@ -1,0 +1,104 @@
+{
+  "id": 1125907833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.2775,70.038879,22.2775,70.038879",
+    "geom:latitude":70.038879,
+    "geom:longitude":22.2775,
+    "gn:gn_country":null,
+    "iso:country":"NO",
+    "lbl:latitude":70.038879,
+    "lbl:longitude":22.2775,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Langfjordbotn"
+    ],
+    "name:eng_x_preferred":[
+        "Langfjordbotn"
+    ],
+    "name:fre_x_preferred":[
+        "Langfjordbotn"
+    ],
+    "name:jav_x_preferred":[
+        "Langfjordbotn"
+    ],
+    "name:may_x_preferred":[
+        "Langfjordbotn"
+    ],
+    "name:nob_x_preferred":[
+        "Langfjordbotn"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0646\u06af\u0641\u062c\u0648\u0631\u0688\u0628\u0648\u0679\u0646\u060c \u0627\u0644\u0679\u0627"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Langfjordbotn",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Finnmark Fylke",
+    "qs_pg:photos":29,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":29,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":399946,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":15000600,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Finnmark Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296893,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15000600,
+        "qs_pg:id":399946,
+        "wd:id":"Q6486000"
+    },
+    "wof:country":"NO",
+    "wof:created":1497296045,
+    "wof:geomhash":"40526641794960ca2052b72fd16bef60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296893,
+            "locality_id":1125907833,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1125907833,
+    "wof:lastmodified":1529699910,
+    "wof:name":"Langfjordbotn",
+    "wof:parent_id":1159296893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.2775,
+    70.038879,
+    22.2775,
+    70.038879
+],
+  "geometry": {"coordinates":[22.2775,70.03887899999999],"type":"Point"}
+}

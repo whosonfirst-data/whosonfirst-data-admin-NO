@@ -1,0 +1,68 @@
+{
+  "id": 1309695169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.03333,61.25,5.03333,61.25",
+    "geom:latitude":61.25,
+    "geom:longitude":5.03333,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1429.0",
+    "gn:asciiname":"Haugen",
+    "gn:country_code":"NO",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3153644,
+    "gn:latitude":61.25,
+    "gn:longitude":5.03333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Haugen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297051,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3153644
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"58a31b7f3764048b803989b577e76830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297051,
+            "locality_id":1309695169,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1309695169,
+    "wof:lastmodified":1537087473,
+    "wof:name":"Haugen",
+    "wof:parent_id":1159297051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.03333,
+    61.25,
+    5.03333,
+    61.25
+],
+  "geometry": {"coordinates":[5.03333,61.25],"type":"Point"}
+}

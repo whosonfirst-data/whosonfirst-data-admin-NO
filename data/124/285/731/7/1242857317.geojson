@@ -1,0 +1,76 @@
+{
+  "id": 1242857317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.61892,61.19233,7.61892,61.19233",
+    "geom:latitude":61.19233,
+    "geom:longitude":7.61892,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1424.0",
+    "gn:asciiname":"Naddvik",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3145082,
+    "gn:latitude":61.19233,
+    "gn:longitude":7.61892,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Naddvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nadviki",
+        "Natviken",
+        "Nadviken",
+        "Natvik",
+        "Naddvik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296749,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3145082
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4f03b4a05eadc5c126198c5ece72c04c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296749,
+            "locality_id":1242857317,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1242857317,
+    "wof:lastmodified":1537675761,
+    "wof:name":"Naddvik",
+    "wof:parent_id":1159296749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.61892,
+    61.19233000000001,
+    7.61892,
+    61.19233000000001
+],
+  "geometry": {"coordinates":[7.61892,61.19233000000001],"type":"Point"}
+}

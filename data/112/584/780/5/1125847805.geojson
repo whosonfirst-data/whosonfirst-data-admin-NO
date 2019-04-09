@@ -1,0 +1,104 @@
+{
+  "id": 1125847805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.96961,63.60638,8.96961,63.60638",
+    "geom:latitude":63.60638,
+    "geom:longitude":8.96961,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":510,
+    "gn:population":510,
+    "iso:country":"NO",
+    "lbl:latitude":63.60638,
+    "lbl:longitude":8.96961,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0424\u0438\u043b\u0430\u043d"
+    ],
+    "name:dut_x_preferred":[
+        "Fillan"
+    ],
+    "name:eng_x_preferred":[
+        "Fillan"
+    ],
+    "name:fre_x_preferred":[
+        "Fillan"
+    ],
+    "name:may_x_preferred":[
+        "Fillan"
+    ],
+    "name:nno_x_preferred":[
+        "Fillan"
+    ],
+    "name:nob_x_preferred":[
+        "Fillan"
+    ],
+    "name:rum_x_preferred":[
+        "Fillan"
+    ],
+    "name:swe_x_preferred":[
+        "Fillan"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":3157656,
+    "qs_pg:gn_pop":510,
+    "qs_pg:name":"Fillan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":94782,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        1159297259,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3157656,
+        "qs_pg:id":94782,
+        "wd:id":"Q3071969"
+    },
+    "wof:country":"NO",
+    "wof:created":1497293246,
+    "wof:geomhash":"57ee60daed43c127c9bd18b989b6e5d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297259,
+            "locality_id":1125847805,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1125847805,
+    "wof:lastmodified":1529700338,
+    "wof:name":"Fillan",
+    "wof:parent_id":1159297259,
+    "wof:placetype":"locality",
+    "wof:population":510,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.96961,
+    63.60638,
+    8.96961,
+    63.60638
+],
+  "geometry": {"coordinates":[8.96961,63.60638],"type":"Point"}
+}

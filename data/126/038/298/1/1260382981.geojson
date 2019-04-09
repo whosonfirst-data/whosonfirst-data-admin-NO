@@ -1,0 +1,71 @@
+{
+  "id": 1260382981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.35538,60.38123,5.35538,60.38123",
+    "geom:latitude":60.38123,
+    "geom:longitude":5.35538,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1201",
+    "gn:asciiname":"Floen",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404500,
+    "gn:latitude":60.38123,
+    "gn:longitude":5.35538,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Fl\u00f8en",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Fl\u00f8en"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297617,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404500
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8a7d6862e93f819aef527653dea46f15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":1260382981,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1260382981,
+    "wof:lastmodified":1537675933,
+    "wof:name":"Floen",
+    "wof:parent_id":1159297617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.35538,
+    60.38123,
+    5.35538,
+    60.38123
+],
+  "geometry": {"coordinates":[5.35538,60.38123],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1327452771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.11546,68.75855,15.11546,68.75855",
+    "geom:latitude":68.75855,
+    "geom:longitude":15.11546,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1870.0",
+    "gn:asciiname":"Froskeland",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3156444,
+    "gn:latitude":68.75855,
+    "gn:longitude":15.11546,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Fr\u00f8skeland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297273,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3156444
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7c66fe8743dc5d3c9530975b692d10fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297273,
+            "locality_id":1327452771,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1327452771,
+    "wof:lastmodified":1536651219,
+    "wof:name":"Froskeland",
+    "wof:parent_id":1159297273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.11546,
+    68.75855,
+    15.11546,
+    68.75855
+],
+  "geometry": {"coordinates":[15.11546,68.75855],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243040389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.65,63.05,11.65,63.05",
+    "geom:latitude":63.05,
+    "geom:longitude":11.65,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5033.0",
+    "gn:asciiname":"Aas",
+    "gn:country_code":"NO",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3162795,
+    "gn:latitude":63.05,
+    "gn:longitude":11.65,
+    "gn:modification_date":"2018-05-15",
+    "gn:name":"Aas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c5s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297247,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3162795,
+        "wk:page":"%C3%85s%2C_S%C3%B8r-Tr%C3%B8ndelag"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f88a3927f4a80f3c3faeeecb2846f5f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297247,
+            "locality_id":1243040389,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1243040389,
+    "wof:lastmodified":1537675887,
+    "wof:name":"Aas",
+    "wof:parent_id":1159297247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.65,
+    63.05,
+    11.65,
+    63.05
+],
+  "geometry": {"coordinates":[11.65,63.05],"type":"Point"}
+}

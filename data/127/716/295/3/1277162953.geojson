@@ -1,0 +1,68 @@
+{
+  "id": 1277162953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.68333,62.3,6.68333,62.3",
+    "geom:latitude":62.3,
+    "geom:longitude":6.68333,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1528.0",
+    "gn:asciiname":"Brunstad",
+    "gn:country_code":"NO",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3159869,
+    "gn:latitude":62.3,
+    "gn:longitude":6.68333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Brunstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296739,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3159869
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"956ee2ed8268d851f8d4a0739b2c09a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296739,
+            "locality_id":1277162953,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1277162953,
+    "wof:lastmodified":1536651932,
+    "wof:name":"Brunstad",
+    "wof:parent_id":1159296739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.68333,
+    62.3,
+    6.68333,
+    62.3
+],
+  "geometry": {"coordinates":[6.68333,62.3],"type":"Point"}
+}

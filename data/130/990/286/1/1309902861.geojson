@@ -1,0 +1,77 @@
+{
+  "id": 1309902861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.41414,62.03772,6.41414,62.03772",
+    "geom:latitude":62.03772,
+    "geom:longitude":6.41414,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1519.0",
+    "gn:asciiname":"Kalvatn",
+    "gn:country_code":"NO",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":3150584,
+    "gn:latitude":62.03772,
+    "gn:longitude":6.41414,
+    "gn:modification_date":"2015-04-27",
+    "gn:name":"Kalvatn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_historical":[
+        "Kaldvatn"
+    ],
+    "name:nor_x_preferred":[
+        "Kalvatn"
+    ],
+    "name:nor_x_variant":[
+        "Kaldvatn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297487,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3150584
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"74eca554199128f4664f61f730005e17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297487,
+            "locality_id":1309902861,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1309902861,
+    "wof:lastmodified":1537675801,
+    "wof:name":"Kalvatn",
+    "wof:parent_id":1159297487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.41414,
+    62.03771999999999,
+    6.41414,
+    62.03771999999999
+],
+  "geometry": {"coordinates":[6.41414,62.03771999999999],"type":"Point"}
+}

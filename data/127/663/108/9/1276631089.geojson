@@ -1,0 +1,68 @@
+{
+  "id": 1276631089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.1,69.23333,18.1,69.23333",
+    "geom:latitude":69.23333,
+    "geom:longitude":18.1,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1931.0",
+    "gn:asciiname":"Storvik",
+    "gn:country_code":"NO",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3135905,
+    "gn:latitude":69.23333,
+    "gn:longitude":18.1,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Storvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297333,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3135905
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4f173420a51f7e196632587834e7002a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297333,
+            "locality_id":1276631089,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1276631089,
+    "wof:lastmodified":1536876239,
+    "wof:name":"Storvik",
+    "wof:parent_id":1159297333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.1,
+    69.23333000000001,
+    18.1,
+    69.23333000000001
+],
+  "geometry": {"coordinates":[18.1,69.23333000000001],"type":"Point"}
+}

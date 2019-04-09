@@ -1,0 +1,73 @@
+{
+  "id": 1343849723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.69583,59.72944,5.69583,59.72944",
+    "geom:latitude":59.72944,
+    "geom:longitude":5.69583,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1224.0",
+    "gn:asciiname":"Vik",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3131792,
+    "gn:latitude":59.72944,
+    "gn:longitude":5.69583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Vik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dalevik",
+        "Vik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296949,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3131792
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"002d4705786fae0bcf19c289b0dca749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296949,
+            "locality_id":1343849723,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1343849723,
+    "wof:lastmodified":1537675677,
+    "wof:name":"Vik",
+    "wof:parent_id":1159296949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.69583,
+    59.72944,
+    5.69583,
+    59.72944
+],
+  "geometry": {"coordinates":[5.69583,59.72944],"type":"Point"}
+}

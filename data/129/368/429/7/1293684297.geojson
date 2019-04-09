@@ -1,0 +1,68 @@
+{
+  "id": 1293684297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.8,61.03333,10.8,61.03333",
+    "geom:latitude":61.03333,
+    "geom:longitude":10.8,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"412.0",
+    "gn:asciiname":"Harby",
+    "gn:country_code":"NO",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3153876,
+    "gn:latitude":61.03333,
+    "gn:longitude":10.8,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Harby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296699,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3153876
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2ae1c22416c8707e46f40e83f6fe97ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296699,
+            "locality_id":1293684297,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1293684297,
+    "wof:lastmodified":1536999920,
+    "wof:name":"Harby",
+    "wof:parent_id":1159296699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.8,
+    61.03333000000001,
+    10.8,
+    61.03333000000001
+],
+  "geometry": {"coordinates":[10.8,61.03333000000001],"type":"Point"}
+}

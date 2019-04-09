@@ -1,0 +1,68 @@
+{
+  "id": 1243526077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.71667,59.1,9.71667,59.1",
+    "geom:latitude":59.1,
+    "geom:longitude":9.71667,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"805.0",
+    "gn:asciiname":"Vissevag",
+    "gn:country_code":"NO",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3209662,
+    "gn:latitude":59.1,
+    "gn:longitude":9.71667,
+    "gn:modification_date":"2010-10-15",
+    "gn:name":"Vissev\u00e5g",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296755,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3209662
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"bb4d4d6cb50c9ae889bf26be78ee0397",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296755,
+            "locality_id":1243526077,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1243526077,
+    "wof:lastmodified":1536690985,
+    "wof:name":"Vissevag",
+    "wof:parent_id":1159296755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.71667,
+    59.1,
+    9.71667,
+    59.1
+],
+  "geometry": {"coordinates":[9.71667,59.1],"type":"Point"}
+}

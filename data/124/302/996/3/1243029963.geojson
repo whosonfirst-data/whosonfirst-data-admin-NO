@@ -1,0 +1,68 @@
+{
+  "id": 1243029963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.97255,58.99581,9.97255,58.99581",
+    "geom:latitude":58.99581,
+    "geom:longitude":9.97255,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"712.0",
+    "gn:asciiname":"Foldvik",
+    "gn:country_code":"NO",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3156890,
+    "gn:latitude":58.99581,
+    "gn:longitude":9.97255,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Foldvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296779,
+        85633341,
+        85687073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3156890
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"066c04ddbfcea9f7becabf9f64865d7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296779,
+            "locality_id":1243029963,
+            "region_id":85687073
+        }
+    ],
+    "wof:id":1243029963,
+    "wof:lastmodified":1536909330,
+    "wof:name":"Foldvik",
+    "wof:parent_id":1159296779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.97255,
+    58.99581,
+    9.97255,
+    58.99581
+],
+  "geometry": {"coordinates":[9.97255,58.99581],"type":"Point"}
+}

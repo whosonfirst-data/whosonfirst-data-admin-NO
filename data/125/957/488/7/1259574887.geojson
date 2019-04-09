@@ -1,0 +1,68 @@
+{
+  "id": 1259574887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.14,60.66556,5.14,60.66556",
+    "geom:latitude":60.66556,
+    "geom:longitude":5.14,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1263.0",
+    "gn:asciiname":"Berfjord",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3243011,
+    "gn:latitude":60.66556,
+    "gn:longitude":5.14,
+    "gn:modification_date":"2010-10-15",
+    "gn:name":"Berfjord",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296745,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3243011
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a0f16b87963a529c415d3d3bb530fc97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296745,
+            "locality_id":1259574887,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1259574887,
+    "wof:lastmodified":1536727657,
+    "wof:name":"Berfjord",
+    "wof:parent_id":1159296745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.14,
+    60.66556,
+    5.14,
+    60.66556
+],
+  "geometry": {"coordinates":[5.14,60.66556],"type":"Point"}
+}

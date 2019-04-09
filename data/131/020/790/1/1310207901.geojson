@@ -1,0 +1,68 @@
+{
+  "id": 1310207901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.13333,58.46667,8.13333,58.46667",
+    "geom:latitude":58.46667,
+    "geom:longitude":8.13333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"928.0",
+    "gn:asciiname":"Skreeros",
+    "gn:country_code":"NO",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3138482,
+    "gn:latitude":58.46667,
+    "gn:longitude":8.13333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Skreeros",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297559,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3138482
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"592ad3232dfb49a6cda2031a4e8a175f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297559,
+            "locality_id":1310207901,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1310207901,
+    "wof:lastmodified":1536847679,
+    "wof:name":"Skreeros",
+    "wof:parent_id":1159297559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.13333,
+    58.46666999999999,
+    8.13333,
+    58.46666999999999
+],
+  "geometry": {"coordinates":[8.13333,58.46666999999999],"type":"Point"}
+}

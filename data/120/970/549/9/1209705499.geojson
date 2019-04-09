@@ -1,0 +1,71 @@
+{
+  "id": 1209705499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.60536,68.62598,14.60536,68.62598",
+    "geom:latitude":68.62598,
+    "geom:longitude":14.60536,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1867.0",
+    "gn:asciiname":"Snarset",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3138081,
+    "gn:latitude":68.62598,
+    "gn:longitude":14.60536,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Snarset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Svarset",
+        "Snarset"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297417,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3138081
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1b892357032bfa7effbf3da5ebf7002a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297417,
+            "locality_id":1209705499,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1209705499,
+    "wof:lastmodified":1537675714,
+    "wof:name":"Snarset",
+    "wof:parent_id":1159297417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.60536,
+    68.62598,
+    14.60536,
+    68.62598
+],
+  "geometry": {"coordinates":[14.60536,68.62598],"type":"Point"}
+}

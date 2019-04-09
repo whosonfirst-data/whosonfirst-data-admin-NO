@@ -1,0 +1,71 @@
+{
+  "id": 1310287231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.98333,62.8,9.98333,62.8",
+    "geom:latitude":62.8,
+    "geom:longitude":9.98333,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5022.0",
+    "gn:asciiname":"Brattset",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3160315,
+    "gn:latitude":62.8,
+    "gn:longitude":9.98333,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Brattset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bratset",
+        "Brattset"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297637,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160315
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f646057bbd9e23502721ba496bca44c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297637,
+            "locality_id":1310287231,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1310287231,
+    "wof:lastmodified":1537675869,
+    "wof:name":"Brattset",
+    "wof:parent_id":1159297637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.98333,
+    62.8,
+    9.98333,
+    62.8
+],
+  "geometry": {"coordinates":[9.98333,62.8],"type":"Point"}
+}

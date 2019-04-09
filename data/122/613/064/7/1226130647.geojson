@@ -1,0 +1,71 @@
+{
+  "id": 1226130647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.57276,61.12199,8.57276,61.12199",
+    "geom:latitude":61.12199,
+    "geom:longitude":8.57276,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"545.0",
+    "gn:asciiname":"Ellingbogrende",
+    "gn:country_code":"NO",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537237,
+    "gn:latitude":61.12199,
+    "gn:longitude":8.57276,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Ellingb\u00f8grende",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Ellingb\u00f8grende"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297415,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537237
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"14b955e6cdece8ce0eaf0556378dcf16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297415,
+            "locality_id":1226130647,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1226130647,
+    "wof:lastmodified":1537676002,
+    "wof:name":"Ellingbogrende",
+    "wof:parent_id":1159297415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.57276,
+    61.12199,
+    8.57276,
+    61.12199
+],
+  "geometry": {"coordinates":[8.57276,61.12199],"type":"Point"}
+}

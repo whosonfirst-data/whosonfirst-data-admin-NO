@@ -1,0 +1,71 @@
+{
+  "id": 1276648067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.95893,60.67438,4.95893,60.67438",
+    "geom:latitude":60.67438,
+    "geom:longitude":4.95893,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1260.0",
+    "gn:asciiname":"Haland",
+    "gn:country_code":"NO",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535663,
+    "gn:latitude":60.67438,
+    "gn:longitude":4.95893,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"H\u00e5land",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "H\u00e5land"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297557,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535663
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"52ed08cc1bf1280bd1df74ebbdc203e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297557,
+            "locality_id":1276648067,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1276648067,
+    "wof:lastmodified":1537675936,
+    "wof:name":"Haland",
+    "wof:parent_id":1159297557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.95893,
+    60.67438000000001,
+    4.95893,
+    60.67438000000001
+],
+  "geometry": {"coordinates":[4.95893,60.67438000000001],"type":"Point"}
+}

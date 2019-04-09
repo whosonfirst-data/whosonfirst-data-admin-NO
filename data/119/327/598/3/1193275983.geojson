@@ -1,0 +1,74 @@
+{
+  "id": 1193275983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.95049,60.15088,8.95049,60.15088",
+    "geom:latitude":60.15088,
+    "geom:longitude":8.95049,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"633.0",
+    "gn:asciiname":"Gjuvsgrendi",
+    "gn:country_code":"NO",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3155554,
+    "gn:latitude":60.15088,
+    "gn:longitude":8.95049,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Gjuvsgrendi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Gjuvsgrendi"
+    ],
+    "name:nor_x_variant":[
+        "Gjuvsgrende"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297507,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3155554
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3e540d0f85572353600f26106ae1b6a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297507,
+            "locality_id":1193275983,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1193275983,
+    "wof:lastmodified":1537675833,
+    "wof:name":"Gjuvsgrendi",
+    "wof:parent_id":1159297507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.95049,
+    60.15088000000001,
+    8.95049,
+    60.15088000000001
+],
+  "geometry": {"coordinates":[8.95049,60.15088000000001],"type":"Point"}
+}

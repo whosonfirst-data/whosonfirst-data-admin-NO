@@ -1,0 +1,96 @@
+{
+  "id": 1125830053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.984447,62.74861,9.984447,62.74861",
+    "geom:latitude":62.74861,
+    "geom:longitude":9.984447,
+    "gn:gn_country":null,
+    "iso:country":"NO",
+    "lbl:latitude":62.74861,
+    "lbl:longitude":9.984447,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Ulsberg"
+    ],
+    "name:eng_x_preferred":[
+        "Ulsberg"
+    ],
+    "name:fre_x_preferred":[
+        "Ulsberg"
+    ],
+    "name:may_x_preferred":[
+        "Ulsberg"
+    ],
+    "name:nob_x_preferred":[
+        "Ulsberg"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Ulsberg",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
+    "qs_pg:photos":24,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":24,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1090767,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":865328,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159297637,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":865328,
+        "qs_pg:id":1090767,
+        "wd:id":"Q7879927"
+    },
+    "wof:country":"NO",
+    "wof:created":1497292458,
+    "wof:geomhash":"c0746740d1a58b58a706758542ea423a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297637,
+            "locality_id":1125830053,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1125830053,
+    "wof:lastmodified":1529700330,
+    "wof:name":"Ulsberg",
+    "wof:parent_id":1159297637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.984447,
+    62.74861,
+    9.984447,
+    62.74861
+],
+  "geometry": {"coordinates":[9.984447,62.74861],"type":"Point"}
+}

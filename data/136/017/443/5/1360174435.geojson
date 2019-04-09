@@ -1,0 +1,71 @@
+{
+  "id": 1360174435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.66667,68.73333,15.66667,68.73333",
+    "geom:latitude":68.73333,
+    "geom:longitude":15.66667,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1870.0",
+    "gn:asciiname":"Godfjordeid",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3155439,
+    "gn:latitude":68.73333,
+    "gn:longitude":15.66667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Godfjordeid",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Godfjordeidet",
+        "Godfjordeid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297273,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3155439
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c9ff559889d8429cd90d2f77d322e542",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297273,
+            "locality_id":1360174435,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1360174435,
+    "wof:lastmodified":1537675832,
+    "wof:name":"Godfjordeid",
+    "wof:parent_id":1159297273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.66667,
+    68.73333000000001,
+    15.66667,
+    68.73333000000001
+],
+  "geometry": {"coordinates":[15.66667,68.73333000000001],"type":"Point"}
+}

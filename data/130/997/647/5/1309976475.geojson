@@ -1,0 +1,68 @@
+{
+  "id": 1309976475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.35,61.18333,5.35,61.18333",
+    "geom:latitude":61.18333,
+    "geom:longitude":5.35,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1413.0",
+    "gn:asciiname":"Saetre",
+    "gn:country_code":"NO",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3140632,
+    "gn:latitude":61.18333,
+    "gn:longitude":5.35,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"S\u00e6tre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297157,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3140632
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"555031dc82c231a9e2c3724751a0c57a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297157,
+            "locality_id":1309976475,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1309976475,
+    "wof:lastmodified":1536685198,
+    "wof:name":"Saetre",
+    "wof:parent_id":1159297157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.35,
+    61.18333000000001,
+    5.35,
+    61.18333000000001
+],
+  "geometry": {"coordinates":[5.35,61.18333000000001],"type":"Point"}
+}

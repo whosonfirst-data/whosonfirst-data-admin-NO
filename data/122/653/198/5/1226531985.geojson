@@ -1,0 +1,71 @@
+{
+  "id": 1226531985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.48333,66.1,12.48333,66.1",
+    "geom:latitude":66.1,
+    "geom:longitude":12.48333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1827.0",
+    "gn:asciiname":"Sorvika",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3137369,
+    "gn:latitude":66.1,
+    "gn:longitude":12.48333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u00f8rvika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00f6rviken",
+        "S\u00f8rvika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297149,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3137369
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"96b771b846a85b955525424a381d1fc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297149,
+            "locality_id":1226531985,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1226531985,
+    "wof:lastmodified":1537675709,
+    "wof:name":"Sorvika",
+    "wof:parent_id":1159297149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.48333,
+    66.1,
+    12.48333,
+    66.1
+],
+  "geometry": {"coordinates":[12.48333,66.09999999999999],"type":"Point"}
+}

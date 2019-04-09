@@ -1,0 +1,71 @@
+{
+  "id": 1310179071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.8234,58.9853,5.8234,58.9853",
+    "geom:latitude":58.9853,
+    "geom:longitude":5.8234,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1103.0",
+    "gn:asciiname":"Hellesoy",
+    "gn:country_code":"NO",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537265,
+    "gn:latitude":58.9853,
+    "gn:longitude":5.8234,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Helles\u00f8y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Helles\u00f8y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297103,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537265
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"10a3d71bfa3e30259cba7cb4614ee05d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297103,
+            "locality_id":1310179071,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1310179071,
+    "wof:lastmodified":1537676003,
+    "wof:name":"Hellesoy",
+    "wof:parent_id":1159297103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.8234,
+    58.9853,
+    5.8234,
+    58.9853
+],
+  "geometry": {"coordinates":[5.8234,58.9853],"type":"Point"}
+}

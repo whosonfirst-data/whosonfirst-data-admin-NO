@@ -1,0 +1,68 @@
+{
+  "id": 1276624905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.9,61.21667,4.9,61.21667",
+    "geom:latitude":61.21667,
+    "geom:longitude":4.9,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1412.0",
+    "gn:asciiname":"Leknessund",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3147784,
+    "gn:latitude":61.21667,
+    "gn:longitude":4.9,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Leknessund",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296887,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3147784
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"bf70447028ae2e7ee324c2361a71008a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296887,
+            "locality_id":1276624905,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1276624905,
+    "wof:lastmodified":1536884926,
+    "wof:name":"Leknessund",
+    "wof:parent_id":1159296887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.9,
+    61.21666999999999,
+    4.9,
+    61.21666999999999
+],
+  "geometry": {"coordinates":[4.9,61.21666999999999],"type":"Point"}
+}

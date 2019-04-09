@@ -1,0 +1,74 @@
+{
+  "id": 1344052573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.63333,63.1,8.63333,63.1",
+    "geom:latitude":63.1,
+    "geom:longitude":8.63333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1571.0",
+    "gn:asciiname":"Valsoybotn",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3132807,
+    "gn:latitude":63.1,
+    "gn:longitude":8.63333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Vals\u00f8ybotn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Botn",
+        "Bodn",
+        "Vals\u00f8ybotn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296693,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3132807
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ce3163af24bc08e8235714772b1f36c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296693,
+            "locality_id":1344052573,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1344052573,
+    "wof:lastmodified":1537675682,
+    "wof:name":"Valsoybotn",
+    "wof:parent_id":1159296693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.63333,
+    63.1,
+    8.63333,
+    63.1
+],
+  "geometry": {"coordinates":[8.63333,63.1],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1125975791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.45687,59.91392,10.45687,59.91392",
+    "geom:latitude":59.91392,
+    "geom:longitude":10.45687,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"FRM",
+    "gn:gn_pop":10,
+    "gn:population":10,
+    "iso:country":"NO",
+    "lbl:latitude":59.91392,
+    "lbl:longitude":10.45687,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"FRM",
+    "qs_pg:gn_id":6355034,
+    "qs_pg:gn_pop":10,
+    "qs_pg:name":"Nedre Horni g\u00e5rd",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":621492,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297009,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6355034,
+        "qs_pg:id":621492
+    },
+    "wof:country":"NO",
+    "wof:created":1497298344,
+    "wof:geomhash":"a781190c2f99dd092dc76fcd5d29cc19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297009,
+            "locality_id":1125975791,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1125975791,
+    "wof:lastmodified":1529699782,
+    "wof:name":"Nedre Horni g\u00e5rd",
+    "wof:parent_id":1159297009,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.45687,
+    59.91392,
+    10.45687,
+    59.91392
+],
+  "geometry": {"coordinates":[10.45687,59.91392],"type":"Point"}
+}

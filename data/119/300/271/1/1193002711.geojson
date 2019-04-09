@@ -1,0 +1,71 @@
+{
+  "id": 1193002711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.75,66.91667,14.75,66.91667",
+    "geom:latitude":66.91667,
+    "geom:longitude":14.75,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1839.0",
+    "gn:asciiname":"Troalia",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3133992,
+    "gn:latitude":66.91667,
+    "gn:longitude":14.75,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tro\u00e5lia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Troaalien",
+        "Tro\u00e5lia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297265,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3133992
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5f7bcb17998b1e6ca4a09b8b95144479",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297265,
+            "locality_id":1193002711,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1193002711,
+    "wof:lastmodified":1537675690,
+    "wof:name":"Troalia",
+    "wof:parent_id":1159297265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.75,
+    66.91667,
+    14.75,
+    66.91667
+],
+  "geometry": {"coordinates":[14.75,66.91667],"type":"Point"}
+}

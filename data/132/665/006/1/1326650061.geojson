@@ -1,0 +1,73 @@
+{
+  "id": 1326650061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.5,63.06667,7.5,63.06667",
+    "geom:latitude":63.06667,
+    "geom:longitude":7.5,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1554.0",
+    "gn:asciiname":"Henda",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3152978,
+    "gn:latitude":63.06667,
+    "gn:longitude":7.5,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Henda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Henden",
+        "Henda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297467,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3152978
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"55ec8f4b3cfc470d3cdc9fe22eb5362e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297467,
+            "locality_id":1326650061,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1326650061,
+    "wof:lastmodified":1537675815,
+    "wof:name":"Henda",
+    "wof:parent_id":1159297467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.5,
+    63.06667,
+    7.5,
+    63.06667
+],
+  "geometry": {"coordinates":[7.5,63.06667],"type":"Point"}
+}

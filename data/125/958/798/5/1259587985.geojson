@@ -1,0 +1,81 @@
+{
+  "id": 1259587985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.48836,70.43926,28.48836,70.43926",
+    "geom:latitude":70.43926,
+    "geom:longitude":28.48836,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2025.0",
+    "gn:asciiname":"Austertana",
+    "gn:country_code":"NO",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":780866,
+    "gn:latitude":70.43926,
+    "gn:longitude":28.48836,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Austertana",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Austertana"
+    ],
+    "name:nor_x_preferred":[
+        "Austertana"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0443\u0441\u0442\u0435\u0440\u0442\u0430\u043d\u0430"
+    ],
+    "name:sme_x_preferred":[
+        "Juovlavuotna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296751,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":780866,
+        "wk:page":"Austertana"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c5ba3192df6db49cacac9e93dee7c84d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296751,
+            "locality_id":1259587985,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1259587985,
+    "wof:lastmodified":1537675667,
+    "wof:name":"Austertana",
+    "wof:parent_id":1159296751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.48836,
+    70.43926,
+    28.48836,
+    70.43926
+],
+  "geometry": {"coordinates":[28.48836,70.43926],"type":"Point"}
+}

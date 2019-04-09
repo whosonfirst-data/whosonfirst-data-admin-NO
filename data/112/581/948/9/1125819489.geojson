@@ -1,0 +1,102 @@
+{
+  "id": 1125819489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.96861,60.43667,4.96861,60.43667",
+    "geom:latitude":60.43667,
+    "geom:longitude":4.96861,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":536,
+    "gn:population":536,
+    "iso:country":"NO",
+    "lbl:latitude":60.43667,
+    "lbl:longitude":4.96861,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Olsvik"
+    ],
+    "name:nob_x_preferred":[
+        "Olsvik"
+    ],
+    "name:unk_x_variant":[
+        "Solsvik"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3137753,
+    "qs_pg:gn_pop":536,
+    "qs_pg:name":"Olsvik",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Hordaland Fylke",
+    "qs_pg:photos":3547,
+    "qs_pg:photos_1k":719,
+    "qs_pg:photos_9k":16,
+    "qs_pg:photos_9r":12,
+    "qs_pg:photos_all":3547,
+    "qs_pg:photos_sr":21,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1085782,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":15000738,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Hordaland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296987,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3137753,
+        "gp:id":15000738,
+        "qs_pg:id":1085782,
+        "wd:id":"Q7088586"
+    },
+    "wof:country":"NO",
+    "wof:created":1497291987,
+    "wof:geomhash":"ae5def934dd3ecdb51fa6cf499f2103f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296987,
+            "locality_id":1125819489,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1125819489,
+    "wof:lastmodified":1529700067,
+    "wof:name":"Olsvik",
+    "wof:parent_id":1159296987,
+    "wof:placetype":"locality",
+    "wof:population":536,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.96861,
+    60.43667,
+    4.96861,
+    60.43667
+],
+  "geometry": {"coordinates":[4.96861,60.43667],"type":"Point"}
+}

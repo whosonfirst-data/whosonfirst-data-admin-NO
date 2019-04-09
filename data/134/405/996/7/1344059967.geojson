@@ -1,0 +1,71 @@
+{
+  "id": 1344059967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.23387,58.72818,9.23387,58.72818",
+    "geom:latitude":58.72818,
+    "geom:longitude":9.23387,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"901",
+    "gn:asciiname":"Tjaerhjellen",
+    "gn:country_code":"NO",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404120,
+    "gn:latitude":58.72818,
+    "gn:longitude":9.23387,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Tj\u00e6rhjellen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Tj\u00e6rhjellen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296923,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404120
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d282645f57120d3a1221bbb3baf6a392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296923,
+            "locality_id":1344059967,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1344059967,
+    "wof:lastmodified":1537675918,
+    "wof:name":"Tjaerhjellen",
+    "wof:parent_id":1159296923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.23387,
+    58.72818,
+    9.23387,
+    58.72818
+],
+  "geometry": {"coordinates":[9.23387,58.72818],"type":"Point"}
+}

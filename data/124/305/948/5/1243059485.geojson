@@ -1,0 +1,71 @@
+{
+  "id": 1243059485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.00379,60.59788,5.00379,60.59788",
+    "geom:latitude":60.59788,
+    "geom:longitude":5.00379,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1256.0",
+    "gn:asciiname":"Brotshaug",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536925,
+    "gn:latitude":60.59788,
+    "gn:longitude":5.00379,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Brotshaug",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Brotshaug"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297633,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536925
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"609ca062c95df936aecc996c5a606b9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297633,
+            "locality_id":1243059485,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1243059485,
+    "wof:lastmodified":1537675989,
+    "wof:name":"Brotshaug",
+    "wof:parent_id":1159297633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.00379,
+    60.59788,
+    5.00379,
+    60.59788
+],
+  "geometry": {"coordinates":[5.00379,60.59788],"type":"Point"}
+}

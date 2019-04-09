@@ -1,0 +1,67 @@
+{
+  "id": 1209409403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.03543,60.58914,7.03543,60.58914",
+    "geom:latitude":60.58914,
+    "geom:longitude":7.03543,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1233.0",
+    "gn:asciiname":"Osa",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3143299,
+    "gn:latitude":60.58914,
+    "gn:longitude":7.03543,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Osa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Osa i Hardanger",
+        "Osa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3143299
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"229b1fea4102b71b78d18281d72e41e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209409403
+        }
+    ],
+    "wof:id":1209409403,
+    "wof:lastmodified":1537675750,
+    "wof:name":"Osa",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.03543,
+    60.58914,
+    7.03543,
+    60.58914
+],
+  "geometry": {"coordinates":[7.03543,60.58914],"type":"Point"}
+}

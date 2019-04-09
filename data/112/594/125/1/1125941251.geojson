@@ -1,0 +1,80 @@
+{
+  "id": 1125941251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.597311,66.159782,14.597311,66.159782",
+    "geom:latitude":66.159782,
+    "geom:longitude":14.597311,
+    "gn:gn_country":null,
+    "iso:country":"NO",
+    "lbl:latitude":66.159782,
+    "lbl:longitude":14.597311,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Umbukta Fjellstue",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nordland Fylke",
+    "qs_pg:photos":61,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":61,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":986971,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":865348,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Nordland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159296963,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":865348,
+        "qs_pg:id":986971
+    },
+    "wof:country":"NO",
+    "wof:created":1497297125,
+    "wof:geomhash":"bf1571d43ffe0faad1d70842efbd0305",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296963,
+            "locality_id":1125941251,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1125941251,
+    "wof:lastmodified":1529700161,
+    "wof:name":"Umbukta Fjellstue",
+    "wof:parent_id":1159296963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.597311,
+    66.159782,
+    14.597311,
+    66.159782
+],
+  "geometry": {"coordinates":[14.597311,66.15978200000001],"type":"Point"}
+}

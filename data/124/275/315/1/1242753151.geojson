@@ -1,0 +1,73 @@
+{
+  "id": 1242753151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.13333,58.06667,7.13333,58.06667",
+    "geom:latitude":58.06667,
+    "geom:longitude":7.13333,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1029.0",
+    "gn:asciiname":"Jasund",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3150902,
+    "gn:latitude":58.06667,
+    "gn:longitude":7.13333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"J\u00e5sund",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jaasund",
+        "J\u00e5sund"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297315,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3150902
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a79ed3947fff816419a2c35e60ac285c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297315,
+            "locality_id":1242753151,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1242753151,
+    "wof:lastmodified":1537675802,
+    "wof:name":"Jasund",
+    "wof:parent_id":1159297315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.13333,
+    58.06667,
+    7.13333,
+    58.06667
+],
+  "geometry": {"coordinates":[7.13333,58.06667],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209204335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.57059,68.5417,17.57059,68.5417",
+    "geom:latitude":68.5417,
+    "geom:longitude":17.57059,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1805.0",
+    "gn:asciiname":"Medby",
+    "gn:country_code":"NO",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537472,
+    "gn:latitude":68.5417,
+    "gn:longitude":17.57059,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Medby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Medby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537472
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b6827d3254c3365fd3e94c40ecd60a46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209204335
+        }
+    ],
+    "wof:id":1209204335,
+    "wof:lastmodified":1537676013,
+    "wof:name":"Medby",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.57059,
+    68.5417,
+    17.57059,
+    68.5417
+],
+  "geometry": {"coordinates":[17.57059,68.54170000000001],"type":"Point"}
+}

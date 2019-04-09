@@ -1,0 +1,73 @@
+{
+  "id": 1259984543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.38154,70.11505,23.38154,70.11505",
+    "geom:latitude":70.11505,
+    "geom:longitude":23.38154,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2012.0",
+    "gn:asciiname":"Kviby",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":779135,
+    "gn:latitude":70.11505,
+    "gn:longitude":23.38154,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Kviby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kviby i Alta",
+        "Kviby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296893,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":779135
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3345dc953bb1b80e1ad53d16964e6eff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296893,
+            "locality_id":1259984543,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1259984543,
+    "wof:lastmodified":1537675655,
+    "wof:name":"Kviby",
+    "wof:parent_id":1159296893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.38154,
+    70.11505,
+    23.38154,
+    70.11505
+],
+  "geometry": {"coordinates":[23.38154,70.11505],"type":"Point"}
+}

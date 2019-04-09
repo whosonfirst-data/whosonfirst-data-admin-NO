@@ -1,0 +1,66 @@
+{
+  "id": 1260052405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.69261,64.24292,10.69261,64.24292",
+    "geom:latitude":64.24292,
+    "geom:longitude":10.69261,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5020.0",
+    "gn:asciiname":"Steinsdalen",
+    "gn:country_code":"NO",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9015540,
+    "gn:latitude":64.24292,
+    "gn:longitude":10.69261,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Steinsdalen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297275,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9015540
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ac9fdfc6cfd2287d13713c37a377051f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297275,
+            "locality_id":1260052405,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1260052405,
+    "wof:lastmodified":1537031530,
+    "wof:name":"Steinsdalen",
+    "wof:parent_id":1159297275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.69261,
+    64.24292,
+    10.69261,
+    64.24292
+],
+  "geometry": {"coordinates":[10.69261,64.24292],"type":"Point"}
+}

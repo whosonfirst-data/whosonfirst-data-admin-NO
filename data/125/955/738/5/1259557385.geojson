@@ -1,0 +1,69 @@
+{
+  "id": 1259557385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.98333,59.48333,5.98333,59.48333",
+    "geom:latitude":59.48333,
+    "geom:longitude":5.98333,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1160.0",
+    "gn:asciiname":"Imsland",
+    "gn:country_code":"NO",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3151166,
+    "gn:latitude":59.48333,
+    "gn:longitude":5.98333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Imsland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296919,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3151166,
+        "wk:page":"Imsland"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2d2683b4e2b2b9e49ad001c914c00f84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296919,
+            "locality_id":1259557385,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1259557385,
+    "wof:lastmodified":1537570092,
+    "wof:name":"Imsland",
+    "wof:parent_id":1159296919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.98333,
+    59.48333,
+    5.98333,
+    59.48333
+],
+  "geometry": {"coordinates":[5.98333,59.48333],"type":"Point"}
+}

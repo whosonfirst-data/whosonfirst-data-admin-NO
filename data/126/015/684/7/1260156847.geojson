@@ -1,0 +1,74 @@
+{
+  "id": 1260156847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.56755,68.59841,16.56755,68.59841",
+    "geom:latitude":68.59841,
+    "geom:longitude":16.56755,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1913.0",
+    "gn:asciiname":"Litle Skanland",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3224350,
+    "gn:latitude":68.59841,
+    "gn:longitude":16.56755,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Litle Sk\u00e5nland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Litle Sk\u00e5nland"
+    ],
+    "name:sme_x_preferred":[
+        "Uhca Sk\u00e1nik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296791,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3224350
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e91d2c748743d464e05c496bb86f403d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296791,
+            "locality_id":1260156847,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1260156847,
+    "wof:lastmodified":1537675897,
+    "wof:name":"Litle Skanland",
+    "wof:parent_id":1159296791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.56755,
+    68.59841,
+    16.56755,
+    68.59841
+],
+  "geometry": {"coordinates":[16.56755,68.59841],"type":"Point"}
+}

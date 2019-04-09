@@ -1,0 +1,68 @@
+{
+  "id": 1310170981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.66667,58.25,7.66667,58.25",
+    "geom:latitude":58.25,
+    "geom:longitude":7.66667,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1017.0",
+    "gn:asciiname":"Royseland",
+    "gn:country_code":"NO",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141050,
+    "gn:latitude":58.25,
+    "gn:longitude":7.66667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"R\u00f8yseland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296715,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141050
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"cbdfba31bb2b02926c2e1d347f3b2a42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296715,
+            "locality_id":1310170981,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1310170981,
+    "wof:lastmodified":1536902367,
+    "wof:name":"Royseland",
+    "wof:parent_id":1159296715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.66667,
+    58.25,
+    7.66667,
+    58.25
+],
+  "geometry": {"coordinates":[7.66667,58.25],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327217237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.06667,59.15,6.06667,59.15",
+    "geom:latitude":59.15,
+    "geom:longitude":6.06667,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1133.0",
+    "gn:asciiname":"Ovrabo",
+    "gn:country_code":"NO",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3143036,
+    "gn:latitude":59.15,
+    "gn:longitude":6.06667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"\u00d8vrab\u00f8",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296961,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3143036
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b85ddf1a8965cb424d826fa6ae9588f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296961,
+            "locality_id":1327217237,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1327217237,
+    "wof:lastmodified":1536990729,
+    "wof:name":"Ovrabo",
+    "wof:parent_id":1159296961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.06667,
+    59.15,
+    6.06667,
+    59.15
+],
+  "geometry": {"coordinates":[6.06667,59.15],"type":"Point"}
+}

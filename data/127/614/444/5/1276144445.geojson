@@ -1,0 +1,77 @@
+{
+  "id": 1276144445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.5403,60.3922,11.5403,60.3922",
+    "geom:latitude":60.3922,
+    "geom:longitude":11.5403,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"418.0",
+    "gn:asciiname":"Sand",
+    "gn:country_code":"NO",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3140452,
+    "gn:latitude":60.3922,
+    "gn:longitude":11.5403,
+    "gn:modification_date":"2010-12-07",
+    "gn:name":"Sand",
+    "gn:population":946,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nord Odalen",
+        "Nord-Odal",
+        "Sand"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297485,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3140452,
+        "wk:page":"Sand%2C_Hedmark"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"bba4b588240dcec2747a68573b52122d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297485,
+            "locality_id":1276144445,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1276144445,
+    "wof:lastmodified":1537675730,
+    "wof:name":"Sand",
+    "wof:parent_id":1159297485,
+    "wof:placetype":"locality",
+    "wof:population":946,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.5403,
+    60.3922,
+    11.5403,
+    60.3922
+],
+  "geometry": {"coordinates":[11.5403,60.3922],"type":"Point"}
+}

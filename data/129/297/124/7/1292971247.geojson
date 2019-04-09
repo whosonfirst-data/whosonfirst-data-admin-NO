@@ -1,0 +1,68 @@
+{
+  "id": 1292971247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.6,61.46667,5.6,61.46667",
+    "geom:latitude":61.46667,
+    "geom:longitude":5.6,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1433.0",
+    "gn:asciiname":"Andalen",
+    "gn:country_code":"NO",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3163159,
+    "gn:latitude":61.46667,
+    "gn:longitude":5.6,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Andalen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297179,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3163159
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0376d88d95d0dcf3514b455e09803023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297179,
+            "locality_id":1292971247,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1292971247,
+    "wof:lastmodified":1537032927,
+    "wof:name":"Andalen",
+    "wof:parent_id":1159297179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.6,
+    61.46666999999999,
+    5.6,
+    61.46666999999999
+],
+  "geometry": {"coordinates":[5.6,61.46666999999999],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1193002715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.83333,66.15,13.83333,66.15",
+    "geom:latitude":66.15,
+    "geom:longitude":13.83333,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1832.0",
+    "gn:asciiname":"Litle Bjerka",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3147307,
+    "gn:latitude":66.15,
+    "gn:longitude":13.83333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Litle Bjerka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296695,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3147307
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3722705eb0aeee089de5048d5eab0d3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296695,
+            "locality_id":1193002715,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1193002715,
+    "wof:lastmodified":1536368687,
+    "wof:name":"Litle Bjerka",
+    "wof:parent_id":1159296695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.83333,
+    66.15,
+    13.83333,
+    66.15
+],
+  "geometry": {"coordinates":[13.83333,66.15000000000001],"type":"Point"}
+}

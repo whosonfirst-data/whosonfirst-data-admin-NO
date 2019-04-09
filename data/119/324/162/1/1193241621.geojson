@@ -1,0 +1,69 @@
+{
+  "id": 1193241621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.58961,69.77759,20.58961,69.77759",
+    "geom:latitude":69.77759,
+    "geom:longitude":20.58961,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1942.0",
+    "gn:asciiname":"Rotsund",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":778023,
+    "gn:latitude":69.77759,
+    "gn:longitude":20.58961,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Rotsund",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297593,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":778023,
+        "wk:page":"Rotsund"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f20e2e62d473e9961ab476bee158a555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297593,
+            "locality_id":1193241621,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1193241621,
+    "wof:lastmodified":1537570068,
+    "wof:name":"Rotsund",
+    "wof:parent_id":1159297593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.58961,
+    69.77759,
+    20.58961,
+    69.77759
+],
+  "geometry": {"coordinates":[20.58961,69.77759],"type":"Point"}
+}

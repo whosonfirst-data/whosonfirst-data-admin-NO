@@ -1,0 +1,71 @@
+{
+  "id": 1226438425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.91667,68.76667,14.91667,68.76667",
+    "geom:latitude":68.76667,
+    "geom:longitude":14.91667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1868.0",
+    "gn:asciiname":"Seljeholet",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3139907,
+    "gn:latitude":68.76667,
+    "gn:longitude":14.91667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Seljeholet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seljehullet",
+        "Seljeholet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296769,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3139907
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e22aa4be23ca1e757b0b5ebe5720c9b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296769,
+            "locality_id":1226438425,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1226438425,
+    "wof:lastmodified":1537675727,
+    "wof:name":"Seljeholet",
+    "wof:parent_id":1159296769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.91667,
+    68.76666999999999,
+    14.91667,
+    68.76666999999999
+],
+  "geometry": {"coordinates":[14.91667,68.76666999999999],"type":"Point"}
+}

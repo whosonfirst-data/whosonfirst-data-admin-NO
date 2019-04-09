@@ -1,0 +1,102 @@
+{
+  "id": 101911121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00017,
+    "geom:area_square_m":1074233.461712,
+    "geom:bbox":"9.52668939514,59.190942934,9.54771719392,59.2044129072",
+    "geom:latitude":59.198115,
+    "geom:longitude":9.537531,
+    "iso:country":"NO",
+    "lbl:latitude":59.19678,
+    "lbl:longitude":9.539633,
+    "mps:latitude":59.19678,
+    "mps:longitude":9.539633,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fra_x_preferred":[
+        "\u00c5sen"
+    ],
+    "name:jav_x_preferred":[
+        "\u00c5sen"
+    ],
+    "name:msa_x_preferred":[
+        "\u00c5sen"
+    ],
+    "name:nld_x_preferred":[
+        "\u00c5sen"
+    ],
+    "name:nno_x_preferred":[
+        "\u00c5sen i Levanger"
+    ],
+    "name:nor_x_preferred":[
+        "\u00c5sen"
+    ],
+    "name:ron_x_preferred":[
+        "\u00c5sen"
+    ],
+    "name:unk_x_variant":[
+        "Aasen"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Telemark",
+    "qs:a1r":"4",
+    "qs:adm0":"Norge",
+    "qs:id":0,
+    "qs:la":"Skien",
+    "qs:la_lc":"*NO0806",
+    "qs:level":"locality",
+    "qs:loc":"\u00c5sen",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":201,
+    "wof:belongsto":[
+        102191581,
+        1159297035,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3162706,
+        "gp:id":22659654,
+        "qs:id":22295,
+        "qs_pg:id":581162
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"dd08799fe8e79c1c16ee8c8e60a4f11c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297035,
+            "locality_id":101911121,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":101911121,
+    "wof:lastmodified":1529700383,
+    "wof:name":"\u00c5sen",
+    "wof:parent_id":1159297035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.52668939513654,
+    59.19094293400371,
+    9.54771719391698,
+    59.20441290723141
+],
+  "geometry": {"coordinates":[[[9.53540983649634,59.20441290723141],[9.53542181534056,59.20351335242708],[9.53891478731248,59.20352505828913],[9.53893856273714,59.20172594899753],[9.54417775466209,59.20174334113381],[9.54418950623744,59.20084378648062],[9.54593585961402,59.20084953952295],[9.54594756546311,59.19994998503495],[9.54769387436255,59.19995571582643],[9.54771719391698,59.19815660751595],[9.54597097504615,59.19815087705894],[9.54598267877998,59.19725132357036],[9.54423650545988,59.19724557119935],[9.54427174744507,59.19454691323557],[9.54601778575136,59.19455266510317],[9.54606458517878,59.19095445847347],[9.54257286907017,59.19094293400371],[9.54256108028829,59.191842484826],[9.53732337524298,59.1918250320382],[9.53731145077001,59.19272458268404],[9.5355655051938,59.1927187207628],[9.53554156409814,59.19451782271057],[9.53204949461673,59.19450603194684],[9.53202537062452,59.19630513453779],[9.53027924671329,59.19629920569162],[9.5302550297975,59.19809830926829],[9.52850881642911,59.19809235799454],[9.52847235053923,59.20079101533639],[9.52672600268767,59.20078504145789],[9.52668939513654,59.2034837012755],[9.53192884558359,59.20350155822302],[9.53191677668178,59.20440111268312],[9.53540983649634,59.20441290723141]]],"type":"Polygon"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243163823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.33306,60.27417,5.33306,60.27417",
+    "geom:latitude":60.27417,
+    "geom:longitude":5.33306,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1201.0",
+    "gn:asciiname":"Stend",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3136817,
+    "gn:latitude":60.27417,
+    "gn:longitude":5.33306,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Stend",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297617,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3136817
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"74108c7bdecb542a872f025a38402108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":1243163823,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1243163823,
+    "wof:lastmodified":1536716414,
+    "wof:name":"Stend",
+    "wof:parent_id":1159297617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.33306,
+    60.27417,
+    5.33306,
+    60.27417
+],
+  "geometry": {"coordinates":[5.33306,60.27417],"type":"Point"}
+}

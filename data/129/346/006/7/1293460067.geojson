@@ -1,0 +1,71 @@
+{
+  "id": 1293460067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.26667,61.33333,5.26667,61.33333",
+    "geom:latitude":61.33333,
+    "geom:longitude":5.26667,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1429.0",
+    "gn:asciiname":"Tyssedal",
+    "gn:country_code":"NO",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3133458,
+    "gn:latitude":61.33333,
+    "gn:longitude":5.26667,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Tyssedal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u044e\u0441\u0441\u0435\u0434\u0430\u043b\u044c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297051,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3133458
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"11e76401d214658ef85b666a4cf0f465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297051,
+            "locality_id":1293460067,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1293460067,
+    "wof:lastmodified":1537557293,
+    "wof:name":"Tyssedal",
+    "wof:parent_id":1159297051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.26667,
+    61.33333,
+    5.26667,
+    61.33333
+],
+  "geometry": {"coordinates":[5.26667,61.33333],"type":"Point"}
+}

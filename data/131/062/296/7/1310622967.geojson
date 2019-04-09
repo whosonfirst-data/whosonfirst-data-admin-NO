@@ -1,0 +1,73 @@
+{
+  "id": 1310622967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.01667,60.75,11.01667,60.75",
+    "geom:latitude":60.75,
+    "geom:longitude":11.01667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"412.0",
+    "gn:asciiname":"Slattsven",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3138323,
+    "gn:latitude":60.75,
+    "gn:longitude":11.01667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sl\u00e5ttsven",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Slaatsveen",
+        "Sl\u00e5ttsven"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296699,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3138323
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8fe895cd3e6ca53a059d085d83d3a535",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296699,
+            "locality_id":1310622967,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1310622967,
+    "wof:lastmodified":1537675715,
+    "wof:name":"Slattsven",
+    "wof:parent_id":1159296699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.01667,
+    60.75,
+    11.01667,
+    60.75
+],
+  "geometry": {"coordinates":[11.01667,60.75],"type":"Point"}
+}

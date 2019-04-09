@@ -1,0 +1,81 @@
+{
+  "id": 1276333649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.90541,71.04866,25.90541,71.04866",
+    "geom:latitude":71.04866,
+    "geom:longitude":25.90541,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2019.0",
+    "gn:asciiname":"Kamoyvaer",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":779353,
+    "gn:latitude":71.04866,
+    "gn:longitude":25.90541,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Kam\u00f8yv\u00e6r",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kam\u00f8yv\u00e6r"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u0439\u0432\u0435\u0440"
+    ],
+    "name:und_x_variant":[
+        "Kam\u00f6yver",
+        "Kam\u00f6v\u00e6r",
+        "Kam\u00f8yv\u00e6r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297287,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":779353,
+        "wk:page":"Kam%C3%B8yv%C3%A6r"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"98f6f143fc70aa13610417423c4de73b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297287,
+            "locality_id":1276333649,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1276333649,
+    "wof:lastmodified":1537675658,
+    "wof:name":"Kamoyvaer",
+    "wof:parent_id":1159297287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.90541,
+    71.04866,
+    25.90541,
+    71.04866
+],
+  "geometry": {"coordinates":[25.90541,71.04866],"type":"Point"}
+}

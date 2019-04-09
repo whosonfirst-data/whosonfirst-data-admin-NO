@@ -1,0 +1,71 @@
+{
+  "id": 1259578583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.16873,62.4259,11.16873,62.4259",
+    "geom:latitude":62.4259,
+    "geom:longitude":11.16873,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"441.0",
+    "gn:asciiname":"Brennvollan",
+    "gn:country_code":"NO",
+    "gn:dem":910,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536080,
+    "gn:latitude":62.4259,
+    "gn:longitude":11.16873,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Brennvollan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Brennvollan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297463,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536080
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f8138f47064e63a10e620a75f57f6489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297463,
+            "locality_id":1259578583,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1259578583,
+    "wof:lastmodified":1537675954,
+    "wof:name":"Brennvollan",
+    "wof:parent_id":1159297463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.16873,
+    62.4259,
+    11.16873,
+    62.4259
+],
+  "geometry": {"coordinates":[11.16873,62.4259],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1360066423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.4,61.88333,9.4,61.88333",
+    "geom:latitude":61.88333,
+    "geom:longitude":9.4,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"517.0",
+    "gn:asciiname":"Rosti",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141197,
+    "gn:latitude":61.88333,
+    "gn:longitude":9.4,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Rosti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rosta",
+        "Rosten",
+        "Rostbru",
+        "Rosti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297291,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141197
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"124ba097facbc235f2ebfa904a595ba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297291,
+            "locality_id":1360066423,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1360066423,
+    "wof:lastmodified":1537675736,
+    "wof:name":"Rosti",
+    "wof:parent_id":1159297291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.4,
+    61.88333000000001,
+    9.4,
+    61.88333000000001
+],
+  "geometry": {"coordinates":[9.4,61.88333000000001],"type":"Point"}
+}

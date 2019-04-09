@@ -1,0 +1,71 @@
+{
+  "id": 1310268077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.15186,68.98796,19.15186,68.98796",
+    "geom:latitude":68.98796,
+    "geom:longitude":19.15186,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1924.0",
+    "gn:asciiname":"Tillermoen",
+    "gn:country_code":"NO",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536578,
+    "gn:latitude":68.98796,
+    "gn:longitude":19.15186,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Tillermoen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Tillermoen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296775,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536578
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e32857280a999dd96349d604ed15007d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296775,
+            "locality_id":1310268077,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1310268077,
+    "wof:lastmodified":1537675975,
+    "wof:name":"Tillermoen",
+    "wof:parent_id":1159296775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.15186,
+    68.98796,
+    19.15186,
+    68.98796
+],
+  "geometry": {"coordinates":[19.15186,68.98796],"type":"Point"}
+}

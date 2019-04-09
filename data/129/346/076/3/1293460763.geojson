@@ -1,0 +1,71 @@
+{
+  "id": 1293460763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.33569,59.2701,6.33569,59.2701",
+    "geom:latitude":59.2701,
+    "geom:longitude":6.33569,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1133.0",
+    "gn:asciiname":"Totlandsvik",
+    "gn:country_code":"NO",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537676,
+    "gn:latitude":59.2701,
+    "gn:longitude":6.33569,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"T\u00f8tlandsvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "T\u00f8tlandsvik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296961,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537676
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"325c3fe4ddc94cb8563cb707049ea0d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296961,
+            "locality_id":1293460763,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1293460763,
+    "wof:lastmodified":1537676024,
+    "wof:name":"Totlandsvik",
+    "wof:parent_id":1159296961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.33569,
+    59.2701,
+    6.33569,
+    59.2701
+],
+  "geometry": {"coordinates":[6.33569,59.2701],"type":"Point"}
+}

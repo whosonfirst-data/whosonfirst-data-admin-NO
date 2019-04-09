@@ -1,0 +1,68 @@
+{
+  "id": 1193134893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.08333,60.5,12.08333,60.5",
+    "geom:latitude":60.5,
+    "geom:longitude":12.08333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"423.0",
+    "gn:asciiname":"Stemsrud",
+    "gn:country_code":"NO",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3136818,
+    "gn:latitude":60.5,
+    "gn:longitude":12.08333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Stemsrud",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297575,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3136818
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8234c87412d80be1c382f0fd49f14be9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297575,
+            "locality_id":1193134893,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1193134893,
+    "wof:lastmodified":1536371826,
+    "wof:name":"Stemsrud",
+    "wof:parent_id":1159297575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.08333,
+    60.5,
+    12.08333,
+    60.5
+],
+  "geometry": {"coordinates":[12.08333,60.5],"type":"Point"}
+}

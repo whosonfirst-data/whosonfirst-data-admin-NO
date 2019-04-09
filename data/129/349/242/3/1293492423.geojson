@@ -1,0 +1,72 @@
+{
+  "id": 1293492423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.96602,69.62008,29.96602,69.62008",
+    "geom:latitude":69.62008,
+    "geom:longitude":29.96602,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2030.0",
+    "gn:asciiname":"Bjorndal",
+    "gn:country_code":"NO",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":780646,
+    "gn:latitude":69.62008,
+    "gn:longitude":29.96602,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Bj\u00f8rndal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bj\u00f6rnelvdalen",
+        "Bj\u00f8rndal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296947,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":780646
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"de5b7a06f021d335bc553bdca30c9421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296947,
+            "locality_id":1293492423,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1293492423,
+    "wof:lastmodified":1537675666,
+    "wof:name":"Bjorndal",
+    "wof:parent_id":1159296947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.96602,
+    69.62008,
+    29.96602,
+    69.62008
+],
+  "geometry": {"coordinates":[29.96602,69.62008],"type":"Point"}
+}

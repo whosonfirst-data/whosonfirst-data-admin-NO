@@ -1,0 +1,108 @@
+{
+  "id": 1125875563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.86667,62.65,9.86667,62.65",
+    "geom:latitude":62.65,
+    "geom:longitude":9.86667,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":62.65,
+    "lbl:longitude":9.86667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Fagerhaug"
+    ],
+    "name:dut_x_preferred":[
+        "Fagerhaug"
+    ],
+    "name:eng_x_preferred":[
+        "Fagerhaug"
+    ],
+    "name:fre_x_preferred":[
+        "Fagerhaug"
+    ],
+    "name:may_x_preferred":[
+        "Fagerhaug"
+    ],
+    "name:swe_x_preferred":[
+        "Fagerhaug"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0627\u06af\u06cc\u0631\u06c1\u0648\u06af"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3157924,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Fagerhaug",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
+    "qs_pg:photos":21,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":21,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":408517,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":858279,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159297021,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3157924,
+        "gp:id":858279,
+        "qs_pg:id":408517,
+        "wd:id":"Q5429390"
+    },
+    "wof:country":"NO",
+    "wof:created":1497294520,
+    "wof:geomhash":"3dc7b05310d250194ee24ae33e54c36f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297021,
+            "locality_id":1125875563,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1125875563,
+    "wof:lastmodified":1529700335,
+    "wof:name":"Fagerhaug",
+    "wof:parent_id":1159297021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.86667,
+    62.65,
+    9.86667,
+    62.65
+],
+  "geometry": {"coordinates":[9.86667,62.65],"type":"Point"}
+}

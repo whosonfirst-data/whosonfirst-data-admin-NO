@@ -1,0 +1,68 @@
+{
+  "id": 1226751635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.05,60.15,11.05,60.15",
+    "geom:latitude":60.15,
+    "geom:longitude":11.05,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"238.0",
+    "gn:asciiname":"Holter",
+    "gn:country_code":"NO",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3151989,
+    "gn:latitude":60.15,
+    "gn:longitude":11.05,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Holter",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297073,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3151989
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f14b77780abb30026e87f55fc955a6cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297073,
+            "locality_id":1226751635,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1226751635,
+    "wof:lastmodified":1536707267,
+    "wof:name":"Holter",
+    "wof:parent_id":1159297073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.05,
+    60.15,
+    11.05,
+    60.15
+],
+  "geometry": {"coordinates":[11.05,60.15],"type":"Point"}
+}

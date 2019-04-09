@@ -1,0 +1,66 @@
+{
+  "id": 1343258657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51667,68.88333,15.51667,68.88333",
+    "geom:latitude":68.88333,
+    "geom:longitude":15.51667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1871.0",
+    "gn:asciiname":"Skjolde",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3138794,
+    "gn:latitude":68.88333,
+    "gn:longitude":15.51667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Skjolde",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297539,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3138794
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"280a1dbd56150120b08dcad01d4584fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297539,
+            "locality_id":1343258657,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1343258657,
+    "wof:lastmodified":1537035953,
+    "wof:name":"Skjolde",
+    "wof:parent_id":1159297539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51667,
+    68.88333,
+    15.51667,
+    68.88333
+],
+  "geometry": {"coordinates":[15.51667,68.88333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226312489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.15,63.75,10.15,63.75",
+    "geom:latitude":63.75,
+    "geom:longitude":10.15,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5054.0",
+    "gn:asciiname":"Litle Moen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3147247,
+    "gn:latitude":63.75,
+    "gn:longitude":10.15,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Litle Moen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lille Moen",
+        "Litle Moen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296767,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3147247
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"063f3ae59b9f79066bd7760f2c10f94e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296767,
+            "locality_id":1226312489,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1226312489,
+    "wof:lastmodified":1537675776,
+    "wof:name":"Litle Moen",
+    "wof:parent_id":1159296767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.15,
+    63.75,
+    10.15,
+    63.75
+],
+  "geometry": {"coordinates":[10.15,63.75],"type":"Point"}
+}

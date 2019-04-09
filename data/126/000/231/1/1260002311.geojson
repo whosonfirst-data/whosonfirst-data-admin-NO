@@ -1,0 +1,78 @@
+{
+  "id": 1260002311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.11604,70.26951,22.11604,70.26951",
+    "geom:latitude":70.26951,
+    "geom:longitude":22.11604,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2014.0",
+    "gn:asciiname":"Nuvsvag",
+    "gn:country_code":"NO",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":778402,
+    "gn:latitude":70.26951,
+    "gn:longitude":22.11604,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Nuvsv\u00e5g",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Nuvsv\u00e5g"
+    ],
+    "name:nor_x_variant":[
+        "Novsv\u00e5g"
+    ],
+    "name:und_x_variant":[
+        "Nuvsv\u00e5g"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297177,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":778402,
+        "wk:page":"Nuvsv%C3%A5g"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"020470bd259f1f50a1e6630e88a45580",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297177,
+            "locality_id":1260002311,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1260002311,
+    "wof:lastmodified":1537675650,
+    "wof:name":"Nuvsvag",
+    "wof:parent_id":1159297177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.11604,
+    70.26951,
+    22.11604,
+    70.26951
+],
+  "geometry": {"coordinates":[22.11604,70.26951],"type":"Point"}
+}

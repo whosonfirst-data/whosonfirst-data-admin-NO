@@ -1,0 +1,74 @@
+{
+  "id": 1309925897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.8,63.28333,7.8,63.28333",
+    "geom:latitude":63.28333,
+    "geom:longitude":7.8,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1573.0",
+    "gn:asciiname":"Hallaroy",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3154193,
+    "gn:latitude":63.28333,
+    "gn:longitude":7.8,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hallar\u00f8y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Halter\u00f6en",
+        "Haller\u00f6en",
+        "Hallar\u00f8y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297121,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3154193
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a3c8fc7d22d95fba47278401ba9b8b50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297121,
+            "locality_id":1309925897,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1309925897,
+    "wof:lastmodified":1537675824,
+    "wof:name":"Hallaroy",
+    "wof:parent_id":1159297121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.8,
+    63.28333000000001,
+    7.8,
+    63.28333000000001
+],
+  "geometry": {"coordinates":[7.8,63.28333000000001],"type":"Point"}
+}

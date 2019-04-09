@@ -1,0 +1,66 @@
+{
+  "id": 1260074653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3165,66.90861,15.3165,66.90861",
+    "geom:latitude":66.90861,
+    "geom:longitude":15.3165,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1840.0",
+    "gn:asciiname":"Bleiknes",
+    "gn:country_code":"NO",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3161000,
+    "gn:latitude":66.90861,
+    "gn:longitude":15.3165,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Bleiknes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297115,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3161000
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"66ca3dc34ad31bdcfacd99d13c63fee3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297115,
+            "locality_id":1260074653,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1260074653,
+    "wof:lastmodified":1537000034,
+    "wof:name":"Bleiknes",
+    "wof:parent_id":1159297115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3165,
+    66.90861,
+    15.3165,
+    66.90861
+],
+  "geometry": {"coordinates":[15.3165,66.90861],"type":"Point"}
+}

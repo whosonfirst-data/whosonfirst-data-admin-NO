@@ -1,0 +1,69 @@
+{
+  "id": 1209917157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.05,58.83333,9.05,58.83333",
+    "geom:latitude":58.83333,
+    "geom:longitude":9.05,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"911.0",
+    "gn:asciiname":"Gryting",
+    "gn:country_code":"NO",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3154601,
+    "gn:latitude":58.83333,
+    "gn:longitude":9.05,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Gryting",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296731,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3154601,
+        "wk:page":"Gryting"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7fc0198fae4714a329422eceef3e3861",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296731,
+            "locality_id":1209917157,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1209917157,
+    "wof:lastmodified":1537570097,
+    "wof:name":"Gryting",
+    "wof:parent_id":1159296731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.05,
+    58.83333,
+    9.05,
+    58.83333
+],
+  "geometry": {"coordinates":[9.05,58.83333],"type":"Point"}
+}

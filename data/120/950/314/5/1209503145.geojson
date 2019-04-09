@@ -1,0 +1,62 @@
+{
+  "id": 1209503145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.85,61.15,8.85,61.15",
+    "geom:latitude":61.15,
+    "geom:longitude":8.85,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"545.0",
+    "gn:asciiname":"Fossvang",
+    "gn:country_code":"NO",
+    "gn:dem":620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3156566,
+    "gn:latitude":61.15,
+    "gn:longitude":8.85,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Fossvang",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3156566
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3ad808dd9567771c11c445402fe1adba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209503145
+        }
+    ],
+    "wof:id":1209503145,
+    "wof:lastmodified":1536285118,
+    "wof:name":"Fossvang",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.85,
+    61.15,
+    8.85,
+    61.15
+],
+  "geometry": {"coordinates":[8.85,61.15],"type":"Point"}
+}

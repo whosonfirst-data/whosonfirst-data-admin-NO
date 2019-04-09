@@ -1,0 +1,71 @@
+{
+  "id": 1259564485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.80554,60.58412,9.80554,60.58412",
+    "geom:latitude":60.58412,
+    "geom:longitude":9.80554,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"540.0",
+    "gn:asciiname":"Fetjarsaetra",
+    "gn:country_code":"NO",
+    "gn:dem":760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535698,
+    "gn:latitude":60.58412,
+    "gn:longitude":9.80554,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Fetjars\u00e6tra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Fetjars\u00e6tra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296855,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535698
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3eafa628eb286304ef4406d5c941d16d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296855,
+            "locality_id":1259564485,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1259564485,
+    "wof:lastmodified":1537675937,
+    "wof:name":"Fetjarsaetra",
+    "wof:parent_id":1159296855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.80554,
+    60.58412,
+    9.80554,
+    60.58412
+],
+  "geometry": {"coordinates":[9.80554,60.58412],"type":"Point"}
+}

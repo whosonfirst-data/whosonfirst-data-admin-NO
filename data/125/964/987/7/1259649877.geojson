@@ -1,0 +1,72 @@
+{
+  "id": 1259649877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.63242,70.05272,20.63242,70.05272",
+    "geom:latitude":70.05272,
+    "geom:longitude":20.63242,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1941.0",
+    "gn:asciiname":"Arnoyhamn",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":780907,
+    "gn:latitude":70.05272,
+    "gn:longitude":20.63242,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Arn\u00f8yhamn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arn\u00f8yhamn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297483,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":780907,
+        "wk:page":"Arn%C3%B8yhamn"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e65820b51901121dcc8467854f8815d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297483,
+            "locality_id":1259649877,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1259649877,
+    "wof:lastmodified":1537675668,
+    "wof:name":"Arnoyhamn",
+    "wof:parent_id":1159297483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.63242,
+    70.05272,
+    20.63242,
+    70.05272
+],
+  "geometry": {"coordinates":[20.63242,70.05271999999999],"type":"Point"}
+}

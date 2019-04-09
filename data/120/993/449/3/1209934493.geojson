@@ -1,0 +1,73 @@
+{
+  "id": 1209934493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.64062,64.08263,11.64062,64.08263",
+    "geom:latitude":64.08263,
+    "geom:longitude":11.64062,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5004.0",
+    "gn:asciiname":"Naustvollen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3144944,
+    "gn:latitude":64.08263,
+    "gn:longitude":11.64062,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Naustvollen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naustvollan",
+        "Naustvolden"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296907,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3144944
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"73b3969aa1818c76151dc84fc44d3faf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296907,
+            "locality_id":1209934493,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1209934493,
+    "wof:lastmodified":1537675760,
+    "wof:name":"Naustvollen",
+    "wof:parent_id":1159296907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.64062,
+    64.08263000000001,
+    11.64062,
+    64.08263000000001
+],
+  "geometry": {"coordinates":[11.64062,64.08263000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259606123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.40028,69.88693,29.40028,69.88693",
+    "geom:latitude":69.88693,
+    "geom:longitude":29.40028,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2030.0",
+    "gn:asciiname":"Valen",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537569,
+    "gn:latitude":69.88693,
+    "gn:longitude":29.40028,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Valen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Valen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296947,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537569
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8945618b71c996a7bfe91d29da77c444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296947,
+            "locality_id":1259606123,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1259606123,
+    "wof:lastmodified":1537676018,
+    "wof:name":"Valen",
+    "wof:parent_id":1159296947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.40028,
+    69.88693,
+    29.40028,
+    69.88693
+],
+  "geometry": {"coordinates":[29.40028,69.88693000000001],"type":"Point"}
+}

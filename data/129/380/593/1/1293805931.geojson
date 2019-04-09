@@ -1,0 +1,71 @@
+{
+  "id": 1293805931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.69917,60.58393,11.69917,60.58393",
+    "geom:latitude":60.58393,
+    "geom:longitude":11.69917,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"426.0",
+    "gn:asciiname":"Sondre Fjellsaetra",
+    "gn:country_code":"NO",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535722,
+    "gn:latitude":60.58393,
+    "gn:longitude":11.69917,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"S\u00f8ndre Fjells\u00e6tra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "S\u00f8ndre Fjells\u00e6tra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297171,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535722
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0a3891110fce0ef476d5aacce5a56f7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297171,
+            "locality_id":1293805931,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1293805931,
+    "wof:lastmodified":1537675938,
+    "wof:name":"Sondre Fjellsaetra",
+    "wof:parent_id":1159297171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.69917,
+    60.58393,
+    11.69917,
+    60.58393
+],
+  "geometry": {"coordinates":[11.69917,60.58393],"type":"Point"}
+}

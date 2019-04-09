@@ -1,0 +1,75 @@
+{
+  "id": 1326915781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.59364,62.33521,6.59364,62.33521",
+    "geom:latitude":62.33521,
+    "geom:longitude":6.59364,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1528",
+    "gn:asciiname":"Straumegjerde",
+    "gn:country_code":"NO",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9403890,
+    "gn:latitude":62.33521,
+    "gn:longitude":6.59364,
+    "gn:modification_date":"2017-05-06",
+    "gn:name":"Straumegjerde",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Straumegjerde"
+    ],
+    "name:nor_x_variant":[
+        "Straumgjerde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296739,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9403890,
+        "wk:page":"Straumgjerde"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a5ff7e272c0d2230e54a6bd4de025b7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296739,
+            "locality_id":1326915781,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1326915781,
+    "wof:lastmodified":1537675909,
+    "wof:name":"Straumegjerde",
+    "wof:parent_id":1159296739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.59364,
+    62.33521,
+    6.59364,
+    62.33521
+],
+  "geometry": {"coordinates":[6.59364,62.33521],"type":"Point"}
+}

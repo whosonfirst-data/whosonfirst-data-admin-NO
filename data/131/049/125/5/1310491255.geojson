@@ -1,0 +1,66 @@
+{
+  "id": 1310491255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.4718,68.6944,14.4718,68.6944",
+    "geom:latitude":68.6944,
+    "geom:longitude":14.4718,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1867.0",
+    "gn:asciiname":"Straumsjoen",
+    "gn:country_code":"NO",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9017504,
+    "gn:latitude":68.6944,
+    "gn:longitude":14.4718,
+    "gn:modification_date":"2017-09-23",
+    "gn:name":"Straumsj\u00f8en",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297417,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9017504
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"99845eeff33f7462772de27a190eae0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297417,
+            "locality_id":1310491255,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1310491255,
+    "wof:lastmodified":1536938232,
+    "wof:name":"Straumsjoen",
+    "wof:parent_id":1159297417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.4718,
+    68.6944,
+    14.4718,
+    68.6944
+],
+  "geometry": {"coordinates":[14.4718,68.6944],"type":"Point"}
+}

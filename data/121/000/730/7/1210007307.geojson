@@ -1,0 +1,73 @@
+{
+  "id": 1210007307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.53333,62.61667,8.53333,62.61667",
+    "geom:latitude":62.61667,
+    "geom:longitude":8.53333,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1563.0",
+    "gn:asciiname":"Litledalen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3147297,
+    "gn:latitude":62.61667,
+    "gn:longitude":8.53333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Litledalen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dalen",
+        "Litledalen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296805,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3147297
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e2cc5c30569cf564e4da414dcb6488fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296805,
+            "locality_id":1210007307,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1210007307,
+    "wof:lastmodified":1537675776,
+    "wof:name":"Litledalen",
+    "wof:parent_id":1159296805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.53333,
+    62.61666999999999,
+    8.53333,
+    62.61666999999999
+],
+  "geometry": {"coordinates":[8.53333,62.61666999999999],"type":"Point"}
+}

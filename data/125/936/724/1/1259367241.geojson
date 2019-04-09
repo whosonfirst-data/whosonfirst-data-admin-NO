@@ -1,0 +1,74 @@
+{
+  "id": 1259367241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.24158,67.18493,14.24158,67.18493",
+    "geom:latitude":67.18493,
+    "geom:longitude":14.24158,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1838.0",
+    "gn:asciiname":"Sandvika",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3140137,
+    "gn:latitude":67.18493,
+    "gn:longitude":14.24158,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Sandvika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0434\u0432\u0438\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Sandvik",
+        "Sandvika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296997,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3140137
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2557a956c08efd5514cff626f5f59957",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296997,
+            "locality_id":1259367241,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1259367241,
+    "wof:lastmodified":1537675728,
+    "wof:name":"Sandvika",
+    "wof:parent_id":1159296997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.24158,
+    67.18493000000001,
+    14.24158,
+    67.18493000000001
+],
+  "geometry": {"coordinates":[14.24158,67.18493000000001],"type":"Point"}
+}

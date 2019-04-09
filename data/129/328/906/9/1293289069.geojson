@@ -1,0 +1,71 @@
+{
+  "id": 1293289069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.38333,66.2,13.38333,66.2",
+    "geom:latitude":66.2,
+    "geom:longitude":13.38333,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1822.0",
+    "gn:asciiname":"Breidmo",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3160256,
+    "gn:latitude":66.2,
+    "gn:longitude":13.38333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Breidmo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Breimo",
+        "Breidmo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297535,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160256
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7f9649a41989453cf8bfbf770dd42825",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297535,
+            "locality_id":1293289069,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1293289069,
+    "wof:lastmodified":1537675868,
+    "wof:name":"Breidmo",
+    "wof:parent_id":1159297535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.38333,
+    66.2,
+    13.38333,
+    66.2
+],
+  "geometry": {"coordinates":[13.38333,66.2],"type":"Point"}
+}

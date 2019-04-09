@@ -1,0 +1,71 @@
+{
+  "id": 1310589345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.082,60.92775,10.082,60.92775",
+    "geom:latitude":60.92775,
+    "geom:longitude":10.082,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"538.0",
+    "gn:asciiname":"Bakke",
+    "gn:country_code":"NO",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537217,
+    "gn:latitude":60.92775,
+    "gn:longitude":10.082,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Bakke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Bakke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297311,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537217
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"172f58d7034caaf18aad3de650706995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297311,
+            "locality_id":1310589345,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1310589345,
+    "wof:lastmodified":1537676001,
+    "wof:name":"Bakke",
+    "wof:parent_id":1159297311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.082,
+    60.92775,
+    10.082,
+    60.92775
+],
+  "geometry": {"coordinates":[10.082,60.92775],"type":"Point"}
+}

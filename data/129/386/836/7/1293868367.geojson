@@ -1,0 +1,70 @@
+{
+  "id": 1293868367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.82864,66.08061,13.82864,66.08061",
+    "geom:latitude":66.08061,
+    "geom:longitude":13.82864,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1832.0",
+    "gn:asciiname":"Olderneset",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3143652,
+    "gn:latitude":66.08061,
+    "gn:longitude":13.82864,
+    "gn:modification_date":"2013-07-13",
+    "gn:name":"Olderneset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oldernes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296695,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3143652
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0e09481d5b882980f4d07ed5fcabfb89",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296695,
+            "locality_id":1293868367,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1293868367,
+    "wof:lastmodified":1537675753,
+    "wof:name":"Olderneset",
+    "wof:parent_id":1159296695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.82864,
+    66.08061,
+    13.82864,
+    66.08061
+],
+  "geometry": {"coordinates":[13.82864,66.08060999999999],"type":"Point"}
+}

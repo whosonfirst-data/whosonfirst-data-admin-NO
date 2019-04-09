@@ -1,0 +1,68 @@
+{
+  "id": 1225922201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.48333,60.25,10.48333,60.25",
+    "geom:latitude":60.25,
+    "geom:longitude":10.48333,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"532.0",
+    "gn:asciiname":"Gullen",
+    "gn:country_code":"NO",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3154546,
+    "gn:latitude":60.25,
+    "gn:longitude":10.48333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Gullen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297161,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3154546
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"fa19373af42c3b627eade9a92dc01d2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297161,
+            "locality_id":1225922201,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1225922201,
+    "wof:lastmodified":1536903667,
+    "wof:name":"Gullen",
+    "wof:parent_id":1159297161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.48333,
+    60.25,
+    10.48333,
+    60.25
+],
+  "geometry": {"coordinates":[10.48333,60.25],"type":"Point"}
+}

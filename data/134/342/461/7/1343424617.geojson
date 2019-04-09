@@ -1,0 +1,68 @@
+{
+  "id": 1343424617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.10621,59.69342,8.10621,59.69342",
+    "geom:latitude":59.69342,
+    "geom:longitude":8.10621,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"834.0",
+    "gn:asciiname":"Austbo",
+    "gn:country_code":"NO",
+    "gn:dem":760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3162353,
+    "gn:latitude":59.69342,
+    "gn:longitude":8.10621,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Austb\u00f8",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297225,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3162353
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"dd879b89924565a6b015e92086d8039a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297225,
+            "locality_id":1343424617,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1343424617,
+    "wof:lastmodified":1536798230,
+    "wof:name":"Austbo",
+    "wof:parent_id":1159297225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.10621,
+    59.69342,
+    8.10621,
+    59.69342
+],
+  "geometry": {"coordinates":[8.10621,59.69342],"type":"Point"}
+}

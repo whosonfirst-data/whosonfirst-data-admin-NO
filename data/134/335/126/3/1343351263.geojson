@@ -1,0 +1,66 @@
+{
+  "id": 1343351263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.77058,67.57626,15.77058,67.57626",
+    "geom:latitude":67.57626,
+    "geom:longitude":15.77058,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1845.0",
+    "gn:asciiname":"Leirfjordgard",
+    "gn:country_code":"NO",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3147880,
+    "gn:latitude":67.57626,
+    "gn:longitude":15.77058,
+    "gn:modification_date":"2014-05-29",
+    "gn:name":"Leirfjordg\u00e5rd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296959,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3147880
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ab07aa89905db995f8ee98a658bd6553",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296959,
+            "locality_id":1343351263,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1343351263,
+    "wof:lastmodified":1536904005,
+    "wof:name":"Leirfjordgard",
+    "wof:parent_id":1159296959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.77058,
+    67.57625999999999,
+    15.77058,
+    67.57625999999999
+],
+  "geometry": {"coordinates":[15.77058,67.57625999999999],"type":"Point"}
+}

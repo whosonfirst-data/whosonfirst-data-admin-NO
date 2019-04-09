@@ -1,0 +1,71 @@
+{
+  "id": 1225840973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.78333,66.3,13.78333,66.3",
+    "geom:latitude":66.3,
+    "geom:longitude":13.78333,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1833.0",
+    "gn:asciiname":"Medstraum",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3146229,
+    "gn:latitude":66.3,
+    "gn:longitude":13.78333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Medstraum",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Medstr\u00f6m",
+        "Medstraum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296963,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3146229
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b88aecbbf6141334d2db707444f23178",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296963,
+            "locality_id":1225840973,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1225840973,
+    "wof:lastmodified":1537675769,
+    "wof:name":"Medstraum",
+    "wof:parent_id":1159296963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.78333,
+    66.3,
+    13.78333,
+    66.3
+],
+  "geometry": {"coordinates":[13.78333,66.3],"type":"Point"}
+}

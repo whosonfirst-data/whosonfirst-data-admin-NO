@@ -1,0 +1,73 @@
+{
+  "id": 1226643691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.77077,60.28169,11.77077,60.28169",
+    "geom:latitude":60.28169,
+    "geom:longitude":11.77077,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"419.0",
+    "gn:asciiname":"Slastad",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3138341,
+    "gn:latitude":60.28169,
+    "gn:longitude":11.77077,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Sl\u00e5stad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Slaastad",
+        "Sl\u00e5stad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296729,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3138341
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d5a7ebd461e8753caaa9c635b5da2771",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296729,
+            "locality_id":1226643691,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1226643691,
+    "wof:lastmodified":1537675716,
+    "wof:name":"Slastad",
+    "wof:parent_id":1159296729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.77077,
+    60.28169000000001,
+    11.77077,
+    60.28169000000001
+],
+  "geometry": {"coordinates":[11.77077,60.28169000000001],"type":"Point"}
+}

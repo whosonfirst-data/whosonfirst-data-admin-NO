@@ -1,0 +1,112 @@
+{
+  "id": 1125890115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.77056,60.38778,5.77056,60.38778",
+    "geom:latitude":60.38778,
+    "geom:longitude":5.77056,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":900,
+    "gn:population":900,
+    "iso:country":"NO",
+    "lbl:latitude":60.38778,
+    "lbl:longitude":5.77056,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Haga"
+    ],
+    "name:dut_x_preferred":[
+        "Haga"
+    ],
+    "name:eng_x_preferred":[
+        "Haga"
+    ],
+    "name:fre_x_preferred":[
+        "Haga"
+    ],
+    "name:nno_x_preferred":[
+        "Haga i Samnanger"
+    ],
+    "name:nob_x_preferred":[
+        "Haga"
+    ],
+    "name:rum_x_preferred":[
+        "Haga"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3154341,
+    "qs_pg:gn_pop":900,
+    "qs_pg:name":"Haga",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Hordaland Fylke",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":15,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":916225,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":859251,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Hordaland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297503,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3154341,
+        "gp:id":859251,
+        "qs_pg:id":916225,
+        "wd:id":"Q2140073"
+    },
+    "wof:country":"NO",
+    "wof:created":1497295276,
+    "wof:geomhash":"5f5eb666d1be004c2bccfec5b64b7d74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297503,
+            "locality_id":1125890115,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1125890115,
+    "wof:lastmodified":1529700049,
+    "wof:name":"Haga",
+    "wof:parent_id":1159297503,
+    "wof:placetype":"locality",
+    "wof:population":900,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.77056,
+    60.38778,
+    5.77056,
+    60.38778
+],
+  "geometry": {"coordinates":[5.77056,60.38778],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259548287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.39281,59.11567,10.39281,59.11567",
+    "geom:latitude":59.11567,
+    "geom:longitude":10.39281,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"729",
+    "gn:asciiname":"Kirkebygda",
+    "gn:country_code":"NO",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9403935,
+    "gn:latitude":59.11567,
+    "gn:longitude":10.39281,
+    "gn:modification_date":"2018-05-11",
+    "gn:name":"Kirkebygda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Kirkebygda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297071,
+        85633341,
+        85687073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9403935
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e752db031241b682ce701a59a048e7bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297071,
+            "locality_id":1259548287,
+            "region_id":85687073
+        }
+    ],
+    "wof:id":1259548287,
+    "wof:lastmodified":1537675911,
+    "wof:name":"Kirkebygda",
+    "wof:parent_id":1159297071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.39281,
+    59.11567,
+    10.39281,
+    59.11567
+],
+  "geometry": {"coordinates":[10.39281,59.11567],"type":"Point"}
+}

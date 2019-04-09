@@ -1,0 +1,68 @@
+{
+  "id": 1293316535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.11667,60.08333,9.11667,60.08333",
+    "geom:latitude":60.08333,
+    "geom:longitude":9.11667,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"632.0",
+    "gn:asciiname":"Kvisle",
+    "gn:country_code":"NO",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3148757,
+    "gn:latitude":60.08333,
+    "gn:longitude":9.11667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Kvisle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296823,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3148757
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8ea73a995186a7221fb2a94059e6f931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296823,
+            "locality_id":1293316535,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1293316535,
+    "wof:lastmodified":1537032116,
+    "wof:name":"Kvisle",
+    "wof:parent_id":1159296823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.11667,
+    60.08333,
+    9.11667,
+    60.08333
+],
+  "geometry": {"coordinates":[9.11667,60.08333],"type":"Point"}
+}

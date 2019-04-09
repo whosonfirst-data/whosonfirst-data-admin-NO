@@ -1,0 +1,74 @@
+{
+  "id": 1259878969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.42963,69.96898,23.42963,69.96898",
+    "geom:latitude":69.96898,
+    "geom:longitude":23.42963,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"2012",
+    "gn:asciiname":"Nerskogen",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404372,
+    "gn:latitude":69.96898,
+    "gn:longitude":23.42963,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Nerskogen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fkv_x_preferred":[
+        "Alaouta"
+    ],
+    "name:nor_x_preferred":[
+        "Nerskogen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296893,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404372
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b5aca64c7332c4fca448fb207b9fe1fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296893,
+            "locality_id":1259878969,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1259878969,
+    "wof:lastmodified":1537675928,
+    "wof:name":"Nerskogen",
+    "wof:parent_id":1159296893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.42963,
+    69.96898,
+    23.42963,
+    69.96898
+],
+  "geometry": {"coordinates":[23.42963,69.96898],"type":"Point"}
+}

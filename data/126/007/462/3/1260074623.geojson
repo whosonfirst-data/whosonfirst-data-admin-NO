@@ -1,0 +1,66 @@
+{
+  "id": 1260074623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.59806,65.72524,12.59806,65.72524",
+    "geom:latitude":65.72524,
+    "geom:longitude":12.59806,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1816.0",
+    "gn:asciiname":"Visthus",
+    "gn:country_code":"NO",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3131486,
+    "gn:latitude":65.72524,
+    "gn:longitude":12.59806,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Visthus",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297059,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3131486
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"78b632bd6b6edc09e620a583a2de01c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297059,
+            "locality_id":1260074623,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1260074623,
+    "wof:lastmodified":1537000079,
+    "wof:name":"Visthus",
+    "wof:parent_id":1159297059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.59806,
+    65.72524,
+    12.59806,
+    65.72524
+],
+  "geometry": {"coordinates":[12.59806,65.72524],"type":"Point"}
+}

@@ -1,0 +1,120 @@
+{
+  "id": 1125847711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.69343,67.66696,12.69343,67.66696",
+    "geom:latitude":67.66696,
+    "geom:longitude":12.69343,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":556,
+    "gn:population":556,
+    "iso:country":"NO",
+    "lbl:latitude":67.66696,
+    "lbl:longitude":12.69343,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "S\u00f8rland"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00f8rland"
+    ],
+    "name:fre_x_preferred":[
+        "S\u00f8rland"
+    ],
+    "name:jav_x_preferred":[
+        "S\u00f8rland"
+    ],
+    "name:may_x_preferred":[
+        "S\u00f8rland"
+    ],
+    "name:nno_x_preferred":[
+        "S\u00f8rland"
+    ],
+    "name:nob_x_preferred":[
+        "S\u00f8rland"
+    ],
+    "name:rum_x_preferred":[
+        "S\u00f8rland"
+    ],
+    "name:unk_x_variant":[
+        "Nordland"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":3137469,
+    "qs_pg:gn_pop":556,
+    "qs_pg:name":"S\u00f8rland",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nordland Fylke",
+    "qs_pg:photos":16,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":16,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":94752,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":864223,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        1159297081,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3137469,
+        "gp:id":864223,
+        "qs_pg:id":94752,
+        "wd:id":"Q2335573"
+    },
+    "wof:concordances_alt":{
+        "gn:id":3144303,
+        "qs_pg:id":964687
+    },
+    "wof:country":"NO",
+    "wof:created":1497293242,
+    "wof:geomhash":"a00706b849872de7cb65ef9a70716aa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297081,
+            "locality_id":1125847711,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1125847711,
+    "wof:lastmodified":1534379387,
+    "wof:name":"S\u00f8rland",
+    "wof:parent_id":1159297081,
+    "wof:placetype":"locality",
+    "wof:population":556,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126035109
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.69343,
+    67.66696,
+    12.69343,
+    67.66696
+],
+  "geometry": {"coordinates":[12.69343,67.66696],"type":"Point"}
+}

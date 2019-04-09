@@ -1,0 +1,111 @@
+{
+  "id": 1126034965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.96667,67.13333,13.96667,67.13333",
+    "geom:latitude":67.13333,
+    "geom:longitude":13.96667,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":67.13333,
+    "lbl:longitude":13.96667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "S\u00f8rarn\u00f8y"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00f8rarn\u00f8y"
+    ],
+    "name:fre_x_preferred":[
+        "S\u00f8rarn\u00f8y"
+    ],
+    "name:nno_x_preferred":[
+        "S\u00f8rarn\u00f8y"
+    ],
+    "name:nor_x_preferred":[
+        "S\u00f8rarn\u00f8ya"
+    ],
+    "name:nor_x_variant":[
+        "S\u00f8rarn\u00f8y"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0451\u0440\u0430\u0440\u043d\u0451\u0439"
+    ],
+    "name:unk_x_variant":[
+        "S\u00f8r-Arn\u00f8y"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3162892,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Arn\u00f8y",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nordland Fylke",
+    "qs_pg:photos":28,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":28,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":260133,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":864184,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Nordland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159296997,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3162892,
+        "gp:id":864184,
+        "qs_pg:id":260133,
+        "wd:id":"Q2921079"
+    },
+    "wof:country":"NO",
+    "wof:created":1497301730,
+    "wof:geomhash":"0f1ec1b93c010881295b8fc850d5b11a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296997,
+            "locality_id":1126034965,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1126034965,
+    "wof:lastmodified":1529700168,
+    "wof:name":"Arn\u00f8y",
+    "wof:parent_id":1159296997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.96667,
+    67.13333,
+    13.96667,
+    67.13333
+],
+  "geometry": {"coordinates":[13.96667,67.13333],"type":"Point"}
+}

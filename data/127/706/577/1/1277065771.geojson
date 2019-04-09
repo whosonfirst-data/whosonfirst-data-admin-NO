@@ -1,0 +1,71 @@
+{
+  "id": 1277065771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.94971,63.41055,10.94971,63.41055",
+    "geom:latitude":63.41055,
+    "geom:longitude":10.94971,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5035.0",
+    "gn:asciiname":"Dyvastro",
+    "gn:country_code":"NO",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536551,
+    "gn:latitude":63.41055,
+    "gn:longitude":10.94971,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Dyvastr\u00f8",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Dyvastr\u00f8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296711,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536551
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1c7d9b63486db7f23fc49a56b7352ffa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296711,
+            "locality_id":1277065771,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1277065771,
+    "wof:lastmodified":1537675974,
+    "wof:name":"Dyvastro",
+    "wof:parent_id":1159296711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.94971,
+    63.41055,
+    10.94971,
+    63.41055
+],
+  "geometry": {"coordinates":[10.94971,63.41055],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276968441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.64924,64.68289,13.64924,64.68289",
+    "geom:latitude":64.68289,
+    "geom:longitude":13.64924,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5042.0",
+    "gn:asciiname":"Tunnsjoen",
+    "gn:country_code":"NO",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3133742,
+    "gn:latitude":64.68289,
+    "gn:longitude":13.64924,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Tunnsj\u00f8en",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297309,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3133742
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6918f5b976d3a2951dc3ac04c5efead9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297309,
+            "locality_id":1276968441,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1276968441,
+    "wof:lastmodified":1536923308,
+    "wof:name":"Tunnsjoen",
+    "wof:parent_id":1159297309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.64924,
+    64.68289,
+    13.64924,
+    64.68289
+],
+  "geometry": {"coordinates":[13.64924,64.68289],"type":"Point"}
+}

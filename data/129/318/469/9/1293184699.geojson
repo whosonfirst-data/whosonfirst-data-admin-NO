@@ -1,0 +1,71 @@
+{
+  "id": 1293184699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.81559,63.52686,10.81559,63.52686",
+    "geom:latitude":63.52686,
+    "geom:longitude":10.81559,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5035.0",
+    "gn:asciiname":"Heggja",
+    "gn:country_code":"NO",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536548,
+    "gn:latitude":63.52686,
+    "gn:longitude":10.81559,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Heggja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Heggja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296711,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536548
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"af04870b58031cc43c574dd24f79f047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296711,
+            "locality_id":1293184699,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1293184699,
+    "wof:lastmodified":1537675973,
+    "wof:name":"Heggja",
+    "wof:parent_id":1159296711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.81559,
+    63.52686,
+    10.81559,
+    63.52686
+],
+  "geometry": {"coordinates":[10.81559,63.52686],"type":"Point"}
+}

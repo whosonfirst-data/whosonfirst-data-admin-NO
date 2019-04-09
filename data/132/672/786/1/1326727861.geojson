@@ -1,0 +1,71 @@
+{
+  "id": 1326727861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.22798,62.23525,10.22798,62.23525",
+    "geom:latitude":62.23525,
+    "geom:longitude":10.22798,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"439.0",
+    "gn:asciiname":"Nordre Bjornassaetran",
+    "gn:country_code":"NO",
+    "gn:dem":880,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536042,
+    "gn:latitude":62.23525,
+    "gn:longitude":10.22798,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Nordre Bj\u00f8rn\u00e5ss\u00e6tran",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Nordre Bj\u00f8rn\u00e5ss\u00e6tran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297579,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536042
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"bc2f0f8f5b1276a2616bd4b35b22ac63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297579,
+            "locality_id":1326727861,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1326727861,
+    "wof:lastmodified":1537675952,
+    "wof:name":"Nordre Bjornassaetran",
+    "wof:parent_id":1159297579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.22798,
+    62.23525,
+    10.22798,
+    62.23525
+],
+  "geometry": {"coordinates":[10.22798,62.23525],"type":"Point"}
+}

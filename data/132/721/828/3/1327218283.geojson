@@ -1,0 +1,66 @@
+{
+  "id": 1327218283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.11667,66.23333,13.11667,66.23333",
+    "geom:latitude":66.23333,
+    "geom:longitude":13.11667,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1828.0",
+    "gn:asciiname":"Herset",
+    "gn:country_code":"NO",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3152851,
+    "gn:latitude":66.23333,
+    "gn:longitude":13.11667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Herset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297235,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3152851
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f25f1047070f7743c8ee6c1ef4a05f1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297235,
+            "locality_id":1327218283,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1327218283,
+    "wof:lastmodified":1536989207,
+    "wof:name":"Herset",
+    "wof:parent_id":1159297235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.11667,
+    66.23333000000001,
+    13.11667,
+    66.23333000000001
+],
+  "geometry": {"coordinates":[13.11667,66.23333000000001],"type":"Point"}
+}

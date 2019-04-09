@@ -1,0 +1,72 @@
+{
+  "id": 1326619927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.72154,67.65502,12.72154,67.65502",
+    "geom:latitude":67.65502,
+    "geom:longitude":12.72154,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1857.0",
+    "gn:asciiname":"Rossnesvagen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141269,
+    "gn:latitude":67.65502,
+    "gn:longitude":12.72154,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"R\u00f8ssnesv\u00e5gen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00f6stnesvaag",
+        "R\u00f6snesvaagen",
+        "R\u00f8snesv\u00e5g"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297081,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141269
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"320f0cce3425096fa6e732bb2329f6c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297081,
+            "locality_id":1326619927,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1326619927,
+    "wof:lastmodified":1537675736,
+    "wof:name":"Rossnesvagen",
+    "wof:parent_id":1159297081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.72154,
+    67.65502,
+    12.72154,
+    67.65502
+],
+  "geometry": {"coordinates":[12.72154,67.65501999999999],"type":"Point"}
+}

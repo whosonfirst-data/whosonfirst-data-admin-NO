@@ -1,0 +1,80 @@
+{
+  "id": 1309678375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.58688,68.87527,17.58688,68.87527",
+    "geom:latitude":68.87527,
+    "geom:longitude":17.58688,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1923.0",
+    "gn:asciiname":"Hakavik",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3154262,
+    "gn:latitude":68.87527,
+    "gn:longitude":17.58688,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"H\u00e5kavik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "H\u00e5kavik"
+    ],
+    "name:nor_x_variant":[
+        "H\u00e5kavika"
+    ],
+    "name:und_x_variant":[
+        "H\u00e5kavik",
+        "Haakavik",
+        "H\u00e5kavika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297455,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3154262
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"78e0e5a1a6570a490bf654bb287835ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297455,
+            "locality_id":1309678375,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1309678375,
+    "wof:lastmodified":1537675825,
+    "wof:name":"Hakavik",
+    "wof:parent_id":1159297455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.58687999999999,
+    68.87527,
+    17.58687999999999,
+    68.87527
+],
+  "geometry": {"coordinates":[17.58687999999999,68.87527],"type":"Point"}
+}

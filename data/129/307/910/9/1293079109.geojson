@@ -1,0 +1,71 @@
+{
+  "id": 1293079109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.42826,60.96623,9.42826,60.96623",
+    "geom:latitude":60.96623,
+    "geom:longitude":9.42826,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"542.0",
+    "gn:asciiname":"Bergabrotin",
+    "gn:country_code":"NO",
+    "gn:dem":907,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537221,
+    "gn:latitude":60.96623,
+    "gn:longitude":9.42826,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Bergabr\u00f8tin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Bergabr\u00f8tin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297391,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537221
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a1c8fa76f272cc0a5c5306653eed7cde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297391,
+            "locality_id":1293079109,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1293079109,
+    "wof:lastmodified":1537676002,
+    "wof:name":"Bergabrotin",
+    "wof:parent_id":1159297391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.42826,
+    60.96623,
+    9.42826,
+    60.96623
+],
+  "geometry": {"coordinates":[9.42826,60.96623],"type":"Point"}
+}

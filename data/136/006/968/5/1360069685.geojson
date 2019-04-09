@@ -1,0 +1,71 @@
+{
+  "id": 1360069685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.80721,65.90857,13.80721,65.90857",
+    "geom:latitude":65.90857,
+    "geom:longitude":13.80721,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1832.0",
+    "gn:asciiname":"Bleikvasslia",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3160996,
+    "gn:latitude":65.90857,
+    "gn:longitude":13.80721,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Bleikvasslia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bleikvassli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296695,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160996,
+        "wk:page":"Bleikvasslia"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9397eb21e3c5a1a8360ee2fc72fd2f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296695,
+            "locality_id":1360069685,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1360069685,
+    "wof:lastmodified":1537675873,
+    "wof:name":"Bleikvasslia",
+    "wof:parent_id":1159296695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.80721,
+    65.90857,
+    13.80721,
+    65.90857
+],
+  "geometry": {"coordinates":[13.80721,65.90857],"type":"Point"}
+}

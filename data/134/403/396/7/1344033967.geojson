@@ -1,0 +1,68 @@
+{
+  "id": 1344033967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.08333,59.28333,9.08333,59.28333",
+    "geom:latitude":59.28333,
+    "geom:longitude":9.08333,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"819.0",
+    "gn:asciiname":"Hanto",
+    "gn:country_code":"NO",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3153906,
+    "gn:latitude":59.28333,
+    "gn:longitude":9.08333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Hanto",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296935,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3153906
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ab2a16efaf4621dd43646536e4bad7c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296935,
+            "locality_id":1344033967,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1344033967,
+    "wof:lastmodified":1536914393,
+    "wof:name":"Hanto",
+    "wof:parent_id":1159296935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.08333,
+    59.28333000000001,
+    9.08333,
+    59.28333000000001
+],
+  "geometry": {"coordinates":[9.08333,59.28333000000001],"type":"Point"}
+}

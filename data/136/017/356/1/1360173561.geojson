@@ -1,0 +1,71 @@
+{
+  "id": 1360173561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.31667,64.53333,11.31667,64.53333",
+    "geom:latitude":64.53333,
+    "geom:longitude":11.31667,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5005.0",
+    "gn:asciiname":"Husvik",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3151324,
+    "gn:latitude":64.53333,
+    "gn:longitude":11.31667,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Husvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Husvik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297197,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3151324
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a26cdf05b57842a5e9aa23bc3802e2f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297197,
+            "locality_id":1360173561,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1360173561,
+    "wof:lastmodified":1537675806,
+    "wof:name":"Husvik",
+    "wof:parent_id":1159297197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.31667,
+    64.53333,
+    11.31667,
+    64.53333
+],
+  "geometry": {"coordinates":[11.31667,64.53333000000001],"type":"Point"}
+}

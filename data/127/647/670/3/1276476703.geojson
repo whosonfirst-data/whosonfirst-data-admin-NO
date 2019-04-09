@@ -1,0 +1,85 @@
+{
+  "id": 1276476703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.25099,69.7014,29.25099,69.7014",
+    "geom:latitude":69.7014,
+    "geom:longitude":29.25099,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2030.0",
+    "gn:asciiname":"Neiden,ovre",
+    "gn:country_code":"NO",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537553,
+    "gn:latitude":69.7014,
+    "gn:longitude":29.25099,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Neiden,\u00f8vre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fkv_x_preferred":[
+        "Yli-N\u00e4\u00e4t\u00e4m\u00f6"
+    ],
+    "name:nor_x_preferred":[
+        "Neiden,\u00f8vre"
+    ],
+    "name:nor_x_variant":[
+        "\u00d8vre Neiden",
+        "Veines"
+    ],
+    "name:sme_x_preferred":[
+        "P\u00e5\u014bjjel-Njaudd\u00e1m"
+    ],
+    "name:sme_x_variant":[
+        "Baddjenjavdan",
+        "Badjenj\u00e1vd\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296947,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537553
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a79c4727495740b7ab3acaad00d8d81a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296947,
+            "locality_id":1276476703,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1276476703,
+    "wof:lastmodified":1537676017,
+    "wof:name":"Neiden,ovre",
+    "wof:parent_id":1159296947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.25099,
+    69.7014,
+    29.25099,
+    69.7014
+],
+  "geometry": {"coordinates":[29.25099,69.70140000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343376791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.07475,60.3803,11.07475,60.3803",
+    "geom:latitude":60.3803,
+    "geom:longitude":11.07475,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"239.0",
+    "gn:asciiname":"Eidseter",
+    "gn:country_code":"NO",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537386,
+    "gn:latitude":60.3803,
+    "gn:longitude":11.07475,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Eidseter",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Eidseter"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296797,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537386
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b0fcb434c2a9c95b384c754dbd86425b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296797,
+            "locality_id":1343376791,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1343376791,
+    "wof:lastmodified":1537676009,
+    "wof:name":"Eidseter",
+    "wof:parent_id":1159296797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.07475,
+    60.3803,
+    11.07475,
+    60.3803
+],
+  "geometry": {"coordinates":[11.07475,60.3803],"type":"Point"}
+}

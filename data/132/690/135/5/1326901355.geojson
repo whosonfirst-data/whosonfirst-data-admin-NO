@@ -1,0 +1,68 @@
+{
+  "id": 1326901355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.5,58.55,6.5,58.55",
+    "geom:latitude":58.55,
+    "geom:longitude":6.5,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1112.0",
+    "gn:asciiname":"Steinberg",
+    "gn:country_code":"NO",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3137010,
+    "gn:latitude":58.55,
+    "gn:longitude":6.5,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Steinberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297063,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3137010
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a2f24118440a402f925ed80983e8affb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297063,
+            "locality_id":1326901355,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1326901355,
+    "wof:lastmodified":1536949628,
+    "wof:name":"Steinberg",
+    "wof:parent_id":1159297063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.5,
+    58.55,
+    6.5,
+    58.55
+],
+  "geometry": {"coordinates":[6.5,58.55],"type":"Point"}
+}

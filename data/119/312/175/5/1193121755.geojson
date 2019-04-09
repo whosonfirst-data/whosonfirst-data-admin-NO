@@ -1,0 +1,73 @@
+{
+  "id": 1193121755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.44732,68.98762,15.44732,68.98762",
+    "geom:latitude":68.98762,
+    "geom:longitude":15.44732,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1871.0",
+    "gn:asciiname":"Sormela",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3137451,
+    "gn:latitude":68.98762,
+    "gn:longitude":15.44732,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"S\u00f8rmela",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mjele",
+        "Sormjele",
+        "S\u00f6r Mele",
+        "S\u00f8rmela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297539,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3137451
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ee15d8553b75c63a9c37b9b595a86f14",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297539,
+            "locality_id":1193121755,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1193121755,
+    "wof:lastmodified":1537675709,
+    "wof:name":"Sormela",
+    "wof:parent_id":1159297539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.44732,
+    68.98761999999999,
+    15.44732,
+    68.98761999999999
+],
+  "geometry": {"coordinates":[15.44732,68.98761999999999],"type":"Point"}
+}

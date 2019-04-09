@@ -1,0 +1,72 @@
+{
+  "id": 1343234629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.35067,62.82744,11.35067,62.82744",
+    "geom:latitude":62.82744,
+    "geom:longitude":11.35067,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5026.0",
+    "gn:asciiname":"Graftas",
+    "gn:country_code":"NO",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536118,
+    "gn:latitude":62.82744,
+    "gn:longitude":11.35067,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Graft\u00e5s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Graft\u00e5s"
+    ],
+    "name:nor_x_variant":[
+        "Graft\u00e5sen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296983,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536118
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"bd06e4c54b743f0864cc4876651b7532",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296983,
+            "locality_id":1343234629,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1343234629,
+    "wof:lastmodified":1537675955,
+    "wof:name":"Graftas",
+    "wof:parent_id":1159296983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.35067,
+    62.82744,
+    11.35067,
+    62.82744
+],
+  "geometry": {"coordinates":[11.35067,62.82744],"type":"Point"}
+}

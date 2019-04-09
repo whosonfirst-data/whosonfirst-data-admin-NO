@@ -1,0 +1,68 @@
+{
+  "id": 1259671811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.28333,61.38333,10.28333,61.38333",
+    "geom:latitude":61.38333,
+    "geom:longitude":10.28333,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"520.0",
+    "gn:asciiname":"Bjorge",
+    "gn:country_code":"NO",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3161390,
+    "gn:latitude":61.38333,
+    "gn:longitude":10.28333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Bj\u00f8rge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296971,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3161390
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"38d77d57cfe877feaf8e141315b4e47d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296971,
+            "locality_id":1259671811,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1259671811,
+    "wof:lastmodified":1537080713,
+    "wof:name":"Bjorge",
+    "wof:parent_id":1159296971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.28333,
+    61.38333000000001,
+    10.28333,
+    61.38333000000001
+],
+  "geometry": {"coordinates":[10.28333,61.38333000000001],"type":"Point"}
+}

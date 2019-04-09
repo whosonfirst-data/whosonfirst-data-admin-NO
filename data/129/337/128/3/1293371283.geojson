@@ -1,0 +1,74 @@
+{
+  "id": 1293371283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.98836,61.82686,8.98836,61.82686",
+    "geom:latitude":61.82686,
+    "geom:longitude":8.98836,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"515.0",
+    "gn:asciiname":"Synstlie",
+    "gn:country_code":"NO",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536431,
+    "gn:latitude":61.82686,
+    "gn:longitude":8.98836,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Synstlie",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Synstlie"
+    ],
+    "name:nor_x_variant":[
+        "Synslie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296879,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536431
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a30431b81e1c5d54d8d89c3f800fcc18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296879,
+            "locality_id":1293371283,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1293371283,
+    "wof:lastmodified":1537675968,
+    "wof:name":"Synstlie",
+    "wof:parent_id":1159296879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.98836,
+    61.82686,
+    8.98836,
+    61.82686
+],
+  "geometry": {"coordinates":[8.98836,61.82686],"type":"Point"}
+}

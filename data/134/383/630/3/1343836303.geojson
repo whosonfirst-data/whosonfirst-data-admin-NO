@@ -1,0 +1,71 @@
+{
+  "id": 1343836303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.98357,60.94617,9.98357,60.94617",
+    "geom:latitude":60.94617,
+    "geom:longitude":9.98357,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"538.0",
+    "gn:asciiname":"Nordgarda",
+    "gn:country_code":"NO",
+    "gn:dem":590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537182,
+    "gn:latitude":60.94617,
+    "gn:longitude":9.98357,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Nordgarda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Nordgarda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297311,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537182
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f43889708206b25763904d124073d807",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297311,
+            "locality_id":1343836303,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1343836303,
+    "wof:lastmodified":1537676000,
+    "wof:name":"Nordgarda",
+    "wof:parent_id":1159297311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.98357,
+    60.94617,
+    9.98357,
+    60.94617
+],
+  "geometry": {"coordinates":[9.98357,60.94617],"type":"Point"}
+}

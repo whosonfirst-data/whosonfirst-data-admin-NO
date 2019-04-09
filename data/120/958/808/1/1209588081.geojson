@@ -1,0 +1,67 @@
+{
+  "id": 1209588081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.7,63.76667,8.7,63.76667",
+    "geom:latitude":63.76667,
+    "geom:longitude":8.7,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5014.0",
+    "gn:asciiname":"Klubba",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3149768,
+    "gn:latitude":63.76667,
+    "gn:longitude":8.7,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Klubba",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Klubben",
+        "Klubba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3149768
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1f8b049c15e8f0e608448f866f3dc258",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209588081
+        }
+    ],
+    "wof:id":1209588081,
+    "wof:lastmodified":1537675793,
+    "wof:name":"Klubba",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.7,
+    63.76667,
+    8.7,
+    63.76667
+],
+  "geometry": {"coordinates":[8.7,63.76667],"type":"Point"}
+}

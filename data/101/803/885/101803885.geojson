@@ -1,0 +1,92 @@
+{
+  "id": 101803885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000044,
+    "geom:area_square_m":278493.296026,
+    "geom:bbox":"8.48558415944,59.3976452829,8.49982980301,59.4056827614",
+    "geom:latitude":59.40208,
+    "geom:longitude":8.491764,
+    "gn:population":640,
+    "iso:country":"NO",
+    "lbl:latitude":59.402985,
+    "lbl:longitude":8.489282,
+    "mps:latitude":59.402985,
+    "mps:longitude":8.489282,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Kviteseid"
+    ],
+    "name:nor_x_variant":[
+        "Kviteseids"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Telemark",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"Kviteseid",
+    "qs:la_lc":"*NO0829",
+    "qs:level":"locality",
+    "qs:loc":"Kviteseid",
+    "qs:loc_alt":"Kviteseid",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297233,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01fdb634-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3148726,
+        "gp:id":860999,
+        "qs:id":481076,
+        "qs_pg:id":481076,
+        "wd:id":"Q2609309"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"90876b451f05dc06c0122d30e4fd2332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297233,
+            "locality_id":101803885,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":101803885,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1529700383,
+    "wof:name":"Kviteseid",
+    "wof:parent_id":1159297233,
+    "wof:placetype":"locality",
+    "wof:population":640,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.48558415943779,
+    59.39764528291329,
+    8.49982980300587,
+    59.40568276136031
+],
+  "geometry": {"coordinates":[[[8.48909683616648,59.40568276136031],[8.48913609306715,59.40478334621707],[8.49089238857368,59.40480245487447],[8.49097080404459,59.4030036244647],[8.49623942792914,59.40306081374575],[8.49627849532453,59.40216139736032],[8.49979082915718,59.40219941132847],[8.49982980300587,59.4012999941591],[8.496317560352,59.40126198130793],[8.49647379678095,59.39766432043007],[8.49471786050742,59.39764528291329],[8.49467875937387,59.39854469707382],[8.49292277934194,59.39852563678056],[8.49280532496857,59.40122387958007],[8.4875369855626,59.40116656034559],[8.48749769259229,59.40206597359401],[8.48574153752276,59.40204682218177],[8.48558415943779,59.40564447625565],[8.48909683616648,59.40568276136031]]],"type":"Polygon"}
+}

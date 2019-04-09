@@ -1,0 +1,73 @@
+{
+  "id": 1260071695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.21667,60.56667,6.21667,60.56667",
+    "geom:latitude":60.56667,
+    "geom:longitude":6.21667,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1235.0",
+    "gn:asciiname":"Hornaberg",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3151842,
+    "gn:latitude":60.56667,
+    "gn:longitude":6.21667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hornaberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hodnaberg",
+        "Hornaberg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296873,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3151842
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"170550055682bcaa6d60d615f1aa56de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296873,
+            "locality_id":1260071695,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1260071695,
+    "wof:lastmodified":1537675809,
+    "wof:name":"Hornaberg",
+    "wof:parent_id":1159296873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.21667,
+    60.56667,
+    6.21667,
+    60.56667
+],
+  "geometry": {"coordinates":[6.21667,60.56667],"type":"Point"}
+}

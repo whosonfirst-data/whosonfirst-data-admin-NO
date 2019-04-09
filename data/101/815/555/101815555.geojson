@@ -1,0 +1,110 @@
+{
+  "id": 101815555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000169,
+    "geom:area_square_m":1044216.060865,
+    "geom:bbox":"11.3491244729,60.0254490393,11.3724891311,60.0380968996",
+    "geom:latitude":60.032174,
+    "geom:longitude":11.361449,
+    "gn:population":2638,
+    "iso:country":"NO",
+    "lbl:latitude":60.032241,
+    "lbl:longitude":11.360653,
+    "mps:latitude":60.032241,
+    "mps:longitude":11.360653,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Aulifeltet"
+    ],
+    "name:eng_x_preferred":[
+        "Aulifeltet"
+    ],
+    "name:fre_x_preferred":[
+        "Aulifeltet"
+    ],
+    "name:jav_x_preferred":[
+        "Aulifeltet"
+    ],
+    "name:may_x_preferred":[
+        "Aulifeltet"
+    ],
+    "name:nno_x_preferred":[
+        "Aulifeltet"
+    ],
+    "name:nob_x_preferred":[
+        "Auli"
+    ],
+    "name:rum_x_preferred":[
+        "Auli"
+    ],
+    "name:swe_x_preferred":[
+        "Aulifeltet"
+    ],
+    "name:vie_x_preferred":[
+        "Aulifeltet"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Akershus",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"S\u00f8rum",
+    "qs:la_lc":"*NO0226",
+    "qs:level":"locality",
+    "qs:loc":"Aulifeltet",
+    "qs:loc_alt":"Aulifeltet",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297349,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3162475,
+        "gp:id":856871,
+        "qs:id":1043349,
+        "wd:id":"Q2185737",
+        "wk:page":"Auli Station"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"af750e26c0a771ed5e1336219b528525",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297349,
+            "locality_id":101815555,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":101815555,
+    "wof:lastmodified":1529699765,
+    "wof:name":"Aulifeltet",
+    "wof:parent_id":1159297349,
+    "wof:placetype":"locality",
+    "wof:population":2638,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.34912447287212,
+    60.02544903929993,
+    11.3724891311382,
+    60.03809689964334
+],
+  "geometry": {"coordinates":[[[11.36547862711382,60.03804503608228],[11.36544226573483,60.03714531958042],[11.36723139517056,60.03712798686132],[11.36715858394274,60.03532855602947],[11.37073664717599,60.03529382460266],[11.37070014973057,60.03439411079592],[11.3724891311382,60.03437671156894],[11.3723429735482,60.03077786219683],[11.37055418253135,60.03079525933106],[11.37051769637628,60.02989554740515],[11.36515145569302,60.02994760111562],[11.36496977250397,60.02544903929993],[11.36139274589095,60.02548362313814],[11.36142898287983,60.02638333578921],[11.35964041941037,60.02640059420128],[11.35967661106167,60.02730030774728],[11.35609938380111,60.02733475755349],[11.35613548252604,60.02823447251114],[11.35255815323154,60.028268832609],[11.35270218974352,60.03186770033477],[11.34912447287212,60.03190197381042],[11.34916039237436,60.03280169271335],[11.35094929926379,60.03278456680499],[11.3510212401423,60.03458400471072],[11.35459923919507,60.03454968276117],[11.35463530818697,60.03544940124664],[11.3564243527473,60.03543220571845],[11.3564604715807,60.03633192406346],[11.35824956203214,60.03631470532588],[11.35828573071353,60.03721442352963],[11.36007486705591,60.03719718158152],[11.36011108559092,60.03809689964334],[11.36547862711382,60.03804503608228]]],"type":"Polygon"}
+}

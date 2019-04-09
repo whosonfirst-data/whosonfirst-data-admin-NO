@@ -1,0 +1,72 @@
+{
+  "id": 1276637835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.21667,62.91667,11.21667,62.91667",
+    "geom:latitude":62.91667,
+    "geom:longitude":11.21667,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5026.0",
+    "gn:asciiname":"Droyvollen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3158944,
+    "gn:latitude":62.91667,
+    "gn:longitude":11.21667,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Dr\u00f8yvollen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dr\u00f6ivold",
+        "Dr\u00f8ia",
+        "Dr\u00f8yvollen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296983,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3158944
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ca952b75c2ca3b117ef381709bfb45ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296983,
+            "locality_id":1276637835,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1276637835,
+    "wof:lastmodified":1537675858,
+    "wof:name":"Droyvollen",
+    "wof:parent_id":1159296983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.21667,
+    62.91667,
+    11.21667,
+    62.91667
+],
+  "geometry": {"coordinates":[11.21667,62.91667],"type":"Point"}
+}

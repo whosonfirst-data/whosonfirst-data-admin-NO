@@ -1,0 +1,73 @@
+{
+  "id": 1344021305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.93333,70.01667,18.93333,70.01667",
+    "geom:latitude":70.01667,
+    "geom:longitude":18.93333,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1936.0",
+    "gn:asciiname":"Grunnfjord",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3154670,
+    "gn:latitude":70.01667,
+    "gn:longitude":18.93333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Grunnfjord",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grundfjord",
+        "Grunnfjord"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297199,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3154670
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"943665c15565c8fc5dc8db1dc310b168",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297199,
+            "locality_id":1344021305,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1344021305,
+    "wof:lastmodified":1537675828,
+    "wof:name":"Grunnfjord",
+    "wof:parent_id":1159297199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.93333,
+    70.01666999999999,
+    18.93333,
+    70.01666999999999
+],
+  "geometry": {"coordinates":[18.93333,70.01666999999999],"type":"Point"}
+}

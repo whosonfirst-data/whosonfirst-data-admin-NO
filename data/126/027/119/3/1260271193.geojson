@@ -1,0 +1,71 @@
+{
+  "id": 1260271193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.92477,61.13297,8.92477,61.13297",
+    "geom:latitude":61.13297,
+    "geom:longitude":8.92477,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"543.0",
+    "gn:asciiname":"Lomen",
+    "gn:country_code":"NO",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535823,
+    "gn:latitude":61.13297,
+    "gn:longitude":8.92477,
+    "gn:modification_date":"2017-10-14",
+    "gn:name":"Lomen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Lome"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297129,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535823
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"45fdbeac45d2c480a2a721a42dec4e8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297129,
+            "locality_id":1260271193,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1260271193,
+    "wof:lastmodified":1537675942,
+    "wof:name":"Lomen",
+    "wof:parent_id":1159297129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.92477,
+    61.13296999999999,
+    8.92477,
+    61.13296999999999
+],
+  "geometry": {"coordinates":[8.92477,61.13296999999999],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1360182247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.93889,62.21986,5.93889,62.21986",
+    "geom:latitude":62.21986,
+    "geom:longitude":5.93889,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1519.0",
+    "gn:asciiname":"Birkenes",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3161620,
+    "gn:latitude":62.21986,
+    "gn:longitude":5.93889,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Birkenes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Birken\u00e6s",
+        "Birkenes",
+        "Berknes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297487,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3161620
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"09cac0c78a6e09b60c352a7af6aefcdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297487,
+            "locality_id":1360182247,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1360182247,
+    "wof:lastmodified":1537675877,
+    "wof:name":"Birkenes",
+    "wof:parent_id":1159297487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.93889,
+    62.21986,
+    5.93889,
+    62.21986
+],
+  "geometry": {"coordinates":[5.93889,62.21986],"type":"Point"}
+}

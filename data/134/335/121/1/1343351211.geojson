@@ -1,0 +1,70 @@
+{
+  "id": 1343351211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.18333,65.4,12.18333,65.4",
+    "geom:latitude":65.4,
+    "geom:longitude":12.18333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1813.0",
+    "gn:asciiname":"Traelnes",
+    "gn:country_code":"NO",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3134096,
+    "gn:latitude":65.4,
+    "gn:longitude":12.18333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tr\u00e6lnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tr\u00e6lnes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297445,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3134096,
+        "wk:page":"Tr%C3%A6lnes"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"abc18a44c671faa487333f3eee754266",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297445,
+            "locality_id":1343351211,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1343351211,
+    "wof:lastmodified":1537675691,
+    "wof:name":"Traelnes",
+    "wof:parent_id":1159297445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.18333,
+    65.4,
+    12.18333,
+    65.4
+],
+  "geometry": {"coordinates":[12.18333,65.40000000000001],"type":"Point"}
+}

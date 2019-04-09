@@ -1,0 +1,73 @@
+{
+  "id": 1343647843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.01667,59.28333,11.01667,59.28333",
+    "geom:latitude":59.28333,
+    "geom:longitude":11.01667,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"105.0",
+    "gn:asciiname":"Vister",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3131489,
+    "gn:latitude":59.28333,
+    "gn:longitude":11.01667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Vister",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Viste",
+        "Vister"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297543,
+        85633341,
+        85687079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3131489
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"27ed4852560f672b96efe94069f534ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297543,
+            "locality_id":1343647843,
+            "region_id":85687079
+        }
+    ],
+    "wof:id":1343647843,
+    "wof:lastmodified":1537675674,
+    "wof:name":"Vister",
+    "wof:parent_id":1159297543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.01667,
+    59.28333000000001,
+    11.01667,
+    59.28333000000001
+],
+  "geometry": {"coordinates":[11.01667,59.28333000000001],"type":"Point"}
+}

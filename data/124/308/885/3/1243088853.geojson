@@ -1,0 +1,73 @@
+{
+  "id": 1243088853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.4,60.35,6.4,60.35",
+    "geom:latitude":60.35,
+    "geom:longitude":6.4,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1227.0",
+    "gn:asciiname":"Tra",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3134108,
+    "gn:latitude":60.35,
+    "gn:longitude":6.4,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tr\u00e5",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Traa",
+        "Tr\u00e5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297105,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3134108
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"79e9e914225b9c31b5f2d42e39050673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297105,
+            "locality_id":1243088853,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1243088853,
+    "wof:lastmodified":1537675691,
+    "wof:name":"Tra",
+    "wof:parent_id":1159297105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.4,
+    60.35,
+    6.4,
+    60.35
+],
+  "geometry": {"coordinates":[6.4,60.35],"type":"Point"}
+}

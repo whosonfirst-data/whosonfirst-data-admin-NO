@@ -1,0 +1,135 @@
+{
+  "id": 101872987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.504871,62.782952,7.504871,62.782952",
+    "geom:latitude":62.782952,
+    "geom:longitude":7.504871,
+    "gn:population":1011,
+    "iso:country":"NO",
+    "lbl:latitude":62.782952,
+    "lbl:longitude":7.504871,
+    "mps:latitude":62.782952,
+    "mps:longitude":7.504871,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Hjelset"
+    ],
+    "name:eng_x_preferred":[
+        "Hjelset"
+    ],
+    "name:fra_x_preferred":[
+        "Hjelset"
+    ],
+    "name:fre_x_preferred":[
+        "Hjelset"
+    ],
+    "name:jav_x_preferred":[
+        "Hjelset"
+    ],
+    "name:may_x_preferred":[
+        "Hjelset"
+    ],
+    "name:msa_x_preferred":[
+        "Hjelset"
+    ],
+    "name:nld_x_preferred":[
+        "Hjelset"
+    ],
+    "name:nno_x_preferred":[
+        "Hjelset"
+    ],
+    "name:nob_x_preferred":[
+        "Hjelset"
+    ],
+    "name:nor_x_preferred":[
+        "Hjelset"
+    ],
+    "name:nor_x_variant":[
+        "Hjellset",
+        "Hjelsets"
+    ],
+    "name:ron_x_preferred":[
+        "Hjelset"
+    ],
+    "name:rum_x_preferred":[
+        "Hjelset"
+    ],
+    "name:unk_x_variant":[
+        "Hjellset"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*M\u00f8re og Romsdal",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hjelset",
+    "qs:loc_alt":"Hjelset",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":119,
+    "wof:belongsto":[
+        102191581,
+        1159297499,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01ff098a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3152548,
+        "gp:id":859824,
+        "qs:id":908261,
+        "qs_pg:id":908261,
+        "wd:id":"Q1770680",
+        "wk:page":"Hjelset"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"96036b9c934c36031298347e5d58eae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297499,
+            "locality_id":101872987,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":101872987,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1544751420,
+    "wof:name":"Hjelset",
+    "wof:parent_id":1159297499,
+    "wof:placetype":"locality",
+    "wof:population":1011,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.504871,
+    62.782952,
+    7.504871,
+    62.782952
+],
+  "geometry": {"coordinates":[7.504871,62.782952],"type":"Point"}
+}

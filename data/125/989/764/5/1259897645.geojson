@@ -1,0 +1,68 @@
+{
+  "id": 1259897645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.0,60.18333,11.0,60.18333",
+    "geom:latitude":60.18333,
+    "geom:longitude":11.0,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"238.0",
+    "gn:asciiname":"Slattum",
+    "gn:country_code":"NO",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3138321,
+    "gn:latitude":60.18333,
+    "gn:longitude":11.0,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Slattum",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297073,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3138321
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"87110203bcec50d22115c4e2bb2f3ab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297073,
+            "locality_id":1259897645,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1259897645,
+    "wof:lastmodified":1536758871,
+    "wof:name":"Slattum",
+    "wof:parent_id":1159297073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.0,
+    60.18333000000001,
+    11.0,
+    60.18333000000001
+],
+  "geometry": {"coordinates":[11.0,60.18333000000001],"type":"Point"}
+}

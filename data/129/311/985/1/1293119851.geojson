@@ -1,0 +1,71 @@
+{
+  "id": 1293119851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.57278,68.81222,15.57278,68.81222",
+    "geom:latitude":68.81222,
+    "geom:longitude":15.57278,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1870.0",
+    "gn:asciiname":"Rokksoy",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141502,
+    "gn:latitude":68.81222,
+    "gn:longitude":15.57278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Rokks\u00f8y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Roks\u00f6y",
+        "Rokks\u00f8y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297273,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141502
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4a902f0ff07f25386732f224e775c7ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297273,
+            "locality_id":1293119851,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1293119851,
+    "wof:lastmodified":1537675738,
+    "wof:name":"Rokksoy",
+    "wof:parent_id":1159297273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.57278,
+    68.81222,
+    15.57278,
+    68.81222
+],
+  "geometry": {"coordinates":[15.57278,68.81222],"type":"Point"}
+}

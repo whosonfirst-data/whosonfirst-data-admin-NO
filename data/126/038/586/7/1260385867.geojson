@@ -1,0 +1,68 @@
+{
+  "id": 1260385867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.94806,60.79667,4.94806,60.79667",
+    "geom:latitude":60.79667,
+    "geom:longitude":4.94806,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1264.0",
+    "gn:asciiname":"Utkeila",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3245037,
+    "gn:latitude":60.79667,
+    "gn:longitude":4.94806,
+    "gn:modification_date":"2010-10-15",
+    "gn:name":"Utkeila",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296719,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3245037
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0a4c2a26dd8193fcffd91f60aa721fd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296719,
+            "locality_id":1260385867,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1260385867,
+    "wof:lastmodified":1537068843,
+    "wof:name":"Utkeila",
+    "wof:parent_id":1159296719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.94806,
+    60.79667,
+    4.94806,
+    60.79667
+],
+  "geometry": {"coordinates":[4.94806,60.79667],"type":"Point"}
+}

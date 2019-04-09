@@ -1,0 +1,69 @@
+{
+  "id": 1326614627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.04224,67.77156,15.04224,67.77156",
+    "geom:latitude":67.77156,
+    "geom:longitude":15.04224,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1848.0",
+    "gn:asciiname":"Pinstranda",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536780,
+    "gn:latitude":67.77156,
+    "gn:longitude":15.04224,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Pinstranda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Pinstranda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297343,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536780
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ac58350be5ae983a20ace27f5b2ec5bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297343,
+            "locality_id":1326614627,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1326614627,
+    "wof:lastmodified":1537675983,
+    "wof:name":"Pinstranda",
+    "wof:parent_id":1159297343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.04224,
+    67.77156,
+    15.04224,
+    67.77156
+],
+  "geometry": {"coordinates":[15.04224,67.77155999999999],"type":"Point"}
+}

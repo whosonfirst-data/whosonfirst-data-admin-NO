@@ -1,0 +1,71 @@
+{
+  "id": 1310227783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.20242,69.77953,30.20242,69.77953",
+    "geom:latitude":69.77953,
+    "geom:longitude":30.20242,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2030.0",
+    "gn:asciiname":"Lille Ropelv",
+    "gn:country_code":"NO",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537571,
+    "gn:latitude":69.77953,
+    "gn:longitude":30.20242,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Lille Ropelv",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Lille Ropelv"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296947,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537571
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e7b21bc09d4ddf2974ed69c9f16ab348",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296947,
+            "locality_id":1310227783,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1310227783,
+    "wof:lastmodified":1537676018,
+    "wof:name":"Lille Ropelv",
+    "wof:parent_id":1159296947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.20242,
+    69.77953000000001,
+    30.20242,
+    69.77953000000001
+],
+  "geometry": {"coordinates":[30.20242,69.77953000000001],"type":"Point"}
+}

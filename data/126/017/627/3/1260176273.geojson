@@ -1,0 +1,71 @@
+{
+  "id": 1260176273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.01597,59.86045,6.01597,59.86045",
+    "geom:latitude":59.86045,
+    "geom:longitude":6.01597,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1224.0",
+    "gn:asciiname":"Orradalen",
+    "gn:country_code":"NO",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537823,
+    "gn:latitude":59.86045,
+    "gn:longitude":6.01597,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Orradalen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Orradalen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296949,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537823
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4eb376aef1548c3e4cd2d629b775d357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296949,
+            "locality_id":1260176273,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1260176273,
+    "wof:lastmodified":1537676029,
+    "wof:name":"Orradalen",
+    "wof:parent_id":1159296949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.01597,
+    59.86045,
+    6.01597,
+    59.86045
+],
+  "geometry": {"coordinates":[6.01597,59.86045],"type":"Point"}
+}

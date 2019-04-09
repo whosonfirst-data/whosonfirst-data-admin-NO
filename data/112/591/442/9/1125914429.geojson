@@ -1,0 +1,107 @@
+{
+  "id": 1125914429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.43333,62.26667,6.43333,62.26667",
+    "geom:latitude":62.26667,
+    "geom:longitude":6.43333,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":62.26667,
+    "lbl:longitude":6.43333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Store Standal"
+    ],
+    "name:eng_x_preferred":[
+        "Store Standal"
+    ],
+    "name:fre_x_preferred":[
+        "Store Standal"
+    ],
+    "name:jav_x_preferred":[
+        "Store Standal"
+    ],
+    "name:may_x_preferred":[
+        "Store Standal"
+    ],
+    "name:unk_x_variant":[
+        "Standal"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3151096,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Store Standal",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"M\u00f8re og Romsdal Fylke",
+    "qs_pg:photos":90,
+    "qs_pg:photos_1k":18,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":90,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1035762,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":864507,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"M\u00f8re og Romsdal Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297435,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3151096,
+        "gp:id":864507,
+        "qs_pg:id":1035762,
+        "wd:id":"Q7619959"
+    },
+    "wof:country":"NO",
+    "wof:created":1497296265,
+    "wof:geomhash":"4ecfc500692bcf04079f428015adc5af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297435,
+            "locality_id":1125914429,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1125914429,
+    "wof:lastmodified":1529700097,
+    "wof:name":"Store Standal",
+    "wof:parent_id":1159297435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.43333,
+    62.26667,
+    6.43333,
+    62.26667
+],
+  "geometry": {"coordinates":[6.43333,62.26667],"type":"Point"}
+}

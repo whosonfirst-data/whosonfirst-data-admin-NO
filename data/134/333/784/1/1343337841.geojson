@@ -1,0 +1,72 @@
+{
+  "id": 1343337841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.56689,59.2159,9.56689,59.2159",
+    "geom:latitude":59.2159,
+    "geom:longitude":9.56689,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"806",
+    "gn:asciiname":"Gulset",
+    "gn:country_code":"NO",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9403969,
+    "gn:latitude":59.2159,
+    "gn:longitude":9.56689,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Gulset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Gulset"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297035,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9403969,
+        "wk:page":"Gulset"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6fc432ece10fcb907d3d6c023bc9dff0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297035,
+            "locality_id":1343337841,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1343337841,
+    "wof:lastmodified":1537675912,
+    "wof:name":"Gulset",
+    "wof:parent_id":1159297035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.56689,
+    59.2159,
+    9.56689,
+    59.2159
+],
+  "geometry": {"coordinates":[9.56689,59.2159],"type":"Point"}
+}

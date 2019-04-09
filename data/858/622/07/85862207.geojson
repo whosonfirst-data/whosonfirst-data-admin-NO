@@ -1,0 +1,129 @@
+{
+  "id": 85862207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":20694232.825562,
+    "geom:bbox":"5.458304,60.377629,5.458304,60.377629",
+    "geom:latitude":60.377629,
+    "geom:longitude":5.458304,
+    "iso:country":"NO",
+    "lbl:latitude":60.377629,
+    "lbl:longitude":5.458304,
+    "mps:latitude":60.368466,
+    "mps:longitude":5.454711,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:bos_x_preferred":[
+        "Lono"
+    ],
+    "name:fra_x_preferred":[
+        "Lono"
+    ],
+    "name:hrv_x_preferred":[
+        "Lono"
+    ],
+    "name:lat_x_preferred":[
+        "Lono"
+    ],
+    "name:nor_x_preferred":[
+        "Lono"
+    ],
+    "name:pol_x_preferred":[
+        "Lono"
+    ],
+    "name:por_x_preferred":[
+        "Lono"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u043d\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Lono"
+    ],
+    "name:unk_x_variant":[
+        "Lono"
+    ],
+    "qs:gn_adm0_cc":"NO",
+    "qs:gn_id":0,
+    "qs:gn_local":3153530,
+    "qs:gn_nam_loc":"Haukeland, Bergen, Hordaland Fylke, NO",
+    "qs:gn_namadm1":"07",
+    "qs:id":0,
+    "qs:local_max":78,
+    "qs:local_sum":78,
+    "qs:localhoods":1,
+    "qs:name":"Lono",
+    "qs:name_adm0":"Norge",
+    "qs:name_adm1":"Hordaland Fylke",
+    "qs:name_adm2":"Bergen Kommune",
+    "qs:name_local":"Haukeland",
+    "qs:photo_max":9,
+    "qs:photo_sum":78,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":27,
+    "qs:woe_adm0":23424910,
+    "qs:woe_adm1":2346390,
+    "qs:woe_adm2":12592658,
+    "qs:woe_lau":0,
+    "qs:woe_local":859523,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":1151,
+    "wof:belongsto":[
+        85687099,
+        102191581,
+        1159297617,
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20100228,
+        "wd:id":"Q650821"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"92d67054ff55438374f5c3fc6e8710b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":-1,
+            "neighbourhood_id":85862207,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":85862207,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1531870560,
+    "wof:name":"Lono",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.458304,
+    60.377629,
+    5.458304,
+    60.377629
+],
+  "geometry": {"coordinates":[5.458304,60.377629],"type":"Point"}
+}

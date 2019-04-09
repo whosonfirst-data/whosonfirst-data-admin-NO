@@ -1,0 +1,71 @@
+{
+  "id": 1293077269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.32807,59.46066,9.32807,59.46066",
+    "geom:latitude":59.46066,
+    "geom:longitude":9.32807,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"822.0",
+    "gn:asciiname":"Varheim",
+    "gn:country_code":"NO",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536893,
+    "gn:latitude":59.46066,
+    "gn:longitude":9.32807,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"V\u00e5rheim",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "V\u00e5rheim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297147,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536893
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8fb840cf8d3f515c90f9f14fda815097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297147,
+            "locality_id":1293077269,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1293077269,
+    "wof:lastmodified":1537675988,
+    "wof:name":"Varheim",
+    "wof:parent_id":1159297147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.32807,
+    59.46066,
+    9.32807,
+    59.46066
+],
+  "geometry": {"coordinates":[9.32807,59.46066],"type":"Point"}
+}

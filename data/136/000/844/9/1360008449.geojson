@@ -1,0 +1,79 @@
+{
+  "id": 1360008449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.66667,70.95,26.66667,70.95",
+    "geom:latitude":70.95,
+    "geom:longitude":26.66667,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2022.0",
+    "gn:asciiname":"Svaerholt",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":777238,
+    "gn:latitude":70.95,
+    "gn:longitude":26.66667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sv\u00e6rholt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sv\u00e6rholt"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u0435\u0440\u0445\u043e\u043b\u044c\u0442"
+    ],
+    "name:und_x_variant":[
+        "Svarholt",
+        "Sv\u00e6rholt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297143,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":777238
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b14ca08acd0be86d0b6ba68a37969dde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297143,
+            "locality_id":1360008449,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1360008449,
+    "wof:lastmodified":1537675641,
+    "wof:name":"Svaerholt",
+    "wof:parent_id":1159297143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.66667,
+    70.95,
+    26.66667,
+    70.95
+],
+  "geometry": {"coordinates":[26.66667,70.95],"type":"Point"}
+}

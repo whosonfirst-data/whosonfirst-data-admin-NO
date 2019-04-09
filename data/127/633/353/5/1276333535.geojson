@@ -1,0 +1,81 @@
+{
+  "id": 1276333535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.33298,70.11149,29.33298,70.11149",
+    "geom:latitude":70.11149,
+    "geom:longitude":29.33298,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"2003",
+    "gn:asciiname":"Annijaki",
+    "gn:country_code":"NO",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9403972,
+    "gn:latitude":70.11149,
+    "gn:longitude":29.33298,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Annij\u00e5ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fkv_x_preferred":[
+        "Annij\u00e5ki"
+    ],
+    "name:fkv_x_variant":[
+        "Annijoki"
+    ],
+    "name:nor_x_preferred":[
+        "Vestre Jakobselv"
+    ],
+    "name:sme_x_preferred":[
+        "\u00c1nnejohka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297387,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9403972,
+        "wk:page":"Vestre_Jakobselv"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f894b8b1a7ca4de610d8880adb460ccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297387,
+            "locality_id":1276333535,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1276333535,
+    "wof:lastmodified":1537675912,
+    "wof:name":"Annijaki",
+    "wof:parent_id":1159297387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.33298,
+    70.11149,
+    29.33298,
+    70.11149
+],
+  "geometry": {"coordinates":[29.33298,70.11149],"type":"Point"}
+}

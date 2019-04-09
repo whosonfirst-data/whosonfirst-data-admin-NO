@@ -1,0 +1,65 @@
+{
+  "id": 1209478745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.91845,59.17229,7.91845,59.17229",
+    "geom:latitude":59.17229,
+    "geom:longitude":7.91845,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"831.0",
+    "gn:asciiname":"Borggrend",
+    "gn:country_code":"NO",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537285,
+    "gn:latitude":59.17229,
+    "gn:longitude":7.91845,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Borggrend",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Borggrend"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537285
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d13e8eadbde5d9390e04435667784411",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209478745
+        }
+    ],
+    "wof:id":1209478745,
+    "wof:lastmodified":1537676005,
+    "wof:name":"Borggrend",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.91845,
+    59.17229,
+    7.91845,
+    59.17229
+],
+  "geometry": {"coordinates":[7.91845,59.17229],"type":"Point"}
+}

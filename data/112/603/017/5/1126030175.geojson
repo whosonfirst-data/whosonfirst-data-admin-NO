@@ -1,0 +1,99 @@
+{
+  "id": 1126030175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.37779,64.2457,12.37779,64.2457",
+    "geom:latitude":64.2457,
+    "geom:longitude":12.37779,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":733,
+    "gn:population":733,
+    "iso:country":"NO",
+    "lbl:latitude":64.2457,
+    "lbl:longitude":12.37779,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:nor_x_preferred":[
+        "Sn\u00e5ase"
+    ],
+    "name:nor_x_variant":[
+        "Sn\u00e5sa"
+    ],
+    "name:unk_x_variant":[
+        "Snaasen"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":3138076,
+    "qs_pg:gn_pop":733,
+    "qs_pg:name":"Sn\u00e5sa",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nord-Tr\u00f8ndelag Fylke",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":5,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":255840,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":864052,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Nord-Tr\u00f8ndelag Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297589,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3138076,
+        "gp:id":864052,
+        "qs_pg:id":255840
+    },
+    "wof:country":"NO",
+    "wof:created":1497301416,
+    "wof:geomhash":"6300dd4cfbd9d8c3b716740cfad59857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297589,
+            "locality_id":1126030175,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1126030175,
+    "wof:lastmodified":1529700203,
+    "wof:name":"Sn\u00e5sa",
+    "wof:parent_id":1159297589,
+    "wof:placetype":"locality",
+    "wof:population":733,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.37779,
+    64.2457,
+    12.37779,
+    64.2457
+],
+  "geometry": {"coordinates":[12.37779,64.2457],"type":"Point"}
+}

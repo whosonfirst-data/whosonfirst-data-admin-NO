@@ -1,0 +1,68 @@
+{
+  "id": 1193249969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.98599,59.81641,8.98599,59.81641",
+    "geom:latitude":59.81641,
+    "geom:longitude":8.98599,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"807.0",
+    "gn:asciiname":"Busnesgrenda",
+    "gn:country_code":"NO",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6940554,
+    "gn:latitude":59.81641,
+    "gn:longitude":8.98599,
+    "gn:modification_date":"2014-05-29",
+    "gn:name":"Busnesgrenda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297293,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6940554
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6fd399512429936d9b0121f928b3c861",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297293,
+            "locality_id":1193249969,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1193249969,
+    "wof:lastmodified":1536369089,
+    "wof:name":"Busnesgrenda",
+    "wof:parent_id":1159297293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.98599,
+    59.81641,
+    8.98599,
+    59.81641
+],
+  "geometry": {"coordinates":[8.98599,59.81641],"type":"Point"}
+}

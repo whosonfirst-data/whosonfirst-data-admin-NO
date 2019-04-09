@@ -1,0 +1,72 @@
+{
+  "id": 1310376325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.79978,59.34799,5.79978,59.34799",
+    "geom:latitude":59.34799,
+    "geom:longitude":5.79978,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1146",
+    "gn:asciiname":"Hindaravag",
+    "gn:country_code":"NO",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404418,
+    "gn:latitude":59.34799,
+    "gn:longitude":5.79978,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Hindar\u00e5v\u00e5g",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Hindar\u00e5v\u00e5g"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297113,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404418,
+        "wk:page":"Hindar%C3%A5v%C3%A5g"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d5a887f0b979511caa92e3f24823baa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297113,
+            "locality_id":1310376325,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1310376325,
+    "wof:lastmodified":1537675930,
+    "wof:name":"Hindaravag",
+    "wof:parent_id":1159297113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.79978,
+    59.34799,
+    5.79978,
+    59.34799
+],
+  "geometry": {"coordinates":[5.79978,59.34799],"type":"Point"}
+}

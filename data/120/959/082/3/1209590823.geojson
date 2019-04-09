@@ -1,0 +1,65 @@
+{
+  "id": 1209590823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.96203,58.14862,6.96203,58.14862",
+    "geom:latitude":58.14862,
+    "geom:longitude":6.96203,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1032.0",
+    "gn:asciiname":"Eikenes",
+    "gn:country_code":"NO",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537704,
+    "gn:latitude":58.14862,
+    "gn:longitude":6.96203,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Eikenes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Eikenes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537704
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"606765d5fc774fa82aa127297f0422ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209590823
+        }
+    ],
+    "wof:id":1209590823,
+    "wof:lastmodified":1537676025,
+    "wof:name":"Eikenes",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.96203,
+    58.14862,
+    6.96203,
+    58.14862
+],
+  "geometry": {"coordinates":[6.96203,58.14862],"type":"Point"}
+}

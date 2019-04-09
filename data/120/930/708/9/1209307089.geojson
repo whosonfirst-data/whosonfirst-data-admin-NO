@@ -1,0 +1,68 @@
+{
+  "id": 1209307089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.07769,61.89126,11.07769,61.89126",
+    "geom:latitude":61.89126,
+    "geom:longitude":11.07769,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"432.0",
+    "gn:asciiname":"Bergset",
+    "gn:country_code":"NO",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":7626329,
+    "gn:latitude":61.89126,
+    "gn:longitude":11.07769,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Bergset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Berset"
+    ],
+    "name:nor_x_variant":[
+        "Bergset"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626329
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6e4f0d0b55c23ec3d8eca3f55cd4047e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209307089
+        }
+    ],
+    "wof:id":1209307089,
+    "wof:lastmodified":1537675903,
+    "wof:name":"Bergset",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.07769,
+    61.89126,
+    11.07769,
+    61.89126
+],
+  "geometry": {"coordinates":[11.07769,61.89126],"type":"Point"}
+}

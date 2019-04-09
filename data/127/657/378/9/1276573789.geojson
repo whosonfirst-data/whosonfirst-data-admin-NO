@@ -1,0 +1,74 @@
+{
+  "id": 1276573789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.84441,61.84406,11.84441,61.84406",
+    "geom:latitude":61.84406,
+    "geom:longitude":11.84441,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"434.0",
+    "gn:asciiname":"Glotvola",
+    "gn:country_code":"NO",
+    "gn:dem":720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3155461,
+    "gn:latitude":61.84406,
+    "gn:longitude":11.84441,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Gl\u00f8tvola",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Gl\u00f8tvola"
+    ],
+    "name:nor_x_variant":[
+        "Gl\u00f8tvorda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296763,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3155461
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3ab1aee75142d1a621aa83f105cd7da8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296763,
+            "locality_id":1276573789,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1276573789,
+    "wof:lastmodified":1537675832,
+    "wof:name":"Glotvola",
+    "wof:parent_id":1159296763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.84441,
+    61.84406,
+    11.84441,
+    61.84406
+],
+  "geometry": {"coordinates":[11.84441,61.84406],"type":"Point"}
+}

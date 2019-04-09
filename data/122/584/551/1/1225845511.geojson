@@ -1,0 +1,80 @@
+{
+  "id": 1225845511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.94573,60.71789,8.94573,60.71789",
+    "geom:latitude":60.71789,
+    "geom:longitude":8.94573,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"617.0",
+    "gn:asciiname":"Asgardan",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3162683,
+    "gn:latitude":60.71789,
+    "gn:longitude":8.94573,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"\u00c5sgardan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00c5sgardan"
+    ],
+    "name:nor_x_variant":[
+        "Aasgardann",
+        "\u00c5sgardane"
+    ],
+    "name:und_x_variant":[
+        "Aasgardann",
+        "\u00c5sgardan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297373,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3162683
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"52d0200ee4a307c2571b2e714a7a1b8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297373,
+            "locality_id":1225845511,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1225845511,
+    "wof:lastmodified":1537675885,
+    "wof:name":"Asgardan",
+    "wof:parent_id":1159297373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.94573,
+    60.71789,
+    8.94573,
+    60.71789
+],
+  "geometry": {"coordinates":[8.94573,60.71789],"type":"Point"}
+}

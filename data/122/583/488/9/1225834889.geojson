@@ -1,0 +1,67 @@
+{
+  "id": 1225834889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.39218,68.54902,16.39218,68.54902",
+    "geom:latitude":68.54902,
+    "geom:longitude":16.39218,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1852.0",
+    "gn:asciiname":"Hol",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3152308,
+    "gn:latitude":68.54902,
+    "gn:longitude":16.39218,
+    "gn:modification_date":"2010-12-07",
+    "gn:name":"Hol",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297631,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3152308,
+        "wk:page":"Hol%2C_Tjeldsund"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"034f0a1615474547232cbb92b109c0a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297631,
+            "locality_id":1225834889,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1225834889,
+    "wof:lastmodified":1537570093,
+    "wof:name":"Hol",
+    "wof:parent_id":1159297631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.39218,
+    68.54902,
+    16.39218,
+    68.54902
+],
+  "geometry": {"coordinates":[16.39218,68.54902],"type":"Point"}
+}

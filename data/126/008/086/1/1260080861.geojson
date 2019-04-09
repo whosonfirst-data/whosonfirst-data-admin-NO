@@ -1,0 +1,71 @@
+{
+  "id": 1260080861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.82238,60.50141,8.82238,60.50141",
+    "geom:latitude":60.50141,
+    "geom:longitude":8.82238,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"616.0",
+    "gn:asciiname":"Lyseren",
+    "gn:country_code":"NO",
+    "gn:dem":933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535705,
+    "gn:latitude":60.50141,
+    "gn:longitude":8.82238,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Lyseren",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Lyseren"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296697,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535705
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0836ce8574d01ac740c785e2e4c4f665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296697,
+            "locality_id":1260080861,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1260080861,
+    "wof:lastmodified":1537675937,
+    "wof:name":"Lyseren",
+    "wof:parent_id":1159296697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.82238,
+    60.50141,
+    8.82238,
+    60.50141
+],
+  "geometry": {"coordinates":[8.82238,60.50141],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1225833181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.39979,61.56742,9.39979,61.56742",
+    "geom:latitude":61.56742,
+    "geom:longitude":9.39979,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"516.0",
+    "gn:asciiname":"Nysaetrin",
+    "gn:country_code":"NO",
+    "gn:dem":910,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535971,
+    "gn:latitude":61.56742,
+    "gn:longitude":9.39979,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Nys\u00e6trin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Nys\u00e6trin"
+    ],
+    "name:nor_x_variant":[
+        "Nysetra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297033,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535971
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0f1eca00c24b997195d69020bf6fb2e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297033,
+            "locality_id":1225833181,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1225833181,
+    "wof:lastmodified":1537675949,
+    "wof:name":"Nysaetrin",
+    "wof:parent_id":1159297033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.39979,
+    61.56742,
+    9.39979,
+    61.56742
+],
+  "geometry": {"coordinates":[9.39979,61.56742],"type":"Point"}
+}

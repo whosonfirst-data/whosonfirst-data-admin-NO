@@ -1,0 +1,68 @@
+{
+  "id": 1226812353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.89818,69.02006,18.89818,69.02006",
+    "geom:latitude":69.02006,
+    "geom:longitude":18.89818,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1924.0",
+    "gn:asciiname":"Rundhaug",
+    "gn:country_code":"NO",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3140940,
+    "gn:latitude":69.02006,
+    "gn:longitude":18.89818,
+    "gn:modification_date":"2013-07-13",
+    "gn:name":"Rundhaug",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296775,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3140940
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a005b27398246d15ecce013c12e4b209",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296775,
+            "locality_id":1226812353,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1226812353,
+    "wof:lastmodified":1536617548,
+    "wof:name":"Rundhaug",
+    "wof:parent_id":1159296775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.89818,
+    69.02006,
+    18.89818,
+    69.02006
+],
+  "geometry": {"coordinates":[18.89818,69.02006],"type":"Point"}
+}

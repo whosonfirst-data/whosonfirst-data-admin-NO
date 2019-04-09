@@ -1,0 +1,134 @@
+{
+  "id": 101814613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000334,
+    "geom:area_square_m":1539171.963512,
+    "geom:bbox":"13.5228587528,68.1111434015,13.5701026775,68.1304143328",
+    "geom:latitude":68.12104,
+    "geom:longitude":13.545437,
+    "gn:population":1624,
+    "iso:country":"NO",
+    "lbl:latitude":68.12369,
+    "lbl:longitude":13.541858,
+    "mps:latitude":68.12369,
+    "mps:longitude":13.541858,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Gravdal"
+    ],
+    "name:eng_x_preferred":[
+        "Gravdal"
+    ],
+    "name:fra_x_preferred":[
+        "Gravdal"
+    ],
+    "name:fre_x_preferred":[
+        "Gravdal"
+    ],
+    "name:ger_x_preferred":[
+        "Gravdal"
+    ],
+    "name:jav_x_preferred":[
+        "Gravdal"
+    ],
+    "name:may_x_preferred":[
+        "Gravdal"
+    ],
+    "name:msa_x_preferred":[
+        "Gravdal"
+    ],
+    "name:nld_x_preferred":[
+        "Gravdal"
+    ],
+    "name:nno_x_preferred":[
+        "Gravdal"
+    ],
+    "name:nob_x_preferred":[
+        "Gravdal"
+    ],
+    "name:nor_x_preferred":[
+        "Gravdal"
+    ],
+    "name:nor_x_variant":[
+        "Gravdals"
+    ],
+    "name:ron_x_preferred":[
+        "Gravdal i Vestv\u00e5g\u00f8y"
+    ],
+    "name:rum_x_preferred":[
+        "Gravdal i Vestv\u00e5g\u00f8y"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0430\u0432\u0434\u0430\u043b\u044c"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Nordland",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"Vestv\u00e5g\u00f8y",
+    "qs:la_lc":"*NO1860",
+    "qs:level":"locality",
+    "qs:loc":"Gravdal",
+    "qs:loc_alt":"Gravdal",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":403,
+    "wof:belongsto":[
+        1159297039,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01fbaa88-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3155152,
+        "gp:id":859051,
+        "qs:id":217368,
+        "qs_pg:id":217368,
+        "wd:id":"Q2211730",
+        "wk:page":"Gravdal, Nordland"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"dc3ce436bb1f83bf656ee4c1f974a5a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297039,
+            "locality_id":101814613,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":101814613,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1529700155,
+    "wof:name":"Gravdal",
+    "wof:parent_id":1159297039,
+    "wof:placetype":"locality",
+    "wof:population":1624,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.52285875278932,
+    68.11114340149328,
+    13.57010267752253,
+    68.13041433280495
+],
+  "geometry": {"coordinates":[[[13.54824294942273,68.13036781961205],[13.54756545497924,68.1258459798413],[13.54994190724369,68.12579944532979],[13.54980635239423,68.12489508176088],[13.55218270535187,68.12484851808597],[13.55191144938271,68.12303979729739],[13.54953527709125,68.12308635704488],[13.54912875010581,68.12037327602513],[13.56575987114348,68.12004674552458],[13.5653515512376,68.1173337130665],[13.57010267752253,68.11724015040824],[13.56996641336843,68.11633581181133],[13.56521546761928,68.11642937052534],[13.56507939550659,68.11552502878999],[13.5603285943115,68.11561845911461],[13.56019271421286,68.11471411424651],[13.55781739039946,68.11476078077402],[13.55727434582036,68.11114340149328],[13.55252439319611,68.11123662549727],[13.55279553160381,68.11304532138416],[13.55042036138775,68.11309189065298],[13.55055585753945,68.11399624176892],[13.54818058812469,68.11404278189053],[13.54872232624825,68.11766020226889],[13.52734124983948,68.11807773378621],[13.52761056234084,68.11988648402593],[13.52285875278932,68.11997893432044],[13.5231277495875,68.12178769559131],[13.53025599245137,68.12164896177046],[13.53039077889116,68.12255333776892],[13.53514307690921,68.12246068903755],[13.53568305942514,68.12607818548605],[13.53330655350987,68.12612453323106],[13.53344148732958,68.12702891131886],[13.53106488213194,68.12707522988921],[13.53146948096088,68.12978837486577],[13.5457306049214,68.12950996127336],[13.54586603635312,68.13041433280495],[13.54824294942273,68.13036781961205]]],"type":"Polygon"}
+}

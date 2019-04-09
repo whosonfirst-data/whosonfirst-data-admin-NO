@@ -1,0 +1,75 @@
+{
+  "id": 1210037753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.61667,60.45,5.61667,60.45",
+    "geom:latitude":60.45,
+    "geom:longitude":5.61667,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1253.0",
+    "gn:asciiname":"Skafta",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3139477,
+    "gn:latitude":60.45,
+    "gn:longitude":5.61667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Skaft\u00e5",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Skaftun",
+        "Skaftaa",
+        "Skoftun",
+        "Skaft\u00e5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297251,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3139477
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d1c4250d2d91fe3cd98973b5a1d1e65f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297251,
+            "locality_id":1210037753,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1210037753,
+    "wof:lastmodified":1537675723,
+    "wof:name":"Skafta",
+    "wof:parent_id":1159297251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.61667,
+    60.45,
+    5.61667,
+    60.45
+],
+  "geometry": {"coordinates":[5.61667,60.45],"type":"Point"}
+}

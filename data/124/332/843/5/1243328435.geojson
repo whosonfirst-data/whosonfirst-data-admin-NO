@@ -1,0 +1,71 @@
+{
+  "id": 1243328435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.49633,59.2838,10.49633,59.2838",
+    "geom:latitude":59.2838,
+    "geom:longitude":10.49633,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"704",
+    "gn:asciiname":"Skogly",
+    "gn:country_code":"NO",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404161,
+    "gn:latitude":59.2838,
+    "gn:longitude":10.49633,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Skogly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Skogly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297321,
+        85633341,
+        85687073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404161
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a1be4c11722e5894f4531e02ebaaaa1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297321,
+            "locality_id":1243328435,
+            "region_id":85687073
+        }
+    ],
+    "wof:id":1243328435,
+    "wof:lastmodified":1537675920,
+    "wof:name":"Skogly",
+    "wof:parent_id":1159297321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.49633,
+    59.2838,
+    10.49633,
+    59.2838
+],
+  "geometry": {"coordinates":[10.49633,59.2838],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276532833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.78333,66.1,12.78333,66.1",
+    "geom:latitude":66.1,
+    "geom:longitude":12.78333,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1822.0",
+    "gn:asciiname":"Litle Fagervika",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3157880,
+    "gn:latitude":66.1,
+    "gn:longitude":12.78333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Litle Fagervika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fagervika",
+        "Fagervik",
+        "Fagerviken",
+        "Litle Fagervika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297535,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3157880
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"dec64a437a7eb15266fe5b8448a8e9c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297535,
+            "locality_id":1276532833,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1276532833,
+    "wof:lastmodified":1537675849,
+    "wof:name":"Litle Fagervika",
+    "wof:parent_id":1159297535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.78333,
+    66.1,
+    12.78333,
+    66.1
+],
+  "geometry": {"coordinates":[12.78333,66.09999999999999],"type":"Point"}
+}

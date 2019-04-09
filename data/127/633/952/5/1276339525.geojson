@@ -1,0 +1,75 @@
+{
+  "id": 1276339525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.30405,68.75251,23.30405,68.75251",
+    "geom:latitude":68.75251,
+    "geom:longitude":23.30405,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2011.0",
+    "gn:asciiname":"Aidejavri",
+    "gn:country_code":"NO",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":780993,
+    "gn:latitude":68.75251,
+    "gn:longitude":23.30405,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"\u00c1idej\u00e1vri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sme_x_preferred":[
+        "\u00c1idej\u00e1vri"
+    ],
+    "name:und_x_variant":[
+        "Aiddejavrre",
+        "Ai\u2019dejav\u2019ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297043,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":780993
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"670a1a02251b13336057cd5dd1fa8353",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297043,
+            "locality_id":1276339525,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1276339525,
+    "wof:lastmodified":1537675668,
+    "wof:name":"Aidejavri",
+    "wof:parent_id":1159297043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.30405,
+    68.75251,
+    23.30405,
+    68.75251
+],
+  "geometry": {"coordinates":[23.30405,68.75251],"type":"Point"}
+}

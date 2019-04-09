@@ -1,0 +1,68 @@
+{
+  "id": 1225919951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.49509,69.26586,18.49509,69.26586",
+    "geom:latitude":69.26586,
+    "geom:longitude":18.49509,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1924.0",
+    "gn:asciiname":"Kjerresnes",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3150112,
+    "gn:latitude":69.26586,
+    "gn:longitude":18.49509,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Kjerresnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296775,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3150112
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"372d03e35752bead435adb2ce0b5836d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296775,
+            "locality_id":1225919951,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1225919951,
+    "wof:lastmodified":1536906998,
+    "wof:name":"Kjerresnes",
+    "wof:parent_id":1159296775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.49509,
+    69.26586,
+    18.49509,
+    69.26586
+],
+  "geometry": {"coordinates":[18.49509,69.26586],"type":"Point"}
+}

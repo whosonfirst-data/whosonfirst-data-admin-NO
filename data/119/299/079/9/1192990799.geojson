@@ -1,0 +1,71 @@
+{
+  "id": 1192990799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.65,62.65,11.65,62.65",
+    "geom:latitude":62.65,
+    "geom:longitude":11.65,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5025.0",
+    "gn:asciiname":"Bekkos",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3161897,
+    "gn:latitude":62.65,
+    "gn:longitude":11.65,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Bekkos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e6kos",
+        "Bekkos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297133,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3161897
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"705f03e56ccead76332f13d6f91b4b7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297133,
+            "locality_id":1192990799,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1192990799,
+    "wof:lastmodified":1537675878,
+    "wof:name":"Bekkos",
+    "wof:parent_id":1159297133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.65,
+    62.65,
+    11.65,
+    62.65
+],
+  "geometry": {"coordinates":[11.65,62.65],"type":"Point"}
+}

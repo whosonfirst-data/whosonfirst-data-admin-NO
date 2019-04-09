@@ -1,0 +1,73 @@
+{
+  "id": 1243442235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.38333,61.75,8.38333,61.75",
+    "geom:latitude":61.75,
+    "geom:longitude":8.38333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"514.0",
+    "gn:asciiname":"Roysheim",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141046,
+    "gn:latitude":61.75,
+    "gn:longitude":8.38333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"R\u00f8ysheim",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00f6isheim",
+        "R\u00f8ysheim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297573,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141046
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"95f5bac30dab1a7df08f849259d3e5ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297573,
+            "locality_id":1243442235,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1243442235,
+    "wof:lastmodified":1537675734,
+    "wof:name":"Roysheim",
+    "wof:parent_id":1159297573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.38333,
+    61.75,
+    8.38333,
+    61.75
+],
+  "geometry": {"coordinates":[8.38333,61.75],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259982847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.35133,58.52723,8.35133,58.52723",
+    "geom:latitude":58.52723,
+    "geom:longitude":8.35133,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"928.0",
+    "gn:asciiname":"Herefoss",
+    "gn:country_code":"NO",
+    "gn:dem":94,
+    "gn:elevation":"90.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3152923,
+    "gn:latitude":58.52723,
+    "gn:longitude":8.35133,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Herefoss",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297559,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3152923,
+        "wk:page":"Herefoss"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d181fc2a361ef44415772ca45e2adb5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297559,
+            "locality_id":1259982847,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1259982847,
+    "wof:lastmodified":1537570094,
+    "wof:name":"Herefoss",
+    "wof:parent_id":1159297559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.35133,
+    58.52723,
+    8.35133,
+    58.52723
+],
+  "geometry": {"coordinates":[8.35133,58.52723],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293166451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.97187,58.14928,7.97187,58.14928",
+    "geom:latitude":58.14928,
+    "geom:longitude":7.97187,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1001",
+    "gn:asciiname":"Grim",
+    "gn:country_code":"NO",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404226,
+    "gn:latitude":58.14928,
+    "gn:longitude":7.97187,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Grim",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Grim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296703,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404226,
+        "wk:page":"Grim%2C_Vest-Agder"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c13bafc4dda5190786e17ded43a0686e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296703,
+            "locality_id":1293166451,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1293166451,
+    "wof:lastmodified":1537675922,
+    "wof:name":"Grim",
+    "wof:parent_id":1159296703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.97187,
+    58.14928000000001,
+    7.97187,
+    58.14928000000001
+],
+  "geometry": {"coordinates":[7.97187,58.14928000000001],"type":"Point"}
+}

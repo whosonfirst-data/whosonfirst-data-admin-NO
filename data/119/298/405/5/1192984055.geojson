@@ -1,0 +1,68 @@
+{
+  "id": 1192984055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.72428,58.58671,6.72428,58.58671",
+    "geom:latitude":58.58671,
+    "geom:longitude":6.72428,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1046.0",
+    "gn:asciiname":"Haughom",
+    "gn:country_code":"NO",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3153617,
+    "gn:latitude":58.58671,
+    "gn:longitude":6.72428,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Haughom",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297553,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3153617
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"90015ab6fb7feeee14cf166fc180fda5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297553,
+            "locality_id":1192984055,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1192984055,
+    "wof:lastmodified":1536365589,
+    "wof:name":"Haughom",
+    "wof:parent_id":1159297553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.72428,
+    58.58671,
+    6.72428,
+    58.58671
+],
+  "geometry": {"coordinates":[6.72428,58.58671],"type":"Point"}
+}

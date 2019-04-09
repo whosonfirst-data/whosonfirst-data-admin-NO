@@ -1,0 +1,71 @@
+{
+  "id": 1226432189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.7,66.15,12.7,66.15",
+    "geom:latitude":66.15,
+    "geom:longitude":12.7,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1827.0",
+    "gn:asciiname":"Breidvik",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3160178,
+    "gn:latitude":66.15,
+    "gn:longitude":12.7,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Breidvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Breivik",
+        "Breidvik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297149,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160178
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c407aa4833dd4ffb299fe29fa41fe066",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297149,
+            "locality_id":1226432189,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1226432189,
+    "wof:lastmodified":1537675867,
+    "wof:name":"Breidvik",
+    "wof:parent_id":1159297149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.7,
+    66.15,
+    12.7,
+    66.15
+],
+  "geometry": {"coordinates":[12.7,66.15000000000001],"type":"Point"}
+}

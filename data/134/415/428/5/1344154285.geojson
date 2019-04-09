@@ -1,0 +1,74 @@
+{
+  "id": 1344154285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.40445,63.13347,8.40445,63.13347",
+    "geom:latitude":63.13347,
+    "geom:longitude":8.40445,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1571.0",
+    "gn:asciiname":"Henna",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3152967,
+    "gn:latitude":63.13347,
+    "gn:longitude":8.40445,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Henna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Henden",
+        "Hennen",
+        "Henna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296693,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3152967
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f08ffc2e2bed84c1dfca711728f30faa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296693,
+            "locality_id":1344154285,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1344154285,
+    "wof:lastmodified":1537675815,
+    "wof:name":"Henna",
+    "wof:parent_id":1159296693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.40445,
+    63.13347,
+    8.40445,
+    63.13347
+],
+  "geometry": {"coordinates":[8.40445,63.13347],"type":"Point"}
+}

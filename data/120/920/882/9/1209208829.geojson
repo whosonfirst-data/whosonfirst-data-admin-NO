@@ -1,0 +1,65 @@
+{
+  "id": 1209208829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.4,64.48333,11.4,64.48333",
+    "geom:latitude":64.48333,
+    "geom:longitude":11.4,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5005.0",
+    "gn:asciiname":"Hovik",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3151626,
+    "gn:latitude":64.48333,
+    "gn:longitude":11.4,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Hovik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Hovik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3151626
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"20a9f06af7a75cece58a838af23a2e8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209208829
+        }
+    ],
+    "wof:id":1209208829,
+    "wof:lastmodified":1537675808,
+    "wof:name":"Hovik",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.4,
+    64.48333000000001,
+    11.4,
+    64.48333000000001
+],
+  "geometry": {"coordinates":[11.4,64.48333000000001],"type":"Point"}
+}

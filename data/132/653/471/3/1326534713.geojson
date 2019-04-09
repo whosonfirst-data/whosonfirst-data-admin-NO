@@ -1,0 +1,89 @@
+{
+  "id": 1326534713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.99129,70.60692,25.99129,70.60692",
+    "geom:latitude":70.60692,
+    "geom:longitude":25.99129,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2020.0",
+    "gn:asciiname":"Keisi",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":776831,
+    "gn:latitude":70.60692,
+    "gn:longitude":25.99129,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Keisi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fkv_x_preferred":[
+        "Keisi"
+    ],
+    "name:nor_x_preferred":[
+        "Kj\u00e6s"
+    ],
+    "name:nor_x_variant":[
+        "Kj\u00e6s, yt"
+    ],
+    "name:sme_x_preferred":[
+        "D\u00e1\u014bagieddi"
+    ],
+    "name:sme_x_variant":[
+        "Da\u014bagieddi"
+    ],
+    "name:und_x_variant":[
+        "Kj\u00e6s",
+        "Kjoes",
+        "Ytre Kj\u00e6s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297563,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":776831
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f9667fab7c8a3a1fa9bd9edb0eed11bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297563,
+            "locality_id":1326534713,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1326534713,
+    "wof:lastmodified":1537675637,
+    "wof:name":"Keisi",
+    "wof:parent_id":1159297563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.99129,
+    70.60692,
+    25.99129,
+    70.60692
+],
+  "geometry": {"coordinates":[25.99129,70.60692],"type":"Point"}
+}

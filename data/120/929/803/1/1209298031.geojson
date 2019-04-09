@@ -1,0 +1,62 @@
+{
+  "id": 1209298031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.91694,59.42174,5.91694,59.42174",
+    "geom:latitude":59.42174,
+    "geom:longitude":5.91694,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1134.0",
+    "gn:asciiname":"Vormestrand",
+    "gn:country_code":"NO",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3131338,
+    "gn:latitude":59.42174,
+    "gn:longitude":5.91694,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Vormestrand",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3131338
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7394f52eda93e11137ce2edc358f9435",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209298031
+        }
+    ],
+    "wof:id":1209298031,
+    "wof:lastmodified":1536291455,
+    "wof:name":"Vormestrand",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.91694,
+    59.42174,
+    5.91694,
+    59.42174
+],
+  "geometry": {"coordinates":[5.91694,59.42174],"type":"Point"}
+}

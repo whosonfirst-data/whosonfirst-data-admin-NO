@@ -1,0 +1,63 @@
+{
+  "id": 1209599787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.74536,68.33714,14.74536,68.33714",
+    "geom:latitude":68.33714,
+    "geom:longitude":14.74536,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1865.0",
+    "gn:asciiname":"Liland",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3147489,
+    "gn:latitude":68.33714,
+    "gn:longitude":14.74536,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Liland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3147489,
+        "wk:page":"Liland%2C_V%C3%A5gan"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"61f4c6ae5d8d6576e0594324f96e3a30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209599787
+        }
+    ],
+    "wof:id":1209599787,
+    "wof:lastmodified":1537570087,
+    "wof:name":"Liland",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.74536,
+    68.33714,
+    14.74536,
+    68.33714
+],
+  "geometry": {"coordinates":[14.74536,68.33714000000001],"type":"Point"}
+}

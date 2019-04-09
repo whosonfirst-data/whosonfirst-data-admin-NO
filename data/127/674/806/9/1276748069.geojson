@@ -1,0 +1,71 @@
+{
+  "id": 1276748069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.05,66.28333,14.05,66.28333",
+    "geom:latitude":66.28333,
+    "geom:longitude":14.05,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1833.0",
+    "gn:asciiname":"Bjornbaervika",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3161289,
+    "gn:latitude":66.28333,
+    "gn:longitude":14.05,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bj\u00f8rnb\u00e6rvika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bj\u00f6rnb\u00e6rviken",
+        "Bj\u00f8rnb\u00e6rvika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296963,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3161289
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"22a0f5de1e8996f729040f8fde45c382",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296963,
+            "locality_id":1276748069,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1276748069,
+    "wof:lastmodified":1537675874,
+    "wof:name":"Bjornbaervika",
+    "wof:parent_id":1159296963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.05,
+    66.28333,
+    14.05,
+    66.28333
+],
+  "geometry": {"coordinates":[14.05,66.28333000000001],"type":"Point"}
+}

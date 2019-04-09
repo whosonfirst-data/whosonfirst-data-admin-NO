@@ -1,0 +1,72 @@
+{
+  "id": 1309897515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.6799,60.83626,6.6799,60.83626",
+    "geom:latitude":60.83626,
+    "geom:longitude":6.6799,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1235.0",
+    "gn:asciiname":"Stalheim",
+    "gn:country_code":"NO",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535738,
+    "gn:latitude":60.83626,
+    "gn:longitude":6.6799,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Stalheim",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Stalheim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296873,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535738,
+        "wk:page":"Stalheim"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a50482b8cbb95ad48e595791363b1d45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296873,
+            "locality_id":1309897515,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1309897515,
+    "wof:lastmodified":1537675939,
+    "wof:name":"Stalheim",
+    "wof:parent_id":1159296873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.6799,
+    60.83626,
+    6.6799,
+    60.83626
+],
+  "geometry": {"coordinates":[6.6799,60.83626],"type":"Point"}
+}

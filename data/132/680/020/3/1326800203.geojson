@@ -1,0 +1,69 @@
+{
+  "id": 1326800203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.75,63.78333,8.75,63.78333",
+    "geom:latitude":63.78333,
+    "geom:longitude":8.75,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5014.0",
+    "gn:asciiname":"Dragsnes",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3159025,
+    "gn:latitude":63.78333,
+    "gn:longitude":8.75,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Dragsnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Dragsnes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297521,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3159025
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e0a5fe2f75b10dbed61f8a6f8a9107e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297521,
+            "locality_id":1326800203,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1326800203,
+    "wof:lastmodified":1537675859,
+    "wof:name":"Dragsnes",
+    "wof:parent_id":1159297521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.75,
+    63.78333000000001,
+    8.75,
+    63.78333000000001
+],
+  "geometry": {"coordinates":[8.75,63.78333000000001],"type":"Point"}
+}

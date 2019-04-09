@@ -1,0 +1,73 @@
+{
+  "id": 1276725243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.92917,69.06472,16.92917,69.06472",
+    "geom:latitude":69.06472,
+    "geom:longitude":16.92917,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1927.0",
+    "gn:asciiname":"Buvika",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3159617,
+    "gn:latitude":69.06472,
+    "gn:longitude":16.92917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Buvika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buvik",
+        "Buvika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297595,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3159617
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d115dda7a4e8366a87ddd7232496c28a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297595,
+            "locality_id":1276725243,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1276725243,
+    "wof:lastmodified":1537675863,
+    "wof:name":"Buvika",
+    "wof:parent_id":1159297595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.92917000000001,
+    69.06472,
+    16.92917000000001,
+    69.06472
+],
+  "geometry": {"coordinates":[16.92917000000001,69.06471999999999],"type":"Point"}
+}

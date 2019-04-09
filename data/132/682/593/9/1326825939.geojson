@@ -1,0 +1,72 @@
+{
+  "id": 1326825939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.59097,68.18904,13.59097,68.18904",
+    "geom:latitude":68.18904,
+    "geom:longitude":13.59097,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1860.0",
+    "gn:asciiname":"Tjeldbugan",
+    "gn:country_code":"NO",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537175,
+    "gn:latitude":68.18904,
+    "gn:longitude":13.59097,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Tjeldbugan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Tjeldbugan"
+    ],
+    "name:nor_x_variant":[
+        "Kjellbogen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297039,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537175
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"eaf46bc05ba82504cdf1b46ae0032c94",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297039,
+            "locality_id":1326825939,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1326825939,
+    "wof:lastmodified":1537676000,
+    "wof:name":"Tjeldbugan",
+    "wof:parent_id":1159297039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.59097,
+    68.18904,
+    13.59097,
+    68.18904
+],
+  "geometry": {"coordinates":[13.59097,68.18904000000001],"type":"Point"}
+}

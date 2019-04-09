@@ -1,0 +1,83 @@
+{
+  "id": 1225920021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.38669,70.13662,20.38669,70.13662",
+    "geom:latitude":70.13662,
+    "geom:longitude":20.38669,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1941.0",
+    "gn:asciiname":"Sor-Rekvika",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":777580,
+    "gn:latitude":70.13662,
+    "gn:longitude":20.38669,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"S\u00f8r-Rekvika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "S\u00f8r-Rekvika"
+    ],
+    "name:nor_x_variant":[
+        "S\u00f8r-Rekvik"
+    ],
+    "name:und_x_variant":[
+        "R\u00e6kvik",
+        "S\u00f8re R\u00e6kvik",
+        "Rekvik",
+        "R\u00e4kvik",
+        "Roekvik",
+        "S\u00f8re Rekvik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297483,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":777580
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7cd3edf4aed5f0da953fc5e91d7c77c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297483,
+            "locality_id":1225920021,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1225920021,
+    "wof:lastmodified":1537675643,
+    "wof:name":"Sor-Rekvika",
+    "wof:parent_id":1159297483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.38669,
+    70.13662,
+    20.38669,
+    70.13662
+],
+  "geometry": {"coordinates":[20.38669,70.13661999999999],"type":"Point"}
+}

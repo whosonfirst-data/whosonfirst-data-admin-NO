@@ -1,0 +1,71 @@
+{
+  "id": 1293277801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.8116,62.57965,7.8116,62.57965",
+    "geom:latitude":62.57965,
+    "geom:longitude":7.8116,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1539.0",
+    "gn:asciiname":"Hatlen nedre",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536797,
+    "gn:latitude":62.57965,
+    "gn:longitude":7.8116,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Hatlen nedre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Hatlen nedre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297421,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536797
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"408aa34420b57a07521d5d5e11b47f96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297421,
+            "locality_id":1293277801,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1293277801,
+    "wof:lastmodified":1537675984,
+    "wof:name":"Hatlen nedre",
+    "wof:parent_id":1159297421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.8116,
+    62.57965,
+    7.8116,
+    62.57965
+],
+  "geometry": {"coordinates":[7.8116,62.57965],"type":"Point"}
+}

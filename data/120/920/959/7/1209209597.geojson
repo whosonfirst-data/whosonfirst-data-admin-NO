@@ -1,0 +1,68 @@
+{
+  "id": 1209209597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.18333,65.63333,12.18333,65.63333",
+    "geom:latitude":65.63333,
+    "geom:longitude":12.18333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1815.0",
+    "gn:asciiname":"Ylvingen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3131275,
+    "gn:latitude":65.63333,
+    "gn:longitude":12.18333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ylvingen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ulvingen",
+        "Ulvingensj\u00f6en",
+        "Ylvingen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3131275
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c9e371256933db0e596dcdbfa9a8cff2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209209597
+        }
+    ],
+    "wof:id":1209209597,
+    "wof:lastmodified":1537675672,
+    "wof:name":"Ylvingen",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.18333,
+    65.63333,
+    12.18333,
+    65.63333
+],
+  "geometry": {"coordinates":[12.18333,65.63333],"type":"Point"}
+}

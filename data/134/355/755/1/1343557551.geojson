@@ -1,0 +1,71 @@
+{
+  "id": 1343557551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.8,66.3,13.8,66.3",
+    "geom:latitude":66.3,
+    "geom:longitude":13.8,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1833.0",
+    "gn:asciiname":"Jamtjorda",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3150921,
+    "gn:latitude":66.3,
+    "gn:longitude":13.8,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jamtjorda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jamtjorden",
+        "Jamtjorda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296963,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3150921
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d34d25bc88a7bd38a78a77c3ac62b39c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296963,
+            "locality_id":1343557551,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1343557551,
+    "wof:lastmodified":1537675803,
+    "wof:name":"Jamtjorda",
+    "wof:parent_id":1159296963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.8,
+    66.3,
+    13.8,
+    66.3
+],
+  "geometry": {"coordinates":[13.8,66.3],"type":"Point"}
+}

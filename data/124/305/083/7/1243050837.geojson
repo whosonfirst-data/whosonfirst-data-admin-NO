@@ -1,0 +1,68 @@
+{
+  "id": 1243050837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.55,61.5,5.55,61.5",
+    "geom:latitude":61.5,
+    "geom:longitude":5.55,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1433.0",
+    "gn:asciiname":"Ovre Redal",
+    "gn:country_code":"NO",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3142977,
+    "gn:latitude":61.5,
+    "gn:longitude":5.55,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"\u00d8vre Redal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297179,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3142977
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c2018897273746c30c8cef4294fd34ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297179,
+            "locality_id":1243050837,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1243050837,
+    "wof:lastmodified":1536878053,
+    "wof:name":"Ovre Redal",
+    "wof:parent_id":1159297179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.55,
+    61.5,
+    5.55,
+    61.5
+],
+  "geometry": {"coordinates":[5.55,61.5],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209609731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.58333,60.53333,5.58333,60.53333",
+    "geom:latitude":60.53333,
+    "geom:longitude":5.58333,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1253.0",
+    "gn:asciiname":"Njastad",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3144544,
+    "gn:latitude":60.53333,
+    "gn:longitude":5.58333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nj\u00e5stad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Njaastad",
+        "Nj\u00e5stad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3144544
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"32168ef122ae52d7a7a6cf78c5943cac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209609731
+        }
+    ],
+    "wof:id":1209609731,
+    "wof:lastmodified":1537675757,
+    "wof:name":"Njastad",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.58333,
+    60.53333000000001,
+    5.58333,
+    60.53333000000001
+],
+  "geometry": {"coordinates":[5.58333,60.53333000000001],"type":"Point"}
+}

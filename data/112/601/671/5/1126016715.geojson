@@ -1,0 +1,118 @@
+{
+  "id": 1126016715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0,67.11667,15.0,67.11667",
+    "geom:latitude":67.11667,
+    "geom:longitude":15.0,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":251,
+    "gn:population":251,
+    "iso:country":"NO",
+    "lbl:latitude":67.11667,
+    "lbl:longitude":15.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Misv\u00e6r"
+    ],
+    "name:eng_x_preferred":[
+        "Misv\u00e6r"
+    ],
+    "name:fre_x_preferred":[
+        "Misv\u00e6r"
+    ],
+    "name:jav_x_preferred":[
+        "Misv\u00e6r"
+    ],
+    "name:may_x_preferred":[
+        "Misv\u00e6r"
+    ],
+    "name:nno_x_preferred":[
+        "Misv\u00e6r"
+    ],
+    "name:nob_x_preferred":[
+        "Misv\u00e6r"
+    ],
+    "name:rum_x_preferred":[
+        "Misv\u00e6r"
+    ],
+    "name:swe_x_preferred":[
+        "Misv\u00e6r"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3145825,
+    "qs_pg:gn_pop":251,
+    "qs_pg:name":"Misv\u00e6r",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nordland Fylke",
+    "qs_pg:photos":53,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":53,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":249043,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":861820,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Nordland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159297465,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3145825,
+        "gp:id":861820,
+        "qs_pg:id":249043,
+        "wd:id":"Q3055247"
+    },
+    "wof:country":"NO",
+    "wof:created":1497300592,
+    "wof:geomhash":"58144fcf7e1e6e98e07130a8a6b80dd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297465,
+            "locality_id":1126016715,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1126016715,
+    "wof:lastmodified":1529700171,
+    "wof:name":"Misv\u00e6r",
+    "wof:parent_id":1159297465,
+    "wof:placetype":"locality",
+    "wof:population":251,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0,
+    67.11667,
+    15.0,
+    67.11667
+],
+  "geometry": {"coordinates":[15.0,67.11667],"type":"Point"}
+}

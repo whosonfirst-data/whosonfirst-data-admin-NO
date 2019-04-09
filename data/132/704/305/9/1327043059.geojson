@@ -1,0 +1,71 @@
+{
+  "id": 1327043059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.97873,58.55046,8.97873,58.55046",
+    "geom:latitude":58.55046,
+    "geom:longitude":8.97873,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"906",
+    "gn:asciiname":"Brennvika",
+    "gn:country_code":"NO",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404209,
+    "gn:latitude":58.55046,
+    "gn:longitude":8.97873,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Brennvika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Brennvika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297607,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404209
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4e10bc7c3b6c9e36b06c92fed238de06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297607,
+            "locality_id":1327043059,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1327043059,
+    "wof:lastmodified":1537675922,
+    "wof:name":"Brennvika",
+    "wof:parent_id":1159297607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.97873,
+    58.55046,
+    8.97873,
+    58.55046
+],
+  "geometry": {"coordinates":[8.97873,58.55046],"type":"Point"}
+}

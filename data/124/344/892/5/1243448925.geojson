@@ -1,0 +1,71 @@
+{
+  "id": 1243448925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.55,65.05,12.55,65.05",
+    "geom:latitude":65.05,
+    "geom:longitude":12.55,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1811.0",
+    "gn:asciiname":"Skarstad",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3139225,
+    "gn:latitude":65.05,
+    "gn:longitude":12.55,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Skarstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Skarstadhamn",
+        "Skarstad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296909,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3139225
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"fd8ee24304756cf61d5a8e2d73f02c0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296909,
+            "locality_id":1243448925,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1243448925,
+    "wof:lastmodified":1537675721,
+    "wof:name":"Skarstad",
+    "wof:parent_id":1159296909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.55,
+    65.05,
+    12.55,
+    65.05
+],
+  "geometry": {"coordinates":[12.55,65.05],"type":"Point"}
+}

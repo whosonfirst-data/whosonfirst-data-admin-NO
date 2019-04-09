@@ -1,0 +1,68 @@
+{
+  "id": 1242641033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.69002,59.09818,9.69002,59.09818",
+    "geom:latitude":59.09818,
+    "geom:longitude":9.69002,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"805.0",
+    "gn:asciiname":"Skjelsvika",
+    "gn:country_code":"NO",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3138892,
+    "gn:latitude":59.09818,
+    "gn:longitude":9.69002,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Skjelsvika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296755,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3138892
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7e180d7e688c17f1f31c91f3fe2cadbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296755,
+            "locality_id":1242641033,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1242641033,
+    "wof:lastmodified":1536972188,
+    "wof:name":"Skjelsvika",
+    "wof:parent_id":1159296755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.69002,
+    59.09818000000001,
+    9.69002,
+    59.09818000000001
+],
+  "geometry": {"coordinates":[9.69002,59.09818000000001],"type":"Point"}
+}

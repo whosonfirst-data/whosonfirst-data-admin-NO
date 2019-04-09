@@ -1,0 +1,71 @@
+{
+  "id": 1192988183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.4033,64.19763,10.4033,64.19763",
+    "geom:latitude":64.19763,
+    "geom:longitude":10.4033,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5019.0",
+    "gn:asciiname":"Hofstad",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3152474,
+    "gn:latitude":64.19763,
+    "gn:longitude":10.4033,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Hofstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hoffstad",
+        "Hofstad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297423,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3152474
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9c78c8321f80913c9be22e7762f739c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297423,
+            "locality_id":1192988183,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1192988183,
+    "wof:lastmodified":1537675813,
+    "wof:name":"Hofstad",
+    "wof:parent_id":1159297423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4033,
+    64.19763,
+    10.4033,
+    64.19763
+],
+  "geometry": {"coordinates":[10.4033,64.19763],"type":"Point"}
+}

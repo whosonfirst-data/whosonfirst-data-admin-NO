@@ -1,0 +1,66 @@
+{
+  "id": 1260171093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.50402,67.60636,15.50402,67.60636",
+    "geom:latitude":67.60636,
+    "geom:longitude":15.50402,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1845.0",
+    "gn:asciiname":"Tennvatnet",
+    "gn:country_code":"NO",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3134677,
+    "gn:latitude":67.60636,
+    "gn:longitude":15.50402,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Tennvatnet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296959,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3134677
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7184ac6bb07c199ae5b330277d21b4ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296959,
+            "locality_id":1260171093,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1260171093,
+    "wof:lastmodified":1536863620,
+    "wof:name":"Tennvatnet",
+    "wof:parent_id":1159296959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.50402,
+    67.60636,
+    15.50402,
+    67.60636
+],
+  "geometry": {"coordinates":[15.50402,67.60636],"type":"Point"}
+}

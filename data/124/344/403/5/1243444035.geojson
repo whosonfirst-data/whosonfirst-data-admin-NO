@@ -1,0 +1,71 @@
+{
+  "id": 1243444035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.15,66.4,14.15,66.4",
+    "geom:latitude":66.4,
+    "geom:longitude":14.15,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1833.0",
+    "gn:asciiname":"Bjornvassdalen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3161195,
+    "gn:latitude":66.4,
+    "gn:longitude":14.15,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bj\u00f8rnvassdalen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bj\u00f6rnvasdalen",
+        "Bj\u00f8rnvassdalen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296963,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3161195
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"00e824cf4b80093bf6b4eb61060fc9a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296963,
+            "locality_id":1243444035,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1243444035,
+    "wof:lastmodified":1537675874,
+    "wof:name":"Bjornvassdalen",
+    "wof:parent_id":1159296963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.15,
+    66.4,
+    14.15,
+    66.4
+],
+  "geometry": {"coordinates":[14.15,66.40000000000001],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 1125818131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.03333,68.85,17.03333,68.85",
+    "geom:latitude":68.85,
+    "geom:longitude":17.03333,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":68.85,
+    "lbl:longitude":17.03333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:nor_x_preferred":[
+        "Roldnes"
+    ],
+    "name:nor_x_variant":[
+        "Nordrollnes"
+    ],
+    "name:sme_x_preferred":[
+        "Nuorta-R\u00e1llegeah\u010di"
+    ],
+    "name:unk_x_variant":[
+        "Rolnes"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3141461,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Rollnes",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Troms Fylke",
+    "qs_pg:photos":27,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":27,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1167503,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":863080,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Troms Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296917,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141461,
+        "gp:id":863080,
+        "qs_pg:id":1167503
+    },
+    "wof:country":"NO",
+    "wof:created":1497291930,
+    "wof:geomhash":"d0bb0156eab9ff5f655a9f4db8c01d92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296917,
+            "locality_id":1125818131,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1125818131,
+    "wof:lastmodified":1529700454,
+    "wof:name":"Rollnes",
+    "wof:parent_id":1159296917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.03333,
+    68.85,
+    17.03333,
+    68.85
+],
+  "geometry": {"coordinates":[17.03333,68.84999999999999],"type":"Point"}
+}

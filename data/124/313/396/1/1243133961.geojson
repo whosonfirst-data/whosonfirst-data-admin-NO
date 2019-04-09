@@ -1,0 +1,71 @@
+{
+  "id": 1243133961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.38597,59.65454,10.38597,59.65454",
+    "geom:latitude":59.65454,
+    "geom:longitude":10.38597,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"711",
+    "gn:asciiname":"Hella",
+    "gn:country_code":"NO",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404401,
+    "gn:latitude":59.65454,
+    "gn:longitude":10.38597,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Hella",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Hella"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297457,
+        85633341,
+        85687073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404401
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f30889c979a63c573eeba76405ff3531",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297457,
+            "locality_id":1243133961,
+            "region_id":85687073
+        }
+    ],
+    "wof:id":1243133961,
+    "wof:lastmodified":1537675930,
+    "wof:name":"Hella",
+    "wof:parent_id":1159297457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.38597,
+    59.65454,
+    10.38597,
+    59.65454
+],
+  "geometry": {"coordinates":[10.38597,59.65454],"type":"Point"}
+}

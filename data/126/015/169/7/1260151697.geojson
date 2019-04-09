@@ -1,0 +1,68 @@
+{
+  "id": 1260151697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.33333,59.23333,5.33333,59.23333",
+    "geom:latitude":59.23333,
+    "geom:longitude":5.33333,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1149.0",
+    "gn:asciiname":"Snorteland",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3138009,
+    "gn:latitude":59.23333,
+    "gn:longitude":5.33333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Snorteland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297005,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3138009
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"17a9a781feacb81b8cc6432a715fd408",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297005,
+            "locality_id":1260151697,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1260151697,
+    "wof:lastmodified":1536891208,
+    "wof:name":"Snorteland",
+    "wof:parent_id":1159297005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.33333,
+    59.23333,
+    5.33333,
+    59.23333
+],
+  "geometry": {"coordinates":[5.33333,59.23333],"type":"Point"}
+}

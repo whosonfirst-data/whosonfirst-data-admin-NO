@@ -1,0 +1,71 @@
+{
+  "id": 1276732181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.35,62.83333,11.35,62.83333",
+    "geom:latitude":62.83333,
+    "geom:longitude":11.35,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5026.0",
+    "gn:asciiname":"Bonnstu",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3160711,
+    "gn:latitude":62.83333,
+    "gn:longitude":11.35,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"B\u00f8nnstu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bonstuen",
+        "B\u00f8nnstu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296983,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160711
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"46f0415b12c6405252d3935ffb851cc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296983,
+            "locality_id":1276732181,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1276732181,
+    "wof:lastmodified":1537675871,
+    "wof:name":"Bonnstu",
+    "wof:parent_id":1159296983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.35,
+    62.83333,
+    11.35,
+    62.83333
+],
+  "geometry": {"coordinates":[11.35,62.83333],"type":"Point"}
+}

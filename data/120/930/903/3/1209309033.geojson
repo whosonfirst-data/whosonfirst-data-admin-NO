@@ -1,0 +1,68 @@
+{
+  "id": 1209309033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.6,59.93333,6.6,59.93333",
+    "geom:latitude":59.93333,
+    "geom:longitude":6.6,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1228.0",
+    "gn:asciiname":"Steinaberg",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3137029,
+    "gn:latitude":59.93333,
+    "gn:longitude":6.6,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Steinaberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Steinabergbru",
+        "Steneberg",
+        "Steinaberg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3137029
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a8c7f21224a6b0ae682237a6b56c0e86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209309033
+        }
+    ],
+    "wof:id":1209309033,
+    "wof:lastmodified":1537675707,
+    "wof:name":"Steinaberg",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.6,
+    59.93333000000001,
+    6.6,
+    59.93333000000001
+],
+  "geometry": {"coordinates":[6.6,59.93333000000001],"type":"Point"}
+}

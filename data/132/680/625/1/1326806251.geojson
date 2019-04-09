@@ -1,0 +1,68 @@
+{
+  "id": 1326806251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.4,68.83333,18.4,68.83333",
+    "geom:latitude":68.83333,
+    "geom:longitude":18.4,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1922.0",
+    "gn:asciiname":"Hundtorp",
+    "gn:country_code":"NO",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3151439,
+    "gn:latitude":68.83333,
+    "gn:longitude":18.4,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Hundtorp",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297189,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3151439
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ec501011bf8ec806197d9f4b260c07d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297189,
+            "locality_id":1326806251,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1326806251,
+    "wof:lastmodified":1537083108,
+    "wof:name":"Hundtorp",
+    "wof:parent_id":1159297189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.4,
+    68.83333,
+    18.4,
+    68.83333
+],
+  "geometry": {"coordinates":[18.4,68.83333],"type":"Point"}
+}

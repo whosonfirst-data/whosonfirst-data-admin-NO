@@ -1,0 +1,74 @@
+{
+  "id": 1360160949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.16667,59.71667,7.16667,59.71667",
+    "geom:latitude":59.71667,
+    "geom:longitude":7.16667,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"834.0",
+    "gn:asciiname":"Viviki",
+    "gn:country_code":"NO",
+    "gn:dem":1162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3131470,
+    "gn:latitude":59.71667,
+    "gn:longitude":7.16667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Viviki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vivik",
+        "Viviken",
+        "Vivasvik",
+        "Viviki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297225,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3131470
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"39454df1fb8a27f52637d8ba163bbd9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297225,
+            "locality_id":1360160949,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1360160949,
+    "wof:lastmodified":1537675674,
+    "wof:name":"Viviki",
+    "wof:parent_id":1159297225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.16667,
+    59.71666999999999,
+    7.16667,
+    59.71666999999999
+],
+  "geometry": {"coordinates":[7.16667,59.71666999999999],"type":"Point"}
+}

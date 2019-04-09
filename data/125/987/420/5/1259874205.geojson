@@ -1,0 +1,74 @@
+{
+  "id": 1259874205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.56667,60.25,6.56667,60.25",
+    "geom:latitude":60.25,
+    "geom:longitude":6.56667,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1231.0",
+    "gn:asciiname":"Bleie",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3161009,
+    "gn:latitude":60.25,
+    "gn:longitude":6.56667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bleie",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bleien",
+        "Bleie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296999,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3161009,
+        "wk:page":"Bleie"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"de20c57fc37b606bcda458c2ba09befd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296999,
+            "locality_id":1259874205,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1259874205,
+    "wof:lastmodified":1537675873,
+    "wof:name":"Bleie",
+    "wof:parent_id":1159296999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.56667,
+    60.25,
+    6.56667,
+    60.25
+],
+  "geometry": {"coordinates":[6.56667,60.25],"type":"Point"}
+}

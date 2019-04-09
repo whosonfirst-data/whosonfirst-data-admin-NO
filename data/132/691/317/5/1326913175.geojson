@@ -1,0 +1,73 @@
+{
+  "id": 1326913175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.08333,61.81667,5.08333,61.81667",
+    "geom:latitude":61.81667,
+    "geom:longitude":5.08333,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1438.0",
+    "gn:asciiname":"Skarstein",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3139222,
+    "gn:latitude":61.81667,
+    "gn:longitude":5.08333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Skarstein",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Skarsten",
+        "Skarstein"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297195,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3139222
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c76da5a59a68730fc7830ad4df152941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297195,
+            "locality_id":1326913175,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1326913175,
+    "wof:lastmodified":1537675721,
+    "wof:name":"Skarstein",
+    "wof:parent_id":1159297195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.08333,
+    61.81667,
+    5.08333,
+    61.81667
+],
+  "geometry": {"coordinates":[5.08333,61.81667],"type":"Point"}
+}

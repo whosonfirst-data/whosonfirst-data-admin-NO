@@ -1,0 +1,102 @@
+{
+  "id": 85904527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6918751.288709,
+    "geom:bbox":"10.477169,63.404045,10.477169,63.404045",
+    "geom:latitude":63.404045,
+    "geom:longitude":10.477169,
+    "gn:id":"",
+    "iso:country":"NO",
+    "lbl:latitude":63.404045,
+    "lbl:longitude":10.477169,
+    "mps:latitude":63.395184,
+    "mps:longitude":10.493589,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:nor_x_preferred":[
+        "Stokkanhaugen"
+    ],
+    "name:unk_x_variant":[
+        "Stokkanhaugen"
+    ],
+    "qs:gn_adm0_cc":"NO",
+    "qs:gn_id":0,
+    "qs:gn_local":3133880,
+    "qs:local_max":5709,
+    "qs:local_sum":31956,
+    "qs:localhoods":65,
+    "qs:name":"Stokkanhaugen",
+    "qs:name_adm0":"Norge",
+    "qs:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
+    "qs:name_adm2":"Trondheim Kommune",
+    "qs:name_local":"Trondheim",
+    "qs:photo_max":247,
+    "qs:photo_sum":532,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":35,
+    "qs:woe_adm0":23424910,
+    "qs:woe_adm1":2346399,
+    "qs:woe_adm2":12592932,
+    "qs:woe_lau":0,
+    "qs:woe_local":865157,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85687127,
+        1159297145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20100506,
+        "qs:id":1256974,
+        "qs_pg:id":1256974
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"77d4a515f0868bb4ecabda6e6d937b55",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297145,
+            "locality_id":-1,
+            "neighbourhood_id":85904527,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":85904527,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1531936252,
+    "wof:name":"Stokkanhaugen",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.477169,
+    63.404045,
+    10.477169,
+    63.404045
+],
+  "geometry": {"coordinates":[10.477169,63.404045],"type":"Point"}
+}

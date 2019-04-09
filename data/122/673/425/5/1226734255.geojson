@@ -1,0 +1,66 @@
+{
+  "id": 1226734255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.57485,68.85058,15.57485,68.85058",
+    "geom:latitude":68.85058,
+    "geom:longitude":15.57485,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1871.0",
+    "gn:asciiname":"Meby",
+    "gn:country_code":"NO",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3146239,
+    "gn:latitude":68.85058,
+    "gn:longitude":15.57485,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Meby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297539,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3146239
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"fddf98db5369b9da4c214873d22bd422",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297539,
+            "locality_id":1226734255,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1226734255,
+    "wof:lastmodified":1536732367,
+    "wof:name":"Meby",
+    "wof:parent_id":1159297539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.57485,
+    68.85058000000001,
+    15.57485,
+    68.85058000000001
+],
+  "geometry": {"coordinates":[15.57485,68.85058000000001],"type":"Point"}
+}

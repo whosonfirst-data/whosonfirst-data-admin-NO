@@ -1,0 +1,68 @@
+{
+  "id": 1310014587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.91692,58.45909,7.91692,58.45909",
+    "geom:latitude":58.45909,
+    "geom:longitude":7.91692,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"935.0",
+    "gn:asciiname":"Birketveit",
+    "gn:country_code":"NO",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":7626351,
+    "gn:latitude":58.45909,
+    "gn:longitude":7.91692,
+    "gn:modification_date":"2010-12-07",
+    "gn:name":"Birketveit",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297433,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626351
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9baf54986822341bbfdd618b94f7ac13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297433,
+            "locality_id":1310014587,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1310014587,
+    "wof:lastmodified":1536628391,
+    "wof:name":"Birketveit",
+    "wof:parent_id":1159297433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.91692,
+    58.45909,
+    7.91692,
+    58.45909
+],
+  "geometry": {"coordinates":[7.91692,58.45909],"type":"Point"}
+}

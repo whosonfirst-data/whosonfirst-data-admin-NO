@@ -1,0 +1,71 @@
+{
+  "id": 1259355409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.2,63.18333,11.2,63.18333",
+    "geom:latitude":63.18333,
+    "geom:longitude":11.2,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5032.0",
+    "gn:asciiname":"Rollset",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141460,
+    "gn:latitude":63.18333,
+    "gn:longitude":11.2,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Rollset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rolset",
+        "Rollset"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296977,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141460
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"42204fa4d2554b779c317a606ab1f62a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296977,
+            "locality_id":1259355409,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1259355409,
+    "wof:lastmodified":1537675738,
+    "wof:name":"Rollset",
+    "wof:parent_id":1159296977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.2,
+    63.18333000000001,
+    11.2,
+    63.18333000000001
+],
+  "geometry": {"coordinates":[11.2,63.18333000000001],"type":"Point"}
+}

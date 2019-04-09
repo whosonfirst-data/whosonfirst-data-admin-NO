@@ -1,0 +1,71 @@
+{
+  "id": 1343379193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.07904,64.91814,13.07904,64.91814",
+    "geom:latitude":64.91814,
+    "geom:longitude":13.07904,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5044.0",
+    "gn:asciiname":"Bjorhusdalen",
+    "gn:country_code":"NO",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3161375,
+    "gn:latitude":64.91814,
+    "gn:longitude":13.07904,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Bj\u00f8rhusdalen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Bj\u00f8rhusdalen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296771,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3161375
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5b019822d944844173f68cdc4bfd0296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296771,
+            "locality_id":1343379193,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1343379193,
+    "wof:lastmodified":1537675875,
+    "wof:name":"Bjorhusdalen",
+    "wof:parent_id":1159296771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.07904,
+    64.91814000000001,
+    13.07904,
+    64.91814000000001
+],
+  "geometry": {"coordinates":[13.07904,64.91814000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276860515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.25,64.66667,11.25,64.66667",
+    "geom:latitude":64.66667,
+    "geom:longitude":11.25,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5048.0",
+    "gn:asciiname":"Fosnes",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3156676,
+    "gn:latitude":64.66667,
+    "gn:longitude":11.25,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Fosnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fosnesv\u00e5gen",
+        "Fosnes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297159,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3156676
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f46f90b5d30e3d617c868d469f4f2e37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297159,
+            "locality_id":1276860515,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1276860515,
+    "wof:lastmodified":1537675840,
+    "wof:name":"Fosnes",
+    "wof:parent_id":1159297159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.25,
+    64.66667,
+    11.25,
+    64.66667
+],
+  "geometry": {"coordinates":[11.25,64.66667],"type":"Point"}
+}

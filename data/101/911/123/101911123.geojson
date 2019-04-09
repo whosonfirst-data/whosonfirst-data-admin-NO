@@ -1,0 +1,130 @@
+{
+  "id": 101911123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000111,
+    "geom:area_square_m":676178.91765,
+    "geom:bbox":"5.21034456195,60.5670440993,5.22849547339,60.5821842716",
+    "geom:latitude":60.574852,
+    "geom:longitude":5.220489,
+    "gn:population":8093,
+    "iso:country":"NO",
+    "lbl:latitude":60.572387,
+    "lbl:longitude":5.223651,
+    "mps:latitude":60.572387,
+    "mps:longitude":5.223651,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "San Jer\u00f3nimo"
+    ],
+    "name:eng_x_preferred":[
+        "S. Jeronimo"
+    ],
+    "name:fra_x_preferred":[
+        "San Jer\u00f3nimo"
+    ],
+    "name:ita_x_preferred":[
+        "San Jer\u00f3nimo"
+    ],
+    "name:pol_x_preferred":[
+        "San Jer\u00f3nimo"
+    ],
+    "name:por_x_preferred":[
+        "San Jer\u00f3nimo"
+    ],
+    "name:spa_x_colloquial":[
+        "S Jeronimo Verapaz",
+        "S. Jeronimo Verapaz",
+        "San Jeronimo",
+        "San Jeronimo Verapaz"
+    ],
+    "name:spa_x_preferred":[
+        "San Jer\u00f3nimo"
+    ],
+    "name:spa_x_variant":[
+        "S Jer\u00f3nimo",
+        "S Jer\u00f3nimo Verapaz",
+        "S. Jer\u00f3nimo",
+        "S. Jer\u00f3nimo Verapaz",
+        "San Jer\u00f3nimo Verapaz"
+    ],
+    "name:swe_x_preferred":[
+        "San Jer\u00f3nimo"
+    ],
+    "name:unk_x_variant":[
+        "San Jer\u00f3nimo"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u8d6b\u7f85\u5c3c\u83ab"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Hordaland",
+    "qs:a1r":"5",
+    "qs:adm0":"Norge",
+    "qs:id":0,
+    "qs:la":"Lind\u00e5s",
+    "qs:la_lc":"*NO1263",
+    "qs:level":"locality",
+    "qs:loc":"Alversund",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296745,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"1154f4ee-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3590114,
+        "gp:id":856595,
+        "qs:id":279805,
+        "qs_pg:id":1089180,
+        "wd:id":"Q962529",
+        "wk:page":"San Jer\u00f3nimo, Baja Verapaz"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"743dedbde62c6621d689ecbdac4e4207",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296745,
+            "locality_id":101911123,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":101911123,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1529700044,
+    "wof:name":"Alversund",
+    "wof:parent_id":1159296745,
+    "wof:placetype":"locality",
+    "wof:population":8093,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.21034456194997,
+    60.56704409927573,
+    5.22849547338836,
+    60.58218427158664
+],
+  "geometry": {"coordinates":[[[5.21760428102976,60.58218427158664],[5.21825440373561,60.57769556242744],[5.22188381136414,60.57781701821563],[5.22214360740622,60.5760215290133],[5.22758747223679,60.57620352895464],[5.22849547338836,60.56991928629293],[5.22668118812186,60.56985865565201],[5.22694064152853,60.56806316390362],[5.22512646040298,60.56800251396913],[5.22525622380658,60.56710477035813],[5.22344209788565,60.56704409927573],[5.22331228555498,60.56794184102961],[5.22149811698739,60.56788114508498],[5.2212383699914,60.56967662568985],[5.21942410984536,60.56961590302313],[5.21838440375797,60.57679782140934],[5.21294048638111,60.57661547071802],[5.21268018440617,60.57841094185795],[5.21086545995632,60.57835010854609],[5.21034456194997,60.58194104662505],[5.21760428102976,60.58218427158664]]],"type":"Polygon"}
+}

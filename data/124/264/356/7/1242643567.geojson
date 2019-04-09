@@ -1,0 +1,71 @@
+{
+  "id": 1242643567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.00444,70.07359,22.00444,70.07359",
+    "geom:latitude":70.07359,
+    "geom:longitude":22.00444,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1943.0",
+    "gn:asciiname":"Jokelfjordeidet",
+    "gn:country_code":"NO",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537006,
+    "gn:latitude":70.07359,
+    "gn:longitude":22.00444,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"J\u00f8kelfjordeidet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "J\u00f8kelfjordeidet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297307,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537006
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f041a3ff85eb8883451465d9909a4aa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297307,
+            "locality_id":1242643567,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1242643567,
+    "wof:lastmodified":1537675992,
+    "wof:name":"Jokelfjordeidet",
+    "wof:parent_id":1159297307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.00444,
+    70.07359,
+    22.00444,
+    70.07359
+],
+  "geometry": {"coordinates":[22.00444,70.07359],"type":"Point"}
+}

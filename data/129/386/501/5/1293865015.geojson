@@ -1,0 +1,74 @@
+{
+  "id": 1293865015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.51266,61.42916,10.51266,61.42916",
+    "geom:latitude":61.42916,
+    "geom:longitude":10.51266,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"520.0",
+    "gn:asciiname":"Midtre Goppollen",
+    "gn:country_code":"NO",
+    "gn:dem":993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537088,
+    "gn:latitude":61.42916,
+    "gn:longitude":10.51266,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Midtre Goppollen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Midtre Goppollen"
+    ],
+    "name:nor_x_variant":[
+        "Midt-Goppollen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296971,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537088
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d1caebbbe90dd5d920979fa30b4bb6d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296971,
+            "locality_id":1293865015,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1293865015,
+    "wof:lastmodified":1537675996,
+    "wof:name":"Midtre Goppollen",
+    "wof:parent_id":1159296971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.51266,
+    61.42916,
+    10.51266,
+    61.42916
+],
+  "geometry": {"coordinates":[10.51266,61.42916],"type":"Point"}
+}

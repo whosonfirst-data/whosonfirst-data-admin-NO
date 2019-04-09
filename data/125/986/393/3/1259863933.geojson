@@ -1,0 +1,78 @@
+{
+  "id": 1259863933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.25993,66.75388,13.25993,66.75388",
+    "geom:latitude":66.75388,
+    "geom:longitude":13.25993,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1837.0",
+    "gn:asciiname":"Amnoyhamna",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3163179,
+    "gn:latitude":66.75388,
+    "gn:longitude":13.25993,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"\u00c5mn\u00f8yhamna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00c5mn\u00f8yhamna"
+    ],
+    "name:nor_x_variant":[
+        "\u00c5mn\u00f8yhamn"
+    ],
+    "name:und_x_variant":[
+        "\u00c5m\u00f8vhamn",
+        "Aam\u00f6yhamn",
+        "\u00c5m\u00f8yhamn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297093,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3163179
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"100580e3963f6c7a94b68e31b690c466",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297093,
+            "locality_id":1259863933,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1259863933,
+    "wof:lastmodified":1537675891,
+    "wof:name":"Amnoyhamna",
+    "wof:parent_id":1159297093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.25993,
+    66.75388000000001,
+    13.25993,
+    66.75388000000001
+],
+  "geometry": {"coordinates":[13.25993,66.75388000000001],"type":"Point"}
+}

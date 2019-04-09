@@ -1,0 +1,62 @@
+{
+  "id": 1209385913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.67973,59.33742,5.67973,59.33742",
+    "geom:latitude":59.33742,
+    "geom:longitude":5.67973,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1146.0",
+    "gn:asciiname":"Espevik",
+    "gn:country_code":"NO",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3158025,
+    "gn:latitude":59.33742,
+    "gn:longitude":5.67973,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Espevik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3158025
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f175a56d37fd40c75cbad0701ef75ebd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209385913
+        }
+    ],
+    "wof:id":1209385913,
+    "wof:lastmodified":1536288626,
+    "wof:name":"Espevik",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.67973,
+    59.33742,
+    5.67973,
+    59.33742
+],
+  "geometry": {"coordinates":[5.67973,59.33742],"type":"Point"}
+}

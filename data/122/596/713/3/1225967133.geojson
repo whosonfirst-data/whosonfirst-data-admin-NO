@@ -1,0 +1,84 @@
+{
+  "id": 1225967133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.91398,70.20832,24.91398,70.20832",
+    "geom:latitude":70.20832,
+    "geom:longitude":24.91398,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2020.0",
+    "gn:asciiname":"Baukop",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":780803,
+    "gn:latitude":70.20832,
+    "gn:longitude":24.91398,
+    "gn:modification_date":"2014-05-29",
+    "gn:name":"Baukop",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Baukop"
+    ],
+    "name:nor_x_variant":[
+        "Bevkop"
+    ],
+    "name:sme_x_preferred":[
+        "Beavgohppi"
+    ],
+    "name:und_x_variant":[
+        "Bevkop",
+        "Baukopp",
+        "Bevkopp",
+        "B\u00e6vkopp"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297563,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":780803
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"fb3bcebc2995ed849f3e60990df5fd70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297563,
+            "locality_id":1225967133,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1225967133,
+    "wof:lastmodified":1537675667,
+    "wof:name":"Baukop",
+    "wof:parent_id":1159297563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.91398,
+    70.20832,
+    24.91398,
+    70.20832
+],
+  "geometry": {"coordinates":[24.91398,70.20832],"type":"Point"}
+}

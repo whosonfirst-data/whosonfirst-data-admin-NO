@@ -1,0 +1,71 @@
+{
+  "id": 1344241357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.45,67.3,15.45,67.3",
+    "geom:latitude":67.3,
+    "geom:longitude":15.45,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1841.0",
+    "gn:asciiname":"Medas",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3146235,
+    "gn:latitude":67.3,
+    "gn:longitude":15.45,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Med\u00e5s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Medaas",
+        "Med\u00e5s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296833,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3146235
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a8abb4619292eeed6cfd062a977bb22d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296833,
+            "locality_id":1344241357,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1344241357,
+    "wof:lastmodified":1537675769,
+    "wof:name":"Medas",
+    "wof:parent_id":1159296833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.45,
+    67.3,
+    15.45,
+    67.3
+],
+  "geometry": {"coordinates":[15.45,67.3],"type":"Point"}
+}

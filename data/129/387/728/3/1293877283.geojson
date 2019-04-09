@@ -1,0 +1,74 @@
+{
+  "id": 1293877283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.6984,64.14325,11.6984,64.14325",
+    "geom:latitude":64.14325,
+    "geom:longitude":11.6984,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5004.0",
+    "gn:asciiname":"Guin",
+    "gn:country_code":"NO",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3154567,
+    "gn:latitude":64.14325,
+    "gn:longitude":11.6984,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Guin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Guin"
+    ],
+    "name:und_x_variant":[
+        "Gudin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296907,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3154567
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b2308f487b31640b6c3d9479a1fc76c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296907,
+            "locality_id":1293877283,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1293877283,
+    "wof:lastmodified":1537675828,
+    "wof:name":"Guin",
+    "wof:parent_id":1159296907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.6984,
+    64.14325,
+    11.6984,
+    64.14325
+],
+  "geometry": {"coordinates":[11.6984,64.14324999999999],"type":"Point"}
+}

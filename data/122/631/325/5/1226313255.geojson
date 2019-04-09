@@ -1,0 +1,68 @@
+{
+  "id": 1226313255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.18333,61.76667,5.18333,61.76667",
+    "geom:latitude":61.76667,
+    "geom:longitude":5.18333,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1438.0",
+    "gn:asciiname":"Dyrstad",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3158830,
+    "gn:latitude":61.76667,
+    "gn:longitude":5.18333,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Dyrstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297195,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3158830
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"094834953131ed9fa55cda88ce5d164d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297195,
+            "locality_id":1226313255,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1226313255,
+    "wof:lastmodified":1536835422,
+    "wof:name":"Dyrstad",
+    "wof:parent_id":1159297195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.18333,
+    61.76667,
+    5.18333,
+    61.76667
+],
+  "geometry": {"coordinates":[5.18333,61.76667],"type":"Point"}
+}

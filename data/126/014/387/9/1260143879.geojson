@@ -1,0 +1,68 @@
+{
+  "id": 1260143879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.13928,59.32062,8.13928,59.32062",
+    "geom:latitude":59.32062,
+    "geom:longitude":8.13928,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"831.0",
+    "gn:asciiname":"Hauggrend",
+    "gn:country_code":"NO",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3153619,
+    "gn:latitude":59.32062,
+    "gn:longitude":8.13928,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Hauggrend",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297079,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3153619
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7f8299259b58a8b55cb4c62da1387346",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297079,
+            "locality_id":1260143879,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1260143879,
+    "wof:lastmodified":1536902411,
+    "wof:name":"Hauggrend",
+    "wof:parent_id":1159297079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.13928,
+    59.32062,
+    8.13928,
+    59.32062
+],
+  "geometry": {"coordinates":[8.13928,59.32062],"type":"Point"}
+}

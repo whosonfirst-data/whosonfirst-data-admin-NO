@@ -1,0 +1,66 @@
+{
+  "id": 1293379667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01667,68.81667,15.01667,68.81667",
+    "geom:latitude":68.81667,
+    "geom:longitude":15.01667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1868.0",
+    "gn:asciiname":"Romset",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141412,
+    "gn:latitude":68.81667,
+    "gn:longitude":15.01667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Romset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296769,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141412
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8690fc513f5a2d8ab9c8db9f844bb428",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296769,
+            "locality_id":1293379667,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1293379667,
+    "wof:lastmodified":1536943021,
+    "wof:name":"Romset",
+    "wof:parent_id":1159296769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01667,
+    68.81667,
+    15.01667,
+    68.81667
+],
+  "geometry": {"coordinates":[15.01667,68.81667],"type":"Point"}
+}

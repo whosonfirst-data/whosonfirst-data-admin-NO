@@ -1,0 +1,65 @@
+{
+  "id": 1209637587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.26253,61.02564,11.26253,61.02564",
+    "geom:latitude":61.02564,
+    "geom:longitude":11.26253,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"415.0",
+    "gn:asciiname":"Gitvola",
+    "gn:country_code":"NO",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535888,
+    "gn:latitude":61.02564,
+    "gn:longitude":11.26253,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Gitvola",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Gitvola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535888
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"209bb1168486f569d1c43b0541702f44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209637587
+        }
+    ],
+    "wof:id":1209637587,
+    "wof:lastmodified":1537675945,
+    "wof:name":"Gitvola",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.26253,
+    61.02564,
+    11.26253,
+    61.02564
+],
+  "geometry": {"coordinates":[11.26253,61.02564],"type":"Point"}
+}

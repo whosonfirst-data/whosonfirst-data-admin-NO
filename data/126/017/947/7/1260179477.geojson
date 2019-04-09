@@ -1,0 +1,71 @@
+{
+  "id": 1260179477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.94027,60.7715,10.94027,60.7715",
+    "geom:latitude":60.7715,
+    "geom:longitude":10.94027,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"412",
+    "gn:asciiname":"Klingenberg",
+    "gn:country_code":"NO",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404344,
+    "gn:latitude":60.7715,
+    "gn:longitude":10.94027,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Klingenberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Klingenberg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296699,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404344
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b91011c32dd942e43f22943e6c113a70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296699,
+            "locality_id":1260179477,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1260179477,
+    "wof:lastmodified":1537675927,
+    "wof:name":"Klingenberg",
+    "wof:parent_id":1159296699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.94027,
+    60.7715,
+    10.94027,
+    60.7715
+],
+  "geometry": {"coordinates":[10.94027,60.7715],"type":"Point"}
+}

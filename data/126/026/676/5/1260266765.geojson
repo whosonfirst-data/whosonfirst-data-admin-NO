@@ -1,0 +1,73 @@
+{
+  "id": 1260266765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.83333,65.08333,11.83333,65.08333",
+    "geom:latitude":65.08333,
+    "geom:longitude":11.83333,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5052.0",
+    "gn:asciiname":"Gutvik",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3154446,
+    "gn:latitude":65.08333,
+    "gn:longitude":11.83333,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Gutvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gutviken",
+        "Gutvik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297431,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3154446
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"38e5280bb1c7fc3e3648eec46aeedfbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297431,
+            "locality_id":1260266765,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1260266765,
+    "wof:lastmodified":1537675827,
+    "wof:name":"Gutvik",
+    "wof:parent_id":1159297431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.83333,
+    65.08333,
+    11.83333,
+    65.08333
+],
+  "geometry": {"coordinates":[11.83333,65.08333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276530875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.38333,60.95,5.38333,60.95",
+    "geom:latitude":60.95,
+    "geom:longitude":5.38333,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1411.0",
+    "gn:asciiname":"Yndesdal",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3131274,
+    "gn:latitude":60.95,
+    "gn:longitude":5.38333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yndesdal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ynnesdal",
+        "Yndesdal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297577,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3131274
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"855df0f5008d52669dc1fd06686c12af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297577,
+            "locality_id":1276530875,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1276530875,
+    "wof:lastmodified":1537675672,
+    "wof:name":"Yndesdal",
+    "wof:parent_id":1159297577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.38333,
+    60.95,
+    5.38333,
+    60.95
+],
+  "geometry": {"coordinates":[5.38333,60.95],"type":"Point"}
+}

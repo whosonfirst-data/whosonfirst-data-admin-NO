@@ -1,0 +1,71 @@
+{
+  "id": 1226526089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.45607,64.45428,11.45607,64.45428",
+    "geom:latitude":64.45428,
+    "geom:longitude":11.45607,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5005.0",
+    "gn:asciiname":"Grautvika",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536482,
+    "gn:latitude":64.45428,
+    "gn:longitude":11.45607,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Grautvika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Grautvika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297197,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536482
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c99bd7a9790749c7c261b12c6feb9eef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297197,
+            "locality_id":1226526089,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1226526089,
+    "wof:lastmodified":1537675971,
+    "wof:name":"Grautvika",
+    "wof:parent_id":1159297197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.45607,
+    64.45428000000001,
+    11.45607,
+    64.45428000000001
+],
+  "geometry": {"coordinates":[11.45607,64.45428000000001],"type":"Point"}
+}

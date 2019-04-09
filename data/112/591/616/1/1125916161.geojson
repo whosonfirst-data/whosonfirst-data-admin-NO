@@ -1,0 +1,82 @@
+{
+  "id": 1125916161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.5506595,62.266005,5.5506595,62.266005",
+    "geom:latitude":62.266005,
+    "geom:longitude":5.55066,
+    "gn:gn_country":"NO",
+    "iso:country":"NO",
+    "lbl:latitude":62.266005,
+    "lbl:longitude":5.55066,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:name":"Gjerdsvika",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"M\u00f8re og Romsdal Fylke",
+    "qs_pg:photos":36,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":36,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":481407,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":15000778,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"M\u00f8re og Romsdal Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296735,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15000778,
+        "qs_pg:id":481407
+    },
+    "wof:country":"NO",
+    "wof:created":1497296322,
+    "wof:geomhash":"b2883c009cdd6eeb0299ec453186dd84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296735,
+            "locality_id":1125916161,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1125916161,
+    "wof:lastmodified":1529700100,
+    "wof:name":"Gjerdsvika",
+    "wof:parent_id":1159296735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.5506595,
+    62.266005,
+    5.5506595,
+    62.266005
+],
+  "geometry": {"coordinates":[5.5506595,62.266005],"type":"Point"}
+}

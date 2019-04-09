@@ -1,0 +1,71 @@
+{
+  "id": 1326892997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.97371,58.27093,7.97371,58.27093",
+    "geom:latitude":58.27093,
+    "geom:longitude":7.97371,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1014",
+    "gn:asciiname":"Venneslamoen",
+    "gn:country_code":"NO",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9403940,
+    "gn:latitude":58.27093,
+    "gn:longitude":7.97371,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Venneslamoen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Venneslamoen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296843,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9403940
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0e1b6be22719a56f3a9127c9b66f4176",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296843,
+            "locality_id":1326892997,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1326892997,
+    "wof:lastmodified":1537675911,
+    "wof:name":"Venneslamoen",
+    "wof:parent_id":1159296843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.97371,
+    58.27093000000001,
+    7.97371,
+    58.27093000000001
+],
+  "geometry": {"coordinates":[7.97371,58.27093000000001],"type":"Point"}
+}

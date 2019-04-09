@@ -1,0 +1,71 @@
+{
+  "id": 1310001721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6,68.61667,15.6,68.61667",
+    "geom:latitude":68.61667,
+    "geom:longitude":15.6,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1870.0",
+    "gn:asciiname":"Riddarset",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141885,
+    "gn:latitude":68.61667,
+    "gn:longitude":15.6,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Riddarset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ridders\u00e6t",
+        "Riddarset"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297273,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141885
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7e21036ea9804986a0a8e8142b7791f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297273,
+            "locality_id":1310001721,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1310001721,
+    "wof:lastmodified":1537675740,
+    "wof:name":"Riddarset",
+    "wof:parent_id":1159297273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6,
+    68.61667,
+    15.6,
+    68.61667
+],
+  "geometry": {"coordinates":[15.6,68.61667],"type":"Point"}
+}

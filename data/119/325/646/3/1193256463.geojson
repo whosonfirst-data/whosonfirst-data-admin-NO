@@ -1,0 +1,71 @@
+{
+  "id": 1193256463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.97361,61.0247,9.97361,61.0247",
+    "geom:latitude":61.0247,
+    "geom:longitude":9.97361,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"538.0",
+    "gn:asciiname":"Stromsgrenda",
+    "gn:country_code":"NO",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537209,
+    "gn:latitude":61.0247,
+    "gn:longitude":9.97361,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Str\u00f8msgrenda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Str\u00f8msgrenda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297311,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537209
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f97e888d673af98942911e08e4e3a9a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297311,
+            "locality_id":1193256463,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1193256463,
+    "wof:lastmodified":1537676001,
+    "wof:name":"Stromsgrenda",
+    "wof:parent_id":1159297311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.97361,
+    61.0247,
+    9.97361,
+    61.0247
+],
+  "geometry": {"coordinates":[9.97361,61.0247],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343948781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.59478,62.34245,5.59478,62.34245",
+    "geom:latitude":62.34245,
+    "geom:longitude":5.59478,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1515.0",
+    "gn:asciiname":"Kvalsund",
+    "gn:country_code":"NO",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558588,
+    "gn:latitude":62.34245,
+    "gn:longitude":5.59478,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Kvalsund",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Kvalsund"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297413,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558588,
+        "wk:page":"Kvalsund_%28Her%C3%B8y%29"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d62a06ef4bc9fbb38d69961783e221e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297413,
+            "locality_id":1343948781,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1343948781,
+    "wof:lastmodified":1537675905,
+    "wof:name":"Kvalsund",
+    "wof:parent_id":1159297413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.59478,
+    62.34245,
+    5.59478,
+    62.34245
+],
+  "geometry": {"coordinates":[5.59478,62.34245],"type":"Point"}
+}

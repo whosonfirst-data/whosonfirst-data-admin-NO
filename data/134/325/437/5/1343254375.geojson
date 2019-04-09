@@ -1,0 +1,68 @@
+{
+  "id": 1343254375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.8725,60.70846,11.8725,60.70846",
+    "geom:latitude":60.70846,
+    "geom:longitude":11.8725,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"426.0",
+    "gn:asciiname":"Straete",
+    "gn:country_code":"NO",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3135862,
+    "gn:latitude":60.70846,
+    "gn:longitude":11.8725,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Str\u00e6te",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297171,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3135862
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"cdd906df08eb53bacb88e42ce2790333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297171,
+            "locality_id":1343254375,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1343254375,
+    "wof:lastmodified":1537041953,
+    "wof:name":"Straete",
+    "wof:parent_id":1159297171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.8725,
+    60.70846,
+    11.8725,
+    60.70846
+],
+  "geometry": {"coordinates":[11.8725,60.70846],"type":"Point"}
+}

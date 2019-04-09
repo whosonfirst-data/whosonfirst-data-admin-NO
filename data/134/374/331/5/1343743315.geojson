@@ -1,0 +1,71 @@
+{
+  "id": 1343743315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.98892,60.89919,8.98892,60.89919",
+    "geom:latitude":60.89919,
+    "geom:longitude":8.98892,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"542.0",
+    "gn:asciiname":"Tyrisholt",
+    "gn:country_code":"NO",
+    "gn:dem":907,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535758,
+    "gn:latitude":60.89919,
+    "gn:longitude":8.98892,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Tyrisholt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Tyrisholt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297391,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535758
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6e500508a81dac7d3c8d8e5dcfa2becc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297391,
+            "locality_id":1343743315,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1343743315,
+    "wof:lastmodified":1537675940,
+    "wof:name":"Tyrisholt",
+    "wof:parent_id":1159297391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.98892,
+    60.89919,
+    8.98892,
+    60.89919
+],
+  "geometry": {"coordinates":[8.98892,60.89919],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1293385549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.30751,63.11917,8.30751,63.11917",
+    "geom:latitude":63.11917,
+    "geom:longitude":8.30751,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1571.0",
+    "gn:asciiname":"Liaboen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3147608,
+    "gn:latitude":63.11917,
+    "gn:longitude":8.30751,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Liab\u00f8en",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Liab\u00f8en"
+    ],
+    "name:nor_x_variant":[
+        "Liab\u00f8"
+    ],
+    "name:und_x_variant":[
+        "Liab\u00f6en",
+        "Liab\u00f8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296693,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3147608
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7b2160488444d39e75ac2d2fcb9ffd1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296693,
+            "locality_id":1293385549,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1293385549,
+    "wof:lastmodified":1537675778,
+    "wof:name":"Liaboen",
+    "wof:parent_id":1159296693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.30751,
+    63.11917,
+    8.30751,
+    63.11917
+],
+  "geometry": {"coordinates":[8.30751,63.11917],"type":"Point"}
+}

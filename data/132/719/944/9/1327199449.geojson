@@ -1,0 +1,68 @@
+{
+  "id": 1327199449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.56789,58.24033,7.56789,58.24033",
+    "geom:latitude":58.24033,
+    "geom:longitude":7.56789,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1021.0",
+    "gn:asciiname":"Finnsadal",
+    "gn:country_code":"NO",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3157571,
+    "gn:latitude":58.24033,
+    "gn:longitude":7.56789,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Finns\u00e5dal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297583,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3157571
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0c6c53fb40f3bbb7f38832a98c0ad969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297583,
+            "locality_id":1327199449,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1327199449,
+    "wof:lastmodified":1537016570,
+    "wof:name":"Finnsadal",
+    "wof:parent_id":1159297583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.56789,
+    58.24033000000001,
+    7.56789,
+    58.24033000000001
+],
+  "geometry": {"coordinates":[7.56789,58.24033000000001],"type":"Point"}
+}

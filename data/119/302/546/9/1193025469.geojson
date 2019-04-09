@@ -1,0 +1,71 @@
+{
+  "id": 1193025469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.77715,59.56196,10.77715,59.56196",
+    "geom:latitude":59.56196,
+    "geom:longitude":10.77715,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"211.0",
+    "gn:asciiname":"Fjell",
+    "gn:country_code":"NO",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536273,
+    "gn:latitude":59.56196,
+    "gn:longitude":10.77715,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Fjell",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Fjell"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297237,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536273
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"bdfc0bad2e8640d84f58181bfa239bcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297237,
+            "locality_id":1193025469,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1193025469,
+    "wof:lastmodified":1537675962,
+    "wof:name":"Fjell",
+    "wof:parent_id":1159297237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.77715,
+    59.56196,
+    10.77715,
+    59.56196
+],
+  "geometry": {"coordinates":[10.77715,59.56196],"type":"Point"}
+}

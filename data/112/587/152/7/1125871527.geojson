@@ -1,0 +1,99 @@
+{
+  "id": 1125871527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.57972,68.86361,15.57972,68.86361",
+    "geom:latitude":68.86361,
+    "geom:longitude":15.57972,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":68.86361,
+    "lbl:longitude":15.57972,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Fornes"
+    ],
+    "name:eng_x_preferred":[
+        "Fornes"
+    ],
+    "name:fre_x_preferred":[
+        "Fornes"
+    ],
+    "name:unk_x_variant":[
+        "Fornes"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3156732,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Forrnes",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nordland Fylke",
+    "qs_pg:photos":8,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":8,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":39348,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":858645,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Nordland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159297539,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3156732,
+        "gp:id":858645,
+        "qs_pg:id":39348,
+        "wd:id":"Q3077669"
+    },
+    "wof:country":"NO",
+    "wof:created":1497294323,
+    "wof:geomhash":"fed5205d4b93df6849e25f2581a4b1b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297539,
+            "locality_id":1125871527,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1125871527,
+    "wof:lastmodified":1529700162,
+    "wof:name":"Forrnes",
+    "wof:parent_id":1159297539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.57972,
+    68.86361,
+    15.57972,
+    68.86361
+],
+  "geometry": {"coordinates":[15.57972,68.86360999999999],"type":"Point"}
+}

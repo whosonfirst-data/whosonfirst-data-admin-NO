@@ -1,0 +1,66 @@
+{
+  "id": 1209529641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.33348,60.20782,11.33348,60.20782",
+    "geom:latitude":60.20782,
+    "geom:longitude":11.33348,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"236",
+    "gn:asciiname":"Brarud",
+    "gn:country_code":"NO",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404188,
+    "gn:latitude":60.20782,
+    "gn:longitude":11.33348,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Br\u00e5rud",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Br\u00e5rud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404188,
+        "wk:page":"Br%C3%A5rud"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a7f66a880842637171acedd54df6277d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209529641
+        }
+    ],
+    "wof:id":1209529641,
+    "wof:lastmodified":1537675921,
+    "wof:name":"Brarud",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.33348,
+    60.20782,
+    11.33348,
+    60.20782
+],
+  "geometry": {"coordinates":[11.33348,60.20782],"type":"Point"}
+}

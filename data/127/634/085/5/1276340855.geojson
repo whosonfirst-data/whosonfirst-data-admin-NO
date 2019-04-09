@@ -1,0 +1,67 @@
+{
+  "id": 1276340855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.2,62.03333,9.2,62.03333",
+    "geom:latitude":62.03333,
+    "geom:longitude":9.2,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Risteigen",
+    "gn:country_code":"NO",
+    "gn:dem":846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141721,
+    "gn:latitude":62.03333,
+    "gn:longitude":9.2,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Risteigen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297013,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141721
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8a9006b99ec0e2edfc1d3f4e7800fbd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297013,
+            "locality_id":1276340855,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1276340855,
+    "wof:lastmodified":1536768817,
+    "wof:name":"Risteigen",
+    "wof:parent_id":1159297013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.2,
+    62.03333000000001,
+    9.2,
+    62.03333000000001
+],
+  "geometry": {"coordinates":[9.2,62.03333000000001],"type":"Point"}
+}

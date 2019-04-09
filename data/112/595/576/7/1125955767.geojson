@@ -1,0 +1,112 @@
+{
+  "id": 1125955767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.11667,61.5,6.11667,61.5",
+    "geom:latitude":61.5,
+    "geom:longitude":6.11667,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":265,
+    "gn:population":265,
+    "iso:country":"NO",
+    "lbl:latitude":61.5,
+    "lbl:longitude":6.11667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Vassenden"
+    ],
+    "name:eng_x_preferred":[
+        "Vassenden"
+    ],
+    "name:fre_x_preferred":[
+        "Vassenden"
+    ],
+    "name:ger_x_preferred":[
+        "Vassenden"
+    ],
+    "name:may_x_preferred":[
+        "Vassenden"
+    ],
+    "name:nno_x_preferred":[
+        "Vassenden i J\u00f8lster"
+    ],
+    "name:nob_x_preferred":[
+        "Vassenden"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0633\u0646\u062f\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Vassenden"
+    ],
+    "name:rum_x_preferred":[
+        "Vassenden"
+    ],
+    "name:unk_x_variant":[
+        "Nedre Vassenden"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3132541,
+    "qs_pg:gn_pop":265,
+    "qs_pg:name":"Vassenden",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":581020,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296765,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3132541,
+        "qs_pg:id":581020,
+        "wd:id":"Q1805965"
+    },
+    "wof:country":"NO",
+    "wof:created":1497297615,
+    "wof:geomhash":"f8c1fd74fef57347093e5b8ec1e6f2d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296765,
+            "locality_id":1125955767,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1125955767,
+    "wof:lastmodified":1529699938,
+    "wof:name":"Vassenden",
+    "wof:parent_id":1159296765,
+    "wof:placetype":"locality",
+    "wof:population":265,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.11667,
+    61.5,
+    6.11667,
+    61.5
+],
+  "geometry": {"coordinates":[6.11667,61.5],"type":"Point"}
+}

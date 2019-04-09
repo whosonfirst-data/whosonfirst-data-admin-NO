@@ -1,0 +1,101 @@
+{
+  "id": 1125999017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.25139,60.25639,5.25139,60.25639",
+    "geom:latitude":60.25639,
+    "geom:longitude":5.25139,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":60.25639,
+    "lbl:longitude":5.25139,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Hjellestad"
+    ],
+    "name:jav_x_preferred":[
+        "Hjellestad"
+    ],
+    "name:may_x_preferred":[
+        "Hjellestad"
+    ],
+    "name:nob_x_preferred":[
+        "Hjellestad"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3152582,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Hjellestad",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Hordaland Fylke",
+    "qs_pg:photos":451,
+    "qs_pg:photos_1k":91,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":451,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":241099,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":859809,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Hordaland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297617,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3152582,
+        "gp:id":859809,
+        "qs_pg:id":241099,
+        "wd:id":"Q11975487"
+    },
+    "wof:country":"NO",
+    "wof:created":1497299535,
+    "wof:geomhash":"724bfc06efea0dca6f06cc6f978a499f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":1125999017,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1125999017,
+    "wof:lastmodified":1529700068,
+    "wof:name":"Hjellestad",
+    "wof:parent_id":1159297617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.25139,
+    60.25639,
+    5.25139,
+    60.25639
+],
+  "geometry": {"coordinates":[5.25139,60.25639],"type":"Point"}
+}

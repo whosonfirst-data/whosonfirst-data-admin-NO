@@ -1,0 +1,72 @@
+{
+  "id": 1276975985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.72908,66.14901,12.72908,66.14901",
+    "geom:latitude":66.14901,
+    "geom:longitude":12.72908,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1827.0",
+    "gn:asciiname":"Sandaker",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3140434,
+    "gn:latitude":66.14901,
+    "gn:longitude":12.72908,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Sand\u00e5ker",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sandaaker",
+        "Sand\u00e5ker"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297149,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3140434,
+        "wk:page":"Sand%C3%A5ker"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"62da52b8fb7028e1a8bd615e1af4b3e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297149,
+            "locality_id":1276975985,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1276975985,
+    "wof:lastmodified":1537675730,
+    "wof:name":"Sandaker",
+    "wof:parent_id":1159297149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.72908,
+    66.14901,
+    12.72908,
+    66.14901
+],
+  "geometry": {"coordinates":[12.72908,66.14901],"type":"Point"}
+}

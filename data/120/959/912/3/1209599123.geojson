@@ -1,0 +1,65 @@
+{
+  "id": 1209599123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.66667,64.85,11.66667,64.85",
+    "geom:latitude":64.85,
+    "geom:longitude":11.66667,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5051.0",
+    "gn:asciiname":"Finnestrand",
+    "gn:country_code":"NO",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3157606,
+    "gn:latitude":64.85,
+    "gn:longitude":11.66667,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Finnestrand",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Finnestrand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3157606
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6c0bb623e05c35d08e010923135075a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209599123
+        }
+    ],
+    "wof:id":1209599123,
+    "wof:lastmodified":1537675846,
+    "wof:name":"Finnestrand",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.66667,
+    64.85,
+    11.66667,
+    64.85
+],
+  "geometry": {"coordinates":[11.66667,64.84999999999999],"type":"Point"}
+}

@@ -1,0 +1,119 @@
+{
+  "id": 101815535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000228,
+    "geom:area_square_m":1402178.058461,
+    "geom:bbox":"11.0092515983,60.2156253749,11.0419088441,60.2307936496",
+    "geom:latitude":60.223419,
+    "geom:longitude":11.025791,
+    "iso:country":"NO",
+    "lbl:latitude":60.224533,
+    "lbl:longitude":11.025791,
+    "mps:latitude":60.224533,
+    "mps:longitude":11.025791,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Teigebyen"
+    ],
+    "name:dut_x_preferred":[
+        "Teigebyen"
+    ],
+    "name:eng_x_preferred":[
+        "Teigebyen"
+    ],
+    "name:fre_x_preferred":[
+        "Teigebyen"
+    ],
+    "name:jav_x_preferred":[
+        "Teigebyen"
+    ],
+    "name:may_x_preferred":[
+        "Teigebyen"
+    ],
+    "name:msa_x_preferred":[
+        "Teigebyen"
+    ],
+    "name:nld_x_preferred":[
+        "Teigebyen"
+    ],
+    "name:nno_x_preferred":[
+        "Teigebyen"
+    ],
+    "name:nob_x_preferred":[
+        "Teigebyen"
+    ],
+    "name:nor_x_preferred":[
+        "Teigebyen"
+    ],
+    "name:ron_x_preferred":[
+        "Teigebyen"
+    ],
+    "name:rum_x_preferred":[
+        "Teigebyen"
+    ],
+    "name:swe_x_preferred":[
+        "Teigebyen"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Akershus",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"Nannestad",
+    "qs:la_lc":"*NO0238",
+    "qs:level":"locality",
+    "qs:loc":"Teigebyen",
+    "qs:loc_alt":"Teigebyen",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":56,
+    "wof:belongsto":[
+        102191581,
+        1159297073,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626326,
+        "gp:id":15000643,
+        "qs:id":7,
+        "wd:id":"Q2938017",
+        "wk:page":"Teigebyen"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"164adc4266cc2c041281fa708ced557c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297073,
+            "locality_id":101815535,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":101815535,
+    "wof:lastmodified":1529699763,
+    "wof:name":"Teigebyen",
+    "wof:parent_id":1159297073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.00925159832798,
+    60.21562537488512,
+    11.04190884407899,
+    60.2307936495925
+],
+  "geometry": {"coordinates":[[[11.03667798723387,60.22985438478878],[11.03656673683122,60.22625485318957],[11.03836607535703,60.22624168252344],[11.03833821883268,60.22534180100763],[11.04013750776971,60.22532860790039],[11.04010960472931,60.22442872717795],[11.04190884407899,60.22441551163104],[11.04185294671828,60.22261575216783],[11.03825465966719,60.22264215882262],[11.03822681008108,60.22174227888155],[11.03642771279573,60.22175544755339],[11.03639991318261,60.2208555676072],[11.03280181109773,60.22088183564347],[11.03277410968821,60.21998195529545],[11.02198006108267,60.22006020895554],[11.02195265080047,60.21916032663137],[11.02015368632533,60.21917328858945],[11.02009896733972,60.21737352433695],[11.01830009801347,60.21738646267607],[11.01827278930102,60.21648658074849],[11.0128763181616,60.21652525759015],[11.01284915581687,60.21562537488512],[11.00925159832798,60.21565104450195],[11.00930573181125,60.21745081186054],[11.01110460765352,60.21743798769177],[11.01113172515215,60.21833787157334],[11.01293064792429,60.21832502418158],[11.0130665019359,60.22282444755075],[11.01486566459567,60.22281157537526],[11.01492011454172,60.22461134670078],[11.02031788417474,60.2245725907971],[11.02045476259144,60.22907202013891],[11.03125171413052,60.22899387983063],[11.03130705665433,60.2307936495925],[11.03310664048701,60.23078054546386],[11.03307892009394,60.22988066078278],[11.03667798723387,60.22985438478878]]],"type":"Polygon"}
+}

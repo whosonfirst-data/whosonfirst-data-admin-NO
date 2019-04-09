@@ -1,0 +1,71 @@
+{
+  "id": 1343351249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.55,67.36667,15.55,67.36667",
+    "geom:latitude":67.36667,
+    "geom:longitude":15.55,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1845.0",
+    "gn:asciiname":"Djupvik",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3159152,
+    "gn:latitude":67.36667,
+    "gn:longitude":15.55,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Djupvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Djupvik i Salten",
+        "Djupvik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296959,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3159152
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9ad86d018a78a3dbfabb9328d07900c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296959,
+            "locality_id":1343351249,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1343351249,
+    "wof:lastmodified":1537675860,
+    "wof:name":"Djupvik",
+    "wof:parent_id":1159296959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.55,
+    67.36667,
+    15.55,
+    67.36667
+],
+  "geometry": {"coordinates":[15.55,67.36667],"type":"Point"}
+}

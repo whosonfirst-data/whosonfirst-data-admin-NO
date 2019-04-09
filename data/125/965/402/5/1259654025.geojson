@@ -1,0 +1,73 @@
+{
+  "id": 1259654025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.28333,61.51667,5.28333,61.51667",
+    "geom:latitude":61.51667,
+    "geom:longitude":5.28333,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1401.0",
+    "gn:asciiname":"Ovre Standalen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3142963,
+    "gn:latitude":61.51667,
+    "gn:longitude":5.28333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u00d8vre Standalen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00d6vre Standal",
+        "\u00d8vre Standalen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297017,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3142963
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e469ec60c07a5af54ced8d07e5c2d810",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297017,
+            "locality_id":1259654025,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1259654025,
+    "wof:lastmodified":1537675747,
+    "wof:name":"Ovre Standalen",
+    "wof:parent_id":1159297017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.28333,
+    61.51667,
+    5.28333,
+    61.51667
+],
+  "geometry": {"coordinates":[5.28333,61.51667],"type":"Point"}
+}

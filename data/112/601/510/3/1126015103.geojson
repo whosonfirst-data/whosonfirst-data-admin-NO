@@ -1,0 +1,106 @@
+{
+  "id": 1126015103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.25972,60.31278,5.25972,60.31278",
+    "geom:latitude":60.31278,
+    "geom:longitude":5.25972,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":402,
+    "gn:population":402,
+    "iso:country":"NO",
+    "lbl:latitude":60.31278,
+    "lbl:longitude":5.25972,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Hammarsland"
+    ],
+    "name:eng_x_preferred":[
+        "Hammarsland"
+    ],
+    "name:jav_x_preferred":[
+        "Hammarsland"
+    ],
+    "name:may_x_preferred":[
+        "Hammarsland"
+    ],
+    "name:nno_x_preferred":[
+        "Hammarsland"
+    ],
+    "name:nob_x_preferred":[
+        "Hammarsland"
+    ],
+    "name:rum_x_preferred":[
+        "Hammarsland"
+    ],
+    "name:spa_x_preferred":[
+        "Hammarsland"
+    ],
+    "name:unk_x_variant":[
+        "Hamarsland"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3154061,
+    "qs_pg:gn_pop":402,
+    "qs_pg:name":"Hammarsland",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":581125,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297617,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3154061,
+        "qs_pg:id":581125,
+        "wd:id":"Q1992291"
+    },
+    "wof:country":"NO",
+    "wof:created":1497300501,
+    "wof:geomhash":"3c1762846968697ec525f9690f6a5db4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":1126015103,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1126015103,
+    "wof:lastmodified":1529700059,
+    "wof:name":"Hammarsland",
+    "wof:parent_id":1159297617,
+    "wof:placetype":"locality",
+    "wof:population":402,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.25972,
+    60.31278,
+    5.25972,
+    60.31278
+],
+  "geometry": {"coordinates":[5.25972,60.31278],"type":"Point"}
+}

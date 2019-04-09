@@ -1,0 +1,73 @@
+{
+  "id": 1309777025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.18333,59.15,5.18333,59.15",
+    "geom:latitude":59.15,
+    "geom:longitude":5.18333,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1149.0",
+    "gn:asciiname":"Syre",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3134930,
+    "gn:latitude":59.15,
+    "gn:longitude":5.18333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Syre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Syrev\u00e5gen",
+        "Syre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297005,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3134930
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"54300e53443c36d9014114656a97af08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297005,
+            "locality_id":1309777025,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1309777025,
+    "wof:lastmodified":1537675696,
+    "wof:name":"Syre",
+    "wof:parent_id":1159297005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.18333,
+    59.15,
+    5.18333,
+    59.15
+],
+  "geometry": {"coordinates":[5.18333,59.15],"type":"Point"}
+}

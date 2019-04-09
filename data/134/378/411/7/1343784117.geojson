@@ -1,0 +1,68 @@
+{
+  "id": 1343784117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.24058,60.88099,12.24058,60.88099",
+    "geom:latitude":60.88099,
+    "geom:longitude":12.24058,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"426.0",
+    "gn:asciiname":"Gravberget",
+    "gn:country_code":"NO",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3155160,
+    "gn:latitude":60.88099,
+    "gn:longitude":12.24058,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Gravberget",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297171,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3155160
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4b2e247fcdc1b68f78d5ab19d6273357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297171,
+            "locality_id":1343784117,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1343784117,
+    "wof:lastmodified":1536777438,
+    "wof:name":"Gravberget",
+    "wof:parent_id":1159297171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.24058,
+    60.88099,
+    12.24058,
+    60.88099
+],
+  "geometry": {"coordinates":[12.24058,60.88099],"type":"Point"}
+}

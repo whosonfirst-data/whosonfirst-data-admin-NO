@@ -1,0 +1,70 @@
+{
+  "id": 1225827393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.00067,63.59999,10.00067,63.59999",
+    "geom:latitude":63.59999,
+    "geom:longitude":10.00067,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5054.0",
+    "gn:asciiname":"Leira",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536136,
+    "gn:latitude":63.59999,
+    "gn:longitude":10.00067,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Leira",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Leira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296767,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536136,
+        "wk:page":"Leira%2C_S%C3%B8r-Tr%C3%B8ndelag"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3c03d8feab0ce6e04031711f160370c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296767,
+            "locality_id":1225827393,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1225827393,
+    "wof:lastmodified":1537675956,
+    "wof:name":"Leira",
+    "wof:parent_id":1159296767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.00067,
+    63.59999000000001,
+    10.00067,
+    63.59999000000001
+],
+  "geometry": {"coordinates":[10.00067,63.59999000000001],"type":"Point"}
+}

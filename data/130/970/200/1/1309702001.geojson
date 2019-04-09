@@ -1,0 +1,71 @@
+{
+  "id": 1309702001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56944,67.99583,15.56944,67.99583",
+    "geom:latitude":67.99583,
+    "geom:longitude":15.56944,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1849.0",
+    "gn:asciiname":"Overas",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3143082,
+    "gn:latitude":67.99583,
+    "gn:longitude":15.56944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u00d8ver\u00e5s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00d6veraas",
+        "\u00d8ver\u00e5s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297087,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3143082
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0a909eb223a822b5a7645e13f379965c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297087,
+            "locality_id":1309702001,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1309702001,
+    "wof:lastmodified":1537675748,
+    "wof:name":"Overas",
+    "wof:parent_id":1159297087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56944,
+    67.99583,
+    15.56944,
+    67.99583
+],
+  "geometry": {"coordinates":[15.56944,67.99583],"type":"Point"}
+}

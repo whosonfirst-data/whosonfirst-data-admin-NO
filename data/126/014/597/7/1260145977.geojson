@@ -1,0 +1,68 @@
+{
+  "id": 1260145977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.16009,58.15274,7.16009,58.15274",
+    "geom:latitude":58.15274,
+    "geom:longitude":7.16009,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1032.0",
+    "gn:asciiname":"Optedal",
+    "gn:country_code":"NO",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3143457,
+    "gn:latitude":58.15274,
+    "gn:longitude":7.16009,
+    "gn:modification_date":"2014-05-29",
+    "gn:name":"Optedal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296753,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3143457
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9a3c29bd69d822e0e9e543526d3b5783",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296753,
+            "locality_id":1260145977,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1260145977,
+    "wof:lastmodified":1536899414,
+    "wof:name":"Optedal",
+    "wof:parent_id":1159296753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.16009,
+    58.15274,
+    7.16009,
+    58.15274
+],
+  "geometry": {"coordinates":[7.16009,58.15274],"type":"Point"}
+}

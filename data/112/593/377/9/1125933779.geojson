@@ -1,0 +1,113 @@
+{
+  "id": 1125933779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.40785,59.22716,10.40785,59.22716",
+    "geom:latitude":59.22716,
+    "geom:longitude":10.40785,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":59.22716,
+    "lbl:longitude":10.40785,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Borgheim"
+    ],
+    "name:eng_x_preferred":[
+        "Borgheim"
+    ],
+    "name:fre_x_preferred":[
+        "Borgheim"
+    ],
+    "name:may_x_preferred":[
+        "Borgheim"
+    ],
+    "name:nob_x_preferred":[
+        "Borgheim"
+    ],
+    "name:rum_x_preferred":[
+        "Borgheim"
+    ],
+    "name:sme_x_preferred":[
+        "Borgheim"
+    ],
+    "name:spa_x_preferred":[
+        "Borgheim"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":7626347,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Borgheim",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Vestfold Fylke",
+    "qs_pg:photos":96,
+    "qs_pg:photos_1k":19,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":96,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":985369,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":15000981,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Vestfold Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297071,
+        85633341,
+        85687073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626347,
+        "gp:id":15000981,
+        "qs_pg:id":985369,
+        "wd:id":"Q1783896"
+    },
+    "wof:country":"NO",
+    "wof:created":1497296896,
+    "wof:geomhash":"39fef4390f02a25ac32569c8ae055931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297071,
+            "locality_id":1125933779,
+            "region_id":85687073
+        }
+    ],
+    "wof:id":1125933779,
+    "wof:lastmodified":1529700492,
+    "wof:name":"Borgheim",
+    "wof:parent_id":1159297071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.40785,
+    59.22716,
+    10.40785,
+    59.22716
+],
+  "geometry": {"coordinates":[10.40785,59.22716],"type":"Point"}
+}

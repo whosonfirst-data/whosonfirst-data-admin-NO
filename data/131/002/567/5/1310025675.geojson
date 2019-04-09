@@ -1,0 +1,71 @@
+{
+  "id": 1310025675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.52252,62.85149,8.52252,62.85149",
+    "geom:latitude":62.85149,
+    "geom:longitude":8.52252,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1563",
+    "gn:asciiname":"Handlarstuhamran",
+    "gn:country_code":"NO",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404407,
+    "gn:latitude":62.85149,
+    "gn:longitude":8.52252,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Handlarstuhamran",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Handlarstuhamran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296805,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404407
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3d1b345d98ca61a24b0f6bdc1abd7242",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296805,
+            "locality_id":1310025675,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1310025675,
+    "wof:lastmodified":1537675930,
+    "wof:name":"Handlarstuhamran",
+    "wof:parent_id":1159296805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.52252,
+    62.85149000000001,
+    8.52252,
+    62.85149000000001
+],
+  "geometry": {"coordinates":[8.52252,62.85149000000001],"type":"Point"}
+}

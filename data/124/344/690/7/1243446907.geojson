@@ -1,0 +1,71 @@
+{
+  "id": 1243446907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.40693,62.12046,10.40693,62.12046",
+    "geom:latitude":62.12046,
+    "geom:longitude":10.40693,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"438.0",
+    "gn:asciiname":"Tangen",
+    "gn:country_code":"NO",
+    "gn:dem":820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536049,
+    "gn:latitude":62.12046,
+    "gn:longitude":10.40693,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Tangen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Tangen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296891,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536049
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f8ef7f30ff2f663fdbc211fe66b4d450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296891,
+            "locality_id":1243446907,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1243446907,
+    "wof:lastmodified":1537675952,
+    "wof:name":"Tangen",
+    "wof:parent_id":1159296891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.40693,
+    62.12046,
+    10.40693,
+    62.12046
+],
+  "geometry": {"coordinates":[10.40693,62.12046],"type":"Point"}
+}

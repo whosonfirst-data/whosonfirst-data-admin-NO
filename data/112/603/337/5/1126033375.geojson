@@ -1,0 +1,116 @@
+{
+  "id": 1126033375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.18333,62.95,10.18333,62.95",
+    "geom:latitude":62.95,
+    "geom:longitude":10.18333,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":269,
+    "gn:population":269,
+    "iso:country":"NO",
+    "lbl:latitude":62.95,
+    "lbl:longitude":10.18333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0421\u043e\u043a\u043d\u0435\u0434\u0430\u043b"
+    ],
+    "name:dut_x_preferred":[
+        "Soknedal"
+    ],
+    "name:eng_x_preferred":[
+        "Soknedal"
+    ],
+    "name:fre_x_preferred":[
+        "Soknedal"
+    ],
+    "name:may_x_preferred":[
+        "Soknedal"
+    ],
+    "name:nno_x_preferred":[
+        "Soknedal"
+    ],
+    "name:nob_x_preferred":[
+        "Soknedal"
+    ],
+    "name:rum_x_preferred":[
+        "Soknedal"
+    ],
+    "name:swe_x_preferred":[
+        "Soknedal"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3137952,
+    "qs_pg:gn_pop":269,
+    "qs_pg:name":"Soknedal",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":155,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":258457,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":864075,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159296717,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3137952,
+        "gp:id":864075,
+        "qs_pg:id":258457,
+        "wd:id":"Q1946178"
+    },
+    "wof:country":"NO",
+    "wof:created":1497301621,
+    "wof:geomhash":"7388e0ca3aa082954a2f402ed77c05f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296717,
+            "locality_id":1126033375,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1126033375,
+    "wof:lastmodified":1529700333,
+    "wof:name":"Soknedal",
+    "wof:parent_id":1159296717,
+    "wof:placetype":"locality",
+    "wof:population":269,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.18333,
+    62.95,
+    10.18333,
+    62.95
+],
+  "geometry": {"coordinates":[10.18333,62.95],"type":"Point"}
+}

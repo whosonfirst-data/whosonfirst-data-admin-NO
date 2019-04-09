@@ -1,0 +1,71 @@
+{
+  "id": 1260362103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.0,63.51667,10.0,63.51667",
+    "geom:latitude":63.51667,
+    "geom:longitude":10.0,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5054.0",
+    "gn:asciiname":"Fageras",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3157940,
+    "gn:latitude":63.51667,
+    "gn:longitude":10.0,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Fager\u00e5s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fageraas",
+        "Fager\u00e5s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296767,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3157940
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"fd9a688321e1912263a54253b0c9efef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296767,
+            "locality_id":1260362103,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1260362103,
+    "wof:lastmodified":1537675849,
+    "wof:name":"Fageras",
+    "wof:parent_id":1159296767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0,
+    63.51667,
+    10.0,
+    63.51667
+],
+  "geometry": {"coordinates":[10.0,63.51667],"type":"Point"}
+}

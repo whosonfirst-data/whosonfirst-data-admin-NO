@@ -1,0 +1,72 @@
+{
+  "id": 1276651031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.99403,65.1049,11.99403,65.1049",
+    "geom:latitude":65.1049,
+    "geom:longitude":11.99403,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1811.0",
+    "gn:asciiname":"Sorhorsfjord",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3137488,
+    "gn:latitude":65.1049,
+    "gn:longitude":11.99403,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"S\u00f8rhorsfjord",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Horsfjord S\u00f8r",
+        "Horsfjord",
+        "S\u00f8r-Horsfjord"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296909,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3137488
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b13615ffd42a789f6d218add864f741f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296909,
+            "locality_id":1276651031,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1276651031,
+    "wof:lastmodified":1537675710,
+    "wof:name":"Sorhorsfjord",
+    "wof:parent_id":1159296909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.99403,
+    65.1049,
+    11.99403,
+    65.1049
+],
+  "geometry": {"coordinates":[11.99403,65.1049],"type":"Point"}
+}

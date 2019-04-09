@@ -1,0 +1,68 @@
+{
+  "id": 1259504763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.03964,60.39057,5.03964,60.39057",
+    "geom:latitude":60.39057,
+    "geom:longitude":5.03964,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1246.0",
+    "gn:asciiname":"Spjeld",
+    "gn:country_code":"NO",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3137277,
+    "gn:latitude":60.39057,
+    "gn:longitude":5.03964,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Spjeld",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296987,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3137277
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"84ec189da3573624cf6259efa97d4a8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296987,
+            "locality_id":1259504763,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1259504763,
+    "wof:lastmodified":1536827318,
+    "wof:name":"Spjeld",
+    "wof:parent_id":1159296987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.03964,
+    60.39057,
+    5.03964,
+    60.39057
+],
+  "geometry": {"coordinates":[5.03964,60.39057],"type":"Point"}
+}

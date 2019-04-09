@@ -1,0 +1,135 @@
+{
+  "id": 1126028815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.20752,59.60231,5.20752,59.60231",
+    "geom:latitude":59.60231,
+    "geom:longitude":5.20752,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":733,
+    "iso:country":"NO",
+    "lbl:latitude":59.60231,
+    "lbl:longitude":5.20752,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Langev\u00e5g"
+    ],
+    "name:eng_x_preferred":[
+        "Langev\u00e5g"
+    ],
+    "name:fre_x_preferred":[
+        "Langev\u00e5g"
+    ],
+    "name:jav_x_preferred":[
+        "Langev\u00e5g"
+    ],
+    "name:may_x_preferred":[
+        "Langev\u00e5g"
+    ],
+    "name:nno_x_preferred":[
+        "Langev\u00e5g p\u00e5 B\u00f8mlo"
+    ],
+    "name:nob_x_preferred":[
+        "Langev\u00e5g"
+    ],
+    "name:nor_x_preferred":[
+        "S\u00f8ra B\u00f8mlo"
+    ],
+    "name:nor_x_variant":[
+        "Langev\u00e5g"
+    ],
+    "name:rum_x_preferred":[
+        "Langev\u00e5g"
+    ],
+    "name:spa_x_preferred":[
+        "Langev\u00e5g"
+    ],
+    "name:swe_x_preferred":[
+        "Langev\u00e5g"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3160745,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Langev\u00e5g",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Hordaland Fylke",
+    "qs_pg:photos":9,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":9,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":895271,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":861109,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Hordaland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296859,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160745,
+        "gp:id":861109,
+        "qs_pg:id":895271,
+        "wd:id":"Q4585365"
+    },
+    "wof:concordances_alt":{
+        "gn:id":3148347,
+        "qs_pg:id":581112
+    },
+    "wof:country":"NO",
+    "wof:created":1497301322,
+    "wof:geomhash":"c8e0728e34647663bd15532544ac3721",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296859,
+            "locality_id":1126028815,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1126028815,
+    "wof:lastmodified":1534379387,
+    "wof:name":"Langev\u00e5g",
+    "wof:parent_id":1159296859,
+    "wof:placetype":"locality",
+    "wof:population":733,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126003673
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.20752,
+    59.60231,
+    5.20752,
+    59.60231
+],
+  "geometry": {"coordinates":[5.20752,59.60231],"type":"Point"}
+}

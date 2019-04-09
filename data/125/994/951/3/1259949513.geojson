@@ -1,0 +1,70 @@
+{
+  "id": 1259949513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.45613,63.25969,10.45613,63.25969",
+    "geom:latitude":63.25969,
+    "geom:longitude":10.45613,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5030.0",
+    "gn:asciiname":"Hyttfossen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3151237,
+    "gn:latitude":63.25969,
+    "gn:longitude":10.45613,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Hyttfossen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hyttefossen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297505,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3151237
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b3e6fae518ef1d09a4e985ef627920d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297505,
+            "locality_id":1259949513,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1259949513,
+    "wof:lastmodified":1537675805,
+    "wof:name":"Hyttfossen",
+    "wof:parent_id":1159297505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.45613,
+    63.25969,
+    10.45613,
+    63.25969
+],
+  "geometry": {"coordinates":[10.45613,63.25969],"type":"Point"}
+}

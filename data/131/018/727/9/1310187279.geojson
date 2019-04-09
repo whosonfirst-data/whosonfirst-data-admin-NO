@@ -1,0 +1,69 @@
+{
+  "id": 1310187279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.43666,63.27935,10.43666,63.27935",
+    "geom:latitude":63.27935,
+    "geom:longitude":10.43666,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5030.0",
+    "gn:asciiname":"Lappen",
+    "gn:country_code":"NO",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537433,
+    "gn:latitude":63.27935,
+    "gn:longitude":10.43666,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Lappen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Lappen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297505,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537433
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"72a266e381c9f3d76ac1a86a9f3a236c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297505,
+            "locality_id":1310187279,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1310187279,
+    "wof:lastmodified":1537676011,
+    "wof:name":"Lappen",
+    "wof:parent_id":1159297505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.43666,
+    63.27935,
+    10.43666,
+    63.27935
+],
+  "geometry": {"coordinates":[10.43666,63.27935],"type":"Point"}
+}

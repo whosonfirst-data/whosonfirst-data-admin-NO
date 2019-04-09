@@ -1,0 +1,132 @@
+{
+  "id": 101814573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000158,
+    "geom:area_square_m":714923.62995,
+    "geom:bbox":"16.9800911122,68.5136018131,17.0140195156,68.5296476224",
+    "geom:latitude":68.521323,
+    "geom:longitude":17.001168,
+    "gn:population":392,
+    "iso:country":"NO",
+    "lbl:latitude":68.519105,
+    "lbl:longitude":17.004253,
+    "mps:latitude":68.519105,
+    "mps:longitude":17.004253,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u4f2f\u6839"
+    ],
+    "name:dut_x_preferred":[
+        "Bogen"
+    ],
+    "name:eng_x_preferred":[
+        "Bogen"
+    ],
+    "name:fin_x_preferred":[
+        "Bogen"
+    ],
+    "name:fre_x_preferred":[
+        "Bogen"
+    ],
+    "name:ger_x_preferred":[
+        "Bogen i Ofoten"
+    ],
+    "name:jav_x_preferred":[
+        "Bogen"
+    ],
+    "name:may_x_preferred":[
+        "Bogen"
+    ],
+    "name:nno_x_preferred":[
+        "Bogen"
+    ],
+    "name:nob_x_preferred":[
+        "Bogen"
+    ],
+    "name:nor_x_preferred":[
+        "Bogen I Ofoten"
+    ],
+    "name:nor_x_variant":[
+        "R\u00e1nda",
+        "Bogen",
+        "Bogen i Ofoten"
+    ],
+    "name:rum_x_preferred":[
+        "Bogen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0433\u0435\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Bogen i Ofoten"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Nordland",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"Evenes",
+    "qs:la_lc":"*NO1853",
+    "qs:level":"locality",
+    "qs:loc":"Bogen",
+    "qs:loc_alt":"Bogen",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        1159296951,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01fb0484-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3160846,
+        "gp:id":857349,
+        "qs:id":1145235,
+        "qs_pg:id":1145235,
+        "wd:id":"Q2047509",
+        "wk:page":"Bogen, Evenes"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ebc1ec948ee5f128878c904ae600915c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296951,
+            "locality_id":101814573,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":101814573,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1529700152,
+    "wof:name":"Bogen",
+    "wof:parent_id":1159296951,
+    "wof:placetype":"locality",
+    "wof:population":392,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.98009111218636,
+    68.51360181311935,
+    17.01401951563929,
+    68.52964762236473
+],
+  "geometry": {"coordinates":[[[17.0036680895667,68.52946389642022],[17.00257722662241,68.52586140142137],[17.00498499084665,68.52576950700484],[17.0047122414673,68.52486888835978],[17.00952753073932,68.52468501304406],[17.00925462051072,68.52378440273952],[17.0116621455615,68.5236924218446],[17.01138916663098,68.52279181594525],[17.00898173369319,68.52288379290195],[17.00707218122329,68.5165795371106],[17.01188573965743,68.51639560687408],[17.01161285591962,68.5154950086436],[17.01401951563929,68.51540300030666],[17.01347363428977,68.51360181311935],[16.99903450607292,68.51415334437661],[16.99930688282501,68.51505396134178],[16.99690020544534,68.51514577712504],[16.99744484491288,68.51694702031926],[16.99985170640559,68.5168551966762],[17.00230456937788,68.52496077884132],[16.999896878995,68.5250526378714],[17.00016944410163,68.52595326438501],[16.99294598682241,68.52622866455596],[16.99267369814191,68.52532802624961],[16.99026593464328,68.52541975947025],[16.98999376146185,68.52451911770504],[16.98517836396456,68.52470248193424],[16.9849063984023,68.52380183278734],[16.98009111218636,68.52398506335936],[16.98063469807022,68.52578637781642],[16.98304253458809,68.52569477041123],[16.98331445466675,68.52659542442302],[16.99053813117666,68.52632040170499],[16.99081035106525,68.52722104440943],[16.99321829886554,68.52712930333178],[16.99349063427485,68.52802994257655],[16.9983066593631,68.52784635819296],[16.99885176897192,68.52964762236473],[17.0036680895667,68.52946389642022]]],"type":"Polygon"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1260079529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.26444,70.46083,24.26444,70.46083",
+    "geom:latitude":70.46083,
+    "geom:longitude":24.26444,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2017.0",
+    "gn:asciiname":"Djupelv",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":780318,
+    "gn:latitude":70.46083,
+    "gn:longitude":24.26444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Djupelv",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Djupelv"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u044e\u043f\u0435\u043b\u044c\u0432\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297439,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":780318
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"18842266eb0af126ca8d58f318bdce74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297439,
+            "locality_id":1260079529,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1260079529,
+    "wof:lastmodified":1537675664,
+    "wof:name":"Djupelv",
+    "wof:parent_id":1159297439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.26444,
+    70.46083,
+    24.26444,
+    70.46083
+],
+  "geometry": {"coordinates":[24.26444,70.46083],"type":"Point"}
+}

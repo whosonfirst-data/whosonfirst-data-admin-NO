@@ -1,0 +1,66 @@
+{
+  "id": 1360181309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.45677,67.10948,15.45677,67.10948",
+    "geom:latitude":67.10948,
+    "geom:longitude":15.45677,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1840.0",
+    "gn:asciiname":"Soksenvik vestre",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3137947,
+    "gn:latitude":67.10948,
+    "gn:longitude":15.45677,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Soksenvik vestre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297115,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3137947
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ed30051f638c35d5a1412cd58c6587fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297115,
+            "locality_id":1360181309,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1360181309,
+    "wof:lastmodified":1536806601,
+    "wof:name":"Soksenvik vestre",
+    "wof:parent_id":1159297115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.45677,
+    67.10948,
+    15.45677,
+    67.10948
+],
+  "geometry": {"coordinates":[15.45677,67.10948],"type":"Point"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 1125973531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.31426,60.298923,9.31426,60.298923",
+    "geom:latitude":60.298923,
+    "geom:longitude":9.31426,
+    "gn:gn_country":null,
+    "iso:country":"NO",
+    "lbl:latitude":60.298923,
+    "lbl:longitude":9.31426,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Eggedal"
+    ],
+    "name:eng_x_preferred":[
+        "Eggedal"
+    ],
+    "name:fre_x_preferred":[
+        "Eggedal"
+    ],
+    "name:jav_x_preferred":[
+        "Eggedal"
+    ],
+    "name:may_x_preferred":[
+        "Eggedal"
+    ],
+    "name:nno_x_preferred":[
+        "Eggedal"
+    ],
+    "name:nob_x_preferred":[
+        "Eggedal"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Eggerdal",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Buskerud Fylke",
+    "qs_pg:photos":29,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":29,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1314427,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":29305025,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Buskerud Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296793,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29305025,
+        "qs_pg:id":1314427,
+        "wd:id":"Q4585224"
+    },
+    "wof:country":"NO",
+    "wof:created":1497298262,
+    "wof:geomhash":"f9d6f349cc0f6eefd50ccf5de2f8a092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296793,
+            "locality_id":1125973531,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1125973531,
+    "wof:lastmodified":1529699851,
+    "wof:name":"Eggerdal",
+    "wof:parent_id":1159296793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.31426,
+    60.298923,
+    9.31426,
+    60.298923
+],
+  "geometry": {"coordinates":[9.31426,60.298923],"type":"Point"}
+}

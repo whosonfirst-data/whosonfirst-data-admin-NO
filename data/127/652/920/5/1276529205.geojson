@@ -1,0 +1,71 @@
+{
+  "id": 1276529205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.24092,61.41254,10.24092,61.41254",
+    "geom:latitude":61.41254,
+    "geom:longitude":10.24092,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"520.0",
+    "gn:asciiname":"Sletring",
+    "gn:country_code":"NO",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537258,
+    "gn:latitude":61.41254,
+    "gn:longitude":10.24092,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Sletring",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Sletring"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296971,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537258
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1347ae460ce7169cba7e6e2b189c1547",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296971,
+            "locality_id":1276529205,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1276529205,
+    "wof:lastmodified":1537676003,
+    "wof:name":"Sletring",
+    "wof:parent_id":1159296971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.24092,
+    61.41254,
+    10.24092,
+    61.41254
+],
+  "geometry": {"coordinates":[10.24092,61.41254],"type":"Point"}
+}

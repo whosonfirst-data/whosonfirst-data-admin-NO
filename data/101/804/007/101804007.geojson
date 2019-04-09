@@ -1,0 +1,116 @@
+{
+  "id": 101804007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000196,
+    "geom:area_square_m":1143241.624538,
+    "geom:bbox":"8.2497764955,61.8775947635,8.28235871431,61.8891906363",
+    "geom:latitude":61.882808,
+    "geom:longitude":8.264972,
+    "gn:population":573,
+    "iso:country":"NO",
+    "lbl:latitude":61.88293,
+    "lbl:longitude":8.264972,
+    "mps:latitude":61.88293,
+    "mps:longitude":8.264972,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Bismo"
+    ],
+    "name:eng_x_preferred":[
+        "Bismo"
+    ],
+    "name:fre_x_preferred":[
+        "Bismo"
+    ],
+    "name:jav_x_preferred":[
+        "Bismo"
+    ],
+    "name:may_x_preferred":[
+        "Bismo"
+    ],
+    "name:msa_x_preferred":[
+        "Bismo"
+    ],
+    "name:nld_x_preferred":[
+        "Bismo"
+    ],
+    "name:nno_x_preferred":[
+        "Bismo"
+    ],
+    "name:nob_x_preferred":[
+        "Bismo"
+    ],
+    "name:nor_x_preferred":[
+        "Bismo"
+    ],
+    "name:ron_x_preferred":[
+        "Bismo"
+    ],
+    "name:rum_x_preferred":[
+        "Bismo"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Oppland",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"Skj\u00e5k",
+    "qs:la_lc":"*NO0513",
+    "qs:level":"locality",
+    "qs:loc":"Bismo",
+    "qs:loc_alt":"Bismo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        102191581,
+        1159297411,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3161518,
+        "gp:id":857167,
+        "qs:id":249703,
+        "wd:id":"Q1769662"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4eae3b73a9dd08b798fd2a1b301f2f01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297411,
+            "locality_id":101804007,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":101804007,
+    "wof:lastmodified":1529700233,
+    "wof:name":"Bismo",
+    "wof:parent_id":1159297411,
+    "wof:placetype":"locality",
+    "wof:population":573,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.24977649549749,
+    61.87759476350317,
+    8.28235871431019,
+    61.88919063630897
+],
+  "geometry": {"coordinates":[[[8.26098725204457,61.88919063630897],[8.26103713956087,61.88829012398099],[8.26293065852281,61.88831233081078],[8.26298048848906,61.88741181825452],[8.26866089779043,61.88747829147326],[8.26885953377166,61.88387623755307],[8.274539314761,61.88394248454068],[8.27463828765474,61.8821414562359],[8.28221093025644,61.88222944129973],[8.28235871431019,61.87952789399122],[8.27667971671696,61.87946194784774],[8.27677854855904,61.87766092300222],[8.27109989895587,61.87759476350317],[8.27105032198756,61.87849527354876],[8.26347860760961,61.87840671952881],[8.26342881046452,61.87930722720648],[8.25964286001113,61.87926280368919],[8.25959295112449,61.88016331042184],[8.25580690236768,61.8801187887496],[8.25575688172546,61.88101929453404],[8.25386380693004,61.88099699670823],[8.25376364728186,61.88279800830156],[8.25187046655782,61.88277568485466],[8.25182032754083,61.88367619066275],[8.24992709512446,61.88365384231253],[8.24977649549749,61.88635536049998],[8.25735009147076,61.88644461743644],[8.2572001132088,61.88914614865149],[8.26098725204457,61.88919063630897]]],"type":"Polygon"}
+}

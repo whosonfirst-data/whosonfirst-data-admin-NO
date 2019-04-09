@@ -1,0 +1,68 @@
+{
+  "id": 1209719685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.01667,60.1,11.01667,60.1",
+    "geom:latitude":60.1,
+    "geom:longitude":11.01667,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"234.0",
+    "gn:asciiname":"Vestby",
+    "gn:country_code":"NO",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3132056,
+    "gn:latitude":60.1,
+    "gn:longitude":11.01667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Vestby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296941,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3132056
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d708166696031e629c29bfdbfc089fa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296941,
+            "locality_id":1209719685,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1209719685,
+    "wof:lastmodified":1536386947,
+    "wof:name":"Vestby",
+    "wof:parent_id":1159296941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.01667,
+    60.1,
+    11.01667,
+    60.1
+],
+  "geometry": {"coordinates":[11.01667,60.1],"type":"Point"}
+}

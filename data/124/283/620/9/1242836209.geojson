@@ -1,0 +1,68 @@
+{
+  "id": 1242836209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.36667,59.31667,10.36667,59.31667",
+    "geom:latitude":59.31667,
+    "geom:longitude":10.36667,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"704.0",
+    "gn:asciiname":"Nauen",
+    "gn:country_code":"NO",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3144961,
+    "gn:latitude":59.31667,
+    "gn:longitude":10.36667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Nauen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297321,
+        85633341,
+        85687073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3144961
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b9c5a31ce32536c25c230ea48ad2c6a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297321,
+            "locality_id":1242836209,
+            "region_id":85687073
+        }
+    ],
+    "wof:id":1242836209,
+    "wof:lastmodified":1536691452,
+    "wof:name":"Nauen",
+    "wof:parent_id":1159297321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.36667,
+    59.31667,
+    10.36667,
+    59.31667
+],
+  "geometry": {"coordinates":[10.36667,59.31667],"type":"Point"}
+}

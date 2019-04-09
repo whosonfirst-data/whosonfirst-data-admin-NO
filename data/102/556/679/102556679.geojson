@@ -1,0 +1,99 @@
+{
+  "id": 102556679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.9738888889,70.0666666667,24.9738888889,70.0666666667",
+    "geom:latitude":70.066667,
+    "geom:longitude":24.973889,
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Lakselv Lufthavn"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Lakselv"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u06a9\u0633\u0644\u0648 \u0628\u0627\u0646\u0627\u06a9"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Lakselv Banak"
+    ],
+    "name:nno_x_preferred":[
+        "Lakselv lufthamn"
+    ],
+    "name:nor_x_preferred":[
+        "Lakselv lufthavn"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Lakselv"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Lakselv-Banak"
+    ],
+    "name:swe_x_preferred":[
+        "Lakselvs flygplats"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043b\u043a\u0441\u043b\u0443 \u0431\u043e\u043d\u043e\u043a"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Lakselv"
+    ],
+    "oa:elevation_ft":"25",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":2548,
+    "woe:hierarchy":{
+        "country_id":23424910,
+        "county_id":12592907,
+        "planet_id":1,
+        "state_id":2346388
+    },
+    "wof:belongsto":[
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515102,
+        "iata:code":"LKL",
+        "icao:code":"ENNA",
+        "oa:id":"2587",
+        "wd:id":"Q2763148"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7851426e40c4bb38a138e1b2a40472b2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556679,
+            "country_id":85633341,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":102556679,
+    "wof:lastmodified":1543792155,
+    "wof:name":"Lakselv Lufthavn Banak",
+    "wof:parent_id":85687145,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    24.973888888889,
+    70.066666666667,
+    24.973888888889,
+    70.066666666667
+],
+  "geometry": {"coordinates":[24.973888888889,70.066666666667],"type":"Point"}
+}

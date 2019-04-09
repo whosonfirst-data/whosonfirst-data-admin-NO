@@ -1,0 +1,92 @@
+{
+  "id": 101911661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00008,
+    "geom:bbox":"7.11460037438,62.5180382146,7.13400209084,62.5289156801",
+    "geom:latitude":62.523207,
+    "geom:longitude":7.125417,
+    "iso:country":"NO",
+    "lbl:latitude":62.523975,
+    "lbl:longitude":7.12865,
+    "mps:latitude":62.523975,
+    "mps:longitude":7.12865,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nld_x_preferred":[
+        "Tresfjord"
+    ],
+    "name:nno_x_preferred":[
+        "Tresfjord"
+    ],
+    "name:nor_x_preferred":[
+        "Tresfjord"
+    ],
+    "name:pol_x_preferred":[
+        "Tresfjord"
+    ],
+    "name:ron_x_preferred":[
+        "Tresfjord"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*M\u00f8re og Romsdal",
+    "qs:a1r":"2",
+    "qs:adm0":"Norge",
+    "qs:id":0,
+    "qs:la":"Vestnes",
+    "qs:la_lc":"*NO1535",
+    "qs:level":"locality",
+    "qs:loc":"Tresfjord",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet near local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":184,
+    "wof:belongsto":[
+        102191581,
+        1159297289,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":865132,
+        "qs:id":1090723,
+        "qs_pg:id":1090723,
+        "wd:id":"Q3316998"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b99bbe029d09486616cb31ef4a2e733c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297289,
+            "locality_id":101911661,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":101911661,
+    "wof:lastmodified":1529700090,
+    "wof:name":"Tresfjord",
+    "wof:parent_id":1159297289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.11460037437905,
+    62.51803821455127,
+    7.13400209083824,
+    62.52891568005293
+],
+  "geometry": {"coordinates":[[[7.12761482125853,62.52891568005293],[7.12778405045839,62.52711503072089],[7.12971601881793,62.52715180528543],[7.12980056811529,62.52625148014067],[7.13173248412926,62.52628822876278],[7.13198592761256,62.52358725263258],[7.13391767779638,62.52362397288641],[7.13400209083824,62.52272364727855],[7.13207039739109,62.5226869282385],[7.13215486147908,62.52178660433543],[7.13022322916595,62.52174986178636],[7.13030774429279,62.52084953958894],[7.12837617311118,62.52081277353261],[7.12846073926937,62.51991245304134],[7.12652922921808,62.51987566347918],[7.12669845788326,62.51807502640082],[7.12476706567588,62.51803821455127],[7.1245130439691,62.52073916725487],[7.11871838335253,62.52062857242811],[7.11863352786258,62.52152888732218],[7.1147703294335,62.52145503139087],[7.11460037437905,62.52325565776846],[7.12039551904434,62.52336641190374],[7.12031070314072,62.52426672948923],[7.12610605779344,62.52437726476506],[7.12576741800416,62.52797855463297],[7.12383540171174,62.52794172939662],[7.12375067074515,62.52884205187416],[7.12761482125853,62.52891568005293]]],"type":"Polygon"}
+}

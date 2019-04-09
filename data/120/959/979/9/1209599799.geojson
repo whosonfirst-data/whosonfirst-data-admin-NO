@@ -1,0 +1,65 @@
+{
+  "id": 1209599799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.52938,68.55138,17.52938,68.55138",
+    "geom:latitude":68.55138,
+    "geom:longitude":17.52938,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1805.0",
+    "gn:asciiname":"Prestjord",
+    "gn:country_code":"NO",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536453,
+    "gn:latitude":68.55138,
+    "gn:longitude":17.52938,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Prestjord",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Prestjord"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536453
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"699f383b33f4c3e2cb03562c2ea35115",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209599799
+        }
+    ],
+    "wof:id":1209599799,
+    "wof:lastmodified":1537675969,
+    "wof:name":"Prestjord",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.52938,
+    68.55138000000001,
+    17.52938,
+    68.55138000000001
+],
+  "geometry": {"coordinates":[17.52938,68.55138000000001],"type":"Point"}
+}

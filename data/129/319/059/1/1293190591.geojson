@@ -1,0 +1,71 @@
+{
+  "id": 1293190591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.15,66.31667,14.15,66.31667",
+    "geom:latitude":66.31667,
+    "geom:longitude":14.15,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1833.0",
+    "gn:asciiname":"Gullsmedvika",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3154525,
+    "gn:latitude":66.31667,
+    "gn:longitude":14.15,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gullsmedvika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guldsmedviken",
+        "Gullsmedvika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296963,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3154525
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8bc9ed343f8dd9eb8f0cf9e5275145df",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296963,
+            "locality_id":1293190591,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1293190591,
+    "wof:lastmodified":1537675827,
+    "wof:name":"Gullsmedvika",
+    "wof:parent_id":1159296963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.15,
+    66.31667,
+    14.15,
+    66.31667
+],
+  "geometry": {"coordinates":[14.15,66.31667],"type":"Point"}
+}

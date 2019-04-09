@@ -1,0 +1,71 @@
+{
+  "id": 1327051347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.53433,60.20623,5.53433,60.20623",
+    "geom:latitude":60.20623,
+    "geom:longitude":5.53433,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1243.0",
+    "gn:asciiname":"Hattvik",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537864,
+    "gn:latitude":60.20623,
+    "gn:longitude":5.53433,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Hattvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Hattvik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297561,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537864
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8dab2da786e5c0378aa746f5c4e1bab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297561,
+            "locality_id":1327051347,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1327051347,
+    "wof:lastmodified":1537676031,
+    "wof:name":"Hattvik",
+    "wof:parent_id":1159297561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.53433,
+    60.20623000000001,
+    5.53433,
+    60.20623000000001
+],
+  "geometry": {"coordinates":[5.53433,60.20623000000001],"type":"Point"}
+}

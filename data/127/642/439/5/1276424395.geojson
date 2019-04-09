@@ -1,0 +1,68 @@
+{
+  "id": 1276424395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.36667,59.41667,5.36667,59.41667",
+    "geom:latitude":59.41667,
+    "geom:longitude":5.36667,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1146.0",
+    "gn:asciiname":"Skred",
+    "gn:country_code":"NO",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3138511,
+    "gn:latitude":59.41667,
+    "gn:longitude":5.36667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Skred",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297113,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3138511
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b242bc55b724bd7d10642e5498223f70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297113,
+            "locality_id":1276424395,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1276424395,
+    "wof:lastmodified":1536656764,
+    "wof:name":"Skred",
+    "wof:parent_id":1159297113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.36667,
+    59.41667,
+    5.36667,
+    59.41667
+],
+  "geometry": {"coordinates":[5.36667,59.41667],"type":"Point"}
+}

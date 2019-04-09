@@ -1,0 +1,65 @@
+{
+  "id": 1209084495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.12443,60.93292,9.12443,60.93292",
+    "geom:latitude":60.93292,
+    "geom:longitude":9.12443,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"542.0",
+    "gn:asciiname":"Breidsetstolan",
+    "gn:country_code":"NO",
+    "gn:dem":992,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535756,
+    "gn:latitude":60.93292,
+    "gn:longitude":9.12443,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Breidsetst\u00f8lan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Breidsetst\u00f8lan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535756
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3f58c0290c8a37b74796208b5b025ba7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209084495
+        }
+    ],
+    "wof:id":1209084495,
+    "wof:lastmodified":1537675940,
+    "wof:name":"Breidsetstolan",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.12443,
+    60.93292,
+    9.12443,
+    60.93292
+],
+  "geometry": {"coordinates":[9.12443,60.93292],"type":"Point"}
+}

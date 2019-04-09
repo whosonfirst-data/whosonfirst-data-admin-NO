@@ -1,0 +1,121 @@
+{
+  "id": 85901631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000148,
+    "geom:area_square_m":916312.07992,
+    "geom:bbox":"10.7720947266,59.9247429098,10.7940673828,59.9334786479",
+    "geom:latitude":59.928715,
+    "geom:longitude":10.783192,
+    "gn:latitude":59.93389,
+    "gn:longitude":10.78514,
+    "iso:country":"NO",
+    "lbl:latitude":59.93499,
+    "lbl:longitude":10.783429,
+    "mps:latitude":59.928871,
+    "mps:longitude":10.783192,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Sindsen"
+    ],
+    "name:eng_x_variant":[
+        "Simsen",
+        "Sindsen"
+    ],
+    "name:nor_x_preferred":[
+        "Sinsen"
+    ],
+    "name:unk_x_variant":[
+        "Simsen",
+        "Sinsen"
+    ],
+    "qs:gn_adm0_cc":"NO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3143244,
+    "qs:gn_namadm1":"12",
+    "qs:gn_name":"Sinsen",
+    "qs:local_max":14984,
+    "qs:local_sum":116500,
+    "qs:localhoods":70,
+    "qs:name":"Sinsen",
+    "qs:name_adm0":"Norge",
+    "qs:name_adm1":"Oslo Fylke",
+    "qs:name_adm2":"Bydel Gr\u00fcnerl\u00f8kka",
+    "qs:name_en":"Sindsen",
+    "qs:name_local":"Oslo",
+    "qs:photo_max":44,
+    "qs:photo_sum":263,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":20,
+    "qs:woe_adm0":23424910,
+    "qs:woe_adm1":2346395,
+    "qs:woe_adm2":20100065,
+    "qs:woe_lau":0,
+    "qs:woe_local":862592,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":320,
+    "wof:belongsto":[
+        85687089,
+        102191581,
+        1159297167,
+        85633341,
+        101751917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3139618,
+        "gp:id":863646,
+        "qs:id":314549,
+        "qs_pg:id":314549,
+        "wd:id":"Q7525038",
+        "wk:page":"Sinsen"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8e7d323f597188ea90e81fa0ddd24cbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297167,
+            "locality_id":101751917,
+            "neighbourhood_id":85901631,
+            "region_id":85687089
+        }
+    ],
+    "wof:id":85901631,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1529700265,
+    "wof:name":"Sinsen",
+    "wof:parent_id":101751917,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.77209472658336,
+    59.92474290979997,
+    10.79406738282097,
+    59.93347864788798
+],
+  "geometry": {"coordinates":[[[10.79132080080012,59.93036087571441],[10.79149022450059,59.93024816649999],[10.79406738279999,59.93024816649999],[10.79406738281472,59.92853371044073],[10.79406738281472,59.92749568090001],[10.79406738282097,59.92749562380028],[10.79337766791008,59.92611920970025],[10.78926393369022,59.92611920970025],[10.78857424738999,59.92474296689998],[10.78857421877501,59.92474290979997],[10.78394015041033,59.92474290979997],[10.78394012752881,59.92474296404005],[10.78308105470012,59.92474296451674],[10.78033447268177,59.92474295927356],[10.77758789061221,59.92474295863796],[10.77484130860012,59.92474296145251],[10.77484130860012,59.92611934448344],[10.77209472658336,59.92611934606673],[10.7720947282574,59.92749567291601],[10.77209472660013,59.93024816649999],[10.77672888077592,59.93024816649999],[10.77758789060738,59.9319626080195],[10.77758789061818,59.93300036662505],[10.77758789060977,59.93300042370011],[10.78308105470012,59.93300042370011],[10.78817489008037,59.93300042370011],[10.78857421877501,59.93347864788798],[10.78977220487405,59.93300042370011],[10.79084611122261,59.93257173091989],[10.79132079940018,59.93162431632545],[10.79132080080012,59.93036087571441]]],"type":"Polygon"}
+}

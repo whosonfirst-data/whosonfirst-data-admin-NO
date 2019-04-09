@@ -1,0 +1,71 @@
+{
+  "id": 1209949645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.23502,59.79001,10.23502,59.79001",
+    "geom:latitude":59.79001,
+    "geom:longitude":10.23502,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"626",
+    "gn:asciiname":"Eikenga",
+    "gn:country_code":"NO",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404100,
+    "gn:latitude":59.79001,
+    "gn:longitude":10.23502,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Eikenga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Eikenga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296937,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404100
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"89fc5d543755a56c356fa82ba579448a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296937,
+            "locality_id":1209949645,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1209949645,
+    "wof:lastmodified":1537675917,
+    "wof:name":"Eikenga",
+    "wof:parent_id":1159296937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.23502,
+    59.79001,
+    10.23502,
+    59.79001
+],
+  "geometry": {"coordinates":[10.23502,59.79001],"type":"Point"}
+}

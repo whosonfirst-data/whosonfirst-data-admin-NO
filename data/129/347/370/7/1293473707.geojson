@@ -1,0 +1,70 @@
+{
+  "id": 1293473707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.22185,64.30882,11.22185,64.30882",
+    "geom:latitude":64.30882,
+    "geom:longitude":11.22185,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5040.0",
+    "gn:asciiname":"Sjoasen",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:elevation":"5.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6942355,
+    "gn:latitude":64.30882,
+    "gn:longitude":11.22185,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Sj\u00f8\u00e5sen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296897,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6942355,
+        "wk:page":"Sj%C3%B8%C3%A5sen"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3d5fbfff29846630f436f13f6c44a665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296897,
+            "locality_id":1293473707,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1293473707,
+    "wof:lastmodified":1537570112,
+    "wof:name":"Sjoasen",
+    "wof:parent_id":1159296897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.22185,
+    64.30882,
+    11.22185,
+    64.30882
+],
+  "geometry": {"coordinates":[11.22185,64.30882],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209716477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.33891,59.98629,9.33891,59.98629",
+    "geom:latitude":59.98629,
+    "geom:longitude":9.33891,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"632.0",
+    "gn:asciiname":"Bergangrendi",
+    "gn:country_code":"NO",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537834,
+    "gn:latitude":59.98629,
+    "gn:longitude":9.33891,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Bergangrendi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Bergangrendi"
+    ],
+    "name:nor_x_variant":[
+        "Bergangrende"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296823,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537834
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"79ec0417e651c893c064dac2ebcdd00c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296823,
+            "locality_id":1209716477,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1209716477,
+    "wof:lastmodified":1537676030,
+    "wof:name":"Bergangrendi",
+    "wof:parent_id":1159296823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.33891,
+    59.98629,
+    9.33891,
+    59.98629
+],
+  "geometry": {"coordinates":[9.33891,59.98629],"type":"Point"}
+}

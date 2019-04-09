@@ -1,0 +1,65 @@
+{
+  "id": 1209320661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.20237,60.13522,10.20237,60.13522",
+    "geom:latitude":60.13522,
+    "geom:longitude":10.20237,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"605.0",
+    "gn:asciiname":"Gamlesnyta",
+    "gn:country_code":"NO",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537436,
+    "gn:latitude":60.13522,
+    "gn:longitude":10.20237,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Gamlesnyta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Gamlesnyta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537436
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3624bf7e18953cf2f6a1bb9f00e29c64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209320661
+        }
+    ],
+    "wof:id":1209320661,
+    "wof:lastmodified":1537676011,
+    "wof:name":"Gamlesnyta",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.20237,
+    60.13522,
+    10.20237,
+    60.13522
+],
+  "geometry": {"coordinates":[10.20237,60.13522],"type":"Point"}
+}

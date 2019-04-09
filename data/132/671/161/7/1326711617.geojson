@@ -1,0 +1,68 @@
+{
+  "id": 1326711617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.26559,60.80594,10.26559,60.80594",
+    "geom:latitude":60.80594,
+    "geom:longitude":10.26559,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"536",
+    "gn:asciiname":"Vestrumsbygda",
+    "gn:country_code":"NO",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9179795,
+    "gn:latitude":60.80594,
+    "gn:longitude":10.26559,
+    "gn:modification_date":"2017-09-23",
+    "gn:name":"Vestrumsbygda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297295,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9179795
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"89e959e3da72397c04fd7bbfc7d69fb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297295,
+            "locality_id":1326711617,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1326711617,
+    "wof:lastmodified":1536725874,
+    "wof:name":"Vestrumsbygda",
+    "wof:parent_id":1159297295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.26559,
+    60.80594,
+    10.26559,
+    60.80594
+],
+  "geometry": {"coordinates":[10.26559,60.80594],"type":"Point"}
+}

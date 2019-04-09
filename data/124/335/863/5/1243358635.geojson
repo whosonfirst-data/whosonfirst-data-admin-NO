@@ -1,0 +1,71 @@
+{
+  "id": 1243358635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.61667,64.93333,11.61667,64.93333",
+    "geom:latitude":64.93333,
+    "geom:longitude":11.61667,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5051.0",
+    "gn:asciiname":"Rodseidet",
+    "gn:country_code":"NO",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141581,
+    "gn:latitude":64.93333,
+    "gn:longitude":11.61667,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"R\u00f8dseidet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "R\u00f8dseidet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297169,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141581
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"08ffc6db48a260a6f0a215cbf92d8868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297169,
+            "locality_id":1243358635,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1243358635,
+    "wof:lastmodified":1537675739,
+    "wof:name":"Rodseidet",
+    "wof:parent_id":1159297169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.61667,
+    64.93333,
+    11.61667,
+    64.93333
+],
+  "geometry": {"coordinates":[11.61667,64.93333],"type":"Point"}
+}

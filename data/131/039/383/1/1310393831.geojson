@@ -1,0 +1,72 @@
+{
+  "id": 1310393831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.75,60.95,10.75,60.95",
+    "geom:latitude":60.95,
+    "geom:longitude":10.75,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Flotlia",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3156963,
+    "gn:latitude":60.95,
+    "gn:longitude":10.75,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Fl\u00f8tlia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fl\u00f6tlien",
+        "Fl\u00f8tlia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296699,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3156963
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"98aff2f1a1b91bfa063a2d3921d6b1b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296699,
+            "locality_id":1310393831,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1310393831,
+    "wof:lastmodified":1537675842,
+    "wof:name":"Flotlia",
+    "wof:parent_id":1159296699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.75,
+    60.95,
+    10.75,
+    60.95
+],
+  "geometry": {"coordinates":[10.75,60.95],"type":"Point"}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 101911315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000127,
+    "geom:area_square_m":765622.9025,
+    "geom:bbox":"10.8029381629,60.9001335838,10.8228980356,60.916369179",
+    "geom:latitude":60.908706,
+    "geom:longitude":10.813803,
+    "iso:country":"NO",
+    "lbl:latitude":60.907803,
+    "lbl:longitude":10.813122,
+    "mps:latitude":60.907803,
+    "mps:longitude":10.813122,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Rudsh\u00f8gda"
+    ],
+    "name:eng_x_preferred":[
+        "Rudsh\u00f8gda"
+    ],
+    "name:fre_x_preferred":[
+        "Rudsh\u00f8gda"
+    ],
+    "name:jav_x_preferred":[
+        "Rudsh\u00f8gda"
+    ],
+    "name:may_x_preferred":[
+        "Rudsh\u00f8gda"
+    ],
+    "name:msa_x_preferred":[
+        "Rudsh\u00f8gda"
+    ],
+    "name:nno_x_preferred":[
+        "Rudsh\u00f8gda"
+    ],
+    "name:nob_x_preferred":[
+        "Rudsh\u00f8gda"
+    ],
+    "name:nor_x_preferred":[
+        "Rudsh\u00f8gda"
+    ],
+    "name:swe_x_preferred":[
+        "Rudsh\u00f8gda"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Hedmark",
+    "qs:a1r":"5",
+    "qs:adm0":"Norge",
+    "qs:id":0,
+    "qs:la":"Ringsaker",
+    "qs:la_lc":"*NO0412",
+    "qs:level":"locality",
+    "qs:loc":"Rudsh\u00f8gda",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":86,
+    "wof:belongsto":[
+        102191581,
+        1159296699,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15000655,
+        "qs:id":221533,
+        "qs_pg:id":221533,
+        "wd:id":"Q5982708"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"43851eda8cc2d37df019141bdbf6cd9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296699,
+            "locality_id":101911315,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":101911315,
+    "wof:lastmodified":1529700023,
+    "wof:name":"Rudsh\u00f8gda",
+    "wof:parent_id":1159296699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.80293816286849,
+    60.90013358382515,
+    10.82289803557211,
+    60.91636917898586
+],
+  "geometry": {"coordinates":[[[10.8158437281889,60.91635880567065],[10.81577624356549,60.91365805963176],[10.81761341339848,60.91364766389984],[10.81759087074931,60.91274741642576],[10.8157537515583,60.91275781183458],[10.81566379786153,60.90915682505755],[10.81750071451768,60.90914643094089],[10.81745564501898,60.90734594084432],[10.81929245932031,60.90733552399467],[10.81926987610575,60.90643527993143],[10.82110663867905,60.90642484002717],[10.82106137533771,60.90462435387144],[10.82289803557211,60.90461389123925],[10.82282999955549,60.901913166285],[10.81915698161254,60.90193406622438],[10.81911183388394,60.90013358382515],[10.81727542444554,60.9001439980857],[10.81729794699436,60.90104423938874],[10.81546148585369,60.90105463059911],[10.81555138797944,60.90465560150705],[10.81004139068955,60.90468663875112],[10.81015304127948,60.90918786712405],[10.80647919807097,60.90920844493252],[10.80659037788178,60.91370968752892],[10.80475320145865,60.91371994295582],[10.80477539102708,60.91462019311774],[10.80293816286849,60.91463042547826],[10.80296030320181,60.91553067639973],[10.80663485972718,60.91551018765659],[10.80661261809587,60.91460993737212],[10.81212429273859,60.91457902982557],[10.81214668631628,60.91547927914939],[10.81398395964953,60.91546892954233],[10.81400640530626,60.91636917898586],[10.8158437281889,60.91635880567065]]],"type":"Polygon"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293880441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.14915,60.13921,5.14915,60.13921",
+    "geom:latitude":60.13921,
+    "geom:longitude":5.14915,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1244.0",
+    "gn:asciiname":"Skar",
+    "gn:country_code":"NO",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3138616,
+    "gn:latitude":60.13921,
+    "gn:longitude":5.14915,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Sk\u00e5r",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Skor",
+        "Sk\u00e5r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297091,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3138616
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f8448ecd8455015ca419c0f719b89276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297091,
+            "locality_id":1293880441,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1293880441,
+    "wof:lastmodified":1537675717,
+    "wof:name":"Skar",
+    "wof:parent_id":1159297091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.14915,
+    60.13921,
+    5.14915,
+    60.13921
+],
+  "geometry": {"coordinates":[5.14915,60.13921],"type":"Point"}
+}

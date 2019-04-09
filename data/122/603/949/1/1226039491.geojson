@@ -1,0 +1,71 @@
+{
+  "id": 1226039491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.23169,59.59859,5.23169,59.59859",
+    "geom:latitude":59.59859,
+    "geom:longitude":5.23169,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1219",
+    "gn:asciiname":"Loningsneset",
+    "gn:country_code":"NO",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404356,
+    "gn:latitude":59.59859,
+    "gn:longitude":5.23169,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"L\u00f8ningsneset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "L\u00f8ningsneset"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296859,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404356
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"81bbc0cc95aaaf169c30d2f312ce2662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296859,
+            "locality_id":1226039491,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1226039491,
+    "wof:lastmodified":1537675928,
+    "wof:name":"Loningsneset",
+    "wof:parent_id":1159296859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.23169,
+    59.59859,
+    5.23169,
+    59.59859
+],
+  "geometry": {"coordinates":[5.23169,59.59859],"type":"Point"}
+}

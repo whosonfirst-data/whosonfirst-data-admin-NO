@@ -1,0 +1,62 @@
+{
+  "id": 1209512109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.41667,63.2,8.41667,63.2",
+    "geom:latitude":63.2,
+    "geom:longitude":8.41667,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1576.0",
+    "gn:asciiname":"Dalen",
+    "gn:country_code":"NO",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3159395,
+    "gn:latitude":63.2,
+    "gn:longitude":8.41667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Dalen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3159395
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8ff4d6c1f9a19026a761c2eb4fbb15ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209512109
+        }
+    ],
+    "wof:id":1209512109,
+    "wof:lastmodified":1536284849,
+    "wof:name":"Dalen",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.41667,
+    63.2,
+    8.41667,
+    63.2
+],
+  "geometry": {"coordinates":[8.41667,63.2],"type":"Point"}
+}

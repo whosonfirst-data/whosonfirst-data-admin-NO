@@ -1,0 +1,73 @@
+{
+  "id": 1260205779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.28333,62.4,10.28333,62.4",
+    "geom:latitude":62.4,
+    "geom:longitude":10.28333,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"437.0",
+    "gn:asciiname":"Borsjohogruve",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":1020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3160588,
+    "gn:latitude":62.4,
+    "gn:longitude":10.28333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"B\u00f8rsj\u00f8h\u00f8gruve",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00f6rsj\u00f6h\u00f6gruva",
+        "B\u00f8rsj\u00f8h\u00f8gruve"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297041,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160588
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b507d7e1fc0a21f790ea4e4d89ece0eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297041,
+            "locality_id":1260205779,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1260205779,
+    "wof:lastmodified":1537675871,
+    "wof:name":"Borsjohogruve",
+    "wof:parent_id":1159297041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.28333,
+    62.4,
+    10.28333,
+    62.4
+],
+  "geometry": {"coordinates":[10.28333,62.4],"type":"Point"}
+}

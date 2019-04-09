@@ -1,0 +1,69 @@
+{
+  "id": 1327318293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.45512,67.31654,14.45512,67.31654",
+    "geom:latitude":67.31654,
+    "geom:longitude":14.45512,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1804",
+    "gn:asciiname":"Storvollen",
+    "gn:country_code":"NO",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9403956,
+    "gn:latitude":67.31654,
+    "gn:longitude":14.45512,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Storvollen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Storvollen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297465,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9403956
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2e5230b1d64f480761843630c4fc55c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297465,
+            "locality_id":1327318293,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1327318293,
+    "wof:lastmodified":1537675911,
+    "wof:name":"Storvollen",
+    "wof:parent_id":1159297465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.45512,
+    67.31654,
+    14.45512,
+    67.31654
+],
+  "geometry": {"coordinates":[14.45512,67.31654],"type":"Point"}
+}

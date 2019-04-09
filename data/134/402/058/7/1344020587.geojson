@@ -1,0 +1,68 @@
+{
+  "id": 1344020587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.7,58.46667,6.7,58.46667",
+    "geom:latitude":58.46667,
+    "geom:longitude":6.7,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1004.0",
+    "gn:asciiname":"Modal",
+    "gn:country_code":"NO",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3145693,
+    "gn:latitude":58.46667,
+    "gn:longitude":6.7,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Modal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296845,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3145693
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a0748f72ae823ad1d5ffba5b3e51aba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296845,
+            "locality_id":1344020587,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1344020587,
+    "wof:lastmodified":1536934081,
+    "wof:name":"Modal",
+    "wof:parent_id":1159296845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.7,
+    58.46666999999999,
+    6.7,
+    58.46666999999999
+],
+  "geometry": {"coordinates":[6.7,58.46666999999999],"type":"Point"}
+}

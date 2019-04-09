@@ -1,0 +1,71 @@
+{
+  "id": 1260366251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.20776,59.39297,9.20776,59.39297",
+    "geom:latitude":59.39297,
+    "geom:longitude":9.20776,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"822.0",
+    "gn:asciiname":"Bergan",
+    "gn:country_code":"NO",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537688,
+    "gn:latitude":59.39297,
+    "gn:longitude":9.20776,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Bergan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Bergan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297147,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537688
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"54d1143ab8dd918b9c01e3a5afe4cd34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297147,
+            "locality_id":1260366251,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1260366251,
+    "wof:lastmodified":1537676024,
+    "wof:name":"Bergan",
+    "wof:parent_id":1159297147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.20776,
+    59.39297,
+    9.20776,
+    59.39297
+],
+  "geometry": {"coordinates":[9.20776,59.39297],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343264817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.43989,59.63992,7.43989,59.63992",
+    "geom:latitude":59.63992,
+    "geom:longitude":7.43989,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"941.0",
+    "gn:asciiname":"Bjaen",
+    "gn:country_code":"NO",
+    "gn:dem":921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537080,
+    "gn:latitude":59.63992,
+    "gn:longitude":7.43989,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Bj\u00e5en",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Bj\u00e5en"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296911,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537080,
+        "wk:page":"Bj%C3%A5en"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"51ef49b6eb718f5b20cdc9d442e528ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296911,
+            "locality_id":1343264817,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1343264817,
+    "wof:lastmodified":1537675995,
+    "wof:name":"Bjaen",
+    "wof:parent_id":1159296911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.43989,
+    59.63992,
+    7.43989,
+    59.63992
+],
+  "geometry": {"coordinates":[7.43989,59.63992],"type":"Point"}
+}

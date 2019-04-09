@@ -1,0 +1,73 @@
+{
+  "id": 1259950945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.81667,59.51667,5.81667,59.51667",
+    "geom:latitude":59.51667,
+    "geom:longitude":5.81667,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1160.0",
+    "gn:asciiname":"Ilsvag",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3151187,
+    "gn:latitude":59.51667,
+    "gn:longitude":5.81667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ilsv\u00e5g",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ilsvaag",
+        "Ilsv\u00e5g"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296919,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3151187
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"63157df0c64b256e363e2bf662bd2c25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296919,
+            "locality_id":1259950945,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1259950945,
+    "wof:lastmodified":1537675805,
+    "wof:name":"Ilsvag",
+    "wof:parent_id":1159296919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.81667,
+    59.51667,
+    5.81667,
+    59.51667
+],
+  "geometry": {"coordinates":[5.81667,59.51667],"type":"Point"}
+}

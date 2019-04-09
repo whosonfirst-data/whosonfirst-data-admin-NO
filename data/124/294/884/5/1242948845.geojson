@@ -1,0 +1,68 @@
+{
+  "id": 1242948845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.65333,68.55917,16.65333,68.55917",
+    "geom:latitude":68.55917,
+    "geom:longitude":16.65333,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1913.0",
+    "gn:asciiname":"Hansosen",
+    "gn:country_code":"NO",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3224488,
+    "gn:latitude":68.55917,
+    "gn:longitude":16.65333,
+    "gn:modification_date":"2010-10-15",
+    "gn:name":"Hansosen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296791,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3224488
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"583a15af5ad8f061d11d5eba82d6538d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296791,
+            "locality_id":1242948845,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1242948845,
+    "wof:lastmodified":1537024930,
+    "wof:name":"Hansosen",
+    "wof:parent_id":1159296791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.65333,
+    68.55917,
+    16.65333,
+    68.55917
+],
+  "geometry": {"coordinates":[16.65333,68.55916999999999],"type":"Point"}
+}

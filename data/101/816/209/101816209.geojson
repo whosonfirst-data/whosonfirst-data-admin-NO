@@ -1,0 +1,122 @@
+{
+  "id": 101816209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000175,
+    "geom:area_square_m":1104024.159839,
+    "geom:bbox":"10.8454891847,59.347377538,10.8822535498,59.3555489768",
+    "geom:latitude":59.351815,
+    "geom:longitude":10.86416,
+    "gn:population":1801,
+    "iso:country":"NO",
+    "lbl:latitude":59.352285,
+    "lbl:longitude":10.86416,
+    "mps:latitude":59.352285,
+    "mps:longitude":10.86416,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "Karlsbunden"
+    ],
+    "name:est_x_preferred":[
+        "Karlshus"
+    ],
+    "name:jav_x_preferred":[
+        "Karlshus"
+    ],
+    "name:msa_x_preferred":[
+        "Karlshus"
+    ],
+    "name:nld_x_preferred":[
+        "Karlshus"
+    ],
+    "name:nno_x_preferred":[
+        "Karlshus"
+    ],
+    "name:nor_x_preferred":[
+        "Karlshus"
+    ],
+    "name:nor_x_variant":[
+        "Carlshuus",
+        "R\u00e5de"
+    ],
+    "name:ron_x_preferred":[
+        "Karlshus"
+    ],
+    "name:swe_x_preferred":[
+        "Karlshus"
+    ],
+    "name:unk_x_variant":[
+        "Carlshuus"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*\u00d8stfold",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"R\u00e5de",
+    "qs:la_lc":"*NO0135",
+    "qs:level":"locality",
+    "qs:loc":"Karlshus",
+    "qs:loc_alt":"Karlshus",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":72,
+    "wof:belongsto":[
+        102191581,
+        1159297257,
+        85633341,
+        85687079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01fe7bfa-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3150437,
+        "gp:id":860463,
+        "qs:id":94763,
+        "qs_pg:id":94763,
+        "wd:id":"Q2258399",
+        "wk:page":"Karlshus"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8cdbd88657a49a0dca23a2c0338f2696",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297257,
+            "locality_id":101816209,
+            "region_id":85687079
+        }
+    ],
+    "wof:id":101816209,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1529700544,
+    "wof:name":"Karlshus",
+    "wof:parent_id":1159297257,
+    "wof:placetype":"locality",
+    "wof:population":1801,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.84548918471478,
+    59.34737753801369,
+    10.88225354982632,
+    59.35554897682783
+],
+  "geometry": {"coordinates":[[[10.84726511914505,59.35463870778636],[10.85603514485445,59.35458482825692],[10.8560573452645,59.35548438607395],[10.87184373567305,59.35538600193775],[10.87179851763875,59.35358689241644],[10.87530641099482,59.35356478645406],[10.87526101655726,59.35176567958808],[10.8770148707157,59.35175459397067],[10.87699213009284,59.35085504137203],[10.88225354982632,59.35082165236031],[10.88218492708148,59.34812299953893],[10.87692391648312,59.34815638561275],[10.8769466529767,59.34905593719316],[10.87168549650266,59.34908912455535],[10.87166289638003,59.34818957200133],[10.86640186682826,59.34822255870449],[10.86642433057915,59.34912211222593],[10.85940942808134,59.34916578515447],[10.859387146161,59.34826623035212],[10.85763346340127,59.34827709279529],[10.85761122828495,59.34737753801369],[10.8558575899475,59.34738837795175],[10.85587977960881,59.34828793305127],[10.8541260947855,59.34829875111967],[10.85421468501522,59.35189697618284],[10.84895307883352,59.35192930105558],[10.84897509333501,59.3528288591188],[10.84722117709026,59.35283959001072],[10.84724314745267,59.35373914872872],[10.84548918471478,59.35374985774394],[10.84553303847719,59.35554897682783],[10.84728709216773,59.35553826718399],[10.84726511914505,59.35463870778636]]],"type":"Polygon"}
+}

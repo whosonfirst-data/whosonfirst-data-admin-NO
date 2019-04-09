@@ -1,0 +1,67 @@
+{
+  "id": 1209127533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.73333,59.8,5.73333,59.8",
+    "geom:latitude":59.8,
+    "geom:longitude":5.73333,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1224.0",
+    "gn:asciiname":"Toftevag",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3134422,
+    "gn:latitude":59.8,
+    "gn:longitude":5.73333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Toftev\u00e5g",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toftevaag",
+        "Toftev\u00e5g"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3134422
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0869084123596509de0dfa41d478a2d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209127533
+        }
+    ],
+    "wof:id":1209127533,
+    "wof:lastmodified":1537675693,
+    "wof:name":"Toftevag",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.73333,
+    59.8,
+    5.73333,
+    59.8
+],
+  "geometry": {"coordinates":[5.73333,59.8],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209615691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.92728,59.76288,9.92728,59.76288",
+    "geom:latitude":59.76288,
+    "geom:longitude":9.92728,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"624",
+    "gn:asciiname":"Losmoen",
+    "gn:country_code":"NO",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9404019,
+    "gn:latitude":59.76288,
+    "gn:longitude":9.92728,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Losmoen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Losmoen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404019
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0ccf5351160c21ef5e4ec51f67c8244c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209615691
+        }
+    ],
+    "wof:id":1209615691,
+    "wof:lastmodified":1537675914,
+    "wof:name":"Losmoen",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.92728,
+    59.76288,
+    9.92728,
+    59.76288
+],
+  "geometry": {"coordinates":[9.92728,59.76288],"type":"Point"}
+}

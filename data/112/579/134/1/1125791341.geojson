@@ -1,0 +1,104 @@
+{
+  "id": 1125791341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.084853,59.2172765,10.084853,59.2172765",
+    "geom:latitude":59.217276,
+    "geom:longitude":10.084853,
+    "gn:gn_country":null,
+    "iso:country":"NO",
+    "lbl:latitude":59.217276,
+    "lbl:longitude":10.084853,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Kodal"
+    ],
+    "name:eng_x_preferred":[
+        "Kodal"
+    ],
+    "name:fre_x_preferred":[
+        "Kodal"
+    ],
+    "name:may_x_preferred":[
+        "Kodal"
+    ],
+    "name:nno_x_preferred":[
+        "Kodal"
+    ],
+    "name:nob_x_preferred":[
+        "Kodal"
+    ],
+    "name:rum_x_preferred":[
+        "Kodal"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kodal",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Vestfold Fylke",
+    "qs_pg:photos":68,
+    "qs_pg:photos_1k":14,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":68,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1203025,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":860711,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Vestfold Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297193,
+        85633341,
+        85687073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":860711,
+        "qs_pg:id":1203025,
+        "wd:id":"Q1776409"
+    },
+    "wof:country":"NO",
+    "wof:created":1497290874,
+    "wof:geomhash":"1e137709449fbde9e9eb4c742b8df0b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297193,
+            "locality_id":1125791341,
+            "region_id":85687073
+        }
+    ],
+    "wof:id":1125791341,
+    "wof:lastmodified":1529700491,
+    "wof:name":"Kodal",
+    "wof:parent_id":1159297193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.084853,
+    59.2172765,
+    10.084853,
+    59.2172765
+],
+  "geometry": {"coordinates":[10.084853,59.2172765],"type":"Point"}
+}

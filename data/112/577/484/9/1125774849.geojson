@@ -1,0 +1,118 @@
+{
+  "id": 1125774849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.38333,61.93333,5.38333,61.93333",
+    "geom:latitude":61.93333,
+    "geom:longitude":5.38333,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":359,
+    "gn:population":359,
+    "iso:country":"NO",
+    "lbl:latitude":61.93333,
+    "lbl:longitude":5.38333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Bryggja"
+    ],
+    "name:eng_x_preferred":[
+        "Bryggja"
+    ],
+    "name:fre_x_preferred":[
+        "Bryggja"
+    ],
+    "name:jav_x_preferred":[
+        "Bryggja"
+    ],
+    "name:may_x_preferred":[
+        "Bryggja"
+    ],
+    "name:nno_x_preferred":[
+        "Bryggja"
+    ],
+    "name:nob_x_preferred":[
+        "Bryggja"
+    ],
+    "name:rum_x_preferred":[
+        "Bryggja"
+    ],
+    "name:unk_x_variant":[
+        "Bryggen"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3159827,
+    "qs_pg:gn_pop":359,
+    "qs_pg:name":"Bryggja",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Sogn og Fjordane Fylke",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":191119,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":857652,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Sogn og Fjordane Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297459,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3159827,
+        "gp:id":857652,
+        "qs_pg:id":191119,
+        "wd:id":"Q3368499"
+    },
+    "wof:country":"NO",
+    "wof:created":1497290214,
+    "wof:geomhash":"9d7775e6c45642ef24bfa52ddf39fd42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297459,
+            "locality_id":1125774849,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1125774849,
+    "wof:lastmodified":1529699937,
+    "wof:name":"Bryggja",
+    "wof:parent_id":1159297459,
+    "wof:placetype":"locality",
+    "wof:population":359,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.38333,
+    61.93333,
+    5.38333,
+    61.93333
+],
+  "geometry": {"coordinates":[5.38333,61.93333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209027799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.91722,60.71833,4.91722,60.71833",
+    "geom:latitude":60.71833,
+    "geom:longitude":4.91722,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1260.0",
+    "gn:asciiname":"Sylta",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3243377,
+    "gn:latitude":60.71833,
+    "gn:longitude":4.91722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sylta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Syltav\u00e5g",
+        "Sylta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3243377
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3e63d60b1d853b4491a148e700de726d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209027799
+        }
+    ],
+    "wof:id":1209027799,
+    "wof:lastmodified":1537675901,
+    "wof:name":"Sylta",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.91722,
+    60.71833,
+    4.91722,
+    60.71833
+],
+  "geometry": {"coordinates":[4.91722,60.71833],"type":"Point"}
+}

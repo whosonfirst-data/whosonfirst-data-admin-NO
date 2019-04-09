@@ -1,0 +1,71 @@
+{
+  "id": 1327326159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.04423,61.43598,12.04423,61.43598",
+    "geom:latitude":61.43598,
+    "geom:longitude":12.04423,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"428.0",
+    "gn:asciiname":"Volfeltet",
+    "gn:country_code":"NO",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537120,
+    "gn:latitude":61.43598,
+    "gn:longitude":12.04423,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Volfeltet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Volfeltet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297339,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537120
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"69b8474a3d3312e8bc9ae845fa6766aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297339,
+            "locality_id":1327326159,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1327326159,
+    "wof:lastmodified":1537675997,
+    "wof:name":"Volfeltet",
+    "wof:parent_id":1159297339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.04423,
+    61.43598000000001,
+    12.04423,
+    61.43598000000001
+],
+  "geometry": {"coordinates":[12.04423,61.43598000000001],"type":"Point"}
+}

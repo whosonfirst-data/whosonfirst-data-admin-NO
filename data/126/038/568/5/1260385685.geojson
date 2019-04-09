@@ -1,0 +1,68 @@
+{
+  "id": 1260385685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.13333,60.0,5.13333,60.0",
+    "geom:latitude":60.0,
+    "geom:longitude":5.13333,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1244.0",
+    "gn:asciiname":"Steinvik",
+    "gn:country_code":"NO",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3136842,
+    "gn:latitude":60.0,
+    "gn:longitude":5.13333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Steinvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297091,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3136842
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e81175029adc887848f2f5cc0a8cf5cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297091,
+            "locality_id":1260385685,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1260385685,
+    "wof:lastmodified":1537069076,
+    "wof:name":"Steinvik",
+    "wof:parent_id":1159297091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.13333,
+    60.0,
+    5.13333,
+    60.0
+],
+  "geometry": {"coordinates":[5.13333,60.0],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293559429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.16667,62.2,5.16667,62.2",
+    "geom:latitude":62.2,
+    "geom:longitude":5.16667,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1441.0",
+    "gn:asciiname":"Arvik",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3162820,
+    "gn:latitude":62.2,
+    "gn:longitude":5.16667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u00c5rvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aarvik",
+        "Aarevik",
+        "\u00c5rvik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296915,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3162820
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"007c449dce56cbc011821eac3861c26d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296915,
+            "locality_id":1293559429,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1293559429,
+    "wof:lastmodified":1537675887,
+    "wof:name":"Arvik",
+    "wof:parent_id":1159296915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.16667,
+    62.2,
+    5.16667,
+    62.2
+],
+  "geometry": {"coordinates":[5.16667,62.2],"type":"Point"}
+}

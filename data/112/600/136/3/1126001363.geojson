@@ -1,0 +1,101 @@
+{
+  "id": 1126001363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.073666,58.82033,9.073666,58.82033",
+    "geom:latitude":58.82033,
+    "geom:longitude":9.073666,
+    "gn:gn_country":null,
+    "iso:country":"NO",
+    "lbl:latitude":58.82033,
+    "lbl:longitude":9.073666,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Sundebru"
+    ],
+    "name:eng_x_preferred":[
+        "Sundebru"
+    ],
+    "name:est_x_preferred":[
+        "Sundebru"
+    ],
+    "name:fre_x_preferred":[
+        "Sundebru"
+    ],
+    "name:jav_x_preferred":[
+        "Sundebru"
+    ],
+    "name:may_x_preferred":[
+        "Sundebru"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Sundebru",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Aust-Agder Fylke",
+    "qs_pg:photos":27,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":27,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":242637,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":864726,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Aust-Agder Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296731,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":864726,
+        "qs_pg:id":242637,
+        "wd:id":"Q7639649"
+    },
+    "wof:country":"NO",
+    "wof:created":1497299664,
+    "wof:geomhash":"d9171032264ad75d581237e8a4f3f519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296731,
+            "locality_id":1126001363,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1126001363,
+    "wof:lastmodified":1529699814,
+    "wof:name":"Sundebru",
+    "wof:parent_id":1159296731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.073666,
+    58.82033,
+    9.073666,
+    58.82033
+],
+  "geometry": {"coordinates":[9.073666,58.82033],"type":"Point"}
+}

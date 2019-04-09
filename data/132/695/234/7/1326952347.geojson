@@ -1,0 +1,71 @@
+{
+  "id": 1326952347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.02451,60.79413,12.02451,60.79413",
+    "geom:latitude":60.79413,
+    "geom:longitude":12.02451,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"426.0",
+    "gn:asciiname":"Sondre Flogen",
+    "gn:country_code":"NO",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535809,
+    "gn:latitude":60.79413,
+    "gn:longitude":12.02451,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"S\u00f8ndre Fl\u00f8gen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "S\u00f8ndre Fl\u00f8gen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297171,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535809
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"458252107e0b5d87f5f8bae218717cc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297171,
+            "locality_id":1326952347,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1326952347,
+    "wof:lastmodified":1537675942,
+    "wof:name":"Sondre Flogen",
+    "wof:parent_id":1159297171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.02451,
+    60.79413,
+    12.02451,
+    60.79413
+],
+  "geometry": {"coordinates":[12.02451,60.79413],"type":"Point"}
+}

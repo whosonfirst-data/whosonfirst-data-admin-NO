@@ -1,0 +1,71 @@
+{
+  "id": 1276530177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.77628,63.65116,8.77628,63.65116",
+    "geom:latitude":63.65116,
+    "geom:longitude":8.77628,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5013.0",
+    "gn:asciiname":"Kjerringvag",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3150090,
+    "gn:latitude":63.65116,
+    "gn:longitude":8.77628,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Kjerringv\u00e5g",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kjerringvaag",
+        "Kjerringv\u00e5g"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297259,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3150090
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ad6830e021f029a7a23af0e89ddd2be3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297259,
+            "locality_id":1276530177,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1276530177,
+    "wof:lastmodified":1537675796,
+    "wof:name":"Kjerringvag",
+    "wof:parent_id":1159297259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.77628,
+    63.65116,
+    8.77628,
+    63.65116
+],
+  "geometry": {"coordinates":[8.77628,63.65116],"type":"Point"}
+}

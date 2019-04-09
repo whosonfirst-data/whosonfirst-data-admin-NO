@@ -1,0 +1,126 @@
+{
+  "id": 1125914083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.98333,59.73333,5.98333,59.73333",
+    "geom:latitude":59.73333,
+    "geom:longitude":5.98333,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":603,
+    "gn:population":603,
+    "iso:country":"NO",
+    "lbl:latitude":59.73333,
+    "lbl:longitude":5.98333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Sk\u00e5nevik"
+    ],
+    "name:eng_x_preferred":[
+        "Sk\u00e5nevik"
+    ],
+    "name:fre_x_preferred":[
+        "Sk\u00e5nevik"
+    ],
+    "name:jav_x_preferred":[
+        "Sk\u00e5nevik"
+    ],
+    "name:may_x_preferred":[
+        "Sk\u00e5nevik"
+    ],
+    "name:nno_x_preferred":[
+        "Sk\u00e5nevik"
+    ],
+    "name:nob_x_preferred":[
+        "Sk\u00e5nevik"
+    ],
+    "name:rum_x_preferred":[
+        "Sk\u00e5nevik"
+    ],
+    "name:spa_x_preferred":[
+        "Sk\u00e5nevik"
+    ],
+    "name:swe_x_preferred":[
+        "Sk\u00e5nevik"
+    ],
+    "name:unk_x_variant":[
+        "Skaanevik"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3139380,
+    "qs_pg:gn_pop":603,
+    "qs_pg:name":"Sk\u00e5nevik",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Hordaland Fylke",
+    "qs_pg:photos":87,
+    "qs_pg:photos_1k":18,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":87,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":478362,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":863724,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Hordaland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297111,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3139380,
+        "gp:id":863724,
+        "qs_pg:id":478362,
+        "wd:id":"Q2555439"
+    },
+    "wof:country":"NO",
+    "wof:created":1497296255,
+    "wof:geomhash":"292853b77cd7c09adbed03b01114b30d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297111,
+            "locality_id":1125914083,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1125914083,
+    "wof:lastmodified":1529700057,
+    "wof:name":"Sk\u00e5nevik",
+    "wof:parent_id":1159297111,
+    "wof:placetype":"locality",
+    "wof:population":603,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.98333,
+    59.73333,
+    5.98333,
+    59.73333
+],
+  "geometry": {"coordinates":[5.98333,59.73333],"type":"Point"}
+}

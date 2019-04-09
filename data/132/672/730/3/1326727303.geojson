@@ -1,0 +1,74 @@
+{
+  "id": 1326727303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.80556,60.60111,4.80556,60.60111",
+    "geom:latitude":60.60111,
+    "geom:longitude":4.80556,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1259.0",
+    "gn:asciiname":"Alveim",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3163259,
+    "gn:latitude":60.60111,
+    "gn:longitude":4.80556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Alveim",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alvheim",
+        "Alveim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297547,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3163259,
+        "wk:page":"Alveim"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7502fd456fa212a6aa8e3558571f732f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297547,
+            "locality_id":1326727303,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1326727303,
+    "wof:lastmodified":1537675892,
+    "wof:name":"Alveim",
+    "wof:parent_id":1159297547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.80556,
+    60.60111,
+    4.80556,
+    60.60111
+],
+  "geometry": {"coordinates":[4.80556,60.60111],"type":"Point"}
+}

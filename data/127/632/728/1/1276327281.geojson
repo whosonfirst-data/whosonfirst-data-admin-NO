@@ -1,0 +1,73 @@
+{
+  "id": 1276327281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.76667,62.48333,6.76667,62.48333",
+    "geom:latitude":62.48333,
+    "geom:longitude":6.76667,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1523.0",
+    "gn:asciiname":"Apalset",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3163016,
+    "gn:latitude":62.48333,
+    "gn:longitude":6.76667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Apalset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Apelset",
+        "Apalset"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296827,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3163016
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9edfa326b13df977c0f56fa64f3b155e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296827,
+            "locality_id":1276327281,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1276327281,
+    "wof:lastmodified":1537675889,
+    "wof:name":"Apalset",
+    "wof:parent_id":1159296827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.76667,
+    62.48333,
+    6.76667,
+    62.48333
+],
+  "geometry": {"coordinates":[6.76667,62.48333],"type":"Point"}
+}

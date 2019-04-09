@@ -1,0 +1,69 @@
+{
+  "id": 1310189737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.13468,66.39796,13.13468,66.39796",
+    "geom:latitude":66.39796,
+    "geom:longitude":13.13468,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1834.0",
+    "gn:asciiname":"As",
+    "gn:country_code":"NO",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536947,
+    "gn:latitude":66.39796,
+    "gn:longitude":13.13468,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"\u00c5s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00c5s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297347,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536947
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b9cee14d6a64cc98e447523b6fa11610",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297347,
+            "locality_id":1310189737,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1310189737,
+    "wof:lastmodified":1537675990,
+    "wof:name":"As",
+    "wof:parent_id":1159297347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.13468,
+    66.39796,
+    13.13468,
+    66.39796
+],
+  "geometry": {"coordinates":[13.13468,66.39796],"type":"Point"}
+}

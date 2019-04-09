@@ -1,0 +1,69 @@
+{
+  "id": 1225814995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.81667,63.55,9.81667,63.55",
+    "geom:latitude":63.55,
+    "geom:longitude":9.81667,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5016.0",
+    "gn:asciiname":"Selnes",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3139874,
+    "gn:latitude":63.55,
+    "gn:longitude":9.81667,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Selnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Selnes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297117,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3139874
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"33a8f1dcc827b273745392ffdefe8385",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297117,
+            "locality_id":1225814995,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1225814995,
+    "wof:lastmodified":1537675726,
+    "wof:name":"Selnes",
+    "wof:parent_id":1159297117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.81667,
+    63.55,
+    9.81667,
+    63.55
+],
+  "geometry": {"coordinates":[9.81667,63.55],"type":"Point"}
+}

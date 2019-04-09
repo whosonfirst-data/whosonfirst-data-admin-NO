@@ -1,0 +1,118 @@
+{
+  "id": 1126025873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.45,62.7,7.45,62.7",
+    "geom:latitude":62.7,
+    "geom:longitude":7.45,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":351,
+    "gn:population":351,
+    "iso:country":"NO",
+    "lbl:latitude":62.7,
+    "lbl:longitude":7.45,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Nesjestranda"
+    ],
+    "name:eng_x_preferred":[
+        "Nesjestranda"
+    ],
+    "name:fre_x_preferred":[
+        "Nesjestranda"
+    ],
+    "name:jav_x_preferred":[
+        "Nesjestranda"
+    ],
+    "name:may_x_preferred":[
+        "Nesjestranda"
+    ],
+    "name:nno_x_preferred":[
+        "Nesjestranda"
+    ],
+    "name:nob_x_preferred":[
+        "Nesjestranda"
+    ],
+    "name:rum_x_preferred":[
+        "Nesjestranda"
+    ],
+    "name:unk_x_variant":[
+        "Nesje"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3144671,
+    "qs_pg:gn_pop":351,
+    "qs_pg:name":"Nesjestranda",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"M\u00f8re og Romsdal Fylke",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1021683,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":862175,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"M\u00f8re og Romsdal Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297499,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3144671,
+        "gp:id":862175,
+        "qs_pg:id":1021683,
+        "wd:id":"Q1779426"
+    },
+    "wof:country":"NO",
+    "wof:created":1497301138,
+    "wof:geomhash":"5644239720098e9f01a59ecc60d89817",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297499,
+            "locality_id":1126025873,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1126025873,
+    "wof:lastmodified":1529700100,
+    "wof:name":"Nesjestranda",
+    "wof:parent_id":1159297499,
+    "wof:placetype":"locality",
+    "wof:population":351,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.45,
+    62.7,
+    7.45,
+    62.7
+],
+  "geometry": {"coordinates":[7.45,62.7],"type":"Point"}
+}

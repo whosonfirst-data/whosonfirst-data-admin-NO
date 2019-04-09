@@ -1,0 +1,69 @@
+{
+  "id": 1293765871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.5235,62.61395,9.5235,62.61395",
+    "geom:latitude":62.61395,
+    "geom:longitude":9.5235,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5021.0",
+    "gn:asciiname":"Klettgrenda",
+    "gn:country_code":"NO",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536395,
+    "gn:latitude":62.61395,
+    "gn:longitude":9.5235,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Klettgrenda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Klettgrenda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297021,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536395
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f60fd6eb8f85a2b829c49b076fa0474a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297021,
+            "locality_id":1293765871,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1293765871,
+    "wof:lastmodified":1537675967,
+    "wof:name":"Klettgrenda",
+    "wof:parent_id":1159297021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.5235,
+    62.61395,
+    9.5235,
+    62.61395
+],
+  "geometry": {"coordinates":[9.5235,62.61395],"type":"Point"}
+}

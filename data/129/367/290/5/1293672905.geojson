@@ -1,0 +1,72 @@
+{
+  "id": 1293672905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.82477,64.36432,10.82477,64.36432",
+    "geom:latitude":64.36432,
+    "geom:longitude":10.82477,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5049.0",
+    "gn:asciiname":"Jossund",
+    "gn:country_code":"NO",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3150723,
+    "gn:latitude":64.36432,
+    "gn:longitude":10.82477,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"J\u00f8ssund",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J\u00f8ssund"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296889,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3150723,
+        "wk:page":"J%C3%B8ssund%2C_Nord-Tr%C3%B8ndelag"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ec4f5a2bccfc8ae1d9828784adb85355",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296889,
+            "locality_id":1293672905,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1293672905,
+    "wof:lastmodified":1537675802,
+    "wof:name":"Jossund",
+    "wof:parent_id":1159296889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.82477,
+    64.36431999999999,
+    10.82477,
+    64.36431999999999
+],
+  "geometry": {"coordinates":[10.82477,64.36431999999999],"type":"Point"}
+}

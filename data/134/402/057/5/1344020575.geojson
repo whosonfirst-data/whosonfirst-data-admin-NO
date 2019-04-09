@@ -1,0 +1,71 @@
+{
+  "id": 1344020575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.38811,58.06862,7.38811,58.06862",
+    "geom:latitude":58.06862,
+    "geom:longitude":7.38811,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1029.0",
+    "gn:asciiname":"Skjollungsstad",
+    "gn:country_code":"NO",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536066,
+    "gn:latitude":58.06862,
+    "gn:longitude":7.38811,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Skj\u00f8llungsstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Skj\u00f8llungsstad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297315,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536066
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"31652e79251f120958272279566c68ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297315,
+            "locality_id":1344020575,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1344020575,
+    "wof:lastmodified":1537675953,
+    "wof:name":"Skjollungsstad",
+    "wof:parent_id":1159297315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.38811,
+    58.06862,
+    7.38811,
+    58.06862
+],
+  "geometry": {"coordinates":[7.38811,58.06862],"type":"Point"}
+}

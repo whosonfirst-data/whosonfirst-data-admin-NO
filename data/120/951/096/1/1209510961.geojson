@@ -1,0 +1,65 @@
+{
+  "id": 1209510961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.97481,66.26425,13.97481,66.26425",
+    "geom:latitude":66.26425,
+    "geom:longitude":13.97481,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1833.0",
+    "gn:asciiname":"Gjerdvollen",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536889,
+    "gn:latitude":66.26425,
+    "gn:longitude":13.97481,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Gjerdvollen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Gjerdvollen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536889
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3f9d4dbb7ea6949ce8564b9a8d6a2cd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209510961
+        }
+    ],
+    "wof:id":1209510961,
+    "wof:lastmodified":1537675988,
+    "wof:name":"Gjerdvollen",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.97481,
+    66.26425,
+    13.97481,
+    66.26425
+],
+  "geometry": {"coordinates":[13.97481,66.26425],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343863123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.92861,70.70083,23.92861,70.70083",
+    "geom:latitude":70.70083,
+    "geom:longitude":23.92861,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2004.0",
+    "gn:asciiname":"Risvag",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":778052,
+    "gn:latitude":70.70083,
+    "gn:longitude":23.92861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Risv\u00e5g",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Indre Risvaag",
+        "Risvaag",
+        "Risv\u00e5g"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296825,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":778052
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"dc42571bc6c94c97c9d0eeb4b79e57a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296825,
+            "locality_id":1343863123,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1343863123,
+    "wof:lastmodified":1537675647,
+    "wof:name":"Risvag",
+    "wof:parent_id":1159296825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.92861,
+    70.70083000000002,
+    23.92861,
+    70.70083000000002
+],
+  "geometry": {"coordinates":[23.92861,70.70083000000002],"type":"Point"}
+}

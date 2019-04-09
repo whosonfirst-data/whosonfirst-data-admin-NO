@@ -1,0 +1,71 @@
+{
+  "id": 1343757059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.81921,61.74112,11.81921,61.74112",
+    "geom:latitude":61.74112,
+    "geom:longitude":11.81921,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"434.0",
+    "gn:asciiname":"Overasen",
+    "gn:country_code":"NO",
+    "gn:dem":875,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535986,
+    "gn:latitude":61.74112,
+    "gn:longitude":11.81921,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"\u00d8ver\u00e5sen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d8ver\u00e5sen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296763,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535986
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3dab412c49e5d31ccea06ec71a1c9435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296763,
+            "locality_id":1343757059,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1343757059,
+    "wof:lastmodified":1537675950,
+    "wof:name":"Overasen",
+    "wof:parent_id":1159296763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.81921,
+    61.74112,
+    11.81921,
+    61.74112
+],
+  "geometry": {"coordinates":[11.81921,61.74112],"type":"Point"}
+}

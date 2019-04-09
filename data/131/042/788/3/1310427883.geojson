@@ -1,0 +1,68 @@
+{
+  "id": 1310427883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.41667,60.85,11.41667,60.85",
+    "geom:latitude":60.85,
+    "geom:longitude":11.41667,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"415.0",
+    "gn:asciiname":"Midtskog",
+    "gn:country_code":"NO",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3145880,
+    "gn:latitude":60.85,
+    "gn:longitude":11.41667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Midtskog",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297095,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3145880
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"77c8e9021d1d6a46da524abff58ab5f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297095,
+            "locality_id":1310427883,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1310427883,
+    "wof:lastmodified":1537027794,
+    "wof:name":"Midtskog",
+    "wof:parent_id":1159297095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.41667,
+    60.85,
+    11.41667,
+    60.85
+],
+  "geometry": {"coordinates":[11.41667,60.85],"type":"Point"}
+}

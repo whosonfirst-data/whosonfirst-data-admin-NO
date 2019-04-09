@@ -1,0 +1,62 @@
+{
+  "id": 1209090005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.60043,64.91524,11.60043,64.91524",
+    "geom:latitude":64.91524,
+    "geom:longitude":11.60043,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5051.0",
+    "gn:asciiname":"Fjaer",
+    "gn:country_code":"NO",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3157423,
+    "gn:latitude":64.91524,
+    "gn:longitude":11.60043,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Fj\u00e6r",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3157423
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"11e06a265ae8db399bce4e867742d035",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209090005
+        }
+    ],
+    "wof:id":1209090005,
+    "wof:lastmodified":1536298065,
+    "wof:name":"Fjaer",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.60043,
+    64.91524,
+    11.60043,
+    64.91524
+],
+  "geometry": {"coordinates":[11.60043,64.91524],"type":"Point"}
+}

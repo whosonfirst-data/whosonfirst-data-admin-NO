@@ -1,0 +1,68 @@
+{
+  "id": 1276541601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.05929,62.52709,11.05929,62.52709",
+    "geom:latitude":62.52709,
+    "geom:longitude":11.05929,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"441.0",
+    "gn:asciiname":"Vangrofta",
+    "gn:country_code":"NO",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3132753,
+    "gn:latitude":62.52709,
+    "gn:longitude":11.05929,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Vangr\u00f8fta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297463,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3132753
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e5cfce59735fd1cb08c52d69e7b21866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297463,
+            "locality_id":1276541601,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1276541601,
+    "wof:lastmodified":1536996137,
+    "wof:name":"Vangrofta",
+    "wof:parent_id":1159297463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.05929,
+    62.52709,
+    11.05929,
+    62.52709
+],
+  "geometry": {"coordinates":[11.05929,62.52709],"type":"Point"}
+}

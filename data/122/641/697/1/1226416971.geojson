@@ -1,0 +1,68 @@
+{
+  "id": 1226416971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.08333,58.96667,10.08333,58.96667",
+    "geom:latitude":58.96667,
+    "geom:longitude":10.08333,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"712.0",
+    "gn:asciiname":"Stavern",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3137092,
+    "gn:latitude":58.96667,
+    "gn:longitude":10.08333,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Stavern",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296779,
+        85633341,
+        85687073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3137092
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"51c789f0173227e4cec52816d9d968ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296779,
+            "locality_id":1226416971,
+            "region_id":85687073
+        }
+    ],
+    "wof:id":1226416971,
+    "wof:lastmodified":1536687049,
+    "wof:name":"Stavern",
+    "wof:parent_id":1159296779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.08333,
+    58.96666999999999,
+    10.08333,
+    58.96666999999999
+],
+  "geometry": {"coordinates":[10.08333,58.96666999999999],"type":"Point"}
+}

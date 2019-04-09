@@ -1,0 +1,71 @@
+{
+  "id": 1310570957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.45,63.0,10.45,63.0",
+    "geom:latitude":63.0,
+    "geom:longitude":10.45,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5027.0",
+    "gn:asciiname":"Revset",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141902,
+    "gn:latitude":63.0,
+    "gn:longitude":10.45,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Revset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Refset",
+        "Revset"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296717,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141902
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"44551f798757e213561cd90651ff71ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296717,
+            "locality_id":1310570957,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1310570957,
+    "wof:lastmodified":1537675740,
+    "wof:name":"Revset",
+    "wof:parent_id":1159296717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.45,
+    63.0,
+    10.45,
+    63.0
+],
+  "geometry": {"coordinates":[10.45,63.0],"type":"Point"}
+}

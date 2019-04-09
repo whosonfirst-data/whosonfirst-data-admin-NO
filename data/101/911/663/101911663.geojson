@@ -1,0 +1,114 @@
+{
+  "id": 101911663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00012,
+    "geom:area_square_m":516228.821278,
+    "geom:bbox":"18.725924324,69.6807027668,18.7656420227,69.6892279342",
+    "geom:latitude":69.685541,
+    "geom:longitude":18.741879,
+    "iso:country":"NO",
+    "lbl:latitude":69.684359,
+    "lbl:longitude":18.736913,
+    "mps:latitude":69.684359,
+    "mps:longitude":18.736913,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Kaldfjord"
+    ],
+    "name:eng_x_preferred":[
+        "Kaldfjord"
+    ],
+    "name:fra_x_preferred":[
+        "Kaldfjord"
+    ],
+    "name:fre_x_preferred":[
+        "Kaldfjord"
+    ],
+    "name:may_x_preferred":[
+        "Kaldfjord"
+    ],
+    "name:msa_x_preferred":[
+        "Kaldfjord"
+    ],
+    "name:nld_x_preferred":[
+        "Kaldfjord"
+    ],
+    "name:nno_x_preferred":[
+        "Kaldfjord"
+    ],
+    "name:nob_x_preferred":[
+        "Kaldfjord"
+    ],
+    "name:nor_x_preferred":[
+        "Kaldfjord"
+    ],
+    "name:ron_x_preferred":[
+        "Kaldfjord"
+    ],
+    "name:rum_x_preferred":[
+        "Kaldfjord"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Troms",
+    "qs:a1r":"4",
+    "qs:adm0":"Norge",
+    "qs:id":0,
+    "qs:la":"Troms\u00f8",
+    "qs:la_lc":"*NO1902",
+    "qs:level":"locality",
+    "qs:loc":"Kaldfjord",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet near local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":113,
+    "wof:belongsto":[
+        102191581,
+        1159297187,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22660634,
+        "qs:id":8063,
+        "qs_pg:id":8063,
+        "wd:id":"Q2193358"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e30fc096d623581901669292fade2ea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297187,
+            "locality_id":101911663,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":101911663,
+    "wof:lastmodified":1529700445,
+    "wof:name":"Kaldfjord",
+    "wof:parent_id":1159297187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.72592432396328,
+    69.6807027668105,
+    18.76564202271379,
+    69.68922793416726
+],
+  "geometry": {"coordinates":[[[18.76564202271379,69.68899698717559],[18.76491633542452,69.68719971516936],[18.7548080183069,69.68766143508566],[18.75444563090042,69.68676277852001],[18.74939152179621,69.68699342963168],[18.74866725229447,69.68519609629107],[18.74614036276978,69.6853113618144],[18.7457783788775,69.68441269026124],[18.74072472640415,69.68464311168435],[18.73963958147215,69.68194706708607],[18.74721910614051,69.68160143226402],[18.74685715141976,69.6807027668105],[18.73422499079908,69.68127863349281],[18.73458643693294,69.68217732499556],[18.72953318998367,69.68240745065521],[18.73097848733624,69.68600226054963],[18.72592432396328,69.68623229558028],[18.72628552642567,69.68713100902352],[18.72881272269217,69.68701600283936],[18.72917405961078,69.68791471130419],[18.74686442875333,69.68710870558544],[18.74758862569803,69.68890605024291],[18.76022485195949,69.68832928760526],[18.76058750846789,69.68922793416726],[18.76564202271379,69.68899698717559]]],"type":"Polygon"}
+}

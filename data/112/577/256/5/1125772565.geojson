@@ -1,0 +1,91 @@
+{
+  "id": 1125772565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.36667,61.01667,6.36667,61.01667",
+    "geom:latitude":61.01667,
+    "geom:longitude":6.36667,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":61.01667,
+    "lbl:longitude":6.36667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Arnefjord"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3162922,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Arnafjord",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Sogn og Fjordane Fylke",
+    "qs_pg:photos":32,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":32,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1159097,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":856716,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Sogn og Fjordane Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297277,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3162922,
+        "gp:id":856716,
+        "qs_pg:id":1159097
+    },
+    "wof:country":"NO",
+    "wof:created":1497290120,
+    "wof:geomhash":"8f5ec577f2ec40e67dda897120167c10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297277,
+            "locality_id":1125772565,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1125772565,
+    "wof:lastmodified":1529699935,
+    "wof:name":"Arnafjord",
+    "wof:parent_id":1159297277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.36667,
+    61.01667,
+    6.36667,
+    61.01667
+],
+  "geometry": {"coordinates":[6.36667,61.01667],"type":"Point"}
+}

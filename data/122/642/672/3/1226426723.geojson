@@ -1,0 +1,71 @@
+{
+  "id": 1226426723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.95964,66.24649,13.95964,66.24649",
+    "geom:latitude":66.24649,
+    "geom:longitude":13.95964,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1833.0",
+    "gn:asciiname":"Forneset",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3156713,
+    "gn:latitude":66.24649,
+    "gn:longitude":13.95964,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"F\u00f8rneset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Forseng",
+        "Forsenget"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296963,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3156713
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"aaffe102935c9f7a3b92a4494ddf4713",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296963,
+            "locality_id":1226426723,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1226426723,
+    "wof:lastmodified":1537675840,
+    "wof:name":"Forneset",
+    "wof:parent_id":1159296963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.95964,
+    66.24649000000001,
+    13.95964,
+    66.24649000000001
+],
+  "geometry": {"coordinates":[13.95964,66.24649000000001],"type":"Point"}
+}

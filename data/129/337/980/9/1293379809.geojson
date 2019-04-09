@@ -1,0 +1,77 @@
+{
+  "id": 1293379809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.68976,68.53017,14.68976,68.53017",
+    "geom:latitude":68.53017,
+    "geom:longitude":14.68976,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1866.0",
+    "gn:asciiname":"Ytre Annstad",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3163025,
+    "gn:latitude":68.53017,
+    "gn:longitude":14.68976,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Ytre \u00c5nnstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Ytre \u00c5nnstad"
+    ],
+    "name:nor_x_variant":[
+        "\u00c5nnstad"
+    ],
+    "name:und_x_variant":[
+        "Aanstad",
+        "\u00c5nstad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296743,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3163025
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f0450a667c89240fc1e3e3c2bb1f1fb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296743,
+            "locality_id":1293379809,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1293379809,
+    "wof:lastmodified":1537675889,
+    "wof:name":"Ytre Annstad",
+    "wof:parent_id":1159296743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.68976,
+    68.53017,
+    14.68976,
+    68.53017
+],
+  "geometry": {"coordinates":[14.68976,68.53017],"type":"Point"}
+}

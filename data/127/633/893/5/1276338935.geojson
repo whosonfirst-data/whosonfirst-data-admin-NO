@@ -1,0 +1,71 @@
+{
+  "id": 1276338935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.2657,60.32121,11.2657,60.32121",
+    "geom:latitude":60.32121,
+    "geom:longitude":11.2657,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"237.0",
+    "gn:asciiname":"Tunneltoppen",
+    "gn:country_code":"NO",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537365,
+    "gn:latitude":60.32121,
+    "gn:longitude":11.2657,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Tunneltoppen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Tunneltoppen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297097,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537365
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f8147035f7478693a7d10d9a764a0b19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297097,
+            "locality_id":1276338935,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1276338935,
+    "wof:lastmodified":1537676008,
+    "wof:name":"Tunneltoppen",
+    "wof:parent_id":1159297097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.2657,
+    60.32121,
+    11.2657,
+    60.32121
+],
+  "geometry": {"coordinates":[11.2657,60.32121],"type":"Point"}
+}

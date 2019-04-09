@@ -1,0 +1,77 @@
+{
+  "id": 1327356231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.41521,70.32613,25.41521,70.32613",
+    "geom:latitude":70.32613,
+    "geom:longitude":25.41521,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2020.0",
+    "gn:asciiname":"Borselvnes",
+    "gn:country_code":"NO",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536177,
+    "gn:latitude":70.32613,
+    "gn:longitude":25.41521,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"B\u00f8rselvnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fkv_x_preferred":[
+        "Kiksiniemi"
+    ],
+    "name:nor_x_preferred":[
+        "B\u00f8rselvnes"
+    ],
+    "name:sme_x_preferred":[
+        "Giksenj\u00e1rga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297563,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536177
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b05a55712e6026541fa3c5fd62e238f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297563,
+            "locality_id":1327356231,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1327356231,
+    "wof:lastmodified":1537675958,
+    "wof:name":"Borselvnes",
+    "wof:parent_id":1159297563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.41521,
+    70.32613,
+    25.41521,
+    70.32613
+],
+  "geometry": {"coordinates":[25.41521,70.32613000000001],"type":"Point"}
+}

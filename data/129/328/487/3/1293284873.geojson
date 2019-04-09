@@ -1,0 +1,73 @@
+{
+  "id": 1293284873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.26667,62.5,11.26667,62.5",
+    "geom:latitude":62.5,
+    "geom:longitude":11.26667,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"441.0",
+    "gn:asciiname":"Nora",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3144484,
+    "gn:latitude":62.5,
+    "gn:longitude":11.26667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"N\u00f8ra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u00f6ren",
+        "N\u00f8ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297463,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3144484
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c3fc6bc388a490ae9c3575fd0e8f6142",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297463,
+            "locality_id":1293284873,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1293284873,
+    "wof:lastmodified":1537675757,
+    "wof:name":"Nora",
+    "wof:parent_id":1159297463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.26667,
+    62.5,
+    11.26667,
+    62.5
+],
+  "geometry": {"coordinates":[11.26667,62.5],"type":"Point"}
+}

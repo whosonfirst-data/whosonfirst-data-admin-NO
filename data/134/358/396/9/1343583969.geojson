@@ -1,0 +1,71 @@
+{
+  "id": 1343583969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.80367,69.429,25.80367,69.429",
+    "geom:latitude":69.429,
+    "geom:longitude":25.80367,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2021.0",
+    "gn:asciiname":"Raidenjarga",
+    "gn:country_code":"NO",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536376,
+    "gn:latitude":69.429,
+    "gn:longitude":25.80367,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"R\u00e1idenj\u00e1rga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sme_x_preferred":[
+        "R\u00e1idenj\u00e1rga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296871,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536376
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0f747998033b676b060bfc56c93bf62c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296871,
+            "locality_id":1343583969,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1343583969,
+    "wof:lastmodified":1537675966,
+    "wof:name":"Raidenjarga",
+    "wof:parent_id":1159296871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.80367,
+    69.429,
+    25.80367,
+    69.429
+],
+  "geometry": {"coordinates":[25.80367,69.429],"type":"Point"}
+}

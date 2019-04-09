@@ -1,0 +1,134 @@
+{
+  "id": 101814727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000415,
+    "geom:area_square_m":1737193.613602,
+    "geom:bbox":"28.1547720562,70.1923056003,28.2025480752,70.2082106874",
+    "geom:latitude":70.200629,
+    "geom:longitude":28.181518,
+    "iso:country":"NO",
+    "lbl:latitude":70.201547,
+    "lbl:longitude":28.179166,
+    "mps:latitude":70.201547,
+    "mps:longitude":28.179166,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Tana bro"
+    ],
+    "name:deu_x_preferred":[
+        "Tana bru"
+    ],
+    "name:dut_x_preferred":[
+        "Tana Bru"
+    ],
+    "name:eng_x_preferred":[
+        "Tana Bru"
+    ],
+    "name:fra_x_preferred":[
+        "Tana Bru"
+    ],
+    "name:fre_x_preferred":[
+        "Tana Bru"
+    ],
+    "name:ger_x_preferred":[
+        "Tana bru"
+    ],
+    "name:jav_x_preferred":[
+        "Tana Bru"
+    ],
+    "name:may_x_preferred":[
+        "Tana Bru"
+    ],
+    "name:msa_x_preferred":[
+        "Tana Bru"
+    ],
+    "name:nld_x_preferred":[
+        "Tana Bru"
+    ],
+    "name:nno_x_preferred":[
+        "Tana bru"
+    ],
+    "name:nob_x_preferred":[
+        "Tana bru"
+    ],
+    "name:nor_x_preferred":[
+        "Tana bru"
+    ],
+    "name:pol_x_preferred":[
+        "Tana bru"
+    ],
+    "name:rum_x_preferred":[
+        "Tana Bru"
+    ],
+    "name:sme_x_preferred":[
+        "Deanu\u0161aldi"
+    ],
+    "name:swe_x_preferred":[
+        "Tana bru"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Finnmark",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"Tana",
+    "qs:la_lc":"*NO2025",
+    "qs:level":"locality",
+    "qs:loc":"Tana Bru",
+    "qs:loc_alt":"Tana Bru",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":164,
+    "wof:belongsto":[
+        102191581,
+        1159296751,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3159921,
+        "gp:id":864873,
+        "qs:id":986940,
+        "qs_pg:id":986940,
+        "wd:id":"Q2256597",
+        "wk:page":"Tana Bru"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d071b4223497486cb6fbff0252cee83b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296751,
+            "locality_id":101814727,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":101814727,
+    "wof:lastmodified":1553815521,
+    "wof:name":"Tana Bru",
+    "wof:parent_id":1159296751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1547720561735,
+    70.19230560025392,
+    28.20254807516443,
+    70.20821068738621
+],
+  "geometry": {"coordinates":[[[28.2021295268525,70.20361316738314],[28.19982442287409,70.20100376658354],[28.20233879773207,70.2007654517094],[28.20003403470366,70.19815606044807],[28.20254807516443,70.19791774586383],[28.20024365298656,70.19530836413912],[28.19772989271621,70.1955466465198],[28.19696198335419,70.19467683684201],[28.194448262371,70.19491507657585],[28.19214522819146,70.19230560025392],[28.18963173326904,70.19254377588743],[28.19193448729629,70.19515328439468],[28.18187884619215,70.19610579649481],[28.18111156620756,70.19523591993453],[28.16854126561265,70.19642578822959],[28.16777452171618,70.19555585555759],[28.1652603929374,70.19579372272921],[28.16602704337851,70.19666366611784],[28.1584840525428,70.19737710822164],[28.16078357582836,70.19998701979898],[28.15826885703143,70.20022480211742],[28.15903540904139,70.20109477835211],[28.15652054270083,70.20133253945096],[28.15728707007361,70.20220252389754],[28.1547720561735,70.20244026377424],[28.15553855889755,70.20331025643333],[28.15805366633577,70.20307250584165],[28.15882033149683,70.20394248528282],[28.17139552557063,70.20275319966743],[28.17523222377099,70.2071027912512],[28.17271682543731,70.20734076587115],[28.17348427845025,70.20821068738621],[28.18857641787343,70.20678229619978],[28.18780840366617,70.20591243906802],[28.20038323011795,70.20472128851327],[28.19961481749851,70.20385148254684],[28.2021295268525,70.20361316738314]]],"type":"Polygon"}
+}

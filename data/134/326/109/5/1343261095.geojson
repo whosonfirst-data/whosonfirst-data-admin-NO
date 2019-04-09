@@ -1,0 +1,71 @@
+{
+  "id": 1343261095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.13856,70.63136,23.13856,70.63136",
+    "geom:latitude":70.63136,
+    "geom:longitude":23.13856,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2004.0",
+    "gn:asciiname":"Slettnes",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537450,
+    "gn:latitude":70.63136,
+    "gn:longitude":23.13856,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Slettnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Slettnes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296825,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537450
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e0e1ebd1035f7ff5169212cbc49b7212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296825,
+            "locality_id":1343261095,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1343261095,
+    "wof:lastmodified":1537676012,
+    "wof:name":"Slettnes",
+    "wof:parent_id":1159296825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.13856,
+    70.63136,
+    23.13856,
+    70.63136
+],
+  "geometry": {"coordinates":[23.13856,70.63136],"type":"Point"}
+}

@@ -1,0 +1,155 @@
+{
+  "id": 101814721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000592,
+    "geom:area_square_m":2621179.502723,
+    "geom:bbox":"23.0228995093,69.000001604,23.0724690304,69.0287690312",
+    "geom:latitude":69.015387,
+    "geom:longitude":23.047357,
+    "gn:population":2000,
+    "iso:country":"NO",
+    "lbl:latitude":69.011151,
+    "lbl:longitude":23.037406,
+    "mps:latitude":69.011151,
+    "mps:longitude":23.037406,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0997\u09c1\u0993\u09ad\u09a1\u09be\u0997\u09c7\u0987\u09a1\u09a8\u09c1 \u0995\u09cc\u099f\u0995\u09c7\u0987\u09a8\u09cb"
+    ],
+    "name:est_x_preferred":[
+        "Guovdageaidnu vald"
+    ],
+    "name:fao_x_preferred":[
+        "Kautokeino kommuna"
+    ],
+    "name:fin_x_preferred":[
+        "Koutokeino"
+    ],
+    "name:fry_x_preferred":[
+        "Guovdageaidnu"
+    ],
+    "name:isl_x_preferred":[
+        "Guovdageaidnu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30a6\u30c8\u30b1\u30a4\u30ce"
+    ],
+    "name:kal_x_preferred":[
+        "Guovdageaidnu"
+    ],
+    "name:kom_x_preferred":[
+        "\u0413\u0443\u043e\u0432\u0434\u0430\u0433\u0435\u0430\u0439\u0434\u043d\u0443"
+    ],
+    "name:nds_x_preferred":[
+        "Kommun Kautokeino"
+    ],
+    "name:nno_x_preferred":[
+        "Kautokeino"
+    ],
+    "name:nor_x_preferred":[
+        "Kautokeino"
+    ],
+    "name:nor_x_variant":[
+        "Kautokeinos"
+    ],
+    "name:pol_x_preferred":[
+        "Guovdageaidnu Kautokeino"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0451\u0443\u0442\u0443\u043a\u0435\u0439\u043d\u0443"
+    ],
+    "name:slv_x_preferred":[
+        "Guovdageaidnu"
+    ],
+    "name:sme_x_preferred":[
+        "Guovdageaidnu"
+    ],
+    "name:sme_x_variant":[
+        "Guovdag\u00e6ino",
+        "Guovdageainnu suohkan",
+        "Guov'dag\u00e6i'dno"
+    ],
+    "name:swa_x_preferred":[
+        "Guovdageaidnu"
+    ],
+    "name:swe_x_preferred":[
+        "Kautokeino kommun"
+    ],
+    "name:unk_x_variant":[
+        "Kautokeini"
+    ],
+    "name:zho_x_preferred":[
+        "\u51f1\u4e8e\u5716\u51f1\u52aa"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Finnmark",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"Kautokeino",
+    "qs:la_lc":"*NO2011",
+    "qs:level":"locality",
+    "qs:loc":"Kautokeino",
+    "qs:loc_alt":"Kautokeino",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297043,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01fd0ca2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":779330,
+        "gp:id":860492,
+        "qs:id":275699,
+        "qs_pg:id":275699,
+        "wd:id":"Q2653806",
+        "wk:page":"Kautokeino (village)"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e92d79e94e3b85af4d6b826f378a89ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297043,
+            "locality_id":101814721,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":101814721,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1529699906,
+    "wof:name":"Kautokeino",
+    "wof:parent_id":1159297043,
+    "wof:placetype":"locality",
+    "wof:population":2000,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.02289950933863,
+    69.0000016039607,
+    23.07246903036446,
+    69.02876903124172
+],
+  "geometry": {"coordinates":[[[23.06778705555485,69.02702642402676],[23.06726676941406,69.02613921290833],[23.06969481961426,69.02596805440959],[23.06813395891135,69.02330643875479],[23.07056170147229,69.02313527116371],[23.07004141382487,69.02224807184473],[23.07246903036446,69.02207688035423],[23.07142840857659,69.02030249426713],[23.06900097356913,69.02047367094832],[23.06536084998521,69.01426324411329],[23.06293401491666,69.01443433768884],[23.06449352581308,69.01709597589934],[23.0499301432103,69.01812201327544],[23.04837226563615,69.01546024195477],[23.05565329857239,69.014947430652],[23.05513382368457,69.01406019422672],[23.06241426787165,69.01354712345028],[23.05877729685341,69.00733660277206],[23.05635115210856,69.00750760589733],[23.05738988070965,69.00928205891194],[23.04768422483102,69.00996581767993],[23.04612728739909,69.00730404836298],[23.04855348204251,69.00713317776598],[23.04803450197608,69.00624592722079],[23.04318225890654,69.0065876223577],[23.0426635050386,69.00570035629602],[23.040237421499,69.00587114955357],[23.03971880314486,69.00498387536419],[23.03729277516834,69.00515462995577],[23.0357374610723,69.00249278078252],[23.0333116699756,69.00266348195322],[23.03175703111333,69.0000016039607],[23.02933147686468,69.00017225172331],[23.03088584380299,69.00283415184265],[23.02603408625293,69.00317539777427],[23.02914294170887,69.00849926649437],[23.02671646622127,69.00866988678348],[23.02723467492052,69.00955720301886],[23.02480807363634,69.00972779939201],[23.02532623643026,69.01061512226244],[23.02289950933863,69.01078569471696],[23.02393578790452,69.01256035298775],[23.02636269647303,69.01238976578134],[23.02843615454105,69.01593904392422],[23.02600888293227,69.01610966064266],[23.02652726878421,69.01699698570388],[23.03380925059179,69.01648501950024],[23.03432795363443,69.01737232167613],[23.03918261408694,69.01703083959285],[23.04177771046847,69.02146726545504],[23.03934994386896,69.02163805908322],[23.03986900707082,69.02252534940885],[23.04958022566842,69.02184195748765],[23.05269772822606,69.02716550636052],[23.05512598982318,69.02699453573405],[23.05616569881852,69.02876903124172],[23.06587911963288,69.02808477639059],[23.06535887928908,69.02719755861966],[23.06778705555485,69.02702642402676]]],"type":"Polygon"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276843303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.13333,61.06667,5.13333,61.06667",
+    "geom:latitude":61.06667,
+    "geom:longitude":5.13333,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1411.0",
+    "gn:asciiname":"Brosvik",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3159938,
+    "gn:latitude":61.06667,
+    "gn:longitude":5.13333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Brosvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297577,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3159938
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4e91f1303904eb92a94a72bceae34b7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297577,
+            "locality_id":1276843303,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1276843303,
+    "wof:lastmodified":1537086967,
+    "wof:name":"Brosvik",
+    "wof:parent_id":1159297577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.13333,
+    61.06667,
+    5.13333,
+    61.06667
+],
+  "geometry": {"coordinates":[5.13333,61.06667],"type":"Point"}
+}

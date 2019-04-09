@@ -1,0 +1,71 @@
+{
+  "id": 1209735501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.49264,62.53849,6.49264,62.53849",
+    "geom:latitude":62.53849,
+    "geom:longitude":6.49264,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1534.0",
+    "gn:asciiname":"Krogsethagen",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536737,
+    "gn:latitude":62.53849,
+    "gn:longitude":6.49264,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Krogsethagen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Krogsethagen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296865,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536737
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"52703a93131bb7fcaa2f9906f636bd94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296865,
+            "locality_id":1209735501,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1209735501,
+    "wof:lastmodified":1537675981,
+    "wof:name":"Krogsethagen",
+    "wof:parent_id":1159296865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.49264,
+    62.53849,
+    6.49264,
+    62.53849
+],
+  "geometry": {"coordinates":[6.49264,62.53849],"type":"Point"}
+}

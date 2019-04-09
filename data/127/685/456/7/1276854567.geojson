@@ -1,0 +1,72 @@
+{
+  "id": 1276854567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.2397,59.34829,6.2397,59.34829",
+    "geom:latitude":59.34829,
+    "geom:longitude":6.2397,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1134",
+    "gn:asciiname":"Halandsosen",
+    "gn:country_code":"NO",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9403999,
+    "gn:latitude":59.34829,
+    "gn:longitude":6.2397,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"H\u00e5landsosen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "H\u00e5landsosen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297509,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9403999,
+        "wk:page":"H%C3%A5landsosen"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"33b0ba385704ff4ab13ffa48b20580d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297509,
+            "locality_id":1276854567,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1276854567,
+    "wof:lastmodified":1537675913,
+    "wof:name":"Halandsosen",
+    "wof:parent_id":1159297509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.2397,
+    59.34829000000001,
+    6.2397,
+    59.34829000000001
+],
+  "geometry": {"coordinates":[6.2397,59.34829000000001],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327218337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56743,67.41972,15.56743,67.41972",
+    "geom:latitude":67.41972,
+    "geom:longitude":15.56743,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1845.0",
+    "gn:asciiname":"Lakthaugen,in",
+    "gn:country_code":"NO",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537090,
+    "gn:latitude":67.41972,
+    "gn:longitude":15.56743,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"L\u00e5kthaugen,in",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "L\u00e5kthaugen,in"
+    ],
+    "name:nor_x_variant":[
+        "Inner-L\u00e5kth\u00e5gen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296959,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537090
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8679d8359da8a57741693644e09e3b8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296959,
+            "locality_id":1327218337,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1327218337,
+    "wof:lastmodified":1537675996,
+    "wof:name":"Lakthaugen,in",
+    "wof:parent_id":1159296959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56743,
+    67.41972,
+    15.56743,
+    67.41972
+],
+  "geometry": {"coordinates":[15.56743,67.41972],"type":"Point"}
+}

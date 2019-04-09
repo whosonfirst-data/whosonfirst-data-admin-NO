@@ -1,0 +1,71 @@
+{
+  "id": 1360162867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.74494,61.32054,9.74494,61.32054",
+    "geom:latitude":61.32054,
+    "geom:longitude":9.74494,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"522.0",
+    "gn:asciiname":"Synstgardsaetra",
+    "gn:country_code":"NO",
+    "gn:dem":820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535912,
+    "gn:latitude":61.32054,
+    "gn:longitude":9.74494,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Synstgards\u00e6tra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Synstgards\u00e6tra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297375,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535912
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"16dc60e2c347eef7f0832a338ebb399a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297375,
+            "locality_id":1360162867,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1360162867,
+    "wof:lastmodified":1537675946,
+    "wof:name":"Synstgardsaetra",
+    "wof:parent_id":1159297375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.74494,
+    61.32054,
+    9.74494,
+    61.32054
+],
+  "geometry": {"coordinates":[9.74494,61.32054],"type":"Point"}
+}

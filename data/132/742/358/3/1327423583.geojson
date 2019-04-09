@@ -1,0 +1,74 @@
+{
+  "id": 1327423583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.29944,68.52611,15.29944,68.52611",
+    "geom:latitude":68.52611,
+    "geom:longitude":15.29944,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1866.0",
+    "gn:asciiname":"Kaljord",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3150558,
+    "gn:latitude":68.52611,
+    "gn:longitude":15.29944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kaljord",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaldjorden",
+        "Kaldjord",
+        "Kalljorda",
+        "Kaljord"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296743,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3150558,
+        "wk:page":"Kaljord"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0d68ffe5956f8f0dad7fbd67669ce08f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296743,
+            "locality_id":1327423583,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1327423583,
+    "wof:lastmodified":1537675801,
+    "wof:name":"Kaljord",
+    "wof:parent_id":1159296743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.29944,
+    68.52611,
+    15.29944,
+    68.52611
+],
+  "geometry": {"coordinates":[15.29944,68.52611],"type":"Point"}
+}

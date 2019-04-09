@@ -1,0 +1,71 @@
+{
+  "id": 1293462301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.5,62.81667,11.5,62.81667",
+    "geom:latitude":62.81667,
+    "geom:longitude":11.5,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5026.0",
+    "gn:asciiname":"Borstuvollen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3160583,
+    "gn:latitude":62.81667,
+    "gn:longitude":11.5,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Borstuvollen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Borstu-vold",
+        "Borstuvollen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296983,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160583
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7abf0b1926a31abd883acce0bf73dce2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296983,
+            "locality_id":1293462301,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1293462301,
+    "wof:lastmodified":1537675870,
+    "wof:name":"Borstuvollen",
+    "wof:parent_id":1159296983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.5,
+    62.81667,
+    11.5,
+    62.81667
+],
+  "geometry": {"coordinates":[11.5,62.81667],"type":"Point"}
+}

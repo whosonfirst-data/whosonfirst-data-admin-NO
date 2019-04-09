@@ -1,0 +1,128 @@
+{
+  "id": 101804081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000233,
+    "geom:area_square_m":1311983.20694,
+    "geom:bbox":"7.4243466839,62.9076717187,7.45309023046,62.9269821593",
+    "geom:latitude":62.916407,
+    "geom:longitude":7.439351,
+    "gn:population":1155,
+    "iso:country":"NO",
+    "lbl:latitude":62.917683,
+    "lbl:longitude":7.441964,
+    "mps:latitude":62.917683,
+    "mps:longitude":7.441964,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Eide"
+    ],
+    "name:eng_x_preferred":[
+        "Eide"
+    ],
+    "name:nld_x_preferred":[
+        "Eide"
+    ],
+    "name:nno_x_preferred":[
+        "Eide"
+    ],
+    "name:nor_x_colloquial":[
+        "Eide Pa Nordmore",
+        "Eide Pa Nordmores",
+        "Eide Paa Nordmoere",
+        "Eide Paa Nordmoeres"
+    ],
+    "name:nor_x_preferred":[
+        "Eide"
+    ],
+    "name:nor_x_variant":[
+        "Eide P\u00e5 Nordm\u00f8re",
+        "Eide P\u00e5 Nordm\u00f8res",
+        "Eides"
+    ],
+    "name:pol_x_preferred":[
+        "Eide"
+    ],
+    "name:por_x_preferred":[
+        "Eide"
+    ],
+    "name:ron_x_preferred":[
+        "Eide"
+    ],
+    "name:swe_x_preferred":[
+        "Eide kommun"
+    ],
+    "name:unk_x_variant":[
+        "Eide p\u00e5 Nordm\u00f8re"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*M\u00f8re og Romsdal",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"Eide",
+    "qs:la_lc":"*NO1551",
+    "qs:level":"locality",
+    "qs:loc":"Eide",
+    "qs:loc_alt":"Eide",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297085,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01fb5f2e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3158697,
+        "gp:id":857976,
+        "qs:id":1043343,
+        "qs_pg:id":1043343,
+        "wd:id":"Q493296",
+        "wk:page":"Eide"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"52b2a70067fc802e351543067e236c56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297085,
+            "locality_id":101804081,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":101804081,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1529700088,
+    "wof:name":"Eide",
+    "wof:parent_id":1159297085,
+    "wof:placetype":"locality",
+    "wof:population":1155,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.42434668389529,
+    62.90767171865485,
+    7.45309023045775,
+    62.92698215932393
+],
+  "geometry": {"coordinates":[[[7.44652964668444,62.92698215932393],[7.44675915121701,62.92427988713479],[7.44871690203888,62.92431263013509],[7.44894618394579,62.92161035941075],[7.45286134661183,62.92167576351335],[7.45309023045775,62.91897349096223],[7.44917541883109,62.91890809344972],[7.44955737252036,62.914404327429],[7.44760026522033,62.91437159652315],[7.44767669877297,62.91347084600471],[7.44376261326266,62.91340531111484],[7.44383915853842,62.91250456332563],[7.43992520617297,62.91243893027161],[7.44000186315475,62.91153818521457],[7.43804495152199,62.91150533215404],[7.43819836669394,62.90970384583056],[7.4303712284634,62.90957219152978],[7.43044816200648,62.9086714535801],[7.42849144606947,62.90863847839148],[7.42856843280595,62.90773774207662],[7.42465513005067,62.90767171865485],[7.42434668389529,62.91127465821398],[7.4263035670557,62.91130768690311],[7.42614942929038,62.91310916206646],[7.43006344170908,62.91317514860697],[7.42983254641882,62.91587737195852],[7.42787536273863,62.91584438791142],[7.4277983286342,62.91674512897731],[7.43367006734866,62.91684400915727],[7.43351633429518,62.91864549951504],[7.43743108108413,62.91871129858009],[7.43720079311004,62.92141354471079],[7.43915834811025,62.92144640990949],[7.43908163346759,62.92234716078127],[7.44103925104002,62.92238000198375],[7.44088592305559,62.92418150752047],[7.44284366172206,62.92421432582734],[7.4427670483916,62.92511508049176],[7.44472484963842,62.92514787479826],[7.44457172432277,62.92694938791863],[7.44652964668444,62.92698215932393]]],"type":"Polygon"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243420539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.1,70.1,20.1,70.1",
+    "geom:latitude":70.1,
+    "geom:longitude":20.1,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1936.0",
+    "gn:asciiname":"Kvitnes",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":779127,
+    "gn:latitude":70.1,
+    "gn:longitude":20.1,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kvitnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kvitnoes",
+        "Kvitnes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297199,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":779127
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e739615aa3401f1bd0b387f3e9119df1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297199,
+            "locality_id":1243420539,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1243420539,
+    "wof:lastmodified":1537675655,
+    "wof:name":"Kvitnes",
+    "wof:parent_id":1159297199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.1,
+    70.1,
+    20.1,
+    70.1
+],
+  "geometry": {"coordinates":[20.1,70.09999999999999],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260076927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.25083,60.61111,5.25083,60.61111",
+    "geom:latitude":60.61111,
+    "geom:longitude":5.25083,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1263.0",
+    "gn:asciiname":"Odderas",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3143817,
+    "gn:latitude":60.61111,
+    "gn:longitude":5.25083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Odder\u00e5s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Odderaas",
+        "Odder\u00e5s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296745,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3143817
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"22e60e5fe57902b5e757aac66b85ef62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296745,
+            "locality_id":1260076927,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1260076927,
+    "wof:lastmodified":1537675754,
+    "wof:name":"Odderas",
+    "wof:parent_id":1159296745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.25083,
+    60.61111,
+    5.25083,
+    60.61111
+],
+  "geometry": {"coordinates":[5.25083,60.61111],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1126077979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.363733,63.389118,10.363733,63.389118",
+    "geom:latitude":63.389118,
+    "geom:longitude":10.363733,
+    "gn:gn_country":null,
+    "iso:country":"NO",
+    "lbl:latitude":63.389118,
+    "lbl:longitude":10.363733,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Hallset",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
+    "qs_pg:photos":91,
+    "qs_pg:photos_1k":18,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":91,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1256485,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":20100079,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85687127,
+        1159297145,
+        101751927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20100079,
+        "qs_pg:id":1256485
+    },
+    "wof:country":"NO",
+    "wof:created":1497311404,
+    "wof:geomhash":"d5a2cfe8b6deac1ca1f0aff40f753245",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297145,
+            "locality_id":101751927,
+            "neighbourhood_id":1126077979,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1126077979,
+    "wof:lastmodified":1529700350,
+    "wof:name":"Hallset",
+    "wof:parent_id":101751927,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.363733,
+    63.389118,
+    10.363733,
+    63.389118
+],
+  "geometry": {"coordinates":[10.363733,63.389118],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242967893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.64239,60.05997,5.64239,60.05997",
+    "geom:latitude":60.05997,
+    "geom:longitude":5.64239,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1223.0",
+    "gn:asciiname":"Lunde",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537725,
+    "gn:latitude":60.05997,
+    "gn:longitude":5.64239,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Lunde",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Lunde"
+    ],
+    "name:nor_x_variant":[
+        "Lundegrend"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297223,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537725
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"bb8a36eefb89a5a9b5022696184c5183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297223,
+            "locality_id":1242967893,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1242967893,
+    "wof:lastmodified":1537676026,
+    "wof:name":"Lunde",
+    "wof:parent_id":1159297223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.64239,
+    60.05996999999999,
+    5.64239,
+    60.05996999999999
+],
+  "geometry": {"coordinates":[5.64239,60.05996999999999],"type":"Point"}
+}

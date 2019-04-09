@@ -1,0 +1,71 @@
+{
+  "id": 1226404865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.01714,58.03587,7.01714,58.03587",
+    "geom:latitude":58.03587,
+    "geom:longitude":7.01714,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1032.0",
+    "gn:asciiname":"Lundegard",
+    "gn:country_code":"NO",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535750,
+    "gn:latitude":58.03587,
+    "gn:longitude":7.01714,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Lundeg\u00e5rd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Lundeg\u00e5rd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296753,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535750
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a6ca7ce5befd9f74f1f566681ef48c93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296753,
+            "locality_id":1226404865,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1226404865,
+    "wof:lastmodified":1537675939,
+    "wof:name":"Lundegard",
+    "wof:parent_id":1159296753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.01714,
+    58.03587,
+    7.01714,
+    58.03587
+],
+  "geometry": {"coordinates":[7.01714,58.03587],"type":"Point"}
+}

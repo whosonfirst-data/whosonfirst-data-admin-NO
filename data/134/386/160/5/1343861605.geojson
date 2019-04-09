@@ -1,0 +1,71 @@
+{
+  "id": 1343861605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.38954,59.57894,7.38954,59.57894",
+    "geom:latitude":59.57894,
+    "geom:longitude":7.38954,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"941.0",
+    "gn:asciiname":"Hovden hyttegrend",
+    "gn:country_code":"NO",
+    "gn:dem":847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536259,
+    "gn:latitude":59.57894,
+    "gn:longitude":7.38954,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Hovden hyttegrend",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Hovden hyttegrend"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296911,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536259
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ee265cb1487d3f7ae41a5daf0df868b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296911,
+            "locality_id":1343861605,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1343861605,
+    "wof:lastmodified":1537675961,
+    "wof:name":"Hovden hyttegrend",
+    "wof:parent_id":1159296911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.38954,
+    59.57894,
+    7.38954,
+    59.57894
+],
+  "geometry": {"coordinates":[7.38954,59.57894],"type":"Point"}
+}

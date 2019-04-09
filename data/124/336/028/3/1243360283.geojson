@@ -1,0 +1,73 @@
+{
+  "id": 1243360283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.58333,63.1,8.58333,63.1",
+    "geom:latitude":63.1,
+    "geom:longitude":8.58333,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1571.0",
+    "gn:asciiname":"Sandnes",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3147230,
+    "gn:latitude":63.1,
+    "gn:longitude":8.58333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sandnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Litle Sandnes",
+        "Sandnes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296693,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3147230
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d84716846bdb79e9628ce07cb937fba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296693,
+            "locality_id":1243360283,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1243360283,
+    "wof:lastmodified":1537675776,
+    "wof:name":"Sandnes",
+    "wof:parent_id":1159296693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.58333,
+    63.1,
+    8.58333,
+    63.1
+],
+  "geometry": {"coordinates":[8.58333,63.1],"type":"Point"}
+}

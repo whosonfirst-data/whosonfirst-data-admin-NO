@@ -1,0 +1,69 @@
+{
+  "id": 1310168049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.14443,58.18525,8.14443,58.18525",
+    "geom:latitude":58.18525,
+    "geom:longitude":8.14443,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1001.0",
+    "gn:asciiname":"Dyreparken",
+    "gn:country_code":"NO",
+    "gn:dem":87,
+    "gn:elevation":"100.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6944695,
+    "gn:latitude":58.18525,
+    "gn:longitude":8.14443,
+    "gn:modification_date":"2009-08-04",
+    "gn:name":"Dyreparken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296703,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6944695
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"911ad89980d6d00841da50f6c492c837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296703,
+            "locality_id":1310168049,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1310168049,
+    "wof:lastmodified":1536906705,
+    "wof:name":"Dyreparken",
+    "wof:parent_id":1159296703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.14443,
+    58.18525,
+    8.14443,
+    58.18525
+],
+  "geometry": {"coordinates":[8.14443,58.18525],"type":"Point"}
+}

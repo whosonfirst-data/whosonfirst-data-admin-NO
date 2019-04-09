@@ -1,0 +1,71 @@
+{
+  "id": 1226123637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.71752,61.22749,10.71752,61.22749",
+    "geom:latitude":61.22749,
+    "geom:longitude":10.71752,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"501.0",
+    "gn:asciiname":"Snultra",
+    "gn:country_code":"NO",
+    "gn:dem":913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535867,
+    "gn:latitude":61.22749,
+    "gn:longitude":10.71752,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Snultra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Snultra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297519,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535867
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"247ea9322d6200f247cba5a0104ce9fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297519,
+            "locality_id":1226123637,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1226123637,
+    "wof:lastmodified":1537675944,
+    "wof:name":"Snultra",
+    "wof:parent_id":1159297519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.71752,
+    61.22749,
+    10.71752,
+    61.22749
+],
+  "geometry": {"coordinates":[10.71752,61.22749],"type":"Point"}
+}

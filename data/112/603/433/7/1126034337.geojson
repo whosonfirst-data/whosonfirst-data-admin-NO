@@ -1,0 +1,115 @@
+{
+  "id": 1126034337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.9,58.2,7.9,58.2",
+    "geom:latitude":58.2,
+    "geom:longitude":7.9,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1266,
+    "gn:population":1266,
+    "iso:country":"NO",
+    "lbl:latitude":58.2,
+    "lbl:longitude":7.9,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Strai"
+    ],
+    "name:eng_x_preferred":[
+        "Strai"
+    ],
+    "name:fre_x_preferred":[
+        "Strai"
+    ],
+    "name:may_x_preferred":[
+        "Strai"
+    ],
+    "name:nno_x_preferred":[
+        "Strai"
+    ],
+    "name:nob_x_preferred":[
+        "Strai"
+    ],
+    "name:spa_x_preferred":[
+        "Strai"
+    ],
+    "name:unk_x_variant":[
+        "Ytre Strai"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3131178,
+    "qs_pg:gn_pop":1266,
+    "qs_pg:name":"Strai",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Vest-Agder Fylke",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":4,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":259559,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":22658525,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Vest-Agder Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296703,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3131178,
+        "gp:id":22658525,
+        "qs_pg:id":259559,
+        "wd:id":"Q3366307"
+    },
+    "wof:country":"NO",
+    "wof:created":1497301684,
+    "wof:geomhash":"3810c193007c2fbc714e59ffc82747e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296703,
+            "locality_id":1126034337,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1126034337,
+    "wof:lastmodified":1529700473,
+    "wof:name":"Strai",
+    "wof:parent_id":1159296703,
+    "wof:placetype":"locality",
+    "wof:population":1266,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.9,
+    58.2,
+    7.9,
+    58.2
+],
+  "geometry": {"coordinates":[7.9,58.2],"type":"Point"}
+}

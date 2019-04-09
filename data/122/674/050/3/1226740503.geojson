@@ -1,0 +1,68 @@
+{
+  "id": 1226740503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.55,62.76667,8.55,62.76667",
+    "geom:latitude":62.76667,
+    "geom:longitude":8.55,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1563.0",
+    "gn:asciiname":"Mo",
+    "gn:country_code":"NO",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3145713,
+    "gn:latitude":62.76667,
+    "gn:longitude":8.55,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Mo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296805,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3145713
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"63e776f71fc6915862d622d87a267fb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296805,
+            "locality_id":1226740503,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1226740503,
+    "wof:lastmodified":1536723442,
+    "wof:name":"Mo",
+    "wof:parent_id":1159296805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.55,
+    62.76667,
+    8.55,
+    62.76667
+],
+  "geometry": {"coordinates":[8.55,62.76667],"type":"Point"}
+}

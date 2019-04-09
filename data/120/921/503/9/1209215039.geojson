@@ -1,0 +1,62 @@
+{
+  "id": 1209215039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.19257,60.05713,10.19257,60.05713",
+    "geom:latitude":60.05713,
+    "geom:longitude":10.19257,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"612.0",
+    "gn:asciiname":"Bonsnes",
+    "gn:country_code":"NO",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3160710,
+    "gn:latitude":60.05713,
+    "gn:longitude":10.19257,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"B\u00f8nsnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160710
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"800cd9e339a70f5ab463aa97227a8332",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209215039
+        }
+    ],
+    "wof:id":1209215039,
+    "wof:lastmodified":1536294160,
+    "wof:name":"Bonsnes",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.19257,
+    60.05713000000001,
+    10.19257,
+    60.05713000000001
+],
+  "geometry": {"coordinates":[10.19257,60.05713000000001],"type":"Point"}
+}

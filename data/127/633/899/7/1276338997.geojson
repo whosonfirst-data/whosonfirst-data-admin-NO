@@ -1,0 +1,72 @@
+{
+  "id": 1276338997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.933,59.98708,10.933,59.98708",
+    "geom:latitude":59.98708,
+    "geom:longitude":10.933,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"233.0",
+    "gn:asciiname":"Gjellerasen",
+    "gn:country_code":"NO",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558599,
+    "gn:latitude":59.98708,
+    "gn:longitude":10.933,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Gjeller\u00e5sen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Gjeller\u00e5sen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296969,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558599,
+        "wk:page":"Gjeller%C3%A5sen"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a60cb3a64806a2618c7ffbaf49d86f0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296969,
+            "locality_id":1276338997,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1276338997,
+    "wof:lastmodified":1537675905,
+    "wof:name":"Gjellerasen",
+    "wof:parent_id":1159296969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.933,
+    59.98708000000001,
+    10.933,
+    59.98708000000001
+],
+  "geometry": {"coordinates":[10.933,59.98708000000001],"type":"Point"}
+}

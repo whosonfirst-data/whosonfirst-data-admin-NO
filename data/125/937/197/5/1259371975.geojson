@@ -1,0 +1,75 @@
+{
+  "id": 1259371975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.7009,64.64307,13.7009,64.64307",
+    "geom:latitude":64.64307,
+    "geom:longitude":13.7009,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5042.0",
+    "gn:asciiname":"Ostnes",
+    "gn:country_code":"NO",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3162300,
+    "gn:latitude":64.64307,
+    "gn:longitude":13.7009,
+    "gn:modification_date":"2018-05-11",
+    "gn:name":"\u00d8stnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d8stnes"
+    ],
+    "name:und_x_variant":[
+        "\u00d6stnes",
+        "Austnes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297309,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3162300
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3873595c8808e43b2a08aff61799a962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297309,
+            "locality_id":1259371975,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1259371975,
+    "wof:lastmodified":1537675881,
+    "wof:name":"Ostnes",
+    "wof:parent_id":1159297309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.7009,
+    64.64307,
+    13.7009,
+    64.64307
+],
+  "geometry": {"coordinates":[13.7009,64.64306999999999],"type":"Point"}
+}

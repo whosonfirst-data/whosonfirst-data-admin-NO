@@ -1,0 +1,74 @@
+{
+  "id": 1259867607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.71415,61.38209,9.71415,61.38209",
+    "geom:latitude":61.38209,
+    "geom:longitude":9.71415,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"522.0",
+    "gn:asciiname":"Nessetsaetra",
+    "gn:country_code":"NO",
+    "gn:dem":740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535910,
+    "gn:latitude":61.38209,
+    "gn:longitude":9.71415,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Nessets\u00e6tra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Nessets\u00e6tra"
+    ],
+    "name:nor_x_variant":[
+        "Neses\u00e6tra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297375,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535910
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"80ceef146735c6bef289672fcbef9cf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297375,
+            "locality_id":1259867607,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1259867607,
+    "wof:lastmodified":1537675946,
+    "wof:name":"Nessetsaetra",
+    "wof:parent_id":1159297375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.71415,
+    61.38209000000001,
+    9.71415,
+    61.38209000000001
+],
+  "geometry": {"coordinates":[9.71415,61.38209000000001],"type":"Point"}
+}

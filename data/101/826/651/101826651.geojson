@@ -1,0 +1,81 @@
+{
+  "id": 101826651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000065,
+    "geom:bbox":"10.2758387636,59.4082121849,10.286395148,59.4181296664",
+    "geom:latitude":59.413018,
+    "geom:longitude":10.280855,
+    "iso:country":"NO",
+    "lbl:latitude":59.41302,
+    "lbl:longitude":10.280227,
+    "mps:latitude":59.41302,
+    "mps:longitude":10.280227,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "V\u00e5le i Vestfold"
+    ],
+    "name:nor_x_preferred":[
+        "V\u00e5le"
+    ],
+    "name:por_x_preferred":[
+        "V\u00e5le"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Vestfold",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"Re",
+    "qs:la_lc":"*NO0716",
+    "qs:level":"locality",
+    "qs:loc":"Kirkevoll/Brekke\u00e5sen",
+    "qs:loc_alt":"Kirkevoll/Brekkeaasen",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159296901,
+        85633341,
+        85687073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15000985,
+        "qs:id":1
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9862db90a8eeda879812bc095112fd2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296901,
+            "locality_id":101826651,
+            "region_id":85687073
+        }
+    ],
+    "wof:id":101826651,
+    "wof:lastmodified":1529700488,
+    "wof:name":"Kirkevoll/Brekke\u00e5sen",
+    "wof:parent_id":1159296901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.27583876361956,
+    59.40821218493051,
+    10.28639514795299,
+    59.4181296664396
+],
+  "geometry": {"coordinates":[[[10.28639514795299,59.4118107727129],[10.28636537692927,59.40821218493051],[10.28399603825363,59.40821704267739],[10.28285172827975,59.4082193888039],[10.28285907904808,59.40911903544003],[10.27758846654626,59.40912967480938],[10.27759568078613,59.4100293221058],[10.27583876361956,59.41003282419632],[10.27584593263623,59.41093247194323],[10.2776028954637,59.41092896974982],[10.27764619272017,59.41632686291661],[10.27588895586899,59.41633036572796],[10.2759033004271,59.4181296664396],[10.28293261125935,59.41811552092406],[10.28288113402795,59.41181797743366],[10.28399603825363,59.41181569156527],[10.28639514795299,59.4118107727129]]],"type":"Polygon"}
+}

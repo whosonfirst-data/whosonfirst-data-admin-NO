@@ -1,0 +1,74 @@
+{
+  "id": 1360148027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.91969,69.32813,18.91969,69.32813",
+    "geom:latitude":69.32813,
+    "geom:longitude":18.91969,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1933.0",
+    "gn:asciiname":"Mestervik",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3145984,
+    "gn:latitude":69.32813,
+    "gn:longitude":18.91969,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Mestervik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mestevik",
+        "Mestervik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296799,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3145984,
+        "wk:page":"Mestervik"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6e9c5b84b50212f6be16afd5a4b379d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296799,
+            "locality_id":1360148027,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1360148027,
+    "wof:lastmodified":1537675766,
+    "wof:name":"Mestervik",
+    "wof:parent_id":1159296799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.91969,
+    69.32813,
+    18.91969,
+    69.32813
+],
+  "geometry": {"coordinates":[18.91969,69.32813],"type":"Point"}
+}

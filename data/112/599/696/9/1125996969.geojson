@@ -1,0 +1,101 @@
+{
+  "id": 1125996969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.81314,59.115457,5.81314,59.115457",
+    "geom:latitude":59.115457,
+    "geom:longitude":5.81314,
+    "gn:gn_country":"NO",
+    "iso:country":"NO",
+    "lbl:latitude":59.115457,
+    "lbl:longitude":5.81314,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Talgje"
+    ],
+    "name:eng_x_preferred":[
+        "Talgje"
+    ],
+    "name:fre_x_preferred":[
+        "Talgje"
+    ],
+    "name:may_x_preferred":[
+        "Talgje"
+    ],
+    "name:nno_x_preferred":[
+        "Talgje"
+    ],
+    "name:nob_x_preferred":[
+        "Talgje"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:name":"Talgje",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Rogaland Fylke",
+    "qs_pg:photos":47,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":47,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1001208,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":864867,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Rogaland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296829,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":864867,
+        "qs_pg:id":1001208,
+        "wd:id":"Q6515541"
+    },
+    "wof:country":"NO",
+    "wof:created":1497299407,
+    "wof:geomhash":"ee791f4668fc874de62c6444c0e99205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296829,
+            "locality_id":1125996969,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1125996969,
+    "wof:lastmodified":1529700292,
+    "wof:name":"Talgje",
+    "wof:parent_id":1159296829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.81314,
+    59.115457,
+    5.81314,
+    59.115457
+],
+  "geometry": {"coordinates":[5.81314,59.115457],"type":"Point"}
+}

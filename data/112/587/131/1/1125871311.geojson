@@ -1,0 +1,106 @@
+{
+  "id": 1125871311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.66667,62.81667,7.66667,62.81667",
+    "geom:latitude":62.81667,
+    "geom:longitude":7.66667,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":499,
+    "gn:population":499,
+    "iso:country":"NO",
+    "lbl:latitude":62.81667,
+    "lbl:longitude":7.66667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Kleive"
+    ],
+    "name:eng_x_preferred":[
+        "Kleive"
+    ],
+    "name:fre_x_preferred":[
+        "Kleive"
+    ],
+    "name:jav_x_preferred":[
+        "Kleive"
+    ],
+    "name:may_x_preferred":[
+        "Kleive"
+    ],
+    "name:nno_x_preferred":[
+        "Kleive"
+    ],
+    "name:nob_x_preferred":[
+        "Kleive"
+    ],
+    "name:rum_x_preferred":[
+        "Kleive"
+    ],
+    "name:unk_x_variant":[
+        "Kleve"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3149912,
+    "qs_pg:gn_pop":499,
+    "qs_pg:name":"Kleive",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":145928,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297499,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3149912,
+        "qs_pg:id":145928,
+        "wd:id":"Q1770365"
+    },
+    "wof:country":"NO",
+    "wof:created":1497294313,
+    "wof:geomhash":"df4669efd0af1047afba6b3c9dc5ba02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297499,
+            "locality_id":1125871311,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1125871311,
+    "wof:lastmodified":1529700093,
+    "wof:name":"Kleive",
+    "wof:parent_id":1159297499,
+    "wof:placetype":"locality",
+    "wof:population":499,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.66667,
+    62.81667,
+    7.66667,
+    62.81667
+],
+  "geometry": {"coordinates":[7.66667,62.81667],"type":"Point"}
+}

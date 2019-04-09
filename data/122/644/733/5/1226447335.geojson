@@ -1,0 +1,74 @@
+{
+  "id": 1226447335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.53581,70.29537,23.53581,70.29537",
+    "geom:latitude":70.29537,
+    "geom:longitude":23.53581,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2012.0",
+    "gn:asciiname":"Maregohppi",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536463,
+    "gn:latitude":70.29537,
+    "gn:longitude":23.53581,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"M\u00e1regohppi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Maribukt"
+    ],
+    "name:sme_x_preferred":[
+        "M\u00e1regohppi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296893,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536463
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6786b03d6716969d60b7f4c23d03412c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296893,
+            "locality_id":1226447335,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1226447335,
+    "wof:lastmodified":1537675970,
+    "wof:name":"Maregohppi",
+    "wof:parent_id":1159296893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.53581,
+    70.29536999999999,
+    23.53581,
+    70.29536999999999
+],
+  "geometry": {"coordinates":[23.53581,70.29536999999999],"type":"Point"}
+}

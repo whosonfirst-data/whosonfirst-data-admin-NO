@@ -1,0 +1,77 @@
+{
+  "id": 1259777965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.67673,66.51536,13.67673,66.51536",
+    "geom:latitude":66.51536,
+    "geom:longitude":13.67673,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1836.0",
+    "gn:asciiname":"Melfjordbotn",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3146134,
+    "gn:latitude":66.51536,
+    "gn:longitude":13.67673,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Melfjordbotn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Melfjordbotn"
+    ],
+    "name:nor_x_variant":[
+        "Melfjorden"
+    ],
+    "name:und_x_variant":[
+        "Melfiordbotn",
+        "Melfjorden"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296809,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3146134
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b68e02d608d0341f3d110ff58d60dbbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296809,
+            "locality_id":1259777965,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1259777965,
+    "wof:lastmodified":1537675767,
+    "wof:name":"Melfjordbotn",
+    "wof:parent_id":1159296809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.67673,
+    66.51536,
+    13.67673,
+    66.51536
+],
+  "geometry": {"coordinates":[13.67673,66.51536],"type":"Point"}
+}

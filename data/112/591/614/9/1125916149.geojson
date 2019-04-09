@@ -1,0 +1,82 @@
+{
+  "id": 1125916149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.520656,60.373314,7.520656,60.373314",
+    "geom:latitude":60.373314,
+    "geom:longitude":7.520656,
+    "gn:gn_country":null,
+    "iso:country":"NO",
+    "lbl:latitude":60.373314,
+    "lbl:longitude":7.520656,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Dyranut",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Hordaland Fylke",
+    "qs_pg:photos":179,
+    "qs_pg:photos_1k":36,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":179,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":504247,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":857907,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Hordaland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297267,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":857907,
+        "qs_pg:id":504247
+    },
+    "wof:country":"NO",
+    "wof:created":1497296321,
+    "wof:geomhash":"d831cd450a6f2779a2e671c6a741a1e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297267,
+            "locality_id":1125916149,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1125916149,
+    "wof:lastmodified":1529700061,
+    "wof:name":"Dyranut",
+    "wof:parent_id":1159297267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.520656,
+    60.373314,
+    7.520656,
+    60.373314
+],
+  "geometry": {"coordinates":[7.520656,60.373314],"type":"Point"}
+}

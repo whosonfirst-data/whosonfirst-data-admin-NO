@@ -1,0 +1,127 @@
+{
+  "id": 101815591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000172,
+    "geom:area_square_m":1044077.298275,
+    "geom:bbox":"10.6093845646,60.6715604037,10.6331191794,60.6886870252",
+    "geom:latitude":60.680481,
+    "geom:longitude":10.620375,
+    "gn:population":1145,
+    "iso:country":"NO",
+    "lbl:latitude":60.680198,
+    "lbl:longitude":10.619206,
+    "mps:latitude":60.680198,
+    "mps:longitude":10.619206,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Reinsvoll"
+    ],
+    "name:eng_x_preferred":[
+        "Reinsvoll"
+    ],
+    "name:fre_x_preferred":[
+        "Reinsvoll"
+    ],
+    "name:jav_x_preferred":[
+        "Reinsvoll"
+    ],
+    "name:may_x_preferred":[
+        "Reinsvoll"
+    ],
+    "name:msa_x_preferred":[
+        "Reinsvoll"
+    ],
+    "name:nld_x_preferred":[
+        "Reinsvoll"
+    ],
+    "name:nno_x_preferred":[
+        "Reinsvoll"
+    ],
+    "name:nob_x_preferred":[
+        "Reinsvoll"
+    ],
+    "name:nor_x_preferred":[
+        "Reinsvoll"
+    ],
+    "name:nor_x_variant":[
+        "Reinsvolls"
+    ],
+    "name:ron_x_preferred":[
+        "Reinsvoll"
+    ],
+    "name:rum_x_preferred":[
+        "Reinsvoll"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Oppland",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"Vestre Toten",
+    "qs:la_lc":"*NO0529",
+    "qs:level":"locality",
+    "qs:loc":"Reinsvoll",
+    "qs:loc_alt":"Reinsvoll",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":106,
+    "wof:belongsto":[
+        102191581,
+        1159297405,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01fef6de-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3142060,
+        "gp:id":862895,
+        "qs:id":57820,
+        "qs_pg:id":57820,
+        "wd:id":"Q1769623",
+        "wk:page":"Reinsvoll"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f7cbc1cfb7782f8020ccfed40327c685",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297405,
+            "locality_id":101815591,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":101815591,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1529700235,
+    "wof:name":"Reinsvoll",
+    "wof:parent_id":1159297405,
+    "wof:placetype":"locality",
+    "wof:population":1145,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.6093845645641,
+    60.67156040367729,
+    10.63311917940291,
+    60.68868702523662
+],
+  "geometry": {"coordinates":[[[10.62038188382837,60.68685531346023],[10.62033103631728,60.68415481317692],[10.62762866767764,60.68412307067211],[10.62764581512891,60.68502323602667],[10.63311917940291,60.68499918478989],[10.63310188243798,60.68409902017629],[10.63127747835705,60.68410706020984],[10.63126023232024,60.68320689577672],[10.62943587723441,60.68321491236162],[10.62938429515322,60.68051442088921],[10.62756008871543,60.68052241353433],[10.6275429466852,60.67962225031982],[10.62389463095269,60.67963816552333],[10.62384351026151,60.67693767697591],[10.62566751909583,60.67692973170745],[10.62563334440534,60.67512940863713],[10.62745725279092,60.67512144066382],[10.62744011726238,60.67422128001556],[10.62561625868051,60.67422924774337],[10.6255991740357,60.67332908727718],[10.62377536442233,60.67333703156669],[10.62375833065471,60.67243687128314],[10.6182870462402,60.67246056426319],[10.61827016293245,60.67156040367729],[10.61644644960847,60.67156825471068],[10.61654746665351,60.6769692260898],[10.61472345369577,60.67697705537847],[10.61484100660164,60.68327820980733],[10.6111922807147,60.68329380215891],[10.61120897856421,60.68419396927004],[10.6093845645641,60.68420173088344],[10.60940121363058,60.68510189866214],[10.61305014049503,60.68508635175459],[10.61311714606626,60.68868702523662],[10.61676646843961,60.68867138359093],[10.6167496157554,60.68777121505997],[10.6185742258607,60.68776335967124],[10.61855732439398,60.68686319181063],[10.62038188382837,60.68685531346023]]],"type":"Polygon"}
+}

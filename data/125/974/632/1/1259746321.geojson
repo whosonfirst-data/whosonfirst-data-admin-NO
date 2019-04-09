@@ -1,0 +1,71 @@
+{
+  "id": 1259746321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.35468,69.41342,18.35468,69.41342",
+    "geom:latitude":69.41342,
+    "geom:longitude":18.35468,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1931.0",
+    "gn:asciiname":"Gronjord",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537518,
+    "gn:latitude":69.41342,
+    "gn:longitude":18.35468,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Gr\u00f8njord",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Gr\u00f8njord"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297333,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537518
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"31da388ec0381e08354b33f63731ed48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297333,
+            "locality_id":1259746321,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1259746321,
+    "wof:lastmodified":1537676015,
+    "wof:name":"Gronjord",
+    "wof:parent_id":1159297333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.35468,
+    69.41342,
+    18.35468,
+    69.41342
+],
+  "geometry": {"coordinates":[18.35468,69.41342],"type":"Point"}
+}

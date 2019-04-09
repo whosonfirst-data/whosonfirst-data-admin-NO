@@ -1,0 +1,68 @@
+{
+  "id": 1309733291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.6,60.18333,6.6,60.18333",
+    "geom:latitude":60.18333,
+    "geom:longitude":6.6,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1231.0",
+    "gn:asciiname":"Frisvik",
+    "gn:country_code":"NO",
+    "gn:dem":877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3156482,
+    "gn:latitude":60.18333,
+    "gn:longitude":6.6,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Frisvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296999,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3156482
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"49d8c523909bac66bdf7608e968d9d7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296999,
+            "locality_id":1309733291,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1309733291,
+    "wof:lastmodified":1537034193,
+    "wof:name":"Frisvik",
+    "wof:parent_id":1159296999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.6,
+    60.18333000000001,
+    6.6,
+    60.18333000000001
+],
+  "geometry": {"coordinates":[6.6,60.18333000000001],"type":"Point"}
+}

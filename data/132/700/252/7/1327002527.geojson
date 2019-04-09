@@ -1,0 +1,72 @@
+{
+  "id": 1327002527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.18333,62.76667,11.18333,62.76667",
+    "geom:latitude":62.76667,
+    "geom:longitude":11.18333,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5026.0",
+    "gn:asciiname":"Kjerringvollen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3150081,
+    "gn:latitude":62.76667,
+    "gn:longitude":11.18333,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Kjerringvollen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kjerringvold",
+        "Kjerringvoll",
+        "Kjerringvollen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296983,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3150081
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0c1b8f054bd003f1532444943afd2897",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296983,
+            "locality_id":1327002527,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1327002527,
+    "wof:lastmodified":1537675796,
+    "wof:name":"Kjerringvollen",
+    "wof:parent_id":1159296983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.18333,
+    62.76667,
+    11.18333,
+    62.76667
+],
+  "geometry": {"coordinates":[11.18333,62.76667],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1226668973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.17865,70.2313,28.17865,70.2313",
+    "geom:latitude":70.2313,
+    "geom:longitude":28.17865,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2025.0",
+    "gn:asciiname":"Nuorttit Sieidda",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":778406,
+    "gn:latitude":70.2313,
+    "gn:longitude":28.17865,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Nuorttit Sieidd\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nuortit Sieida"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0443\u043e\u0440\u0442\u0438\u0442-\u0421\u0438\u0435\u0439\u0434\u0430"
+    ],
+    "name:sme_x_preferred":[
+        "Nuorttit Sieidd\u00e1"
+    ],
+    "name:sme_x_variant":[
+        "Sieida, nuortit"
+    ],
+    "name:und_x_variant":[
+        "Seida",
+        "Nuortit Sieida"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296751,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":778406
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f9fccd2d2475e86ea553a70934a7ae40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296751,
+            "locality_id":1226668973,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1226668973,
+    "wof:lastmodified":1537675650,
+    "wof:name":"Nuorttit Sieidda",
+    "wof:parent_id":1159296751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.17865,
+    70.2313,
+    28.17865,
+    70.2313
+],
+  "geometry": {"coordinates":[28.17865,70.2313],"type":"Point"}
+}

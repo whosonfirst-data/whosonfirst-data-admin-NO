@@ -1,0 +1,81 @@
+{
+  "id": 1126003755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.58333,62.7,7.58333,62.7",
+    "geom:latitude":62.7,
+    "geom:longitude":7.58333,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":472,
+    "gn:population":472,
+    "iso:country":"NO",
+    "lbl:latitude":62.7,
+    "lbl:longitude":7.58333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Aarset"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3162860,
+    "qs_pg:gn_pop":472,
+    "qs_pg:name":"\u00c5rset",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":581163,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297499,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3162860,
+        "qs_pg:id":581163
+    },
+    "wof:country":"NO",
+    "wof:created":1497299806,
+    "wof:geomhash":"778ea280ad5217665e9ffb065bf447a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297499,
+            "locality_id":1126003755,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1126003755,
+    "wof:lastmodified":1529700096,
+    "wof:name":"\u00c5rset",
+    "wof:parent_id":1159297499,
+    "wof:placetype":"locality",
+    "wof:population":472,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.58333,
+    62.7,
+    7.58333,
+    62.7
+],
+  "geometry": {"coordinates":[7.58333,62.7],"type":"Point"}
+}

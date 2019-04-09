@@ -1,0 +1,67 @@
+{
+  "id": 1209079315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.23472,62.185,5.23472,62.185",
+    "geom:latitude":62.185,
+    "geom:longitude":5.23472,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1441.0",
+    "gn:asciiname":"Eltvik",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3158321,
+    "gn:latitude":62.185,
+    "gn:longitude":5.23472,
+    "gn:modification_date":"2014-07-09",
+    "gn:name":"Eltvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eltevik",
+        "Eltvik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3158321
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e5052a6b1f8c85074637114ff3288a33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209079315
+        }
+    ],
+    "wof:id":1209079315,
+    "wof:lastmodified":1537675852,
+    "wof:name":"Eltvik",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.23472,
+    62.185,
+    5.23472,
+    62.185
+],
+  "geometry": {"coordinates":[5.23472,62.185],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1344119333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.87869,58.10215,6.87869,58.10215",
+    "geom:latitude":58.10215,
+    "geom:longitude":6.87869,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1003.0",
+    "gn:asciiname":"Udestad",
+    "gn:country_code":"NO",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536229,
+    "gn:latitude":58.10215,
+    "gn:longitude":6.87869,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Udestad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Udestad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297123,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536229
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"795ccc5551169cb8e8ad5c05952e4be2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297123,
+            "locality_id":1344119333,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1344119333,
+    "wof:lastmodified":1537675960,
+    "wof:name":"Udestad",
+    "wof:parent_id":1159297123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.87869,
+    58.10215,
+    6.87869,
+    58.10215
+],
+  "geometry": {"coordinates":[6.87869,58.10215],"type":"Point"}
+}

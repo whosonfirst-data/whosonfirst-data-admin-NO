@@ -1,0 +1,113 @@
+{
+  "id": 1126041133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.290775,59.355475,5.290775,59.355475",
+    "geom:latitude":59.355475,
+    "geom:longitude":5.290775,
+    "gn:gn_country":null,
+    "iso:country":"NO",
+    "lbl:latitude":59.355475,
+    "lbl:longitude":5.290775,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Avaldsnes"
+    ],
+    "name:eng_x_preferred":[
+        "Avaldsnes"
+    ],
+    "name:fre_x_preferred":[
+        "Avaldsnes"
+    ],
+    "name:ger_x_preferred":[
+        "Avaldsnes"
+    ],
+    "name:ice_x_preferred":[
+        "\u00d6gvaldsnes"
+    ],
+    "name:jav_x_preferred":[
+        "Avaldsnes"
+    ],
+    "name:may_x_preferred":[
+        "Avaldsnes"
+    ],
+    "name:nno_x_preferred":[
+        "Avaldsnes"
+    ],
+    "name:nob_x_preferred":[
+        "Avaldsnes"
+    ],
+    "name:swe_x_preferred":[
+        "Avaldsnes"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Avaldsnes",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Rogaland Fylke",
+    "qs_pg:photos":292,
+    "qs_pg:photos_1k":59,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":292,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":237384,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":15000722,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Rogaland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297005,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15000722,
+        "qs_pg:id":237384,
+        "wd:id":"Q790084"
+    },
+    "wof:country":"NO",
+    "wof:created":1497302167,
+    "wof:geomhash":"3753a58975567909f8265c0da37a18d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297005,
+            "locality_id":1126041133,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1126041133,
+    "wof:lastmodified":1529700284,
+    "wof:name":"Avaldsnes",
+    "wof:parent_id":1159297005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.290775,
+    59.355475,
+    5.290775,
+    59.355475
+],
+  "geometry": {"coordinates":[5.290775,59.355475],"type":"Point"}
+}

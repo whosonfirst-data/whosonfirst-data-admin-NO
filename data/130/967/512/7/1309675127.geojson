@@ -1,0 +1,68 @@
+{
+  "id": 1309675127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.55105,69.59735,20.55105,69.59735",
+    "geom:latitude":69.59735,
+    "geom:longitude":20.55105,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1940.0",
+    "gn:asciiname":"Soleng",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":777293,
+    "gn:latitude":69.59735,
+    "gn:longitude":20.55105,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Soleng",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296761,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":777293
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9724170cd88362f281a755cb91dc22a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296761,
+            "locality_id":1309675127,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1309675127,
+    "wof:lastmodified":1536620577,
+    "wof:name":"Soleng",
+    "wof:parent_id":1159296761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.55105,
+    69.59735,
+    20.55105,
+    69.59735
+],
+  "geometry": {"coordinates":[20.55105,69.59735000000001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310311263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.40184,59.91767,9.40184,59.91767",
+    "geom:latitude":59.91767,
+    "geom:longitude":9.40184,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"631.0",
+    "gn:asciiname":"Stuvestadgrenda",
+    "gn:country_code":"NO",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537839,
+    "gn:latitude":59.91767,
+    "gn:longitude":9.40184,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Stuvestadgrenda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Stuvestadgrenda"
+    ],
+    "name:nor_x_variant":[
+        "Stuvstadgrenda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297107,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537839
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"762809617cec58434defda319e844efb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297107,
+            "locality_id":1310311263,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1310311263,
+    "wof:lastmodified":1537676030,
+    "wof:name":"Stuvestadgrenda",
+    "wof:parent_id":1159297107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.40184,
+    59.91767,
+    9.40184,
+    59.91767
+],
+  "geometry": {"coordinates":[9.40184,59.91767],"type":"Point"}
+}

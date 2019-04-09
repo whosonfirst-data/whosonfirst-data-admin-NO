@@ -1,0 +1,71 @@
+{
+  "id": 1326852611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.07118,61.8801,11.07118,61.8801",
+    "geom:latitude":61.8801,
+    "geom:longitude":11.07118,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"432.0",
+    "gn:asciiname":"Vestaberget",
+    "gn:country_code":"NO",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536341,
+    "gn:latitude":61.8801,
+    "gn:longitude":11.07118,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Vestaberget",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Vestaberget"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297175,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536341
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b5f4d8660ab5789f053df9d3dec3acf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297175,
+            "locality_id":1326852611,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1326852611,
+    "wof:lastmodified":1537675965,
+    "wof:name":"Vestaberget",
+    "wof:parent_id":1159297175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.07118,
+    61.8801,
+    11.07118,
+    61.8801
+],
+  "geometry": {"coordinates":[11.07118,61.8801],"type":"Point"}
+}

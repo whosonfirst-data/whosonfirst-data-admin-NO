@@ -1,0 +1,71 @@
+{
+  "id": 1242840617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.69203,69.72491,19.69203,69.72491",
+    "geom:latitude":69.72491,
+    "geom:longitude":19.69203,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1902.0",
+    "gn:asciiname":"Brattfjell",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537548,
+    "gn:latitude":69.72491,
+    "gn:longitude":19.69203,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Brattfjell",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Brattfjell"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297187,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537548
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2500fa3fff1b7aab78343fbca5d30b8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297187,
+            "locality_id":1242840617,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1242840617,
+    "wof:lastmodified":1537676017,
+    "wof:name":"Brattfjell",
+    "wof:parent_id":1159297187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.69203,
+    69.72491,
+    19.69203,
+    69.72491
+],
+  "geometry": {"coordinates":[19.69203,69.72490999999999],"type":"Point"}
+}

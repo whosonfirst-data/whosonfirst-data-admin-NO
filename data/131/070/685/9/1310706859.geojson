@@ -1,0 +1,72 @@
+{
+  "id": 1310706859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.11648,70.99828,24.11648,70.99828",
+    "geom:latitude":70.99828,
+    "geom:longitude":24.11648,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2018.0",
+    "gn:asciiname":"Gunnarnes",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537636,
+    "gn:latitude":70.99828,
+    "gn:longitude":24.11648,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Gunnarnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Gunnarnes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297565,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537636,
+        "wk:page":"Gunnarnes"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2315beb2e4b97d25b6d85783673e4cba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297565,
+            "locality_id":1310706859,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1310706859,
+    "wof:lastmodified":1537676022,
+    "wof:name":"Gunnarnes",
+    "wof:parent_id":1159297565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.11648,
+    70.99828000000002,
+    24.11648,
+    70.99828000000002
+],
+  "geometry": {"coordinates":[24.11648,70.99828000000002],"type":"Point"}
+}

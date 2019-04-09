@@ -1,0 +1,71 @@
+{
+  "id": 1343342775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.67677,61.16791,8.67677,61.16791",
+    "geom:latitude":61.16791,
+    "geom:longitude":8.67677,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"545.0",
+    "gn:asciiname":"Hensgardane",
+    "gn:country_code":"NO",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535814,
+    "gn:latitude":61.16791,
+    "gn:longitude":8.67677,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Hensgardane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Hensgardane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297415,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535814
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ca6ae305890ee620e4ec328ce40e4a8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297415,
+            "locality_id":1343342775,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1343342775,
+    "wof:lastmodified":1537675942,
+    "wof:name":"Hensgardane",
+    "wof:parent_id":1159297415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.67677,
+    61.16791,
+    8.67677,
+    61.16791
+],
+  "geometry": {"coordinates":[8.67677,61.16791],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259367365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.47612,68.66549,15.47612,68.66549",
+    "geom:latitude":68.66549,
+    "geom:longitude":15.47612,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1870.0",
+    "gn:asciiname":"Kjerringnes",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3150098,
+    "gn:latitude":68.66549,
+    "gn:longitude":15.47612,
+    "gn:modification_date":"2014-05-29",
+    "gn:name":"Kjerringnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Kjerringnes"
+    ],
+    "name:sme_x_preferred":[
+        "Gern\u00e1\u0161\u0161i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297273,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3150098
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"052da3a94d8455c065e502346e38f2f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297273,
+            "locality_id":1259367365,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1259367365,
+    "wof:lastmodified":1537675796,
+    "wof:name":"Kjerringnes",
+    "wof:parent_id":1159297273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.47612,
+    68.66549,
+    15.47612,
+    68.66549
+],
+  "geometry": {"coordinates":[15.47612,68.66549000000001],"type":"Point"}
+}

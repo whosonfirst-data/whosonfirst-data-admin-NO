@@ -1,0 +1,73 @@
+{
+  "id": 1276972205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.05527,61.933,11.05527,61.933",
+    "geom:latitude":61.933,
+    "geom:longitude":11.05527,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"432.0",
+    "gn:asciiname":"Elval",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3158318,
+    "gn:latitude":61.933,
+    "gn:longitude":11.05527,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Elv\u00e5l",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Elvaal",
+        "Elv\u00e5l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297175,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3158318
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"63d48079e0e29c5a291cb181df409f5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297175,
+            "locality_id":1276972205,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1276972205,
+    "wof:lastmodified":1537675852,
+    "wof:name":"Elval",
+    "wof:parent_id":1159297175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.05527,
+    61.933,
+    11.05527,
+    61.933
+],
+  "geometry": {"coordinates":[11.05527,61.933],"type":"Point"}
+}

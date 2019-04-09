@@ -1,0 +1,71 @@
+{
+  "id": 1310585509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.0,66.61667,13.0,66.61667",
+    "geom:latitude":66.61667,
+    "geom:longitude":13.0,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1836.0",
+    "gn:asciiname":"Oya",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3142908,
+    "gn:latitude":66.61667,
+    "gn:longitude":13.0,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u00d8ya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00d6ien",
+        "\u00d8ya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296809,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3142908
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5daa41b528a2af0e8c2785d7f3278e27",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296809,
+            "locality_id":1310585509,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1310585509,
+    "wof:lastmodified":1537675747,
+    "wof:name":"Oya",
+    "wof:parent_id":1159296809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.0,
+    66.61667,
+    13.0,
+    66.61667
+],
+  "geometry": {"coordinates":[13.0,66.61667],"type":"Point"}
+}

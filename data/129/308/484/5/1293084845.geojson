@@ -1,0 +1,74 @@
+{
+  "id": 1293084845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.78333,63.63333,10.78333,63.63333",
+    "geom:latitude":63.63333,
+    "geom:longitude":10.78333,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5036.0",
+    "gn:asciiname":"Fanes",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3157830,
+    "gn:latitude":63.63333,
+    "gn:longitude":10.78333,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"F\u00e5nes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Faaneshavn",
+        "Faanes",
+        "F\u00e5nes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296851,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3157830
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ccc3e1192e3e6fbe214189df2482285c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296851,
+            "locality_id":1293084845,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1293084845,
+    "wof:lastmodified":1537675848,
+    "wof:name":"Fanes",
+    "wof:parent_id":1159296851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.78333,
+    63.63333000000001,
+    10.78333,
+    63.63333000000001
+],
+  "geometry": {"coordinates":[10.78333,63.63333000000001],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209289683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.76064,58.06933,6.76064,58.06933",
+    "geom:latitude":58.06933,
+    "geom:longitude":6.76064,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1003.0",
+    "gn:asciiname":"Hauge ostre",
+    "gn:country_code":"NO",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3153696,
+    "gn:latitude":58.06933,
+    "gn:longitude":6.76064,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Hauge \u00f8stre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3153696
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a96fa964cb10887258cd88e70b0aac11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209289683
+        }
+    ],
+    "wof:id":1209289683,
+    "wof:lastmodified":1536291738,
+    "wof:name":"Hauge ostre",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.76064,
+    58.06933000000001,
+    6.76064,
+    58.06933000000001
+],
+  "geometry": {"coordinates":[6.76064,58.06933000000001],"type":"Point"}
+}

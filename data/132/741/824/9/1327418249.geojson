@@ -1,0 +1,67 @@
+{
+  "id": 1327418249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.19246,67.89867,15.19246,67.89867",
+    "geom:latitude":67.89867,
+    "geom:longitude":15.19246,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1848.0",
+    "gn:asciiname":"Bogen",
+    "gn:country_code":"NO",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3160847,
+    "gn:latitude":67.89867,
+    "gn:longitude":15.19246,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Bogen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297343,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160847,
+        "wk:page":"Bogen%2C_Steigen"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"79e5d3e87a18e0f9cbc988e8edf0f5cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297343,
+            "locality_id":1327418249,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1327418249,
+    "wof:lastmodified":1537570106,
+    "wof:name":"Bogen",
+    "wof:parent_id":1159297343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.19246,
+    67.89867,
+    15.19246,
+    67.89867
+],
+  "geometry": {"coordinates":[15.19246,67.89867],"type":"Point"}
+}

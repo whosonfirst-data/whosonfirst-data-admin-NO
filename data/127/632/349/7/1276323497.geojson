@@ -1,0 +1,71 @@
+{
+  "id": 1276323497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.96667,66.41667,13.96667,66.41667",
+    "geom:latitude":66.41667,
+    "geom:longitude":13.96667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1833.0",
+    "gn:asciiname":"Ramnaa",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3142487,
+    "gn:latitude":66.41667,
+    "gn:longitude":13.96667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ramn\u00e5a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ravnaaen",
+        "Ramn\u00e5a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296963,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3142487
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f4e887a1eb5ab3935adb07b05164d4af",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296963,
+            "locality_id":1276323497,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1276323497,
+    "wof:lastmodified":1537675744,
+    "wof:name":"Ramnaa",
+    "wof:parent_id":1159296963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.96667,
+    66.41667,
+    13.96667,
+    66.41667
+],
+  "geometry": {"coordinates":[13.96667,66.41667],"type":"Point"}
+}

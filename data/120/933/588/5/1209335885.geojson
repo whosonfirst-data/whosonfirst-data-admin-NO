@@ -1,0 +1,62 @@
+{
+  "id": 1209335885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.85972,60.55694,4.85972,60.55694",
+    "geom:latitude":60.55694,
+    "geom:longitude":4.85972,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1259.0",
+    "gn:asciiname":"Rossnes",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3241977,
+    "gn:latitude":60.55694,
+    "gn:longitude":4.85972,
+    "gn:modification_date":"2010-10-15",
+    "gn:name":"Rossnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3241977
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"638b006dbea66dd3a511b8689f01fb5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209335885
+        }
+    ],
+    "wof:id":1209335885,
+    "wof:lastmodified":1536290223,
+    "wof:name":"Rossnes",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.8597199999999985,
+    60.55694,
+    4.8597199999999985,
+    60.55694
+],
+  "geometry": {"coordinates":[4.85972,60.55694],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293479525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.1,68.38333,15.1,68.38333",
+    "geom:latitude":68.38333,
+    "geom:longitude":15.1,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1866.0",
+    "gn:asciiname":"Brubrekka",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3159915,
+    "gn:latitude":68.38333,
+    "gn:longitude":15.1,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Brubrekka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brubbekka",
+        "Brubrekken",
+        "Brubrekka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296743,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3159915
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"577b926603d655927fd52efd676642ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296743,
+            "locality_id":1293479525,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1293479525,
+    "wof:lastmodified":1537675864,
+    "wof:name":"Brubrekka",
+    "wof:parent_id":1159296743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.1,
+    68.38333,
+    15.1,
+    68.38333
+],
+  "geometry": {"coordinates":[15.1,68.38333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276520779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.18333,60.95,5.18333,60.95",
+    "geom:latitude":60.95,
+    "geom:longitude":5.18333,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1411.0",
+    "gn:asciiname":"Norddal",
+    "gn:country_code":"NO",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3144416,
+    "gn:latitude":60.95,
+    "gn:longitude":5.18333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Norddal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297577,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3144416
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"733be7d0fb28c87a34da8c0fcfdbe930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297577,
+            "locality_id":1276520779,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1276520779,
+    "wof:lastmodified":1537023872,
+    "wof:name":"Norddal",
+    "wof:parent_id":1159297577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.18333,
+    60.95,
+    5.18333,
+    60.95
+],
+  "geometry": {"coordinates":[5.18333,60.95],"type":"Point"}
+}

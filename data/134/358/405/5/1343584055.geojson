@@ -1,0 +1,71 @@
+{
+  "id": 1343584055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.69439,69.43872,25.69439,69.43872",
+    "geom:latitude":69.43872,
+    "geom:longitude":25.69439,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2021.0",
+    "gn:asciiname":"Holganjarga",
+    "gn:country_code":"NO",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536371,
+    "gn:latitude":69.43872,
+    "gn:longitude":25.69439,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Holganj\u00e1rga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sme_x_preferred":[
+        "Holganj\u00e1rga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296871,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536371
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5eb56a3ab45ed22199f7dfd1b9cc6d57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296871,
+            "locality_id":1343584055,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1343584055,
+    "wof:lastmodified":1537675966,
+    "wof:name":"Holganjarga",
+    "wof:parent_id":1159296871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.69439,
+    69.43871999999999,
+    25.69439,
+    69.43871999999999
+],
+  "geometry": {"coordinates":[25.69439,69.43871999999999],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1277004899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.60997,70.54114,30.60997,70.54114",
+    "geom:latitude":70.54114,
+    "geom:longitude":30.60997,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2028.0",
+    "gn:asciiname":"Havningberg",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":779673,
+    "gn:latitude":70.54114,
+    "gn:longitude":30.60997,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Havningberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Hamningberg"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043c\u043d\u0438\u043d\u0433\u0431\u0435\u0440\u0433"
+    ],
+    "name:und_x_variant":[
+        "Hamningberg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297303,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":779673,
+        "wk:page":"Hamningberg"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"64f5f28d943e52fca8f1859921bbafb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297303,
+            "locality_id":1277004899,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1277004899,
+    "wof:lastmodified":1537675661,
+    "wof:name":"Havningberg",
+    "wof:parent_id":1159297303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.60997,
+    70.54114,
+    30.60997,
+    70.54114
+],
+  "geometry": {"coordinates":[30.60997,70.54114],"type":"Point"}
+}

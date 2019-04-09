@@ -1,0 +1,113 @@
+{
+  "id": 1126003673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.2343,59.60726,5.2343,59.60726",
+    "geom:latitude":59.60726,
+    "geom:longitude":5.2343,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":733,
+    "gn:population":733,
+    "iso:country":"NO",
+    "lbl:latitude":59.60726,
+    "lbl:longitude":5.2343,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Langev\u00e5g"
+    ],
+    "name:eng_x_preferred":[
+        "Langev\u00e5g"
+    ],
+    "name:fre_x_preferred":[
+        "Langev\u00e5g"
+    ],
+    "name:jav_x_preferred":[
+        "Langev\u00e5g"
+    ],
+    "name:may_x_preferred":[
+        "Langev\u00e5g"
+    ],
+    "name:nno_x_preferred":[
+        "Langev\u00e5g p\u00e5 B\u00f8mlo"
+    ],
+    "name:nob_x_preferred":[
+        "Langev\u00e5g"
+    ],
+    "name:rum_x_preferred":[
+        "Langev\u00e5g"
+    ],
+    "name:spa_x_preferred":[
+        "Langev\u00e5g"
+    ],
+    "name:swe_x_preferred":[
+        "Langev\u00e5g"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3148347,
+    "qs_pg:gn_pop":733,
+    "qs_pg:name":"Langev\u00e5g",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":581112,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296859,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3148347,
+        "qs_pg:id":581112,
+        "wd:id":"Q4585365"
+    },
+    "wof:country":"NO",
+    "wof:created":1497299803,
+    "wof:geomhash":"dd88cd99dba4a488df9ff32a6acf2fa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296859,
+            "locality_id":1126003673,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1126003673,
+    "wof:lastmodified":1534379387,
+    "wof:name":"Langev\u00e5g",
+    "wof:parent_id":1159296859,
+    "wof:placetype":"locality",
+    "wof:population":733,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[
+        1126028815
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.2343,
+    59.60726,
+    5.2343,
+    59.60726
+],
+  "geometry": {"coordinates":[5.2343,59.60726],"type":"Point"}
+}

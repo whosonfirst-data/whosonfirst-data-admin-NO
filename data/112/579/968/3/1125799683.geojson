@@ -1,0 +1,91 @@
+{
+  "id": 1125799683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.11622,61.91609,7.11622,61.91609",
+    "geom:latitude":61.91609,
+    "geom:longitude":7.11622,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":61.91609,
+    "lbl:longitude":7.11622,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Hj\u00e6lle"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3152591,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Hjelle",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Sogn og Fjordane Fylke",
+    "qs_pg:photos":143,
+    "qs_pg:photos_1k":29,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":143,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":181880,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":859806,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Sogn og Fjordane Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296967,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3152591,
+        "gp:id":859806,
+        "qs_pg:id":181880
+    },
+    "wof:country":"NO",
+    "wof:created":1497291209,
+    "wof:geomhash":"a19650666f1cc9de2e7368ac518831e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296967,
+            "locality_id":1125799683,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1125799683,
+    "wof:lastmodified":1529699943,
+    "wof:name":"Hjelle",
+    "wof:parent_id":1159296967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.11622,
+    61.91609,
+    7.11622,
+    61.91609
+],
+  "geometry": {"coordinates":[7.11622,61.91609],"type":"Point"}
+}

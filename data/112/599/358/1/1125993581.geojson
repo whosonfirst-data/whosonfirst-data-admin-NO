@@ -1,0 +1,82 @@
+{
+  "id": 1125993581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.048051,57.982646,7.048051,57.982646",
+    "geom:latitude":57.982646,
+    "geom:longitude":7.048051,
+    "gn:gn_country":"NO",
+    "iso:country":"NO",
+    "lbl:latitude":57.982646,
+    "lbl:longitude":7.048051,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:name":"Nedre V\u00e5ga",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Vest-Agder Fylke",
+    "qs_pg:photos":389,
+    "qs_pg:photos_1k":79,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":389,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":239287,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":22659079,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Vest-Agder Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297315,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22659079,
+        "qs_pg:id":239287
+    },
+    "wof:country":"NO",
+    "wof:created":1497299176,
+    "wof:geomhash":"a7d25a236fffa6e191c948d111f860bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297315,
+            "locality_id":1125993581,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1125993581,
+    "wof:lastmodified":1529700473,
+    "wof:name":"Nedre V\u00e5ga",
+    "wof:parent_id":1159297315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.048051,
+    57.982646,
+    7.048051,
+    57.982646
+],
+  "geometry": {"coordinates":[7.048051,57.982646],"type":"Point"}
+}

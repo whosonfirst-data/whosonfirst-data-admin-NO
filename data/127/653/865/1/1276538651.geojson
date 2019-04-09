@@ -1,0 +1,73 @@
+{
+  "id": 1276538651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.95,65.71667,13.95,65.71667",
+    "geom:latitude":65.71667,
+    "geom:longitude":13.95,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1826.0",
+    "gn:asciiname":"Akervika",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3163476,
+    "gn:latitude":65.71667,
+    "gn:longitude":13.95,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u00c5kervika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aakerviken",
+        "\u00c5kervik",
+        "\u00c5kerviken",
+        "\u00c5kervika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297409,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3163476
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"06b929cc6e3c22f41030a8572ff8ebb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297409,
+            "locality_id":1276538651,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1276538651,
+    "wof:lastmodified":1537675895,
+    "wof:name":"Akervika",
+    "wof:parent_id":1159297409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.95,
+    65.71667,
+    13.95,
+    65.71667
+],
+  "geometry": {"coordinates":[13.95,65.71666999999999],"type":"Point"}
+}

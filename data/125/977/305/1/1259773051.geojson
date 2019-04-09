@@ -1,0 +1,75 @@
+{
+  "id": 1259773051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.36468,68.09246,16.36468,68.09246",
+    "geom:latitude":68.09246,
+    "geom:longitude":16.36468,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1850",
+    "gn:asciiname":"Oaffi",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404326,
+    "gn:latitude":68.09246,
+    "gn:longitude":16.36468,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Oaffi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Kj\u00f8psnes"
+    ],
+    "name:smj_x_preferred":[
+        "Oaffi"
+    ],
+    "name:smj_x_variant":[
+        "Oaffe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297109,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404326
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b149a3a81bfea4512c439316f9729d61",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297109,
+            "locality_id":1259773051,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1259773051,
+    "wof:lastmodified":1537675927,
+    "wof:name":"Oaffi",
+    "wof:parent_id":1159297109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.36468,
+    68.09246,
+    16.36468,
+    68.09246
+],
+  "geometry": {"coordinates":[16.36468,68.09246],"type":"Point"}
+}

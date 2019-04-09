@@ -1,0 +1,71 @@
+{
+  "id": 1243335991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.26667,63.4,10.26667,63.4",
+    "geom:latitude":63.4,
+    "geom:longitude":10.26667,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5001.0",
+    "gn:asciiname":"Hallsetaunet",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3154168,
+    "gn:latitude":63.4,
+    "gn:longitude":10.26667,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Hallsetaunet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Halsetaunet",
+        "Hallsetaunet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297145,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3154168
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"91c1e0858f200a4ca571767fbe78484e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297145,
+            "locality_id":1243335991,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1243335991,
+    "wof:lastmodified":1537675824,
+    "wof:name":"Hallsetaunet",
+    "wof:parent_id":1159297145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.26667,
+    63.4,
+    10.26667,
+    63.4
+],
+  "geometry": {"coordinates":[10.26667,63.4],"type":"Point"}
+}

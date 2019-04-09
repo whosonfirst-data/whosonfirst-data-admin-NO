@@ -1,0 +1,68 @@
+{
+  "id": 1327054069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.43333,60.91667,8.43333,60.91667",
+    "geom:latitude":60.91667,
+    "geom:longitude":8.43333,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"618.0",
+    "gn:asciiname":"Grondalen",
+    "gn:country_code":"NO",
+    "gn:dem":760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3154943,
+    "gn:latitude":60.91667,
+    "gn:longitude":8.43333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Gr\u00f8ndalen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297473,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3154943
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3b22c3e5e8bd73b034f59b75755ad0a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297473,
+            "locality_id":1327054069,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1327054069,
+    "wof:lastmodified":1536729511,
+    "wof:name":"Grondalen",
+    "wof:parent_id":1159297473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.43333,
+    60.91667,
+    8.43333,
+    60.91667
+],
+  "geometry": {"coordinates":[8.43333,60.91667],"type":"Point"}
+}

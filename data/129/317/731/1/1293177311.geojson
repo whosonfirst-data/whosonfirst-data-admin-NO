@@ -1,0 +1,74 @@
+{
+  "id": 1293177311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.13066,59.2606,11.13066,59.2606",
+    "geom:latitude":59.2606,
+    "geom:longitude":11.13066,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"105",
+    "gn:asciiname":"Bede",
+    "gn:country_code":"NO",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404423,
+    "gn:latitude":59.2606,
+    "gn:longitude":11.13066,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Bede",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Bede"
+    ],
+    "name:nor_x_variant":[
+        "Navestad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297543,
+        85633341,
+        85687079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404423
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"08a63bcdeb79d21fe9bab83d879d2fa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297543,
+            "locality_id":1293177311,
+            "region_id":85687079
+        }
+    ],
+    "wof:id":1293177311,
+    "wof:lastmodified":1537675930,
+    "wof:name":"Bede",
+    "wof:parent_id":1159297543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.13066,
+    59.2606,
+    11.13066,
+    59.2606
+],
+  "geometry": {"coordinates":[11.13066,59.2606],"type":"Point"}
+}

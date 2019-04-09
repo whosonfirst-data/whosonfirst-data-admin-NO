@@ -1,0 +1,69 @@
+{
+  "id": 1343334161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.65,63.68333,9.65,63.68333",
+    "geom:latitude":63.68333,
+    "geom:longitude":9.65,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5015.0",
+    "gn:asciiname":"Hovde",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3151687,
+    "gn:latitude":63.68333,
+    "gn:longitude":9.65,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Hovde",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Hovde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296835,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3151687
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a46172cbcf9987743a447fc216f66d8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296835,
+            "locality_id":1343334161,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1343334161,
+    "wof:lastmodified":1537675809,
+    "wof:name":"Hovde",
+    "wof:parent_id":1159296835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.65,
+    63.68333000000001,
+    9.65,
+    63.68333000000001
+],
+  "geometry": {"coordinates":[9.65,63.68333000000001],"type":"Point"}
+}

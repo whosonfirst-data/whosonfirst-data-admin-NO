@@ -1,0 +1,66 @@
+{
+  "id": 1276211037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.38815,68.59978,15.38815,68.59978",
+    "geom:latitude":68.59978,
+    "geom:longitude":15.38815,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1870.0",
+    "gn:asciiname":"Blokken",
+    "gn:country_code":"NO",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3160954,
+    "gn:latitude":68.59978,
+    "gn:longitude":15.38815,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Blokken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297273,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160954
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ce4d20bc4f0472b628a50e4492b6c058",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297273,
+            "locality_id":1276211037,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1276211037,
+    "wof:lastmodified":1536943536,
+    "wof:name":"Blokken",
+    "wof:parent_id":1159297273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.38815,
+    68.59978000000001,
+    15.38815,
+    68.59978000000001
+],
+  "geometry": {"coordinates":[15.38815,68.59978000000001],"type":"Point"}
+}

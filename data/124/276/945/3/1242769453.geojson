@@ -1,0 +1,68 @@
+{
+  "id": 1242769453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.62062,60.25182,6.62062,60.25182",
+    "geom:latitude":60.25182,
+    "geom:longitude":6.62062,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1231.0",
+    "gn:asciiname":"Sekse",
+    "gn:country_code":"NO",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3139959,
+    "gn:latitude":60.25182,
+    "gn:longitude":6.62062,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Sekse",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296999,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3139959
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e75da8c51c7c8920a8d927334ad91341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296999,
+            "locality_id":1242769453,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1242769453,
+    "wof:lastmodified":1536787828,
+    "wof:name":"Sekse",
+    "wof:parent_id":1159296999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.62062,
+    60.25182,
+    6.62062,
+    60.25182
+],
+  "geometry": {"coordinates":[6.62062,60.25182],"type":"Point"}
+}

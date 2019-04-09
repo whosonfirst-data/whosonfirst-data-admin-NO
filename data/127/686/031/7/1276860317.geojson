@@ -1,0 +1,81 @@
+{
+  "id": 1276860317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.34781,64.81021,11.34781,64.81021",
+    "geom:latitude":64.81021,
+    "geom:longitude":11.34781,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5051.0",
+    "gn:asciiname":"Varoya",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3132625,
+    "gn:latitude":64.81021,
+    "gn:longitude":11.34781,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Var\u00f8ya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Var\u00f8ya"
+    ],
+    "name:nor_x_variant":[
+        "Vard\u00f8y"
+    ],
+    "name:und_x_variant":[
+        "Var\u00f8y",
+        "Var\u00f6en",
+        "Var\u00f8ya",
+        "Vard\u00f8y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297169,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3132625
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"45a62ba334b8b70b9d3f81299c01dee1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297169,
+            "locality_id":1276860317,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1276860317,
+    "wof:lastmodified":1537675681,
+    "wof:name":"Varoya",
+    "wof:parent_id":1159297169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.34781,
+    64.81021,
+    11.34781,
+    64.81021
+],
+  "geometry": {"coordinates":[11.34781,64.81021],"type":"Point"}
+}

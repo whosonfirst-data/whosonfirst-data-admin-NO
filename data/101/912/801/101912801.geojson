@@ -1,0 +1,110 @@
+{
+  "id": 101912801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":49846.832986,
+    "geom:bbox":"5.39550430255,59.0580264882,5.39955647044,59.0617554071",
+    "geom:latitude":59.059645,
+    "geom:longitude":5.397185,
+    "iso:country":"NO",
+    "lbl:latitude":59.05951,
+    "lbl:longitude":5.397047,
+    "mps:latitude":59.05951,
+    "mps:longitude":5.397047,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Ydsteb\u00f8havn"
+    ],
+    "name:dut_x_preferred":[
+        "Ystab\u00f8hamn"
+    ],
+    "name:eng_x_preferred":[
+        "Ydsteb\u00f8havn"
+    ],
+    "name:fre_x_preferred":[
+        "Ydsteb\u00f8havn"
+    ],
+    "name:nld_x_preferred":[
+        "Ystab\u00f8hamn"
+    ],
+    "name:nno_x_preferred":[
+        "Ystab\u00f8hamn"
+    ],
+    "name:nob_x_preferred":[
+        "Ydsteb\u00f8havn"
+    ],
+    "name:nor_x_preferred":[
+        "Ydsteb\u00f8havn"
+    ],
+    "name:ron_x_preferred":[
+        "Ydsteb\u00f8havn"
+    ],
+    "name:rum_x_preferred":[
+        "Ydsteb\u00f8havn"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Rogaland",
+    "qs:a1r":"1",
+    "qs:adm0":"Norge",
+    "qs:id":0,
+    "qs:la":"Kvits\u00f8y",
+    "qs:la_lc":"*NO1144",
+    "qs:level":"locality",
+    "qs:loc":"Ystebohamn",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":209,
+    "wof:belongsto":[
+        102191581,
+        1159297635,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626357,
+        "gp:id":865931,
+        "qs:id":19691,
+        "qs_pg:id":19691,
+        "wd:id":"Q1785019",
+        "wk:page":"Ydsteb\u00f8hamn"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"631b35761ab1de11e9051723b757e725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297635,
+            "locality_id":101912801,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":101912801,
+    "wof:lastmodified":1529700283,
+    "wof:name":"Ystebohamn",
+    "wof:parent_id":1159297635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.39550430255161,
+    59.05802648818104,
+    5.39955647043877,
+    59.06175540708523
+],
+  "geometry": {"coordinates":[[[5.39777389589301,59.05809061980995],[5.39585829361368,59.05802648818104],[5.39550430255161,59.06071843708253],[5.39897638674319,59.06083472287827],[5.39885846396373,59.0617320429339],[5.39955647043877,59.06175540708523],[5.39777389589301,59.05809061980995]]],"type":"Polygon"}
+}

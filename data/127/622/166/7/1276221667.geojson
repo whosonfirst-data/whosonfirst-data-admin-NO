@@ -1,0 +1,71 @@
+{
+  "id": 1276221667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.91667,67.23333,14.91667,67.23333",
+    "geom:latitude":67.23333,
+    "geom:longitude":14.91667,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1804.0",
+    "gn:asciiname":"Kvikkstad",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3148800,
+    "gn:latitude":67.23333,
+    "gn:longitude":14.91667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kvikkstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kvigstad",
+        "Kvikkstad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297465,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3148800
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"dee798a0697fb939d6be5dbbf83ac7ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297465,
+            "locality_id":1276221667,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1276221667,
+    "wof:lastmodified":1537675786,
+    "wof:name":"Kvikkstad",
+    "wof:parent_id":1159297465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.91667,
+    67.23333000000001,
+    14.91667,
+    67.23333000000001
+],
+  "geometry": {"coordinates":[14.91667,67.23333000000001],"type":"Point"}
+}

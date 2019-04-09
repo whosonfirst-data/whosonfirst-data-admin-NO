@@ -1,0 +1,73 @@
+{
+  "id": 1259474693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.28056,60.77639,5.28056,60.77639",
+    "geom:latitude":60.77639,
+    "geom:longitude":5.28056,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1266.0",
+    "gn:asciiname":"Kvamme",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3148987,
+    "gn:latitude":60.77639,
+    "gn:longitude":5.28056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kvamme",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kvame",
+        "Kvamme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297135,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3148987
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"317109db62ce64631a55fb7a2f05ec28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297135,
+            "locality_id":1259474693,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1259474693,
+    "wof:lastmodified":1537675787,
+    "wof:name":"Kvamme",
+    "wof:parent_id":1159297135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.28056,
+    60.77639,
+    5.28056,
+    60.77639
+],
+  "geometry": {"coordinates":[5.28056,60.77639],"type":"Point"}
+}

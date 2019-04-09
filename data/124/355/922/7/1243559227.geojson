@@ -1,0 +1,73 @@
+{
+  "id": 1243559227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0582,71.08444,24.0582,71.08444",
+    "geom:latitude":71.08444,
+    "geom:longitude":24.0582,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2018.0",
+    "gn:asciiname":"Ytterenga",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":776814,
+    "gn:latitude":71.08444,
+    "gn:longitude":24.0582,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Ytterenga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yttereng",
+        "Ytterenga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297565,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":776814
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"cce3a383df845d38054b135a0fe99bed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297565,
+            "locality_id":1243559227,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1243559227,
+    "wof:lastmodified":1537675637,
+    "wof:name":"Ytterenga",
+    "wof:parent_id":1159297565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0582,
+    71.08444,
+    24.0582,
+    71.08444
+],
+  "geometry": {"coordinates":[24.0582,71.08444],"type":"Point"}
+}

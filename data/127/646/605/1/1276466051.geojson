@@ -1,0 +1,73 @@
+{
+  "id": 1276466051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.04031,61.53205,11.04031,61.53205",
+    "geom:latitude":61.53205,
+    "geom:longitude":11.04031,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"430.0",
+    "gn:asciiname":"Vestgard",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3132013,
+    "gn:latitude":61.53205,
+    "gn:longitude":11.04031,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Vestgard",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vestgaard",
+        "Vestgard"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297241,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3132013
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9b11f2770e5a00bdb4a59b884941efff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297241,
+            "locality_id":1276466051,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1276466051,
+    "wof:lastmodified":1537675678,
+    "wof:name":"Vestgard",
+    "wof:parent_id":1159297241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.04031,
+    61.53205,
+    11.04031,
+    61.53205
+],
+  "geometry": {"coordinates":[11.04031,61.53205],"type":"Point"}
+}

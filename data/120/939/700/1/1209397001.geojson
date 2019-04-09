@@ -1,0 +1,65 @@
+{
+  "id": 1209397001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.16667,62.96667,10.16667,62.96667",
+    "geom:latitude":62.96667,
+    "geom:longitude":10.16667,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5027.0",
+    "gn:asciiname":"Gjelbakken",
+    "gn:country_code":"NO",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3155767,
+    "gn:latitude":62.96667,
+    "gn:longitude":10.16667,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Gjelbakken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Gjelbakken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3155767
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9a1ab4227b5f21f27e722c597b281146",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209397001
+        }
+    ],
+    "wof:id":1209397001,
+    "wof:lastmodified":1537675834,
+    "wof:name":"Gjelbakken",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.16667,
+    62.96666999999999,
+    10.16667,
+    62.96666999999999
+],
+  "geometry": {"coordinates":[10.16667,62.96666999999999],"type":"Point"}
+}

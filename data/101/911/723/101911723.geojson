@@ -1,0 +1,75 @@
+{
+  "id": 101911723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000048,
+    "geom:bbox":"10.6825008067,59.8053939987,10.6949964702,59.8117097968",
+    "geom:latitude":59.808668,
+    "geom:longitude":10.68871,
+    "iso:country":"NO",
+    "lbl:latitude":59.809263,
+    "lbl:longitude":10.688591,
+    "mps:latitude":59.809263,
+    "mps:longitude":10.688591,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Norge",
+    "qs:a1":"*Akershus",
+    "qs:a1r":"7",
+    "qs:adm0":"Norge",
+    "qs:id":0,
+    "qs:la":"Nesodden",
+    "qs:la_lc":"*NO0216",
+    "qs:level":"locality",
+    "qs:loc":"Torvet",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet near local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297221,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":865077,
+        "qs:id":210555,
+        "qs_pg:id":210555
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e194f077b13326f02ac0d24dbe87f74e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297221,
+            "locality_id":101911723,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":101911723,
+    "wof:lastmodified":1529699767,
+    "wof:name":"Torvet",
+    "wof:parent_id":1159297221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.68250080674983,
+    59.8053939986994,
+    10.69499647015033,
+    59.81170979677842
+],
+  "geometry": {"coordinates":[[[10.6932556933304,59.81077506172335],[10.69321909800988,59.80897553060902],[10.69499647015033,59.80896673283797],[10.69495978552487,59.80716720373181],[10.68962794791969,59.80719352789316],[10.68959154917201,59.8053939986994],[10.68781436203943,59.80540272784731],[10.68783251396064,59.80630249251931],[10.68250080674983,59.80632854559258],[10.68253683254727,59.80812807760276],[10.68431416293413,59.80811941525354],[10.68435028696678,59.80991894823018],[10.68612771030951,59.80991026283613],[10.68616393260083,59.81170979677842],[10.69149647894841,59.81168360386602],[10.69147822651257,59.81078383749087],[10.6932556933304,59.81077506172335]]],"type":"Polygon"}
+}

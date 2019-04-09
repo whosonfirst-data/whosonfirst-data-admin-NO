@@ -1,0 +1,68 @@
+{
+  "id": 1293552993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.04019,59.14361,8.04019,59.14361",
+    "geom:latitude":59.14361,
+    "geom:longitude":8.04019,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"831.0",
+    "gn:asciiname":"Fardal",
+    "gn:country_code":"NO",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3157814,
+    "gn:latitude":59.14361,
+    "gn:longitude":8.04019,
+    "gn:modification_date":"2013-07-13",
+    "gn:name":"Fardal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297079,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3157814
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"76c836369418086c68b2a8bba3a98fea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297079,
+            "locality_id":1293552993,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1293552993,
+    "wof:lastmodified":1536693034,
+    "wof:name":"Fardal",
+    "wof:parent_id":1159297079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.04019,
+    59.14361,
+    8.04019,
+    59.14361
+],
+  "geometry": {"coordinates":[8.04019,59.14361],"type":"Point"}
+}

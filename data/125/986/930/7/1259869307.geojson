@@ -1,0 +1,71 @@
+{
+  "id": 1259869307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.59896,68.74404,15.59896,68.74404",
+    "geom:latitude":68.74404,
+    "geom:longitude":15.59896,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1870.0",
+    "gn:asciiname":"Hognfjord",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3152385,
+    "gn:latitude":68.74404,
+    "gn:longitude":15.59896,
+    "gn:modification_date":"2013-03-17",
+    "gn:name":"Hognfjord",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hongfjord",
+        "Hognfjord"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297273,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3152385
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"29dfaa7f7c2b86b21cd15fa0e11f807f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297273,
+            "locality_id":1259869307,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1259869307,
+    "wof:lastmodified":1537675812,
+    "wof:name":"Hognfjord",
+    "wof:parent_id":1159297273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.59896,
+    68.74404,
+    15.59896,
+    68.74404
+],
+  "geometry": {"coordinates":[15.59896,68.74404],"type":"Point"}
+}

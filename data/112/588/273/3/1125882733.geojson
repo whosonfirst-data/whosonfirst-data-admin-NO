@@ -1,0 +1,106 @@
+{
+  "id": 1125882733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.15,61.2,10.15,61.2",
+    "geom:latitude":61.2,
+    "geom:longitude":10.15,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":637,
+    "gn:population":637,
+    "iso:country":"NO",
+    "lbl:latitude":61.2,
+    "lbl:longitude":10.15,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Forset"
+    ],
+    "name:eng_x_preferred":[
+        "Forset"
+    ],
+    "name:fre_x_preferred":[
+        "Forset"
+    ],
+    "name:jav_x_preferred":[
+        "Forset"
+    ],
+    "name:may_x_preferred":[
+        "Forset"
+    ],
+    "name:nno_x_preferred":[
+        "Forset"
+    ],
+    "name:nob_x_preferred":[
+        "Forset"
+    ],
+    "name:rum_x_preferred":[
+        "Forset"
+    ],
+    "name:unk_x_variant":[
+        "Forset"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3156606,
+    "qs_pg:gn_pop":637,
+    "qs_pg:name":"Fosset",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":581138,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297375,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3156606,
+        "qs_pg:id":581138,
+        "wd:id":"Q1776845"
+    },
+    "wof:country":"NO",
+    "wof:created":1497294898,
+    "wof:geomhash":"763badf1bfb4fce98c73f4aceda3b262",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297375,
+            "locality_id":1125882733,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1125882733,
+    "wof:lastmodified":1529700239,
+    "wof:name":"Fosset",
+    "wof:parent_id":1159297375,
+    "wof:placetype":"locality",
+    "wof:population":637,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.15,
+    61.2,
+    10.15,
+    61.2
+],
+  "geometry": {"coordinates":[10.15,61.2],"type":"Point"}
+}

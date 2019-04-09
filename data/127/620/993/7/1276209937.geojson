@@ -1,0 +1,68 @@
+{
+  "id": 1276209937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.43333,59.33333,6.43333,59.33333",
+    "geom:latitude":59.33333,
+    "geom:longitude":6.43333,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1133.0",
+    "gn:asciiname":"Vadla",
+    "gn:country_code":"NO",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3133102,
+    "gn:latitude":59.33333,
+    "gn:longitude":6.43333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Vadla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296961,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3133102
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f94c6829a38c50228a35f49228e12a83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296961,
+            "locality_id":1276209937,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1276209937,
+    "wof:lastmodified":1536944913,
+    "wof:name":"Vadla",
+    "wof:parent_id":1159296961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.43333,
+    59.33333,
+    6.43333,
+    59.33333
+],
+  "geometry": {"coordinates":[6.43333,59.33333],"type":"Point"}
+}

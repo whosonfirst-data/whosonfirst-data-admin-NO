@@ -1,0 +1,68 @@
+{
+  "id": 1209806183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.93109,62.16958,5.93109,62.16958",
+    "geom:latitude":62.16958,
+    "geom:longitude":5.93109,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1519.0",
+    "gn:asciiname":"Ulvestad",
+    "gn:country_code":"NO",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3133321,
+    "gn:latitude":62.16958,
+    "gn:longitude":5.93109,
+    "gn:modification_date":"2014-05-29",
+    "gn:name":"Ulvestad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297487,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3133321
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"72ee84e756f7f6876c0f212e31943784",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297487,
+            "locality_id":1209806183,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1209806183,
+    "wof:lastmodified":1536388502,
+    "wof:name":"Ulvestad",
+    "wof:parent_id":1159297487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.93109,
+    62.16958,
+    5.93109,
+    62.16958
+],
+  "geometry": {"coordinates":[5.93109,62.16958],"type":"Point"}
+}

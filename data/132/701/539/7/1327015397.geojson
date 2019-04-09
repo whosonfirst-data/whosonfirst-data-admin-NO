@@ -1,0 +1,71 @@
+{
+  "id": 1327015397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.44386,62.93307,7.44386,62.93307",
+    "geom:latitude":62.93307,
+    "geom:longitude":7.44386,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1551.0",
+    "gn:asciiname":"Silset",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536112,
+    "gn:latitude":62.93307,
+    "gn:longitude":7.44386,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Silset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Silset"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297085,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536112
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d0021444d1ab5ecc00f30ff529c630e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297085,
+            "locality_id":1327015397,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1327015397,
+    "wof:lastmodified":1537675955,
+    "wof:name":"Silset",
+    "wof:parent_id":1159297085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.44386,
+    62.93307,
+    7.44386,
+    62.93307
+],
+  "geometry": {"coordinates":[7.44386,62.93307],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276735765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.82233,61.18541,6.82233,61.18541",
+    "geom:latitude":61.18541,
+    "geom:longitude":6.82233,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1419",
+    "gn:asciiname":"Systrond",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404054,
+    "gn:latitude":61.18541,
+    "gn:longitude":6.82233,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Systrond",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Systrond"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296861,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404054
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"fd66bb3b488671b9a9145e87d9757fd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296861,
+            "locality_id":1276735765,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1276735765,
+    "wof:lastmodified":1537675915,
+    "wof:name":"Systrond",
+    "wof:parent_id":1159296861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.82233,
+    61.18541,
+    6.82233,
+    61.18541
+],
+  "geometry": {"coordinates":[6.82233,61.18541],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343550821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.66667,65.38333,12.66667,65.38333",
+    "geom:latitude":65.38333,
+    "geom:longitude":12.66667,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1813.0",
+    "gn:asciiname":"Hakaunet",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3154264,
+    "gn:latitude":65.38333,
+    "gn:longitude":12.66667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"H\u00e5kaunet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Meby",
+        "Haakaunet",
+        "H\u00e5kaunet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297445,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3154264
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f6a352b83559a9e6b71cbfb52e4377eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297445,
+            "locality_id":1343550821,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1343550821,
+    "wof:lastmodified":1537675825,
+    "wof:name":"Hakaunet",
+    "wof:parent_id":1159297445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.66667,
+    65.38333,
+    12.66667,
+    65.38333
+],
+  "geometry": {"coordinates":[12.66667,65.38333],"type":"Point"}
+}

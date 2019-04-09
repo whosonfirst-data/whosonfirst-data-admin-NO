@@ -1,0 +1,79 @@
+{
+  "id": 1226306189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.26409,69.67912,20.26409,69.67912",
+    "geom:latitude":69.67912,
+    "geom:longitude":20.26409,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1938.0",
+    "gn:asciiname":"Gohppi",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":779199,
+    "gn:latitude":69.67912,
+    "gn:longitude":20.26409,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Gohppi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Koppangen"
+    ],
+    "name:sme_x_preferred":[
+        "Gohppi"
+    ],
+    "name:und_x_variant":[
+        "Kopang",
+        "Koppangen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297359,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":779199
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"15c7ece258e6ef85d71c3bdeb9b9e695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297359,
+            "locality_id":1226306189,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1226306189,
+    "wof:lastmodified":1537675656,
+    "wof:name":"Gohppi",
+    "wof:parent_id":1159297359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.26409,
+    69.67912,
+    20.26409,
+    69.67912
+],
+  "geometry": {"coordinates":[20.26409,69.67912],"type":"Point"}
+}

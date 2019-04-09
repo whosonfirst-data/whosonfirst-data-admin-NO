@@ -1,0 +1,66 @@
+{
+  "id": 1226526745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.53333,65.8,12.53333,65.8",
+    "geom:latitude":65.8,
+    "geom:longitude":12.53333,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1820.0",
+    "gn:asciiname":"Halsen",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3154138,
+    "gn:latitude":65.8,
+    "gn:longitude":12.53333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Halsen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297007,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3154138
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c32a51d6ff72525b155339cbcfedc01c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297007,
+            "locality_id":1226526745,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1226526745,
+    "wof:lastmodified":1537024378,
+    "wof:name":"Halsen",
+    "wof:parent_id":1159297007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.53333,
+    65.8,
+    12.53333,
+    65.8
+],
+  "geometry": {"coordinates":[12.53333,65.8],"type":"Point"}
+}

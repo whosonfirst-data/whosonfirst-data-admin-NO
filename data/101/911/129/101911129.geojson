@@ -1,0 +1,95 @@
+{
+  "id": 101911129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000077,
+    "geom:area_square_m":427355.241955,
+    "geom:bbox":"10.0595615386,63.3215798364,10.0794202116,63.3287944504",
+    "geom:latitude":63.325364,
+    "geom:longitude":10.068039,
+    "gn:population":4608,
+    "iso:country":"NO",
+    "lbl:latitude":63.325637,
+    "lbl:longitude":10.067212,
+    "mps:latitude":63.325637,
+    "mps:longitude":10.067212,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:spa_x_preferred":[
+        "San Juan la Laguna"
+    ],
+    "name:spa_x_variant":[
+        "S Juan",
+        "S Juan la Laguna",
+        "S. Juan",
+        "S. Juan la Laguna",
+        "San Juan"
+    ],
+    "name:unk_x_variant":[
+        "San Juan"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*S\u00f8r-Tr\u00f8ndelag",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"Skaun",
+    "qs:la_lc":"*NO1657",
+    "qs:level":"locality",
+    "qs:loc":"Borsora",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        1159297253,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589896,
+        "gp:id":857420,
+        "qs:id":489169,
+        "qs_pg:id":34770,
+        "wk:page":"San Juan La Laguna"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ac0bc7e12f43f9d1d20ab0151701ff12",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297253,
+            "locality_id":101911129,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":101911129,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1529700329,
+    "wof:name":"Borsora",
+    "wof:parent_id":1159297253,
+    "wof:placetype":"locality",
+    "wof:population":4608,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.05956153863383,
+    63.32157983642907,
+    10.07942021163069,
+    63.32879445040373
+],
+  "geometry": {"coordinates":[[[10.07545380478859,63.32698564136217],[10.07544920426704,63.32518219433439],[10.07942021163069,63.32518020390006],[10.07941779055596,63.32427848136098],[10.0714760174402,63.32428236002386],[10.0714738386236,63.32338063795686],[10.06948845556605,63.32338154379795],[10.06948633741911,63.32247982230439],[10.06551569200224,63.3224815573775],[10.06551369503075,63.32157983642907],[10.06154317021196,63.32158146938332],[10.06154692222862,63.32338491199596],[10.05956153863383,63.32338569025376],[10.05956335431461,63.32428741249339],[10.06154879843234,63.32428663420893],[10.06155255123059,63.32609008044858],[10.0635381163047,63.32608927659169],[10.06354392809806,63.32879445040373],[10.07148691379302,63.32879097942788],[10.0714847342195,63.32788925433772],[10.07347041981484,63.32788832282085],[10.07346817985336,63.32698659836734],[10.07545380478859,63.32698564136217]]],"type":"Polygon"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1276969013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.11667,65.23333,12.11667,65.23333",
+    "geom:latitude":65.23333,
+    "geom:longitude":12.11667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1812.0",
+    "gn:asciiname":"Sund",
+    "gn:country_code":"NO",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3135479,
+    "gn:latitude":65.23333,
+    "gn:longitude":12.11667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Sund",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297181,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3135479
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"29c69a85f7aefce8a0dd08a5cd272679",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297181,
+            "locality_id":1276969013,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1276969013,
+    "wof:lastmodified":1536922508,
+    "wof:name":"Sund",
+    "wof:parent_id":1159297181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.11667,
+    65.23333000000001,
+    12.11667,
+    65.23333000000001
+],
+  "geometry": {"coordinates":[12.11667,65.23333000000001],"type":"Point"}
+}

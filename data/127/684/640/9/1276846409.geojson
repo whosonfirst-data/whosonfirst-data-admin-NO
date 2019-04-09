@@ -1,0 +1,68 @@
+{
+  "id": 1276846409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.01667,69.65,19.01667,69.65",
+    "geom:latitude":69.65,
+    "geom:longitude":19.01667,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1902.0",
+    "gn:asciiname":"Elvemo",
+    "gn:country_code":"NO",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3158309,
+    "gn:latitude":69.65,
+    "gn:longitude":19.01667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Elvemo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297187,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3158309
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9e2e77147ab71597e3449e93820be11f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297187,
+            "locality_id":1276846409,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1276846409,
+    "wof:lastmodified":1537082815,
+    "wof:name":"Elvemo",
+    "wof:parent_id":1159297187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.01667,
+    69.65,
+    19.01667,
+    69.65
+],
+  "geometry": {"coordinates":[19.01667,69.65000000000001],"type":"Point"}
+}

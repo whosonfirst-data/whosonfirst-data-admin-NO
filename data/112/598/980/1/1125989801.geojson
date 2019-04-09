@@ -1,0 +1,82 @@
+{
+  "id": 1125989801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.40111,61.574667,5.40111,61.574667",
+    "geom:latitude":61.574667,
+    "geom:longitude":5.40111,
+    "gn:gn_country":null,
+    "iso:country":"NO",
+    "lbl:latitude":61.574667,
+    "lbl:longitude":5.40111,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Eikefjord",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Sogn og Fjordane Fylke",
+    "qs_pg:photos":47,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":47,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1157686,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":858033,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Sogn og Fjordane Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297017,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":858033,
+        "qs_pg:id":1157686
+    },
+    "wof:country":"NO",
+    "wof:created":1497299004,
+    "wof:geomhash":"ef8ad8c195f95aa6d0d4f6f87898581a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297017,
+            "locality_id":1125989801,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1125989801,
+    "wof:lastmodified":1529699943,
+    "wof:name":"Eikefjord",
+    "wof:parent_id":1159297017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.40111,
+    61.574667,
+    5.40111,
+    61.574667
+],
+  "geometry": {"coordinates":[5.40111,61.574667],"type":"Point"}
+}

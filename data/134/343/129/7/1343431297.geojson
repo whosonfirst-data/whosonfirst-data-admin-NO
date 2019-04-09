@@ -1,0 +1,68 @@
+{
+  "id": 1343431297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.45213,61.94209,5.45213,61.94209",
+    "geom:latitude":61.94209,
+    "geom:longitude":5.45213,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1439.0",
+    "gn:asciiname":"Indre Nore",
+    "gn:country_code":"NO",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3144122,
+    "gn:latitude":61.94209,
+    "gn:longitude":5.45213,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Indre Nore",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297459,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3144122
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"36bceb6b6986de451be485ae2979c7c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297459,
+            "locality_id":1343431297,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1343431297,
+    "wof:lastmodified":1536788902,
+    "wof:name":"Indre Nore",
+    "wof:parent_id":1159297459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.45213,
+    61.94209,
+    5.45213,
+    61.94209
+],
+  "geometry": {"coordinates":[5.45213,61.94209],"type":"Point"}
+}

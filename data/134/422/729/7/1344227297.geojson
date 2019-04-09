@@ -1,0 +1,72 @@
+{
+  "id": 1344227297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.80284,61.30886,7.80284,61.30886",
+    "geom:latitude":61.30886,
+    "geom:longitude":7.80284,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1424",
+    "gn:asciiname":"Ovre Ardal",
+    "gn:country_code":"NO",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9403879,
+    "gn:latitude":61.30886,
+    "gn:longitude":7.80284,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"\u00d8vre \u00c5rdal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00d8vre \u00c5rdal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296749,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9403879,
+        "wk:page":"%C3%98vre_%C3%85rdal"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0e062e29a14143b6d0b97a257fa657af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296749,
+            "locality_id":1344227297,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1344227297,
+    "wof:lastmodified":1537675908,
+    "wof:name":"Ovre Ardal",
+    "wof:parent_id":1159296749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.80284,
+    61.30886,
+    7.80284,
+    61.30886
+],
+  "geometry": {"coordinates":[7.80284,61.30886],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1193159033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.66469,60.42734,11.66469,60.42734",
+    "geom:latitude":60.42734,
+    "geom:longitude":11.66469,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"418.0",
+    "gn:asciiname":"Bekkegrenda",
+    "gn:country_code":"NO",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535651,
+    "gn:latitude":60.42734,
+    "gn:longitude":11.66469,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Bekkegrenda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Bekkegrenda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297485,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535651
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"588d19fd4b3d1d9195ae92c6353b4f97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297485,
+            "locality_id":1193159033,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1193159033,
+    "wof:lastmodified":1537675935,
+    "wof:name":"Bekkegrenda",
+    "wof:parent_id":1159297485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.66469,
+    60.42734,
+    11.66469,
+    60.42734
+],
+  "geometry": {"coordinates":[11.66469,60.42734],"type":"Point"}
+}

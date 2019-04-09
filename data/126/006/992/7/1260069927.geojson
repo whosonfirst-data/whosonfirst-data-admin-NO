@@ -1,0 +1,66 @@
+{
+  "id": 1260069927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.01667,67.11667,16.01667,67.11667",
+    "geom:latitude":67.11667,
+    "geom:longitude":16.01667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1841.0",
+    "gn:asciiname":"Sagmoen",
+    "gn:country_code":"NO",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3140579,
+    "gn:latitude":67.11667,
+    "gn:longitude":16.01667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Sagmoen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296833,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3140579
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"fe7828ab80b6d4dd19f322413312c14b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296833,
+            "locality_id":1260069927,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1260069927,
+    "wof:lastmodified":1537006848,
+    "wof:name":"Sagmoen",
+    "wof:parent_id":1159296833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.01667,
+    67.11667,
+    16.01667,
+    67.11667
+],
+  "geometry": {"coordinates":[16.01667,67.11667],"type":"Point"}
+}

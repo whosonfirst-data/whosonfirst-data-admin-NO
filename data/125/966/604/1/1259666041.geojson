@@ -1,0 +1,69 @@
+{
+  "id": 1259666041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.4,62.8,11.4,62.8",
+    "geom:latitude":62.8,
+    "geom:longitude":11.4,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5026.0",
+    "gn:asciiname":"Reitan",
+    "gn:country_code":"NO",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3142033,
+    "gn:latitude":62.8,
+    "gn:longitude":11.4,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Reitan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Reitan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296983,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3142033
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"bd51648a222603f46c231b275421de8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296983,
+            "locality_id":1259666041,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1259666041,
+    "wof:lastmodified":1537675741,
+    "wof:name":"Reitan",
+    "wof:parent_id":1159296983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.4,
+    62.8,
+    11.4,
+    62.8
+],
+  "geometry": {"coordinates":[11.4,62.8],"type":"Point"}
+}

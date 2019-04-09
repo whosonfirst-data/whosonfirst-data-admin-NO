@@ -1,0 +1,73 @@
+{
+  "id": 1243463073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.91667,58.65,8.91667,58.65",
+    "geom:latitude":58.65,
+    "geom:longitude":8.91667,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"914.0",
+    "gn:asciiname":"Fosstveit",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3156571,
+    "gn:latitude":58.65,
+    "gn:longitude":8.91667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Fosstveit",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fostveit",
+        "Fosstveit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297531,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3156571
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3dd57359a7ea3f6c05ce521ed2a8de64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297531,
+            "locality_id":1243463073,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1243463073,
+    "wof:lastmodified":1537675838,
+    "wof:name":"Fosstveit",
+    "wof:parent_id":1159297531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.91667,
+    58.65,
+    8.91667,
+    58.65
+],
+  "geometry": {"coordinates":[8.91667,58.65],"type":"Point"}
+}

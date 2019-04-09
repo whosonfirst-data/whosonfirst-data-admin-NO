@@ -1,0 +1,68 @@
+{
+  "id": 1226720913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.18333,58.95,6.18333,58.95",
+    "geom:latitude":58.95,
+    "geom:longitude":6.18333,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1129.0",
+    "gn:asciiname":"Eiane",
+    "gn:country_code":"NO",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3158751,
+    "gn:latitude":58.95,
+    "gn:longitude":6.18333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Eiane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296945,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3158751
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ea596f71ff27b7a3b8a92f42e2e0aa20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296945,
+            "locality_id":1226720913,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1226720913,
+    "wof:lastmodified":1536751317,
+    "wof:name":"Eiane",
+    "wof:parent_id":1159296945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.18333,
+    58.95,
+    6.18333,
+    58.95
+],
+  "geometry": {"coordinates":[6.18333,58.95],"type":"Point"}
+}

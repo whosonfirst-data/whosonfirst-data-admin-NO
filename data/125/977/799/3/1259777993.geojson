@@ -1,0 +1,72 @@
+{
+  "id": 1259777993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.83333,65.68333,11.83333,65.68333",
+    "geom:latitude":65.68333,
+    "geom:longitude":11.83333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1815.0",
+    "gn:asciiname":"Sundsvoll",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3135398,
+    "gn:latitude":65.68333,
+    "gn:longitude":11.83333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sundsvoll",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sundsvoll i Helgeland",
+        "Sundsvold",
+        "Sundsvoll"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296781,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3135398
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a6075196b8166bf28f3938a5a1274edb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296781,
+            "locality_id":1259777993,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1259777993,
+    "wof:lastmodified":1537675698,
+    "wof:name":"Sundsvoll",
+    "wof:parent_id":1159296781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.83333,
+    65.68333,
+    11.83333,
+    65.68333
+],
+  "geometry": {"coordinates":[11.83333,65.68333],"type":"Point"}
+}

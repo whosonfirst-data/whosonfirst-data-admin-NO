@@ -1,0 +1,121 @@
+{
+  "id": 101803953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000101,
+    "geom:area_square_m":616542.706067,
+    "geom:bbox":"6.71613811623,60.3671496737,6.73661745868,60.378752793",
+    "geom:latitude":60.373102,
+    "geom:longitude":6.727228,
+    "gn:population":459,
+    "iso:country":"NO",
+    "lbl:latitude":60.373339,
+    "lbl:longitude":6.728081,
+    "mps:latitude":60.373339,
+    "mps:longitude":6.728081,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Kinsarvik"
+    ],
+    "name:fra_x_preferred":[
+        "Kinsarvik"
+    ],
+    "name:jav_x_preferred":[
+        "Kinsarvik"
+    ],
+    "name:msa_x_preferred":[
+        "Kinsarvik"
+    ],
+    "name:nld_x_preferred":[
+        "Kinsarvik"
+    ],
+    "name:nno_x_preferred":[
+        "Kinsarvik"
+    ],
+    "name:nor_x_preferred":[
+        "Kinsarvik"
+    ],
+    "name:nor_x_variant":[
+        "Kinsarviks"
+    ],
+    "name:ron_x_preferred":[
+        "Kinsarvik"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043d\u0441\u0430\u0440\u0432\u0438\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Kinsarvik"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Hordaland",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"Ullensvang",
+    "qs:la_lc":"*NO1231",
+    "qs:level":"locality",
+    "qs:loc":"Kinsarvik",
+    "qs:loc_alt":"Kinsarvik",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1184,
+    "wof:belongsto":[
+        102191581,
+        1159296999,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01fb3706-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6639661,
+        "gp:id":860517,
+        "qs:id":1083378,
+        "qs_pg:id":1083378,
+        "wd:id":"Q1779150",
+        "wk:page":"Kinsarvik"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a219b7e59491efeacc3edbf28b0e4782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296999,
+            "locality_id":101803953,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":101803953,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1529700047,
+    "wof:name":"Kinsarvik",
+    "wof:parent_id":1159296999,
+    "wof:placetype":"locality",
+    "wof:population":459,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.71613811623382,
+    60.36714967373297,
+    6.73661745867952,
+    60.37875279300937
+],
+  "geometry": {"coordinates":[[[6.72842511865645,60.37875279300937],[6.7286899242165,60.37605598791475],[6.73049571340152,60.37609751902488],[6.73084851606615,60.37250177860267],[6.73445971883581,60.37258476198639],[6.73463589295807,60.37078688876488],[6.73644140363518,60.37082834357034],[6.73661745867952,60.36903046918587],[6.73481204505595,60.36898901690262],[6.73498817513303,60.36719114639931],[6.73318286278612,60.36714967373297],[6.73309475198107,60.36804860755313],[6.72767869482169,60.36792404833454],[6.72759043294587,60.36882297870505],[6.72578504052592,60.36878141188981],[6.72525506220745,60.37417499365432],[6.71983803690375,60.37405013298178],[6.71992652604138,60.37315120563784],[6.71631529419324,60.37306785317509],[6.71613811623382,60.3748657031299],[6.71794382710391,60.37490739335271],[6.71785527835834,60.37580632010764],[6.71966104203113,60.37584798868767],[6.71948402502494,60.3776458457516],[6.72490163286977,60.37777072162248],[6.72481326172328,60.37866965446409],[6.72842511865645,60.37875279300937]]],"type":"Polygon"}
+}

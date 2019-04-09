@@ -1,0 +1,115 @@
+{
+  "id": 1126017961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.05,59.63333,11.05,59.63333",
+    "geom:latitude":59.63333,
+    "geom:longitude":11.05,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1133,
+    "gn:population":1133,
+    "iso:country":"NO",
+    "lbl:latitude":59.63333,
+    "lbl:longitude":11.05,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Knapstad"
+    ],
+    "name:eng_x_preferred":[
+        "Knapstad"
+    ],
+    "name:fre_x_preferred":[
+        "Knapstad"
+    ],
+    "name:jav_x_preferred":[
+        "Knapstad"
+    ],
+    "name:may_x_preferred":[
+        "Knapstad"
+    ],
+    "name:nno_x_preferred":[
+        "Knapstad"
+    ],
+    "name:nob_x_preferred":[
+        "Knapstad"
+    ],
+    "name:unk_x_variant":[
+        "Knappstad"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3149726,
+    "qs_pg:gn_pop":1133,
+    "qs_pg:name":"Knapstad",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"\u00d8stfold Fylke",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":940888,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":860698,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"\u00d8stfold Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296863,
+        85633341,
+        85687079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3149726,
+        "gp:id":860698,
+        "qs_pg:id":940888,
+        "wd:id":"Q1778557"
+    },
+    "wof:country":"NO",
+    "wof:created":1497300664,
+    "wof:geomhash":"b6b2084ff3c7e9c9460043669fc69a1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296863,
+            "locality_id":1126017961,
+            "region_id":85687079
+        }
+    ],
+    "wof:id":1126017961,
+    "wof:lastmodified":1529700550,
+    "wof:name":"Knapstad",
+    "wof:parent_id":1159296863,
+    "wof:placetype":"locality",
+    "wof:population":1133,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.05,
+    59.63333,
+    11.05,
+    59.63333
+],
+  "geometry": {"coordinates":[11.05,59.63333],"type":"Point"}
+}

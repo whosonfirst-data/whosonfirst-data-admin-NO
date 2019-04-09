@@ -1,0 +1,74 @@
+{
+  "id": 1242761473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.43462,64.88166,12.43462,64.88166",
+    "geom:latitude":64.88166,
+    "geom:longitude":12.43462,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5046.0",
+    "gn:asciiname":"Kongsmoen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3149544,
+    "gn:latitude":64.88166,
+    "gn:longitude":12.43462,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Kongsmoen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kongsmo",
+        "Kongsmoen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297183,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3149544,
+        "wk:page":"Kongsmoen"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a9d54fee9954b49959f19585c6fc22ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297183,
+            "locality_id":1242761473,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1242761473,
+    "wof:lastmodified":1537675791,
+    "wof:name":"Kongsmoen",
+    "wof:parent_id":1159297183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.43462,
+    64.88166,
+    12.43462,
+    64.88166
+],
+  "geometry": {"coordinates":[12.43462,64.88166],"type":"Point"}
+}

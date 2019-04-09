@@ -1,0 +1,71 @@
+{
+  "id": 1259395565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.41205,58.26978,8.41205,58.26978",
+    "geom:latitude":58.26978,
+    "geom:longitude":8.41205,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"926",
+    "gn:asciiname":"Heldal",
+    "gn:country_code":"NO",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9404020,
+    "gn:latitude":58.26978,
+    "gn:longitude":8.41205,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Heldal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Heldal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297591,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404020
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"76c8825dd120166b2e09a863408679a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297591,
+            "locality_id":1259395565,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1259395565,
+    "wof:lastmodified":1537675914,
+    "wof:name":"Heldal",
+    "wof:parent_id":1159297591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.41205,
+    58.26978,
+    8.41205,
+    58.26978
+],
+  "geometry": {"coordinates":[8.41205,58.26978],"type":"Point"}
+}

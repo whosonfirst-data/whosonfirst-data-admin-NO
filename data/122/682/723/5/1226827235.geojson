@@ -1,0 +1,72 @@
+{
+  "id": 1226827235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.68751,61.81023,9.68751,61.81023",
+    "geom:latitude":61.81023,
+    "geom:longitude":9.68751,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"517.0",
+    "gn:asciiname":"Mysusaeter",
+    "gn:country_code":"NO",
+    "gn:dem":940,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3145090,
+    "gn:latitude":61.81023,
+    "gn:longitude":9.68751,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Mysus\u00e6ter",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mysuseter",
+        "Mysus\u00e6ter"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297291,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3145090
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"962ee7851a695ece6a2544f78704d8e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297291,
+            "locality_id":1226827235,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1226827235,
+    "wof:lastmodified":1537675761,
+    "wof:name":"Mysusaeter",
+    "wof:parent_id":1159297291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.68751,
+    61.81023,
+    9.68751,
+    61.81023
+],
+  "geometry": {"coordinates":[9.68751,61.81023],"type":"Point"}
+}

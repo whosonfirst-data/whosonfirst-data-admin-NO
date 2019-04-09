@@ -1,0 +1,71 @@
+{
+  "id": 1226221159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.31538,59.28184,5.31538,59.28184",
+    "geom:latitude":59.28184,
+    "geom:longitude":5.31538,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1149",
+    "gn:asciiname":"Kalvatraed",
+    "gn:country_code":"NO",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404164,
+    "gn:latitude":59.28184,
+    "gn:longitude":5.31538,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Kalvatr\u00e6d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Kalvatr\u00e6d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297005,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404164
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9737345444bbaa8704967249b3b48385",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297005,
+            "locality_id":1226221159,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1226221159,
+    "wof:lastmodified":1537675920,
+    "wof:name":"Kalvatraed",
+    "wof:parent_id":1159297005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.31538,
+    59.28184,
+    5.31538,
+    59.28184
+],
+  "geometry": {"coordinates":[5.31538,59.28184],"type":"Point"}
+}

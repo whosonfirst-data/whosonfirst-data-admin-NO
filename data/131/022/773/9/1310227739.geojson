@@ -1,0 +1,71 @@
+{
+  "id": 1310227739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.58973,69.45644,25.58973,69.45644",
+    "geom:latitude":69.45644,
+    "geom:longitude":25.58973,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2021.0",
+    "gn:asciiname":"Mannevarnjarga",
+    "gn:country_code":"NO",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536369,
+    "gn:latitude":69.45644,
+    "gn:longitude":25.58973,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"M\u00e1nnev\u00e1rnj\u00e1rga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sme_x_preferred":[
+        "M\u00e1nnev\u00e1rnj\u00e1rga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296871,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536369
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"54904d1d1925f524688cb9d4dafaa832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296871,
+            "locality_id":1310227739,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1310227739,
+    "wof:lastmodified":1537675966,
+    "wof:name":"Mannevarnjarga",
+    "wof:parent_id":1159296871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.58973,
+    69.45644,
+    25.58973,
+    69.45644
+],
+  "geometry": {"coordinates":[25.58973,69.45644],"type":"Point"}
+}

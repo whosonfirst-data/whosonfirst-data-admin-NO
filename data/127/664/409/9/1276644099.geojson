@@ -1,0 +1,71 @@
+{
+  "id": 1276644099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.20673,61.32319,10.20673,61.32319",
+    "geom:latitude":61.32319,
+    "geom:longitude":10.20673,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"521.0",
+    "gn:asciiname":"Musdalsaetra",
+    "gn:country_code":"NO",
+    "gn:dem":790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537241,
+    "gn:latitude":61.32319,
+    "gn:longitude":10.20673,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Musdals\u00e6tra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Musdals\u00e6tra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296701,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537241
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"de56eec3657ed77a728baf3da627dbd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296701,
+            "locality_id":1276644099,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1276644099,
+    "wof:lastmodified":1537676002,
+    "wof:name":"Musdalsaetra",
+    "wof:parent_id":1159296701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.20673,
+    61.32319,
+    10.20673,
+    61.32319
+],
+  "geometry": {"coordinates":[10.20673,61.32319],"type":"Point"}
+}

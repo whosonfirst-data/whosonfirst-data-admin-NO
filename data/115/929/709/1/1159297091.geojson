@@ -1,0 +1,69 @@
+{
+  "id": 1159297091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.152544,
+    "geom:bbox":"4.5470537566,59.9135184362,5.33182440849,60.1887950986",
+    "geom:latitude":60.040252,
+    "geom:longitude":4.949811,
+    "iso:country":"NO",
+    "lbl:latitude":60.03527,
+    "lbl:longitude":4.949811,
+    "mps:latitude":60.03527,
+    "mps:longitude":4.949811,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Austevoll"
+    ],
+    "name:nor_x_preferred":[
+        "Austevoll"
+    ],
+    "no-geonorge:datauttaksdato":"20180109110334",
+    "no-geonorge:kommunenummer":"1244",
+    "no-geonorge:lokalid":"172926",
+    "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
+    "no-geonorge:versjonid":"4.1",
+    "src:geom":"no-geonorge",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordance":{},
+    "wof:country":"NO",
+    "wof:created":1524595867,
+    "wof:geomhash":"edd56244d0ad3836d1a7eb602e799f73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297091,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1159297091,
+    "wof:lastmodified":1529700039,
+    "wof:name":"Austevoll",
+    "wof:parent_id":85687099,
+    "wof:placetype":"localadmin",
+    "wof:placetype_local":"kommune",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.5470537565979,
+    59.91351843620122,
+    5.331824408486,
+    60.18879509856085
+],
+  "geometry": {"coordinates":[[[4.5470537565979,60.10404919530735],[4.69881067575222,60.11785179216993],[4.82563974341091,60.1292446306207],[4.90768459372499,60.13654167360318],[4.94050921522033,60.13944591323389],[4.95706445984471,60.14090740042962],[5.05288528314987,60.14941139267911],[5.11700929702586,60.15760171516959],[5.21007752214323,60.18879509856085],[5.2532247094392,60.17609041808771],[5.331824408486,60.10719364284797],[5.32212458769099,60.03115130454508],[5.32766857923841,59.99903697888966],[5.26675023222252,59.97269751266614],[5.07846528197052,59.93861592793053],[5.01712966722446,59.93345815750306],[5.002498144377,59.93276997529326],[4.969475971747,59.93121058791144],[4.88505254565121,59.92718559742991],[4.6064641325734,59.91351843620122],[4.56498648782765,60.04681284635986],[4.55649159196923,60.07395564528994],[4.5470537565979,60.10404919530735]]],"type":"Polygon"}
+}

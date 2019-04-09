@@ -1,0 +1,71 @@
+{
+  "id": 1343979379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.34962,60.61897,5.34962,60.61897",
+    "geom:latitude":60.61897,
+    "geom:longitude":5.34962,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1263.0",
+    "gn:asciiname":"Vassbygdi",
+    "gn:country_code":"NO",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535670,
+    "gn:latitude":60.61897,
+    "gn:longitude":5.34962,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Vassbygdi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Vassbygdi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296745,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535670
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6696b770d4eb32e8e00657d1a4b72b1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296745,
+            "locality_id":1343979379,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1343979379,
+    "wof:lastmodified":1537675936,
+    "wof:name":"Vassbygdi",
+    "wof:parent_id":1159296745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.34962,
+    60.61897,
+    5.34962,
+    60.61897
+],
+  "geometry": {"coordinates":[5.34962,60.61897],"type":"Point"}
+}

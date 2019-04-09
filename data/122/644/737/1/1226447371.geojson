@@ -1,0 +1,74 @@
+{
+  "id": 1226447371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.83333,70.86667,25.83333,70.86667",
+    "geom:latitude":70.86667,
+    "geom:longitude":25.83333,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2019.0",
+    "gn:asciiname":"Stranda",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":777355,
+    "gn:latitude":70.86667,
+    "gn:longitude":25.83333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Stranda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Porsangvik",
+        "Stranden",
+        "Stranda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297287,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":777355
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5590d720801de2d51bee5ed2509afbe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297287,
+            "locality_id":1226447371,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1226447371,
+    "wof:lastmodified":1537675641,
+    "wof:name":"Stranda",
+    "wof:parent_id":1159297287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.83333,
+    70.86667,
+    25.83333,
+    70.86667
+],
+  "geometry": {"coordinates":[25.83333,70.86667],"type":"Point"}
+}

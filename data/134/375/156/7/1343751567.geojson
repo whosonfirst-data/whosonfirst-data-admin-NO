@@ -1,0 +1,75 @@
+{
+  "id": 1343751567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.33678,68.02734,16.33678,68.02734",
+    "geom:latitude":68.02734,
+    "geom:longitude":16.33678,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1850.0",
+    "gn:asciiname":"Kjarrnes",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537281,
+    "gn:latitude":68.02734,
+    "gn:longitude":16.33678,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Kj\u00e5rrnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Kj\u00e5rrnes"
+    ],
+    "name:nor_x_variant":[
+        "Tj\u00e5rrnes"
+    ],
+    "name:smj_x_preferred":[
+        "Tj\u00e5rro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297109,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537281
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"bcf36293f3f4f4726d94bbe4da97e1ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297109,
+            "locality_id":1343751567,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1343751567,
+    "wof:lastmodified":1537676005,
+    "wof:name":"Kjarrnes",
+    "wof:parent_id":1159297109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.33677999999999,
+    68.02734,
+    16.33677999999999,
+    68.02734
+],
+  "geometry": {"coordinates":[16.33677999999999,68.02734],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310427767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.94127,60.7621,10.94127,60.7621",
+    "geom:latitude":60.7621,
+    "geom:longitude":10.94127,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"412.0",
+    "gn:asciiname":"Nes",
+    "gn:country_code":"NO",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558442,
+    "gn:latitude":60.7621,
+    "gn:longitude":10.94127,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Nes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Nes"
+    ],
+    "name:nor_x_variant":[
+        "Tingnes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296699,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558442,
+        "wk:page":"Nes%2C_Hedmark"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"10da889750d9aaa9a31cc9e610c1e9b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296699,
+            "locality_id":1310427767,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1310427767,
+    "wof:lastmodified":1537675904,
+    "wof:name":"Nes",
+    "wof:parent_id":1159296699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.94127,
+    60.7621,
+    10.94127,
+    60.7621
+],
+  "geometry": {"coordinates":[10.94127,60.7621],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343534385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.25664,61.93333,6.25664,61.93333",
+    "geom:latitude":61.93333,
+    "geom:longitude":6.25664,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1443.0",
+    "gn:asciiname":"Heggjabygda",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3153354,
+    "gn:latitude":61.93333,
+    "gn:longitude":6.25664,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Heggjabygda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Heggen",
+        "Heggebygd",
+        "Heggjafrislia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297325,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3153354,
+        "wk:page":"Heggjabygda"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"727b72fce8350284cf9e7c9d4f5b3abb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297325,
+            "locality_id":1343534385,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1343534385,
+    "wof:lastmodified":1537675818,
+    "wof:name":"Heggjabygda",
+    "wof:parent_id":1159297325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.25664,
+    61.93333000000001,
+    6.25664,
+    61.93333000000001
+],
+  "geometry": {"coordinates":[6.25664,61.93333000000001],"type":"Point"}
+}

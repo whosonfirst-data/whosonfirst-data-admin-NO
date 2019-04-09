@@ -1,0 +1,82 @@
+{
+  "id": 1125987953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.238122,59.608044,5.238122,59.608044",
+    "geom:latitude":59.608044,
+    "geom:longitude":5.238122,
+    "gn:gn_country":"NO",
+    "iso:country":"NO",
+    "lbl:latitude":59.608044,
+    "lbl:longitude":5.238122,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:name":"B\u00f8mmelhavn",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Hordaland Fylke",
+    "qs_pg:photos":31,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":31,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":996265,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":29305013,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Hordaland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296859,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29305013,
+        "qs_pg:id":996265
+    },
+    "wof:country":"NO",
+    "wof:created":1497298904,
+    "wof:geomhash":"715544dcf70ff2b070b947cc9583f351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296859,
+            "locality_id":1125987953,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1125987953,
+    "wof:lastmodified":1529700064,
+    "wof:name":"B\u00f8mmelhavn",
+    "wof:parent_id":1159296859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.238122,
+    59.608044,
+    5.238122,
+    59.608044
+],
+  "geometry": {"coordinates":[5.238122,59.608044],"type":"Point"}
+}

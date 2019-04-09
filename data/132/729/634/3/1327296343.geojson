@@ -1,0 +1,69 @@
+{
+  "id": 1327296343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.61667,58.13333,6.61667,58.13333",
+    "geom:latitude":58.13333,
+    "geom:longitude":6.61667,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1003.0",
+    "gn:asciiname":"Nordberg",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3144460,
+    "gn:latitude":58.13333,
+    "gn:longitude":6.61667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nordberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297123,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3144460,
+        "wk:page":"Nordberg"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"de354aa97246c4bf81871a28a224be84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297123,
+            "locality_id":1327296343,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1327296343,
+    "wof:lastmodified":1537570083,
+    "wof:name":"Nordberg",
+    "wof:parent_id":1159297123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.61667,
+    58.13333000000001,
+    6.61667,
+    58.13333000000001
+],
+  "geometry": {"coordinates":[6.61667,58.13333000000001],"type":"Point"}
+}

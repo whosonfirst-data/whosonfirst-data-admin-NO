@@ -1,0 +1,82 @@
+{
+  "id": 1125936485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.798873,68.6416605,15.798873,68.6416605",
+    "geom:latitude":68.641661,
+    "geom:longitude":15.798873,
+    "gn:gn_country":"NO",
+    "iso:country":"NO",
+    "lbl:latitude":68.641661,
+    "lbl:longitude":15.798873,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:name":"Gullesfjord",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Troms Fylke",
+    "qs_pg:photos":32,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":32,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":985959,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":15000854,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Troms Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297213,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15000854,
+        "qs_pg:id":985959
+    },
+    "wof:country":"NO",
+    "wof:created":1497296984,
+    "wof:geomhash":"78f6e8d2a4a8fdc298d98ae3d2e2a8fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297213,
+            "locality_id":1125936485,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1125936485,
+    "wof:lastmodified":1529700451,
+    "wof:name":"Gullesfjord",
+    "wof:parent_id":1159297213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.798873,
+    68.6416605,
+    15.798873,
+    68.6416605
+],
+  "geometry": {"coordinates":[15.798873,68.6416605],"type":"Point"}
+}

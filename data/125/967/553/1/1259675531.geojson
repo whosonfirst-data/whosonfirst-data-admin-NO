@@ -1,0 +1,71 @@
+{
+  "id": 1259675531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.75491,60.37488,5.75491,60.37488",
+    "geom:latitude":60.37488,
+    "geom:longitude":5.75491,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1242",
+    "gn:asciiname":"Ytra Tysse",
+    "gn:country_code":"NO",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404225,
+    "gn:latitude":60.37488,
+    "gn:longitude":5.75491,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Ytra Tysse",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Ytra Tysse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297503,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404225
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ccd54c094890da5f78ad0fe84028b6aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297503,
+            "locality_id":1259675531,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1259675531,
+    "wof:lastmodified":1537675922,
+    "wof:name":"Ytra Tysse",
+    "wof:parent_id":1159297503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.75491,
+    60.37488000000001,
+    5.75491,
+    60.37488000000001
+],
+  "geometry": {"coordinates":[5.75491,60.37488000000001],"type":"Point"}
+}

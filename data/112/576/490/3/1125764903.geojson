@@ -1,0 +1,124 @@
+{
+  "id": 1125764903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.81531,66.07713,13.81531,66.07713",
+    "geom:latitude":66.07713,
+    "geom:longitude":13.81531,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":858,
+    "gn:population":858,
+    "iso:country":"NO",
+    "lbl:latitude":66.07713,
+    "lbl:longitude":13.81531,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u0554\u0578\u0580\u0563\u0565\u0576"
+    ],
+    "name:dut_x_preferred":[
+        "Korgen"
+    ],
+    "name:eng_x_preferred":[
+        "Korgen"
+    ],
+    "name:fre_x_preferred":[
+        "Korgen"
+    ],
+    "name:ita_x_preferred":[
+        "Korgen"
+    ],
+    "name:jav_x_preferred":[
+        "Korgen"
+    ],
+    "name:may_x_preferred":[
+        "Korgen"
+    ],
+    "name:nno_x_preferred":[
+        "Korgen"
+    ],
+    "name:nob_x_preferred":[
+        "Korgen"
+    ],
+    "name:rum_x_preferred":[
+        "Korgen"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u0433\u0435\u043d"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":3149492,
+    "qs_pg:gn_pop":858,
+    "qs_pg:name":"Korgen",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nordland Fylke",
+    "qs_pg:photos":33,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":33,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1332215,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":860776,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Nordland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159296695,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3149492,
+        "gp:id":860776,
+        "qs_pg:id":1332215,
+        "wd:id":"Q2300008"
+    },
+    "wof:country":"NO",
+    "wof:created":1497289851,
+    "wof:geomhash":"a3649db7d619f1846674f56bbe3541e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296695,
+            "locality_id":1125764903,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1125764903,
+    "wof:lastmodified":1529700152,
+    "wof:name":"Korgen",
+    "wof:parent_id":1159296695,
+    "wof:placetype":"locality",
+    "wof:population":858,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.81531,
+    66.07713,
+    13.81531,
+    66.07713
+],
+  "geometry": {"coordinates":[13.81531,66.07713],"type":"Point"}
+}

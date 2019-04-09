@@ -1,0 +1,72 @@
+{
+  "id": 1293801575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.51602,60.17934,11.51602,60.17934",
+    "geom:latitude":60.17934,
+    "geom:longitude":11.51602,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"236.0",
+    "gn:asciiname":"Oppakermoen",
+    "gn:country_code":"NO",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6545369,
+    "gn:latitude":60.17934,
+    "gn:longitude":11.51602,
+    "gn:modification_date":"2017-10-27",
+    "gn:name":"Opp\u00e5kermoen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oppaker"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297349,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545369,
+        "wk:page":"Opp%C3%A5kermoen"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"789d48933761e50be54537a59bb9348d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297349,
+            "locality_id":1293801575,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1293801575,
+    "wof:lastmodified":1537675902,
+    "wof:name":"Oppakermoen",
+    "wof:parent_id":1159297349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.51602,
+    60.17934,
+    11.51602,
+    60.17934
+],
+  "geometry": {"coordinates":[11.51602,60.17934],"type":"Point"}
+}

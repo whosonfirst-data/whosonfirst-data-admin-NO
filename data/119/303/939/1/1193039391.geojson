@@ -1,0 +1,68 @@
+{
+  "id": 1193039391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.56163,60.06458,5.56163,60.06458",
+    "geom:latitude":60.06458,
+    "geom:longitude":5.56163,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1223.0",
+    "gn:asciiname":"Godoysund",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3155431,
+    "gn:latitude":60.06458,
+    "gn:longitude":5.56163,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"God\u00f8ysund",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297223,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3155431
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b9628f2cebb2ba93fa9de2a941cd1e18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297223,
+            "locality_id":1193039391,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1193039391,
+    "wof:lastmodified":1536377558,
+    "wof:name":"Godoysund",
+    "wof:parent_id":1159297223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.56163,
+    60.06458000000001,
+    5.56163,
+    60.06458000000001
+],
+  "geometry": {"coordinates":[5.56163,60.06458000000001],"type":"Point"}
+}

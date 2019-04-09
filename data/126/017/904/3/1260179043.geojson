@@ -1,0 +1,74 @@
+{
+  "id": 1260179043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.62111,62.87694,8.62111,62.87694",
+    "geom:latitude":62.87694,
+    "geom:longitude":8.62111,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1566.0",
+    "gn:asciiname":"Nordvik",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3144132,
+    "gn:latitude":62.87694,
+    "gn:longitude":8.62111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nordvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nordvikstranda",
+        "Nordvikstrand",
+        "Nordvik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297613,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3144132
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9a75a7b6137a984b716645b225bc1d23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297613,
+            "locality_id":1260179043,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1260179043,
+    "wof:lastmodified":1537675755,
+    "wof:name":"Nordvik",
+    "wof:parent_id":1159297613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.62111,
+    62.87694000000001,
+    8.62111,
+    62.87694000000001
+],
+  "geometry": {"coordinates":[8.62111,62.87694000000001],"type":"Point"}
+}

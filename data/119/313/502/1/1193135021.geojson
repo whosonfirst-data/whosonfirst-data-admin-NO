@@ -1,0 +1,68 @@
+{
+  "id": 1193135021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.31667,60.0,12.31667,60.0",
+    "geom:latitude":60.0,
+    "geom:longitude":12.31667,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"420.0",
+    "gn:asciiname":"Billingsjo",
+    "gn:country_code":"NO",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3161557,
+    "gn:latitude":60.0,
+    "gn:longitude":12.31667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Billingsj\u00f8",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296881,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3161557
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"36b16982875e0829238f3a3d8bb6bdac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296881,
+            "locality_id":1193135021,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1193135021,
+    "wof:lastmodified":1536371688,
+    "wof:name":"Billingsjo",
+    "wof:parent_id":1159296881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.31667,
+    60.0,
+    12.31667,
+    60.0
+],
+  "geometry": {"coordinates":[12.31667,60.0],"type":"Point"}
+}

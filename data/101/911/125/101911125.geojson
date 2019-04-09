@@ -1,0 +1,75 @@
+{
+  "id": 101911125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000052,
+    "geom:bbox":"10.2611065799,60.0147051868,10.2664646433,60.0309134052",
+    "geom:latitude":60.022699,
+    "geom:longitude":10.263104,
+    "iso:country":"NO",
+    "lbl:latitude":60.02263,
+    "lbl:longitude":10.262887,
+    "mps:latitude":60.02263,
+    "mps:longitude":10.262887,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Norge",
+    "qs:a1":"*Buskerud",
+    "qs:a1r":"6",
+    "qs:adm0":"Norge",
+    "qs:id":0,
+    "qs:la":"Hole",
+    "qs:la_lc":"*NO0612",
+    "qs:level":"locality",
+    "qs:loc":"Ulvika",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159296811,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":865346,
+        "qs:id":506264,
+        "qs_pg:id":506264
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7c96b1957c3e34b3f22b0628f5784cc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296811,
+            "locality_id":101911125,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":101911125,
+    "wof:lastmodified":1529699844,
+    "wof:name":"Ulvika",
+    "wof:parent_id":1159296811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.26110657985225,
+    60.01470518682578,
+    10.26646464331145,
+    60.03091340516391
+],
+  "geometry": {"coordinates":[[[10.26478904546008,60.03090673241002],[10.2647608502752,60.02730712667636],[10.26297194198543,60.02731047399874],[10.26295094302196,60.02461077346663],[10.26473970846621,60.02460742644638],[10.26467630657942,60.0165083466714],[10.26646464331145,60.01650497787119],[10.26645046363393,60.01470518682578],[10.26287398015978,60.01471190133702],[10.26289496483776,60.01741158909124],[10.26110657985225,60.01741491262078],[10.26121084754362,60.03091340516391],[10.26478904546008,60.03090673241002]]],"type":"Polygon"}
+}

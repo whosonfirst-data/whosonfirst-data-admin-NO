@@ -1,0 +1,71 @@
+{
+  "id": 1326814853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.03333,66.25,14.03333,66.25",
+    "geom:latitude":66.25,
+    "geom:longitude":14.03333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1833.0",
+    "gn:asciiname":"Ovre Dal",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3143013,
+    "gn:latitude":66.25,
+    "gn:longitude":14.03333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u00d8vre Dal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00d8ver Dal",
+        "\u00d8vre Dal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296963,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3143013
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ebf28d3415e41478a23b77fd92d91efe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296963,
+            "locality_id":1326814853,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1326814853,
+    "wof:lastmodified":1537675748,
+    "wof:name":"Ovre Dal",
+    "wof:parent_id":1159296963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.03333,
+    66.25,
+    14.03333,
+    66.25
+],
+  "geometry": {"coordinates":[14.03333,66.25],"type":"Point"}
+}

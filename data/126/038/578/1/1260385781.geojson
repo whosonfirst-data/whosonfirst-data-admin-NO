@@ -1,0 +1,68 @@
+{
+  "id": 1260385781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.83333,60.41667,5.83333,60.41667",
+    "geom:latitude":60.41667,
+    "geom:longitude":5.83333,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1242.0",
+    "gn:asciiname":"Hoysaeter",
+    "gn:country_code":"NO",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3151525,
+    "gn:latitude":60.41667,
+    "gn:longitude":5.83333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"H\u00f8ys\u00e6ter",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297503,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3151525
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e3603e3394a3563ad6bcda6c976462ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297503,
+            "locality_id":1260385781,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1260385781,
+    "wof:lastmodified":1537068952,
+    "wof:name":"Hoysaeter",
+    "wof:parent_id":1159297503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.83333,
+    60.41667,
+    5.83333,
+    60.41667
+],
+  "geometry": {"coordinates":[5.83333,60.41667],"type":"Point"}
+}

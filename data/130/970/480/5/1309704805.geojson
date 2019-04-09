@@ -1,0 +1,68 @@
+{
+  "id": 1309704805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.63333,60.4,11.63333,60.4",
+    "geom:latitude":60.4,
+    "geom:longitude":11.63333,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"418.0",
+    "gn:asciiname":"Lutne",
+    "gn:country_code":"NO",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3146719,
+    "gn:latitude":60.4,
+    "gn:longitude":11.63333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Lutne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297485,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3146719
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d7edd4ac2ad2443f1e94efef6971e68d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297485,
+            "locality_id":1309704805,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1309704805,
+    "wof:lastmodified":1537073700,
+    "wof:name":"Lutne",
+    "wof:parent_id":1159297485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.63333,
+    60.4,
+    11.63333,
+    60.4
+],
+  "geometry": {"coordinates":[11.63333,60.4],"type":"Point"}
+}

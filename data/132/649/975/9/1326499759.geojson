@@ -1,0 +1,66 @@
+{
+  "id": 1326499759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.18387,62.79291,11.18387,62.79291",
+    "geom:latitude":62.79291,
+    "geom:longitude":11.18387,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5026.0",
+    "gn:asciiname":"Engesvollen",
+    "gn:country_code":"NO",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8659308,
+    "gn:latitude":62.79291,
+    "gn:longitude":11.18387,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Engesvollen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296983,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8659308
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"741ada0307e54b95ca123c6d2121e796",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296983,
+            "locality_id":1326499759,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1326499759,
+    "wof:lastmodified":1537029660,
+    "wof:name":"Engesvollen",
+    "wof:parent_id":1159296983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.18387,
+    62.79291,
+    11.18387,
+    62.79291
+],
+  "geometry": {"coordinates":[11.18387,62.79291],"type":"Point"}
+}

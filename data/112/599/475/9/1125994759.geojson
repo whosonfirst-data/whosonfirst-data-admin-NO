@@ -1,0 +1,102 @@
+{
+  "id": 1125994759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.153341,63.3550255,10.153341,63.3550255",
+    "geom:latitude":63.355026,
+    "geom:longitude":10.153341,
+    "gn:gn_country":null,
+    "iso:country":"NO",
+    "lbl:latitude":63.355026,
+    "lbl:longitude":10.153341,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Spongdal"
+    ],
+    "name:eng_x_preferred":[
+        "Spongdal"
+    ],
+    "name:fre_x_preferred":[
+        "Spongdal"
+    ],
+    "name:may_x_preferred":[
+        "Spongdal"
+    ],
+    "name:nno_x_preferred":[
+        "Spongdal"
+    ],
+    "name:nob_x_preferred":[
+        "Spongdal"
+    ],
+    "name:rum_x_preferred":[
+        "Spongdal"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Spongdal",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
+    "qs_pg:photos":60,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":60,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":13240,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":15000814,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159297145,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15000814,
+        "qs_pg:id":13240,
+        "wd:id":"Q1776322"
+    },
+    "wof:country":"NO",
+    "wof:created":1497299250,
+    "wof:geomhash":"08eba44b607bce32b921965a02edfc23",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297145,
+            "locality_id":1125994759,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1125994759,
+    "wof:lastmodified":1529700330,
+    "wof:name":"Spongdal",
+    "wof:parent_id":1159297145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.153341,
+    63.3550255,
+    10.153341,
+    63.3550255
+],
+  "geometry": {"coordinates":[10.153341,63.3550255],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310068933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.53458,69.2859,18.53458,69.2859",
+    "geom:latitude":69.2859,
+    "geom:longitude":18.53458,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1924.0",
+    "gn:asciiname":"Hollendernes",
+    "gn:country_code":"NO",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536603,
+    "gn:latitude":69.2859,
+    "gn:longitude":18.53458,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Hollendernes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Hollendernes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296775,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536603
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"52494b76c7795fd0c7b8eb0a072a75c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296775,
+            "locality_id":1310068933,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1310068933,
+    "wof:lastmodified":1537675976,
+    "wof:name":"Hollendernes",
+    "wof:parent_id":1159296775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.53458,
+    69.2859,
+    18.53458,
+    69.2859
+],
+  "geometry": {"coordinates":[18.53458,69.2859],"type":"Point"}
+}

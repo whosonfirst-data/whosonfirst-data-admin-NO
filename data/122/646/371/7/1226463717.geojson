@@ -1,0 +1,68 @@
+{
+  "id": 1226463717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.22,60.575,5.22,60.575",
+    "geom:latitude":60.575,
+    "geom:longitude":5.22,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1263.0",
+    "gn:asciiname":"Hilland",
+    "gn:country_code":"NO",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3243118,
+    "gn:latitude":60.575,
+    "gn:longitude":5.22,
+    "gn:modification_date":"2010-10-15",
+    "gn:name":"Hilland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296745,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3243118
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a8964def51f95a31a89ec1d9f4a14ab3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296745,
+            "locality_id":1226463717,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1226463717,
+    "wof:lastmodified":1536617430,
+    "wof:name":"Hilland",
+    "wof:parent_id":1159296745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.22,
+    60.575,
+    5.22,
+    60.575
+],
+  "geometry": {"coordinates":[5.22,60.575],"type":"Point"}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 101803755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000079,
+    "geom:area_square_m":517336.863273,
+    "geom:bbox":"7.8452781262,58.1635416313,7.86355937234,58.1755227233",
+    "geom:latitude":58.168874,
+    "geom:longitude":7.854327,
+    "iso:country":"NO",
+    "lbl:latitude":58.169555,
+    "lbl:longitude":7.855851,
+    "mps:latitude":58.169555,
+    "mps:longitude":7.855851,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Nodelandsheia"
+    ],
+    "name:eng_x_preferred":[
+        "Nodelandsheia"
+    ],
+    "name:fre_x_preferred":[
+        "Nodelandsheia"
+    ],
+    "name:may_x_preferred":[
+        "Nodelandsheia"
+    ],
+    "name:msa_x_preferred":[
+        "Nodelandsheia"
+    ],
+    "name:nld_x_preferred":[
+        "Nodelandsheia"
+    ],
+    "name:nno_x_preferred":[
+        "Nodelandsheia"
+    ],
+    "name:nob_x_preferred":[
+        "Nodelandsheia"
+    ],
+    "name:nor_x_preferred":[
+        "Nodelandsheia"
+    ],
+    "name:ron_x_preferred":[
+        "Nodelandsheia"
+    ],
+    "name:rum_x_preferred":[
+        "Nodelandsheia"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Vest-Agder",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"Songdalen",
+    "qs:la_lc":"*NO1017",
+    "qs:level":"locality",
+    "qs:loc":"Nodelandsheia",
+    "qs:loc_alt":"Nodelandsheia",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191581,
+        1159296715,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22659352,
+        "qs:id":4,
+        "wd:id":"Q1779278"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a6556c6539fe46b745ba652807743d16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296715,
+            "locality_id":101803755,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":101803755,
+    "wof:lastmodified":1529700467,
+    "wof:name":"Nodelandsheia",
+    "wof:parent_id":1159296715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.84527812619927,
+    58.16354163127846,
+    7.86355937233645,
+    58.17552272326236
+],
+  "geometry": {"coordinates":[[[7.85852465508253,58.17184685720446],[7.85868393080756,58.16915058567059],[7.86037969896211,58.16917754637853],[7.86048578334868,58.16738003171042],[7.85370306074822,58.16727206683817],[7.85380946852626,58.16547455920124],[7.85211387774365,58.16544751612747],[7.8522203570439,58.16365001097159],[7.84543835339258,58.16354163127846],[7.84527812619927,58.16623788023389],[7.84697374944039,58.16626500946631],[7.84692037611757,58.16716376036061],[7.848616043709,58.16719086900554],[7.84856270924661,58.16808962090209],[7.85025842118995,58.168116708958],[7.85015182688818,58.16991421499534],[7.85354342581167,58.16996833009671],[7.85343698700439,58.17176584013851],[7.85682876335198,58.17181987286932],[7.85672248007808,58.17361738691181],[7.85841845578358,58.17364437276433],[7.85836535148854,58.17454313090548],[7.86006137155425,58.17457009616163],[7.86000830615615,58.17546885530197],[7.86340043737562,58.17552272326236],[7.86355937233645,58.17282644202106],[7.86016749306691,58.17277257860388],[7.86022054918146,58.17187382018636],[7.85852465508253,58.17184685720446]]],"type":"Polygon"}
+}

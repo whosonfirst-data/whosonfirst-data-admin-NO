@@ -1,0 +1,67 @@
+{
+  "id": 1209098611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.41667,60.41667,12.41667,60.41667",
+    "geom:latitude":60.41667,
+    "geom:longitude":12.41667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"423.0",
+    "gn:asciiname":"Revholt",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141910,
+    "gn:latitude":60.41667,
+    "gn:longitude":12.41667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Revholt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00e6vholtet",
+        "Revholt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141910
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a5e44bf54c66c88042f9e89bcce4cb63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209098611
+        }
+    ],
+    "wof:id":1209098611,
+    "wof:lastmodified":1537675740,
+    "wof:name":"Revholt",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.41667,
+    60.41667,
+    12.41667,
+    60.41667
+],
+  "geometry": {"coordinates":[12.41667,60.41667],"type":"Point"}
+}

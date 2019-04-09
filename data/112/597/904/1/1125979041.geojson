@@ -1,0 +1,110 @@
+{
+  "id": 1125979041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.58333,68.7,16.58333,68.7",
+    "geom:latitude":68.7,
+    "geom:longitude":16.58333,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":68.7,
+    "lbl:longitude":16.58333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "S\u00f8rvik"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00f8rvik"
+    ],
+    "name:fre_x_preferred":[
+        "S\u00f8rvik"
+    ],
+    "name:may_x_preferred":[
+        "S\u00f8rvik"
+    ],
+    "name:nno_x_preferred":[
+        "S\u00f8rvik i Sandtorg"
+    ],
+    "name:nob_x_preferred":[
+        "S\u00f8rvik"
+    ],
+    "name:unk_x_variant":[
+        "Nordvik"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3144129,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"S\u00f8rvika",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Troms Fylke",
+    "qs_pg:photos":125,
+    "qs_pg:photos_1k":25,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":125,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1318373,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":22660293,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Troms Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297451,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3144129,
+        "gp:id":22660293,
+        "qs_pg:id":1318373,
+        "wd:id":"Q1769388"
+    },
+    "wof:country":"NO",
+    "wof:created":1497298473,
+    "wof:geomhash":"abea6f89936d07d4466809de9d483d88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297451,
+            "locality_id":1125979041,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1125979041,
+    "wof:lastmodified":1529700456,
+    "wof:name":"S\u00f8rvika",
+    "wof:parent_id":1159297451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.58333,
+    68.7,
+    16.58333,
+    68.7
+],
+  "geometry": {"coordinates":[16.58333,68.7],"type":"Point"}
+}

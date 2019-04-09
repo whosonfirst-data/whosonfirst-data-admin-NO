@@ -1,0 +1,73 @@
+{
+  "id": 1276738789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.66667,68.98333,19.66667,68.98333",
+    "geom:latitude":68.98333,
+    "geom:longitude":19.66667,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1924.0",
+    "gn:asciiname":"Rosta",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141211,
+    "gn:latitude":68.98333,
+    "gn:longitude":19.66667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Rosta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ruosta",
+        "Rosta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296775,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141211
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d73c767f7a5bba45c40d86badbe2a105",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296775,
+            "locality_id":1276738789,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1276738789,
+    "wof:lastmodified":1537675736,
+    "wof:name":"Rosta",
+    "wof:parent_id":1159296775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.66667,
+    68.98333000000001,
+    19.66667,
+    68.98333000000001
+],
+  "geometry": {"coordinates":[19.66667,68.98333000000001],"type":"Point"}
+}

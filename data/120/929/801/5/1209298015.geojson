@@ -1,0 +1,62 @@
+{
+  "id": 1209298015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.31667,59.23333,6.31667,59.23333",
+    "geom:latitude":59.23333,
+    "geom:longitude":6.31667,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1133.0",
+    "gn:asciiname":"Breidland",
+    "gn:country_code":"NO",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3160266,
+    "gn:latitude":59.23333,
+    "gn:longitude":6.31667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Breidland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160266
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"60143ac3d2b5b7bf44ba86fb52f6ff30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209298015
+        }
+    ],
+    "wof:id":1209298015,
+    "wof:lastmodified":1536291455,
+    "wof:name":"Breidland",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.3166699999999985,
+    59.23333,
+    6.3166699999999985,
+    59.23333
+],
+  "geometry": {"coordinates":[6.31667,59.23333],"type":"Point"}
+}

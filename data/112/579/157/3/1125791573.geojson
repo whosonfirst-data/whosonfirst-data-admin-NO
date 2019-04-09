@@ -1,0 +1,125 @@
+{
+  "id": 1125791573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.55,68.55,16.55,68.55",
+    "geom:latitude":68.55,
+    "geom:longitude":16.55,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":334,
+    "gn:population":334,
+    "iso:country":"NO",
+    "lbl:latitude":68.55,
+    "lbl:longitude":16.55,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Fjelldal"
+    ],
+    "name:eng_x_preferred":[
+        "Fjelldal"
+    ],
+    "name:fre_x_preferred":[
+        "Fjelldal"
+    ],
+    "name:jav_x_preferred":[
+        "Fjelldal"
+    ],
+    "name:may_x_preferred":[
+        "Fjelldal"
+    ],
+    "name:nno_x_preferred":[
+        "Fjelldal"
+    ],
+    "name:nob_x_preferred":[
+        "Fjelldal"
+    ],
+    "name:nor_x_preferred":[
+        "Fjelldal"
+    ],
+    "name:nor_x_variant":[
+        "Fjelldal, nedre"
+    ],
+    "name:rum_x_preferred":[
+        "Fjelldal"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u044c\u0435\u043b\u043b\u044c\u0434\u0430\u043b"
+    ],
+    "name:unk_x_variant":[
+        "Fjeldal"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3157379,
+    "qs_pg:gn_pop":334,
+    "qs_pg:name":"Fjelldal",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nordland Fylke",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":14,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":270295,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":858471,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Nordland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159297631,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3157379,
+        "gp:id":858471,
+        "qs_pg:id":270295,
+        "wd:id":"Q2657991"
+    },
+    "wof:country":"NO",
+    "wof:created":1497290883,
+    "wof:geomhash":"6e2160adca1b9577947e0c122a87dc5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297631,
+            "locality_id":1125791573,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1125791573,
+    "wof:lastmodified":1529700162,
+    "wof:name":"Fjelldal",
+    "wof:parent_id":1159297631,
+    "wof:placetype":"locality",
+    "wof:population":334,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.55,
+    68.55,
+    16.55,
+    68.55
+],
+  "geometry": {"coordinates":[16.55,68.55],"type":"Point"}
+}

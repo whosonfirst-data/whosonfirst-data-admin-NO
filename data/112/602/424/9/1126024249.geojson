@@ -1,0 +1,80 @@
+{
+  "id": 1126024249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.513827,62.469625,9.513827,62.469625",
+    "geom:latitude":62.469625,
+    "geom:longitude":9.513827,
+    "gn:gn_country":null,
+    "iso:country":"NO",
+    "lbl:latitude":62.469625,
+    "lbl:longitude":9.513827,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"St\u00f8lgardan",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
+    "qs_pg:photos":41,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":41,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1024667,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":55871865,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159297021,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55871865,
+        "qs_pg:id":1024667
+    },
+    "wof:country":"NO",
+    "wof:created":1497301028,
+    "wof:geomhash":"d55a058f81858676c3cb934f93e386fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297021,
+            "locality_id":1126024249,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1126024249,
+    "wof:lastmodified":1529700330,
+    "wof:name":"St\u00f8lgardan",
+    "wof:parent_id":1159297021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.513827,
+    62.469625,
+    9.513827,
+    62.469625
+],
+  "geometry": {"coordinates":[9.513827,62.469625],"type":"Point"}
+}

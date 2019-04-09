@@ -1,0 +1,71 @@
+{
+  "id": 1276766711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.8256,59.76968,10.8256,59.76968",
+    "geom:latitude":59.76968,
+    "geom:longitude":10.8256,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"217.0",
+    "gn:asciiname":"Ryberg",
+    "gn:country_code":"NO",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536320,
+    "gn:latitude":59.76968,
+    "gn:longitude":10.8256,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Ryberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Ryberg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296943,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536320
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"35fc76298c8770661b1cfff9f944ec11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296943,
+            "locality_id":1276766711,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1276766711,
+    "wof:lastmodified":1537675964,
+    "wof:name":"Ryberg",
+    "wof:parent_id":1159296943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.8256,
+    59.76968000000001,
+    10.8256,
+    59.76968000000001
+],
+  "geometry": {"coordinates":[10.8256,59.76968000000001],"type":"Point"}
+}

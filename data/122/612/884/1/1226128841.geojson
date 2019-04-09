@@ -1,0 +1,71 @@
+{
+  "id": 1226128841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.51448,58.89898,11.51448,58.89898",
+    "geom:latitude":58.89898,
+    "geom:longitude":11.51448,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"101.0",
+    "gn:asciiname":"Grovet",
+    "gn:country_code":"NO",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536639,
+    "gn:latitude":58.89898,
+    "gn:longitude":11.51448,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Gr\u00f8vet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Gr\u00f8vet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296713,
+        85633341,
+        85687079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536639
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"391c121e1fac3a7cec7d630fc2efd85d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296713,
+            "locality_id":1226128841,
+            "region_id":85687079
+        }
+    ],
+    "wof:id":1226128841,
+    "wof:lastmodified":1537675978,
+    "wof:name":"Grovet",
+    "wof:parent_id":1159296713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.51448,
+    58.89898,
+    11.51448,
+    58.89898
+],
+  "geometry": {"coordinates":[11.51448,58.89898],"type":"Point"}
+}

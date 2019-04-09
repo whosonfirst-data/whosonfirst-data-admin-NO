@@ -1,0 +1,73 @@
+{
+  "id": 1243145389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.51839,61.05836,7.51839,61.05836",
+    "geom:latitude":61.05836,
+    "geom:longitude":7.51839,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1422.0",
+    "gn:asciiname":"Tonjum",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3134342,
+    "gn:latitude":61.05836,
+    "gn:longitude":7.51839,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"T\u00f8njum",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u00f8njum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297165,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3134342,
+        "wk:page":"T%C3%B8njum"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c70fa461299c5d2cca26bc0cee42f030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297165,
+            "locality_id":1243145389,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1243145389,
+    "wof:lastmodified":1537675692,
+    "wof:name":"Tonjum",
+    "wof:parent_id":1159297165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.51839,
+    61.05836,
+    7.51839,
+    61.05836
+],
+  "geometry": {"coordinates":[7.51839,61.05836],"type":"Point"}
+}

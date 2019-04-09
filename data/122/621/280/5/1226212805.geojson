@@ -1,0 +1,71 @@
+{
+  "id": 1226212805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.91264,61.80684,4.91264,61.80684",
+    "geom:latitude":61.80684,
+    "geom:longitude":4.91264,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1438.0",
+    "gn:asciiname":"Novelandet",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535990,
+    "gn:latitude":61.80684,
+    "gn:longitude":4.91264,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Novelandet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Novelandet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297195,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535990
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9735b6e6c60f36b2e31ec7983891f11d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297195,
+            "locality_id":1226212805,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1226212805,
+    "wof:lastmodified":1537675950,
+    "wof:name":"Novelandet",
+    "wof:parent_id":1159297195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.91264,
+    61.80684,
+    4.91264,
+    61.80684
+],
+  "geometry": {"coordinates":[4.91264,61.80684],"type":"Point"}
+}

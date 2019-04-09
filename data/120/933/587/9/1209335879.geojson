@@ -1,0 +1,62 @@
+{
+  "id": 1209335879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.15,60.38333,7.15,60.38333",
+    "geom:latitude":60.38333,
+    "geom:longitude":7.15,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1232.0",
+    "gn:asciiname":"Hjolmo",
+    "gn:country_code":"NO",
+    "gn:dem":780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3152526,
+    "gn:latitude":60.38333,
+    "gn:longitude":7.15,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Hj\u00f8lmo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3152526
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2a77a0ccb1b9b24952ad285fb83091b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209335879
+        }
+    ],
+    "wof:id":1209335879,
+    "wof:lastmodified":1536290224,
+    "wof:name":"Hjolmo",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.15,
+    60.38333000000001,
+    7.15,
+    60.38333000000001
+],
+  "geometry": {"coordinates":[7.15,60.38333000000001],"type":"Point"}
+}

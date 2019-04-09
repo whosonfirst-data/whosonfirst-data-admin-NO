@@ -1,0 +1,73 @@
+{
+  "id": 1327015333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.89165,63.35641,7.89165,63.35641",
+    "geom:latitude":63.35641,
+    "geom:longitude":7.89165,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1573.0",
+    "gn:asciiname":"Jostolen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3150710,
+    "gn:latitude":63.35641,
+    "gn:longitude":7.89165,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"J\u00f8st\u00f8len",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J\u00f6lst\u00f6l",
+        "J\u00f8st\u00f8len"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297121,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3150710
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"af1bf66cb7499f2864c4b4624dbedc1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297121,
+            "locality_id":1327015333,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1327015333,
+    "wof:lastmodified":1537675802,
+    "wof:name":"Jostolen",
+    "wof:parent_id":1159297121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.89165,
+    63.35641,
+    7.89165,
+    63.35641
+],
+  "geometry": {"coordinates":[7.89165,63.35641],"type":"Point"}
+}

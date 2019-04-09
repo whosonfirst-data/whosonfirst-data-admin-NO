@@ -1,0 +1,90 @@
+{
+  "id": 101911659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000066,
+    "geom:bbox":"8.49920738473,58.264257316,8.51314921352,58.2758882031",
+    "geom:latitude":58.26965,
+    "geom:longitude":8.506808,
+    "iso:country":"NO",
+    "lbl:latitude":58.268935,
+    "lbl:longitude":8.507864,
+    "mps:latitude":58.268935,
+    "mps:longitude":8.507864,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Homborsund"
+    ],
+    "name:jav_x_preferred":[
+        "Homborsund"
+    ],
+    "name:msa_x_preferred":[
+        "Homborsund"
+    ],
+    "name:nor_x_preferred":[
+        "Homborsund"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Aust-Agder",
+    "qs:a1r":"4",
+    "qs:adm0":"Norge",
+    "qs:id":0,
+    "qs:la":"Grimstad",
+    "qs:la_lc":"*NO0904",
+    "qs:level":"locality",
+    "qs:loc":"Homborsund",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet near local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":8,
+    "wof:belongsto":[
+        102191581,
+        1159297075,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537863,
+        "gp:id":15001004,
+        "qs:id":484657,
+        "qs_pg:id":484657,
+        "wd:id":"Q5887836"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a57cac618220d7bfdc032a280824b250",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297075,
+            "locality_id":101911659,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":101911659,
+    "wof:lastmodified":1529699813,
+    "wof:name":"Homborsund",
+    "wof:parent_id":1159297075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.49920738472804,
+    58.26425731598312,
+    8.51314921352457,
+    58.27588820311883
+],
+  "geometry": {"coordinates":[[[8.50257228844339,58.27588820311883],[8.50268410258991,58.27319111169453],[8.50608611730644,58.27322880512634],[8.5061232997158,58.27232977411069],[8.50782426726641,58.27234858814882],[8.50786140519682,58.2714495568635],[8.51126326067697,58.27148711958819],[8.51137440763955,58.26879002412011],[8.5130752109722,58.26880877175023],[8.51314921352457,58.26701070835304],[8.51144849477686,58.26699196178095],[8.51155960923052,58.26429487022995],[8.50815843042932,58.26425731598312],[8.50812130987703,58.26515634517943],[8.50642068068396,58.26513753538768],[8.50634634849041,58.26693559350201],[8.5046456363865,58.26691676122175],[8.50449677672589,58.27051287845717],[8.50279589710988,58.27049402262207],[8.50272136961036,58.27229208174236],[8.49931944617884,58.27225430365218],[8.49920738472804,58.27495139109374],[8.50090847253182,58.27497029245438],[8.5008711566561,58.27586932265774],[8.50257228844339,58.27588820311883]]],"type":"Polygon"}
+}

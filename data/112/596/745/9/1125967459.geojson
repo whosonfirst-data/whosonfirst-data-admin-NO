@@ -1,0 +1,82 @@
+{
+  "id": 1125967459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.8790985,60.541105,8.8790985,60.541105",
+    "geom:latitude":60.541105,
+    "geom:longitude":8.879098,
+    "gn:gn_country":null,
+    "iso:country":"NO",
+    "lbl:latitude":60.541105,
+    "lbl:longitude":8.879098,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Volelie",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Buskerud Fylke",
+    "qs_pg:photos":12,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":12,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":71186,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":55872197,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Buskerud Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296697,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55872197,
+        "qs_pg:id":71186
+    },
+    "wof:country":"NO",
+    "wof:created":1497298028,
+    "wof:geomhash":"3f5298900e76726a65214064b896ef8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296697,
+            "locality_id":1125967459,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1125967459,
+    "wof:lastmodified":1529699856,
+    "wof:name":"Volelie",
+    "wof:parent_id":1159296697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.8790985,
+    60.541105,
+    8.8790985,
+    60.541105
+],
+  "geometry": {"coordinates":[8.8790985,60.541105],"type":"Point"}
+}

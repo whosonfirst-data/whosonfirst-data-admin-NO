@@ -1,0 +1,137 @@
+{
+  "id": 1125889437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.55598,70.17278,28.55598,70.17278",
+    "geom:latitude":70.17278,
+    "geom:longitude":28.55598,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":70.17278,
+    "lbl:longitude":28.55598,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Varangerbotn"
+    ],
+    "name:dut_x_preferred":[
+        "Varangerbotn"
+    ],
+    "name:eng_x_preferred":[
+        "Varangerbotn"
+    ],
+    "name:fin_x_preferred":[
+        "Varangerbotn"
+    ],
+    "name:fre_x_preferred":[
+        "Varangerbotn"
+    ],
+    "name:jav_x_preferred":[
+        "Varangerbotn"
+    ],
+    "name:may_x_preferred":[
+        "Varangerbotn"
+    ],
+    "name:nno_x_preferred":[
+        "Varangerbotn"
+    ],
+    "name:nob_x_preferred":[
+        "Varangerbotn"
+    ],
+    "name:nor_x_preferred":[
+        "Varangerbotn"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0631\u0646\u06af\u0631\u0628\u062a\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0440\u0430\u043d\u0433\u0435\u0440\u0431\u043e\u0442\u0438"
+    ],
+    "name:sme_x_preferred":[
+        "Vuonnabahta"
+    ],
+    "name:sme_x_variant":[
+        "Vuodnabatta"
+    ],
+    "name:spa_x_preferred":[
+        "Varangerbunto"
+    ],
+    "name:swe_x_preferred":[
+        "Varangerbotn"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":777032,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Varangerbotn",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Finnmark Fylke",
+    "qs_pg:photos":30,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":30,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1000406,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":865546,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Finnmark Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297285,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":777032,
+        "gp:id":865546,
+        "qs_pg:id":1000406,
+        "wd:id":"Q4129770"
+    },
+    "wof:country":"NO",
+    "wof:created":1497295245,
+    "wof:geomhash":"c1d319b72450a3a2052f75c37dc31e19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297285,
+            "locality_id":1125889437,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1125889437,
+    "wof:lastmodified":1529699911,
+    "wof:name":"Varangerbotn",
+    "wof:parent_id":1159297285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.55598,
+    70.17278,
+    28.55598,
+    70.17278
+],
+  "geometry": {"coordinates":[28.55598,70.17278],"type":"Point"}
+}

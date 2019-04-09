@@ -1,0 +1,68 @@
+{
+  "id": 1242754195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.58333,59.45,8.58333,59.45",
+    "geom:latitude":59.45,
+    "geom:longitude":8.58333,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"829.0",
+    "gn:asciiname":"Heggtveit",
+    "gn:country_code":"NO",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3153326,
+    "gn:latitude":59.45,
+    "gn:longitude":8.58333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Heggtveit",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297233,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3153326
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8c773b0d0ebfe210c91375c6382a1c91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297233,
+            "locality_id":1242754195,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1242754195,
+    "wof:lastmodified":1536809010,
+    "wof:name":"Heggtveit",
+    "wof:parent_id":1159297233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.58333,
+    59.45,
+    8.58333,
+    59.45
+],
+  "geometry": {"coordinates":[8.58333,59.45],"type":"Point"}
+}

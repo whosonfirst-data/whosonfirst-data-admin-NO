@@ -1,0 +1,68 @@
+{
+  "id": 1309997645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.76667,60.83333,5.76667,60.83333",
+    "geom:latitude":60.83333,
+    "geom:longitude":5.76667,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1252.0",
+    "gn:asciiname":"Eikeland",
+    "gn:country_code":"NO",
+    "gn:dem":595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3158561,
+    "gn:latitude":60.83333,
+    "gn:longitude":5.76667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Eikeland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296981,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3158561
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"dd5dbb119d1aa1250a61712ed47f54a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296981,
+            "locality_id":1309997645,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1309997645,
+    "wof:lastmodified":1536654674,
+    "wof:name":"Eikeland",
+    "wof:parent_id":1159296981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.76667,
+    60.83333,
+    5.76667,
+    60.83333
+],
+  "geometry": {"coordinates":[5.76667,60.83333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293299053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.93995,59.93442,9.93995,59.93442",
+    "geom:latitude":59.93442,
+    "geom:longitude":9.93995,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"623.0",
+    "gn:asciiname":"Grava",
+    "gn:country_code":"NO",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537105,
+    "gn:latitude":59.93442,
+    "gn:longitude":9.93995,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Grava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Grava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297329,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537105
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7c698cf5ca476c55ef0c5f5c2f76ed21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297329,
+            "locality_id":1293299053,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1293299053,
+    "wof:lastmodified":1537675996,
+    "wof:name":"Grava",
+    "wof:parent_id":1159297329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.93995,
+    59.93442,
+    9.93995,
+    59.93442
+],
+  "geometry": {"coordinates":[9.93995,59.93442],"type":"Point"}
+}

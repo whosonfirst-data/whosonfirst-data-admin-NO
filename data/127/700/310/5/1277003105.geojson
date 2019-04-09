@@ -1,0 +1,73 @@
+{
+  "id": 1277003105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.75044,60.46524,6.75044,60.46524",
+    "geom:latitude":60.46524,
+    "geom:longitude":6.75044,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1231.0",
+    "gn:asciiname":"Djonno",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3159209,
+    "gn:latitude":60.46524,
+    "gn:longitude":6.75044,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Dj\u00f8nno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dj\u00f6nna",
+        "Dj\u00f8nno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296999,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3159209
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"233c7c218f1a9aa8bf4d68196e7e0afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296999,
+            "locality_id":1277003105,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1277003105,
+    "wof:lastmodified":1537675861,
+    "wof:name":"Djonno",
+    "wof:parent_id":1159296999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.75044,
+    60.46524,
+    6.75044,
+    60.46524
+],
+  "geometry": {"coordinates":[6.75044,60.46524],"type":"Point"}
+}

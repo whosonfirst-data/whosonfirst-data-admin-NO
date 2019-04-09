@@ -1,0 +1,131 @@
+{
+  "id": 101803987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000063,
+    "geom:area_square_m":387840.003087,
+    "geom:bbox":"9.61722748677,60.1746619623,9.6334203134,60.1836473605",
+    "geom:latitude":60.179834,
+    "geom:longitude":9.626376,
+    "gn:population":330,
+    "iso:country":"NO",
+    "lbl:latitude":60.180952,
+    "lbl:longitude":9.626376,
+    "mps:latitude":60.180952,
+    "mps:longitude":9.626376,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Noresund"
+    ],
+    "name:eng_x_preferred":[
+        "Noresund"
+    ],
+    "name:fre_x_preferred":[
+        "Noresund"
+    ],
+    "name:jav_x_preferred":[
+        "Noresund"
+    ],
+    "name:may_x_preferred":[
+        "Noresund"
+    ],
+    "name:msa_x_preferred":[
+        "Noresund"
+    ],
+    "name:nld_x_preferred":[
+        "Noresund"
+    ],
+    "name:nno_x_preferred":[
+        "Noresund"
+    ],
+    "name:nob_x_preferred":[
+        "Noresund"
+    ],
+    "name:nor_x_preferred":[
+        "Noresund"
+    ],
+    "name:nor_x_variant":[
+        "Nore Sundet",
+        "Noresunds"
+    ],
+    "name:ron_x_preferred":[
+        "Noresund"
+    ],
+    "name:rum_x_preferred":[
+        "Noresund"
+    ],
+    "name:unk_x_variant":[
+        "Nore Sundet"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Buskerud",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"Kr\u00f8dsherad",
+    "qs:la_lc":"*NO0622",
+    "qs:level":"locality",
+    "qs:loc":"Noresund",
+    "qs:loc_alt":"Noresund",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":222,
+    "wof:belongsto":[
+        102191581,
+        1159297069,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01fbda8a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3144113,
+        "gp:id":862326,
+        "qs:id":481089,
+        "qs_pg:id":481089,
+        "wd:id":"Q1776829",
+        "wk:page":"Noresund"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e164e17101f985d75a9d8c056616dea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297069,
+            "locality_id":101803987,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":101803987,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1529699845,
+    "wof:name":"Noresund",
+    "wof:parent_id":1159297069,
+    "wof:placetype":"locality",
+    "wof:population":330,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.61722748677499,
+    60.17466196234238,
+    9.6334203134021,
+    60.18364736045311
+],
+  "geometry": {"coordinates":[[[9.62437532996148,60.18364736045311],[9.62438539031774,60.18274739917871],[9.63157405639242,60.18276628772668],[9.63161352155851,60.17916644431631],[9.633410496762,60.17917110885986],[9.6334203134021,60.17827114885898],[9.63162338631639,60.1782664844564],[9.63166283921316,60.17466664898615],[9.62986610503998,60.17466196234238],[9.62985619463007,60.175561920473],[9.62805941282551,60.17555721088132],[9.62801957256943,60.1791570468024],[9.62083168032711,60.17913797806881],[9.62084183379045,60.17823801906991],[9.61724798680882,60.17822834814274],[9.61722748677499,60.1800282659529],[9.61902450625968,60.18003311311367],[9.61901430340987,60.18093307276069],[9.62081137150602,60.18093789725793],[9.62080121614838,60.18183785744804],[9.62259833285663,60.18184265928022],[9.62257811650767,60.18364258114264],[9.62437532996148,60.18364736045311]]],"type":"Polygon"}
+}

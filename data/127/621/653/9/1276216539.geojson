@@ -1,0 +1,66 @@
+{
+  "id": 1276216539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.91667,65.61667,11.91667,65.61667",
+    "geom:latitude":65.61667,
+    "geom:longitude":11.91667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1815.0",
+    "gn:asciiname":"Vika",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3131759,
+    "gn:latitude":65.61667,
+    "gn:longitude":11.91667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Vika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296781,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3131759
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ed78f3024930af185c4809914fbe68c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296781,
+            "locality_id":1276216539,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1276216539,
+    "wof:lastmodified":1536936298,
+    "wof:name":"Vika",
+    "wof:parent_id":1159296781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.91667,
+    65.61667,
+    11.91667,
+    65.61667
+],
+  "geometry": {"coordinates":[11.91667,65.61667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276330107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.05309,62.51249,9.05309,62.51249",
+    "geom:latitude":62.51249,
+    "geom:longitude":9.05309,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1563.0",
+    "gn:asciiname":"Fjellgardan",
+    "gn:country_code":"NO",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536146,
+    "gn:latitude":62.51249,
+    "gn:longitude":9.05309,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Fjellgardan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Fjellgardan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296805,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536146
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"875f7561a7f0af278eba5a1cb87e03e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296805,
+            "locality_id":1276330107,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1276330107,
+    "wof:lastmodified":1537675957,
+    "wof:name":"Fjellgardan",
+    "wof:parent_id":1159296805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.05309,
+    62.51249,
+    9.05309,
+    62.51249
+],
+  "geometry": {"coordinates":[9.05309,62.51249],"type":"Point"}
+}

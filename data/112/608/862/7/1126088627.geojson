@@ -1,0 +1,80 @@
+{
+  "id": 1126088627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.28236,60.30504,5.28236,60.30504",
+    "geom:latitude":60.30504,
+    "geom:longitude":5.28236,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":24044,
+    "gn:population":24044,
+    "iso:country":"NO",
+    "lbl:latitude":60.30504,
+    "lbl:longitude":5.28236,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":6697344,
+    "qs_pg:gn_pop":24044,
+    "qs_pg:name":"Ytrebygda",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":644073,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85687099,
+        102191581,
+        1159297617,
+        85633341,
+        101751923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6697344,
+        "qs_pg:id":644073
+    },
+    "wof:country":"NO",
+    "wof:created":1497313221,
+    "wof:geomhash":"2487907c9da1c6e7f2d0bfe4c2eca086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":101751923,
+            "neighbourhood_id":1126088627,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1126088627,
+    "wof:lastmodified":1529700070,
+    "wof:name":"Ytrebygda",
+    "wof:parent_id":101751923,
+    "wof:placetype":"neighbourhood",
+    "wof:population":24044,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.28236,
+    60.30504,
+    5.28236,
+    60.30504
+],
+  "geometry": {"coordinates":[5.28236,60.30504],"type":"Point"}
+}

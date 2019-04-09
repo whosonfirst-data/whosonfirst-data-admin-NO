@@ -1,0 +1,73 @@
+{
+  "id": 1225935687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.13071,60.66144,5.13071,60.66144",
+    "geom:latitude":60.66144,
+    "geom:longitude":5.13071,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1263.0",
+    "gn:asciiname":"Festo",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3157706,
+    "gn:latitude":60.66144,
+    "gn:longitude":5.13071,
+    "gn:modification_date":"2014-05-29",
+    "gn:name":"Festo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Festaa",
+        "Festo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296745,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3157706
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"51ba4ab79e0dd8154d5bb477710ea8af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296745,
+            "locality_id":1225935687,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1225935687,
+    "wof:lastmodified":1537675847,
+    "wof:name":"Festo",
+    "wof:parent_id":1159296745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.13071,
+    60.66144,
+    5.13071,
+    60.66144
+],
+  "geometry": {"coordinates":[5.13071,60.66144],"type":"Point"}
+}

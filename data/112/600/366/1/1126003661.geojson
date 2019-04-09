@@ -1,0 +1,106 @@
+{
+  "id": 1126003661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.31667,61.25,12.31667,61.25",
+    "geom:latitude":61.25,
+    "geom:longitude":12.31667,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":329,
+    "gn:population":329,
+    "iso:country":"NO",
+    "lbl:latitude":61.25,
+    "lbl:longitude":12.31667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Nybergsund"
+    ],
+    "name:eng_x_preferred":[
+        "Nybergsund"
+    ],
+    "name:fre_x_preferred":[
+        "Nybergsund"
+    ],
+    "name:jav_x_preferred":[
+        "Nybergsund"
+    ],
+    "name:may_x_preferred":[
+        "Nybergsund"
+    ],
+    "name:nno_x_preferred":[
+        "Nybergsund"
+    ],
+    "name:nob_x_preferred":[
+        "Nybergsund"
+    ],
+    "name:rum_x_preferred":[
+        "Nybergsund"
+    ],
+    "name:swe_x_preferred":[
+        "Nybergsund"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3144025,
+    "qs_pg:gn_pop":329,
+    "qs_pg:name":"Nybergsund",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":581078,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297339,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3144025,
+        "qs_pg:id":581078,
+        "wd:id":"Q2231110"
+    },
+    "wof:country":"NO",
+    "wof:created":1497299801,
+    "wof:geomhash":"2df36a6433b1aedb6d0abb7dda564f3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297339,
+            "locality_id":1126003661,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1126003661,
+    "wof:lastmodified":1529700027,
+    "wof:name":"Nybergsund",
+    "wof:parent_id":1159297339,
+    "wof:placetype":"locality",
+    "wof:population":329,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.31667,
+    61.25,
+    12.31667,
+    61.25
+],
+  "geometry": {"coordinates":[12.31667,61.25],"type":"Point"}
+}

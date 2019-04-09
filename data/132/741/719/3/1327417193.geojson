@@ -1,0 +1,68 @@
+{
+  "id": 1327417193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.58333,58.86667,6.58333,58.86667",
+    "geom:latitude":58.86667,
+    "geom:longitude":6.58333,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1122.0",
+    "gn:asciiname":"Tverra",
+    "gn:country_code":"NO",
+    "gn:dem":870,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3133587,
+    "gn:latitude":58.86667,
+    "gn:longitude":6.58333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Tverr\u00e5",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297401,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3133587
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f822f68ede48ca838fc316c8fe2a85d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297401,
+            "locality_id":1327417193,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1327417193,
+    "wof:lastmodified":1536703027,
+    "wof:name":"Tverra",
+    "wof:parent_id":1159297401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.58333,
+    58.86666999999999,
+    6.58333,
+    58.86666999999999
+],
+  "geometry": {"coordinates":[6.58333,58.86666999999999],"type":"Point"}
+}

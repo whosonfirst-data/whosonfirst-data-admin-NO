@@ -1,0 +1,120 @@
+{
+  "id": 1126023719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.71667,60.66667,8.71667,60.66667",
+    "geom:latitude":60.66667,
+    "geom:longitude":8.71667,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":387,
+    "gn:population":387,
+    "iso:country":"NO",
+    "lbl:latitude":60.66667,
+    "lbl:longitude":8.71667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Torpo"
+    ],
+    "name:eng_x_preferred":[
+        "Torpo"
+    ],
+    "name:fre_x_preferred":[
+        "Torpo"
+    ],
+    "name:ita_x_preferred":[
+        "Torpo"
+    ],
+    "name:jav_x_preferred":[
+        "Torpo"
+    ],
+    "name:may_x_preferred":[
+        "Torpo"
+    ],
+    "name:nno_x_preferred":[
+        "Torpo"
+    ],
+    "name:nob_x_preferred":[
+        "Torpo"
+    ],
+    "name:rum_x_preferred":[
+        "Torpo"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3134251,
+    "qs_pg:gn_pop":387,
+    "qs_pg:name":"Torpo",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Buskerud Fylke",
+    "qs_pg:photos":60,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":60,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":314609,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":865057,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Buskerud Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297217,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3134251,
+        "gp:id":865057,
+        "qs_pg:id":314609,
+        "wd:id":"Q1776298"
+    },
+    "wof:country":"NO",
+    "wof:created":1497300994,
+    "wof:geomhash":"bc01addf9c3920bcb782d534de2f9e36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297217,
+            "locality_id":1126023719,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1126023719,
+    "wof:lastmodified":1529699852,
+    "wof:name":"Torpo",
+    "wof:parent_id":1159297217,
+    "wof:placetype":"locality",
+    "wof:population":387,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.71667,
+    60.66667,
+    8.71667,
+    60.66667
+],
+  "geometry": {"coordinates":[8.71667,60.66667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259505695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.78333,62.28333,10.78333,62.28333",
+    "geom:latitude":62.28333,
+    "geom:longitude":10.78333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"437.0",
+    "gn:asciiname":"Oldertroen",
+    "gn:country_code":"NO",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3143644,
+    "gn:latitude":62.28333,
+    "gn:longitude":10.78333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Oldertr\u00f8en",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297041,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3143644
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"529bb64c4d435efa7b7977b383307015",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297041,
+            "locality_id":1259505695,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1259505695,
+    "wof:lastmodified":1536825994,
+    "wof:name":"Oldertroen",
+    "wof:parent_id":1159297041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.78333,
+    62.28333000000001,
+    10.78333,
+    62.28333000000001
+],
+  "geometry": {"coordinates":[10.78333,62.28333000000001],"type":"Point"}
+}

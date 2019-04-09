@@ -1,0 +1,71 @@
+{
+  "id": 1327451893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.54056,64.4825,11.54056,64.4825",
+    "geom:latitude":64.4825,
+    "geom:longitude":11.54056,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5005",
+    "gn:asciiname":"Fossbrenna",
+    "gn:country_code":"NO",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404087,
+    "gn:latitude":64.4825,
+    "gn:longitude":11.54056,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Fossbrenna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Fossbrenna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297197,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404087
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2cff467cbaa55f23bd8e15d2d6a3dd36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297197,
+            "locality_id":1327451893,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1327451893,
+    "wof:lastmodified":1537675916,
+    "wof:name":"Fossbrenna",
+    "wof:parent_id":1159297197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.54056,
+    64.4825,
+    11.54056,
+    64.4825
+],
+  "geometry": {"coordinates":[11.54056,64.4825],"type":"Point"}
+}

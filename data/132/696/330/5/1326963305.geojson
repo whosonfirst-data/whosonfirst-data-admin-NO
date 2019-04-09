@@ -1,0 +1,73 @@
+{
+  "id": 1326963305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.65,59.61667,9.65,59.61667",
+    "geom:latitude":59.61667,
+    "geom:longitude":9.65,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"604.0",
+    "gn:asciiname":"Landsverk",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3148457,
+    "gn:latitude":59.61667,
+    "gn:longitude":9.65,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Landsverk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Landsv\u00e6rk",
+        "Landsverk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297255,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3148457
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c976b521035624d4762fe3ea58651b97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297255,
+            "locality_id":1326963305,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1326963305,
+    "wof:lastmodified":1537675784,
+    "wof:name":"Landsverk",
+    "wof:parent_id":1159297255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.65,
+    59.61666999999999,
+    9.65,
+    59.61666999999999
+],
+  "geometry": {"coordinates":[9.65,59.61666999999999],"type":"Point"}
+}

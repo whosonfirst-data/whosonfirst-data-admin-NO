@@ -1,0 +1,75 @@
+{
+  "id": 1327003167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.53333,61.11667,5.53333,61.11667",
+    "geom:latitude":61.11667,
+    "geom:longitude":5.53333,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1416.0",
+    "gn:asciiname":"Ringereid",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141843,
+    "gn:latitude":61.11667,
+    "gn:longitude":5.53333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ringereid",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ringereide",
+        "Ringerejde",
+        "Ringreide",
+        "Ringereid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297023,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141843
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"185f1058ac092ab8a954430427d8b9ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297023,
+            "locality_id":1327003167,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1327003167,
+    "wof:lastmodified":1537675740,
+    "wof:name":"Ringereid",
+    "wof:parent_id":1159297023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.53333,
+    61.11666999999999,
+    5.53333,
+    61.11666999999999
+],
+  "geometry": {"coordinates":[5.53333,61.11666999999999],"type":"Point"}
+}

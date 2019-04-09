@@ -1,0 +1,68 @@
+{
+  "id": 1242946733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.38333,58.66667,6.38333,58.66667",
+    "geom:latitude":58.66667,
+    "geom:longitude":6.38333,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1114.0",
+    "gn:asciiname":"Eik",
+    "gn:country_code":"NO",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3158584,
+    "gn:latitude":58.66667,
+    "gn:longitude":6.38333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Eik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297601,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3158584
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"edcf31370cf6cf776402ae7232d5463c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297601,
+            "locality_id":1242946733,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1242946733,
+    "wof:lastmodified":1537027916,
+    "wof:name":"Eik",
+    "wof:parent_id":1159297601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.38333,
+    58.66667,
+    6.38333,
+    58.66667
+],
+  "geometry": {"coordinates":[6.38333,58.66667],"type":"Point"}
+}

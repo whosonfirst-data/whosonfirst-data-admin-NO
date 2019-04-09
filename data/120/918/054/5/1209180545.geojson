@@ -1,0 +1,62 @@
+{
+  "id": 1209180545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.65278,69.685,18.65278,69.685",
+    "geom:latitude":69.685,
+    "geom:longitude":18.65278,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1902.0",
+    "gn:asciiname":"Henrikvik",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3152948,
+    "gn:latitude":69.685,
+    "gn:longitude":18.65278,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Henrikvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3152948
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9f2a8dda2716246050233619ce9be5f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209180545
+        }
+    ],
+    "wof:id":1209180545,
+    "wof:lastmodified":1536295274,
+    "wof:name":"Henrikvik",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.65278,
+    69.685,
+    18.65278,
+    69.685
+],
+  "geometry": {"coordinates":[18.65278,69.685],"type":"Point"}
+}

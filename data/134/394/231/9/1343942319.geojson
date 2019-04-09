@@ -1,0 +1,67 @@
+{
+  "id": 1343942319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.76966,66.22555,12.76966,66.22555",
+    "geom:latitude":66.22555,
+    "geom:longitude":12.76966,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1828.0",
+    "gn:asciiname":"Husby",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3151392,
+    "gn:latitude":66.22555,
+    "gn:longitude":12.76966,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Husby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297235,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3151392,
+        "wk:page":"Husby%2C_Norway"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5ba588ee3080f789d75295f9a5008f0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297235,
+            "locality_id":1343942319,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1343942319,
+    "wof:lastmodified":1537570092,
+    "wof:name":"Husby",
+    "wof:parent_id":1159297235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.76966,
+    66.22555,
+    12.76966,
+    66.22555
+],
+  "geometry": {"coordinates":[12.76966,66.22555],"type":"Point"}
+}

@@ -1,0 +1,126 @@
+{
+  "id": 101814713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00031,
+    "geom:area_square_m":1330394.095626,
+    "geom:bbox":"29.9728864918,69.6814542894,30.0127803398,69.6992060478",
+    "geom:latitude":69.691349,
+    "geom:longitude":29.994128,
+    "iso:country":"NO",
+    "lbl:latitude":69.690034,
+    "lbl:longitude":29.99443,
+    "mps:latitude":69.690034,
+    "mps:longitude":29.99443,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Hesseng"
+    ],
+    "name:dut_x_preferred":[
+        "Hesseng"
+    ],
+    "name:eng_x_preferred":[
+        "Hesseng"
+    ],
+    "name:fra_x_preferred":[
+        "Hesseng"
+    ],
+    "name:fre_x_preferred":[
+        "Hesseng"
+    ],
+    "name:jav_x_preferred":[
+        "Hesseng"
+    ],
+    "name:may_x_preferred":[
+        "Hesseng"
+    ],
+    "name:msa_x_preferred":[
+        "Hesseng"
+    ],
+    "name:nld_x_preferred":[
+        "Hesseng"
+    ],
+    "name:nno_x_preferred":[
+        "Hesseng"
+    ],
+    "name:nob_x_preferred":[
+        "Hesseng"
+    ],
+    "name:nor_x_preferred":[
+        "Hesseng"
+    ],
+    "name:ron_x_preferred":[
+        "Hesseng"
+    ],
+    "name:rum_x_preferred":[
+        "Hesseng"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0435\u0441\u0441\u0435\u043d\u0433"
+    ],
+    "name:swe_x_preferred":[
+        "Hesseng"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Finnmark",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"S\u00f8r-Varanger",
+    "qs:la_lc":"*NO2030",
+    "qs:level":"locality",
+    "qs:loc":"Hesseng",
+    "qs:loc_alt":"Hesseng",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":120,
+    "wof:belongsto":[
+        102191581,
+        1159296947,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15000774,
+        "qs:id":1,
+        "qs_pg:id":481405,
+        "wd:id":"Q2656931"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d213d3e34ae1e18174cf1fc618f4c72a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296947,
+            "locality_id":101814713,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":101814713,
+    "wof:lastmodified":1529699906,
+    "wof:name":"Hesseng",
+    "wof:parent_id":1159296947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.97288649182872,
+    69.68145428941142,
+    30.01278033981504,
+    69.69920604782561
+],
+  "geometry": {"coordinates":[[[30.01116207471409,69.69868445515823],[30.0103424879153,69.69782297681411],[30.01278033981504,69.6975621459091],[30.01114120896227,69.69583920246203],[30.00870352782482,69.69610001066212],[29.99723877249289,69.68403889458097],[30.00211168966666,69.68351756524004],[30.00129314100275,69.68265605600646],[29.99885679554546,69.68291672463681],[29.99803840319566,69.68205520091703],[29.99560208734971,69.68231582761416],[29.99478385130067,69.68145428941142],[29.99234756507815,69.68171487417726],[29.99398393760254,69.68343797010721],[29.99154742512542,69.68369854694504],[29.99236563259808,69.68456010152772],[29.98261868478562,69.68560214820224],[29.98425463012148,69.68732533860754],[29.9818175833185,69.68758579642963],[29.98263557714301,69.68844739825221],[29.97288649182872,69.68948896876702],[29.97452200944747,69.69121225364324],[29.97695953506047,69.69095188427167],[29.97859550754578,69.69267513392646],[29.98347073334253,69.69215425800365],[29.98674421413079,69.69560062892276],[29.99161990035213,69.69507953982912],[29.99407626980025,69.6976642169459],[29.99163819830409,69.69792481082999],[29.99245704492182,69.6987863749178],[29.99733330301052,69.69826513383924],[29.99815239161188,69.69912667208723],[30.00546661674144,69.69834454677698],[30.00628603274032,69.69920604782561],[30.01116207471409,69.69868445515823]]],"type":"Polygon"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209246499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1,70.68333,27.1,70.68333",
+    "geom:latitude":70.68333,
+    "geom:longitude":27.1,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2022.0",
+    "gn:asciiname":"Hamnnes",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":779671,
+    "gn:latitude":70.68333,
+    "gn:longitude":27.1,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hamnnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Hamnnes"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043c\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":779671
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c4a9aa4965a9b870aede4ec5678c4903",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209246499
+        }
+    ],
+    "wof:id":1209246499,
+    "wof:lastmodified":1537675661,
+    "wof:name":"Hamnnes",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1,
+    70.68333,
+    27.1,
+    70.68333
+],
+  "geometry": {"coordinates":[27.1,70.68333],"type":"Point"}
+}

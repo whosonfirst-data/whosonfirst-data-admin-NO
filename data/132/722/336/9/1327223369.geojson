@@ -1,0 +1,72 @@
+{
+  "id": 1327223369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.95448,68.25951,15.95448,68.25951",
+    "geom:latitude":68.25951,
+    "geom:longitude":15.95448,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1850.0",
+    "gn:asciiname":"Tysnes",
+    "gn:country_code":"NO",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3133473,
+    "gn:latitude":68.25951,
+    "gn:longitude":15.95448,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Tysnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Tysnes"
+    ],
+    "name:smj_x_preferred":[
+        "Diksn\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297109,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3133473
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5e11994ed55998ecee63eea4e425c9c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297109,
+            "locality_id":1327223369,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1327223369,
+    "wof:lastmodified":1537675688,
+    "wof:name":"Tysnes",
+    "wof:parent_id":1159297109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.95448,
+    68.25950999999999,
+    15.95448,
+    68.25950999999999
+],
+  "geometry": {"coordinates":[15.95448,68.25950999999999],"type":"Point"}
+}

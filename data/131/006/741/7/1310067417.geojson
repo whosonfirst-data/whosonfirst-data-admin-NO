@@ -1,0 +1,69 @@
+{
+  "id": 1310067417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.22656,59.19226,10.22656,59.19226",
+    "geom:latitude":59.19226,
+    "geom:longitude":10.22656,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"710.0",
+    "gn:asciiname":"Fevang",
+    "gn:country_code":"NO",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3157682,
+    "gn:latitude":59.19226,
+    "gn:longitude":10.22656,
+    "gn:modification_date":"2017-09-20",
+    "gn:name":"Fevang",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297193,
+        85633341,
+        85687073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3157682,
+        "wk:page":"Fevang"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"865e2b687223de25bfa2aa4a4349d14a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297193,
+            "locality_id":1310067417,
+            "region_id":85687073
+        }
+    ],
+    "wof:id":1310067417,
+    "wof:lastmodified":1537570101,
+    "wof:name":"Fevang",
+    "wof:parent_id":1159297193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.22656,
+    59.19226,
+    10.22656,
+    59.19226
+],
+  "geometry": {"coordinates":[10.22656,59.19226],"type":"Point"}
+}

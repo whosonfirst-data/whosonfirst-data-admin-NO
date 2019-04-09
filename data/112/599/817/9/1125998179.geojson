@@ -1,0 +1,104 @@
+{
+  "id": 1125998179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.347098,62.228955,8.347098,62.228955",
+    "geom:latitude":62.228955,
+    "geom:longitude":8.347098,
+    "gn:gn_country":null,
+    "iso:country":"NO",
+    "lbl:latitude":62.228955,
+    "lbl:longitude":8.347098,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Lesjaskog"
+    ],
+    "name:eng_x_preferred":[
+        "Lesjaskog"
+    ],
+    "name:fre_x_preferred":[
+        "Lesjaskog"
+    ],
+    "name:jav_x_preferred":[
+        "Lesjaskog"
+    ],
+    "name:may_x_preferred":[
+        "Lesjaskog"
+    ],
+    "name:nno_x_preferred":[
+        "Lesjaskog"
+    ],
+    "name:nob_x_preferred":[
+        "Lesjaskog"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Lesjaskog",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Oppland Fylke",
+    "qs_pg:photos":54,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":54,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1089996,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":861290,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Oppland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297151,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":861290,
+        "qs_pg:id":1089996,
+        "wd:id":"Q4583151"
+    },
+    "wof:country":"NO",
+    "wof:created":1497299488,
+    "wof:geomhash":"d13c144e51aa1c60b9907dda22515c38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297151,
+            "locality_id":1125998179,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1125998179,
+    "wof:lastmodified":1529700248,
+    "wof:name":"Lesjaskog",
+    "wof:parent_id":1159297151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.347098,
+    62.228955,
+    8.347098,
+    62.228955
+],
+  "geometry": {"coordinates":[8.347098,62.228955],"type":"Point"}
+}

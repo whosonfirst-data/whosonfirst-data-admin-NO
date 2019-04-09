@@ -1,0 +1,68 @@
+{
+  "id": 1259646905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.96667,69.91667,20.96667,69.91667",
+    "geom:latitude":69.91667,
+    "geom:longitude":20.96667,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1942.0",
+    "gn:asciiname":"Ytre Eide",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":776841,
+    "gn:latitude":69.91667,
+    "gn:longitude":20.96667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Ytre Eide",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297593,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":776841
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"efeca0ab9058020c9987ec16ad06b3d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297593,
+            "locality_id":1259646905,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1259646905,
+    "wof:lastmodified":1536621383,
+    "wof:name":"Ytre Eide",
+    "wof:parent_id":1159297593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.96667,
+    69.91667,
+    20.96667,
+    69.91667
+],
+  "geometry": {"coordinates":[20.96667,69.91667],"type":"Point"}
+}

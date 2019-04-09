@@ -1,0 +1,72 @@
+{
+  "id": 1293222853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.20084,60.84697,11.20084,60.84697",
+    "geom:latitude":60.84697,
+    "geom:longitude":11.20084,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"403",
+    "gn:asciiname":"Slemsrud",
+    "gn:country_code":"NO",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404179,
+    "gn:latitude":60.84697,
+    "gn:longitude":11.20084,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Slemsrud",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Slemsrud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297089,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404179,
+        "wk:page":"Vangs%C3%A5s"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"626110ae252c91aecd2113e7d53a4289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297089,
+            "locality_id":1293222853,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1293222853,
+    "wof:lastmodified":1537675920,
+    "wof:name":"Slemsrud",
+    "wof:parent_id":1159297089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.20084,
+    60.84697,
+    11.20084,
+    60.84697
+],
+  "geometry": {"coordinates":[11.20084,60.84697],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310068865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.61163,69.11159,18.61163,69.11159",
+    "geom:latitude":69.11159,
+    "geom:longitude":18.61163,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1924.0",
+    "gn:asciiname":"Fleskmoen",
+    "gn:country_code":"NO",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3157046,
+    "gn:latitude":69.11159,
+    "gn:longitude":18.61163,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Fleskmoen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296775,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3157046
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"eb44ed20de5f37081c9259faf1a30a89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296775,
+            "locality_id":1310068865,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1310068865,
+    "wof:lastmodified":1537047492,
+    "wof:name":"Fleskmoen",
+    "wof:parent_id":1159296775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.61163,
+    69.11159,
+    18.61163,
+    69.11159
+],
+  "geometry": {"coordinates":[18.61163,69.11159000000001],"type":"Point"}
+}

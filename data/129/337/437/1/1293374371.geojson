@@ -1,0 +1,72 @@
+{
+  "id": 1293374371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.10628,68.12238,16.10628,68.12238",
+    "geom:latitude":68.12238,
+    "geom:longitude":16.10628,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1850.0",
+    "gn:asciiname":"Biesseluokta",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537253,
+    "gn:latitude":68.12238,
+    "gn:longitude":16.10628,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Biesseluokta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Nevervika"
+    ],
+    "name:smj_x_preferred":[
+        "Biesseluokta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297109,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537253
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2cf86b92a17f2e670cccb1debf100bb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297109,
+            "locality_id":1293374371,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1293374371,
+    "wof:lastmodified":1537676003,
+    "wof:name":"Biesseluokta",
+    "wof:parent_id":1159297109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.10628,
+    68.12238,
+    16.10628,
+    68.12238
+],
+  "geometry": {"coordinates":[16.10628,68.12238000000001],"type":"Point"}
+}

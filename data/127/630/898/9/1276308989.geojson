@@ -1,0 +1,68 @@
+{
+  "id": 1276308989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.01667,59.88333,9.01667,59.88333",
+    "geom:latitude":59.88333,
+    "geom:longitude":9.01667,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"826.0",
+    "gn:asciiname":"Rui",
+    "gn:country_code":"NO",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3140974,
+    "gn:latitude":59.88333,
+    "gn:longitude":9.01667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Rui",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297269,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3140974
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"fd0fb417ab543b5a54f569f639223ba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297269,
+            "locality_id":1276308989,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1276308989,
+    "wof:lastmodified":1536810851,
+    "wof:name":"Rui",
+    "wof:parent_id":1159297269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.01667,
+    59.88333000000001,
+    9.01667,
+    59.88333000000001
+],
+  "geometry": {"coordinates":[9.01667,59.88333000000001],"type":"Point"}
+}

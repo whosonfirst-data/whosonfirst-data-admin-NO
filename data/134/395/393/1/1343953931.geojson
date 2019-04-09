@@ -1,0 +1,73 @@
+{
+  "id": 1343953931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.74521,64.01362,11.74521,64.01362",
+    "geom:latitude":64.01362,
+    "geom:longitude":11.74521,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5004.0",
+    "gn:asciiname":"Stoa",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3136754,
+    "gn:latitude":64.01362,
+    "gn:longitude":11.74521,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"St\u00f8a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "St\u00f6en",
+        "St\u00f8a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296907,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3136754
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2c26cd40bdb7cc37eae85ad9d1d60569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296907,
+            "locality_id":1343953931,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1343953931,
+    "wof:lastmodified":1537675706,
+    "wof:name":"Stoa",
+    "wof:parent_id":1159296907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.74521,
+    64.01361999999999,
+    11.74521,
+    64.01361999999999
+],
+  "geometry": {"coordinates":[11.74521,64.01361999999999],"type":"Point"}
+}

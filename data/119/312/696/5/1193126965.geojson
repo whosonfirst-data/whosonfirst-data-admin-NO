@@ -1,0 +1,71 @@
+{
+  "id": 1193126965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.95805,65.32603,12.95805,65.32603",
+    "geom:latitude":65.32603,
+    "geom:longitude":12.95805,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1813.0",
+    "gn:asciiname":"Tosbotn",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3134161,
+    "gn:latitude":65.32603,
+    "gn:longitude":12.95805,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Tosbotn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tosbotnet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297445,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3134161,
+        "wk:page":"Tosbotn"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"002d1b6a477aeabf26436195303931d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297445,
+            "locality_id":1193126965,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1193126965,
+    "wof:lastmodified":1537675691,
+    "wof:name":"Tosbotn",
+    "wof:parent_id":1159297445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.95805,
+    65.32603,
+    12.95805,
+    65.32603
+],
+  "geometry": {"coordinates":[12.95805,65.32603],"type":"Point"}
+}

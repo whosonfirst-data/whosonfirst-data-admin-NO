@@ -1,0 +1,71 @@
+{
+  "id": 1226034787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.35292,65.9334,12.35292,65.9334",
+    "geom:latitude":65.9334,
+    "geom:longitude":12.35292,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1820.0",
+    "gn:asciiname":"Austbo",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3162352,
+    "gn:latitude":65.9334,
+    "gn:longitude":12.35292,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Austb\u00f8",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Austb\u00f8 i Helgeland",
+        "Austb\u00f8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297007,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3162352
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"bfbd5ed235cead7b160276799a8f4209",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297007,
+            "locality_id":1226034787,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1226034787,
+    "wof:lastmodified":1537675881,
+    "wof:name":"Austbo",
+    "wof:parent_id":1159297007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.35292,
+    65.9334,
+    12.35292,
+    65.9334
+],
+  "geometry": {"coordinates":[12.35292,65.93340000000001],"type":"Point"}
+}

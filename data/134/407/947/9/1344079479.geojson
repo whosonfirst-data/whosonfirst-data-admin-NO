@@ -1,0 +1,85 @@
+{
+  "id": 1344079479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.20888,69.44479,25.20888,69.44479",
+    "geom:latitude":69.44479,
+    "geom:longitude":25.20888,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2021.0",
+    "gn:asciiname":"Kentan",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":779320,
+    "gn:latitude":69.44479,
+    "gn:longitude":25.20888,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Kent\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kentan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u043d\u0442\u0430\u043d"
+    ],
+    "name:sme_x_preferred":[
+        "Kent\u00e1n"
+    ],
+    "name:sme_x_variant":[
+        "Kentan"
+    ],
+    "name:und_x_variant":[
+        "Kenttan",
+        "Kentan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296871,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":779320
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a0702b8a846c0367675044f2371f4f1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296871,
+            "locality_id":1344079479,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1344079479,
+    "wof:lastmodified":1537675657,
+    "wof:name":"Kentan",
+    "wof:parent_id":1159296871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.20888,
+    69.44479,
+    25.20888,
+    69.44479
+],
+  "geometry": {"coordinates":[25.20888,69.44479],"type":"Point"}
+}

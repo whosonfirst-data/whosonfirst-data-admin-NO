@@ -1,0 +1,116 @@
+{
+  "id": 1125829123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.58889,68.36806,17.58889,68.36806",
+    "geom:latitude":68.36806,
+    "geom:longitude":17.58889,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":589,
+    "gn:population":589,
+    "iso:country":"NO",
+    "lbl:latitude":68.36806,
+    "lbl:longitude":17.58889,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Beisfjord"
+    ],
+    "name:eng_x_preferred":[
+        "Beisfjord"
+    ],
+    "name:fin_x_preferred":[
+        "Beisfjord"
+    ],
+    "name:fre_x_preferred":[
+        "Beisfjord"
+    ],
+    "name:jav_x_preferred":[
+        "Beisfjord"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30a4\u30b9\u30d5\u30a3\u30e8\u30eb\u30c9"
+    ],
+    "name:may_x_preferred":[
+        "Beisfjord"
+    ],
+    "name:nno_x_preferred":[
+        "Beisfjord"
+    ],
+    "name:nob_x_preferred":[
+        "Beisfjord"
+    ],
+    "name:rum_x_preferred":[
+        "Beisfjord"
+    ],
+    "name:sme_x_preferred":[
+        "U\u0161m\u00e1"
+    ],
+    "name:swe_x_preferred":[
+        "Beisfjord"
+    ],
+    "name:unk_x_variant":[
+        "Beisfjord i Ofoten"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3161929,
+    "qs_pg:gn_pop":589,
+    "qs_pg:name":"Beisfjord",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":581149,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        1159297203,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3161929,
+        "qs_pg:id":581149,
+        "wd:id":"Q2394430"
+    },
+    "wof:country":"NO",
+    "wof:created":1497292412,
+    "wof:geomhash":"612a9961888cdf136bfd6a038bef6cc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297203,
+            "locality_id":1125829123,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1125829123,
+    "wof:lastmodified":1529700177,
+    "wof:name":"Beisfjord",
+    "wof:parent_id":1159297203,
+    "wof:placetype":"locality",
+    "wof:population":589,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.58889,
+    68.36806,
+    17.58889,
+    68.36806
+],
+  "geometry": {"coordinates":[17.58889,68.36806],"type":"Point"}
+}

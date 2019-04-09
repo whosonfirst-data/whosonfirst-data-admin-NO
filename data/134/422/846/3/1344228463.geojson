@@ -1,0 +1,71 @@
+{
+  "id": 1344228463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.98115,59.73509,8.98115,59.73509",
+    "geom:latitude":59.73509,
+    "geom:longitude":8.98115,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"807.0",
+    "gn:asciiname":"Venas",
+    "gn:country_code":"NO",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537781,
+    "gn:latitude":59.73509,
+    "gn:longitude":8.98115,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Ven\u00e5s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Ven\u00e5s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297293,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537781
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"61844734369d2f3a34a5c35db61bdce9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297293,
+            "locality_id":1344228463,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1344228463,
+    "wof:lastmodified":1537676027,
+    "wof:name":"Venas",
+    "wof:parent_id":1159297293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.98115,
+    59.73509,
+    8.98115,
+    59.73509
+],
+  "geometry": {"coordinates":[8.98115,59.73509],"type":"Point"}
+}

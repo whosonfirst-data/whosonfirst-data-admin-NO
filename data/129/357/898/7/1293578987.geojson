@@ -1,0 +1,71 @@
+{
+  "id": 1293578987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.47621,67.45413,15.47621,67.45413",
+    "geom:latitude":67.45413,
+    "geom:longitude":15.47621,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1845.0",
+    "gn:asciiname":"Anunsvik",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3163021,
+    "gn:latitude":67.45413,
+    "gn:longitude":15.47621,
+    "gn:modification_date":"2014-05-29",
+    "gn:name":"\u00c5nunsvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aansvik",
+        "\u00c5nsvik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296959,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3163021
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"66cff063df78db73fabf9c0f9f17bb95",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296959,
+            "locality_id":1293578987,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1293578987,
+    "wof:lastmodified":1537675889,
+    "wof:name":"Anunsvik",
+    "wof:parent_id":1159296959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.47621,
+    67.45413,
+    15.47621,
+    67.45413
+],
+  "geometry": {"coordinates":[15.47621,67.45413000000001],"type":"Point"}
+}

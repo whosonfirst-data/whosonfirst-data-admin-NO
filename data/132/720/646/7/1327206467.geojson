@@ -1,0 +1,71 @@
+{
+  "id": 1327206467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.56667,63.7,8.56667,63.7",
+    "geom:latitude":63.7,
+    "geom:longitude":8.56667,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5014.0",
+    "gn:asciiname":"Volden",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3131444,
+    "gn:latitude":63.7,
+    "gn:longitude":8.56667,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Volden",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vollen",
+        "Volden"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297521,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3131444
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6da20e309e65bbfbf3386b52d22cd1a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297521,
+            "locality_id":1327206467,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1327206467,
+    "wof:lastmodified":1537675673,
+    "wof:name":"Volden",
+    "wof:parent_id":1159297521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.56667,
+    63.7,
+    8.56667,
+    63.7
+],
+  "geometry": {"coordinates":[8.56667,63.7],"type":"Point"}
+}

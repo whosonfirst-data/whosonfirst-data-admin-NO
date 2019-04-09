@@ -1,0 +1,68 @@
+{
+  "id": 1310693875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.78333,60.65,11.78333,60.65",
+    "geom:latitude":60.65,
+    "geom:longitude":11.78333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"426.0",
+    "gn:asciiname":"Smerud",
+    "gn:country_code":"NO",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3138130,
+    "gn:latitude":60.65,
+    "gn:longitude":11.78333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Smerud",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297171,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3138130
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"de752e5da090bed209c469efd06fa01d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297171,
+            "locality_id":1310693875,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1310693875,
+    "wof:lastmodified":1536644575,
+    "wof:name":"Smerud",
+    "wof:parent_id":1159297171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.78333,
+    60.65,
+    11.78333,
+    60.65
+],
+  "geometry": {"coordinates":[11.78333,60.65],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1343231755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.79207,63.75866,9.79207,63.75866",
+    "geom:latitude":63.75866,
+    "geom:longitude":9.79207,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5017.0",
+    "gn:asciiname":"Klakkagrenda",
+    "gn:country_code":"NO",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536637,
+    "gn:latitude":63.75866,
+    "gn:longitude":9.79207,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Klakkagrenda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Klakkagrenda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297367,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536637
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"cbaf0197d2a906365a39794627672088",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297367,
+            "locality_id":1343231755,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1343231755,
+    "wof:lastmodified":1537675977,
+    "wof:name":"Klakkagrenda",
+    "wof:parent_id":1159297367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.79207,
+    63.75866,
+    9.79207,
+    63.75866
+],
+  "geometry": {"coordinates":[9.79207,63.75866],"type":"Point"}
+}

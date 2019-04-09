@@ -1,0 +1,68 @@
+{
+  "id": 1243326041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.90661,58.62575,6.90661,58.62575",
+    "geom:latitude":58.62575,
+    "geom:longitude":6.90661,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1037.0",
+    "gn:asciiname":"Netland",
+    "gn:country_code":"NO",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3144621,
+    "gn:latitude":58.62575,
+    "gn:longitude":6.90661,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Netland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296929,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3144621
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4c3bda7de4c8b15d6551f54c9142a513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296929,
+            "locality_id":1243326041,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1243326041,
+    "wof:lastmodified":1536978685,
+    "wof:name":"Netland",
+    "wof:parent_id":1159296929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.90661,
+    58.62575,
+    6.90661,
+    58.62575
+],
+  "geometry": {"coordinates":[6.90661,58.62575],"type":"Point"}
+}

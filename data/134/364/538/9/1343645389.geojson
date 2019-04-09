@@ -1,0 +1,77 @@
+{
+  "id": 1343645389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.90093,63.44582,10.90093,63.44582",
+    "geom:latitude":63.44582,
+    "geom:longitude":10.90093,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5035.0",
+    "gn:asciiname":"Hell",
+    "gn:country_code":"NO",
+    "gn:dem":15,
+    "gn:elevation":"2.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3153158,
+    "gn:latitude":63.44582,
+    "gn:longitude":10.90093,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Hell",
+    "gn:population":968,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hel",
+        "Hell"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296711,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3153158,
+        "wk:page":"Hell%2C_Norway"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6bbe24df1dc2b503ec0cb628b470406c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296711,
+            "locality_id":1343645389,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1343645389,
+    "wof:lastmodified":1537675817,
+    "wof:name":"Hell",
+    "wof:parent_id":1159296711,
+    "wof:placetype":"locality",
+    "wof:population":968,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.90093,
+    63.44582,
+    10.90093,
+    63.44582
+],
+  "geometry": {"coordinates":[10.90093,63.44582],"type":"Point"}
+}

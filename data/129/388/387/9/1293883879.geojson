@@ -1,0 +1,74 @@
+{
+  "id": 1293883879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.30361,60.64711,9.30361,60.64711",
+    "geom:latitude":60.64711,
+    "geom:longitude":9.30361,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"616.0",
+    "gn:asciiname":"Bjornalia",
+    "gn:country_code":"NO",
+    "gn:dem":853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535694,
+    "gn:latitude":60.64711,
+    "gn:longitude":9.30361,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Bj\u00f8rnalia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Bj\u00f8rnalia"
+    ],
+    "name:nor_x_variant":[
+        "Bj\u00f8rnalie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296697,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535694
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c8951764692eebf97bc139750fbf52dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296697,
+            "locality_id":1293883879,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1293883879,
+    "wof:lastmodified":1537675937,
+    "wof:name":"Bjornalia",
+    "wof:parent_id":1159296697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.30361,
+    60.64711,
+    9.30361,
+    60.64711
+],
+  "geometry": {"coordinates":[9.30361,60.64711],"type":"Point"}
+}

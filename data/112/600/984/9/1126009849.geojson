@@ -1,0 +1,135 @@
+{
+  "id": 1126009849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.56667,60.11667,6.56667,60.11667",
+    "geom:latitude":60.11667,
+    "geom:longitude":6.56667,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":715,
+    "gn:population":715,
+    "iso:country":"NO",
+    "lbl:latitude":60.11667,
+    "lbl:longitude":6.56667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0422\u0439\u0441\u0435\u0434\u0430\u043b"
+    ],
+    "name:dan_x_preferred":[
+        "Tyssedal"
+    ],
+    "name:dut_x_preferred":[
+        "Tyssedal"
+    ],
+    "name:eng_x_preferred":[
+        "Tyssedal"
+    ],
+    "name:fre_x_preferred":[
+        "Tyssedal"
+    ],
+    "name:ger_x_preferred":[
+        "Tyssedal"
+    ],
+    "name:jav_x_preferred":[
+        "Tyssedal"
+    ],
+    "name:may_x_preferred":[
+        "Tyssedal"
+    ],
+    "name:nno_x_preferred":[
+        "Tyssedal"
+    ],
+    "name:nob_x_preferred":[
+        "Tyssedal"
+    ],
+    "name:rum_x_preferred":[
+        "Tyssedal"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u044e\u0441\u0441\u0435\u0434\u0430\u043b\u044c"
+    ],
+    "name:swe_x_preferred":[
+        "Tyssedal"
+    ],
+    "name:unk_x_variant":[
+        "Tysso"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3133459,
+    "qs_pg:gn_pop":715,
+    "qs_pg:name":"Tyssedal",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Hordaland Fylke",
+    "qs_pg:photos":163,
+    "qs_pg:photos_1k":33,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":163,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":245902,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":865287,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Hordaland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297489,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3133459,
+        "gp:id":865287,
+        "qs_pg:id":245902,
+        "wd:id":"Q1896342"
+    },
+    "wof:country":"NO",
+    "wof:created":1497300199,
+    "wof:geomhash":"4575cbd7364ca751e0fa2bf3d34c591a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297489,
+            "locality_id":1126009849,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1126009849,
+    "wof:lastmodified":1529700067,
+    "wof:name":"Tyssedal",
+    "wof:parent_id":1159297489,
+    "wof:placetype":"locality",
+    "wof:population":715,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.56667,
+    60.11667,
+    6.56667,
+    60.11667
+],
+  "geometry": {"coordinates":[6.56667,60.11667],"type":"Point"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 1125850889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.37148,65.087,12.37148,65.087",
+    "geom:latitude":65.087,
+    "geom:longitude":12.37148,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":623,
+    "gn:population":623,
+    "iso:country":"NO",
+    "lbl:latitude":65.087,
+    "lbl:longitude":12.37148,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Terr\u00e5k"
+    ],
+    "name:eng_x_preferred":[
+        "Terr\u00e5k"
+    ],
+    "name:fre_x_preferred":[
+        "Terr\u00e5k"
+    ],
+    "name:jav_x_preferred":[
+        "Terr\u00e5k"
+    ],
+    "name:may_x_preferred":[
+        "Terr\u00e5k"
+    ],
+    "name:nno_x_preferred":[
+        "Terr\u00e5k"
+    ],
+    "name:nob_x_preferred":[
+        "Terr\u00e5k"
+    ],
+    "name:rum_x_preferred":[
+        "Terr\u00e5k"
+    ],
+    "name:unk_x_variant":[
+        "Terraak"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":3134658,
+    "qs_pg:gn_pop":623,
+    "qs_pg:name":"Terr\u00e5k",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":581037,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        1159296909,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3134658,
+        "qs_pg:id":581037,
+        "wd:id":"Q2254214"
+    },
+    "wof:country":"NO",
+    "wof:created":1497293397,
+    "wof:geomhash":"75e15504902d86ae5e3f24aa7c37e0e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296909,
+            "locality_id":1125850889,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1125850889,
+    "wof:lastmodified":1529700161,
+    "wof:name":"Terr\u00e5k",
+    "wof:parent_id":1159296909,
+    "wof:placetype":"locality",
+    "wof:population":623,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.37148,
+    65.087,
+    12.37148,
+    65.087
+],
+  "geometry": {"coordinates":[12.37148,65.087],"type":"Point"}
+}

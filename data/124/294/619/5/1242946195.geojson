@@ -1,0 +1,73 @@
+{
+  "id": 1242946195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.68333,61.06667,5.68333,61.06667",
+    "geom:latitude":61.06667,
+    "geom:longitude":5.68333,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1416.0",
+    "gn:asciiname":"Ystrebo",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3131255,
+    "gn:latitude":61.06667,
+    "gn:longitude":5.68333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ystreb\u00f8",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00d6ystreb\u00f6",
+        "Ystreb\u00f8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297023,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3131255
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"36caaebfa5e4f3ccbe8bf8ed901d6074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297023,
+            "locality_id":1242946195,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1242946195,
+    "wof:lastmodified":1537675671,
+    "wof:name":"Ystrebo",
+    "wof:parent_id":1159297023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.68333,
+    61.06667,
+    5.68333,
+    61.06667
+],
+  "geometry": {"coordinates":[5.68333,61.06667],"type":"Point"}
+}

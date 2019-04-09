@@ -1,0 +1,85 @@
+{
+  "id": 1310700911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.13518,70.50411,30.13518,70.50411",
+    "geom:latitude":70.50411,
+    "geom:longitude":30.13518,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2028.0",
+    "gn:asciiname":"Uhcoarddojohka",
+    "gn:country_code":"NO",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":778309,
+    "gn:latitude":70.50411,
+    "gn:longitude":30.13518,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Uhcoarddojohka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u00d8sterelv"
+    ],
+    "name:nor_x_preferred":[
+        "Austerelva"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0443\u0441\u0442\u0435\u0440\u044d\u043b\u044c\u0432"
+    ],
+    "name:sme_x_preferred":[
+        "Uhcoarddojohka"
+    ],
+    "name:und_x_variant":[
+        "Austerelv",
+        "\u00d8sterelv",
+        "Uccoarduj\u00e5kka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297303,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":778309
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"35de4f7bfd3e56d874fc4bb51f72e4cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297303,
+            "locality_id":1310700911,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1310700911,
+    "wof:lastmodified":1537675648,
+    "wof:name":"Uhcoarddojohka",
+    "wof:parent_id":1159297303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.13518,
+    70.50411,
+    30.13518,
+    70.50411
+],
+  "geometry": {"coordinates":[30.13518,70.50411],"type":"Point"}
+}

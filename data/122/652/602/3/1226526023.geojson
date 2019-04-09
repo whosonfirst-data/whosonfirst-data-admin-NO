@@ -1,0 +1,73 @@
+{
+  "id": 1226526023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.18333,63.71667,11.18333,63.71667",
+    "geom:latitude":63.71667,
+    "geom:longitude":11.18333,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5037.0",
+    "gn:asciiname":"Holsand",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3152058,
+    "gn:latitude":63.71667,
+    "gn:longitude":11.18333,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Holsand",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Holsanden",
+        "Holsand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297125,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3152058
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"471dc10ecf0002b438636a3e6bf73555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297125,
+            "locality_id":1226526023,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1226526023,
+    "wof:lastmodified":1537675810,
+    "wof:name":"Holsand",
+    "wof:parent_id":1159297125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.18333,
+    63.71666999999999,
+    11.18333,
+    63.71666999999999
+],
+  "geometry": {"coordinates":[11.18333,63.71666999999999],"type":"Point"}
+}

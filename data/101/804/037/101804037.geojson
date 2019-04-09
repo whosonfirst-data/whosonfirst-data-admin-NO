@@ -1,0 +1,142 @@
+{
+  "id": 101804037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000336,
+    "geom:area_square_m":1998436.489112,
+    "geom:bbox":"7.07293763259,61.2228485362,7.11952917929,61.2371306904",
+    "geom:latitude":61.230996,
+    "geom:longitude":7.09566,
+    "gn:population":6700,
+    "iso:country":"NO",
+    "lbl:latitude":61.230041,
+    "lbl:longitude":7.095307,
+    "mps:latitude":61.230041,
+    "mps:longitude":7.095307,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u09b8\u09cb\u0997\u09cd\u09a8\u09a1\u09be\u09b2"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u043e\u0433\u043d\u0434\u0430\u043b\u0441\u0444\u044c\u043e\u0440\u0430"
+    ],
+    "name:lit_x_preferred":[
+        "Sogndalis"
+    ],
+    "name:msa_x_preferred":[
+        "Sogndalsfj\u00f8ra"
+    ],
+    "name:nds_x_preferred":[
+        "Kommun Sogndal"
+    ],
+    "name:nld_x_preferred":[
+        "Sogndalsfj\u00f8ra"
+    ],
+    "name:nno_x_preferred":[
+        "Sogndalsfj\u00f8ra"
+    ],
+    "name:nno_x_variant":[
+        "Sogndal"
+    ],
+    "name:nor_x_colloquial":[
+        "Sogndalsfjaera",
+        "Sogndalsfjaeras",
+        "Sogndalsfjoera",
+        "Sogndalsfjoeras",
+        "Sogndalsfjora",
+        "Sogndalsfjoras"
+    ],
+    "name:nor_x_preferred":[
+        "Sogndalsfj\u00f8ra"
+    ],
+    "name:nor_x_variant":[
+        "Sogndalsfj\u00e6ra",
+        "Sogndalsfj\u00e6ras",
+        "Sogndalsfj\u00f8ras"
+    ],
+    "name:ron_x_preferred":[
+        "Sogndalsfj\u00f8ra"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0433\u0434\u0430\u043b\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u043e\u0433\u043d\u0434\u0430\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Sogndal"
+    ],
+    "name:zho_x_preferred":[
+        "\u677e\u9054\u723e"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Sogn og Fjordane",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"Sogndal",
+    "qs:la_lc":"*NO1420",
+    "qs:level":"locality",
+    "qs:loc":"Sogndalsfj\u00f8ra",
+    "qs:loc_alt":"Sogndalsfjoera",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":226,
+    "wof:belongsto":[
+        102191581,
+        1159297581,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01fe7c68-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":7288345,
+        "gp:id":864069,
+        "qs:id":906622,
+        "qs_pg:id":906622,
+        "wd:id":"Q2148657"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"76ea95df01e6ddf8076cc4b9d0fc0e28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297581,
+            "locality_id":101804037,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":101804037,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1529699932,
+    "wof:name":"Sogndalsfj\u00f8ra",
+    "wof:parent_id":1159297581,
+    "wof:placetype":"locality",
+    "wof:population":6700,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.07293763258673,
+    61.22284853617464,
+    7.11952917928937,
+    61.23713069035551
+],
+  "geometry": {"coordinates":[[[7.08929830601858,61.23713069035551],[7.08937959440931,61.23623110854027],[7.09679622813252,61.23637927234716],[7.09687730475559,61.23547968628236],[7.11171035216819,61.2357748713232],[7.11179101051056,61.23487527638684],[7.11735331453133,61.23498557774548],[7.11743381278649,61.23408597975117],[7.11928787049101,61.23412269849729],[7.11952917928937,61.23142390350785],[7.11582137762957,61.2313504493344],[7.11574084329709,61.23225004494554],[7.10647115104439,61.23206599061342],[7.106632730716,61.23026681137088],[7.10477890752287,61.23022993200215],[7.10542543105822,61.2230332406512],[7.09615843933915,61.22284853617464],[7.09607738415724,61.22374811535946],[7.09237051243173,61.22367406604843],[7.09228934885186,61.22457364331422],[7.09043586743928,61.22453658209474],[7.09027342141906,61.22633573552059],[7.08841984084756,61.22629864837],[7.08825727071365,61.22809780109617],[7.08640359097456,61.22806068801117],[7.0863222464539,61.22896026381966],[7.0807610766546,61.2288487794429],[7.080679572073,61.22974835215524],[7.07882580528599,61.22971114231967],[7.07874424384749,61.23061071427009],[7.07689042949818,61.23057347966005],[7.07672718763922,61.23237262244322],[7.07301936463733,61.23229807772259],[7.07293763258673,61.23319764738261],[7.07479159367978,61.23323493271795],[7.0747099079905,61.2341345039577],[7.08027197045976,61.23424622183387],[7.08010889307542,61.23604537256114],[7.08567130175112,61.2361568849775],[7.08558991008886,61.23705646445916],[7.08929830601858,61.23713069035551]]],"type":"Polygon"}
+}

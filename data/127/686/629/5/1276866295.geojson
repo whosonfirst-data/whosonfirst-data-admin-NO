@@ -1,0 +1,69 @@
+{
+  "id": 1276866295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.30237,66.00282,12.30237,66.00282",
+    "geom:latitude":66.00282,
+    "geom:longitude":12.30237,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1818.0",
+    "gn:asciiname":"Brunsvik",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536983,
+    "gn:latitude":66.00282,
+    "gn:longitude":12.30237,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Brunsvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Brunsvik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297331,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536983
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5937e9f1eba4073e2203fb39415e08f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297331,
+            "locality_id":1276866295,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1276866295,
+    "wof:lastmodified":1537675991,
+    "wof:name":"Brunsvik",
+    "wof:parent_id":1159297331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.30237,
+    66.00282,
+    12.30237,
+    66.00282
+],
+  "geometry": {"coordinates":[12.30237,66.00282],"type":"Point"}
+}

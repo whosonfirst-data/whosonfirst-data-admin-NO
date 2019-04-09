@@ -1,0 +1,73 @@
+{
+  "id": 1210014177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.62629,62.2029,10.62629,62.2029",
+    "geom:latitude":62.2029,
+    "geom:longitude":10.62629,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"438.0",
+    "gn:asciiname":"Strommen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3135729,
+    "gn:latitude":62.2029,
+    "gn:longitude":10.62629,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Str\u00f8mmen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Str\u00f8mmen",
+        "Straumen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296891,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3135729
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5c7e0651f8133eb620a3e7fbdf6675ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296891,
+            "locality_id":1210014177,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1210014177,
+    "wof:lastmodified":1537675700,
+    "wof:name":"Strommen",
+    "wof:parent_id":1159296891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.62629,
+    62.2029,
+    10.62629,
+    62.2029
+],
+  "geometry": {"coordinates":[10.62629,62.2029],"type":"Point"}
+}

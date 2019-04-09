@@ -1,0 +1,71 @@
+{
+  "id": 1327440433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.85573,58.49735,8.85573,58.49735",
+    "geom:latitude":58.49735,
+    "geom:longitude":8.85573,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"906.0",
+    "gn:asciiname":"Neskil",
+    "gn:country_code":"NO",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536617,
+    "gn:latitude":58.49735,
+    "gn:longitude":8.85573,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Neskil",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Neskil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297607,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536617
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"369a2080886317a923940736c5c13ff0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297607,
+            "locality_id":1327440433,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1327440433,
+    "wof:lastmodified":1537675977,
+    "wof:name":"Neskil",
+    "wof:parent_id":1159297607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.85573,
+    58.49735,
+    8.85573,
+    58.49735
+],
+  "geometry": {"coordinates":[8.85573,58.49735],"type":"Point"}
+}

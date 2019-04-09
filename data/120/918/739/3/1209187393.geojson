@@ -1,0 +1,62 @@
+{
+  "id": 1209187393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.05167,61.9475,5.05167,61.9475",
+    "geom:latitude":61.9475,
+    "geom:longitude":5.05167,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1439.0",
+    "gn:asciiname":"Nyborg",
+    "gn:country_code":"NO",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3223320,
+    "gn:latitude":61.9475,
+    "gn:longitude":5.05167,
+    "gn:modification_date":"2010-10-15",
+    "gn:name":"Nyborg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3223320
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2c0e94653040a9615d670ea0a9518268",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209187393
+        }
+    ],
+    "wof:id":1209187393,
+    "wof:lastmodified":1536295053,
+    "wof:name":"Nyborg",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.05167,
+    61.9475,
+    5.05167,
+    61.9475
+],
+  "geometry": {"coordinates":[5.05167,61.9475],"type":"Point"}
+}

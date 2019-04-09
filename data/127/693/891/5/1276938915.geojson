@@ -1,0 +1,71 @@
+{
+  "id": 1276938915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.43544,59.22858,10.43544,59.22858",
+    "geom:latitude":59.22858,
+    "geom:longitude":10.43544,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"729",
+    "gn:asciiname":"Brua",
+    "gn:country_code":"NO",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9403927,
+    "gn:latitude":59.22858,
+    "gn:longitude":10.43544,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Brua",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Brua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297071,
+        85633341,
+        85687073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9403927
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f6cd6501aba1306c8c92e2f23724e8fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297071,
+            "locality_id":1276938915,
+            "region_id":85687073
+        }
+    ],
+    "wof:id":1276938915,
+    "wof:lastmodified":1537675910,
+    "wof:name":"Brua",
+    "wof:parent_id":1159297071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.43544,
+    59.22858000000001,
+    10.43544,
+    59.22858000000001
+],
+  "geometry": {"coordinates":[10.43544,59.22858000000001],"type":"Point"}
+}

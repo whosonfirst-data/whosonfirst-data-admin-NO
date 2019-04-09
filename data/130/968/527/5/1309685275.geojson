@@ -1,0 +1,68 @@
+{
+  "id": 1309685275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.3,61.2,5.3,61.2",
+    "geom:latitude":61.2,
+    "geom:longitude":5.3,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1413.0",
+    "gn:asciiname":"Ronset",
+    "gn:country_code":"NO",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141360,
+    "gn:latitude":61.2,
+    "gn:longitude":5.3,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"R\u00f8nset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297157,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141360
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ab068852c5009a0c20bc2b1887649caf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297157,
+            "locality_id":1309685275,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1309685275,
+    "wof:lastmodified":1536604996,
+    "wof:name":"Ronset",
+    "wof:parent_id":1159297157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.3,
+    61.2,
+    5.3,
+    61.2
+],
+  "geometry": {"coordinates":[5.3,61.2],"type":"Point"}
+}

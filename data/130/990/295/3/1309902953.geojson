@@ -1,0 +1,75 @@
+{
+  "id": 1309902953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.57797,62.54314,6.57797,62.54314",
+    "geom:latitude":62.54314,
+    "geom:longitude":6.57797,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1534.0",
+    "gn:asciiname":"Eidsvik",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3158610,
+    "gn:latitude":62.54314,
+    "gn:longitude":6.57797,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Eidsvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Eidsvik"
+    ],
+    "name:nor_x_variant":[
+        "Eidsvika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296865,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3158610,
+        "wk:page":"Eidsvik%2C_M%C3%B8re_og_Romsdal"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"56b45132f268a50b23201dda99fd8b7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296865,
+            "locality_id":1309902953,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1309902953,
+    "wof:lastmodified":1537675855,
+    "wof:name":"Eidsvik",
+    "wof:parent_id":1159296865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.57797,
+    62.54314,
+    6.57797,
+    62.54314
+],
+  "geometry": {"coordinates":[6.57797,62.54314],"type":"Point"}
+}

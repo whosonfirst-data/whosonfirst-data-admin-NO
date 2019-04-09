@@ -1,0 +1,69 @@
+{
+  "id": 1360257673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.78197,63.24127,9.78197,63.24127",
+    "geom:latitude":63.24127,
+    "geom:longitude":9.78197,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5024.0",
+    "gn:asciiname":"Eklisgrenda",
+    "gn:country_code":"NO",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537465,
+    "gn:latitude":63.24127,
+    "gn:longitude":9.78197,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Eklisgrenda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Eklisgrenda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297395,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537465
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"959d450e900c63d32855f9073c97af91",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297395,
+            "locality_id":1360257673,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1360257673,
+    "wof:lastmodified":1537676013,
+    "wof:name":"Eklisgrenda",
+    "wof:parent_id":1159297395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.78197,
+    63.24126999999999,
+    9.78197,
+    63.24126999999999
+],
+  "geometry": {"coordinates":[9.78197,63.24126999999999],"type":"Point"}
+}

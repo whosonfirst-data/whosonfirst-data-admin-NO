@@ -1,0 +1,71 @@
+{
+  "id": 1293479453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.25474,65.13057,12.25474,65.13057",
+    "geom:latitude":65.13057,
+    "geom:longitude":12.25474,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1811.0",
+    "gn:asciiname":"Kalvika",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3150512,
+    "gn:latitude":65.13057,
+    "gn:longitude":12.25474,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Kalvika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalvvik",
+        "Kalvik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296909,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3150512
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"cba144607c165dac9c28f04fd953fcca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296909,
+            "locality_id":1293479453,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1293479453,
+    "wof:lastmodified":1537675800,
+    "wof:name":"Kalvika",
+    "wof:parent_id":1159296909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.25474,
+    65.13056999999999,
+    12.25474,
+    65.13056999999999
+],
+  "geometry": {"coordinates":[12.25474,65.13056999999999],"type":"Point"}
+}

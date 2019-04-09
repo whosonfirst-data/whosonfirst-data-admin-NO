@@ -1,0 +1,71 @@
+{
+  "id": 1343656435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.59629,61.04755,12.59629,61.04755",
+    "geom:latitude":61.04755,
+    "geom:longitude":12.59629,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"428.0",
+    "gn:asciiname":"Grensen",
+    "gn:country_code":"NO",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537075,
+    "gn:latitude":61.04755,
+    "gn:longitude":12.59629,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Grensen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Stockholm",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Grensen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297339,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537075
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"cefab907225c34de29200ff28f52ec61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297339,
+            "locality_id":1343656435,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1343656435,
+    "wof:lastmodified":1537675995,
+    "wof:name":"Grensen",
+    "wof:parent_id":1159297339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.59629,
+    61.04755,
+    12.59629,
+    61.04755
+],
+  "geometry": {"coordinates":[12.59629,61.04755],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293379779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23333,67.46667,15.23333,67.46667",
+    "geom:latitude":67.46667,
+    "geom:longitude":15.23333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1845.0",
+    "gn:asciiname":"Vassvik",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3132475,
+    "gn:latitude":67.46667,
+    "gn:longitude":15.23333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Vassvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vatsvik",
+        "Vassvik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296959,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3132475
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4e212ad7fb77f4b1cee2bdc85298b0fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296959,
+            "locality_id":1293379779,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1293379779,
+    "wof:lastmodified":1537675680,
+    "wof:name":"Vassvik",
+    "wof:parent_id":1159296959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23333,
+    67.46667,
+    15.23333,
+    67.46667
+],
+  "geometry": {"coordinates":[15.23333,67.46666999999999],"type":"Point"}
+}

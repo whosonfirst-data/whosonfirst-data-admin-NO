@@ -1,0 +1,71 @@
+{
+  "id": 1276401839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.06216,57.98979,7.06216,57.98979",
+    "geom:latitude":57.98979,
+    "geom:longitude":7.06216,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1029.0",
+    "gn:asciiname":"Vaga,nedre",
+    "gn:country_code":"NO",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537559,
+    "gn:latitude":57.98979,
+    "gn:longitude":7.06216,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"V\u00e5ga,nedre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "V\u00e5ga,nedre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297315,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537559
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"fc3bdca13c119d802007468d06b07592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297315,
+            "locality_id":1276401839,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1276401839,
+    "wof:lastmodified":1537676018,
+    "wof:name":"Vaga,nedre",
+    "wof:parent_id":1159297315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.06216,
+    57.98979,
+    7.06216,
+    57.98979
+],
+  "geometry": {"coordinates":[7.06216,57.98979],"type":"Point"}
+}

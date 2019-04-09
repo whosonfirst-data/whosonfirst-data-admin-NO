@@ -1,0 +1,67 @@
+{
+  "id": 1209128219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.01667,60.33333,12.01667,60.33333",
+    "geom:latitude":60.33333,
+    "geom:longitude":12.01667,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"402.0",
+    "gn:asciiname":"Kjerkhus",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3150122,
+    "gn:latitude":60.33333,
+    "gn:longitude":12.01667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kjerkhus",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kirkhus",
+        "Kjerkhus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3150122
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"18b5e742ef5315c858a35d34f79e140e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209128219
+        }
+    ],
+    "wof:id":1209128219,
+    "wof:lastmodified":1537675796,
+    "wof:name":"Kjerkhus",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.01667,
+    60.33333,
+    12.01667,
+    60.33333
+],
+  "geometry": {"coordinates":[12.01667,60.33333],"type":"Point"}
+}

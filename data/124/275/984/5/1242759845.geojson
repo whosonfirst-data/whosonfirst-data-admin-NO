@@ -1,0 +1,73 @@
+{
+  "id": 1242759845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.28333,63.08333,10.28333,63.08333",
+    "geom:latitude":63.08333,
+    "geom:longitude":10.28333,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5028.0",
+    "gn:asciiname":"Hagan",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3154333,
+    "gn:latitude":63.08333,
+    "gn:longitude":10.28333,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"H\u00e5g\u00e5n",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haga",
+        "Haga bru",
+        "Hagen",
+        "H\u00e5g\u00e5n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297511,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3154333
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c01c23780115f41dc8556c4411973486",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297511,
+            "locality_id":1242759845,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1242759845,
+    "wof:lastmodified":1537675826,
+    "wof:name":"Hagan",
+    "wof:parent_id":1159297511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.28333,
+    63.08333,
+    10.28333,
+    63.08333
+],
+  "geometry": {"coordinates":[10.28333,63.08333],"type":"Point"}
+}

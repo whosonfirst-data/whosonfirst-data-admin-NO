@@ -1,0 +1,68 @@
+{
+  "id": 1242648233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.83704,59.14749,5.83704,59.14749",
+    "geom:latitude":59.14749,
+    "geom:longitude":5.83704,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1141.0",
+    "gn:asciiname":"Reilstad",
+    "gn:country_code":"NO",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3142148,
+    "gn:latitude":59.14749,
+    "gn:longitude":5.83704,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Reilstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296829,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3142148
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3b6291cd41898fbc9258a3f3d40bb68f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296829,
+            "locality_id":1242648233,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1242648233,
+    "wof:lastmodified":1536962085,
+    "wof:name":"Reilstad",
+    "wof:parent_id":1159296829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.83704,
+    59.14749000000001,
+    5.83704,
+    59.14749000000001
+],
+  "geometry": {"coordinates":[5.83704,59.14749000000001],"type":"Point"}
+}

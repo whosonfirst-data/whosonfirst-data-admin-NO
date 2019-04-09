@@ -1,0 +1,68 @@
+{
+  "id": 1243241755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.89902,60.63326,9.89902,60.63326",
+    "geom:latitude":60.63326,
+    "geom:longitude":9.89902,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"540.0",
+    "gn:asciiname":"Seigen",
+    "gn:country_code":"NO",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8378673,
+    "gn:latitude":60.63326,
+    "gn:longitude":9.89902,
+    "gn:modification_date":"2017-09-23",
+    "gn:name":"Seigen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296855,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8378673
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"10cb3032d95842bffeed44a92fa10b0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296855,
+            "locality_id":1243241755,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1243241755,
+    "wof:lastmodified":1536600487,
+    "wof:name":"Seigen",
+    "wof:parent_id":1159296855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.89902,
+    60.63326,
+    9.89902,
+    60.63326
+],
+  "geometry": {"coordinates":[9.89902,60.63326],"type":"Point"}
+}

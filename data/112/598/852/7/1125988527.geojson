@@ -1,0 +1,118 @@
+{
+  "id": 1125988527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.53833,68.64611,15.53833,68.64611",
+    "geom:latitude":68.64611,
+    "geom:longitude":15.53833,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":792,
+    "gn:population":792,
+    "iso:country":"NO",
+    "lbl:latitude":68.64611,
+    "lbl:longitude":15.53833,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Sigerfjord"
+    ],
+    "name:eng_x_preferred":[
+        "Sigerfjord"
+    ],
+    "name:fre_x_preferred":[
+        "Sigerfjord"
+    ],
+    "name:jav_x_preferred":[
+        "Sigerfjord"
+    ],
+    "name:may_x_preferred":[
+        "Sigerfjord"
+    ],
+    "name:nno_x_preferred":[
+        "Sigerfjord"
+    ],
+    "name:nob_x_preferred":[
+        "Sigerfjord"
+    ],
+    "name:rum_x_preferred":[
+        "Sigerfjord"
+    ],
+    "name:unk_x_variant":[
+        "Haugen"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3139733,
+    "qs_pg:gn_pop":792,
+    "qs_pg:name":"Sigerfjord",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nordland Fylke",
+    "qs_pg:photos":45,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":45,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1350371,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":863620,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Nordland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1159297273,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3139733,
+        "gp:id":863620,
+        "qs_pg:id":1350371,
+        "wd:id":"Q1956804"
+    },
+    "wof:country":"NO",
+    "wof:created":1497298931,
+    "wof:geomhash":"8fcca340353b8a334236b673171cac21",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297273,
+            "locality_id":1125988527,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1125988527,
+    "wof:lastmodified":1529700176,
+    "wof:name":"Sigerfjord",
+    "wof:parent_id":1159297273,
+    "wof:placetype":"locality",
+    "wof:population":792,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.53833,
+    68.64611,
+    15.53833,
+    68.64611
+],
+  "geometry": {"coordinates":[15.53833,68.64610999999999],"type":"Point"}
+}

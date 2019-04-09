@@ -1,0 +1,115 @@
+{
+  "id": 1125823225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.26667,62.63333,6.26667,62.63333",
+    "geom:latitude":62.63333,
+    "geom:longitude":6.26667,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":385,
+    "gn:population":385,
+    "iso:country":"NO",
+    "lbl:latitude":62.63333,
+    "lbl:longitude":6.26667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Austnes"
+    ],
+    "name:dut_x_preferred":[
+        "Austnes"
+    ],
+    "name:eng_x_preferred":[
+        "Austnes"
+    ],
+    "name:fre_x_preferred":[
+        "Austnes"
+    ],
+    "name:jav_x_preferred":[
+        "Austnes"
+    ],
+    "name:may_x_preferred":[
+        "Austnes"
+    ],
+    "name:nno_x_preferred":[
+        "Austnes"
+    ],
+    "name:nob_x_preferred":[
+        "Austnes"
+    ],
+    "name:pol_x_preferred":[
+        "Austnes"
+    ],
+    "name:rum_x_preferred":[
+        "Austnes"
+    ],
+    "name:swe_x_preferred":[
+        "Austnes"
+    ],
+    "name:unk_x_variant":[
+        "Ausnes"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3162301,
+    "qs_pg:gn_pop":385,
+    "qs_pg:name":"Austnes",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":581152,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296865,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3162301,
+        "qs_pg:id":581152,
+        "wd:id":"Q3313710"
+    },
+    "wof:country":"NO",
+    "wof:created":1497292164,
+    "wof:geomhash":"c604ca356c6552fcf400c4e8411e99af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296865,
+            "locality_id":1125823225,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1125823225,
+    "wof:lastmodified":1529700095,
+    "wof:name":"Austnes",
+    "wof:parent_id":1159296865,
+    "wof:placetype":"locality",
+    "wof:population":385,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.26667,
+    62.63333,
+    6.26667,
+    62.63333
+],
+  "geometry": {"coordinates":[6.26667,62.63333],"type":"Point"}
+}

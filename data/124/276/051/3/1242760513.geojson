@@ -1,0 +1,68 @@
+{
+  "id": 1242760513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.96667,60.9,4.96667,60.9",
+    "geom:latitude":60.9,
+    "geom:longitude":4.96667,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1411.0",
+    "gn:asciiname":"Tunsberg",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3133735,
+    "gn:latitude":60.9,
+    "gn:longitude":4.96667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Tunsberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297577,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3133735
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4b141846b6c530d59b28f6930346d8fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297577,
+            "locality_id":1242760513,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1242760513,
+    "wof:lastmodified":1536800292,
+    "wof:name":"Tunsberg",
+    "wof:parent_id":1159297577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.96667,
+    60.9,
+    4.96667,
+    60.9
+],
+  "geometry": {"coordinates":[4.96667,60.9],"type":"Point"}
+}

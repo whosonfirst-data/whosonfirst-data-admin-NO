@@ -1,0 +1,68 @@
+{
+  "id": 1310091817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.9508,59.62401,10.9508,59.62401",
+    "geom:latitude":59.62401,
+    "geom:longitude":10.9508,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"138.0",
+    "gn:asciiname":"Elvestad",
+    "gn:country_code":"NO",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":7626138,
+    "gn:latitude":59.62401,
+    "gn:longitude":10.9508,
+    "gn:modification_date":"2010-12-07",
+    "gn:name":"Elvestad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296863,
+        85633341,
+        85687079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626138
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e4075724964a7d5d03bf794a4f93afa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296863,
+            "locality_id":1310091817,
+            "region_id":85687079
+        }
+    ],
+    "wof:id":1310091817,
+    "wof:lastmodified":1537015566,
+    "wof:name":"Elvestad",
+    "wof:parent_id":1159296863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.9508,
+    59.62401,
+    10.9508,
+    59.62401
+],
+  "geometry": {"coordinates":[10.9508,59.62401],"type":"Point"}
+}

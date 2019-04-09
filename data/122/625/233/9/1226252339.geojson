@@ -1,0 +1,69 @@
+{
+  "id": 1226252339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.39274,60.21978,11.39274,60.21978",
+    "geom:latitude":60.21978,
+    "geom:longitude":11.39274,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"236.0",
+    "gn:asciiname":"Fenstad",
+    "gn:country_code":"NO",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3157728,
+    "gn:latitude":60.21978,
+    "gn:longitude":11.39274,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Fenstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297349,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3157728,
+        "wk:page":"Fenstad"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0601e5a2ba818c3d974d97a80a7f44a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297349,
+            "locality_id":1226252339,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1226252339,
+    "wof:lastmodified":1537570101,
+    "wof:name":"Fenstad",
+    "wof:parent_id":1159297349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.39274,
+    60.21978000000001,
+    11.39274,
+    60.21978000000001
+],
+  "geometry": {"coordinates":[11.39274,60.21978000000001],"type":"Point"}
+}

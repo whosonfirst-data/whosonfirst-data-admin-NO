@@ -1,0 +1,71 @@
+{
+  "id": 1209814729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.20532,70.14193,28.20532,70.14193",
+    "geom:latitude":70.14193,
+    "geom:longitude":28.20532,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2025.0",
+    "gn:asciiname":"Geaidnogeahce",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536728,
+    "gn:latitude":70.14193,
+    "gn:longitude":28.20532,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Geaidnogeah\u010de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sme_x_preferred":[
+        "Geaidnogeah\u010de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296751,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536728
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"dbc003c870c4aebb2c7f9a51861c38a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296751,
+            "locality_id":1209814729,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1209814729,
+    "wof:lastmodified":1537675981,
+    "wof:name":"Geaidnogeahce",
+    "wof:parent_id":1159296751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.20532,
+    70.14193,
+    28.20532,
+    70.14193
+],
+  "geometry": {"coordinates":[28.20532,70.14193],"type":"Point"}
+}

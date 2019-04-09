@@ -1,0 +1,66 @@
+{
+  "id": 1327223523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.43706,65.6978,12.43706,65.6978",
+    "geom:latitude":65.6978,
+    "geom:longitude":12.43706,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1816.0",
+    "gn:asciiname":"Vevelstad",
+    "gn:country_code":"NO",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3131901,
+    "gn:latitude":65.6978,
+    "gn:longitude":12.43706,
+    "gn:modification_date":"2010-12-07",
+    "gn:name":"Vevelstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297059,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3131901
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9ec669a47ee4d023c926e45dac52a292",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297059,
+            "locality_id":1327223523,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1327223523,
+    "wof:lastmodified":1536981753,
+    "wof:name":"Vevelstad",
+    "wof:parent_id":1159297059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.43706,
+    65.6978,
+    12.43706,
+    65.6978
+],
+  "geometry": {"coordinates":[12.43706,65.6978],"type":"Point"}
+}

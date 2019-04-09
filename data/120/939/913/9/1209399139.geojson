@@ -1,0 +1,65 @@
+{
+  "id": 1209399139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.48807,67.16252,15.48807,67.16252",
+    "geom:latitude":67.16252,
+    "geom:longitude":15.48807,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1840.0",
+    "gn:asciiname":"Innersetsa",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537008,
+    "gn:latitude":67.16252,
+    "gn:longitude":15.48807,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Innersets\u00e5",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Innersets\u00e5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537008
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c3012b0a16ca3bb9e2f8ee81c88ea841",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209399139
+        }
+    ],
+    "wof:id":1209399139,
+    "wof:lastmodified":1537675992,
+    "wof:name":"Innersetsa",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.48807,
+    67.16252,
+    15.48807,
+    67.16252
+],
+  "geometry": {"coordinates":[15.48807,67.16252],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1242576727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.51694,70.28222,23.51694,70.28222",
+    "geom:latitude":70.28222,
+    "geom:longitude":23.51694,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2012.0",
+    "gn:asciiname":"Lille Lerresfjord",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":778952,
+    "gn:latitude":70.28222,
+    "gn:longitude":23.51694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Lille Lerresfjord",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lerresfjord",
+        "Lerrisfjord",
+        "Laerrisfjord",
+        "Lille Laerrisfjord",
+        "Leerresfjord",
+        "Lille Lerresfjord"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296893,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":778952
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e1d819d17c8ed514c6a060cf3ef3c2eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296893,
+            "locality_id":1242576727,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1242576727,
+    "wof:lastmodified":1537675653,
+    "wof:name":"Lille Lerresfjord",
+    "wof:parent_id":1159296893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.51694,
+    70.28222,
+    23.51694,
+    70.28222
+],
+  "geometry": {"coordinates":[23.51694,70.28222],"type":"Point"}
+}

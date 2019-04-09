@@ -1,0 +1,71 @@
+{
+  "id": 1276237923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.68421,59.52072,10.68421,59.52072",
+    "geom:latitude":59.52072,
+    "geom:longitude":10.68421,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"211.0",
+    "gn:asciiname":"Stenlokka",
+    "gn:country_code":"NO",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537198,
+    "gn:latitude":59.52072,
+    "gn:longitude":10.68421,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Stenl\u00f8kka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Stenl\u00f8kka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297237,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537198
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2839b910371151f1d5237430600f3a89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297237,
+            "locality_id":1276237923,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1276237923,
+    "wof:lastmodified":1537676001,
+    "wof:name":"Stenlokka",
+    "wof:parent_id":1159297237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.68421,
+    59.52072,
+    10.68421,
+    59.52072
+],
+  "geometry": {"coordinates":[10.68421,59.52072],"type":"Point"}
+}

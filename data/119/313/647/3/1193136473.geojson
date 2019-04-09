@@ -1,0 +1,68 @@
+{
+  "id": 1193136473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.41917,69.93656,23.41917,69.93656",
+    "geom:latitude":69.93656,
+    "geom:longitude":23.41917,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2012.0",
+    "gn:asciiname":"Rognskog",
+    "gn:country_code":"NO",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":778037,
+    "gn:latitude":69.93656,
+    "gn:longitude":23.41917,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Rognskog",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296893,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":778037
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f399b69fbf48bb35c1c7d551e5a2a748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296893,
+            "locality_id":1193136473,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1193136473,
+    "wof:lastmodified":1536370170,
+    "wof:name":"Rognskog",
+    "wof:parent_id":1159296893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.41917,
+    69.93656,
+    23.41917,
+    69.93656
+],
+  "geometry": {"coordinates":[23.41917,69.93656],"type":"Point"}
+}

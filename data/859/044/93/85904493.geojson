@@ -1,0 +1,102 @@
+{
+  "id": 85904493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5280782.600579,
+    "geom:bbox":"10.497443,63.427359,10.497443,63.427359",
+    "geom:latitude":63.427359,
+    "geom:longitude":10.497443,
+    "gn:id":"",
+    "iso:country":"NO",
+    "lbl:latitude":63.427359,
+    "lbl:longitude":10.497443,
+    "mps:latitude":63.43125,
+    "mps:longitude":10.501543,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:nor_x_preferred":[
+        "Ovre Charlotte"
+    ],
+    "name:unk_x_variant":[
+        "Ovre Charlotte"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":208,
+    "qs:local_sum":208,
+    "qs:localhoods":1,
+    "qs:name":"Ovre Charlotte",
+    "qs:name_adm0":"Norge",
+    "qs:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
+    "qs:name_adm2":"Trondheim Kommune",
+    "qs:name_local":"Jakobsli",
+    "qs:photo_max":52,
+    "qs:photo_sum":208,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":32,
+    "qs:woe_adm0":23424910,
+    "qs:woe_adm1":2346399,
+    "qs:woe_adm2":12592932,
+    "qs:woe_lau":0,
+    "qs:woe_local":15000813,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85687127,
+        1159297145,
+        101751927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20100345,
+        "qs:id":13865,
+        "qs_pg:id":13865
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a4b02ed7d049f3a7fa460dac6729b350",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297145,
+            "locality_id":101751927,
+            "neighbourhood_id":85904493,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":85904493,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1531936242,
+    "wof:name":"Ovre Charlotte",
+    "wof:parent_id":101751927,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.497443,
+    63.427359,
+    10.497443,
+    63.427359
+],
+  "geometry": {"coordinates":[10.497443,63.427359],"type":"Point"}
+}

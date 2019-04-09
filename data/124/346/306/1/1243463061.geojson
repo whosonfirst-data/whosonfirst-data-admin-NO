@@ -1,0 +1,68 @@
+{
+  "id": 1243463061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.21667,58.5,8.21667,58.5",
+    "geom:latitude":58.5,
+    "geom:longitude":8.21667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"928.0",
+    "gn:asciiname":"Retterholt",
+    "gn:country_code":"NO",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141919,
+    "gn:latitude":58.5,
+    "gn:longitude":8.21667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Retterholt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297559,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141919
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"08f32f177e41949ff29cc11605ea0479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297559,
+            "locality_id":1243463061,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1243463061,
+    "wof:lastmodified":1536781981,
+    "wof:name":"Retterholt",
+    "wof:parent_id":1159297559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.21667,
+    58.5,
+    8.21667,
+    58.5
+],
+  "geometry": {"coordinates":[8.21667,58.5],"type":"Point"}
+}

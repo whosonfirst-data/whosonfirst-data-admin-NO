@@ -1,0 +1,107 @@
+{
+  "id": 85862163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5731954.356371,
+    "geom:bbox":"5.289616,60.385186,5.289616,60.385186",
+    "geom:latitude":60.385186,
+    "geom:longitude":5.289616,
+    "gn:id":"",
+    "iso:country":"NO",
+    "lbl:latitude":60.385186,
+    "lbl:longitude":5.289616,
+    "mps:latitude":60.383218,
+    "mps:longitude":5.263879,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:nor_x_preferred":[
+        "Frydenbo"
+    ],
+    "name:unk_x_variant":[
+        "Frydenbo"
+    ],
+    "qs:gn_adm0_cc":"NO",
+    "qs:gn_id":0,
+    "qs:gn_local":3148518,
+    "qs:gn_nam_loc":"Laksev\u00e5g, Bergen, Hordaland Fylke, NO",
+    "qs:gn_namadm1":"07",
+    "qs:local_max":533,
+    "qs:local_sum":631,
+    "qs:localhoods":2,
+    "qs:name":"Frydenbo",
+    "qs:name_adm0":"Norge",
+    "qs:name_adm1":"Hordaland Fylke",
+    "qs:name_adm2":"Bergen Kommune",
+    "qs:name_local":"Laksev\u00e5g",
+    "qs:photo_max":121,
+    "qs:photo_sum":533,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":33,
+    "qs:woe_adm0":23424910,
+    "qs:woe_adm1":2346390,
+    "qs:woe_adm2":12592658,
+    "qs:woe_lau":0,
+    "qs:woe_local":861056,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85687099,
+        102191581,
+        1159297617,
+        85633341,
+        101751923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20100022,
+        "qs:id":376146,
+        "qs_pg:id":376146
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"898b5535bfa9464e7117b455cfa9172d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":101751923,
+            "neighbourhood_id":85862163,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":85862163,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1531870552,
+    "wof:name":"Frydenbo",
+    "wof:parent_id":101751923,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.289616,
+    60.385186,
+    5.289616,
+    60.385186
+],
+  "geometry": {"coordinates":[5.289616,60.385186],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1193025493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.49293,59.8484,10.49293,59.8484",
+    "geom:latitude":59.8484,
+    "geom:longitude":10.49293,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"220",
+    "gn:asciiname":"Hvalsbakken",
+    "gn:country_code":"NO",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404116,
+    "gn:latitude":59.8484,
+    "gn:longitude":10.49293,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Hvalsbakken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Hvalsbakken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296931,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404116
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"889459c3f1db94c6b44637e4e87d9786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296931,
+            "locality_id":1193025493,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1193025493,
+    "wof:lastmodified":1537675918,
+    "wof:name":"Hvalsbakken",
+    "wof:parent_id":1159296931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.49293,
+    59.8484,
+    10.49293,
+    59.8484
+],
+  "geometry": {"coordinates":[10.49293,59.8484],"type":"Point"}
+}

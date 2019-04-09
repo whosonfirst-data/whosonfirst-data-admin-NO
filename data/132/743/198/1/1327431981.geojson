@@ -1,0 +1,71 @@
+{
+  "id": 1327431981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.32576,60.16106,10.32576,60.16106",
+    "geom:latitude":60.16106,
+    "geom:longitude":10.32576,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"605.0",
+    "gn:asciiname":"Breskebyen",
+    "gn:country_code":"NO",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537389,
+    "gn:latitude":60.16106,
+    "gn:longitude":10.32576,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Breskebyen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Breskebyen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297513,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537389
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"73c50435357df20ae8820252277cfe71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297513,
+            "locality_id":1327431981,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1327431981,
+    "wof:lastmodified":1537676009,
+    "wof:name":"Breskebyen",
+    "wof:parent_id":1159297513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.32576,
+    60.16106,
+    10.32576,
+    60.16106
+],
+  "geometry": {"coordinates":[10.32576,60.16106],"type":"Point"}
+}

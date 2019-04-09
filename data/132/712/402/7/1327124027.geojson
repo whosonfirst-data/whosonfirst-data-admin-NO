@@ -1,0 +1,77 @@
+{
+  "id": 1327124027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.13614,65.66364,14.13614,65.66364",
+    "geom:latitude":65.66364,
+    "geom:longitude":14.13614,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1826.0",
+    "gn:asciiname":"Grabpoe",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3154701,
+    "gn:latitude":65.66364,
+    "gn:longitude":14.13614,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Gr\u00e5bpoe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Grubben"
+    ],
+    "name:sma_x_preferred":[
+        "Gr\u00e5bpoe"
+    ],
+    "name:und_x_variant":[
+        "Gruben",
+        "Grubben"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297409,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3154701
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"116e734d3a82ab2554c365087c0faa49",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297409,
+            "locality_id":1327124027,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1327124027,
+    "wof:lastmodified":1537675829,
+    "wof:name":"Grabpoe",
+    "wof:parent_id":1159297409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.13614,
+    65.66364,
+    14.13614,
+    65.66364
+],
+  "geometry": {"coordinates":[14.13614,65.66364],"type":"Point"}
+}

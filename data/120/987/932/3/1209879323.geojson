@@ -1,0 +1,68 @@
+{
+  "id": 1209879323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.75054,69.57168,19.75054,69.57168",
+    "geom:latitude":69.57168,
+    "geom:longitude":19.75054,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1902.0",
+    "gn:asciiname":"Olderbakken",
+    "gn:country_code":"NO",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3143659,
+    "gn:latitude":69.57168,
+    "gn:longitude":19.75054,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Olderbakken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297187,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3143659
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b494c4c363427bf4b740d847edb50bcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297187,
+            "locality_id":1209879323,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1209879323,
+    "wof:lastmodified":1536395772,
+    "wof:name":"Olderbakken",
+    "wof:parent_id":1159297187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.75054,
+    69.57168,
+    19.75054,
+    69.57168
+],
+  "geometry": {"coordinates":[19.75054,69.57168],"type":"Point"}
+}

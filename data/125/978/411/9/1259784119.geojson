@@ -1,0 +1,68 @@
+{
+  "id": 1259784119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.31667,60.18333,10.31667,60.18333",
+    "geom:latitude":60.18333,
+    "geom:longitude":10.31667,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"605.0",
+    "gn:asciiname":"Hval",
+    "gn:country_code":"NO",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3151315,
+    "gn:latitude":60.18333,
+    "gn:longitude":10.31667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Hval",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297513,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3151315
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"65cfa2c1510d3cc53ec9297edc0c9367",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297513,
+            "locality_id":1259784119,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1259784119,
+    "wof:lastmodified":1536922939,
+    "wof:name":"Hval",
+    "wof:parent_id":1159297513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.31667,
+    60.18333000000001,
+    10.31667,
+    60.18333000000001
+],
+  "geometry": {"coordinates":[10.31667,60.18333000000001],"type":"Point"}
+}

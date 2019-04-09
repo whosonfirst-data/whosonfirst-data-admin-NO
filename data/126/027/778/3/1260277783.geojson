@@ -1,0 +1,69 @@
+{
+  "id": 1260277783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.33171,68.55298,16.33171,68.55298",
+    "geom:latitude":68.55298,
+    "geom:longitude":16.33171,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1852.0",
+    "gn:asciiname":"Skytterhagen",
+    "gn:country_code":"NO",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536451,
+    "gn:latitude":68.55298,
+    "gn:longitude":16.33171,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Skytterh\u00e5gen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Skytterh\u00e5gen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297631,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536451
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"cad60d14f47bdd320cf449a2385e448a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297631,
+            "locality_id":1260277783,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1260277783,
+    "wof:lastmodified":1537675969,
+    "wof:name":"Skytterhagen",
+    "wof:parent_id":1159297631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.33171,
+    68.55298,
+    16.33171,
+    68.55298
+],
+  "geometry": {"coordinates":[16.33171,68.55298000000001],"type":"Point"}
+}

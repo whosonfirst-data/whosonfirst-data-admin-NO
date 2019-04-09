@@ -1,0 +1,68 @@
+{
+  "id": 1243329171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.01667,58.06667,7.01667,58.06667",
+    "geom:latitude":58.06667,
+    "geom:longitude":7.01667,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1032.0",
+    "gn:asciiname":"Belland",
+    "gn:country_code":"NO",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3161885,
+    "gn:latitude":58.06667,
+    "gn:longitude":7.01667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Belland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296753,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3161885
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6dc9c2e3fd4deb19efb33bda9e866626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296753,
+            "locality_id":1243329171,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1243329171,
+    "wof:lastmodified":1536974285,
+    "wof:name":"Belland",
+    "wof:parent_id":1159296753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.01667,
+    58.06667,
+    7.01667,
+    58.06667
+],
+  "geometry": {"coordinates":[7.01667,58.06667],"type":"Point"}
+}

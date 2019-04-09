@@ -1,0 +1,68 @@
+{
+  "id": 1243226171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.64887,58.2887,6.64887,58.2887",
+    "geom:latitude":58.2887,
+    "geom:longitude":6.64887,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1004.0",
+    "gn:asciiname":"Sveiga",
+    "gn:country_code":"NO",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3135144,
+    "gn:latitude":58.2887,
+    "gn:longitude":6.64887,
+    "gn:modification_date":"2013-07-13",
+    "gn:name":"Sveiga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296845,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3135144
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"abfcc7a858669e4734c3e8054af3481d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296845,
+            "locality_id":1243226171,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1243226171,
+    "wof:lastmodified":1536624238,
+    "wof:name":"Sveiga",
+    "wof:parent_id":1159296845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.64887,
+    58.2887,
+    6.64887,
+    58.2887
+],
+  "geometry": {"coordinates":[6.64887,58.2887],"type":"Point"}
+}

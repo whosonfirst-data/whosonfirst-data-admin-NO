@@ -1,0 +1,82 @@
+{
+  "id": 1125829289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.604241,69.898288,21.604241,69.898288",
+    "geom:latitude":69.898288,
+    "geom:longitude":21.604241,
+    "gn:gn_country":null,
+    "iso:country":"NO",
+    "lbl:latitude":69.898288,
+    "lbl:longitude":21.604241,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kv\u00e6nangsfjellet",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Troms Fylke",
+    "qs_pg:photos":83,
+    "qs_pg:photos_1k":17,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":83,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":13288,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":15000958,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Troms Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297307,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15000958,
+        "qs_pg:id":13288
+    },
+    "wof:country":"NO",
+    "wof:created":1497292418,
+    "wof:geomhash":"c6ffc23ae21e7679b133dc3d720b1a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297307,
+            "locality_id":1125829289,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1125829289,
+    "wof:lastmodified":1529700455,
+    "wof:name":"Kv\u00e6nangsfjellet",
+    "wof:parent_id":1159297307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.604241,
+    69.898288,
+    21.604241,
+    69.898288
+],
+  "geometry": {"coordinates":[21.604241,69.89828799999999],"type":"Point"}
+}

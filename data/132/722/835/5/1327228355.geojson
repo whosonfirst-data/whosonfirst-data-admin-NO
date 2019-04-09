@@ -1,0 +1,68 @@
+{
+  "id": 1327228355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.86667,60.81667,4.86667,60.81667",
+    "geom:latitude":60.81667,
+    "geom:longitude":4.86667,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1264.0",
+    "gn:asciiname":"Borilden",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3160639,
+    "gn:latitude":60.81667,
+    "gn:longitude":4.86667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"B\u00f8rilden",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296719,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160639
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e6f50d5d866b894280b03acc3ab3ea24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296719,
+            "locality_id":1327228355,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1327228355,
+    "wof:lastmodified":1536974973,
+    "wof:name":"Borilden",
+    "wof:parent_id":1159296719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.86667,
+    60.81667,
+    4.86667,
+    60.81667
+],
+  "geometry": {"coordinates":[4.86667,60.81667],"type":"Point"}
+}

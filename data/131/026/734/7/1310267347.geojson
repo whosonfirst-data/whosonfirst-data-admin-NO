@@ -1,0 +1,71 @@
+{
+  "id": 1310267347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.98951,58.4644,6.98951,58.4644",
+    "geom:latitude":58.4644,
+    "geom:longitude":6.98951,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1037.0",
+    "gn:asciiname":"Knipestol",
+    "gn:country_code":"NO",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537712,
+    "gn:latitude":58.4644,
+    "gn:longitude":6.98951,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Knipest\u00f8l",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Knipest\u00f8l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296929,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537712
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2e302be886c4e086afecc4eff953e7e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296929,
+            "locality_id":1310267347,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1310267347,
+    "wof:lastmodified":1537676025,
+    "wof:name":"Knipestol",
+    "wof:parent_id":1159296929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.98951,
+    58.4644,
+    6.98951,
+    58.4644
+],
+  "geometry": {"coordinates":[6.98951,58.4644],"type":"Point"}
+}

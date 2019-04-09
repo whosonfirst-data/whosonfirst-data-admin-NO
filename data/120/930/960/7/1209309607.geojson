@@ -1,0 +1,68 @@
+{
+  "id": 1209309607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.5683,64.15369,11.5683,64.15369",
+    "geom:latitude":64.15369,
+    "geom:longitude":11.5683,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5004.0",
+    "gn:asciiname":"Aunan",
+    "gn:country_code":"NO",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3162453,
+    "gn:latitude":64.15369,
+    "gn:longitude":11.5683,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Aunan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Aunan"
+    ],
+    "name:und_x_variant":[
+        "Aune"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3162453
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"506e464b96cb28a436540d89596e2813",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209309607
+        }
+    ],
+    "wof:id":1209309607,
+    "wof:lastmodified":1537675882,
+    "wof:name":"Aunan",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.5683,
+    64.15369,
+    11.5683,
+    64.15369
+],
+  "geometry": {"coordinates":[11.5683,64.15369],"type":"Point"}
+}

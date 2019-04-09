@@ -1,0 +1,69 @@
+{
+  "id": 1310197663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.33138,62.57895,10.33138,62.57895",
+    "geom:latitude":62.57895,
+    "geom:longitude":10.33138,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"437.0",
+    "gn:asciiname":"Kvikne",
+    "gn:country_code":"NO",
+    "gn:dem":750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8714314,
+    "gn:latitude":62.57895,
+    "gn:longitude":10.33138,
+    "gn:modification_date":"2017-09-23",
+    "gn:name":"Kvikne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297041,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8714314,
+        "wk:page":"Kvikne"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0d08e9444376482ac800c8f6ab757a08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297041,
+            "locality_id":1310197663,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1310197663,
+    "wof:lastmodified":1537570114,
+    "wof:name":"Kvikne",
+    "wof:parent_id":1159297041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.33138,
+    62.57895,
+    10.33138,
+    62.57895
+],
+  "geometry": {"coordinates":[10.33138,62.57895],"type":"Point"}
+}

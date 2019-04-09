@@ -1,0 +1,68 @@
+{
+  "id": 1276318973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.73333,62.08333,5.73333,62.08333",
+    "geom:latitude":62.08333,
+    "geom:longitude":5.73333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1511.0",
+    "gn:asciiname":"Syvdsbotn",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3134912,
+    "gn:latitude":62.08333,
+    "gn:longitude":5.73333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Syvdsbotn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297537,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3134912
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9ea17ae32c0590898d9c744bdedc5f8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297537,
+            "locality_id":1276318973,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1276318973,
+    "wof:lastmodified":1536798123,
+    "wof:name":"Syvdsbotn",
+    "wof:parent_id":1159297537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.73333,
+    62.08333,
+    5.73333,
+    62.08333
+],
+  "geometry": {"coordinates":[5.73333,62.08333],"type":"Point"}
+}

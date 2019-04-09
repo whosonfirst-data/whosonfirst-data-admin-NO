@@ -1,0 +1,89 @@
+{
+  "id": 1260252821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.20167,60.90321,7.20167,60.90321",
+    "geom:latitude":60.90321,
+    "geom:longitude":7.20167,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1421.0",
+    "gn:asciiname":"Aurland",
+    "gn:country_code":"NO",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8354589,
+    "gn:latitude":60.90321,
+    "gn:longitude":7.20167,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Aurland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0994\u09b0\u09b2\u09c7\u09a8\u09cd\u09a1"
+    ],
+    "name:est_x_preferred":[
+        "Aurlandi vald"
+    ],
+    "name:nds_x_preferred":[
+        "Kommun Aurland"
+    ],
+    "name:nno_x_preferred":[
+        "Aurland"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0443\u0440\u043b\u0430\u043d\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Aurlands kommun"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u4e8e\u862d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297301,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8354589
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"145f58062118ce93e76a10265f9513d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297301,
+            "locality_id":1260252821,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1260252821,
+    "wof:lastmodified":1537675904,
+    "wof:name":"Aurland",
+    "wof:parent_id":1159297301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.20167,
+    60.90321,
+    7.20167,
+    60.90321
+],
+  "geometry": {"coordinates":[7.20167,60.90321],"type":"Point"}
+}

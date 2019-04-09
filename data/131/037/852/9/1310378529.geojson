@@ -1,0 +1,68 @@
+{
+  "id": 1310378529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.63333,61.2,6.63333,61.2",
+    "geom:latitude":61.2,
+    "geom:longitude":6.63333,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1419.0",
+    "gn:asciiname":"Eitorn",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3158453,
+    "gn:latitude":61.2,
+    "gn:longitude":6.63333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Eitorn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296861,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3158453
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ffa7e674db3faa90e862faa5cd007de2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296861,
+            "locality_id":1310378529,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1310378529,
+    "wof:lastmodified":1537096914,
+    "wof:name":"Eitorn",
+    "wof:parent_id":1159296861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.63333,
+    61.2,
+    6.63333,
+    61.2
+],
+  "geometry": {"coordinates":[6.63333,61.2],"type":"Point"}
+}

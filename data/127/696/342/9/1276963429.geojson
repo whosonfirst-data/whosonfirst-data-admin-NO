@@ -1,0 +1,71 @@
+{
+  "id": 1276963429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.61667,66.8,14.61667,66.8",
+    "geom:latitude":66.8,
+    "geom:longitude":14.61667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1839.0",
+    "gn:asciiname":"Skigamsletta",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3139065,
+    "gn:latitude":66.8,
+    "gn:longitude":14.61667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Skigamsletta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Skigamslet",
+        "Skigamsletta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297265,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3139065
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"19ef03be6c0871c254171c71e3342b2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297265,
+            "locality_id":1276963429,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1276963429,
+    "wof:lastmodified":1537675720,
+    "wof:name":"Skigamsletta",
+    "wof:parent_id":1159297265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.61667,
+    66.8,
+    14.61667,
+    66.8
+],
+  "geometry": {"coordinates":[14.61667,66.8],"type":"Point"}
+}

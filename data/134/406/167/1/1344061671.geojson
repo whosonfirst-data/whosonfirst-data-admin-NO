@@ -1,0 +1,75 @@
+{
+  "id": 1344061671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.03068,70.01493,23.03068,70.01493",
+    "geom:latitude":70.01493,
+    "geom:longitude":23.03068,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2012.0",
+    "gn:asciiname":"Melsvik",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":778702,
+    "gn:latitude":70.01493,
+    "gn:longitude":23.03068,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Melsvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mielsvik",
+        "Malsvik",
+        "M\u00e6lsvik",
+        "Melsvik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296893,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":778702
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1f6ed2fa302b6031444643a6f93090bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296893,
+            "locality_id":1344061671,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1344061671,
+    "wof:lastmodified":1537675652,
+    "wof:name":"Melsvik",
+    "wof:parent_id":1159296893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.03068,
+    70.01493,
+    23.03068,
+    70.01493
+],
+  "geometry": {"coordinates":[23.03068,70.01493000000001],"type":"Point"}
+}

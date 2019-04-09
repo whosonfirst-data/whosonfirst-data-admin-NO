@@ -1,0 +1,87 @@
+{
+  "id": 1126009645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.15904,70.4868,22.15904,70.4868",
+    "geom:latitude":70.4868,
+    "geom:longitude":22.15904,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":380,
+    "gn:population":380,
+    "iso:country":"NO",
+    "lbl:latitude":70.4868,
+    "lbl:longitude":22.15904,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fkv_x_preferred":[
+        "Hasviika"
+    ],
+    "name:nor_x_preferred":[
+        "Hasvik"
+    ],
+    "name:sme_x_preferred":[
+        "\u00c1k\u014boluokta"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":779642,
+    "qs_pg:gn_pop":380,
+    "qs_pg:name":"Hasvik",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":553158,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296899,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":779642,
+        "qs_pg:id":553158
+    },
+    "wof:country":"NO",
+    "wof:created":1497300188,
+    "wof:geomhash":"b741c93a7fd204e8e5ebff2ede143587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296899,
+            "locality_id":1126009645,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1126009645,
+    "wof:lastmodified":1529699912,
+    "wof:name":"Hasvik",
+    "wof:parent_id":1159296899,
+    "wof:placetype":"locality",
+    "wof:population":380,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.15904,
+    70.4868,
+    22.15904,
+    70.4868
+],
+  "geometry": {"coordinates":[22.15904,70.4868],"type":"Point"}
+}

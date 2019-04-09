@@ -1,0 +1,68 @@
+{
+  "id": 1259446133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.93056,69.35778,17.93056,69.35778",
+    "geom:latitude":69.35778,
+    "geom:longitude":17.93056,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1931.0",
+    "gn:asciiname":"Sormo",
+    "gn:country_code":"NO",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3222405,
+    "gn:latitude":69.35778,
+    "gn:longitude":17.93056,
+    "gn:modification_date":"2010-10-15",
+    "gn:name":"S\u00f8rmo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297333,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3222405
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2e0498bdd6d503ba7680b53e5e730f37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297333,
+            "locality_id":1259446133,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1259446133,
+    "wof:lastmodified":1536913037,
+    "wof:name":"Sormo",
+    "wof:parent_id":1159297333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.93056,
+    69.35778,
+    17.93056,
+    69.35778
+],
+  "geometry": {"coordinates":[17.93056,69.35778000000001],"type":"Point"}
+}

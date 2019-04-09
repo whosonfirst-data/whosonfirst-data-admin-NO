@@ -1,0 +1,125 @@
+{
+  "id": 1125914233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.21667,63.55,10.21667,63.55",
+    "geom:latitude":63.55,
+    "geom:longitude":10.21667,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":63.55,
+    "lbl:longitude":10.21667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0646\u0641\u064a\u0643\u0627\u0646"
+    ],
+    "name:dan_x_preferred":[
+        "Vanvikan"
+    ],
+    "name:dut_x_preferred":[
+        "Vanvikan"
+    ],
+    "name:eng_x_preferred":[
+        "Vanvikan"
+    ],
+    "name:fre_x_preferred":[
+        "Vanvikan"
+    ],
+    "name:jav_x_preferred":[
+        "Vanvikan"
+    ],
+    "name:may_x_preferred":[
+        "Vanvikan"
+    ],
+    "name:nno_x_preferred":[
+        "Vanvikan"
+    ],
+    "name:nob_x_preferred":[
+        "Vanvikan"
+    ],
+    "name:nor_x_preferred":[
+        "Vanvikan"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0646\u0648\u06cc\u06a9\u0646"
+    ],
+    "name:rum_x_preferred":[
+        "Vanvikan"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3224784,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Vannviken",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nord-Tr\u00f8ndelag Fylke",
+    "qs_pg:photos":146,
+    "qs_pg:photos_1k":30,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":146,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":478395,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":865540,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Nord-Tr\u00f8ndelag Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296767,
+        85633341,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3224784,
+        "gp:id":865540,
+        "qs_pg:id":478395,
+        "wd:id":"Q1776865"
+    },
+    "wof:country":"NO",
+    "wof:created":1497296259,
+    "wof:geomhash":"968db27f0271a03201a9634625e7383d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296767,
+            "locality_id":1125914233,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1125914233,
+    "wof:lastmodified":1529700206,
+    "wof:name":"Vannviken",
+    "wof:parent_id":1159296767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.21667,
+    63.55,
+    10.21667,
+    63.55
+],
+  "geometry": {"coordinates":[10.21667,63.55],"type":"Point"}
+}

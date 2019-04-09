@@ -1,0 +1,71 @@
+{
+  "id": 1277047103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.02906,59.87232,9.02906,59.87232",
+    "geom:latitude":59.87232,
+    "geom:longitude":9.02906,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"826.0",
+    "gn:asciiname":"Sauro",
+    "gn:country_code":"NO",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537831,
+    "gn:latitude":59.87232,
+    "gn:longitude":9.02906,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Sauro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Sauro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297269,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537831
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d7d2d2e41ea39e06066bae35077e77cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297269,
+            "locality_id":1277047103,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1277047103,
+    "wof:lastmodified":1537676030,
+    "wof:name":"Sauro",
+    "wof:parent_id":1159297269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.02906,
+    59.87232,
+    9.02906,
+    59.87232
+],
+  "geometry": {"coordinates":[9.02906,59.87232],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293073459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.53488,63.70434,8.53488,63.70434",
+    "geom:latitude":63.70434,
+    "geom:longitude":8.53488,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5014.0",
+    "gn:asciiname":"Kverva",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3148821,
+    "gn:latitude":63.70434,
+    "gn:longitude":8.53488,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Kverva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kverven",
+        "Kverva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297521,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3148821
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"91b3c268adb50d94e9e603740d4b7dfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297521,
+            "locality_id":1293073459,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1293073459,
+    "wof:lastmodified":1537675786,
+    "wof:name":"Kverva",
+    "wof:parent_id":1159297521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.53488,
+    63.70434,
+    8.53488,
+    63.70434
+],
+  "geometry": {"coordinates":[8.53488,63.70434],"type":"Point"}
+}

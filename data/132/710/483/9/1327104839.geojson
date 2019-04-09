@@ -1,0 +1,68 @@
+{
+  "id": 1327104839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.03333,60.93333,5.03333,60.93333",
+    "geom:latitude":60.93333,
+    "geom:longitude":5.03333,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1411.0",
+    "gn:asciiname":"Brandanger",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3160434,
+    "gn:latitude":60.93333,
+    "gn:longitude":5.03333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Brandanger",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297577,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160434
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2c68147568dfb116dee0efca7d92e0bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297577,
+            "locality_id":1327104839,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1327104839,
+    "wof:lastmodified":1536656132,
+    "wof:name":"Brandanger",
+    "wof:parent_id":1159297577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.03333,
+    60.93333000000001,
+    5.03333,
+    60.93333000000001
+],
+  "geometry": {"coordinates":[5.03333,60.93333000000001],"type":"Point"}
+}

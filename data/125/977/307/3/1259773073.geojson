@@ -1,0 +1,69 @@
+{
+  "id": 1259773073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.04001,68.19438,16.04001,68.19438",
+    "geom:latitude":68.19438,
+    "geom:longitude":16.04001,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1850.0",
+    "gn:asciiname":"Sommarset",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536204,
+    "gn:latitude":68.19438,
+    "gn:longitude":16.04001,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Sommarset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Sommarset"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297109,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536204
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2de2737ceea1dff1e12d00684da713de",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297109,
+            "locality_id":1259773073,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1259773073,
+    "wof:lastmodified":1537675959,
+    "wof:name":"Sommarset",
+    "wof:parent_id":1159297109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.04001,
+    68.19438000000001,
+    16.04001,
+    68.19438000000001
+],
+  "geometry": {"coordinates":[16.04001,68.19438000000001],"type":"Point"}
+}

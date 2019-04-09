@@ -1,0 +1,72 @@
+{
+  "id": 1226034629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.29191,68.39986,17.29191,68.39986",
+    "geom:latitude":68.39986,
+    "geom:longitude":17.29191,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1805.0",
+    "gn:asciiname":"Sondre Hakvik",
+    "gn:country_code":"NO",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3220681,
+    "gn:latitude":68.39986,
+    "gn:longitude":17.29191,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"S\u00f8ndre H\u00e5kvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "S\u00f8ndre H\u00e5kvik"
+    ],
+    "name:und_x_variant":[
+        "S\u00f8ndre H\u00e5kvika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297203,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3220681
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"856a7e19587c0073ff6dfb1fffed917f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297203,
+            "locality_id":1226034629,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1226034629,
+    "wof:lastmodified":1537675897,
+    "wof:name":"Sondre Hakvik",
+    "wof:parent_id":1159297203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.29191,
+    68.39986,
+    17.29191,
+    68.39986
+],
+  "geometry": {"coordinates":[17.29191,68.39986],"type":"Point"}
+}

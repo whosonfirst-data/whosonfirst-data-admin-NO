@@ -1,0 +1,71 @@
+{
+  "id": 1209810993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.5126,62.86353,8.5126,62.86353",
+    "geom:latitude":62.86353,
+    "geom:longitude":8.5126,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1563.0",
+    "gn:asciiname":"Kroken",
+    "gn:country_code":"NO",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536476,
+    "gn:latitude":62.86353,
+    "gn:longitude":8.5126,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Kroken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Kroken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296805,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536476
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9018a3675c2a291a0771ba2a54dbab5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296805,
+            "locality_id":1209810993,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1209810993,
+    "wof:lastmodified":1537675970,
+    "wof:name":"Kroken",
+    "wof:parent_id":1159296805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.5126,
+    62.86353,
+    8.5126,
+    62.86353
+],
+  "geometry": {"coordinates":[8.5126,62.86353],"type":"Point"}
+}

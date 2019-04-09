@@ -1,0 +1,69 @@
+{
+  "id": 1293164517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.68829,59.07779,9.68829,59.07779",
+    "geom:latitude":59.07779,
+    "geom:longitude":9.68829,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"805.0",
+    "gn:asciiname":"Heistad",
+    "gn:country_code":"NO",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2609684,
+    "gn:latitude":59.07779,
+    "gn:longitude":9.68829,
+    "gn:modification_date":"2013-07-13",
+    "gn:name":"Heistad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296755,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2609684,
+        "wk:page":"Heistad"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e918c5697f1af1a2287b10bf0be543dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296755,
+            "locality_id":1293164517,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1293164517,
+    "wof:lastmodified":1537570070,
+    "wof:name":"Heistad",
+    "wof:parent_id":1159296755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.68829,
+    59.07779,
+    9.68829,
+    59.07779
+],
+  "geometry": {"coordinates":[9.68829,59.07779],"type":"Point"}
+}

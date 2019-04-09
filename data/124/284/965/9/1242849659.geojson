@@ -1,0 +1,71 @@
+{
+  "id": 1242849659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.68487,58.09194,6.68487,58.09194",
+    "geom:latitude":58.09194,
+    "geom:longitude":6.68487,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1003.0",
+    "gn:asciiname":"Skeime nedre",
+    "gn:country_code":"NO",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537815,
+    "gn:latitude":58.09194,
+    "gn:longitude":6.68487,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Skeime nedre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Skeime nedre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297123,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537815
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"777e91e1b231ef483a3fc6902a33c352",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297123,
+            "locality_id":1242849659,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1242849659,
+    "wof:lastmodified":1537676029,
+    "wof:name":"Skeime nedre",
+    "wof:parent_id":1159297123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.68487,
+    58.09194,
+    6.68487,
+    58.09194
+],
+  "geometry": {"coordinates":[6.68487,58.09194],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310620857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.14749,63.35557,8.14749,63.35557",
+    "geom:latitude":63.35557,
+    "geom:longitude":8.14749,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1573.0",
+    "gn:asciiname":"Nerdvika",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3144814,
+    "gn:latitude":63.35557,
+    "gn:longitude":8.14749,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Nerdvika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nerdvikja",
+        "Nerdvik",
+        "Nervikja",
+        "Nerdvika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297121,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3144814
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"37970a9ab4a6bf1d39b98391fbe7fe33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297121,
+            "locality_id":1310620857,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1310620857,
+    "wof:lastmodified":1537675759,
+    "wof:name":"Nerdvika",
+    "wof:parent_id":1159297121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.14749,
+    63.35556999999999,
+    8.14749,
+    63.35556999999999
+],
+  "geometry": {"coordinates":[8.14749,63.35556999999999],"type":"Point"}
+}

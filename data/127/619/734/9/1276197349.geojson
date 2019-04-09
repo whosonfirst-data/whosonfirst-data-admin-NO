@@ -1,0 +1,74 @@
+{
+  "id": 1276197349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.96531,59.05971,7.96531,59.05971",
+    "geom:latitude":59.05971,
+    "geom:longitude":7.96531,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"831.0",
+    "gn:asciiname":"Birtedalen,ovre",
+    "gn:country_code":"NO",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537307,
+    "gn:latitude":59.05971,
+    "gn:longitude":7.96531,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Birtedalen,\u00f8vre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Birtedalen,\u00f8vre"
+    ],
+    "name:nor_x_variant":[
+        "\u00d8vre Birtedalen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297079,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537307
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6be9f9ef02620ab5e315e7a6d6bb8d57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297079,
+            "locality_id":1276197349,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1276197349,
+    "wof:lastmodified":1537676006,
+    "wof:name":"Birtedalen,ovre",
+    "wof:parent_id":1159297079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.96531,
+    59.05971,
+    7.96531,
+    59.05971
+],
+  "geometry": {"coordinates":[7.96531,59.05971],"type":"Point"}
+}

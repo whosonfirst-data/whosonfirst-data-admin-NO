@@ -1,0 +1,67 @@
+{
+  "id": 1209487863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.9,62.9,11.9,62.9",
+    "geom:latitude":62.9,
+    "geom:longitude":11.9,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5033.0",
+    "gn:asciiname":"Rotvollen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141134,
+    "gn:latitude":62.9,
+    "gn:longitude":11.9,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Rotvollen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rotvolden",
+        "Rotvollen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141134
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d8212eec76887fcc6a041793fa3d9a11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209487863
+        }
+    ],
+    "wof:id":1209487863,
+    "wof:lastmodified":1537675735,
+    "wof:name":"Rotvollen",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.9,
+    62.9,
+    11.9,
+    62.9
+],
+  "geometry": {"coordinates":[11.9,62.9],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259669353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.38333,62.35,6.38333,62.35",
+    "geom:latitude":62.35,
+    "geom:longitude":6.38333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1520.0",
+    "gn:asciiname":"Saltre",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3140486,
+    "gn:latitude":62.35,
+    "gn:longitude":6.38333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Saltre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saltero",
+        "Saltre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297435,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3140486
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"882fdf5a4ef44084c45b7f07826822e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297435,
+            "locality_id":1259669353,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1259669353,
+    "wof:lastmodified":1537675730,
+    "wof:name":"Saltre",
+    "wof:parent_id":1159297435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.38333,
+    62.35,
+    6.38333,
+    62.35
+],
+  "geometry": {"coordinates":[6.38333,62.35],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327013385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.25,59.35,5.25,59.35",
+    "geom:latitude":59.35,
+    "geom:longitude":5.25,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1149.0",
+    "gn:asciiname":"Hinderaker",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3152664,
+    "gn:latitude":59.35,
+    "gn:longitude":5.25,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hinder\u00e5ker",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hindaraaker",
+        "Hinderager",
+        "Hinder\u00e5ker"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297005,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3152664
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"dbbd9a4c6833ba7df8167221b66d99b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297005,
+            "locality_id":1327013385,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1327013385,
+    "wof:lastmodified":1537675814,
+    "wof:name":"Hinderaker",
+    "wof:parent_id":1159297005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.25,
+    59.35,
+    5.25,
+    59.35
+],
+  "geometry": {"coordinates":[5.25,59.35],"type":"Point"}
+}

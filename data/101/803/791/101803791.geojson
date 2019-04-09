@@ -1,0 +1,100 @@
+{
+  "id": 101803791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000114,
+    "geom:area_square_m":716132.719934,
+    "geom:bbox":"10.2403319317,59.3552109998,10.2561665389,59.3677995655",
+    "geom:latitude":59.360841,
+    "geom:longitude":10.248863,
+    "iso:country":"NO",
+    "lbl:latitude":59.36159,
+    "lbl:longitude":10.250063,
+    "mps:latitude":59.36159,
+    "mps:longitude":10.250063,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Revetal/Bergs\u00e5sen"
+    ],
+    "name:eng_x_preferred":[
+        "Revetal"
+    ],
+    "name:fre_x_preferred":[
+        "Revetal"
+    ],
+    "name:may_x_preferred":[
+        "Revetal"
+    ],
+    "name:nno_x_preferred":[
+        "Revetal/Bergs\u00e5sen"
+    ],
+    "name:nob_x_preferred":[
+        "Revetal"
+    ],
+    "name:pol_x_preferred":[
+        "Revetal"
+    ],
+    "name:rum_x_preferred":[
+        "Revetal"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Vestfold",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"Re",
+    "qs:la_lc":"*NO0716",
+    "qs:level":"locality",
+    "qs:loc":"Revetal/Bergs\u00e5sen",
+    "qs:loc_alt":"Revetal/Bergsaasen",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159296901,
+        85633341,
+        85687073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626345,
+        "gp:id":15000685,
+        "qs:id":22936,
+        "wd:id":"Q1792375",
+        "wk:page":"Revetal"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"bb13b9d89de586711a14c516ea91b133",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296901,
+            "locality_id":101803791,
+            "region_id":85687073
+        }
+    ],
+    "wof:id":101803791,
+    "wof:lastmodified":1529700488,
+    "wof:name":"Revetal/Bergs\u00e5sen",
+    "wof:parent_id":1159296901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.24033193171675,
+    59.3552109998293,
+    10.25616653886243,
+    59.36779956551743
+],
+  "geometry": {"coordinates":[[[10.25093543658454,59.36779640132659],[10.2509289257942,59.36689676883026],[10.25268365894908,59.36689358252841],[10.25267054750202,59.36509431875731],[10.25442518930316,59.36509111044001],[10.25441198840622,59.36329184823643],[10.25616653886243,59.36328861790594],[10.25614660397918,59.3605897274698],[10.25439219005926,59.36059295751573],[10.25437239530891,59.35789406989551],[10.25261811759361,59.35789727745964],[10.25260501408479,59.35609802057962],[10.24558826417655,59.35611062812291],[10.24558189498873,59.3552109998293],[10.24207360923651,59.35521717024335],[10.24208616602039,59.35701642753691],[10.24033193171675,59.35701947962986],[10.24035063324084,59.35971836842123],[10.24561374478509,59.35970914474024],[10.24565835070496,59.36600656208446],[10.24741303923525,59.36600344248581],[10.24741945857909,59.36690307482229],[10.24917419233702,59.36689993292822],[10.24918065759857,59.36779956551743],[10.25093543658454,59.36779640132659]]],"type":"Polygon"}
+}

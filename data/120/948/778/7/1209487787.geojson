@@ -1,0 +1,68 @@
+{
+  "id": 1209487787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.58762,63.77061,9.58762,63.77061",
+    "geom:latitude":63.77061,
+    "geom:longitude":9.58762,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5017.0",
+    "gn:asciiname":"Nes",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3144747,
+    "gn:latitude":63.77061,
+    "gn:longitude":9.58762,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Nes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nes i Fosna",
+        "Nes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3144747,
+        "wk:page":"Nes%2C_S%C3%B8r-Tr%C3%B8ndelag"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ad7fe3e7a3d31fbb70b392aecf37801c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209487787
+        }
+    ],
+    "wof:id":1209487787,
+    "wof:lastmodified":1537675759,
+    "wof:name":"Nes",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.58762,
+    63.77061,
+    9.58762,
+    63.77061
+],
+  "geometry": {"coordinates":[9.58762,63.77061],"type":"Point"}
+}

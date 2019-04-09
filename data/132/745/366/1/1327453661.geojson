@@ -1,0 +1,74 @@
+{
+  "id": 1327453661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.14335,62.32473,6.14335,62.32473",
+    "geom:latitude":62.32473,
+    "geom:longitude":6.14335,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1520.0",
+    "gn:asciiname":"Nordre Vartdal",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3132611,
+    "gn:latitude":62.32473,
+    "gn:longitude":6.14335,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Nordre Vartdal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vartdal Nordre",
+        "Nordre Vartdal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297435,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3132611,
+        "wk:page":"Nordre_Vartdal"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2371420833592457b167f6c23fc39664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297435,
+            "locality_id":1327453661,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1327453661,
+    "wof:lastmodified":1537675681,
+    "wof:name":"Nordre Vartdal",
+    "wof:parent_id":1159297435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.14335,
+    62.32473,
+    6.14335,
+    62.32473
+],
+  "geometry": {"coordinates":[6.14335,62.32473],"type":"Point"}
+}

@@ -1,0 +1,113 @@
+{
+  "id": 1125963169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.53333,60.1,6.53333,60.1",
+    "geom:latitude":60.1,
+    "geom:longitude":6.53333,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":60.1,
+    "lbl:longitude":6.53333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Eitrheim"
+    ],
+    "name:eng_x_preferred":[
+        "Eitrheim"
+    ],
+    "name:fre_x_preferred":[
+        "Eitrheim"
+    ],
+    "name:jav_x_preferred":[
+        "Eitrheim"
+    ],
+    "name:may_x_preferred":[
+        "Eitrheim"
+    ],
+    "name:nor_x_preferred":[
+        "Eitrhem"
+    ],
+    "name:nor_x_variant":[
+        "Eitrheim"
+    ],
+    "name:swe_x_preferred":[
+        "Eitrheim"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3158449,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Eitrheim",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Hordaland Fylke",
+    "qs_pg:photos":8,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":8,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":506416,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":858078,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Hordaland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297489,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3158449,
+        "gp:id":858078,
+        "qs_pg:id":506416,
+        "wd:id":"Q5350037"
+    },
+    "wof:country":"NO",
+    "wof:created":1497297877,
+    "wof:geomhash":"b42a772ffab959dbd12e61e9828f0305",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297489,
+            "locality_id":1125963169,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1125963169,
+    "wof:lastmodified":1529700055,
+    "wof:name":"Eitrheim",
+    "wof:parent_id":1159297489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.53333,
+    60.1,
+    6.53333,
+    60.1
+],
+  "geometry": {"coordinates":[6.53333,60.1],"type":"Point"}
+}

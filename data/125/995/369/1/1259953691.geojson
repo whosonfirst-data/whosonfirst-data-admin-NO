@@ -1,0 +1,71 @@
+{
+  "id": 1259953691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.60711,58.96709,5.60711,58.96709",
+    "geom:latitude":58.96709,
+    "geom:longitude":5.60711,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1103",
+    "gn:asciiname":"Kvernavik",
+    "gn:country_code":"NO",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9403916,
+    "gn:latitude":58.96709,
+    "gn:longitude":5.60711,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Kvernavik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Kvernavik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297103,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9403916
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ebdee0cd3d6a078db0a634863f032fb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297103,
+            "locality_id":1259953691,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1259953691,
+    "wof:lastmodified":1537675910,
+    "wof:name":"Kvernavik",
+    "wof:parent_id":1159297103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.60711,
+    58.96709,
+    5.60711,
+    58.96709
+],
+  "geometry": {"coordinates":[5.60711,58.96709],"type":"Point"}
+}

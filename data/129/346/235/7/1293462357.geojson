@@ -1,0 +1,71 @@
+{
+  "id": 1293462357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.98333,63.51667,9.98333,63.51667",
+    "geom:latitude":63.51667,
+    "geom:longitude":9.98333,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5054.0",
+    "gn:asciiname":"Bliksas",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3160972,
+    "gn:latitude":63.51667,
+    "gn:longitude":9.98333,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Bliks\u00e5s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bliksaas",
+        "Bliks\u00e5s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296767,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160972
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e2a2f04495a9bd6a97daf3281b22a50c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296767,
+            "locality_id":1293462357,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1293462357,
+    "wof:lastmodified":1537675873,
+    "wof:name":"Bliksas",
+    "wof:parent_id":1159296767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.98333,
+    63.51667,
+    9.98333,
+    63.51667
+],
+  "geometry": {"coordinates":[9.98333,63.51667],"type":"Point"}
+}

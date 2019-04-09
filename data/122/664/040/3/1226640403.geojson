@@ -1,0 +1,71 @@
+{
+  "id": 1226640403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.16748,60.30854,5.16748,60.30854",
+    "geom:latitude":60.30854,
+    "geom:longitude":5.16748,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1246",
+    "gn:asciiname":"Nibben",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404175,
+    "gn:latitude":60.30854,
+    "gn:longitude":5.16748,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Nibben",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Nibben"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296987,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404175
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2016826de3019665f4a4d1e43173ac40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296987,
+            "locality_id":1226640403,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1226640403,
+    "wof:lastmodified":1537675920,
+    "wof:name":"Nibben",
+    "wof:parent_id":1159296987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.16748,
+    60.30854,
+    5.16748,
+    60.30854
+],
+  "geometry": {"coordinates":[5.16748,60.30854],"type":"Point"}
+}

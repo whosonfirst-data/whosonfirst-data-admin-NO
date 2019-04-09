@@ -1,0 +1,126 @@
+{
+  "id": 101804079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00019,
+    "geom:area_square_m":1063450.980067,
+    "geom:bbox":"7.7992849935,63.087612149,7.83223321186,63.0995229757",
+    "geom:latitude":63.094483,
+    "geom:longitude":7.812131,
+    "gn:population":2121,
+    "iso:country":"NO",
+    "lbl:latitude":63.094543,
+    "lbl:longitude":7.811008,
+    "mps:latitude":63.094543,
+    "mps:longitude":7.811008,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Rensvik"
+    ],
+    "name:eng_x_preferred":[
+        "Rensvik"
+    ],
+    "name:fre_x_preferred":[
+        "Rensvik"
+    ],
+    "name:jav_x_preferred":[
+        "Rensvik"
+    ],
+    "name:may_x_preferred":[
+        "Rensvik"
+    ],
+    "name:msa_x_preferred":[
+        "Rensvik"
+    ],
+    "name:nld_x_preferred":[
+        "Rensvik"
+    ],
+    "name:nno_x_preferred":[
+        "Rensvik"
+    ],
+    "name:nob_x_preferred":[
+        "Rensvik"
+    ],
+    "name:nor_x_preferred":[
+        "Reinsvik",
+        "Rensvik"
+    ],
+    "name:nor_x_variant":[
+        "Reinsviks",
+        "Rensvik"
+    ],
+    "name:unk_x_variant":[
+        "Reinsvik"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*M\u00f8re og Romsdal",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"Frei",
+    "qs:la_lc":"*NO1556",
+    "qs:level":"locality",
+    "qs:loc":"Rensvik",
+    "qs:loc_alt":"Rensvik",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":156,
+    "wof:belongsto":[
+        102191581,
+        1159297475,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01ff54bc-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3142061,
+        "gp:id":862894,
+        "qs:id":581062,
+        "qs_pg:id":581062,
+        "wd:id":"Q1797586",
+        "wk:page":"Rensvik"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"83e57a46ca85fbd448a674f21b7bb2b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297475,
+            "locality_id":101804079,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":101804079,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1529700088,
+    "wof:name":"Rensvik",
+    "wof:parent_id":1159297475,
+    "wof:placetype":"locality",
+    "wof:population":2121,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.79928499349762,
+    63.08761214900107,
+    7.83223321185517,
+    63.09952297573983
+],
+  "geometry": {"coordinates":[[[7.81234112183466,63.09952297573983],[7.81240715714614,63.09862191962708],[7.83013280767022,63.0988736689585],[7.83019830425809,63.09797260488148],[7.83216777912611,63.09800044970655],[7.83223321185517,63.09709938524156],[7.8302637963385,63.09707154135862],[7.83032928391117,63.09617047838969],[7.82245189416301,63.09605885388896],[7.82251761459656,63.09515779525037],[7.82054833524916,63.09512982688767],[7.82061411049665,63.0942287697489],[7.81864489399123,63.09420077706056],[7.81871072404482,63.09329972142228],[7.81674157037941,63.09327170441009],[7.81680745523113,63.09237065027298],[7.81483836440475,63.09234260893857],[7.81497023915034,63.09054050422122],[7.81103230532619,63.09048434954229],[7.81109835452338,63.08958329991253],[7.80912945220308,63.08955518562209],[7.80919555616629,63.08865413749618],[7.80525788071481,63.08859783501867],[7.8053240987411,63.08769678934982],[7.79941778994669,63.08761214900107],[7.79928499349762,63.08941423516598],[7.80125387817532,63.08944247579075],[7.80078936193456,63.095749801463],[7.80472797244448,63.09580622027022],[7.80452918161819,63.09850937386432],[7.80846816233048,63.09856569729681],[7.80840200830846,63.09946675150707],[7.81234112183466,63.09952297573983]]],"type":"Polygon"}
+}

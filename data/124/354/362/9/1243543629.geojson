@@ -1,0 +1,68 @@
+{
+  "id": 1243543629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.98612,64.52888,10.98612,64.52888",
+    "geom:latitude":64.52888,
+    "geom:longitude":10.98612,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5049.0",
+    "gn:asciiname":"Sitter",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3139594,
+    "gn:latitude":64.52888,
+    "gn:longitude":10.98612,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Sitter",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296889,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3139594
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5a94e620256410a54633e1617ba0701f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296889,
+            "locality_id":1243543629,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1243543629,
+    "wof:lastmodified":1536665497,
+    "wof:name":"Sitter",
+    "wof:parent_id":1159296889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.98612,
+    64.52888,
+    10.98612,
+    64.52888
+],
+  "geometry": {"coordinates":[10.98612,64.52888],"type":"Point"}
+}

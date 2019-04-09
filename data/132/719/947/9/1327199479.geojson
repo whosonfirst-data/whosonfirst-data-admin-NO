@@ -1,0 +1,71 @@
+{
+  "id": 1327199479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.62512,58.40289,6.62512,58.40289",
+    "geom:latitude":58.40289,
+    "geom:longitude":6.62512,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1004.0",
+    "gn:asciiname":"Skjeggestad",
+    "gn:country_code":"NO",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536871,
+    "gn:latitude":58.40289,
+    "gn:longitude":6.62512,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Skjeggestad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Skjeggestad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296845,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536871
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f0915f1c8fdb0e31a72c67f94169458f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296845,
+            "locality_id":1327199479,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1327199479,
+    "wof:lastmodified":1537675987,
+    "wof:name":"Skjeggestad",
+    "wof:parent_id":1159296845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.62512,
+    58.40289,
+    6.62512,
+    58.40289
+],
+  "geometry": {"coordinates":[6.62512,58.40289],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1225948461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.29407,60.31631,11.29407,60.31631",
+    "geom:latitude":60.31631,
+    "geom:longitude":11.29407,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"237.0",
+    "gn:asciiname":"Styrigrenda",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3135540,
+    "gn:latitude":60.31631,
+    "gn:longitude":11.29407,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Styrigrenda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Styrigrenna",
+        "Styrigrenda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297097,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3135540,
+        "wk:page":"Styrigrenda"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a3d8be4a781888f27c81630b0b882d80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297097,
+            "locality_id":1225948461,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1225948461,
+    "wof:lastmodified":1537675699,
+    "wof:name":"Styrigrenda",
+    "wof:parent_id":1159297097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.29407,
+    60.31631,
+    11.29407,
+    60.31631
+],
+  "geometry": {"coordinates":[11.29407,60.31631],"type":"Point"}
+}

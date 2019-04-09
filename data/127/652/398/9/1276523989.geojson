@@ -1,0 +1,68 @@
+{
+  "id": 1276523989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.17046,59.36329,8.17046,59.36329",
+    "geom:latitude":59.36329,
+    "geom:longitude":8.17046,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"829.0",
+    "gn:asciiname":"Vraliosen",
+    "gn:country_code":"NO",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3131313,
+    "gn:latitude":59.36329,
+    "gn:longitude":8.17046,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Vr\u00e5liosen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297233,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3131313
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"231de5d3b7517c627d2459b55540e00f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297233,
+            "locality_id":1276523989,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1276523989,
+    "wof:lastmodified":1537019718,
+    "wof:name":"Vraliosen",
+    "wof:parent_id":1159297233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.17046,
+    59.36329,
+    8.17046,
+    59.36329
+],
+  "geometry": {"coordinates":[8.17046,59.36329],"type":"Point"}
+}

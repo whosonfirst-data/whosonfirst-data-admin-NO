@@ -1,0 +1,82 @@
+{
+  "id": 1125822787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.053154,69.609052,18.053154,69.609052",
+    "geom:latitude":69.609052,
+    "geom:longitude":18.053154,
+    "gn:gn_country":null,
+    "iso:country":"NO",
+    "lbl:latitude":69.609052,
+    "lbl:longitude":18.053154,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Brensholmen",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Troms Fylke",
+    "qs_pg:photos":263,
+    "qs_pg:photos_1k":53,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":263,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1087177,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":15000861,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Troms Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297187,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15000861,
+        "qs_pg:id":1087177
+    },
+    "wof:country":"NO",
+    "wof:created":1497292146,
+    "wof:geomhash":"2830e763043b278d37cc9409ef5d1948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297187,
+            "locality_id":1125822787,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1125822787,
+    "wof:lastmodified":1529700448,
+    "wof:name":"Brensholmen",
+    "wof:parent_id":1159297187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.053154,
+    69.609052,
+    18.053154,
+    69.609052
+],
+  "geometry": {"coordinates":[18.053154,69.60905200000001],"type":"Point"}
+}

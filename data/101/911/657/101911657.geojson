@@ -1,0 +1,105 @@
+{
+  "id": 101911657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000085,
+    "geom:area_square_m":547145.911145,
+    "geom:bbox":"8.85173268358,58.4780924284,8.86878586512,58.4871707276",
+    "geom:latitude":58.482029,
+    "geom:longitude":8.85983,
+    "iso:country":"NO",
+    "lbl:latitude":58.481732,
+    "lbl:longitude":8.858538,
+    "mps:latitude":58.481732,
+    "mps:longitude":8.858538,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Kongshamn"
+    ],
+    "name:eng_x_preferred":[
+        "Kongshamn"
+    ],
+    "name:fre_x_preferred":[
+        "Kongshamn"
+    ],
+    "name:jav_x_preferred":[
+        "Kongshamn"
+    ],
+    "name:may_x_preferred":[
+        "Kongshamn"
+    ],
+    "name:nno_x_preferred":[
+        "Kongshamn"
+    ],
+    "name:nob_x_preferred":[
+        "Kongshamn"
+    ],
+    "name:rum_x_preferred":[
+        "Kongshamn"
+    ],
+    "name:swe_x_preferred":[
+        "Kongshamn"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Aust-Agder",
+    "qs:a1r":"2",
+    "qs:adm0":"Norge",
+    "qs:id":0,
+    "qs:la":"Arendal",
+    "qs:la_lc":"*NO0906",
+    "qs:level":"locality",
+    "qs:loc":"Kongshamn",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet near local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":113,
+    "wof:belongsto":[
+        102191581,
+        1159297607,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":860752,
+        "qs:id":35022,
+        "qs_pg:id":35022,
+        "wd:id":"Q2614172"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"150a4eeedf581edf043c9f6ee09ce49e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297607,
+            "locality_id":101911657,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":101911657,
+    "wof:lastmodified":1529699813,
+    "wof:name":"Kongshamn",
+    "wof:parent_id":1159297607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.8517326835771,
+    58.47809242844403,
+    8.86878586512324,
+    58.48717072755471
+],
+  "geometry": {"coordinates":[[[8.86351005536636,58.48717072755471],[8.86356708365338,58.48537233787221],[8.86527829498317,58.48538665927384],[8.86530676369301,58.48448746444626],[8.86701793339267,58.48450176386234],[8.86704635751454,58.48360256890879],[8.86875748558452,58.48361684634068],[8.86878586512324,58.48271765126174],[8.86707477996259,58.48270337423594],[8.86713161983602,58.48090498573134],[8.86370962498125,58.48087636857576],[8.86373812820966,58.47997717555762],[8.86202717561014,58.47996283502403],[8.86205572005872,58.47906364269386],[8.86034481164467,58.47904928099337],[8.86037339730831,58.47815008935169],[8.85352994814377,58.47809242844403],[8.85350119089776,58.47899161844646],[8.85179028894805,58.47897714887375],[8.8517326835771,58.48077552889606],[8.85344367132501,58.48078999929163],[8.85338614497635,58.48258838125724],[8.8550972198301,58.48260283089877],[8.85503977252307,58.48440121480758],[8.85675093449095,58.48441564369267],[8.85672225121277,58.48531483647798],[8.86185587360967,58.4853579948919],[8.86179875948767,58.48715638375847],[8.86351005536636,58.48717072755471]]],"type":"Polygon"}
+}

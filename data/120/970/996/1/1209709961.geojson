@@ -1,0 +1,66 @@
+{
+  "id": 1209709961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.46667,65.76667,12.46667,65.76667",
+    "geom:latitude":65.76667,
+    "geom:longitude":12.46667,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1820.0",
+    "gn:asciiname":"Myklebostad",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3145211,
+    "gn:latitude":65.76667,
+    "gn:longitude":12.46667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Myklebostad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297007,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3145211
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1ac23831c9e786b7fa2500d3f7dd857c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297007,
+            "locality_id":1209709961,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1209709961,
+    "wof:lastmodified":1536391140,
+    "wof:name":"Myklebostad",
+    "wof:parent_id":1159297007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.46667,
+    65.76666999999999,
+    12.46667,
+    65.76666999999999
+],
+  "geometry": {"coordinates":[12.46667,65.76666999999999],"type":"Point"}
+}

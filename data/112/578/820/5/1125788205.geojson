@@ -1,0 +1,82 @@
+{
+  "id": 1125788205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.294651,61.511666,6.294651,61.511666",
+    "geom:latitude":61.511666,
+    "geom:longitude":6.294651,
+    "gn:gn_country":null,
+    "iso:country":"NO",
+    "lbl:latitude":61.511666,
+    "lbl:longitude":6.294651,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Sanddal",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Sogn og Fjordane Fylke",
+    "qs_pg:photos":29,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":29,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1199289,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":55871770,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Sogn og Fjordane Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296765,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55871770,
+        "qs_pg:id":1199289
+    },
+    "wof:country":"NO",
+    "wof:created":1497290760,
+    "wof:geomhash":"11ae269cf3cd10dbe874892c91ff0ea2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296765,
+            "locality_id":1125788205,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1125788205,
+    "wof:lastmodified":1529699942,
+    "wof:name":"Sanddal",
+    "wof:parent_id":1159296765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.294651,
+    61.511666,
+    6.294651,
+    61.511666
+],
+  "geometry": {"coordinates":[6.294651,61.511666],"type":"Point"}
+}

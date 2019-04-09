@@ -1,0 +1,71 @@
+{
+  "id": 1293261933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.73333,62.68333,11.73333,62.68333",
+    "geom:latitude":62.68333,
+    "geom:longitude":11.73333,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5025.0",
+    "gn:asciiname":"Kokvollen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3149655,
+    "gn:latitude":62.68333,
+    "gn:longitude":11.73333,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Kokvollen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kokvold",
+        "Kokvollen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297133,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3149655
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ca622b573ef56436b1a3a573916fb1cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297133,
+            "locality_id":1293261933,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1293261933,
+    "wof:lastmodified":1537675793,
+    "wof:name":"Kokvollen",
+    "wof:parent_id":1159297133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.73333,
+    62.68333000000001,
+    11.73333,
+    62.68333000000001
+],
+  "geometry": {"coordinates":[11.73333,62.68333000000001],"type":"Point"}
+}

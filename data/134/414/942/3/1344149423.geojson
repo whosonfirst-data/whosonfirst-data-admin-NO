@@ -1,0 +1,68 @@
+{
+  "id": 1344149423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.15,60.05,12.15,60.05",
+    "geom:latitude":60.05,
+    "geom:longitude":12.15,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"420.0",
+    "gn:asciiname":"Grasmo",
+    "gn:country_code":"NO",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3155211,
+    "gn:latitude":60.05,
+    "gn:longitude":12.15,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Grasmo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296881,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3155211
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"62b1ad4f8442a7fa1d611f0448ae6b1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296881,
+            "locality_id":1344149423,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1344149423,
+    "wof:lastmodified":1536747026,
+    "wof:name":"Grasmo",
+    "wof:parent_id":1159296881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.15,
+    60.05,
+    12.15,
+    60.05
+],
+  "geometry": {"coordinates":[12.15,60.05],"type":"Point"}
+}

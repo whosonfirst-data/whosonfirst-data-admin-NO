@@ -1,0 +1,68 @@
+{
+  "id": 1344238035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.37099,61.73245,9.37099,61.73245",
+    "geom:latitude":61.73245,
+    "geom:longitude":9.37099,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"517.0",
+    "gn:asciiname":"Nedre Heidal",
+    "gn:country_code":"NO",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7778889,
+    "gn:latitude":61.73245,
+    "gn:longitude":9.37099,
+    "gn:modification_date":"2017-09-23",
+    "gn:name":"Nedre Heidal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297291,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7778889
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e81ab764d6bfc57a2e18f4201da57cba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297291,
+            "locality_id":1344238035,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1344238035,
+    "wof:lastmodified":1536617167,
+    "wof:name":"Nedre Heidal",
+    "wof:parent_id":1159297291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.37099,
+    61.73245,
+    9.37099,
+    61.73245
+],
+  "geometry": {"coordinates":[9.37099,61.73245],"type":"Point"}
+}

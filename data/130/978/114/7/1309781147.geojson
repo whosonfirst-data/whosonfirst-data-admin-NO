@@ -1,0 +1,68 @@
+{
+  "id": 1309781147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.07278,58.26292,8.07278,58.26292",
+    "geom:latitude":58.26292,
+    "geom:longitude":8.07278,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1001.0",
+    "gn:asciiname":"Rosseland",
+    "gn:country_code":"NO",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141250,
+    "gn:latitude":58.26292,
+    "gn:longitude":8.07278,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Rosseland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296703,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141250
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9bdc53820f9eb27f4d6dc708b3a171be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296703,
+            "locality_id":1309781147,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1309781147,
+    "wof:lastmodified":1536966462,
+    "wof:name":"Rosseland",
+    "wof:parent_id":1159296703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.07278,
+    58.26292,
+    8.07278,
+    58.26292
+],
+  "geometry": {"coordinates":[8.07278,58.26292],"type":"Point"}
+}

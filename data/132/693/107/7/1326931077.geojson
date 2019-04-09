@@ -1,0 +1,68 @@
+{
+  "id": 1326931077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.8,59.7,9.8,59.7",
+    "geom:latitude":59.7,
+    "geom:longitude":9.8,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"624.0",
+    "gn:asciiname":"Fiskum",
+    "gn:country_code":"NO",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3157455,
+    "gn:latitude":59.7,
+    "gn:longitude":9.8,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Fiskum",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297345,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3157455
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"563fa76274a22978fdb98c799b905643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297345,
+            "locality_id":1326931077,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1326931077,
+    "wof:lastmodified":1536906660,
+    "wof:name":"Fiskum",
+    "wof:parent_id":1159297345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8,
+    59.7,
+    9.8,
+    59.7
+],
+  "geometry": {"coordinates":[9.8,59.7],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209807849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.07469,61.53611,11.07469,61.53611",
+    "geom:latitude":61.53611,
+    "geom:longitude":11.07469,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"430.0",
+    "gn:asciiname":"Gustugrenda",
+    "gn:country_code":"NO",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537310,
+    "gn:latitude":61.53611,
+    "gn:longitude":11.07469,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Gustugrenda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Gustugrenda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297241,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537310
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a605c4afbaefecddab958f63989643a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297241,
+            "locality_id":1209807849,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1209807849,
+    "wof:lastmodified":1537676006,
+    "wof:name":"Gustugrenda",
+    "wof:parent_id":1159297241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.07469,
+    61.53611,
+    11.07469,
+    61.53611
+],
+  "geometry": {"coordinates":[11.07469,61.53611],"type":"Point"}
+}

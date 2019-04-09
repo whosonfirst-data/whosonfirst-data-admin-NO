@@ -1,0 +1,66 @@
+{
+  "id": 1242767337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.42018,68.66678,14.42018,68.66678",
+    "geom:latitude":68.66678,
+    "geom:longitude":14.42018,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1867.0",
+    "gn:asciiname":"Soberg",
+    "gn:country_code":"NO",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3137992,
+    "gn:latitude":68.66678,
+    "gn:longitude":14.42018,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"S\u00f8berg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297417,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3137992
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c8c533ce653a3e9da4eecc345a7e8399",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297417,
+            "locality_id":1242767337,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1242767337,
+    "wof:lastmodified":1536790791,
+    "wof:name":"Soberg",
+    "wof:parent_id":1159297417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.42018,
+    68.66678,
+    14.42018,
+    68.66678
+],
+  "geometry": {"coordinates":[14.42018,68.66678],"type":"Point"}
+}

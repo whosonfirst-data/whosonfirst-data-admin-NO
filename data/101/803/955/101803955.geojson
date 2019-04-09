@@ -1,0 +1,127 @@
+{
+  "id": 101803955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000121,
+    "geom:area_square_m":745839.610651,
+    "geom:bbox":"5.14340249087,60.2164662783,5.15906713465,60.2306419037",
+    "geom:latitude":60.223107,
+    "geom:longitude":5.150801,
+    "gn:population":627,
+    "iso:country":"NO",
+    "lbl:latitude":60.222884,
+    "lbl:longitude":5.150149,
+    "mps:latitude":60.222884,
+    "mps:longitude":5.150149,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Klokkarvik"
+    ],
+    "name:eng_x_preferred":[
+        "Klokkarvik"
+    ],
+    "name:jav_x_preferred":[
+        "Klokkarvik"
+    ],
+    "name:may_x_preferred":[
+        "Klokkarvik"
+    ],
+    "name:msa_x_preferred":[
+        "Klokkarvik"
+    ],
+    "name:nld_x_preferred":[
+        "Klokkarvik"
+    ],
+    "name:nno_x_preferred":[
+        "Klokkarvik"
+    ],
+    "name:nob_x_preferred":[
+        "Klokkarvik"
+    ],
+    "name:nor_x_preferred":[
+        "Klokkarvik"
+    ],
+    "name:nor_x_variant":[
+        "Klokkarviks"
+    ],
+    "name:ron_x_preferred":[
+        "Klokkarvik"
+    ],
+    "name:rum_x_preferred":[
+        "Klokkarvik"
+    ],
+    "name:spa_x_preferred":[
+        "Klokkarvik"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Hordaland",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"Sund",
+    "qs:la_lc":"*NO1245",
+    "qs:level":"locality",
+    "qs:loc":"Klokkarvik",
+    "qs:loc_alt":"Klokkarvik",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":130,
+    "wof:belongsto":[
+        102191581,
+        1159297139,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01fd52fc-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3206863,
+        "gp:id":15000894,
+        "qs:id":985366,
+        "qs_pg:id":985366,
+        "wd:id":"Q1770913",
+        "wk:page":"Klokkarvik"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"57b60ebd274807ac5add1573889b306d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297139,
+            "locality_id":101803955,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":101803955,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1529700047,
+    "wof:name":"Klokkarvik",
+    "wof:parent_id":1159297139,
+    "wof:placetype":"locality",
+    "wof:population":627,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.14340249086735,
+    60.21646627834519,
+    5.15906713465336,
+    60.23064190369342
+],
+  "geometry": {"coordinates":[[[5.1451982840947,60.23064190369342],[5.14532846722761,60.22974438806625],[5.148919976792,60.22986753002778],[5.14905005628833,60.22897001092554],[5.15084577262201,60.22903154593604],[5.15110581182961,60.22723650475154],[5.1529014388351,60.22729801330451],[5.15316135020379,60.22550296938903],[5.15495688788747,60.22556445148717],[5.15521667144537,60.22376940484253],[5.1588075743885,60.22389229339984],[5.15906713465336,60.22209724031552],[5.15727177559052,60.22203581111745],[5.15779099038167,60.21844571533342],[5.15599582850638,60.2183842708265],[5.15625548300869,60.21658922812588],[5.15266536881308,60.21646627834519],[5.15253545012342,60.21736379585815],[5.15074035459963,60.21730228501406],[5.15061038010413,60.21819980091476],[5.14881524305247,60.21813826548095],[5.14868521274525,60.21903577976877],[5.14689003416646,60.21897421974376],[5.14662985383603,60.22076924533718],[5.14483458598681,60.22070765885923],[5.14444411163475,60.22340019351117],[5.14623952273382,60.22346178557183],[5.14571896810082,60.22705184266295],[5.14392336596097,60.22699024315699],[5.14340249086735,60.23058029674047],[5.1451982840947,60.23064190369342]]],"type":"Polygon"}
+}

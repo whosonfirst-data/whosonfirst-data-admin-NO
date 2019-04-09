@@ -1,0 +1,77 @@
+{
+  "id": 1293486775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.45772,69.6857,30.45772,69.6857",
+    "geom:latitude":69.6857,
+    "geom:longitude":30.45772,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2030.0",
+    "gn:asciiname":"Isomukka",
+    "gn:country_code":"NO",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537556,
+    "gn:latitude":69.6857,
+    "gn:longitude":30.45772,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Isomukka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fkv_x_preferred":[
+        "Isomukka"
+    ],
+    "name:nor_x_preferred":[
+        "Storbukt"
+    ],
+    "name:sme_x_preferred":[
+        "Stuorragohppi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296947,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537556
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"82f1a43ff5f92e7d4dd5134e739b1142",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296947,
+            "locality_id":1293486775,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1293486775,
+    "wof:lastmodified":1537676017,
+    "wof:name":"Isomukka",
+    "wof:parent_id":1159296947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.45772,
+    69.6857,
+    30.45772,
+    69.6857
+],
+  "geometry": {"coordinates":[30.45772,69.6857],"type":"Point"}
+}

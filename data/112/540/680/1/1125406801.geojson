@@ -1,0 +1,80 @@
+{
+  "id": 1125406801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-04-24",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.769,59.90592,10.769,59.90592",
+    "geom:latitude":59.90592,
+    "geom:longitude":10.769,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":39500,
+    "gn:population":39500,
+    "iso:country":"NO",
+    "lbl:latitude":59.90592,
+    "lbl:longitude":10.769,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:nor_x_preferred":[
+        "Bydel Gamle Oslo"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6940966,
+    "qs_pg:gn_pop":39500,
+    "qs_pg:name":"Gamle Oslo District",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":1153882,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633341,
+        85687089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6940966,
+        "qs_pg:id":1153882
+    },
+    "wof:country":"NO",
+    "wof:created":1497049690,
+    "wof:geomhash":"0bf790e0023cd1e09ade12a8c6048e5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1125406801,
+            "region_id":85687089
+        }
+    ],
+    "wof:id":1125406801,
+    "wof:lastmodified":1524600350,
+    "wof:name":"Gamle Oslo District",
+    "wof:parent_id":85687089,
+    "wof:placetype":"localadmin",
+    "wof:population":39500,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.769,
+    59.90592,
+    10.769,
+    59.90592
+],
+  "geometry": {"coordinates":[10.769,59.90592],"type":"Point"}
+}

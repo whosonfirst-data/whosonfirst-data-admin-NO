@@ -1,0 +1,113 @@
+{
+  "id": 1125817963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.1575,60.37333,5.1575,60.37333",
+    "geom:latitude":60.37333,
+    "geom:longitude":5.1575,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":60.37333,
+    "lbl:longitude":5.1575,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Knarrevik"
+    ],
+    "name:eng_x_preferred":[
+        "Knarrevik"
+    ],
+    "name:fre_x_preferred":[
+        "Knarrevik"
+    ],
+    "name:jav_x_preferred":[
+        "Knarrevik"
+    ],
+    "name:may_x_preferred":[
+        "Knarrevik"
+    ],
+    "name:nno_x_preferred":[
+        "Knarrevik"
+    ],
+    "name:nob_x_preferred":[
+        "Knarrevik"
+    ],
+    "name:unk_x_variant":[
+        "Knarrvika"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3149722,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Knarrevik",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Hordaland Fylke",
+    "qs_pg:photos":594,
+    "qs_pg:photos_1k":120,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":594,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1167480,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":860699,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Hordaland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296987,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3149722,
+        "gp:id":860699,
+        "qs_pg:id":1167480,
+        "wd:id":"Q1773190"
+    },
+    "wof:country":"NO",
+    "wof:created":1497291922,
+    "wof:geomhash":"1f87e376ae7c6d560d2e541a4d7b3838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296987,
+            "locality_id":1125817963,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1125817963,
+    "wof:lastmodified":1529700043,
+    "wof:name":"Knarrevik",
+    "wof:parent_id":1159296987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.1575,
+    60.37333,
+    5.1575,
+    60.37333
+],
+  "geometry": {"coordinates":[5.1575,60.37333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209487817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.03333,63.66667,9.03333,63.66667",
+    "geom:latitude":63.66667,
+    "geom:longitude":9.03333,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5013.0",
+    "gn:asciiname":"Ulvan",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3133337,
+    "gn:latitude":63.66667,
+    "gn:longitude":9.03333,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Ulvan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ulven",
+        "Ulvan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3133337,
+        "wk:page":"Ulvan"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f523f3f32a78abf50fbf91829fa28e8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209487817
+        }
+    ],
+    "wof:id":1209487817,
+    "wof:lastmodified":1537675687,
+    "wof:name":"Ulvan",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.03333,
+    63.66667,
+    9.03333,
+    63.66667
+],
+  "geometry": {"coordinates":[9.03333,63.66667],"type":"Point"}
+}

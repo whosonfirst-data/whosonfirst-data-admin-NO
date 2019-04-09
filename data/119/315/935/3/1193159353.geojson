@@ -1,0 +1,68 @@
+{
+  "id": 1193159353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.53333,62.5,6.53333,62.5",
+    "geom:latitude":62.5,
+    "geom:longitude":6.53333,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1529.0",
+    "gn:asciiname":"Brusdal",
+    "gn:country_code":"NO",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3159856,
+    "gn:latitude":62.5,
+    "gn:longitude":6.53333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Brusdal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297019,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3159856
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"af8aee742122f4b2b9a2598726579870",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297019,
+            "locality_id":1193159353,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1193159353,
+    "wof:lastmodified":1536369689,
+    "wof:name":"Brusdal",
+    "wof:parent_id":1159297019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.53333,
+    62.5,
+    6.53333,
+    62.5
+],
+  "geometry": {"coordinates":[6.53333,62.5],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1310203973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.10499,69.67931,30.10499,69.67931",
+    "geom:latitude":69.67931,
+    "geom:longitude":30.10499,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2030.0",
+    "gn:asciiname":"Elvenes",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":780230,
+    "gn:latitude":69.67931,
+    "gn:longitude":30.10499,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Elvenes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Elvenes"
+    ],
+    "name:nor_x_preferred":[
+        "Elvenes"
+    ],
+    "name:nor_x_variant":[
+        "Elvnes"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c\u0432\u0435\u043d\u0435\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296947,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":780230,
+        "wk:page":"Elvenes%2C_Finnmark"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"810603ac3002e8cea24725ae9650b65c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296947,
+            "locality_id":1310203973,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1310203973,
+    "wof:lastmodified":1537675664,
+    "wof:name":"Elvenes",
+    "wof:parent_id":1159296947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.10499,
+    69.67931,
+    30.10499,
+    69.67931
+],
+  "geometry": {"coordinates":[30.10499,69.67931],"type":"Point"}
+}

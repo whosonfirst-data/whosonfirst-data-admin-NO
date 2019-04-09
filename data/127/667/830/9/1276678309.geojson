@@ -1,0 +1,71 @@
+{
+  "id": 1276678309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.72658,62.98182,8.72658,62.98182",
+    "geom:latitude":62.98182,
+    "geom:longitude":8.72658,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1566.0",
+    "gn:asciiname":"Nedre Buhagan",
+    "gn:country_code":"NO",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536276,
+    "gn:latitude":62.98182,
+    "gn:longitude":8.72658,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Nedre Buhagan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Nedre Buhagan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297613,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536276
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"16acea9c45fadb292561c8ea8f93ace9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297613,
+            "locality_id":1276678309,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1276678309,
+    "wof:lastmodified":1537675962,
+    "wof:name":"Nedre Buhagan",
+    "wof:parent_id":1159297613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.72658,
+    62.98181999999999,
+    8.72658,
+    62.98181999999999
+],
+  "geometry": {"coordinates":[8.72658,62.98181999999999],"type":"Point"}
+}

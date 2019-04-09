@@ -1,0 +1,75 @@
+{
+  "id": 1260084889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.88376,69.72995,29.88376,69.72995",
+    "geom:latitude":69.72995,
+    "geom:longitude":29.88376,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2030.0",
+    "gn:asciiname":"Hoybukt",
+    "gn:country_code":"NO",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":779540,
+    "gn:latitude":69.72995,
+    "gn:longitude":29.88376,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"H\u00f8ybukt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u00f6ibugten",
+        "H\u00f6ibukta",
+        "Hoybukten",
+        "H\u00f6bugten",
+        "H\u00f8ybukt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296947,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":779540
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ca3620b88a1ce4f777d53b682fcc9ae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296947,
+            "locality_id":1260084889,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1260084889,
+    "wof:lastmodified":1537675660,
+    "wof:name":"Hoybukt",
+    "wof:parent_id":1159296947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.88376,
+    69.72995,
+    29.88376,
+    69.72995
+],
+  "geometry": {"coordinates":[29.88376,69.72995],"type":"Point"}
+}

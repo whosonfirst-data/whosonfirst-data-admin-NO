@@ -1,0 +1,119 @@
+{
+  "id": 1125825583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.68333,59.05,9.68333,59.05",
+    "geom:latitude":59.05,
+    "geom:longitude":9.68333,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":59.05,
+    "lbl:longitude":9.68333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0430\u0442\u0445\u0435\u043b\u0435"
+    ],
+    "name:dan_x_preferred":[
+        "Stathelle"
+    ],
+    "name:dut_x_preferred":[
+        "Stathelle"
+    ],
+    "name:eng_x_preferred":[
+        "Stathelle"
+    ],
+    "name:fre_x_preferred":[
+        "Stathelle"
+    ],
+    "name:ita_x_preferred":[
+        "Stathelle"
+    ],
+    "name:nno_x_preferred":[
+        "Stathelle"
+    ],
+    "name:nob_x_preferred":[
+        "Stathelle"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0442\u0445\u0435\u043b\u043b\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Stathelle"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3137142,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Stathelle",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Telemark Fylke",
+    "qs_pg:photos":161,
+    "qs_pg:photos_1k":33,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":161,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1168995,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":864335,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Telemark Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296837,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3137142,
+        "gp:id":864335,
+        "qs_pg:id":1168995,
+        "wd:id":"Q2715446"
+    },
+    "wof:country":"NO",
+    "wof:created":1497292261,
+    "wof:geomhash":"4309c0c51e4132686fe34974c5d40828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296837,
+            "locality_id":1125825583,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1125825583,
+    "wof:lastmodified":1529700388,
+    "wof:name":"Stathelle",
+    "wof:parent_id":1159296837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.68333,
+    59.05,
+    9.68333,
+    59.05
+],
+  "geometry": {"coordinates":[9.68333,59.05],"type":"Point"}
+}

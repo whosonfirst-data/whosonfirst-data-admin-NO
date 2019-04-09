@@ -1,0 +1,68 @@
+{
+  "id": 1276572731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.28186,60.62097,6.28186,60.62097",
+    "geom:latitude":60.62097,
+    "geom:longitude":6.28186,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1235.0",
+    "gn:asciiname":"Viki",
+    "gn:country_code":"NO",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3131671,
+    "gn:latitude":60.62097,
+    "gn:longitude":6.28186,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Viki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296873,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3131671
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ce6539f7d53527e9f757df1158f6315d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296873,
+            "locality_id":1276572731,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1276572731,
+    "wof:lastmodified":1536955548,
+    "wof:name":"Viki",
+    "wof:parent_id":1159296873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.28186,
+    60.62096999999999,
+    6.28186,
+    60.62096999999999
+],
+  "geometry": {"coordinates":[6.28186,60.62096999999999],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1309795709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.17226,65.90817,13.17226,65.90817",
+    "geom:latitude":65.90817,
+    "geom:longitude":13.17226,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1824.0",
+    "gn:asciiname":"Softing",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3137983,
+    "gn:latitude":65.90817,
+    "gn:longitude":13.17226,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"S\u00f8fting",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296877,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3137983
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"01ef09110aeda6c1c22dfac6fee2e101",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296877,
+            "locality_id":1309795709,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1309795709,
+    "wof:lastmodified":1536946023,
+    "wof:name":"Softing",
+    "wof:parent_id":1159296877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.17226,
+    65.90817,
+    13.17226,
+    65.90817
+],
+  "geometry": {"coordinates":[13.17226,65.90817],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226260315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.91432,59.76279,10.91432,59.76279",
+    "geom:latitude":59.76279,
+    "geom:longitude":10.91432,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"213.0",
+    "gn:asciiname":"Sandvoll",
+    "gn:country_code":"NO",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6947474,
+    "gn:latitude":59.76279,
+    "gn:longitude":10.91432,
+    "gn:modification_date":"2009-08-25",
+    "gn:name":"Sandvoll",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296817,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6947474
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9f0aec26f8ef792d85ed5beface2be05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296817,
+            "locality_id":1226260315,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1226260315,
+    "wof:lastmodified":1536913037,
+    "wof:name":"Sandvoll",
+    "wof:parent_id":1159296817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.91432,
+    59.76279,
+    10.91432,
+    59.76279
+],
+  "geometry": {"coordinates":[10.91432,59.76279],"type":"Point"}
+}

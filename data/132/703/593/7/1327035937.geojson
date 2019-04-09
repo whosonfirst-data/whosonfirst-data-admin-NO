@@ -1,0 +1,71 @@
+{
+  "id": 1327035937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.19135,60.06743,10.19135,60.06743",
+    "geom:latitude":60.06743,
+    "geom:longitude":10.19135,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"612.0",
+    "gn:asciiname":"Kolsas",
+    "gn:country_code":"NO",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536509,
+    "gn:latitude":60.06743,
+    "gn:longitude":10.19135,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Kols\u00e5s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Kols\u00e5s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296811,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536509
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8132ae030f7eed3b0e290322c9a3ff8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296811,
+            "locality_id":1327035937,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1327035937,
+    "wof:lastmodified":1537675972,
+    "wof:name":"Kolsas",
+    "wof:parent_id":1159296811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.19135,
+    60.06743,
+    10.19135,
+    60.06743
+],
+  "geometry": {"coordinates":[10.19135,60.06743],"type":"Point"}
+}

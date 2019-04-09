@@ -1,0 +1,75 @@
+{
+  "id": 1226137305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.47586,59.60931,5.47586,59.60931",
+    "geom:latitude":59.60931,
+    "geom:longitude":5.47586,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1216.0",
+    "gn:asciiname":"Forde",
+    "gn:country_code":"NO",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3156806,
+    "gn:latitude":59.60931,
+    "gn:longitude":5.47586,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"F\u00f8rde",
+    "gn:population":382,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "F\u00f8rde"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297363,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3156806,
+        "wk:page":"F%C3%B8rde%2C_Hordaland"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"fb878acf6367a9a4d2b0ab2ee15ec04e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297363,
+            "locality_id":1226137305,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1226137305,
+    "wof:lastmodified":1537675840,
+    "wof:name":"Forde",
+    "wof:parent_id":1159297363,
+    "wof:placetype":"locality",
+    "wof:population":382,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.47586,
+    59.60931,
+    5.47586,
+    59.60931
+],
+  "geometry": {"coordinates":[5.47586,59.60931],"type":"Point"}
+}

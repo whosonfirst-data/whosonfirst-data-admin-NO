@@ -1,0 +1,69 @@
+{
+  "id": 1260252035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.18491,62.58171,9.18491,62.58171",
+    "geom:latitude":62.58171,
+    "geom:longitude":9.18491,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5021.0",
+    "gn:asciiname":"Klevgardan",
+    "gn:country_code":"NO",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536168,
+    "gn:latitude":62.58171,
+    "gn:longitude":9.18491,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Klevgardan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Klevgardan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297021,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536168
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ec5c8c76dd9a23f54809cd64ae19a582",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297021,
+            "locality_id":1260252035,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1260252035,
+    "wof:lastmodified":1537675957,
+    "wof:name":"Klevgardan",
+    "wof:parent_id":1159297021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.18491,
+    62.58171,
+    9.18491,
+    62.58171
+],
+  "geometry": {"coordinates":[9.18491,62.58171],"type":"Point"}
+}

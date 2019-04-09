@@ -1,0 +1,68 @@
+{
+  "id": 1276405837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.55824,68.76382,16.55824,68.76382",
+    "geom:latitude":68.76382,
+    "geom:longitude":16.55824,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1903.0",
+    "gn:asciiname":"Midkila",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3224169,
+    "gn:latitude":68.76382,
+    "gn:longitude":16.55824,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Midkila",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297451,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3224169
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b1e51029084a10ee4c8d6a9b11707326",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297451,
+            "locality_id":1276405837,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1276405837,
+    "wof:lastmodified":1536681530,
+    "wof:name":"Midkila",
+    "wof:parent_id":1159297451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.55824,
+    68.76382,
+    16.55824,
+    68.76382
+],
+  "geometry": {"coordinates":[16.55824,68.76382],"type":"Point"}
+}

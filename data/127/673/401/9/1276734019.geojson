@@ -1,0 +1,68 @@
+{
+  "id": 1276734019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.4,59.61667,8.4,59.61667",
+    "geom:latitude":59.61667,
+    "geom:longitude":8.4,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"828.0",
+    "gn:asciiname":"Ronjom",
+    "gn:country_code":"NO",
+    "gn:dem":701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141369,
+    "gn:latitude":59.61667,
+    "gn:longitude":8.4,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"R\u00f8njom",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296965,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141369
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"505de827333be27a33a386d587ad7dfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296965,
+            "locality_id":1276734019,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1276734019,
+    "wof:lastmodified":1536738937,
+    "wof:name":"Ronjom",
+    "wof:parent_id":1159296965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4,
+    59.61666999999999,
+    8.4,
+    59.61666999999999
+],
+  "geometry": {"coordinates":[8.4,59.61666999999999],"type":"Point"}
+}

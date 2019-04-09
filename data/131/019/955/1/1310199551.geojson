@@ -1,0 +1,72 @@
+{
+  "id": 1310199551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.79376,60.58119,5.79376,60.58119",
+    "geom:latitude":60.58119,
+    "geom:longitude":5.79376,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1251.0",
+    "gn:asciiname":"Dalegarden",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535676,
+    "gn:latitude":60.58119,
+    "gn:longitude":5.79376,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Dalegarden",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Dalegarden"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297437,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535676,
+        "wk:page":"Dalegarden"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a74f083ff424c05390a40a32a2fa74c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297437,
+            "locality_id":1310199551,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1310199551,
+    "wof:lastmodified":1537675936,
+    "wof:name":"Dalegarden",
+    "wof:parent_id":1159297437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.79376,
+    60.58119,
+    5.79376,
+    60.58119
+],
+  "geometry": {"coordinates":[5.79376,60.58119],"type":"Point"}
+}

@@ -1,0 +1,107 @@
+{
+  "id": 1125963499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.984241,60.980269,8.984241,60.980269",
+    "geom:latitude":60.980269,
+    "geom:longitude":8.984241,
+    "gn:gn_country":null,
+    "iso:country":"NO",
+    "lbl:latitude":60.980269,
+    "lbl:longitude":8.984241,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "R\u00f8n"
+    ],
+    "name:eng_x_preferred":[
+        "R\u00f8n"
+    ],
+    "name:fre_x_preferred":[
+        "R\u00f8n"
+    ],
+    "name:jav_x_preferred":[
+        "R\u00f8n"
+    ],
+    "name:may_x_preferred":[
+        "R\u00f8n"
+    ],
+    "name:nno_x_preferred":[
+        "R\u00f8n"
+    ],
+    "name:nob_x_preferred":[
+        "R\u00f8n"
+    ],
+    "name:rum_x_preferred":[
+        "R\u00f8n"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"R\u00f8n",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Oppland Fylke",
+    "qs_pg:photos":220,
+    "qs_pg:photos_1k":45,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":220,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1063331,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":15000677,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Oppland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297391,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15000677,
+        "qs_pg:id":1063331,
+        "wd:id":"Q2156336"
+    },
+    "wof:country":"NO",
+    "wof:created":1497297887,
+    "wof:geomhash":"3538557747cebe8b21fd2c0c0367560a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297391,
+            "locality_id":1125963499,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1125963499,
+    "wof:lastmodified":1529700241,
+    "wof:name":"R\u00f8n",
+    "wof:parent_id":1159297391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.984241,
+    60.980269,
+    8.984241,
+    60.980269
+],
+  "geometry": {"coordinates":[8.984241,60.980269],"type":"Point"}
+}

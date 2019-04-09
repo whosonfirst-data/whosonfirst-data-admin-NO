@@ -1,0 +1,72 @@
+{
+  "id": 1327397079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.86336,68.90524,17.86336,68.90524",
+    "geom:latitude":68.90524,
+    "geom:longitude":17.86336,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1923.0",
+    "gn:asciiname":"Seljeskog",
+    "gn:country_code":"NO",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3139901,
+    "gn:latitude":68.90524,
+    "gn:longitude":17.86336,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Seljeskog",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seljeskogen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297455,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3139901,
+        "wk:page":"Seljeskog"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c33bf48451f7e22c58d1421057e7a1d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297455,
+            "locality_id":1327397079,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1327397079,
+    "wof:lastmodified":1537675726,
+    "wof:name":"Seljeskog",
+    "wof:parent_id":1159297455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.86336,
+    68.90524,
+    17.86336,
+    68.90524
+],
+  "geometry": {"coordinates":[17.86336,68.90524000000001],"type":"Point"}
+}

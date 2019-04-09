@@ -1,0 +1,66 @@
+{
+  "id": 1343939917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.49092,62.96322,10.49092,62.96322",
+    "geom:latitude":62.96322,
+    "geom:longitude":10.49092,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5027.0",
+    "gn:asciiname":"Buset",
+    "gn:country_code":"NO",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3159670,
+    "gn:latitude":62.96322,
+    "gn:longitude":10.49092,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Buset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296717,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3159670
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"abf5bdb982986d07998ac3af24f0dd54",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296717,
+            "locality_id":1343939917,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1343939917,
+    "wof:lastmodified":1537047692,
+    "wof:name":"Buset",
+    "wof:parent_id":1159296717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.49092,
+    62.96321999999999,
+    10.49092,
+    62.96321999999999
+],
+  "geometry": {"coordinates":[10.49092,62.96321999999999],"type":"Point"}
+}

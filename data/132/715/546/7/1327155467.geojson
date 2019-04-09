@@ -1,0 +1,71 @@
+{
+  "id": 1327155467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.28455,60.34713,5.28455,60.34713",
+    "geom:latitude":60.34713,
+    "geom:longitude":5.28455,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1201",
+    "gn:asciiname":"Saelemyra",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404506,
+    "gn:latitude":60.34713,
+    "gn:longitude":5.28455,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"S\u00e6lemyra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "S\u00e6lemyra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297617,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404506
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"30d956ef3a7fd3ce2bb164a527edac9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":1327155467,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1327155467,
+    "wof:lastmodified":1537675933,
+    "wof:name":"Saelemyra",
+    "wof:parent_id":1159297617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.28455,
+    60.34713000000001,
+    5.28455,
+    60.34713000000001
+],
+  "geometry": {"coordinates":[5.28455,60.34713000000001],"type":"Point"}
+}

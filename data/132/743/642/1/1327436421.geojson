@@ -1,0 +1,77 @@
+{
+  "id": 1327436421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.53661,70.53955,23.53661,70.53955",
+    "geom:latitude":70.53955,
+    "geom:longitude":23.53661,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2004.0",
+    "gn:asciiname":"Eidvageid",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537627,
+    "gn:latitude":70.53955,
+    "gn:longitude":23.53661,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Eidv\u00e5geid",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Eidv\u00e5geid"
+    ],
+    "name:nor_x_variant":[
+        "Eidv\u00e5geidet"
+    ],
+    "name:sme_x_preferred":[
+        "Roavvi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296825,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537627
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e798ca6e25b38735b2cb634b613e99e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296825,
+            "locality_id":1327436421,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1327436421,
+    "wof:lastmodified":1537676021,
+    "wof:name":"Eidvageid",
+    "wof:parent_id":1159296825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.53661,
+    70.53955,
+    23.53661,
+    70.53955
+],
+  "geometry": {"coordinates":[23.53661,70.53955000000001],"type":"Point"}
+}

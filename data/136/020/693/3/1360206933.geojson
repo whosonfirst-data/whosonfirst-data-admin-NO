@@ -1,0 +1,73 @@
+{
+  "id": 1360206933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.36775,60.00534,12.36775,60.00534",
+    "geom:latitude":60.00534,
+    "geom:longitude":12.36775,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"402.0",
+    "gn:asciiname":"Kjerret",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3150111,
+    "gn:latitude":60.00534,
+    "gn:longitude":12.36775,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Kjerret",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kj\u00e6ret",
+        "Kjerret"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296807,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3150111
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"09d1184897e98e97ea965ea99a8ab147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296807,
+            "locality_id":1360206933,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1360206933,
+    "wof:lastmodified":1537675796,
+    "wof:name":"Kjerret",
+    "wof:parent_id":1159296807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.36775,
+    60.00534,
+    12.36775,
+    60.00534
+],
+  "geometry": {"coordinates":[12.36775,60.00534],"type":"Point"}
+}

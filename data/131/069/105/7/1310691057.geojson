@@ -1,0 +1,71 @@
+{
+  "id": 1310691057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.53333,67.06667,14.53333,67.06667",
+    "geom:latitude":67.06667,
+    "geom:longitude":14.53333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1839.0",
+    "gn:asciiname":"Oynes",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3142782,
+    "gn:latitude":67.06667,
+    "gn:longitude":14.53333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u00d8ynes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00d6ines",
+        "\u00d8ynes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297265,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3142782
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"cc9e6df8aac5da7a16db7610350bdeff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297265,
+            "locality_id":1310691057,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1310691057,
+    "wof:lastmodified":1537675746,
+    "wof:name":"Oynes",
+    "wof:parent_id":1159297265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.53333,
+    67.06667,
+    14.53333,
+    67.06667
+],
+  "geometry": {"coordinates":[14.53333,67.06667],"type":"Point"}
+}

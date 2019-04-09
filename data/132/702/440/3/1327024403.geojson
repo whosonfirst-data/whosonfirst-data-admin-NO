@@ -1,0 +1,71 @@
+{
+  "id": 1327024403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.48893,67.1651,15.48893,67.1651",
+    "geom:latitude":67.1651,
+    "geom:longitude":15.48893,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1840.0",
+    "gn:asciiname":"Setsa",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3139758,
+    "gn:latitude":67.1651,
+    "gn:longitude":15.48893,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Sets\u00e5",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Setsaa",
+        "Sets\u00e5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297115,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3139758
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"68882c0258928f3978c2fe27c82ac1da",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297115,
+            "locality_id":1327024403,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1327024403,
+    "wof:lastmodified":1537675725,
+    "wof:name":"Setsa",
+    "wof:parent_id":1159297115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.48893,
+    67.1651,
+    15.48893,
+    67.1651
+],
+  "geometry": {"coordinates":[15.48893,67.1651],"type":"Point"}
+}

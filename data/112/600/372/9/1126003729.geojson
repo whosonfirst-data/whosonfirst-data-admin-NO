@@ -1,0 +1,78 @@
+{
+  "id": 1126003729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.73333,60.48333,5.73333,60.48333",
+    "geom:latitude":60.48333,
+    "geom:longitude":5.73333,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":439,
+    "gn:population":439,
+    "iso:country":"NO",
+    "lbl:latitude":60.48333,
+    "lbl:longitude":5.73333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3153605,
+    "qs_pg:gn_pop":439,
+    "qs_pg:name":"Haugland",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":581123,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297437,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3153605,
+        "qs_pg:id":581123
+    },
+    "wof:country":"NO",
+    "wof:created":1497299805,
+    "wof:geomhash":"57838fd840244d6460c9abdf07a00dc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297437,
+            "locality_id":1126003729,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1126003729,
+    "wof:lastmodified":1529700056,
+    "wof:name":"Haugland",
+    "wof:parent_id":1159297437,
+    "wof:placetype":"locality",
+    "wof:population":439,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.73333,
+    60.48333,
+    5.73333,
+    60.48333
+],
+  "geometry": {"coordinates":[5.73333,60.48333],"type":"Point"}
+}

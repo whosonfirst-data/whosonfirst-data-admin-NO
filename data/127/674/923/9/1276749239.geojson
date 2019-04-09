@@ -1,0 +1,71 @@
+{
+  "id": 1276749239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.08997,62.18438,6.08997,62.18438",
+    "geom:latitude":62.18438,
+    "geom:longitude":6.08997,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1520",
+    "gn:asciiname":"Indrehovden",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9403888,
+    "gn:latitude":62.18438,
+    "gn:longitude":6.08997,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Indrehovden",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Indrehovden"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297435,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9403888
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"656750e904df71cb1f3acf443d5aee9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297435,
+            "locality_id":1276749239,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1276749239,
+    "wof:lastmodified":1537675909,
+    "wof:name":"Indrehovden",
+    "wof:parent_id":1159297435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.08997,
+    62.18438,
+    6.08997,
+    62.18438
+],
+  "geometry": {"coordinates":[6.08997,62.18438],"type":"Point"}
+}

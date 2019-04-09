@@ -1,0 +1,68 @@
+{
+  "id": 1326851663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.38333,60.08333,5.38333,60.08333",
+    "geom:latitude":60.08333,
+    "geom:longitude":5.38333,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1223.0",
+    "gn:asciiname":"Eldholm",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3158401,
+    "gn:latitude":60.08333,
+    "gn:longitude":5.38333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Eldholm",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297223,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3158401
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"91b69d1207ae12e91092a0f37a5fca95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297223,
+            "locality_id":1326851663,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1326851663,
+    "wof:lastmodified":1537019946,
+    "wof:name":"Eldholm",
+    "wof:parent_id":1159297223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.38333,
+    60.08333,
+    5.38333,
+    60.08333
+],
+  "geometry": {"coordinates":[5.38333,60.08333],"type":"Point"}
+}

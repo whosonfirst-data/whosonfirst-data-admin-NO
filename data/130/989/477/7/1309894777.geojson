@@ -1,0 +1,74 @@
+{
+  "id": 1309894777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.88884,64.12698,13.88884,64.12698",
+    "geom:latitude":64.12698,
+    "geom:longitude":13.88884,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5042.0",
+    "gn:asciiname":"Sundvik",
+    "gn:country_code":"NO",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536439,
+    "gn:latitude":64.12698,
+    "gn:longitude":13.88884,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Sundvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Sundvik"
+    ],
+    "name:nor_x_variant":[
+        "Sundvika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297309,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536439
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4ebd24c7ace8c05c30a67ef656fa464d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297309,
+            "locality_id":1309894777,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1309894777,
+    "wof:lastmodified":1537675969,
+    "wof:name":"Sundvik",
+    "wof:parent_id":1159297309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.88884,
+    64.12698,
+    13.88884,
+    64.12698
+],
+  "geometry": {"coordinates":[13.88884,64.12698],"type":"Point"}
+}

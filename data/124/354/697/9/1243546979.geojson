@@ -1,0 +1,73 @@
+{
+  "id": 1243546979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.1,61.9,11.1,61.9",
+    "geom:latitude":61.9,
+    "geom:longitude":11.1,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"432.0",
+    "gn:asciiname":"Hoggset",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3152421,
+    "gn:latitude":61.9,
+    "gn:longitude":11.1,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hoggset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haugset",
+        "Hoggset"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297175,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3152421
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"99ee92cfbd3521353dba5eb5370138ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297175,
+            "locality_id":1243546979,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1243546979,
+    "wof:lastmodified":1537675812,
+    "wof:name":"Hoggset",
+    "wof:parent_id":1159297175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.1,
+    61.9,
+    11.1,
+    61.9
+],
+  "geometry": {"coordinates":[11.1,61.9],"type":"Point"}
+}

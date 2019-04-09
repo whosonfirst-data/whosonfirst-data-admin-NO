@@ -1,0 +1,73 @@
+{
+  "id": 1276328287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.06667,64.56667,11.06667,64.56667",
+    "geom:latitude":64.56667,
+    "geom:longitude":11.06667,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5049.0",
+    "gn:asciiname":"Sandmoen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3140336,
+    "gn:latitude":64.56667,
+    "gn:longitude":11.06667,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Sandmoen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sandmo",
+        "Sandmoen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296889,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3140336
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"594a0380473e1ee5e4eb138a0c246490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296889,
+            "locality_id":1276328287,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1276328287,
+    "wof:lastmodified":1537675729,
+    "wof:name":"Sandmoen",
+    "wof:parent_id":1159296889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.06667,
+    64.56667,
+    11.06667,
+    64.56667
+],
+  "geometry": {"coordinates":[11.06667,64.56667],"type":"Point"}
+}

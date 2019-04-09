@@ -1,0 +1,72 @@
+{
+  "id": 1225834891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.93209,68.27991,14.93209,68.27991",
+    "geom:latitude":68.27991,
+    "geom:longitude":14.93209,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1865.0",
+    "gn:asciiname":"Ulvagen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3133361,
+    "gn:latitude":68.27991,
+    "gn:longitude":14.93209,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Ulv\u00e5gen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ullv\u00e5g",
+        "Ulvaag",
+        "Ulv\u00e5gen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296883,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3133361
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1e68eb836c74bb93ea91a485e2b19061",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296883,
+            "locality_id":1225834891,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1225834891,
+    "wof:lastmodified":1537675687,
+    "wof:name":"Ulvagen",
+    "wof:parent_id":1159296883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.93209,
+    68.27991,
+    14.93209,
+    68.27991
+],
+  "geometry": {"coordinates":[14.93209,68.27991],"type":"Point"}
+}

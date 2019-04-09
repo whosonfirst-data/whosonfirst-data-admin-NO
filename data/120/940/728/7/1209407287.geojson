@@ -1,0 +1,65 @@
+{
+  "id": 1209407287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.69402,61.01662,11.69402,61.01662",
+    "geom:latitude":61.01662,
+    "geom:longitude":11.69402,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"427.0",
+    "gn:asciiname":"Moberget",
+    "gn:country_code":"NO",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535894,
+    "gn:latitude":61.01662,
+    "gn:longitude":11.69402,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Moberget",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Moberget"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535894
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"fb5f65415c53a57d55c2504573a4bda3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209407287
+        }
+    ],
+    "wof:id":1209407287,
+    "wof:lastmodified":1537675945,
+    "wof:name":"Moberget",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.69402,
+    61.01662,
+    11.69402,
+    61.01662
+],
+  "geometry": {"coordinates":[11.69402,61.01662],"type":"Point"}
+}

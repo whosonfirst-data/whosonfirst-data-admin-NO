@@ -1,0 +1,71 @@
+{
+  "id": 1326534613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.59308,70.10662,28.59308,70.10662",
+    "geom:latitude":70.10662,
+    "geom:longitude":28.59308,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2027.0",
+    "gn:asciiname":"Sirddagohppi",
+    "gn:country_code":"NO",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536218,
+    "gn:latitude":70.10662,
+    "gn:longitude":28.59308,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Sirddagohppi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sme_x_preferred":[
+        "Sirddagohppi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297285,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536218
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e6448feb8ea1ddfa7f07f13354973809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297285,
+            "locality_id":1326534613,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1326534613,
+    "wof:lastmodified":1537675960,
+    "wof:name":"Sirddagohppi",
+    "wof:parent_id":1159297285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.59308,
+    70.10661999999999,
+    28.59308,
+    70.10661999999999
+],
+  "geometry": {"coordinates":[28.59308,70.10661999999999],"type":"Point"}
+}

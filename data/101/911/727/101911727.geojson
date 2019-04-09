@@ -1,0 +1,118 @@
+{
+  "id": 101911727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000064,
+    "geom:area_square_m":397828.73368,
+    "geom:bbox":"10.4454441423,59.6119759105,10.4648388793,59.6201250263",
+    "geom:latitude":59.616001,
+    "geom:longitude":10.454681,
+    "iso:country":"NO",
+    "lbl:latitude":59.615597,
+    "lbl:longitude":10.454681,
+    "mps:latitude":59.615597,
+    "mps:longitude":10.454681,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Klokkarstua"
+    ],
+    "name:dut_x_preferred":[
+        "Klokkarstua"
+    ],
+    "name:eng_x_preferred":[
+        "Klokkarstua"
+    ],
+    "name:fre_x_preferred":[
+        "Klokkarstua"
+    ],
+    "name:jav_x_preferred":[
+        "Klokkarstua"
+    ],
+    "name:may_x_preferred":[
+        "Klokkarstua"
+    ],
+    "name:msa_x_preferred":[
+        "Klokkarstua"
+    ],
+    "name:nld_x_preferred":[
+        "Klokkarstua"
+    ],
+    "name:nno_x_preferred":[
+        "Klokkarstua"
+    ],
+    "name:nob_x_preferred":[
+        "Klokkarstua"
+    ],
+    "name:nor_x_preferred":[
+        "Klokkarstua"
+    ],
+    "name:ron_x_preferred":[
+        "Klokkarstua"
+    ],
+    "name:rum_x_preferred":[
+        "Klokkarstua"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Buskerud",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:id":0,
+    "qs:la":"Hurum",
+    "qs:la_lc":"*NO0628",
+    "qs:level":"locality",
+    "qs:loc":"Klokkarstua",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet near local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":163,
+    "wof:belongsto":[
+        102191581,
+        1159297231,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404171,
+        "gp:id":15000690,
+        "qs:id":895443,
+        "qs_pg:id":895443,
+        "wd:id":"Q1799102"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e80e3b31167cb78e1a2664973a3a81b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297231,
+            "locality_id":101911727,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":101911727,
+    "wof:lastmodified":1529699846,
+    "wof:name":"Klokkarstua",
+    "wof:parent_id":1159297231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.44544414226772,
+    59.61197591045146,
+    10.46483887928201,
+    59.62012502629443
+],
+  "geometry": {"coordinates":[[[10.46483887928201,59.61556303448219],[10.46482670263902,59.61466332072376],[10.46305935049526,59.61466919685887],[10.46304722088701,59.61376948328626],[10.46127991446633,59.61377533686363],[10.46125575004635,59.61197591045146],[10.45948853563402,59.61198174129999],[10.45951260747898,59.61378116805747],[10.45421068313982,59.613798527337],[10.45418688901987,59.61199909955121],[10.45241967236348,59.61200484087027],[10.45244337390784,59.6138042689962],[10.45067606412044,59.61380998827178],[10.45069967597215,59.61560941817623],[10.44893227304465,59.6156151154056],[10.44896755732736,59.61831426346924],[10.44720001494665,59.61831993881793],[10.4472117315043,59.61921965572782],[10.44544414226772,59.61922530885681],[10.445455813232,59.62012502629443],[10.45252635210852,59.62010227877835],[10.45249078567963,59.61740312956772],[10.45779326725221,59.61738583539028],[10.45778127432288,59.61648612021963],[10.46131616662922,59.61647447918131],[10.46130408183683,59.61557476471535],[10.46483887928201,59.61556303448219]]],"type":"Polygon"}
+}

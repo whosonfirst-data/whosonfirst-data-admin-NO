@@ -1,0 +1,71 @@
+{
+  "id": 1259677699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.25,63.86667,11.25,63.86667",
+    "geom:latitude":63.86667,
+    "geom:longitude":11.25,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5053.0",
+    "gn:asciiname":"Sundnes",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3135423,
+    "gn:latitude":63.86667,
+    "gn:longitude":11.25,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Sundnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Sundnes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296757,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3135423
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ddebc502a3282d40efe639bfd9c09ef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296757,
+            "locality_id":1259677699,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1259677699,
+    "wof:lastmodified":1537675699,
+    "wof:name":"Sundnes",
+    "wof:parent_id":1159296757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.25,
+    63.86666999999999,
+    11.25,
+    63.86666999999999
+],
+  "geometry": {"coordinates":[11.25,63.86666999999999],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1210012103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.15,63.35,8.15,63.35",
+    "geom:latitude":63.35,
+    "geom:longitude":8.15,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1573.0",
+    "gn:asciiname":"Naelvik",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3145081,
+    "gn:latitude":63.35,
+    "gn:longitude":8.15,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"N\u00e6lvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nelvik",
+        "N\u00e6lvik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297121,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3145081
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"181e8a2b2db2d4d2fbd206b3c09666d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297121,
+            "locality_id":1210012103,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1210012103,
+    "wof:lastmodified":1537675761,
+    "wof:name":"Naelvik",
+    "wof:parent_id":1159297121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.15,
+    63.35,
+    8.15,
+    63.35
+],
+  "geometry": {"coordinates":[8.15,63.35],"type":"Point"}
+}

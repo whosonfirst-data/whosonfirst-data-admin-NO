@@ -1,0 +1,66 @@
+{
+  "id": 1293274345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.65007,63.61205,9.65007,63.61205",
+    "geom:latitude":63.61205,
+    "geom:longitude":9.65007,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5016.0",
+    "gn:asciiname":"Fremstad",
+    "gn:country_code":"NO",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3156517,
+    "gn:latitude":63.61205,
+    "gn:longitude":9.65007,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Fremstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297117,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3156517
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6bc6cf7a2d56ebb6965c753a1fdda7fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297117,
+            "locality_id":1293274345,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1293274345,
+    "wof:lastmodified":1537091108,
+    "wof:name":"Fremstad",
+    "wof:parent_id":1159297117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.65007,
+    63.61205,
+    9.65007,
+    63.61205
+],
+  "geometry": {"coordinates":[9.65007,63.61205],"type":"Point"}
+}

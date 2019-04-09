@@ -1,0 +1,72 @@
+{
+  "id": 1293678903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.74309,68.04331,15.74309,68.04331",
+    "geom:latitude":68.04331,
+    "geom:longitude":15.74309,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1849.0",
+    "gn:asciiname":"Kaldvag",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3150589,
+    "gn:latitude":68.04331,
+    "gn:longitude":15.74309,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Kaldv\u00e5g",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaldv\u00e5g",
+        "Kaldvaag",
+        "Vestre Kaldv\u00e5g"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297087,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3150589
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"01c300ea88f72b0fd7e4ac05fb0d451f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297087,
+            "locality_id":1293678903,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1293678903,
+    "wof:lastmodified":1537675801,
+    "wof:name":"Kaldvag",
+    "wof:parent_id":1159297087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.74309,
+    68.04330999999999,
+    15.74309,
+    68.04330999999999
+],
+  "geometry": {"coordinates":[15.74309,68.04330999999999],"type":"Point"}
+}

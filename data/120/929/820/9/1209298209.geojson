@@ -1,0 +1,62 @@
+{
+  "id": 1209298209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.24723,64.60537,12.24723,64.60537",
+    "geom:latitude":64.60537,
+    "geom:longitude":12.24723,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5046.0",
+    "gn:asciiname":"Grungstad",
+    "gn:country_code":"NO",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3154684,
+    "gn:latitude":64.60537,
+    "gn:longitude":12.24723,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Grungstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3154684
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3f5a3179e26b50a2a4660560f3267574",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209298209
+        }
+    ],
+    "wof:id":1209298209,
+    "wof:lastmodified":1536291449,
+    "wof:name":"Grungstad",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.24723,
+    64.60537,
+    12.24723,
+    64.60537
+],
+  "geometry": {"coordinates":[12.24723,64.60536999999999],"type":"Point"}
+}

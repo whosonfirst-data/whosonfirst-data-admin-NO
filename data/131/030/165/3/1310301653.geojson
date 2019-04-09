@@ -1,0 +1,72 @@
+{
+  "id": 1310301653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.47764,60.57516,5.47764,60.57516",
+    "geom:latitude":60.57516,
+    "geom:longitude":5.47764,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1253",
+    "gn:asciiname":"Hosanger",
+    "gn:country_code":"NO",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9404043,
+    "gn:latitude":60.57516,
+    "gn:longitude":5.47764,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Hosanger",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Hosanger"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297251,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404043,
+        "wk:page":"Hosanger"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e0010d84cb9ea43ef910bdddc323759d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297251,
+            "locality_id":1310301653,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1310301653,
+    "wof:lastmodified":1537675914,
+    "wof:name":"Hosanger",
+    "wof:parent_id":1159297251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.47764,
+    60.57516,
+    5.47764,
+    60.57516
+],
+  "geometry": {"coordinates":[5.47764,60.57516],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226610961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.12337,58.08129,7.12337,58.08129",
+    "geom:latitude":58.08129,
+    "geom:longitude":7.12337,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1032.0",
+    "gn:asciiname":"Flatstad",
+    "gn:country_code":"NO",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535713,
+    "gn:latitude":58.08129,
+    "gn:longitude":7.12337,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Flatstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Flatstad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296753,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535713
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5ddb78ed5c12a28c84758ab42449c2e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296753,
+            "locality_id":1226610961,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1226610961,
+    "wof:lastmodified":1537675938,
+    "wof:name":"Flatstad",
+    "wof:parent_id":1159296753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.12337,
+    58.08129,
+    7.12337,
+    58.08129
+],
+  "geometry": {"coordinates":[7.12337,58.08129],"type":"Point"}
+}

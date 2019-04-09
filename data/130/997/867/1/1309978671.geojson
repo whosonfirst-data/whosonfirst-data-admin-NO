@@ -1,0 +1,66 @@
+{
+  "id": 1309978671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.28371,63.04101,10.28371,63.04101",
+    "geom:latitude":63.04101,
+    "geom:longitude":10.28371,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5027.0",
+    "gn:asciiname":"Fredheim",
+    "gn:country_code":"NO",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3156536,
+    "gn:latitude":63.04101,
+    "gn:longitude":10.28371,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Fredheim",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296717,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3156536
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5d8cf561cb3be3cbc6baacc0e1ebbacc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296717,
+            "locality_id":1309978671,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1309978671,
+    "wof:lastmodified":1536681982,
+    "wof:name":"Fredheim",
+    "wof:parent_id":1159296717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.28371,
+    63.04101,
+    10.28371,
+    63.04101
+],
+  "geometry": {"coordinates":[10.28371,63.04101],"type":"Point"}
+}

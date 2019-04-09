@@ -1,0 +1,71 @@
+{
+  "id": 1276541687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.18228,60.67281,12.18228,60.67281",
+    "geom:latitude":60.67281,
+    "geom:longitude":12.18228,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"425.0",
+    "gn:asciiname":"Sagmoroa",
+    "gn:country_code":"NO",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537121,
+    "gn:latitude":60.67281,
+    "gn:longitude":12.18228,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Sagmoroa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Sagmoroa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297037,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537121
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e6c27cee0bfffba8965f7670566e57c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297037,
+            "locality_id":1276541687,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1276541687,
+    "wof:lastmodified":1537675997,
+    "wof:name":"Sagmoroa",
+    "wof:parent_id":1159297037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.18228,
+    60.67281,
+    12.18228,
+    60.67281
+],
+  "geometry": {"coordinates":[12.18228,60.67281],"type":"Point"}
+}

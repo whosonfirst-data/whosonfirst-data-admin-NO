@@ -1,0 +1,73 @@
+{
+  "id": 1292964051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.68417,69.83444,18.68417,69.83444",
+    "geom:latitude":69.83444,
+    "geom:longitude":18.68417,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1902.0",
+    "gn:asciiname":"Laukvika",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3148079,
+    "gn:latitude":69.83444,
+    "gn:longitude":18.68417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Laukvika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laukvik",
+        "Laukvika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297187,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3148079
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"16c2aba47b3fefc4d44007f6419fb09d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297187,
+            "locality_id":1292964051,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1292964051,
+    "wof:lastmodified":1537675782,
+    "wof:name":"Laukvika",
+    "wof:parent_id":1159297187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.68417,
+    69.83444,
+    18.68417,
+    69.83444
+],
+  "geometry": {"coordinates":[18.68417,69.83444],"type":"Point"}
+}

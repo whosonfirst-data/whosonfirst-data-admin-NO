@@ -1,0 +1,68 @@
+{
+  "id": 1193248883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.71934,61.97876,6.71934,61.97876",
+    "geom:latitude":61.97876,
+    "geom:longitude":6.71934,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1444.0",
+    "gn:asciiname":"Strynesaetra",
+    "gn:country_code":"NO",
+    "gn:dem":640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6619582,
+    "gn:latitude":61.97876,
+    "gn:longitude":6.71934,
+    "gn:modification_date":"2010-10-15",
+    "gn:name":"Strynes\u00e6tra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297031,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6619582
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4c2fb9365bda2958d017876982094f66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297031,
+            "locality_id":1193248883,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1193248883,
+    "wof:lastmodified":1536370311,
+    "wof:name":"Strynesaetra",
+    "wof:parent_id":1159297031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.71934,
+    61.97876,
+    6.71934,
+    61.97876
+],
+  "geometry": {"coordinates":[6.71934,61.97876],"type":"Point"}
+}

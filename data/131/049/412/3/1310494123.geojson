@@ -1,0 +1,68 @@
+{
+  "id": 1310494123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.45745,61.3012,11.45745,61.3012",
+    "geom:latitude":61.3012,
+    "geom:longitude":11.45745,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"429.0",
+    "gn:asciiname":"Deset",
+    "gn:country_code":"NO",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3159263,
+    "gn:latitude":61.3012,
+    "gn:longitude":11.45745,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Deset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297061,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3159263
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"bd88a8e961c2e5ea8ada10372d9bd12f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297061,
+            "locality_id":1310494123,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1310494123,
+    "wof:lastmodified":1536934097,
+    "wof:name":"Deset",
+    "wof:parent_id":1159297061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.45745,
+    61.3012,
+    11.45745,
+    61.3012
+],
+  "geometry": {"coordinates":[11.45745,61.3012],"type":"Point"}
+}

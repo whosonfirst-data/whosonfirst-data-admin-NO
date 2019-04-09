@@ -1,0 +1,73 @@
+{
+  "id": 1326815867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.15,63.3,8.15,63.3",
+    "geom:latitude":63.3,
+    "geom:longitude":8.15,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1573.0",
+    "gn:asciiname":"Korsvoll",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3149452,
+    "gn:latitude":63.3,
+    "gn:longitude":8.15,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Korsvoll",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Korsvold",
+        "Korsvoll"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297121,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3149452
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e5d95992c216a0929b2e60e2219e1c0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297121,
+            "locality_id":1326815867,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1326815867,
+    "wof:lastmodified":1537675791,
+    "wof:name":"Korsvoll",
+    "wof:parent_id":1159297121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.15,
+    63.3,
+    8.15,
+    63.3
+],
+  "geometry": {"coordinates":[8.15,63.3],"type":"Point"}
+}

@@ -1,0 +1,115 @@
+{
+  "id": 85906329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000304,
+    "geom:area_square_m":1883914.000505,
+    "geom:bbox":"10.8325195312,59.9343868653,10.8586265301,59.9508843877",
+    "geom:latitude":59.943169,
+    "geom:longitude":10.844546,
+    "gn:id":"",
+    "iso:country":"NO",
+    "lbl:latitude":59.94394,
+    "lbl:longitude":10.846029,
+    "mps:latitude":59.943318,
+    "mps:longitude":10.844546,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":1,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:note":"road",
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:nor_x_colloquial":[
+        "Erich Mogensoens Vei",
+        "Erich Mogensoens Veis",
+        "Erich Mogensons Vei",
+        "Erich Mogensons Veis"
+    ],
+    "name:nor_x_preferred":[
+        "Erich Mogens\u00f8ns Vei"
+    ],
+    "name:nor_x_variant":[
+        "Erich Mogens\u00f8ns Veis"
+    ],
+    "name:unk_x_variant":[
+        "Erich Mogens\u00f8ns Vei"
+    ],
+    "qs:gn_adm0_cc":"NO",
+    "qs:gn_id":0,
+    "qs:gn_local":3143244,
+    "qs:local_max":14984,
+    "qs:local_sum":116500,
+    "qs:localhoods":70,
+    "qs:name":"Erich Mogens\u00f8ns Vei",
+    "qs:name_adm0":"Norge",
+    "qs:name_adm1":"Oslo Fylke",
+    "qs:name_adm2":"Bydel Bjerke",
+    "qs:name_local":"Oslo",
+    "qs:photo_max":47,
+    "qs:photo_sum":176,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":17,
+    "qs:woe_adm0":23424910,
+    "qs:woe_adm1":2346395,
+    "qs:woe_adm2":20099914,
+    "qs:woe_lau":0,
+    "qs:woe_local":862592,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85687089,
+        102191581,
+        1159297167,
+        85633341,
+        101751917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22660910,
+        "qs:id":901200,
+        "qs_pg:id":901200
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d3859890dff9c2eadea01798561d727e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297167,
+            "locality_id":101751917,
+            "neighbourhood_id":85906329,
+            "region_id":85687089
+        }
+    ],
+    "wof:id":85906329,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1529700268,
+    "wof:name":"Erich Mogens\u00f8ns Vei",
+    "wof:parent_id":101751917,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.83251953121425,
+    59.93438686532899,
+    10.85862653010088,
+    59.95088438765039
+],
+  "geometry": {"coordinates":[[[10.8483103378947,59.95088438765039],[10.8489989948315,59.94950917229998],[10.84899902340004,59.94950917229998],[10.85449218750006,59.94950917229998],[10.85449218750006,59.94950911520014],[10.85449218750006,59.94675828490007],[10.85449218750006,59.94675822785042],[10.8558699586851,59.94400711222532],[10.85862653010088,59.9412550833752],[10.85242424419903,59.93712789622519],[10.85175605242148,59.93712789622519],[10.85037782390162,59.93575239552509],[10.84899902340004,59.93575239552509],[10.84350585940001,59.93575239552509],[10.84212740205066,59.93575239552509],[10.84075927732499,59.93438686532899],[10.83663435238026,59.93850396775001],[10.83389798854455,59.93850396775001],[10.83251953122499,59.93987992512517],[10.83251953121425,59.94125582540003],[10.83251953121663,59.94400711222532],[10.83251953121675,59.94400716930004],[10.83251953121629,59.94675828490007],[10.83251953122499,59.94813361445041],[10.83732389545162,59.94813361445041],[10.83801269530005,59.9495091152004],[10.83801269530005,59.94950917229998],[10.83801272389343,59.94950917229998],[10.83870138082432,59.95088438765039],[10.84350585937523,59.95088438765039],[10.8483103378947,59.95088438765039]]],"type":"Polygon"}
+}

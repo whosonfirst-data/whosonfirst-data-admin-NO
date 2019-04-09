@@ -1,0 +1,71 @@
+{
+  "id": 1293471971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.88318,64.03257,9.88318,64.03257",
+    "geom:latitude":64.03257,
+    "geom:longitude":9.88318,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5018.0",
+    "gn:asciiname":"Eid",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3158734,
+    "gn:latitude":64.03257,
+    "gn:longitude":9.88318,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Eid",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eide",
+        "Eid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297163,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3158734
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1b9a9477665064ffefa428d55d6c6c9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297163,
+            "locality_id":1293471971,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1293471971,
+    "wof:lastmodified":1537675856,
+    "wof:name":"Eid",
+    "wof:parent_id":1159297163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.88318,
+    64.03256999999999,
+    9.88318,
+    64.03256999999999
+],
+  "geometry": {"coordinates":[9.88318,64.03256999999999],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293084745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.1454,64.6207,11.1454,64.6207",
+    "geom:latitude":64.6207,
+    "geom:longitude":11.1454,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5005.0",
+    "gn:asciiname":"Finnanger",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3157639,
+    "gn:latitude":64.6207,
+    "gn:longitude":11.1454,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Finnanger",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297197,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3157639
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"fdb306dc762097fe54a5d03853d3f9aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297197,
+            "locality_id":1293084745,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1293084745,
+    "wof:lastmodified":1536869606,
+    "wof:name":"Finnanger",
+    "wof:parent_id":1159297197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.1454,
+    64.6207,
+    11.1454,
+    64.6207
+],
+  "geometry": {"coordinates":[11.1454,64.6207],"type":"Point"}
+}

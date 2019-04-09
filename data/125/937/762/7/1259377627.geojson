@@ -1,0 +1,77 @@
+{
+  "id": 1259377627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.66779,66.39678,14.66779,66.39678",
+    "geom:latitude":66.39678,
+    "geom:longitude":14.66779,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1833.0",
+    "gn:asciiname":"Eiteraga",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3158466,
+    "gn:latitude":66.39678,
+    "gn:longitude":14.66779,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Eiter\u00e5ga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Eiter\u00e5ga"
+    ],
+    "name:nor_x_variant":[
+        "Eitr\u00e5ga"
+    ],
+    "name:und_x_variant":[
+        "Eiteraaen",
+        "Eiter\u00e5a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296963,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3158466
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"df0bc380fe87c92efabcd80131c3c5f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296963,
+            "locality_id":1259377627,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1259377627,
+    "wof:lastmodified":1537675853,
+    "wof:name":"Eiteraga",
+    "wof:parent_id":1159296963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.66779,
+    66.39678,
+    14.66779,
+    66.39678
+],
+  "geometry": {"coordinates":[14.66779,66.39678000000001],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293672763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.48333,58.53333,6.48333,58.53333",
+    "geom:latitude":58.53333,
+    "geom:longitude":6.48333,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1112.0",
+    "gn:asciiname":"Kjormo",
+    "gn:country_code":"NO",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3149994,
+    "gn:latitude":58.53333,
+    "gn:longitude":6.48333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Kj\u00f8rmo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297063,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3149994
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b9ee3ec83f8ddf948fdb3c4d216dee3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297063,
+            "locality_id":1293672763,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1293672763,
+    "wof:lastmodified":1537016505,
+    "wof:name":"Kjormo",
+    "wof:parent_id":1159297063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.48333,
+    58.53333000000001,
+    6.48333,
+    58.53333000000001
+],
+  "geometry": {"coordinates":[6.48333,58.53333000000001],"type":"Point"}
+}

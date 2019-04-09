@@ -1,0 +1,69 @@
+{
+  "id": 1259852027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.58333,63.7,9.58333,63.7",
+    "geom:latitude":63.7,
+    "geom:longitude":9.58333,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5015.0",
+    "gn:asciiname":"Djupdalen",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3159198,
+    "gn:latitude":63.7,
+    "gn:longitude":9.58333,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Djupdalen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Djupdalen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296835,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3159198
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"15a41c02f261e0a1933b3489b02bd955",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296835,
+            "locality_id":1259852027,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1259852027,
+    "wof:lastmodified":1537675860,
+    "wof:name":"Djupdalen",
+    "wof:parent_id":1159296835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.58333,
+    63.7,
+    9.58333,
+    63.7
+],
+  "geometry": {"coordinates":[9.58333,63.7],"type":"Point"}
+}

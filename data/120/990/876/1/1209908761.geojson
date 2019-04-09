@@ -1,0 +1,68 @@
+{
+  "id": 1209908761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.05087,60.53397,12.05087,60.53397",
+    "geom:latitude":60.53397,
+    "geom:longitude":12.05087,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"423.0",
+    "gn:asciiname":"Sorknes",
+    "gn:country_code":"NO",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3137476,
+    "gn:latitude":60.53397,
+    "gn:longitude":12.05087,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Sorknes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297575,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3137476
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"bf477f66a743980bb78d2021b4cbd324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297575,
+            "locality_id":1209908761,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1209908761,
+    "wof:lastmodified":1536381068,
+    "wof:name":"Sorknes",
+    "wof:parent_id":1159297575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.05087,
+    60.53397,
+    12.05087,
+    60.53397
+],
+  "geometry": {"coordinates":[12.05087,60.53397],"type":"Point"}
+}

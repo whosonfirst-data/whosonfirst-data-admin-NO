@@ -1,0 +1,72 @@
+{
+  "id": 1343840699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.73924,61.40351,6.73924,61.40351",
+    "geom:latitude":61.40351,
+    "geom:longitude":6.73924,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1420.0",
+    "gn:asciiname":"Fjaerland",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3157414,
+    "gn:latitude":61.40351,
+    "gn:longitude":6.73924,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Fj\u00e6rland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fj\u00e6rland"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297581,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3157414,
+        "wk:page":"Fj%C3%A6rland"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"eea261a9ef4061e21fb78c7e61db6652",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297581,
+            "locality_id":1343840699,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1343840699,
+    "wof:lastmodified":1537675845,
+    "wof:name":"Fjaerland",
+    "wof:parent_id":1159297581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.73924,
+    61.40351,
+    6.73924,
+    61.40351
+],
+  "geometry": {"coordinates":[6.73924,61.40351],"type":"Point"}
+}

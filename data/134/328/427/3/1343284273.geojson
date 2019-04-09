@@ -1,0 +1,68 @@
+{
+  "id": 1343284273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.13333,62.53333,7.13333,62.53333",
+    "geom:latitude":62.53333,
+    "geom:longitude":7.13333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1535.0",
+    "gn:asciiname":"Sorsylte",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3137407,
+    "gn:latitude":62.53333,
+    "gn:longitude":7.13333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"S\u00f8rsylte",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297289,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3137407
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c89faabb2f6bbf1dd51cb81bc98070c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297289,
+            "locality_id":1343284273,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1343284273,
+    "wof:lastmodified":1536999849,
+    "wof:name":"Sorsylte",
+    "wof:parent_id":1159297289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.13333,
+    62.53333000000001,
+    7.13333,
+    62.53333000000001
+],
+  "geometry": {"coordinates":[7.13333,62.53333000000001],"type":"Point"}
+}

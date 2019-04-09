@@ -1,0 +1,126 @@
+{
+  "id": 1175613117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000162,
+    "geom:area_square_m":507272.965883,
+    "geom:bbox":"10.3180931332,59.2074730748,10.3441848601,59.2326781356",
+    "geom:latitude":59.221457,
+    "geom:longitude":10.335581,
+    "gn:population":1498,
+    "iso:country":"NO",
+    "lbl:latitude":59.229143,
+    "lbl:longitude":10.335633,
+    "mps:latitude":59.229143,
+    "mps:longitude":10.335633,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Melsomvik"
+    ],
+    "name:dut_x_preferred":[
+        "Melsomvik"
+    ],
+    "name:eng_x_preferred":[
+        "Melsomvik"
+    ],
+    "name:fre_x_preferred":[
+        "Melsomvik"
+    ],
+    "name:may_x_preferred":[
+        "Melsomvik"
+    ],
+    "name:msa_x_preferred":[
+        "Melsomvik"
+    ],
+    "name:nld_x_preferred":[
+        "Melsomvik"
+    ],
+    "name:nno_x_preferred":[
+        "Melsomvik"
+    ],
+    "name:nob_x_preferred":[
+        "Melsomvik"
+    ],
+    "name:nor_x_preferred":[
+        "Melsomvik"
+    ],
+    "name:nor_x_variant":[
+        "Melsomviks"
+    ],
+    "name:ron_x_preferred":[
+        "Melsomvik"
+    ],
+    "name:rum_x_preferred":[
+        "Melsomvik"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Vestfold",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"Stokke",
+    "qs:la_lc":"*NO0720",
+    "qs:level":"locality",
+    "qs:loc":"Melsomvik",
+    "qs:loc_alt":"Melsomvik",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":32,
+    "wof:belongsto":[
+        102191581,
+        101847183,
+        1159297193,
+        85633341,
+        85687073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01ff1394-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3146049,
+        "gp:id":861761,
+        "qs:id":181898,
+        "qs_pg:id":181898,
+        "wd:id":"Q1777265",
+        "wk:page":"Melsomvik"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"98af6cbf96ec706f541a2c88617d2528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297193,
+            "locality_id":101847183,
+            "region_id":85687073
+        }
+    ],
+    "wof:id":1175613117,
+    "wof:lastmodified":1534985961,
+    "wof:name":"Melsomvik",
+    "wof:parent_id":1159297193,
+    "wof:placetype":"locality",
+    "wof:population":1498,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101847185,
+        101847183
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.31809313316541,
+    59.2074730748144,
+    10.34418486010054,
+    59.23267813558448
+],
+  "geometry": {"coordinates":[[[[10.34418486010054,59.21556052575903],[10.34415822720217,59.21286181942668],[10.34241125787366,59.21286616074121],[10.34238476495096,59.21016745704014],[10.34063793037478,59.21017177588357],[10.34061157737818,59.2074730748144],[10.33711817728204,59.20748164547871],[10.33712687099944,59.20838121241752],[10.33538012530505,59.20838546474067],[10.33545798683616,59.21648158335989],[10.33371083523372,59.21648581470498],[10.33374527362309,59.22008409884512],[10.33898726811651,59.22007133703414],[10.33896103286719,59.21737262454423],[10.3407082283328,59.21736832678795],[10.34069943923396,59.21646875675327],[10.34244658922324,59.21646443702718],[10.34243775558701,59.21556486745351],[10.34418486010054,59.21556052575903]]],[[[10.34085772411498,59.23266106866413],[10.34084012842044,59.23086191752816],[10.33909225658033,59.23086621716737],[10.33904850215481,59.22636834457478],[10.3373008554359,59.22637262148373],[10.33728344755082,59.22457347454565],[10.33553589062092,59.22457772910394],[10.33554454920659,59.22547730252927],[10.33379694678183,59.22548153510996],[10.33380556079231,59.2263811089947],[10.33205791287173,59.22638531959655],[10.33206648230185,59.22728489393955],[10.32682340087007,59.22729739349597],[10.32683183550887,59.22819696853975],[10.31809313316541,59.22821735966801],[10.3181013427847,59.22911693564294],[10.32159691508724,59.22910884526658],[10.32160521541851,59.23000842134081],[10.33034436495996,59.2299878079715],[10.33036141824749,59.2317869599234],[10.3338572557663,59.23177855935],[10.33386587341408,59.23267813558448],[10.34085772411498,59.23266106866413]]]],"type":"MultiPolygon"}
+}

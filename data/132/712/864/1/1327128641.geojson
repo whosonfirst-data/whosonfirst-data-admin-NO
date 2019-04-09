@@ -1,0 +1,66 @@
+{
+  "id": 1327128641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.95476,68.52648,14.95476,68.52648",
+    "geom:latitude":68.52648,
+    "geom:longitude":14.95476,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1866.0",
+    "gn:asciiname":"Lekang",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3147795,
+    "gn:latitude":68.52648,
+    "gn:longitude":14.95476,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Lekang",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296743,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3147795
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d9218a5a6e742b59a863a25a6919defa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296743,
+            "locality_id":1327128641,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1327128641,
+    "wof:lastmodified":1536619405,
+    "wof:name":"Lekang",
+    "wof:parent_id":1159296743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.95476,
+    68.52648,
+    14.95476,
+    68.52648
+],
+  "geometry": {"coordinates":[14.95476,68.52648000000001],"type":"Point"}
+}

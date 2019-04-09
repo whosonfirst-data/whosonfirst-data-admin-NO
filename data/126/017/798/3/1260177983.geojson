@@ -1,0 +1,75 @@
+{
+  "id": 1260177983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.84493,67.69013,15.84493,67.69013",
+    "geom:latitude":67.69013,
+    "geom:longitude":15.84493,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1845.0",
+    "gn:asciiname":"Sildavuohppi",
+    "gn:country_code":"NO",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536172,
+    "gn:latitude":67.69013,
+    "gn:longitude":15.84493,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Sildavuohppi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Sildhopen"
+    ],
+    "name:smj_x_preferred":[
+        "Sildavuohppi"
+    ],
+    "name:smj_x_variant":[
+        "Silldavuohppe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296959,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536172
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"73cb50e687624e56a2f29acc7a31b074",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296959,
+            "locality_id":1260177983,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1260177983,
+    "wof:lastmodified":1537675958,
+    "wof:name":"Sildavuohppi",
+    "wof:parent_id":1159296959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.84493,
+    67.69013000000001,
+    15.84493,
+    67.69013000000001
+],
+  "geometry": {"coordinates":[15.84493,67.69013000000001],"type":"Point"}
+}

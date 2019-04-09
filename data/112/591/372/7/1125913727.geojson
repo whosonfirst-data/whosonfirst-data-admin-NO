@@ -1,0 +1,104 @@
+{
+  "id": 1125913727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.23778,60.41917,5.23778,60.41917",
+    "geom:latitude":60.41917,
+    "geom:longitude":5.23778,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":60.41917,
+    "lbl:longitude":5.23778,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Florv\u00e5g p\u00e5 Ask\u00f8y"
+    ],
+    "name:eng_x_preferred":[
+        "Florv\u00e5g"
+    ],
+    "name:nno_x_preferred":[
+        "Florv\u00e5g"
+    ],
+    "name:nob_x_preferred":[
+        "Florv\u00e5g"
+    ],
+    "name:rum_x_preferred":[
+        "Florv\u00e5g p\u00e5 Ask\u00f8y"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3156978,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Florv\u00e5g",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Hordaland Fylke",
+    "qs_pg:photos":90,
+    "qs_pg:photos_1k":18,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":90,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":478294,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":858563,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Hordaland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296789,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3156978,
+        "gp:id":858563,
+        "qs_pg:id":478294,
+        "wd:id":"Q11969256"
+    },
+    "wof:country":"NO",
+    "wof:created":1497296246,
+    "wof:geomhash":"e8d4ea1bb941517d41826216d1309d87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296789,
+            "locality_id":1125913727,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1125913727,
+    "wof:lastmodified":1529700057,
+    "wof:name":"Florv\u00e5g",
+    "wof:parent_id":1159296789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.23778,
+    60.41917,
+    5.23778,
+    60.41917
+],
+  "geometry": {"coordinates":[5.23778,60.41917],"type":"Point"}
+}

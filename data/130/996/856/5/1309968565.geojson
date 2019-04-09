@@ -1,0 +1,71 @@
+{
+  "id": 1309968565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.64859,58.29062,6.64859,58.29062",
+    "geom:latitude":58.29062,
+    "geom:longitude":6.64859,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1004",
+    "gn:asciiname":"Fagerstrand",
+    "gn:country_code":"NO",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404263,
+    "gn:latitude":58.29062,
+    "gn:longitude":6.64859,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Fagerstrand",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Fagerstrand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296845,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404263
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"10151d7b7333d37f53fcd73746fd1afe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296845,
+            "locality_id":1309968565,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1309968565,
+    "wof:lastmodified":1537675924,
+    "wof:name":"Fagerstrand",
+    "wof:parent_id":1159296845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.64859,
+    58.29062,
+    6.64859,
+    58.29062
+],
+  "geometry": {"coordinates":[6.64859,58.29062],"type":"Point"}
+}

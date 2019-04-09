@@ -1,0 +1,119 @@
+{
+  "id": 85862219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1451927.459287,
+    "geom:bbox":"5.315004,60.37123,5.315004,60.37123",
+    "geom:latitude":60.37123,
+    "geom:longitude":5.315004,
+    "gn:elevation":129,
+    "iso:country":"NO",
+    "lbl:latitude":60.37123,
+    "lbl:longitude":5.315004,
+    "mps:latitude":60.373144,
+    "mps:longitude":5.309343,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:dan_x_preferred":[
+        "Damsg\u00e5rdsfjellet"
+    ],
+    "name:fra_x_preferred":[
+        "Damsg\u00e5rdsfjellet"
+    ],
+    "name:nno_x_preferred":[
+        "Damsg\u00e5rdsfjellet"
+    ],
+    "name:nor_x_preferred":[
+        "Melkeplassen",
+        "Damsg\u00e5rdsfjellet"
+    ],
+    "name:unk_x_variant":[
+        "Melkeplassen"
+    ],
+    "qs:gn_adm0_cc":"NO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3148518,
+    "qs:gn_nam_loc":"Laksev\u00e5g, Bergen, Hordaland Fylke, NO",
+    "qs:gn_namadm1":"07",
+    "qs:gn_name":"Melkeplassen",
+    "qs:local_max":533,
+    "qs:local_sum":631,
+    "qs:localhoods":2,
+    "qs:name":"Melkeplassen",
+    "qs:name_adm0":"Norge",
+    "qs:name_adm1":"Hordaland Fylke",
+    "qs:name_adm2":"Bergen Kommune",
+    "qs:name_local":"Laksev\u00e5g",
+    "qs:photo_max":23,
+    "qs:photo_sum":98,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":14,
+    "qs:woe_adm0":23424910,
+    "qs:woe_adm1":2346390,
+    "qs:woe_adm2":12592658,
+    "qs:woe_lau":0,
+    "qs:woe_local":861056,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85687099,
+        102191581,
+        1159297617,
+        85633341,
+        101751923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8378586,
+        "gp:id":20100246,
+        "qs:id":234062,
+        "qs_pg:id":234062
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f47721d1e5de4c6d8074a8bc49303d86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":101751923,
+            "neighbourhood_id":85862219,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":85862219,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1531870563,
+    "wof:name":"Melkeplassen",
+    "wof:parent_id":101751923,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.315004,
+    60.37123,
+    5.315004,
+    60.37123
+],
+  "geometry": {"coordinates":[5.315004,60.37123],"type":"Point"}
+}

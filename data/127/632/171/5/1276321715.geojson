@@ -1,0 +1,74 @@
+{
+  "id": 1276321715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.52638,61.44606,10.52638,61.44606",
+    "geom:latitude":61.44606,
+    "geom:longitude":10.52638,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"520.0",
+    "gn:asciiname":"Nordre Goppollen",
+    "gn:country_code":"NO",
+    "gn:dem":980,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537087,
+    "gn:latitude":61.44606,
+    "gn:longitude":10.52638,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Nordre Goppollen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Nordre Goppollen"
+    ],
+    "name:nor_x_variant":[
+        "Nord-Goppollen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296971,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537087
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9095919d22853afdd759e551a45aee99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296971,
+            "locality_id":1276321715,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1276321715,
+    "wof:lastmodified":1537675996,
+    "wof:name":"Nordre Goppollen",
+    "wof:parent_id":1159296971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.52638,
+    61.44606,
+    10.52638,
+    61.44606
+],
+  "geometry": {"coordinates":[10.52638,61.44606],"type":"Point"}
+}

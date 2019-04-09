@@ -1,0 +1,74 @@
+{
+  "id": 1343373141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.25,59.78333,11.25,59.78333",
+    "geom:latitude":59.78333,
+    "geom:longitude":11.25,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"227.0",
+    "gn:asciiname":"Enebakkneset",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3158259,
+    "gn:latitude":59.78333,
+    "gn:longitude":11.25,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Enebakkneset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Enebakneset",
+        "Enebakkneset"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296913,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3158259,
+        "wk:page":"Enebakkneset"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6a58d484954e45d9c9f431fb3ff5e2d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296913,
+            "locality_id":1343373141,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1343373141,
+    "wof:lastmodified":1537675852,
+    "wof:name":"Enebakkneset",
+    "wof:parent_id":1159296913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.25,
+    59.78333000000001,
+    11.25,
+    59.78333000000001
+],
+  "geometry": {"coordinates":[11.25,59.78333000000001],"type":"Point"}
+}

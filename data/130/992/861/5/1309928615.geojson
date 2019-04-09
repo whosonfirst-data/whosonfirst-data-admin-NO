@@ -1,0 +1,80 @@
+{
+  "id": 1309928615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.02043,70.38535,31.02043,70.38535",
+    "geom:latitude":70.38535,
+    "geom:longitude":31.02043,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2002.0",
+    "gn:asciiname":"Smelror",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":777619,
+    "gn:latitude":70.38535,
+    "gn:longitude":31.02043,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Smelror",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ytre Smellror"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043c\u0435\u043b\u044c\u0440\u043e\u0440\u0435\u043d"
+    ],
+    "name:und_x_variant":[
+        "Smellror",
+        "Smelroren",
+        "Ytre Smellror"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297127,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":777619
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3c3a5624a90b73f9b9146143ff595c21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297127,
+            "locality_id":1309928615,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1309928615,
+    "wof:lastmodified":1537675644,
+    "wof:name":"Smelror",
+    "wof:parent_id":1159297127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.02043,
+    70.38535,
+    31.02043,
+    70.38535
+],
+  "geometry": {"coordinates":[31.02043,70.38535],"type":"Point"}
+}

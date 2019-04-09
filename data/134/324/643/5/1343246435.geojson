@@ -1,0 +1,72 @@
+{
+  "id": 1343246435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.95372,68.25947,15.95372,68.25947",
+    "geom:latitude":68.25947,
+    "geom:longitude":15.95372,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1850.0",
+    "gn:asciiname":"Diksna",
+    "gn:country_code":"NO",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3226481,
+    "gn:latitude":68.25947,
+    "gn:longitude":15.95372,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Diksn\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Tysnes"
+    ],
+    "name:smj_x_preferred":[
+        "Diksn\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297109,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3226481
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"15f0afd1b028a0d4ce4dc6b6dfff9a7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297109,
+            "locality_id":1343246435,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1343246435,
+    "wof:lastmodified":1537675898,
+    "wof:name":"Diksna",
+    "wof:parent_id":1159297109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.95372,
+    68.25947,
+    15.95372,
+    68.25947
+],
+  "geometry": {"coordinates":[15.95372,68.25946999999999],"type":"Point"}
+}

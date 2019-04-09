@@ -1,0 +1,71 @@
+{
+  "id": 1343444753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.85,63.53333,10.85,63.53333",
+    "geom:latitude":63.53333,
+    "geom:longitude":10.85,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5035.0",
+    "gn:asciiname":"Tilleraune",
+    "gn:country_code":"NO",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3134638,
+    "gn:latitude":63.53333,
+    "gn:longitude":10.85,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Tilleraune",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Tilleraune"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296711,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3134638
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"156e44602b72ac2d27bb9faa263d6ae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296711,
+            "locality_id":1343444753,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1343444753,
+    "wof:lastmodified":1537675694,
+    "wof:name":"Tilleraune",
+    "wof:parent_id":1159296711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.85,
+    63.53333000000001,
+    10.85,
+    63.53333000000001
+],
+  "geometry": {"coordinates":[10.85,63.53333000000001],"type":"Point"}
+}

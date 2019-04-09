@@ -1,0 +1,68 @@
+{
+  "id": 1226413495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.68333,59.58333,6.68333,59.58333",
+    "geom:latitude":59.58333,
+    "geom:longitude":6.68333,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1134.0",
+    "gn:asciiname":"Klungtveit",
+    "gn:country_code":"NO",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3149749,
+    "gn:latitude":59.58333,
+    "gn:longitude":6.68333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Klungtveit",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297509,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3149749
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2ce90f0a0ae5b66d514a1e5f90c09fae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297509,
+            "locality_id":1226413495,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1226413495,
+    "wof:lastmodified":1536692243,
+    "wof:name":"Klungtveit",
+    "wof:parent_id":1159297509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.68333,
+    59.58333,
+    6.68333,
+    59.58333
+],
+  "geometry": {"coordinates":[6.68333,59.58333],"type":"Point"}
+}

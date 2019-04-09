@@ -1,0 +1,132 @@
+{
+  "id": 1125946313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.35676,59.56027,7.35676,59.56027",
+    "geom:latitude":59.56027,
+    "geom:longitude":7.35676,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":265,
+    "gn:population":265,
+    "iso:country":"NO",
+    "lbl:latitude":59.56027,
+    "lbl:longitude":7.35676,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Hovden i Setesdal"
+    ],
+    "name:dut_x_preferred":[
+        "Hovden"
+    ],
+    "name:eng_x_preferred":[
+        "Hovden"
+    ],
+    "name:fin_x_preferred":[
+        "Hovden"
+    ],
+    "name:fre_x_preferred":[
+        "Hovden"
+    ],
+    "name:ger_x_preferred":[
+        "Hovden"
+    ],
+    "name:jav_x_preferred":[
+        "Hovden"
+    ],
+    "name:may_x_preferred":[
+        "Hovden"
+    ],
+    "name:nno_x_preferred":[
+        "Hovden i Setesdal"
+    ],
+    "name:nob_x_preferred":[
+        "Hovden"
+    ],
+    "name:rum_x_preferred":[
+        "Hovden"
+    ],
+    "name:swe_x_preferred":[
+        "Hovden i Setesdal"
+    ],
+    "name:unk_x_variant":[
+        "Hovde"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":3151676,
+    "qs_pg:gn_pop":265,
+    "qs_pg:name":"Hovden",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Aust-Agder Fylke",
+    "qs_pg:photos":203,
+    "qs_pg:photos_1k":41,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":203,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":3092,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":860077,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Aust-Agder Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296911,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3151676,
+        "gp:id":860077,
+        "qs_pg:id":3092,
+        "wd:id":"Q1277657"
+    },
+    "wof:country":"NO",
+    "wof:created":1497297293,
+    "wof:geomhash":"efadadd2ed3c243abbff2e1dd2046a1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296911,
+            "locality_id":1125946313,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1125946313,
+    "wof:lastmodified":1529699816,
+    "wof:name":"Hovden",
+    "wof:parent_id":1159296911,
+    "wof:placetype":"locality",
+    "wof:population":265,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.35676,
+    59.56027,
+    7.35676,
+    59.56027
+],
+  "geometry": {"coordinates":[7.35676,59.56027],"type":"Point"}
+}

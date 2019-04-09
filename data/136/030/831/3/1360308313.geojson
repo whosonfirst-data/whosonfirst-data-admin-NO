@@ -1,0 +1,79 @@
+{
+  "id": 1360308313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.51667,70.96667,28.51667,70.96667",
+    "geom:latitude":70.96667,
+    "geom:longitude":28.51667,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2023.0",
+    "gn:asciiname":"Omgang",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":778324,
+    "gn:latitude":70.96667,
+    "gn:longitude":28.51667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Omgang",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Omgang"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043c\u0433\u043e\u043d\u0433"
+    ],
+    "name:und_x_variant":[
+        "Omagan",
+        "Omgang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297403,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":778324
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"128b27ffb28a06135ad220bf660799ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297403,
+            "locality_id":1360308313,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1360308313,
+    "wof:lastmodified":1537675648,
+    "wof:name":"Omgang",
+    "wof:parent_id":1159297403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.51667,
+    70.96667,
+    28.51667,
+    70.96667
+],
+  "geometry": {"coordinates":[28.51667,70.96666999999999],"type":"Point"}
+}

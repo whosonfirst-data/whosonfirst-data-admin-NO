@@ -1,0 +1,68 @@
+{
+  "id": 1209535805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.16764,63.15883,8.16764,63.15883",
+    "geom:latitude":63.15883,
+    "geom:longitude":8.16764,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1576.0",
+    "gn:asciiname":"Hals",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3154152,
+    "gn:latitude":63.15883,
+    "gn:longitude":8.16764,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Hals",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Halsneset",
+        "Halsnes",
+        "Hals"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3154152
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"cfe455145d9adf20e22972254e8ad5ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209535805
+        }
+    ],
+    "wof:id":1209535805,
+    "wof:lastmodified":1537675824,
+    "wof:name":"Hals",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.16764,
+    63.15883,
+    8.16764,
+    63.15883
+],
+  "geometry": {"coordinates":[8.16764,63.15883],"type":"Point"}
+}

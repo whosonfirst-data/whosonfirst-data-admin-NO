@@ -1,0 +1,125 @@
+{
+  "id": 101814547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000206,
+    "geom:area_square_m":1082985.045174,
+    "geom:bbox":"11.5923243101,64.8566036921,11.6196570786,64.8692601885",
+    "geom:latitude":64.862763,
+    "geom:longitude":11.603919,
+    "gn:population":1467,
+    "iso:country":"NO",
+    "lbl:latitude":64.863326,
+    "lbl:longitude":11.601446,
+    "mps:latitude":64.863326,
+    "mps:longitude":11.601446,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u043b\u0432\u0435\u0440\u0430\u0439"
+    ],
+    "name:dut_x_preferred":[
+        "Kolvereid"
+    ],
+    "name:eng_x_preferred":[
+        "Kolvereid"
+    ],
+    "name:fra_x_preferred":[
+        "Kolvereid"
+    ],
+    "name:fre_x_preferred":[
+        "Kolvereid"
+    ],
+    "name:nld_x_preferred":[
+        "Kolvereid"
+    ],
+    "name:nno_x_preferred":[
+        "Kolvereid"
+    ],
+    "name:nob_x_preferred":[
+        "Kolvereid"
+    ],
+    "name:nor_x_preferred":[
+        "Kolvereid"
+    ],
+    "name:nor_x_variant":[
+        "Kolnereid",
+        "Kolvereids"
+    ],
+    "name:swe_x_preferred":[
+        "Kolvereid"
+    ],
+    "name:unk_x_variant":[
+        "Kolnereid"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Nord-Tr\u00f8ndelag",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"N\u00e6r\u00f8y",
+    "qs:la_lc":"*NO1751",
+    "qs:level":"locality",
+    "qs:loc":"Kolvereid",
+    "qs:loc_alt":"Kolvereid",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":396,
+    "wof:belongsto":[
+        102191581,
+        1159297169,
+        85633341,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01fc1b08-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3149577,
+        "gp:id":860740,
+        "qs:id":940887,
+        "qs_pg:id":940887,
+        "wd:id":"Q3230544",
+        "wk:page":"Kolvereid"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7d4d5cb16882cbd38cb9b680555b02b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297169,
+            "locality_id":101814547,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":101814547,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1529700202,
+    "wof:name":"Kolvereid",
+    "wof:parent_id":1159297169,
+    "wof:placetype":"locality",
+    "wof:population":1467,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.59232431014743,
+    64.856603692134,
+    11.61965707857007,
+    64.8692601884863
+],
+  "geometry": {"coordinates":[[[11.61363682256308,64.86636575789367],[11.61353149910508,64.86456064383901],[11.61562621885577,64.86453976170191],[11.61557349464766,64.86363720646443],[11.61766814308248,64.86361629800297],[11.61756256973717,64.86181119110915],[11.61965707857007,64.86179025708736],[11.61960422944782,64.86088770543154],[11.61332089873611,64.86095042396448],[11.61321562181877,64.85914531814308],[11.61112130876779,64.85916616863824],[11.61101618388852,64.85736106404266],[11.60892200436024,64.85738188594138],[11.60897449660064,64.85828443865427],[11.60269173521323,64.85834674414929],[11.60263944776528,64.85744418916795],[11.59635686423667,64.85750624868865],[11.59630478541965,64.856603692134],[11.59421065320413,64.85662432373266],[11.59441871841432,64.86023455707357],[11.59232431014743,64.86025516459546],[11.59253216351414,64.86386541192144],[11.59462684493587,64.86384480139787],[11.5946788861495,64.86474736419552],[11.59677363289285,64.86472672583466],[11.59698210934494,64.86833698088651],[11.59488708934748,64.86835762225445],[11.5949391497353,64.86926018848629],[11.60541456146285,64.86915670697476],[11.60525736700026,64.86644902164619],[11.61363682256308,64.86636575789367]]],"type":"Polygon"}
+}

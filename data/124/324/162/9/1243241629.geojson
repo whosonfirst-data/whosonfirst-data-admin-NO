@@ -1,0 +1,73 @@
+{
+  "id": 1243241629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.93333,61.13333,8.93333,61.13333",
+    "geom:latitude":61.13333,
+    "geom:longitude":8.93333,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"543.0",
+    "gn:asciiname":"Loken",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3147060,
+    "gn:latitude":61.13333,
+    "gn:longitude":8.93333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"L\u00f8ken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00f6kje",
+        "L\u00f8ken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297129,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3147060
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8813ec5f0dc35bf19ac7b48f12674bf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297129,
+            "locality_id":1243241629,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1243241629,
+    "wof:lastmodified":1537675775,
+    "wof:name":"Loken",
+    "wof:parent_id":1159297129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.93333,
+    61.13333000000001,
+    8.93333,
+    61.13333000000001
+],
+  "geometry": {"coordinates":[8.93333,61.13333000000001],"type":"Point"}
+}

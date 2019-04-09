@@ -1,0 +1,71 @@
+{
+  "id": 1209697133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.57968,61.26934,10.57968,61.26934",
+    "geom:latitude":61.26934,
+    "geom:longitude":10.57968,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"521.0",
+    "gn:asciiname":"Lienden",
+    "gn:country_code":"NO",
+    "gn:dem":970,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535948,
+    "gn:latitude":61.26934,
+    "gn:longitude":10.57968,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Lienden",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Lienden"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296701,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535948
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"19627f091d762feeb2aa0555a268c2af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296701,
+            "locality_id":1209697133,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1209697133,
+    "wof:lastmodified":1537675948,
+    "wof:name":"Lienden",
+    "wof:parent_id":1159296701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.57968,
+    61.26934,
+    10.57968,
+    61.26934
+],
+  "geometry": {"coordinates":[10.57968,61.26934],"type":"Point"}
+}

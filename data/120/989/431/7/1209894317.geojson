@@ -1,0 +1,71 @@
+{
+  "id": 1209894317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.70539,61.30968,9.70539,61.30968",
+    "geom:latitude":61.30968,
+    "geom:longitude":9.70539,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"522.0",
+    "gn:asciiname":"Sildviksaetran",
+    "gn:country_code":"NO",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535913,
+    "gn:latitude":61.30968,
+    "gn:longitude":9.70539,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Sildviks\u00e6tran",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Sildviks\u00e6tran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297375,
+        85633341,
+        85687109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535913
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"790a4a39110be17086bd3648cfee3d4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297375,
+            "locality_id":1209894317,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1209894317,
+    "wof:lastmodified":1537675946,
+    "wof:name":"Sildviksaetran",
+    "wof:parent_id":1159297375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.70539,
+    61.30968000000001,
+    9.70539,
+    61.30968000000001
+],
+  "geometry": {"coordinates":[9.70539,61.30968000000001],"type":"Point"}
+}

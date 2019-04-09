@@ -1,0 +1,62 @@
+{
+  "id": 1209404371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23649,67.27068,15.23649,67.27068",
+    "geom:latitude":67.27068,
+    "geom:longitude":15.23649,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1841.0",
+    "gn:asciiname":"Rovik",
+    "gn:country_code":"NO",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141118,
+    "gn:latitude":67.27068,
+    "gn:longitude":15.23649,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"R\u00f8vik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141118
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8fcd6f9d4bad2581ccbfedbdec625ecb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209404371
+        }
+    ],
+    "wof:id":1209404371,
+    "wof:lastmodified":1536288043,
+    "wof:name":"Rovik",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23649,
+    67.27068,
+    15.23649,
+    67.27068
+],
+  "geometry": {"coordinates":[15.23649,67.27068],"type":"Point"}
+}

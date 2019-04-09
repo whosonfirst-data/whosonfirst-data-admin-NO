@@ -1,0 +1,82 @@
+{
+  "id": 1125803933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.971093,58.358894,6.971093,58.358894",
+    "geom:latitude":58.358894,
+    "geom:longitude":6.971093,
+    "gn:gn_country":null,
+    "iso:country":"NO",
+    "lbl:latitude":58.358894,
+    "lbl:longitude":6.971093,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Lyding",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Vest-Agder Fylke",
+    "qs_pg:photos":16,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":16,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":493648,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":29305107,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Vest-Agder Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296929,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29305107,
+        "qs_pg:id":493648
+    },
+    "wof:country":"NO",
+    "wof:created":1497291386,
+    "wof:geomhash":"03f86e2bc0731aeaee1c024a4b74b427",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296929,
+            "locality_id":1125803933,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1125803933,
+    "wof:lastmodified":1529700473,
+    "wof:name":"Lyding",
+    "wof:parent_id":1159296929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.971093,
+    58.358894,
+    6.971093,
+    58.358894
+],
+  "geometry": {"coordinates":[6.971093,58.358894],"type":"Point"}
+}

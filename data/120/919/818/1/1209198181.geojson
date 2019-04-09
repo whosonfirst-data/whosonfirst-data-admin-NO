@@ -1,0 +1,63 @@
+{
+  "id": 1209198181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.42596,63.93798,11.42596,63.93798",
+    "geom:latitude":63.93798,
+    "geom:longitude":11.42596,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5004.0",
+    "gn:asciiname":"Maere",
+    "gn:country_code":"NO",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8014926,
+    "gn:latitude":63.93798,
+    "gn:longitude":11.42596,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"M\u00e6re",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8014926,
+        "wk:page":"M%C3%A6re"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b8dab638c87b8fa719041aafdc21456e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209198181
+        }
+    ],
+    "wof:id":1209198181,
+    "wof:lastmodified":1537570113,
+    "wof:name":"Maere",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.42596,
+    63.93798,
+    11.42596,
+    63.93798
+],
+  "geometry": {"coordinates":[11.42596,63.93798],"type":"Point"}
+}

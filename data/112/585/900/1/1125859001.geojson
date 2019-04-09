@@ -1,0 +1,109 @@
+{
+  "id": 1125859001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.74602,60.24302,5.74602,60.24302",
+    "geom:latitude":60.24302,
+    "geom:longitude":5.74602,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":434,
+    "gn:population":434,
+    "iso:country":"NO",
+    "lbl:latitude":60.24302,
+    "lbl:longitude":5.74602,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Eikelandsosen"
+    ],
+    "name:dut_x_preferred":[
+        "Eikelandsosen"
+    ],
+    "name:eng_x_preferred":[
+        "Eikelandsosen"
+    ],
+    "name:fre_x_preferred":[
+        "Eikelandsosen"
+    ],
+    "name:jav_x_preferred":[
+        "Eikelandsosen"
+    ],
+    "name:may_x_preferred":[
+        "Eikelandsosen"
+    ],
+    "name:nno_x_preferred":[
+        "Eikelandsosen"
+    ],
+    "name:nob_x_preferred":[
+        "Eikelandsosen"
+    ],
+    "name:rum_x_preferred":[
+        "Eikelandsosen"
+    ],
+    "name:spa_x_preferred":[
+        "Eikelandsosen"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":3158558,
+    "qs_pg:gn_pop":434,
+    "qs_pg:name":"Eikelandsosen",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":353072,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297025,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3158558,
+        "qs_pg:id":353072,
+        "wd:id":"Q1812223"
+    },
+    "wof:country":"NO",
+    "wof:created":1497293745,
+    "wof:geomhash":"0543a4f255ec75cdab41ba45a93cc55c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297025,
+            "locality_id":1125859001,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1125859001,
+    "wof:lastmodified":1529700044,
+    "wof:name":"Eikelandsosen",
+    "wof:parent_id":1159297025,
+    "wof:placetype":"locality",
+    "wof:population":434,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.74602,
+    60.24302,
+    5.74602,
+    60.24302
+],
+  "geometry": {"coordinates":[5.74602,60.24302],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343854101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.65,66.21667,13.65,66.21667",
+    "geom:latitude":66.21667,
+    "geom:longitude":13.65,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1832.0",
+    "gn:asciiname":"Prestenget",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3142630,
+    "gn:latitude":66.21667,
+    "gn:longitude":13.65,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Prestenget",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pr\u00e6stenget",
+        "Prestenget"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296695,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3142630
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d66f4df86218749db00a43e128c41f39",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296695,
+            "locality_id":1343854101,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1343854101,
+    "wof:lastmodified":1537675745,
+    "wof:name":"Prestenget",
+    "wof:parent_id":1159296695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.65,
+    66.21667,
+    13.65,
+    66.21667
+],
+  "geometry": {"coordinates":[13.65,66.21666999999999],"type":"Point"}
+}

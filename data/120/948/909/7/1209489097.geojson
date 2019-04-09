@@ -1,0 +1,62 @@
+{
+  "id": 1209489097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.78704,58.85618,5.78704,58.85618",
+    "geom:latitude":58.85618,
+    "geom:longitude":5.78704,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1102.0",
+    "gn:asciiname":"Vatne",
+    "gn:country_code":"NO",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3132430,
+    "gn:latitude":58.85618,
+    "gn:longitude":5.78704,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Vatne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3132430
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"cc0d43333b7f56bfafdbfd07f5dc4f9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209489097
+        }
+    ],
+    "wof:id":1209489097,
+    "wof:lastmodified":1536285543,
+    "wof:name":"Vatne",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.78704,
+    58.85618,
+    5.78704,
+    58.85618
+],
+  "geometry": {"coordinates":[5.78704,58.85618],"type":"Point"}
+}

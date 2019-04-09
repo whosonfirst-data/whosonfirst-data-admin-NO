@@ -1,0 +1,107 @@
+{
+  "id": 1125827943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.717981,61.486598,7.717981,61.486598",
+    "geom:latitude":61.486598,
+    "geom:longitude":7.717981,
+    "gn:gn_country":null,
+    "iso:country":"NO",
+    "lbl:latitude":61.486598,
+    "lbl:longitude":7.717981,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Fortun"
+    ],
+    "name:dut_x_preferred":[
+        "Fortun"
+    ],
+    "name:eng_x_preferred":[
+        "Fortun"
+    ],
+    "name:fre_x_preferred":[
+        "Fortun"
+    ],
+    "name:ger_x_preferred":[
+        "Fortun"
+    ],
+    "name:may_x_preferred":[
+        "Fortun"
+    ],
+    "name:nno_x_preferred":[
+        "Fortun"
+    ],
+    "name:nob_x_preferred":[
+        "Fortun"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Fortun",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Sogn og Fjordane Fylke",
+    "qs_pg:photos":292,
+    "qs_pg:photos_1k":59,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":292,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1089514,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":858658,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Sogn og Fjordane Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297283,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":858658,
+        "qs_pg:id":1089514,
+        "wd:id":"Q1439045"
+    },
+    "wof:country":"NO",
+    "wof:created":1497292362,
+    "wof:geomhash":"bc929b1907730211e15faa1be4ff454f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297283,
+            "locality_id":1125827943,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1125827943,
+    "wof:lastmodified":1529699940,
+    "wof:name":"Fortun",
+    "wof:parent_id":1159297283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.717981,
+    61.486598,
+    7.717981,
+    61.486598
+],
+  "geometry": {"coordinates":[7.717981,61.486598],"type":"Point"}
+}

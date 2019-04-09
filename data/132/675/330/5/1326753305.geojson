@@ -1,0 +1,94 @@
+{
+  "id": 1326753305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.73188,70.50621,25.73188,70.50621",
+    "geom:latitude":70.50621,
+    "geom:longitude":25.73188,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2020.0",
+    "gn:asciiname":"Breannja",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":779504,
+    "gn:latitude":70.50621,
+    "gn:longitude":25.73188,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Breannj\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Indre Brenna"
+    ],
+    "name:fkv_x_preferred":[
+        "Pr\u00e4nn\u00e4"
+    ],
+    "name:nor_x_preferred":[
+        "Brenna"
+    ],
+    "name:nor_x_variant":[
+        "Indre Brenna"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043d\u0434\u0440\u0435-\u0411\u0440\u0435\u043d\u043d\u0430"
+    ],
+    "name:sme_x_preferred":[
+        "Breannj\u00e1"
+    ],
+    "name:und_x_variant":[
+        "Brenne",
+        "Indre Brenne",
+        "Brenna",
+        "Br\u00e6nne",
+        "Indre Brenna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297563,
+        85633341,
+        85687145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":779504
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d90153d82a9aec52d87fe0d755a98421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297563,
+            "locality_id":1326753305,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1326753305,
+    "wof:lastmodified":1537675660,
+    "wof:name":"Breannja",
+    "wof:parent_id":1159297563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.73188,
+    70.50621,
+    25.73188,
+    70.50621
+],
+  "geometry": {"coordinates":[25.73188,70.50621],"type":"Point"}
+}

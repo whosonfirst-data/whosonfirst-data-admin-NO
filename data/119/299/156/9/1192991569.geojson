@@ -1,0 +1,68 @@
+{
+  "id": 1192991569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.51667,61.16667,5.51667,61.16667",
+    "geom:latitude":61.16667,
+    "geom:longitude":5.51667,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1416.0",
+    "gn:asciiname":"Ovre Lavikdalen",
+    "gn:country_code":"NO",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3142989,
+    "gn:latitude":61.16667,
+    "gn:longitude":5.51667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"\u00d8vre Lavikdalen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297023,
+        85633341,
+        85687113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3142989
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"af7623da047f58b6040ac75330dad2c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297023,
+            "locality_id":1192991569,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1192991569,
+    "wof:lastmodified":1536380311,
+    "wof:name":"Ovre Lavikdalen",
+    "wof:parent_id":1159297023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.51667,
+    61.16667,
+    5.51667,
+    61.16667
+],
+  "geometry": {"coordinates":[5.51667,61.16667],"type":"Point"}
+}

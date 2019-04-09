@@ -1,0 +1,66 @@
+{
+  "id": 1326826027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.67139,68.1225,15.67139,68.1225",
+    "geom:latitude":68.1225,
+    "geom:longitude":15.67139,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1849.0",
+    "gn:asciiname":"Vassbotn",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3226632,
+    "gn:latitude":68.1225,
+    "gn:longitude":15.67139,
+    "gn:modification_date":"2010-10-15",
+    "gn:name":"Vassbotn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297087,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3226632
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"97c52a7b56f5538c0d602977314a4127",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297087,
+            "locality_id":1326826027,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1326826027,
+    "wof:lastmodified":1537055368,
+    "wof:name":"Vassbotn",
+    "wof:parent_id":1159297087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.67139,
+    68.1225,
+    15.67139,
+    68.1225
+],
+  "geometry": {"coordinates":[15.67139,68.1225],"type":"Point"}
+}

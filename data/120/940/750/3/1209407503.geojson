@@ -1,0 +1,65 @@
+{
+  "id": 1209407503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.07929,60.39256,12.07929,60.39256",
+    "geom:latitude":60.39256,
+    "geom:longitude":12.07929,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"423.0",
+    "gn:asciiname":"Vellingroa",
+    "gn:country_code":"NO",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535658,
+    "gn:latitude":60.39256,
+    "gn:longitude":12.07929,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Vellingroa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Vellingroa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535658
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"db64855f3c5fe778867e26419f022264",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209407503
+        }
+    ],
+    "wof:id":1209407503,
+    "wof:lastmodified":1537675935,
+    "wof:name":"Vellingroa",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.07929,
+    60.39256,
+    12.07929,
+    60.39256
+],
+  "geometry": {"coordinates":[12.07929,60.39256],"type":"Point"}
+}

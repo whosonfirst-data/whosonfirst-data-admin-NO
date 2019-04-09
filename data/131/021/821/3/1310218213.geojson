@@ -1,0 +1,75 @@
+{
+  "id": 1310218213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.0525,58.62833,9.0525,58.62833",
+    "geom:latitude":58.62833,
+    "geom:longitude":9.0525,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"914.0",
+    "gn:asciiname":"Dypvag",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3158872,
+    "gn:latitude":58.62833,
+    "gn:longitude":9.0525,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dypv\u00e5g",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dypvaag",
+        "Dybv\u00e5g",
+        "Dypv\u00e5g"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297531,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3158872,
+        "wk:page":"Dypv%C3%A5g"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"947c241f0e7ade10ac9cda317ac98e92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297531,
+            "locality_id":1310218213,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1310218213,
+    "wof:lastmodified":1537675858,
+    "wof:name":"Dypvag",
+    "wof:parent_id":1159297531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.0525,
+    58.62833000000001,
+    9.0525,
+    58.62833000000001
+],
+  "geometry": {"coordinates":[9.0525,58.62833000000001],"type":"Point"}
+}

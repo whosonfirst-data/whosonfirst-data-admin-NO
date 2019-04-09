@@ -1,0 +1,66 @@
+{
+  "id": 1276975959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.05,67.28333,15.05,67.28333",
+    "geom:latitude":67.28333,
+    "geom:longitude":15.05,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1841.0",
+    "gn:asciiname":"Alvnes",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3163254,
+    "gn:latitude":67.28333,
+    "gn:longitude":15.05,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Alvnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296833,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3163254
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0bac155c68617fc2848f08252cbe35d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296833,
+            "locality_id":1276975959,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1276975959,
+    "wof:lastmodified":1536912870,
+    "wof:name":"Alvnes",
+    "wof:parent_id":1159296833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05,
+    67.28333,
+    15.05,
+    67.28333
+],
+  "geometry": {"coordinates":[15.05,67.28333000000001],"type":"Point"}
+}

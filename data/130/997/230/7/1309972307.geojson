@@ -1,0 +1,72 @@
+{
+  "id": 1309972307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.91301,68.68622,16.91301,68.68622",
+    "geom:latitude":68.68622,
+    "geom:longitude":16.91301,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1913.0",
+    "gn:asciiname":"Rensa",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3224650,
+    "gn:latitude":68.68622,
+    "gn:longitude":16.91301,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Rens\u00e5",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rens\u00e5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296791,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3224650,
+        "wk:page":"Rens%C3%A5"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f48841f11ca409d89c03e1f28e510327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296791,
+            "locality_id":1309972307,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1309972307,
+    "wof:lastmodified":1537675898,
+    "wof:name":"Rensa",
+    "wof:parent_id":1159296791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.91301,
+    68.68621999999999,
+    16.91301,
+    68.68621999999999
+],
+  "geometry": {"coordinates":[16.91301,68.68621999999999],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125921037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.15738,59.057946,10.15738,59.057946",
+    "geom:latitude":59.057946,
+    "geom:longitude":10.15738,
+    "gn:gn_country":null,
+    "iso:country":"NO",
+    "lbl:latitude":59.057946,
+    "lbl:longitude":10.15738,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Tjodalyng",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Vestfold Fylke",
+    "qs_pg:photos":140,
+    "qs_pg:photos_1k":28,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":140,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":481395,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":15000686,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Vestfold Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296779,
+        85633341,
+        85687073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15000686,
+        "qs_pg:id":481395
+    },
+    "wof:country":"NO",
+    "wof:created":1497296481,
+    "wof:geomhash":"97706a277183afae385d6137d9d76901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296779,
+            "locality_id":1125921037,
+            "region_id":85687073
+        }
+    ],
+    "wof:id":1125921037,
+    "wof:lastmodified":1529700491,
+    "wof:name":"Tjodalyng",
+    "wof:parent_id":1159296779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.15738,
+    59.057946,
+    10.15738,
+    59.057946
+],
+  "geometry": {"coordinates":[10.15738,59.057946],"type":"Point"}
+}

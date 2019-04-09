@@ -1,0 +1,71 @@
+{
+  "id": 1242991901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3,68.88333,15.3,68.88333",
+    "geom:latitude":68.88333,
+    "geom:longitude":15.3,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1868.0",
+    "gn:asciiname":"Sannan",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3140095,
+    "gn:latitude":68.88333,
+    "gn:longitude":15.3,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sannan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sandan",
+        "Sannan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296769,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3140095
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d94fff083b0174b27263f3f15ce7def7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296769,
+            "locality_id":1242991901,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1242991901,
+    "wof:lastmodified":1537675728,
+    "wof:name":"Sannan",
+    "wof:parent_id":1159296769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3,
+    68.88333,
+    15.3,
+    68.88333
+],
+  "geometry": {"coordinates":[15.3,68.88333],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1327399571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.86401,58.07284,7.86401,58.07284",
+    "geom:latitude":58.07284,
+    "geom:longitude":7.86401,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1018",
+    "gn:asciiname":"Langnesbygda",
+    "gn:country_code":"NO",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404095,
+    "gn:latitude":58.07284,
+    "gn:longitude":7.86401,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Langnesbygda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Langnesbygda"
+    ],
+    "name:nor_x_variant":[
+        "Langenes",
+        "Langenesbygda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296847,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404095
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d685f8a6509742ecff555948e3f3c8e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296847,
+            "locality_id":1327399571,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1327399571,
+    "wof:lastmodified":1537675917,
+    "wof:name":"Langnesbygda",
+    "wof:parent_id":1159296847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.86401,
+    58.07284,
+    7.86401,
+    58.07284
+],
+  "geometry": {"coordinates":[7.86401,58.07284],"type":"Point"}
+}

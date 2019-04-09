@@ -1,0 +1,74 @@
+{
+  "id": 1293695417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.76667,58.93333,7.76667,58.93333",
+    "geom:latitude":58.93333,
+    "geom:longitude":7.76667,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"938.0",
+    "gn:asciiname":"Litveit",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3147185,
+    "gn:latitude":58.93333,
+    "gn:longitude":7.76667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Litveit",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lindthveit",
+        "Litveit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297545,
+        85633341,
+        85687071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3147185,
+        "wk:page":"Litveit"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9fa3858f1461a49440cbfb021caf02a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297545,
+            "locality_id":1293695417,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1293695417,
+    "wof:lastmodified":1537675776,
+    "wof:name":"Litveit",
+    "wof:parent_id":1159297545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.76667,
+    58.93333000000001,
+    7.76667,
+    58.93333000000001
+],
+  "geometry": {"coordinates":[7.76667,58.93333000000001],"type":"Point"}
+}

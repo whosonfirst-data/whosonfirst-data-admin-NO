@@ -1,0 +1,70 @@
+{
+  "id": 1310294677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.63294,69.00006,15.63294,69.00006",
+    "geom:latitude":69.00006,
+    "geom:longitude":15.63294,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1871.0",
+    "gn:asciiname":"Bjornskinn",
+    "gn:country_code":"NO",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3161219,
+    "gn:latitude":69.00006,
+    "gn:longitude":15.63294,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Bj\u00f8rnskinn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bj\u00f8rnskinn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297539,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3161219,
+        "wk:page":"Bj%C3%B8rnskinn"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3ab1e5e3290953735750133cfc43e9cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297539,
+            "locality_id":1310294677,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1310294677,
+    "wof:lastmodified":1537675874,
+    "wof:name":"Bjornskinn",
+    "wof:parent_id":1159297539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.63294,
+    69.00005999999999,
+    15.63294,
+    69.00005999999999
+],
+  "geometry": {"coordinates":[15.63294,69.00005999999999],"type":"Point"}
+}

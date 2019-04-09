@@ -1,0 +1,114 @@
+{
+  "id": 85901561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":36371437.948668,
+    "geom:bbox":"10.190854,59.74577,10.190854,59.74577",
+    "geom:latitude":59.74577,
+    "geom:longitude":10.190854,
+    "gn:latitude":59.75,
+    "gn:longitude":10.13333,
+    "iso:country":"NO",
+    "lbl:latitude":59.74577,
+    "lbl:longitude":10.190854,
+    "mps:latitude":59.751917,
+    "mps:longitude":10.164181,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:nor_x_colloquial":[
+        "Braatan",
+        "Bratan"
+    ],
+    "name:nor_x_preferred":[
+        "Br\u00e5tan"
+    ],
+    "name:unk_x_variant":[
+        "Br\u00e5tan"
+    ],
+    "qs:gn_adm0_cc":"NO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3159016,
+    "qs:gn_nam_loc":"Drammen, Drammen, Buskerud fylke, NO",
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"Br\u00e5tan",
+    "qs:local_max":2025,
+    "qs:local_sum":2025,
+    "qs:localhoods":1,
+    "qs:name":"Br\u00e5tan",
+    "qs:name_adm0":"Norge",
+    "qs:name_adm1":"Buskerud Fylke",
+    "qs:name_adm2":"Drammen Kommune",
+    "qs:name_local":"Drammen",
+    "qs:photo_max":864,
+    "qs:photo_sum":2025,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":95,
+    "qs:woe_adm0":23424910,
+    "qs:woe_adm1":2346387,
+    "qs:woe_adm2":12593001,
+    "qs:woe_lau":0,
+    "qs:woe_local":857871,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85687105,
+        102191581,
+        1159297001,
+        85633341,
+        101751925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160378,
+        "gp:id":857476,
+        "qs:id":894636,
+        "qs_pg:id":894636
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6e790bdc6c05066c2be9b3f2274f98f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297001,
+            "locality_id":101751925,
+            "neighbourhood_id":85901561,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":85901561,
+    "wof:lang":[
+        "nor"
+    ],
+    "wof:lastmodified":1531932532,
+    "wof:name":"Br\u00e5tan",
+    "wof:parent_id":101751925,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.190854,
+    59.74577,
+    10.190854,
+    59.74577
+],
+  "geometry": {"coordinates":[10.190854,59.74577],"type":"Point"}
+}

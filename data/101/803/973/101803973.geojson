@@ -1,0 +1,106 @@
+{
+  "id": 101803973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000173,
+    "geom:area_square_m":1074070.684266,
+    "geom:bbox":"9.96253012138,59.9285648411,9.98215861928,59.9438633373",
+    "geom:latitude":59.936323,
+    "geom:longitude":9.971487,
+    "iso:country":"NO",
+    "lbl:latitude":59.93666,
+    "lbl:longitude":9.971338,
+    "mps:latitude":59.93666,
+    "mps:longitude":9.971338,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Geithus"
+    ],
+    "name:eng_x_preferred":[
+        "Geithus"
+    ],
+    "name:fre_x_preferred":[
+        "Geithus"
+    ],
+    "name:jav_x_preferred":[
+        "Geithus"
+    ],
+    "name:may_x_preferred":[
+        "Geithus"
+    ],
+    "name:nno_x_preferred":[
+        "Geithus"
+    ],
+    "name:nob_x_preferred":[
+        "Geithus"
+    ],
+    "name:pol_x_preferred":[
+        "Geithus"
+    ],
+    "name:rum_x_preferred":[
+        "Geithus"
+    ],
+    "name:unk_x_variant":[
+        "Gjeithus"
+    ],
+    "qs:a0":"Norge",
+    "qs:a1":"*Buskerud",
+    "qs:a1r":"0",
+    "qs:adm0":"Norge",
+    "qs:la":"Modum",
+    "qs:la_lc":"*NO0623",
+    "qs:level":"locality",
+    "qs:loc":"\u00c5mot/Geithus",
+    "qs:loc_alt":"Aamot/Geithus",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297329,
+        85633341,
+        85687105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3155887,
+        "gp:id":858874,
+        "qs:id":314319,
+        "wd:id":"Q4588586",
+        "wk:page":"Geithus"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a58eef7e32ea674d2b921f4c4511a575",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297329,
+            "locality_id":101803973,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":101803973,
+    "wof:lastmodified":1529699845,
+    "wof:name":"\u00c5mot/Geithus",
+    "wof:parent_id":1159297329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.96253012137794,
+    59.92856484107517,
+    9.98215861927986,
+    59.94386333732132
+],
+  "geometry": {"coordinates":[[[9.9732322491468,59.94386333732132],[9.9732336695285,59.94206359365364],[9.97680251331894,59.94206422727228],[9.97680559014771,59.93756487470108],[9.98215814600934,59.93756565529264],[9.98215861927986,59.93666578590211],[9.98037448129423,59.93666554833783],[9.98037604289505,59.93396594248003],[9.97859204689769,59.93396568231395],[9.97859261468244,59.93306581446649],[9.97680866602752,59.93306553168577],[9.97680928108929,59.93216566422876],[9.97502537977607,59.93216535883482],[9.97502802886572,59.92856589286191],[9.96967689278478,59.92856484107517],[9.96967608867158,59.92946470696432],[9.96789232941694,59.92946431111869],[9.96789147795033,59.93036417737767],[9.96610767143272,59.93036375889983],[9.96610407579624,59.93396322770371],[9.96432008007724,59.93396278655263],[9.9643153476635,59.93846213108691],[9.96253111536879,59.93846166724319],[9.96253012137794,59.93936153728282],[9.96431440100548,59.93936200114041],[9.96431250751425,59.94116174239457],[9.96609688186135,59.94116218365133],[9.96609598236967,59.94206205486535],[9.96788040410092,59.94206247350627],[9.96787869964339,59.94386221710681],[9.9732322491468,59.94386333732132]]],"type":"Polygon"}
+}

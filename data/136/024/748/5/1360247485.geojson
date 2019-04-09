@@ -1,0 +1,71 @@
+{
+  "id": 1360247485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.88148,58.0977,6.88148,58.0977",
+    "geom:latitude":58.0977,
+    "geom:longitude":6.88148,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1003.0",
+    "gn:asciiname":"Eikeland,ytre",
+    "gn:country_code":"NO",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537824,
+    "gn:latitude":58.0977,
+    "gn:longitude":6.88148,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Eikeland,ytre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Eikeland,ytre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297123,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537824
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"85d25cadfbc0ab28b0f6bf320e0b581c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297123,
+            "locality_id":1360247485,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1360247485,
+    "wof:lastmodified":1537676029,
+    "wof:name":"Eikeland,ytre",
+    "wof:parent_id":1159297123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.88148,
+    58.0977,
+    6.88148,
+    58.0977
+],
+  "geometry": {"coordinates":[6.88148,58.0977],"type":"Point"}
+}

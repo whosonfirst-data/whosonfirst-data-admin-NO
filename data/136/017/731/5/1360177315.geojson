@@ -1,0 +1,71 @@
+{
+  "id": 1360177315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.11773,60.07223,12.11773,60.07223",
+    "geom:latitude":60.07223,
+    "geom:longitude":12.11773,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"420.0",
+    "gn:asciiname":"Malmer",
+    "gn:country_code":"NO",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537004,
+    "gn:latitude":60.07223,
+    "gn:longitude":12.11773,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Malmer",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Malmer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296881,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537004
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"823f2618479b48f1861d6e1219031e63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296881,
+            "locality_id":1360177315,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1360177315,
+    "wof:lastmodified":1537675992,
+    "wof:name":"Malmer",
+    "wof:parent_id":1159296881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.11773,
+    60.07223000000001,
+    12.11773,
+    60.07223000000001
+],
+  "geometry": {"coordinates":[12.11773,60.07223000000001],"type":"Point"}
+}

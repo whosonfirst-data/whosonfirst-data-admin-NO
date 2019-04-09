@@ -1,0 +1,71 @@
+{
+  "id": 1276772771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.29799,60.01528,11.29799,60.01528",
+    "geom:latitude":60.01528,
+    "geom:longitude":11.29799,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"226.0",
+    "gn:asciiname":"Skulerudgrinda",
+    "gn:country_code":"NO",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537408,
+    "gn:latitude":60.01528,
+    "gn:longitude":11.29799,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Skulerudgrinda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Skulerudgrinda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297599,
+        85633341,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537408
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"906789623dd0312c795a506018b89d8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297599,
+            "locality_id":1276772771,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1276772771,
+    "wof:lastmodified":1537676010,
+    "wof:name":"Skulerudgrinda",
+    "wof:parent_id":1159297599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.29799,
+    60.01528,
+    11.29799,
+    60.01528
+],
+  "geometry": {"coordinates":[11.29799,60.01528],"type":"Point"}
+}

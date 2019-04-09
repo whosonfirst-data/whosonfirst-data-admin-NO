@@ -1,0 +1,71 @@
+{
+  "id": 1243359371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.9,66.95,13.9,66.95",
+    "geom:latitude":66.95,
+    "geom:longitude":13.9,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1838.0",
+    "gn:asciiname":"Oterstranda",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3143135,
+    "gn:latitude":66.95,
+    "gn:longitude":13.9,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Oterstranda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oterstranden",
+        "Oterstranda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159296997,
+        85687135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3143135
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"22e41dcbaeb1c1c2e5eedc06a2f48a6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296997,
+            "locality_id":1243359371,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1243359371,
+    "wof:lastmodified":1537675749,
+    "wof:name":"Oterstranda",
+    "wof:parent_id":1159296997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.9,
+    66.95,
+    13.9,
+    66.95
+],
+  "geometry": {"coordinates":[13.9,66.95],"type":"Point"}
+}

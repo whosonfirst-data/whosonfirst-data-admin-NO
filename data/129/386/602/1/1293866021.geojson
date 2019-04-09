@@ -1,0 +1,91 @@
+{
+  "id": 1293866021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.82395,63.27368,9.82395,63.27368",
+    "geom:latitude":63.27368,
+    "geom:longitude":9.82395,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5024",
+    "gn:asciiname":"Orkdal",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9403901,
+    "gn:latitude":63.27368,
+    "gn:longitude":9.82395,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Orkdal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0631\u0643\u062f\u0627\u0644"
+    ],
+    "name:bpy_x_preferred":[
+        "\u0993\u09b0\u09cd\u0995\u09a1\u09be\u09b2"
+    ],
+    "name:nds_x_preferred":[
+        "Kommun Orkdal"
+    ],
+    "name:nno_x_preferred":[
+        "Orkdal"
+    ],
+    "name:nor_x_preferred":[
+        "Orkdal"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u043a\u0434\u0430\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Orkdals kommun"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u514b\u9054\u723e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1159297395,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9403901,
+        "wk:page":"Orkdal"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"397a400e13c5e473144f407f1fb6245c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297395,
+            "locality_id":1293866021,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1293866021,
+    "wof:lastmodified":1537675909,
+    "wof:name":"Orkdal",
+    "wof:parent_id":1159297395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.82395,
+    63.27368000000001,
+    9.82395,
+    63.27368000000001
+],
+  "geometry": {"coordinates":[9.82395,63.27368000000001],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209120067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.68606,60.05893,11.68606,60.05893",
+    "geom:latitude":60.05893,
+    "geom:longitude":11.68606,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"236.0",
+    "gn:asciiname":"Arnessetra",
+    "gn:country_code":"NO",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537294,
+    "gn:latitude":60.05893,
+    "gn:longitude":11.68606,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"\u00c5rnessetra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "\u00c5rnessetra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537294
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0e8a5e935febc9fc85fb022a41cd29d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209120067
+        }
+    ],
+    "wof:id":1209120067,
+    "wof:lastmodified":1537676005,
+    "wof:name":"Arnessetra",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.68606,
+    60.05893,
+    11.68606,
+    60.05893
+],
+  "geometry": {"coordinates":[11.68606,60.05893],"type":"Point"}
+}

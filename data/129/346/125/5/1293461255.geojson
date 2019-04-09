@@ -1,0 +1,68 @@
+{
+  "id": 1293461255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.7,58.98333,9.7,58.98333",
+    "geom:latitude":58.98333,
+    "geom:longitude":9.7,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"814.0",
+    "gn:asciiname":"Kruk",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3210068,
+    "gn:latitude":58.98333,
+    "gn:longitude":9.7,
+    "gn:modification_date":"2010-10-15",
+    "gn:name":"Kruk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159296837,
+        85633341,
+        85687091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210068
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1d60cfb47b5e50449170f67e477b979d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296837,
+            "locality_id":1293461255,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1293461255,
+    "wof:lastmodified":1536824125,
+    "wof:name":"Kruk",
+    "wof:parent_id":1159296837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.7,
+    58.98333,
+    9.7,
+    58.98333
+],
+  "geometry": {"coordinates":[9.7,58.98333],"type":"Point"}
+}

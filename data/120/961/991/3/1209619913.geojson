@@ -1,0 +1,71 @@
+{
+  "id": 1209619913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.06757,70.05069,25.06757,70.05069",
+    "geom:latitude":70.05069,
+    "geom:longitude":25.06757,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2020.0",
+    "gn:asciiname":"Brennelv,ovre",
+    "gn:country_code":"NO",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537594,
+    "gn:latitude":70.05069,
+    "gn:longitude":25.06757,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Brennelv,\u00f8vre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fkv_x_preferred":[
+        "Yli-Palo"
+    ],
+    "name:nor_x_preferred":[
+        "Brennelv,\u00f8vre"
+    ],
+    "name:nor_x_variant":[
+        "\u00d8vre Brennelv"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537594
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d26227c1430bae46f4fd61fbbf42a044",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209619913
+        }
+    ],
+    "wof:id":1209619913,
+    "wof:lastmodified":1537676019,
+    "wof:name":"Brennelv,ovre",
+    "wof:parent_id":85633341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.06757,
+    70.05069,
+    25.06757,
+    70.05069
+],
+  "geometry": {"coordinates":[25.06757,70.05069],"type":"Point"}
+}

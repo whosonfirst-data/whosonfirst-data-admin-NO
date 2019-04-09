@@ -1,0 +1,131 @@
+{
+  "id": 1125946169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.85253,58.76417,5.85253,58.76417",
+    "geom:latitude":58.76417,
+    "geom:longitude":5.85253,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":58.76417,
+    "lbl:longitude":5.85253,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u041e\u043b\u0433\u0430\u0440"
+    ],
+    "name:bul_x_preferred":[
+        "\u041e\u043b\u0433\u043e\u0440"
+    ],
+    "name:dan_x_preferred":[
+        "\u00c5lg\u00e5rd"
+    ],
+    "name:dut_x_preferred":[
+        "\u00c5lg\u00e5rd"
+    ],
+    "name:eng_x_preferred":[
+        "\u00c5lg\u00e5rd"
+    ],
+    "name:fre_x_preferred":[
+        "\u00c5lg\u00e5rd"
+    ],
+    "name:gla_x_preferred":[
+        "\u00c5lg\u00e5rd"
+    ],
+    "name:jav_x_preferred":[
+        "\u00c5lg\u00e5rd"
+    ],
+    "name:may_x_preferred":[
+        "\u00c5lg\u00e5rd"
+    ],
+    "name:nno_x_preferred":[
+        "\u00c5lg\u00e5rd"
+    ],
+    "name:nob_x_preferred":[
+        "\u00c5lg\u00e5rd"
+    ],
+    "name:rum_x_preferred":[
+        "\u00c5lg\u00e5rd"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c5lg\u00e5rd"
+    ],
+    "name:unk_x_variant":[
+        "Aalgaard"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":3163379,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"\u00c5lg\u00e5rd",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Rogaland Fylke",
+    "qs_pg:photos":510,
+    "qs_pg:photos_1k":103,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":510,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":2968,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":856557,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Rogaland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297401,
+        85633341,
+        85687085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3163379,
+        "gp:id":856557,
+        "qs_pg:id":2968,
+        "wd:id":"Q3357643"
+    },
+    "wof:country":"NO",
+    "wof:created":1497297289,
+    "wof:geomhash":"5a9ecff1a5d72076b7cca459c0539e3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297401,
+            "locality_id":1125946169,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1125946169,
+    "wof:lastmodified":1529700291,
+    "wof:name":"\u00c5lg\u00e5rd",
+    "wof:parent_id":1159297401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.85253,
+    58.76417,
+    5.85253,
+    58.76417
+],
+  "geometry": {"coordinates":[5.85253,58.76417],"type":"Point"}
+}

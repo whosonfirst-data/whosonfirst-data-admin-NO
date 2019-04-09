@@ -1,0 +1,71 @@
+{
+  "id": 1293779393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.43773,63.0112,7.43773,63.0112",
+    "geom:latitude":63.0112,
+    "geom:longitude":7.43773,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1554.0",
+    "gn:asciiname":"Utheim",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536999,
+    "gn:latitude":63.0112,
+    "gn:longitude":7.43773,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Utheim",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Utheim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297467,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536999
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"317d66b4b1a2291d397e2272f47d497e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297467,
+            "locality_id":1293779393,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1293779393,
+    "wof:lastmodified":1537675992,
+    "wof:name":"Utheim",
+    "wof:parent_id":1159297467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.43773,
+    63.0112,
+    7.43773,
+    63.0112
+],
+  "geometry": {"coordinates":[7.43773,63.0112],"type":"Point"}
+}

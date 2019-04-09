@@ -1,0 +1,71 @@
+{
+  "id": 1293268025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.16916,68.77198,18.16916,68.77198",
+    "geom:latitude":68.77198,
+    "geom:longitude":18.16916,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1922.0",
+    "gn:asciiname":"Forset",
+    "gn:country_code":"NO",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537488,
+    "gn:latitude":68.77198,
+    "gn:longitude":18.16916,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Forset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Forset"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297189,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537488
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"743965315b5c9dfeef85e84eae4f2339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297189,
+            "locality_id":1293268025,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1293268025,
+    "wof:lastmodified":1537676014,
+    "wof:name":"Forset",
+    "wof:parent_id":1159297189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.16916,
+    68.77198,
+    18.16916,
+    68.77198
+],
+  "geometry": {"coordinates":[18.16916,68.77198],"type":"Point"}
+}

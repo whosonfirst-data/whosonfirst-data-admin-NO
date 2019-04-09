@@ -1,0 +1,71 @@
+{
+  "id": 1292998123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.72047,60.54984,11.72047,60.54984",
+    "geom:latitude":60.54984,
+    "geom:longitude":11.72047,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"425.0",
+    "gn:asciiname":"Gammelsaetra",
+    "gn:country_code":"NO",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535724,
+    "gn:latitude":60.54984,
+    "gn:longitude":11.72047,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Gammels\u00e6tra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Gammels\u00e6tra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297037,
+        85633341,
+        85687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535724
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0d48eff154b7e558b648a25f0f72968d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297037,
+            "locality_id":1292998123,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1292998123,
+    "wof:lastmodified":1537675938,
+    "wof:name":"Gammelsaetra",
+    "wof:parent_id":1159297037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.72047,
+    60.54984,
+    11.72047,
+    60.54984
+],
+  "geometry": {"coordinates":[11.72047,60.54984],"type":"Point"}
+}

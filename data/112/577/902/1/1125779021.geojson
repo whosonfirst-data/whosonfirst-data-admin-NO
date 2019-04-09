@@ -1,0 +1,122 @@
+{
+  "id": 1125779021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.59161,69.0396,18.59161,69.0396",
+    "geom:latitude":69.0396,
+    "geom:longitude":18.59161,
+    "gn:gn_country":"NO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"NO",
+    "lbl:latitude":69.0396,
+    "lbl:longitude":18.59161,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u5df4\u675c\u5f17\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Bardufoss"
+    ],
+    "name:eng_x_preferred":[
+        "Bardufoss"
+    ],
+    "name:fre_x_preferred":[
+        "Bardufoss"
+    ],
+    "name:ger_x_preferred":[
+        "Bardufoss"
+    ],
+    "name:ita_x_preferred":[
+        "Bardufoss"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30eb\u30c9\u30a5\u30d5\u30a9\u30b9"
+    ],
+    "name:may_x_preferred":[
+        "Bardufoss"
+    ],
+    "name:nno_x_preferred":[
+        "Bardufoss"
+    ],
+    "name:nob_x_preferred":[
+        "Bardufoss"
+    ],
+    "name:spa_x_preferred":[
+        "Bardufoss"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6355182,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Bardufoss",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Troms Fylke",
+    "qs_pg:photos":129,
+    "qs_pg:photos_1k":26,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":129,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":2993,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":857002,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Troms Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159296775,
+        85633341,
+        85687143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6355182,
+        "gp:id":857002,
+        "qs_pg:id":2993,
+        "wd:id":"Q676358"
+    },
+    "wof:country":"NO",
+    "wof:created":1497290387,
+    "wof:geomhash":"cabebe47420ffec371f9ee4bb87e75de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296775,
+            "locality_id":1125779021,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1125779021,
+    "wof:lastmodified":1529700454,
+    "wof:name":"Bardufoss",
+    "wof:parent_id":1159296775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.59161,
+    69.0396,
+    18.59161,
+    69.0396
+],
+  "geometry": {"coordinates":[18.59161,69.03959999999999],"type":"Point"}
+}
