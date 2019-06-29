@@ -19,10 +19,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:arm_x_preferred":[
-        "\u053c\u056b\u057d\u0561\u056f\u0565\u0580"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Lysaker"
     ],
     "name:eng_x_preferred":[
@@ -31,11 +28,11 @@
     "name:fin_x_preferred":[
         "Lysaker"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lysaker"
     ],
-    "name:ger_x_preferred":[
-        "Lysaker"
+    "name:hye_x_preferred":[
+        "\u053c\u056b\u057d\u0561\u056f\u0565\u0580"
     ],
     "name:jav_x_preferred":[
         "Lysaker"
@@ -43,7 +40,10 @@
     "name:jpn_x_preferred":[
         "\u30ea\u30c3\u30b5\u30fc\u30b1\u30eb"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Lysaker"
+    ],
+    "name:nld_x_preferred":[
         "Lysaker"
     ],
     "name:nno_x_preferred":[
@@ -120,7 +120,7 @@
         }
     ],
     "wof:id":1125920209,
-    "wof:lastmodified":1529699768,
+    "wof:lastmodified":1561769606,
     "wof:name":"Lysaker",
     "wof:parent_id":1159297009,
     "wof:placetype":"locality",

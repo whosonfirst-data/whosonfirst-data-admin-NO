@@ -21,9 +21,6 @@
     "name:afr_x_preferred":[
         "Bod\u00f8"
     ],
-    "name:alb_x_preferred":[
-        "Bod\u00f8"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u0648\u062f\u0648"
     ],
@@ -31,9 +28,6 @@
         "Bod\u00f8"
     ],
     "name:ast_x_preferred":[
-        "Bod\u00f8"
-    ],
-    "name:baq_x_preferred":[
         "Bod\u00f8"
     ],
     "name:bar_x_preferred":[
@@ -63,13 +57,10 @@
     "name:ces_x_preferred":[
         "Bod\u00f8"
     ],
-    "name:chi_x_preferred":[
-        "\u535a\u5fb7"
-    ],
     "name:cos_x_preferred":[
         "Bod\u00f8"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Bod\u00f8"
     ],
     "name:dan_x_preferred":[
@@ -78,8 +69,8 @@
     "name:deu_x_preferred":[
         "Bod\u00f8"
     ],
-    "name:dut_x_preferred":[
-        "Bod\u00f8"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03cc\u03bd\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "Bodo"
@@ -94,6 +85,9 @@
     "name:est_x_preferred":[
         "Bod\u00f8 vald"
     ],
+    "name:eus_x_preferred":[
+        "Bod\u00f8"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0648\u062f\u0648\u060c \u0646\u0631\u0648\u0698"
     ],
@@ -103,16 +97,10 @@
     "name:fra_x_preferred":[
         "Bod\u00f8"
     ],
-    "name:fre_x_preferred":[
-        "Bod\u00f8"
-    ],
     "name:frp_x_preferred":[
         "Bod\u00f8"
     ],
     "name:fur_x_preferred":[
-        "Bod\u00f8"
-    ],
-    "name:ger_x_preferred":[
         "Bod\u00f8"
     ],
     "name:gla_x_preferred":[
@@ -123,9 +111,6 @@
     ],
     "name:glg_x_preferred":[
         "Bod\u00f8"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03cc\u03bd\u03c4\u03bf"
     ],
     "name:gsw_x_preferred":[
         "Bod\u00f8"
@@ -142,9 +127,6 @@
     "name:hun_x_preferred":[
         "Bod\u00f8"
     ],
-    "name:ice_x_preferred":[
-        "Bod\u00f8"
-    ],
     "name:ido_x_preferred":[
         "Bod\u00f8"
     ],
@@ -155,6 +137,9 @@
         "Bod\u00f8"
     ],
     "name:ind_x_preferred":[
+        "Bod\u00f8"
+    ],
+    "name:isl_x_preferred":[
         "Bod\u00f8"
     ],
     "name:ita_x_preferred":[
@@ -193,14 +178,8 @@
     "name:ltz_x_preferred":[
         "Bod\u00f8"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u043e\u0434\u0435"
-    ],
     "name:mar_x_preferred":[
         "\u092c\u094b\u0921\u094b"
-    ],
-    "name:may_x_preferred":[
-        "Bod\u00f8"
     ],
     "name:min_x_preferred":[
         "Bod\u00f8"
@@ -208,7 +187,13 @@
     "name:mkd_x_preferred":[
         "\u0411\u0443\u0434\u0435"
     ],
+    "name:mkd_x_variant":[
+        "\u0411\u043e\u0434\u0435"
+    ],
     "name:mlg_x_preferred":[
+        "Bod\u00f8"
+    ],
+    "name:msa_x_preferred":[
         "Bod\u00f8"
     ],
     "name:nan_x_preferred":[
@@ -252,9 +237,6 @@
     "name:pcd_x_preferred":[
         "Bod\u00f8"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0648\u062f\u0648\u060c \u0646\u0631\u0648\u0698"
-    ],
     "name:pms_x_preferred":[
         "Bod\u00f8"
     ],
@@ -271,9 +253,6 @@
         "Bod\u00f8"
     ],
     "name:ron_x_preferred":[
-        "Bod\u00f8"
-    ],
-    "name:rum_x_preferred":[
         "Bod\u00f8"
     ],
     "name:rus_x_preferred":[
@@ -297,7 +276,7 @@
     "name:sje_x_preferred":[
         "Buvdda"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Bod\u00f8"
     ],
     "name:slv_x_preferred":[
@@ -310,6 +289,9 @@
         "B\u00e5d\u00e5ddjo"
     ],
     "name:spa_x_preferred":[
+        "Bod\u00f8"
+    ],
+    "name:sqi_x_preferred":[
         "Bod\u00f8"
     ],
     "name:srd_x_preferred":[
@@ -361,9 +343,6 @@
         "Bod\u00f8"
     ],
     "name:war_x_preferred":[
-        "Bod\u00f8"
-    ],
-    "name:wel_x_preferred":[
         "Bod\u00f8"
     ],
     "name:wln_x_preferred":[
@@ -518,7 +497,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529700156,
+    "wof:lastmodified":1561769598,
     "wof:name":"Bod\u00f8",
     "wof:parent_id":1159297465,
     "wof:placetype":"locality",

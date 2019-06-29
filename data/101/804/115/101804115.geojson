@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000533,
-    "geom:area_square_m":3061636.554792,
+    "geom:area_square_m":3061636.554791,
     "geom:bbox":"5.6243613304,62.3208677837,5.67141500063,62.3450306053",
     "geom:latitude":62.33192,
     "geom:longitude":5.643012,
@@ -16,25 +16,16 @@
     "mps:longitude":5.643369,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0556\u0578\u057d\u0576\u0561\u057e\u0578\u0563"
-    ],
     "name:bel_x_preferred":[
         "\u0424\u043e\u0441\u043d\u0430\u0432\u0430\u0433"
     ],
     "name:bul_x_preferred":[
         "\u0424\u043e\u0441\u043d\u0430\u0432\u043e\u0433"
     ],
-    "name:chi_x_preferred":[
-        "\u798f\u65af\u7d0d\u6c83\u683c"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Fosnav\u00e5g"
     ],
     "name:deu_x_preferred":[
-        "Fosnav\u00e5g"
-    ],
-    "name:dut_x_preferred":[
         "Fosnav\u00e5g"
     ],
     "name:eng_x_preferred":[
@@ -43,19 +34,16 @@
     "name:fra_x_preferred":[
         "Fosnav\u00e5g"
     ],
-    "name:fre_x_preferred":[
-        "Fosnav\u00e5g"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e4\u10dd\u10e1\u10dc\u10d0\u10d5\u10dd\u10d2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Fosnav\u00e5g"
+    "name:hye_x_preferred":[
+        "\u0556\u0578\u057d\u0576\u0561\u057e\u0578\u0563"
     ],
     "name:ita_x_preferred":[
         "Fosnav\u00e5g"
     ],
-    "name:mac_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10e4\u10dd\u10e1\u10dc\u10d0\u10d5\u10dd\u10d2\u10d8"
+    ],
+    "name:mkd_x_preferred":[
         "\u0424\u043e\u0441\u043d\u0430\u0432\u043e\u0433"
     ],
     "name:nld_x_preferred":[
@@ -73,9 +61,6 @@
     "name:ron_x_preferred":[
         "Fosnav\u00e5g"
     ],
-    "name:rum_x_preferred":[
-        "Fosnav\u00e5g"
-    ],
     "name:rus_x_preferred":[
         "\u0424\u043e\u0441\u043d\u0430\u0432\u043e\u0433"
     ],
@@ -87,6 +72,9 @@
     ],
     "name:unk_x_variant":[
         "Forsnevaag"
+    ],
+    "name:zho_x_preferred":[
+        "\u798f\u65af\u7d0d\u6c83\u683c"
     ],
     "qs:a0":"Norge",
     "qs:a1":"*M\u00f8re og Romsdal",
@@ -132,7 +120,7 @@
         }
     ],
     "wof:id":101804115,
-    "wof:lastmodified":1529700090,
+    "wof:lastmodified":1561769588,
     "wof:name":"Fosnav\u00e5g/Leinstrand",
     "wof:parent_id":1159297413,
     "wof:placetype":"locality",

@@ -19,17 +19,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:alb_x_preferred":[
-        "Skien"
-    ],
     "name:ara_x_preferred":[
         "\u0634\u064a\u0646"
-    ],
-    "name:arm_x_preferred":[
-        "\u0547\u056b\u0565\u0576"
-    ],
-    "name:baq_x_preferred":[
-        "Skien"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0428\u044b\u0435\u043d"
@@ -46,10 +37,7 @@
     "name:ces_x_preferred":[
         "Skien"
     ],
-    "name:chi_x_preferred":[
-        "\u5e0c\u6069"
-    ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Skien"
     ],
     "name:dan_x_preferred":[
@@ -58,8 +46,8 @@
     "name:deu_x_preferred":[
         "Skien"
     ],
-    "name:dut_x_preferred":[
-        "Skien"
+    "name:ell_x_preferred":[
+        "\u03a3\u03af\u03b5\u03bd"
     ],
     "name:eng_x_preferred":[
         "Skien"
@@ -70,26 +58,29 @@
     "name:est_x_preferred":[
         "Skieni vald"
     ],
+    "name:eus_x_preferred":[
+        "Skien"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u0646"
+    ],
     "name:fin_x_preferred":[
         "Skien"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Skien"
     ],
     "name:fry_x_preferred":[
         "Skien"
-    ],
-    "name:ger_x_preferred":[
-        "Skien"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03af\u03b5\u03bd"
     ],
     "name:hrv_x_preferred":[
         "Skien"
     ],
     "name:hun_x_preferred":[
         "Skien"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u056b\u0565\u0576"
     ],
     "name:ile_x_preferred":[
         "Skien"
@@ -121,7 +112,7 @@
     "name:ltz_x_preferred":[
         "Skien"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Skien"
     ],
     "name:nan_x_preferred":[
@@ -145,9 +136,6 @@
     "name:oci_x_preferred":[
         "Skien"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u06cc\u0646"
-    ],
     "name:pms_x_preferred":[
         "Skien"
     ],
@@ -160,7 +148,7 @@
     "name:por_x_preferred":[
         "Skien"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Skien"
     ],
     "name:rus_x_preferred":[
@@ -179,6 +167,9 @@
         "Skien"
     ],
     "name:spa_x_preferred":[
+        "Skien"
+    ],
+    "name:sqi_x_preferred":[
         "Skien"
     ],
     "name:srp_x_preferred":[
@@ -206,9 +197,6 @@
         "Skien"
     ],
     "name:war_x_preferred":[
-        "Skien"
-    ],
-    "name:wel_x_preferred":[
         "Skien"
     ],
     "name:zho_x_preferred":[
@@ -267,7 +255,7 @@
         }
     ],
     "wof:id":1125829217,
-    "wof:lastmodified":1553816557,
+    "wof:lastmodified":1561769629,
     "wof:name":"Skien",
     "wof:parent_id":1159297035,
     "wof:placetype":"locality",

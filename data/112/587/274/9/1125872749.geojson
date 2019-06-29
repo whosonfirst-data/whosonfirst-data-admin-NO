@@ -16,15 +16,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:alb_x_preferred":[
-        "Rennes\u00f8y"
-    ],
-    "name:arm_x_preferred":[
-        "\u054c\u0565\u0576\u0565\u057d\u0575\u0578"
-    ],
-    "name:baq_x_preferred":[
-        "Rennes\u00f8y"
-    ],
     "name:bar_x_preferred":[
         "Rennes\u00f8y"
     ],
@@ -34,13 +25,10 @@
     "name:cat_x_preferred":[
         "Rennes\u00f8y"
     ],
-    "name:chi_x_preferred":[
-        "\u502b\u8a25\u65af\u5cf6"
-    ],
     "name:dan_x_preferred":[
         "Rennes\u00f8y"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Rennes\u00f8y"
     ],
     "name:eng_x_preferred":[
@@ -49,14 +37,17 @@
     "name:epo_x_preferred":[
         "Rennes\u00f8y"
     ],
+    "name:eus_x_preferred":[
+        "Rennes\u00f8y"
+    ],
     "name:fin_x_preferred":[
         "Rennes\u00f8y"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Rennes\u00f8y"
     ],
-    "name:ger_x_preferred":[
-        "Rennes\u00f8y"
+    "name:hye_x_preferred":[
+        "\u054c\u0565\u0576\u0565\u057d\u0575\u0578"
     ],
     "name:ind_x_preferred":[
         "Rennes\u00f8y"
@@ -73,7 +64,7 @@
     "name:lim_x_preferred":[
         "Rennes\u00f8y"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Rennes\u00f8y"
     ],
     "name:nan_x_preferred":[
@@ -81,6 +72,9 @@
     ],
     "name:nds_x_preferred":[
         "Kommun Rennes\u00f8y"
+    ],
+    "name:nld_x_preferred":[
+        "Rennes\u00f8y"
     ],
     "name:nno_x_preferred":[
         "Rennes\u00f8y"
@@ -94,7 +88,7 @@
     "name:por_x_preferred":[
         "Rennes\u00f8y"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Rennes\u00f8y"
     ],
     "name:rus_x_preferred":[
@@ -109,6 +103,9 @@
     "name:spa_x_preferred":[
         "Rennes\u00f8y"
     ],
+    "name:sqi_x_preferred":[
+        "Rennes\u00f8y"
+    ],
     "name:swa_x_preferred":[
         "Rennes\u00f8y"
     ],
@@ -117,6 +114,9 @@
     ],
     "name:war_x_preferred":[
         "Rennes\u00f8y"
+    ],
+    "name:zho_x_preferred":[
+        "\u502b\u8a25\u65af\u5cf6"
     ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":null,
@@ -166,7 +166,7 @@
         }
     ],
     "wof:id":1125872749,
-    "wof:lastmodified":1529700286,
+    "wof:lastmodified":1561769617,
     "wof:name":"Rennes\u00f8y",
     "wof:parent_id":1159296985,
     "wof:placetype":"locality",

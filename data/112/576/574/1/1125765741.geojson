@@ -16,12 +16,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:alb_x_preferred":[
-        "Kvinnherad"
-    ],
-    "name:baq_x_preferred":[
-        "Kvinnherad"
-    ],
     "name:bpy_x_preferred":[
         "\u0995\u09ad\u09bf\u09a8\u09b9\u09c7\u09b0\u09be\u09a1"
     ],
@@ -31,13 +25,10 @@
     "name:cat_x_preferred":[
         "Kvinnherad"
     ],
-    "name:chi_x_preferred":[
-        "\u514b\u6eab\u8d6b\u62c9"
-    ],
     "name:dan_x_preferred":[
         "Kvinnherad"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kvinnherad"
     ],
     "name:eng_x_preferred":[
@@ -46,13 +37,13 @@
     "name:epo_x_preferred":[
         "Kvinnherad"
     ],
+    "name:eus_x_preferred":[
+        "Kvinnherad"
+    ],
     "name:fin_x_preferred":[
         "Kvinnherad"
     ],
-    "name:fre_x_preferred":[
-        "Kvinnherad"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kvinnherad"
     ],
     "name:ita_x_preferred":[
@@ -70,7 +61,7 @@
     "name:lim_x_preferred":[
         "Kvinnherad"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kvinnherad"
     ],
     "name:nan_x_preferred":[
@@ -78,6 +69,9 @@
     ],
     "name:nds_x_preferred":[
         "Kommun Kvinnherad"
+    ],
+    "name:nld_x_preferred":[
+        "Kvinnherad"
     ],
     "name:nno_x_preferred":[
         "Kvinnherad"
@@ -91,7 +85,7 @@
     "name:por_x_preferred":[
         "Kvinnherad"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kvinnherad"
     ],
     "name:rus_x_preferred":[
@@ -106,6 +100,9 @@
     "name:spa_x_preferred":[
         "Kvinnherad"
     ],
+    "name:sqi_x_preferred":[
+        "Kvinnherad"
+    ],
     "name:swa_x_preferred":[
         "Kvinnherad"
     ],
@@ -117,6 +114,9 @@
     ],
     "name:war_x_preferred":[
         "Kvinnherad"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u6eab\u8d6b\u62c9"
     ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":null,
@@ -166,7 +166,7 @@
         }
     ],
     "wof:id":1125765741,
-    "wof:lastmodified":1529700051,
+    "wof:lastmodified":1561769630,
     "wof:name":"Kvinnherad",
     "wof:parent_id":1159296949,
     "wof:placetype":"locality",

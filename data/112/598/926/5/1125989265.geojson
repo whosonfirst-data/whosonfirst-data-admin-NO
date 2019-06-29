@@ -16,12 +16,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:alb_x_preferred":[
-        "D\u00f8nna"
-    ],
-    "name:baq_x_preferred":[
-        "D\u00f8nna"
-    ],
     "name:bar_x_preferred":[
         "D\u00f8nna"
     ],
@@ -31,13 +25,10 @@
     "name:cat_x_preferred":[
         "D\u00f8nna"
     ],
-    "name:chi_x_preferred":[
-        "\u767b\u7d0d\u5cf6"
-    ],
     "name:dan_x_preferred":[
         "D\u00f8nna"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "D\u00f8nna"
     ],
     "name:eng_x_preferred":[
@@ -46,13 +37,13 @@
     "name:epo_x_preferred":[
         "D\u00f8nna"
     ],
+    "name:eus_x_preferred":[
+        "D\u00f8nna"
+    ],
     "name:fin_x_preferred":[
         "D\u00f8nna"
     ],
-    "name:fre_x_preferred":[
-        "D\u00f8nna"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "D\u00f8nna"
     ],
     "name:ind_x_preferred":[
@@ -73,7 +64,7 @@
     "name:lim_x_preferred":[
         "D\u00f8nna"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "D\u00f8nna"
     ],
     "name:nan_x_preferred":[
@@ -81,6 +72,9 @@
     ],
     "name:nds_x_preferred":[
         "Kommun D\u00f8nna"
+    ],
+    "name:nld_x_preferred":[
+        "D\u00f8nna"
     ],
     "name:nno_x_preferred":[
         "D\u00f8nna"
@@ -94,7 +88,7 @@
     "name:por_x_preferred":[
         "D\u00f8nna"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "D\u00f8nna"
     ],
     "name:rus_x_preferred":[
@@ -109,6 +103,9 @@
     "name:spa_x_preferred":[
         "D\u00f8nna"
     ],
+    "name:sqi_x_preferred":[
+        "D\u00f8nna"
+    ],
     "name:swa_x_preferred":[
         "D\u00f8nna"
     ],
@@ -120,6 +117,9 @@
     ],
     "name:war_x_preferred":[
         "D\u00f8nna"
+    ],
+    "name:zho_x_preferred":[
+        "\u767b\u7d0d\u5cf6"
     ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":null,
@@ -167,7 +167,7 @@
         }
     ],
     "wof:id":1125989265,
-    "wof:lastmodified":1529700178,
+    "wof:lastmodified":1561769625,
     "wof:name":"D\u00f8nna",
     "wof:parent_id":1159297149,
     "wof:placetype":"locality",

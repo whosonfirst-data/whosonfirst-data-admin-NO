@@ -18,12 +18,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:alb_x_preferred":[
-        "Surnadal"
-    ],
-    "name:baq_x_preferred":[
-        "Surnadal"
-    ],
     "name:bpy_x_preferred":[
         "\u09b8\u09c1\u09b0\u09a8\u09be\u09a1\u09be\u09b2"
     ],
@@ -33,13 +27,13 @@
     "name:cat_x_preferred":[
         "Surnadal"
     ],
-    "name:chi_x_preferred":[
-        "\u6558\u7d0d\u9054\u723e\u745f\u62c9"
+    "name:cym_x_preferred":[
+        "Surnadal"
     ],
     "name:dan_x_preferred":[
         "Surnadal"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Surnadal"
     ],
     "name:eng_x_preferred":[
@@ -48,13 +42,16 @@
     "name:epo_x_preferred":[
         "Surnadal"
     ],
+    "name:eus_x_preferred":[
+        "Surnadal"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0631\u0646\u0627\u062f\u0627\u0644"
+    ],
     "name:fin_x_preferred":[
         "Surnadal"
     ],
-    "name:fre_x_preferred":[
-        "Surnadal"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Surnadal"
     ],
     "name:ita_x_preferred":[
@@ -72,7 +69,7 @@
     "name:lit_x_preferred":[
         "Surnadalas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Surnadal"
     ],
     "name:nan_x_preferred":[
@@ -80,6 +77,9 @@
     ],
     "name:nds_x_preferred":[
         "Kommun Surnadal"
+    ],
+    "name:nld_x_preferred":[
+        "Surnadal"
     ],
     "name:nno_x_preferred":[
         "Surnadal"
@@ -90,16 +90,13 @@
     "name:oci_x_preferred":[
         "Surnadal"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0648\u0631\u0646\u0627\u062f\u0627\u0644"
-    ],
     "name:pol_x_preferred":[
         "Surnadal"
     ],
     "name:por_x_preferred":[
         "Surnadal"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Surnadal"
     ],
     "name:rus_x_preferred":[
@@ -114,6 +111,9 @@
     "name:spa_x_preferred":[
         "Surnadal"
     ],
+    "name:sqi_x_preferred":[
+        "Surnadal"
+    ],
     "name:swa_x_preferred":[
         "Surnadal"
     ],
@@ -126,11 +126,11 @@
     "name:war_x_preferred":[
         "Surnadal"
     ],
-    "name:wel_x_preferred":[
-        "Surnadal"
-    ],
     "name:zho_x_preferred":[
         "\u6558\u7d0d\u9054\u723e"
+    ],
+    "name:zho_x_variant":[
+        "\u6558\u7d0d\u9054\u723e\u745f\u62c9"
     ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":"NO",
@@ -170,7 +170,7 @@
         }
     ],
     "wof:id":1126041431,
-    "wof:lastmodified":1529700093,
+    "wof:lastmodified":1561769610,
     "wof:name":"Surnadal",
     "wof:parent_id":1159297613,
     "wof:placetype":"locality",

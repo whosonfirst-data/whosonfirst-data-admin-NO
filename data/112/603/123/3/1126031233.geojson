@@ -19,17 +19,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:alb_x_preferred":[
-        "Porsgrunn"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u0634\u063a\u0631\u0648\u0646"
-    ],
-    "name:arm_x_preferred":[
-        "\u054a\u0578\u0580\u057d\u0563\u0580\u0578\u0582\u0576"
-    ],
-    "name:baq_x_preferred":[
-        "Porsgrunn"
     ],
     "name:bpy_x_preferred":[
         "\u09aa\u09cb\u09b0\u09cd\u09b8\u0997\u09cd\u09b0\u09c1\u09a8"
@@ -40,16 +31,13 @@
     "name:cat_x_preferred":[
         "Porsgrunn"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u4ec0\u683c\u4f26"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Porsgrunn"
     ],
     "name:dan_x_preferred":[
         "Porsgrunn"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Porsgrunn"
     ],
     "name:eng_x_preferred":[
@@ -61,13 +49,16 @@
     "name:est_x_preferred":[
         "Porsgrunni vald"
     ],
+    "name:eus_x_preferred":[
+        "Porsgrunn"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0631\u0634\u06af\u0631\u0646"
+    ],
     "name:fin_x_preferred":[
         "Porsgrunn"
     ],
-    "name:fre_x_preferred":[
-        "Porsgrunn"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Porsgrunn"
     ],
     "name:heb_x_preferred":[
@@ -75,6 +66,9 @@
     ],
     "name:hun_x_preferred":[
         "Porsgrunn"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u0580\u057d\u0563\u0580\u0578\u0582\u0576"
     ],
     "name:ind_x_preferred":[
         "Porsgrunn"
@@ -100,7 +94,7 @@
     "name:lit_x_preferred":[
         "Po\u0161gri\u016bnas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Porsgrunn"
     ],
     "name:nan_x_preferred":[
@@ -108,6 +102,9 @@
     ],
     "name:nds_x_preferred":[
         "Kommun Porsgrunn"
+    ],
+    "name:nld_x_preferred":[
+        "Porsgrunn"
     ],
     "name:nno_x_preferred":[
         "Porsgrunn"
@@ -118,16 +115,13 @@
     "name:oci_x_preferred":[
         "Porsgrunn"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0648\u0631\u0634\u06af\u0631\u0646"
-    ],
     "name:pol_x_preferred":[
         "Porsgrunn"
     ],
     "name:por_x_preferred":[
         "Porsgrunn"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Porsgrunn"
     ],
     "name:rus_x_preferred":[
@@ -146,6 +140,9 @@
         "Porsgrunn"
     ],
     "name:spa_x_preferred":[
+        "Porsgrunn"
+    ],
+    "name:sqi_x_preferred":[
         "Porsgrunn"
     ],
     "name:srp_x_preferred":[
@@ -234,7 +231,7 @@
         }
     ],
     "wof:id":1126031233,
-    "wof:lastmodified":1529700384,
+    "wof:lastmodified":1561769611,
     "wof:name":"Porsgrunn",
     "wof:parent_id":1159296755,
     "wof:placetype":"locality",

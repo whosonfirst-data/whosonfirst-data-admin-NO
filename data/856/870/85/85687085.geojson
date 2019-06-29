@@ -24,17 +24,8 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.7,
-    "name:alb_x_preferred":[
-        "Rogaland"
-    ],
     "name:ara_x_preferred":[
         "\u0631\u0648\u063a\u0627\u0644\u0627\u0646\u062f"
-    ],
-    "name:arm_x_preferred":[
-        "\u054c\u0578\u0582\u0563\u056c\u0561\u0576"
-    ],
-    "name:baq_x_preferred":[
-        "Rogaland"
     ],
     "name:bel_x_preferred":[
         "\u0420\u0443\u0433\u0430\u043b\u0430\u043d"
@@ -60,25 +51,16 @@
     "name:ces_x_preferred":[
         "Rogaland"
     ],
-    "name:chi_x_preferred":[
-        "\u7f57\u52a0\u5170\u90e1"
-    ],
     "name:cor_x_preferred":[
         "Rogaland"
     ],
     "name:cym_x_preferred":[
         "Rogaland"
     ],
-    "name:cze_x_preferred":[
-        "Rogaland"
-    ],
     "name:dan_x_preferred":[
         "Rogaland"
     ],
     "name:deu_x_preferred":[
-        "Rogaland"
-    ],
-    "name:dut_x_preferred":[
         "Rogaland"
     ],
     "name:eng_x_preferred":[
@@ -106,16 +88,8 @@
         "Comt\u00e9 de Rogaland"
     ],
     "name:fra_x_variant":[
-        "Rogaland"
-    ],
-    "name:fre_x_preferred":[
+        "Rogaland",
         "comt\u00e9 de Rogaland"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10e3\u10d2\u10d0\u10da\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Rogaland"
     ],
     "name:heb_x_preferred":[
         "\u05e8\u05d5\u05d2\u05dc\u05e0\u05d3"
@@ -126,8 +100,8 @@
     "name:hun_x_preferred":[
         "Rogaland megye"
     ],
-    "name:ice_x_preferred":[
-        "Rogaland"
+    "name:hye_x_preferred":[
+        "\u054c\u0578\u0582\u0563\u056c\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Rogaland"
@@ -159,9 +133,6 @@
     "name:lit_x_preferred":[
         "Rugalandas"
     ],
-    "name:mac_x_preferred":[
-        "\u0420\u0443\u0433\u0430\u043b\u0430\u043d"
-    ],
     "name:mkd_x_preferred":[
         "\u0420\u0443\u0433\u0430\u043b\u0430\u043d"
     ],
@@ -192,9 +163,6 @@
     "name:oss_x_preferred":[
         "\u0420\u0443\u0433\u0430\u043b\u0430\u043d\u043d"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u0648\u06af\u0627\u0644\u0627\u0646\u062f"
-    ],
     "name:pnb_x_preferred":[
         "\u0631\u0648\u06af\u0627\u0644\u06cc\u0646\u0688"
     ],
@@ -207,9 +175,6 @@
     "name:ron_x_preferred":[
         "Rogaland"
     ],
-    "name:rum_x_preferred":[
-        "Rogaland"
-    ],
     "name:rus_x_preferred":[
         "\u0420\u0443\u0433\u0430\u043b\u0430\u043d\u043d"
     ],
@@ -220,9 +185,6 @@
         "Rogalands"
     ],
     "name:slk_x_preferred":[
-        "Rogaland"
-    ],
-    "name:slo_x_preferred":[
         "Rogaland"
     ],
     "name:slv_x_preferred":[
@@ -262,9 +224,6 @@
         "Rogaland"
     ],
     "name:war_x_preferred":[
-        "Rogaland"
-    ],
-    "name:wel_x_preferred":[
         "Rogaland"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -393,7 +352,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1553550883,
+    "wof:lastmodified":1561769542,
     "wof:name":"Rogaland",
     "wof:parent_id":85633341,
     "wof:placetype":"region",

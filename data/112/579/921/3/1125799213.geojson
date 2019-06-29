@@ -16,25 +16,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:alb_x_preferred":[
-        "Tr\u00e6na"
-    ],
-    "name:baq_x_preferred":[
-        "Tr\u00e6na"
-    ],
     "name:bpy_x_preferred":[
         "\u099f\u09cd\u09b0\u09be\u09af\u09bc\u09c7\u09a8\u09be"
     ],
     "name:cat_x_preferred":[
         "Tr\u00e6na"
     ],
-    "name:chi_x_preferred":[
-        "\u7279\u8cf4\u7d0d\u7fa4\u5cf6"
-    ],
     "name:dan_x_preferred":[
         "Tr\u00e6na"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tr\u00e6na"
     ],
     "name:eng_x_preferred":[
@@ -43,13 +34,13 @@
     "name:epo_x_preferred":[
         "Tr\u00e6na"
     ],
+    "name:eus_x_preferred":[
+        "Tr\u00e6na"
+    ],
     "name:fin_x_preferred":[
         "Tr\u00e6na"
     ],
-    "name:fre_x_preferred":[
-        "Tr\u00e6na"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Tr\u00e6na"
     ],
     "name:ind_x_preferred":[
@@ -67,7 +58,7 @@
     "name:lim_x_preferred":[
         "Tr\u00e6na"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Tr\u00e6na"
     ],
     "name:nan_x_preferred":[
@@ -75,6 +66,9 @@
     ],
     "name:nds_x_preferred":[
         "Kommun Tr\u00e6na"
+    ],
+    "name:nld_x_preferred":[
+        "Tr\u00e6na"
     ],
     "name:nno_x_preferred":[
         "Tr\u00e6na"
@@ -91,7 +85,7 @@
     "name:por_x_preferred":[
         "Tr\u00e6na"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tr\u00e6na"
     ],
     "name:rus_x_preferred":[
@@ -106,6 +100,9 @@
     "name:spa_x_preferred":[
         "Tr\u00e6na"
     ],
+    "name:sqi_x_preferred":[
+        "Tr\u00e6na"
+    ],
     "name:swa_x_preferred":[
         "Tr\u00e6na"
     ],
@@ -117,6 +114,9 @@
     ],
     "name:war_x_preferred":[
         "Tr\u00e6na"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u8cf4\u7d0d\u7fa4\u5cf6"
     ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":"NO",
@@ -164,7 +164,7 @@
         }
     ],
     "wof:id":1125799213,
-    "wof:lastmodified":1529700178,
+    "wof:lastmodified":1561769634,
     "wof:name":"Tr\u00e6na",
     "wof:parent_id":1159297619,
     "wof:placetype":"locality",

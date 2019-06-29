@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000687,
-    "geom:area_square_m":4446827.483859,
+    "geom:area_square_m":4446827.48386,
     "geom:bbox":"5.98634931837,58.4294336668,6.02573132711,58.4746189868",
     "geom:latitude":58.451265,
     "geom:longitude":6.005589,
@@ -17,25 +17,16 @@
     "mps:longitude":5.999273,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Egersund"
-    ],
     "name:bul_x_preferred":[
         "\u0410\u0439\u0435\u0440\u0441\u0443\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u683c\u5c14\u677e"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Egersund"
     ],
     "name:dan_x_preferred":[
         "Egersund"
     ],
     "name:deu_x_preferred":[
-        "Egersund"
-    ],
-    "name:dut_x_preferred":[
         "Egersund"
     ],
     "name:eng_x_preferred":[
@@ -48,12 +39,6 @@
         "Egersund"
     ],
     "name:fra_x_preferred":[
-        "Egersund"
-    ],
-    "name:fre_x_preferred":[
-        "Egersund"
-    ],
-    "name:ger_x_preferred":[
         "Egersund"
     ],
     "name:ita_x_preferred":[
@@ -73,9 +58,6 @@
     ],
     "name:nor_x_variant":[
         "Egersunds"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u06af\u0634\u0646"
     ],
     "name:pol_x_preferred":[
         "Egersund"
@@ -150,7 +132,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529700282,
+    "wof:lastmodified":1561769591,
     "wof:name":"Egersund",
     "wof:parent_id":1159297629,
     "wof:placetype":"locality",

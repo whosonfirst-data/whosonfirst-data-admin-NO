@@ -24,17 +24,8 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.7,
-    "name:alb_x_preferred":[
-        "Nord-Tr\u00f8ndelag"
-    ],
     "name:ara_x_preferred":[
         "\u0646\u0648\u0631 \u062a\u0631\u0648\u0646\u062f\u0644\u0627\u063a"
-    ],
-    "name:arm_x_preferred":[
-        "\u0546\u0578\u0582\u0580 \u054f\u0580\u0575\u0578\u0576\u0564\u0565\u056c\u0561\u0563"
-    ],
-    "name:baq_x_preferred":[
-        "Nord-Tr\u00f8ndelag"
     ],
     "name:bar_x_preferred":[
         "Nord-Tr\u00f8ndelag"
@@ -66,20 +57,17 @@
     "name:ces_x_preferred":[
         "Nord-Tr\u00f8ndelag"
     ],
-    "name:chi_x_preferred":[
-        "\u5317\u7279\u4f26\u5fb7\u62c9\u683c\u90e1"
-    ],
     "name:cor_x_preferred":[
-        "Nord-Tr\u00f8ndelag"
-    ],
-    "name:cze_x_preferred":[
         "Nord-Tr\u00f8ndelag"
     ],
     "name:dan_x_preferred":[
         "Nord-Tr\u00f8ndelag"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Nord-Tr\u00f8ndelag"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03cc\u03c1\u03bd\u03c4-\u03a4\u03c1\u03bf\u03bd\u03c4\u03b5\u03bb\u03ac\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Nord-Tr\u00f8ndelag"
@@ -90,8 +78,14 @@
     "name:est_x_preferred":[
         "Nord-Tr\u00f8ndelag"
     ],
+    "name:eus_x_preferred":[
+        "Nord-Tr\u00f8ndelag"
+    ],
     "name:fao_x_preferred":[
         "Nord-Tr\u00f8ndelag"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0631\u062f \u062a\u0631\u0648\u0646\u062f\u0644\u0627\u06af"
     ],
     "name:fin_x_preferred":[
         "Pohjois-Tr\u00f8ndelagin l\u00e4\u00e4ni"
@@ -99,17 +93,8 @@
     "name:fra_x_preferred":[
         "Nord-Tr\u00f8ndelag"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Comt\u00e9 de Nord-Tr\u00f8ndelag"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10e3\u10e0-\u10e2\u10e0\u10d8\u10dd\u10dc\u10d3\u10d4\u10da\u10d0\u10d2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Nord-Tr\u00f8ndelag"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03cc\u03c1\u03bd\u03c4-\u03a4\u03c1\u03bf\u03bd\u03c4\u03b5\u03bb\u03ac\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0acb\u0ab0\u0acd\u0aa1-\u0a9f\u0acd\u0ab0\u0acb\u0aa8\u0acd\u0aa1\u0ac7\u0ab2\u0abe\u0a97"
@@ -123,11 +108,14 @@
     "name:hun_x_preferred":[
         "Nord-Tr\u00f8ndelag megye"
     ],
-    "name:ice_x_preferred":[
-        "Nor\u00f0ur-\u00der\u00e6ndal\u00f6g"
+    "name:hye_x_preferred":[
+        "\u0546\u0578\u0582\u0580 \u054f\u0580\u0575\u0578\u0576\u0564\u0565\u056c\u0561\u0563"
     ],
     "name:ind_x_preferred":[
         "Nord-Tr\u00f8ndelag"
+    ],
+    "name:isl_x_preferred":[
+        "Nor\u00f0ur-\u00der\u00e6ndal\u00f6g"
     ],
     "name:ita_x_preferred":[
         "Nord-Tr\u00f8ndelag"
@@ -137,6 +125,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0ca8\u0cbe\u0cb0\u0ccd\u0ca1\u0ccd-\u0c9f\u0ccd\u0cb0\u0ccb\u0c82\u0ca1\u0cc6\u0cb2\u0cbe\u0c97\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10e3\u10e0-\u10e2\u10e0\u10d8\u10dd\u10dc\u10d3\u10d4\u10da\u10d0\u10d2\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ub178\ub974\ud2b8\ub8b0\ub12c\ub77c\uadf8 \uc8fc"
@@ -153,13 +144,13 @@
     "name:lit_x_preferred":[
         "\u0160iaur\u0117s Triondelagas"
     ],
-    "name:mac_x_preferred":[
-        "\u041d\u0443\u0440-\u0422\u0440\u0435\u043d\u0434\u0435\u043b\u0430\u0433"
-    ],
     "name:mar_x_preferred":[
         "\u0928\u0949\u0930\u094d\u0921-\u091f\u094d\u0930\u0949\u0928\u094d\u0921\u0947\u0932\u0945\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041d\u0443\u0440-\u0422\u0440\u0435\u043d\u0434\u0435\u043b\u0430\u0433"
+    ],
+    "name:msa_x_preferred":[
         "Trondelag Utara"
     ],
     "name:nan_x_preferred":[
@@ -170,6 +161,9 @@
     ],
     "name:nds_x_preferred":[
         "Amt Noord-Tr\u00f8ndelag"
+    ],
+    "name:nld_x_preferred":[
+        "Nord-Tr\u00f8ndelag"
     ],
     "name:nno_x_preferred":[
         "Nord-Tr\u00f8ndelag fylke"
@@ -183,9 +177,6 @@
     "name:oss_x_preferred":[
         "\u041d\u0443\u0440-\u0422\u0440\u0451\u043d\u0434\u0435\u043b\u0430\u0433"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0648\u0631\u062f \u062a\u0631\u0648\u0646\u062f\u0644\u0627\u06af"
-    ],
     "name:pih_x_preferred":[
         "Nord-Tr\u00f8ndelag"
     ],
@@ -198,7 +189,7 @@
     "name:por_x_preferred":[
         "Nord-Tr\u00f8ndelag"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Nord-Tr\u00f8ndelag"
     ],
     "name:rus_x_preferred":[
@@ -213,7 +204,7 @@
     "name:sin_x_preferred":[
         "\u0db1\u0ddd\u0dbb\u0dca\u0da9\u0dca-\u0da7\u0dca\u0dbb\u0ddd\u0db1\u0dca\u0daf\u0dd9\u0dbd\u0d9c\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Nord-Tr\u00f8ndelag"
     ],
     "name:slv_x_preferred":[
@@ -226,6 +217,9 @@
         "Davvi-Tr\u00f8ndel\u00e1ga fylka"
     ],
     "name:spa_x_preferred":[
+        "Nord-Tr\u00f8ndelag"
+    ],
+    "name:sqi_x_preferred":[
         "Nord-Tr\u00f8ndelag"
     ],
     "name:srp_x_preferred":[
@@ -263,6 +257,9 @@
     ],
     "name:war_x_preferred":[
         "Nord-Tr\u00f8ndelag"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u7279\u4f26\u5fb7\u62c9\u683c\u90e1"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"NOR",
@@ -384,7 +381,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1553550888,
+    "wof:lastmodified":1561769543,
     "wof:name":"Nord-Tr\u00f8ndelag",
     "wof:parent_id":85633341,
     "wof:placetype":"region",

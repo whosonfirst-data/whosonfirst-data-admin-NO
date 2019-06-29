@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000259,
-    "geom:area_square_m":1441104.49484,
+    "geom:area_square_m":1441104.494839,
     "geom:bbox":"11.0190155412,63.2152588681,11.0465857405,63.2352125399",
     "geom:latitude":63.226136,
     "geom:longitude":11.033026,
@@ -17,14 +17,8 @@
     "mps:longitude":11.033026,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Selbu"
-    ],
     "name:ara_x_preferred":[
         "\u0633\u064a\u0644\u0628\u0648"
-    ],
-    "name:baq_x_preferred":[
-        "Selbu"
     ],
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09b2\u09ac\u09c1"
@@ -35,16 +29,10 @@
     "name:cat_x_preferred":[
         "Selbu"
     ],
-    "name:chi_x_preferred":[
-        "\u585e\u723e\u6bd4"
-    ],
     "name:dan_x_preferred":[
         "Selbu"
     ],
     "name:deu_x_preferred":[
-        "Selbu"
-    ],
-    "name:dut_x_preferred":[
         "Selbu"
     ],
     "name:eng_x_preferred":[
@@ -62,12 +50,6 @@
     "name:fra_x_preferred":[
         "Selbu"
     ],
-    "name:fre_x_preferred":[
-        "Selbu"
-    ],
-    "name:ger_x_preferred":[
-        "Selbu"
-    ],
     "name:ita_x_preferred":[
         "Selbu"
     ],
@@ -75,9 +57,6 @@
         "Selbu"
     ],
     "name:lim_x_preferred":[
-        "Selbu"
-    ],
-    "name:may_x_preferred":[
         "Selbu"
     ],
     "name:msa_x_preferred":[
@@ -108,9 +87,6 @@
         "Selbu"
     ],
     "name:ron_x_preferred":[
-        "Selbu"
-    ],
-    "name:rum_x_preferred":[
         "Selbu"
     ],
     "name:rus_x_preferred":[
@@ -145,6 +121,9 @@
     ],
     "name:zho_x_preferred":[
         "\u585e\u723e\u5e03"
+    ],
+    "name:zho_x_variant":[
+        "\u585e\u723e\u6bd4"
     ],
     "qs:a0":"Norge",
     "qs:a1":"*S\u00f8r-Tr\u00f8ndelag",
@@ -190,7 +169,7 @@
         }
     ],
     "wof:id":101911317,
-    "wof:lastmodified":1529700329,
+    "wof:lastmodified":1561769599,
     "wof:name":"Selbu",
     "wof:parent_id":1159296977,
     "wof:placetype":"locality",

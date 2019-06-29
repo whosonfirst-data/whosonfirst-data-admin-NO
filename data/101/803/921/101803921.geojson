@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000213,
-    "geom:area_square_m":1302693.554574,
+    "geom:area_square_m":1302693.554572,
     "geom:bbox":"6.13538343445,60.3633867626,6.17210094824,60.3776159329",
     "geom:latitude":60.370563,
     "geom:longitude":6.153023,
@@ -20,31 +20,19 @@
     "name:bul_x_preferred":[
         "\u041d\u043e\u0440\u0445\u0435\u0438\u043c\u0441\u0443\u043d\u0434"
     ],
-    "name:chi_x_preferred":[
-        "\u8afe\u723e\u54c8\u4f9d\u59c6\u68ee"
-    ],
     "name:dan_x_preferred":[
         "Norheimsund"
     ],
     "name:deu_x_preferred":[
         "Norheimsund"
     ],
-    "name:dut_x_preferred":[
-        "Norheimsund"
-    ],
     "name:eng_x_preferred":[
         "Norheimsund"
     ],
-    "name:fre_x_preferred":[
-        "Norheimsund"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Norheimsund"
     ],
     "name:jav_x_preferred":[
-        "Norheimsund"
-    ],
-    "name:may_x_preferred":[
         "Norheimsund"
     ],
     "name:msa_x_preferred":[
@@ -69,14 +57,14 @@
     "name:ron_x_preferred":[
         "Norheimsund"
     ],
-    "name:rum_x_preferred":[
-        "Norheimsund"
-    ],
     "name:swe_x_preferred":[
         "Norheimsund"
     ],
     "name:unk_x_variant":[
         "Nordheimsund"
+    ],
+    "name:zho_x_preferred":[
+        "\u8afe\u723e\u54c8\u4f9d\u59c6\u68ee"
     ],
     "qs:a0":"Norge",
     "qs:a1":"*Hordaland",
@@ -131,7 +119,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529700046,
+    "wof:lastmodified":1561769592,
     "wof:name":"Norheimsund",
     "wof:parent_id":1159297429,
     "wof:placetype":"locality",

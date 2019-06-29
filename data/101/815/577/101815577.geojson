@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000675,
-    "geom:area_square_m":4227000.568552,
+    "geom:area_square_m":4227000.568557,
     "geom:bbox":"10.5307764759,59.5352371712,10.6179688945,59.5798938329",
     "geom:latitude":59.556602,
     "geom:longitude":10.581678,
@@ -20,31 +20,19 @@
     "name:ces_x_preferred":[
         "Tofte"
     ],
-    "name:chi_x_preferred":[
-        "\u6258\u592b\u7279"
-    ],
-    "name:cze_x_preferred":[
-        "Tofte"
-    ],
     "name:dan_x_preferred":[
-        "Tofte"
-    ],
-    "name:dut_x_preferred":[
         "Tofte"
     ],
     "name:eng_x_preferred":[
         "Tofte"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tofte"
     ],
     "name:hrv_x_preferred":[
         "Tofte"
     ],
     "name:jav_x_preferred":[
-        "Tofte"
-    ],
-    "name:may_x_preferred":[
         "Tofte"
     ],
     "name:msa_x_preferred":[
@@ -69,14 +57,14 @@
     "name:ron_x_preferred":[
         "Tofte"
     ],
-    "name:rum_x_preferred":[
-        "Tofte"
-    ],
     "name:swe_x_preferred":[
         "Tofte"
     ],
     "name:unk_x_variant":[
         "Tofte i Hurum"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u592b\u7279"
     ],
     "qs:a0":"Norge",
     "qs:a1":"*Buskerud",
@@ -129,7 +117,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529699843,
+    "wof:lastmodified":1561769595,
     "wof:name":"Tofte",
     "wof:parent_id":1159297231,
     "wof:placetype":"locality",

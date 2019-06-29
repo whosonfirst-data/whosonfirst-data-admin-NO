@@ -18,14 +18,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:alb_x_preferred":[
-        "Eidsberg"
-    ],
     "name:ara_x_preferred":[
         "\u0623\u064a\u062f\u0633\u0628\u0631\u063a"
-    ],
-    "name:baq_x_preferred":[
-        "Eidsberg"
     ],
     "name:bar_x_preferred":[
         "Eidsberg"
@@ -39,13 +33,10 @@
     "name:cat_x_preferred":[
         "Eidsberg"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u5fb7\u65af\u8c9d\u683c"
-    ],
     "name:dan_x_preferred":[
         "Eidsberg"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Eidsberg"
     ],
     "name:eng_x_preferred":[
@@ -57,13 +48,13 @@
     "name:est_x_preferred":[
         "Eidsbergi vald"
     ],
+    "name:eus_x_preferred":[
+        "Eidsberg"
+    ],
     "name:fin_x_preferred":[
         "Eidsberg"
     ],
-    "name:fre_x_preferred":[
-        "Eidsberg"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Eidsberg"
     ],
     "name:ita_x_preferred":[
@@ -81,7 +72,7 @@
     "name:lit_x_preferred":[
         "Eidsbergas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Eidsberg"
     ],
     "name:nan_x_preferred":[
@@ -89,6 +80,9 @@
     ],
     "name:nds_x_preferred":[
         "Kommun Eidsberg"
+    ],
+    "name:nld_x_preferred":[
+        "Eidsberg"
     ],
     "name:nno_x_preferred":[
         "Eidsberg"
@@ -105,7 +99,7 @@
     "name:por_x_preferred":[
         "Eidsberg"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Eidsberg"
     ],
     "name:rus_x_preferred":[
@@ -115,6 +109,9 @@
         "Eidsberg"
     ],
     "name:spa_x_preferred":[
+        "Eidsberg"
+    ],
+    "name:sqi_x_preferred":[
         "Eidsberg"
     ],
     "name:swa_x_preferred":[
@@ -128,6 +125,9 @@
     ],
     "name:war_x_preferred":[
         "Eidsberg"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u5fb7\u65af\u8c9d\u683c"
     ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":"NO",
@@ -179,7 +179,7 @@
         }
     ],
     "wof:id":1125818573,
-    "wof:lastmodified":1529700551,
+    "wof:lastmodified":1561769613,
     "wof:name":"Eidsberg",
     "wof:parent_id":1159296727,
     "wof:placetype":"locality",

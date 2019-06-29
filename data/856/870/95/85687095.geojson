@@ -27,17 +27,8 @@
     "name:afr_x_preferred":[
         "Akershus"
     ],
-    "name:alb_x_preferred":[
-        "Akershus"
-    ],
     "name:ara_x_preferred":[
         "\u0622\u0643\u0631\u0634\u0648\u0633"
-    ],
-    "name:arm_x_preferred":[
-        "\u0531\u056f\u0565\u0580\u057d\u0570\u0578\u0582\u057d"
-    ],
-    "name:baq_x_preferred":[
-        "Akershus"
     ],
     "name:bel_x_preferred":[
         "\u0410\u043a\u0435\u0440\u0441\u0445\u0443\u0441"
@@ -66,13 +57,7 @@
     "name:che_x_preferred":[
         "\u0410\u043a\u0435\u0440\u0441\u0445\u0443\u0441"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u514b\u4ec0\u80e1\u65af\u90e1"
-    ],
     "name:cor_x_preferred":[
-        "Akershus"
-    ],
-    "name:cze_x_preferred":[
         "Akershus"
     ],
     "name:dan_x_preferred":[
@@ -81,8 +66,8 @@
     "name:deu_x_preferred":[
         "Akershus"
     ],
-    "name:dut_x_preferred":[
-        "Akershus"
+    "name:ell_x_preferred":[
+        "\u0391\u03ba\u03ad\u03c1\u03c3\u03bf\u03c5\u03c2"
     ],
     "name:eng_x_preferred":[
         "Akershus"
@@ -108,18 +93,6 @@
     "name:fra_x_variant":[
         "Akershus"
     ],
-    "name:fre_x_preferred":[
-        "Comt\u00e9 d'Akershus"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10d9\u10d4\u10e0\u10e1\u10ee\u10e3\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Akershus"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03ba\u03ad\u03c1\u03c3\u03bf\u03c5\u03c2"
-    ],
     "name:guj_x_preferred":[
         "\u0a85\u0a95\u0ab0\u0acd\u0ab8\u0ab8"
     ],
@@ -135,8 +108,8 @@
     "name:hun_x_preferred":[
         "Akershus megye"
     ],
-    "name:ice_x_preferred":[
-        "Akursh\u00fas"
+    "name:hye_x_preferred":[
+        "\u0531\u056f\u0565\u0580\u057d\u0570\u0578\u0582\u057d"
     ],
     "name:ina_x_preferred":[
         "Contate Akershus"
@@ -159,6 +132,9 @@
     "name:kat_x_preferred":[
         "\u10d0\u10d9\u10d4\u10e0\u10e1\u10f0\u10e3\u10e1\u10d8"
     ],
+    "name:kat_x_variant":[
+        "\u10d0\u10d9\u10d4\u10e0\u10e1\u10ee\u10e3\u10e1\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc544\ucf00\ub974\uc2a4\ud6c4\uc2a4 \uc8fc"
     ],
@@ -174,17 +150,14 @@
     "name:lit_x_preferred":[
         "Akershusas"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u043a\u0435\u0440\u0448\u0443\u0441"
-    ],
     "name:mar_x_preferred":[
         "\u0905\u0915\u0930\u094d\u0938\u0938"
     ],
-    "name:may_x_preferred":[
-        "Akershus"
-    ],
     "name:mkd_x_preferred":[
         "\u0410\u043a\u0435\u0440\u0441\u0445\u0443\u0441"
+    ],
+    "name:mkd_x_variant":[
+        "\u0410\u043a\u0435\u0440\u0448\u0443\u0441"
     ],
     "name:msa_x_preferred":[
         "Akershus"
@@ -219,9 +192,6 @@
     "name:oss_x_preferred":[
         "\u0410\u043a\u0435\u0440\u0441\u0445\u0443\u0441"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u06a9\u0631\u0634\u0648\u0633"
-    ],
     "name:pnb_x_preferred":[
         "\u0627\u06a9\u0631\u0634\u0633"
     ],
@@ -232,9 +202,6 @@
         "Akershus"
     ],
     "name:ron_x_preferred":[
-        "Akershus"
-    ],
-    "name:rum_x_preferred":[
         "Akershus"
     ],
     "name:rus_x_preferred":[
@@ -250,9 +217,6 @@
         "\u0d85\u0d9a\u0dd9\u0dbb\u0dca\u0dc2\u0dd4\u0dc3\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Akershus"
-    ],
-    "name:slo_x_preferred":[
         "Akershus"
     ],
     "name:slv_x_preferred":[
@@ -429,7 +393,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1553550885,
+    "wof:lastmodified":1561769541,
     "wof:name":"Akershus",
     "wof:parent_id":85633341,
     "wof:placetype":"region",

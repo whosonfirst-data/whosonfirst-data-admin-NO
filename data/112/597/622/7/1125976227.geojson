@@ -16,19 +16,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:alb_x_preferred":[
-        "Rauma"
-    ],
     "name:cat_x_preferred":[
         "Rauma"
-    ],
-    "name:chi_x_preferred":[
-        "\u8cf4\u4e8e\u99ac"
     ],
     "name:dan_x_preferred":[
         "Rauma"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Rauma"
     ],
     "name:eng_x_preferred":[
@@ -37,13 +31,13 @@
     "name:epo_x_preferred":[
         "Rauma"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0648\u0645\u0627"
+    ],
     "name:fin_x_preferred":[
         "Rauma"
     ],
-    "name:fre_x_preferred":[
-        "Rauma"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Rauma"
     ],
     "name:ita_x_preferred":[
@@ -61,11 +55,14 @@
     "name:lit_x_preferred":[
         "Rauma"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Rauma"
     ],
     "name:nds_x_preferred":[
         "Kommun Rauma"
+    ],
+    "name:nld_x_preferred":[
+        "Rauma"
     ],
     "name:nno_x_preferred":[
         "Rauma"
@@ -73,16 +70,13 @@
     "name:nob_x_preferred":[
         "Rauma"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u0627\u0648\u0645\u0627"
-    ],
     "name:pol_x_preferred":[
         "Rauma"
     ],
     "name:por_x_preferred":[
         "Rauma"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Rauma"
     ],
     "name:rus_x_preferred":[
@@ -97,6 +91,9 @@
     "name:spa_x_preferred":[
         "Rauma"
     ],
+    "name:sqi_x_preferred":[
+        "Rauma"
+    ],
     "name:swa_x_preferred":[
         "Rauma"
     ],
@@ -108,6 +105,9 @@
     ],
     "name:war_x_preferred":[
         "Rauma"
+    ],
+    "name:zho_x_preferred":[
+        "\u8cf4\u4e8e\u99ac"
     ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":null,
@@ -157,7 +157,7 @@
         }
     ],
     "wof:id":1125976227,
-    "wof:lastmodified":1529700101,
+    "wof:lastmodified":1561769621,
     "wof:name":"Rauma",
     "wof:parent_id":1159297421,
     "wof:placetype":"locality",

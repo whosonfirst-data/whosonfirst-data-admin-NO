@@ -18,14 +18,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:alb_x_preferred":[
-        "Berg"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u0631\u063a"
-    ],
-    "name:arm_x_preferred":[
-        "\u0532\u0565\u0580\u0563"
     ],
     "name:bpy_x_preferred":[
         "\u09ac\u09c7\u09b0\u09cd\u0997"
@@ -33,13 +27,10 @@
     "name:cat_x_preferred":[
         "Berg"
     ],
-    "name:chi_x_preferred":[
-        "\u8c9d\u683c"
-    ],
     "name:dan_x_preferred":[
         "Berg"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Berg"
     ],
     "name:eng_x_preferred":[
@@ -54,11 +45,11 @@
     "name:fin_x_preferred":[
         "Berg"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Berg"
     ],
-    "name:ger_x_preferred":[
-        "Berg"
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u0580\u0563"
     ],
     "name:ita_x_preferred":[
         "Berg"
@@ -69,11 +60,14 @@
     "name:lim_x_preferred":[
         "Berg"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Berg"
     ],
     "name:nds_x_preferred":[
         "Kommun Berg"
+    ],
+    "name:nld_x_preferred":[
+        "Berg"
     ],
     "name:nno_x_preferred":[
         "Berg"
@@ -90,7 +84,7 @@
     "name:ron_x_preferred":[
         "Comuna Berg"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Berg"
     ],
     "name:rus_x_preferred":[
@@ -103,6 +97,9 @@
         "Birgi"
     ],
     "name:spa_x_preferred":[
+        "Berg"
+    ],
+    "name:sqi_x_preferred":[
         "Berg"
     ],
     "name:swa_x_preferred":[
@@ -170,7 +167,7 @@
         }
     ],
     "wof:id":1126017289,
-    "wof:lastmodified":1529700452,
+    "wof:lastmodified":1561769626,
     "wof:name":"Berg",
     "wof:parent_id":1159297625,
     "wof:placetype":"locality",
