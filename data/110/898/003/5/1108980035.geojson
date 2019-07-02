@@ -18,12 +18,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:alb_x_preferred":[
-        "Birkenes"
-    ],
-    "name:baq_x_preferred":[
-        "Birkenes"
-    ],
     "name:bar_x_preferred":[
         "Birkenes"
     ],
@@ -33,13 +27,10 @@
     "name:cat_x_preferred":[
         "Birkenes"
     ],
-    "name:chi_x_preferred":[
-        "\u6bd4\u723e\u80af\u5167\u65af"
-    ],
     "name:dan_x_preferred":[
         "Birkenes"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Birkenes"
     ],
     "name:eng_x_preferred":[
@@ -51,13 +42,13 @@
     "name:est_x_preferred":[
         "Birkenesi vald"
     ],
+    "name:eus_x_preferred":[
+        "Birkenes"
+    ],
     "name:fin_x_preferred":[
         "Birkenes"
     ],
-    "name:fre_x_preferred":[
-        "Birkenes"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Birkenes"
     ],
     "name:glg_x_preferred":[
@@ -78,7 +69,7 @@
     "name:lim_x_preferred":[
         "Birkenes"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Birkenes"
     ],
     "name:nan_x_preferred":[
@@ -86,6 +77,9 @@
     ],
     "name:nds_x_preferred":[
         "Kommun Birkenes"
+    ],
+    "name:nld_x_preferred":[
+        "Birkenes"
     ],
     "name:nno_x_preferred":[
         "Birkenes"
@@ -102,7 +96,7 @@
     "name:por_x_preferred":[
         "Birkenes"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Birkenes"
     ],
     "name:rus_x_preferred":[
@@ -117,6 +111,9 @@
     "name:spa_x_preferred":[
         "Birkenes"
     ],
+    "name:sqi_x_preferred":[
+        "Birkenes"
+    ],
     "name:swa_x_preferred":[
         "Birkenes"
     ],
@@ -128,6 +125,9 @@
     ],
     "name:war_x_preferred":[
         "Birkenes"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u723e\u80af\u5167\u65af"
     ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":"NO",
@@ -181,7 +181,7 @@
         }
     ],
     "wof:id":1108980035,
-    "wof:lastmodified":1529699813,
+    "wof:lastmodified":1561769577,
     "wof:name":"Birkenes",
     "wof:parent_id":1159297559,
     "wof:placetype":"locality",

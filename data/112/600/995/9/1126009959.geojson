@@ -16,17 +16,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:alb_x_preferred":[
-        "L\u00f8renskog"
-    ],
     "name:ara_x_preferred":[
         "\u0644\u0648\u0631\u064a\u0646\u0633\u0643\u0648\u063a"
-    ],
-    "name:arm_x_preferred":[
-        "\u053c\u0575\u0578\u0580\u0565\u0576\u057d\u056f\u0578\u0582\u0563"
-    ],
-    "name:baq_x_preferred":[
-        "L\u00f8renskog"
     ],
     "name:bar_x_preferred":[
         "L\u00f8renskog"
@@ -37,16 +28,16 @@
     "name:cat_x_preferred":[
         "L\u00f8renskog"
     ],
-    "name:chi_x_preferred":[
-        "\u52d2\u502b\u65af\u79d1\u683c"
+    "name:ces_x_preferred":[
+        "L\u00f8renskog"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "L\u00f8renskog"
     ],
     "name:dan_x_preferred":[
         "L\u00f8renskog"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "L\u00f8renskog"
     ],
     "name:eng_x_preferred":[
@@ -55,13 +46,13 @@
     "name:epo_x_preferred":[
         "L\u00f8renskog"
     ],
+    "name:eus_x_preferred":[
+        "L\u00f8renskog"
+    ],
     "name:fin_x_preferred":[
         "L\u00f8renskog"
     ],
-    "name:fre_x_preferred":[
-        "L\u00f8renskog"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "L\u00f8renskog"
     ],
     "name:glg_x_preferred":[
@@ -72,6 +63,9 @@
     ],
     "name:hun_x_preferred":[
         "L\u00f8renskog k\u00f6zs\u00e9g"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0575\u0578\u0580\u0565\u0576\u057d\u056f\u0578\u0582\u0563"
     ],
     "name:ind_x_preferred":[
         "L\u00f8renskog"
@@ -97,7 +91,7 @@
     "name:lit_x_preferred":[
         "Liorenskogas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "L\u00f8renskog"
     ],
     "name:nan_x_preferred":[
@@ -105,6 +99,9 @@
     ],
     "name:nds_x_preferred":[
         "Kommun L\u00f8renskog"
+    ],
+    "name:nld_x_preferred":[
+        "L\u00f8renskog"
     ],
     "name:nno_x_preferred":[
         "L\u00f8renskog"
@@ -121,7 +118,7 @@
     "name:por_x_preferred":[
         "L\u00f8renskog"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "L\u00f8renskog"
     ],
     "name:rus_x_preferred":[
@@ -136,6 +133,9 @@
     "name:spa_x_preferred":[
         "L\u00f8renskog"
     ],
+    "name:sqi_x_preferred":[
+        "L\u00f8renskog"
+    ],
     "name:swa_x_preferred":[
         "L\u00f8renskog"
     ],
@@ -148,8 +148,8 @@
     "name:war_x_preferred":[
         "L\u00f8renskog"
     ],
-    "name:wel_x_preferred":[
-        "L\u00f8renskog"
+    "name:zho_x_preferred":[
+        "\u52d2\u502b\u65af\u79d1\u683c"
     ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":null,
@@ -199,7 +199,7 @@
         }
     ],
     "wof:id":1126009959,
-    "wof:lastmodified":1529699788,
+    "wof:lastmodified":1561769627,
     "wof:name":"L\u00f8renskog",
     "wof:parent_id":1159296815,
     "wof:placetype":"locality",

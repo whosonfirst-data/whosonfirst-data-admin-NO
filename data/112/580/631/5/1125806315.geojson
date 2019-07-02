@@ -19,17 +19,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:alb_x_preferred":[
-        "Malvik"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0627\u0644\u0641\u064a\u0643"
-    ],
-    "name:arm_x_preferred":[
-        "\u0544\u0561\u056c\u057e\u056b\u056f"
-    ],
-    "name:baq_x_preferred":[
-        "Malvik"
     ],
     "name:bar_x_preferred":[
         "Malvik"
@@ -40,16 +31,10 @@
     "name:cat_x_preferred":[
         "Malvik"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u723e\u7dad\u514b"
-    ],
     "name:dan_x_preferred":[
         "Malvik"
     ],
     "name:deu_x_preferred":[
-        "Malvik"
-    ],
-    "name:dut_x_preferred":[
         "Malvik"
     ],
     "name:eng_x_preferred":[
@@ -58,14 +43,17 @@
     "name:epo_x_preferred":[
         "Malvik"
     ],
+    "name:eus_x_preferred":[
+        "Malvik"
+    ],
     "name:fin_x_preferred":[
         "Malvik"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Malvik"
     ],
-    "name:ger_x_preferred":[
-        "Malvik"
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u056c\u057e\u056b\u056f"
     ],
     "name:ita_x_preferred":[
         "Malvik"
@@ -76,7 +64,7 @@
     "name:lim_x_preferred":[
         "Malvik"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Malvik"
     ],
     "name:nan_x_preferred":[
@@ -103,7 +91,7 @@
     "name:por_x_preferred":[
         "Malvik"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Malvik"
     ],
     "name:rus_x_preferred":[
@@ -118,6 +106,9 @@
     "name:spa_x_preferred":[
         "Malvik"
     ],
+    "name:sqi_x_preferred":[
+        "Malvik"
+    ],
     "name:swa_x_preferred":[
         "Malvik"
     ],
@@ -129,6 +120,9 @@
     ],
     "name:war_x_preferred":[
         "Malvik"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u723e\u7dad\u514b"
     ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":"NO",
@@ -181,7 +175,7 @@
         }
     ],
     "wof:id":1125806315,
-    "wof:lastmodified":1529700336,
+    "wof:lastmodified":1561769617,
     "wof:name":"Malvik",
     "wof:parent_id":1159296821,
     "wof:placetype":"locality",

@@ -27,17 +27,8 @@
     "name:afr_x_preferred":[
         "Finnmark"
     ],
-    "name:alb_x_preferred":[
-        "Finnmark"
-    ],
     "name:ara_x_preferred":[
         "\u0641\u064a\u0646\u0645\u0627\u0631\u0643"
-    ],
-    "name:arm_x_preferred":[
-        "\u0556\u056b\u0576\u0574\u0561\u0580\u0584"
-    ],
-    "name:baq_x_preferred":[
-        "Finnmark"
     ],
     "name:bel_x_preferred":[
         "\u0424\u0456\u043d\u043c\u0430\u0440\u043a"
@@ -60,22 +51,13 @@
     "name:ces_x_preferred":[
         "Finnmark"
     ],
-    "name:chi_x_preferred":[
-        "\u82ac\u9a6c\u514b\u90e1"
-    ],
     "name:cor_x_preferred":[
-        "Finnmark"
-    ],
-    "name:cze_x_preferred":[
         "Finnmark"
     ],
     "name:dan_x_preferred":[
         "Finnmark"
     ],
     "name:deu_x_preferred":[
-        "Finnmark"
-    ],
-    "name:dut_x_preferred":[
         "Finnmark"
     ],
     "name:eng_x_preferred":[
@@ -103,16 +85,8 @@
         "Comt\u00e9 de Finnmark"
     ],
     "name:fra_x_variant":[
-        "Finnmark"
-    ],
-    "name:fre_x_preferred":[
+        "Finnmark",
         "comt\u00e9 de Finnmark"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e4\u10d8\u10dc\u10db\u10d0\u10e0\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Finnmark"
     ],
     "name:hbs_x_preferred":[
         "Finnmark"
@@ -126,8 +100,8 @@
     "name:hun_x_preferred":[
         "Finnmark megye"
     ],
-    "name:ice_x_preferred":[
-        "Finnm\u00f6rk"
+    "name:hye_x_preferred":[
+        "\u0556\u056b\u0576\u0574\u0561\u0580\u0584"
     ],
     "name:ind_x_preferred":[
         "Finnmark"
@@ -159,9 +133,6 @@
     "name:lit_x_preferred":[
         "Finmarkas"
     ],
-    "name:mac_x_preferred":[
-        "\u0424\u0438\u043d\u043c\u0430\u0440\u043a"
-    ],
     "name:mkd_x_preferred":[
         "\u0424\u0438\u043d\u043c\u0430\u0440\u043a"
     ],
@@ -192,9 +163,6 @@
     "name:oss_x_preferred":[
         "\u0424\u0438\u043d\u043d\u043c\u0430\u0440\u043a"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u06cc\u0646\u0645\u0627\u0631\u06a9"
-    ],
     "name:pnb_x_preferred":[
         "\u0641\u0646\u0645\u0627\u0631\u06a9"
     ],
@@ -207,9 +175,6 @@
     "name:ron_x_preferred":[
         "Finnmark"
     ],
-    "name:rum_x_preferred":[
-        "Finnmark"
-    ],
     "name:rus_x_preferred":[
         "\u0424\u0438\u043d\u043d\u043c\u0430\u0440\u043a"
     ],
@@ -220,9 +185,6 @@
         "F\u0117nmarks"
     ],
     "name:slk_x_preferred":[
-        "Finnmark"
-    ],
-    "name:slo_x_preferred":[
         "Finnmark"
     ],
     "name:slv_x_preferred":[
@@ -396,7 +358,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1553550889,
+    "wof:lastmodified":1561769543,
     "wof:name":"Finnmark",
     "wof:parent_id":85633341,
     "wof:placetype":"region",

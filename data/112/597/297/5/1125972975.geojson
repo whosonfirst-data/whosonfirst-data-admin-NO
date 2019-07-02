@@ -16,17 +16,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:alb_x_preferred":[
-        "R\u00e6lingen"
-    ],
     "name:ara_x_preferred":[
         "\u0631\u0627\u0644\u064a\u0646\u063a\u0646"
-    ],
-    "name:arm_x_preferred":[
-        "\u0550\u0565\u056c\u056b\u0576\u0563\u0565\u0576"
-    ],
-    "name:baq_x_preferred":[
-        "R\u00e6lingen"
     ],
     "name:bar_x_preferred":[
         "R\u00e6lingen"
@@ -37,13 +28,10 @@
     "name:cat_x_preferred":[
         "R\u00e6lingen"
     ],
-    "name:chi_x_preferred":[
-        "\u96f7\u9748\u6069"
-    ],
     "name:dan_x_preferred":[
         "R\u00e6lingen"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "R\u00e6lingen"
     ],
     "name:eng_x_preferred":[
@@ -52,17 +40,20 @@
     "name:epo_x_preferred":[
         "R\u00e6lingen"
     ],
+    "name:eus_x_preferred":[
+        "R\u00e6lingen"
+    ],
     "name:fin_x_preferred":[
         "R\u00e6lingen"
     ],
-    "name:fre_x_preferred":[
-        "R\u00e6lingen"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "R\u00e6lingen"
     ],
     "name:glg_x_preferred":[
         "R\u00e6lingen"
+    ],
+    "name:hye_x_preferred":[
+        "\u0550\u0565\u056c\u056b\u0576\u0563\u0565\u0576"
     ],
     "name:ind_x_preferred":[
         "R\u00e6lingen"
@@ -82,7 +73,7 @@
     "name:lit_x_preferred":[
         "Relingenas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "R\u00e6lingen"
     ],
     "name:nan_x_preferred":[
@@ -90,6 +81,9 @@
     ],
     "name:nds_x_preferred":[
         "Kommun R\u00e6lingen"
+    ],
+    "name:nld_x_preferred":[
+        "R\u00e6lingen"
     ],
     "name:nno_x_preferred":[
         "R\u00e6lingen"
@@ -106,7 +100,7 @@
     "name:por_x_preferred":[
         "R\u00e6lingen"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "R\u00e6lingen"
     ],
     "name:rus_x_preferred":[
@@ -121,6 +115,9 @@
     "name:spa_x_preferred":[
         "R\u00e6lingen"
     ],
+    "name:sqi_x_preferred":[
+        "R\u00e6lingen"
+    ],
     "name:swa_x_preferred":[
         "R\u00e6lingen"
     ],
@@ -132,6 +129,9 @@
     ],
     "name:war_x_preferred":[
         "R\u00e6lingen"
+    ],
+    "name:zho_x_preferred":[
+        "\u96f7\u9748\u6069"
     ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":null,
@@ -181,7 +181,7 @@
         }
     ],
     "wof:id":1125972975,
-    "wof:lastmodified":1529699776,
+    "wof:lastmodified":1561769621,
     "wof:name":"R\u00e6lingen",
     "wof:parent_id":1159297185,
     "wof:placetype":"locality",

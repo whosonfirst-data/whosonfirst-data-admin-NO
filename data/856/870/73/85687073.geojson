@@ -27,17 +27,8 @@
     "name:afr_x_preferred":[
         "Vestfold"
     ],
-    "name:alb_x_preferred":[
-        "Vestfold"
-    ],
     "name:ara_x_preferred":[
         "\u0641\u0633\u062a\u0641\u0648\u0644\u062f"
-    ],
-    "name:arm_x_preferred":[
-        "\u054e\u0565\u057d\u057f\u0586\u0578\u056c"
-    ],
-    "name:baq_x_preferred":[
-        "Vestfold"
     ],
     "name:bel_x_preferred":[
         "\u0412\u0435\u0441\u0442\u0444\u0430\u043b"
@@ -66,13 +57,7 @@
     "name:ces_x_preferred":[
         "Vestfold"
     ],
-    "name:chi_x_preferred":[
-        "\u897f\u798f\u5c14\u90e1"
-    ],
     "name:cor_x_preferred":[
-        "Vestfold"
-    ],
-    "name:cze_x_preferred":[
         "Vestfold"
     ],
     "name:dan_x_preferred":[
@@ -81,8 +66,8 @@
     "name:deu_x_preferred":[
         "Vestfold"
     ],
-    "name:dut_x_preferred":[
-        "Vestfold"
+    "name:ell_x_preferred":[
+        "\u0392\u03ad\u03c3\u03c4\u03c6\u03bf\u03bb\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Vestfold"
@@ -109,19 +94,8 @@
         "Comt\u00e9 de Vestfold"
     ],
     "name:fra_x_variant":[
-        "Vestfold"
-    ],
-    "name:fre_x_preferred":[
+        "Vestfold",
         "comt\u00e9 de Vestfold"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d4\u10e1\u10e2\u10e4\u10dd\u10da\u10d3\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Vestfold"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03ad\u03c3\u03c4\u03c6\u03bf\u03bb\u03bd\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0ac7\u0ab8\u0acd\u0a9f\u0aab\u0acb\u0ab2\u0acd\u0aa1"
@@ -141,8 +115,8 @@
     "name:hun_x_preferred":[
         "Vestfold megye"
     ],
-    "name:ice_x_preferred":[
-        "Vestfold"
+    "name:hye_x_preferred":[
+        "\u054e\u0565\u057d\u057f\u0586\u0578\u056c"
     ],
     "name:ind_x_preferred":[
         "Vestfold"
@@ -177,17 +151,14 @@
     "name:lit_x_preferred":[
         "Vestfoldas"
     ],
-    "name:mac_x_preferred":[
-        "\u0412\u0435\u0441\u0442\u0444\u043e\u043b"
-    ],
     "name:mar_x_preferred":[
         "\u0935\u0947\u0938\u094d\u091f\u092b\u0949\u0932\u094d\u0921"
     ],
-    "name:may_x_preferred":[
-        "Vestfold"
-    ],
     "name:mkd_x_preferred":[
         "\u0412\u0435\u0441\u0442\u0444\u043e\u043b"
+    ],
+    "name:msa_x_preferred":[
+        "Vestfold"
     ],
     "name:nan_x_preferred":[
         "Vestfold"
@@ -213,9 +184,6 @@
     "name:oss_x_preferred":[
         "\u0412\u0435\u0441\u0442\u0444\u043e\u043b\u043b"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0633\u062a\u0641\u0648\u0644\u062f"
-    ],
     "name:pnb_x_preferred":[
         "\u0648\u06cc\u0633\u0679\u0641\u0648\u0644\u0688"
     ],
@@ -226,9 +194,6 @@
         "Vestfold"
     ],
     "name:ron_x_preferred":[
-        "Vestfold"
-    ],
-    "name:rum_x_preferred":[
         "Vestfold"
     ],
     "name:rus_x_preferred":[
@@ -244,9 +209,6 @@
         "\u0dc0\u0dd9\u0dc3\u0dca\u0da7\u0dca\u0dc6\u0ddd\u0dbd\u0dca\u0da9\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Vestfold"
-    ],
-    "name:slo_x_preferred":[
         "Vestfold"
     ],
     "name:slv_x_preferred":[
@@ -420,7 +382,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1553550882,
+    "wof:lastmodified":1561769542,
     "wof:name":"Vestfold",
     "wof:parent_id":85633341,
     "wof:placetype":"region",

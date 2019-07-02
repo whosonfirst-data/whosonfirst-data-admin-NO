@@ -24,17 +24,11 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.7,
-    "name:alb_x_preferred":[
-        "Sogn og Fjordane"
-    ],
     "name:ang_x_preferred":[
         "Sogn and \u00fea Fl\u0113otas"
     ],
     "name:ara_x_preferred":[
         "\u0633\u0648\u063a\u0646 \u0648\u0641\u064a\u0648\u0631\u062f\u0627\u0646\u0647"
-    ],
-    "name:baq_x_preferred":[
-        "Sogn og Fjordane"
     ],
     "name:bar_x_preferred":[
         "Sogn og Fjordane"
@@ -66,13 +60,7 @@
     "name:ces_x_preferred":[
         "Sogn og Fjordane"
     ],
-    "name:chi_x_preferred":[
-        "\u677e\u6069-\u83f2\u5c24\u62c9\u8bb7\u90e1"
-    ],
     "name:cor_x_preferred":[
-        "Sogn og Fjordane"
-    ],
-    "name:cze_x_preferred":[
         "Sogn og Fjordane"
     ],
     "name:dan_x_preferred":[
@@ -81,8 +69,8 @@
     "name:deu_x_preferred":[
         "Sogn og Fjordane"
     ],
-    "name:dut_x_preferred":[
-        "Sogn og Fjordane"
+    "name:ell_x_preferred":[
+        "\u03a3\u03cc\u03b3\u03bd\u03ba \u03bf\u03b3\u03ba \u03a6\u03c4\u03b6\u03bf\u03c1\u03bd\u03c4\u03ac\u03bd\u03b5"
     ],
     "name:eng_x_preferred":[
         "Sogn og Fjordane"
@@ -99,6 +87,9 @@
     "name:fas_x_preferred":[
         "\u0633\u0648\u0646 \u0627\u0648\u06af \u0641\u06cc\u0648\u0631\u062f\u0627\u0646\u0647"
     ],
+    "name:fas_x_variant":[
+        "\u0633\u0648\u0646 \u0627\u0648\u06af \u0641\u0648\u0631\u062f\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Sognin ja Fjordanen l\u00e4\u00e4ni"
     ],
@@ -107,18 +98,6 @@
     ],
     "name:fra_x_variant":[
         "Sogn og Fjordane"
-    ],
-    "name:fre_x_preferred":[
-        "Comt\u00e9 de Sogn og Fjordane"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10dd\u10d2\u10dc-\u10dd\u10d2-\u10e4\u10d8\u10e3\u10e0\u10d0\u10dc\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Sogn og Fjordane"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03cc\u03b3\u03bd\u03ba \u03bf\u03b3\u03ba \u03a6\u03c4\u03b6\u03bf\u03c1\u03bd\u03c4\u03ac\u03bd\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acb\u0a97\u0aa8 \u0a93\u0a97 \u0aab\u0a9c\u0acb\u0ab0\u0acd\u0aa1\u0aa8"
@@ -134,9 +113,6 @@
     ],
     "name:hun_x_preferred":[
         "Sogn og Fjordane megye"
-    ],
-    "name:ice_x_preferred":[
-        "Sogn og Fir\u00f0afylki"
     ],
     "name:ind_x_preferred":[
         "Sogn og Fjordane"
@@ -171,17 +147,17 @@
     "name:lit_x_preferred":[
         "Sogn\u0117 ir Fjurdan\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u043e\u0433\u043d \u043e \u0424\u0458\u0443\u0440\u0430\u043d\u0435"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u0949\u0917\u0928 \u0913\u0917 \u092b\u0901\u091c\u094b\u0930\u0926\u093e\u0928\u0947"
     ],
-    "name:may_x_preferred":[
-        "Sogn og Fjordane"
-    ],
     "name:mkd_x_preferred":[
         "\u0421\u043e\u0433\u043d \u043e\u0433 \u0424\u0458\u0443\u0440\u0430\u043d\u0435"
+    ],
+    "name:mkd_x_variant":[
+        "\u0421\u043e\u0433\u043d \u043e \u0424\u0458\u0443\u0440\u0430\u043d\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Sogn og Fjordane"
     ],
     "name:nah_x_preferred":[
         "Sogn og Fjordane"
@@ -210,9 +186,6 @@
     "name:oss_x_preferred":[
         "\u0421\u043e\u0433\u043d-\u043e\u0433-\u0424\u044c\u044e\u0440\u0430\u043d\u0435"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0648\u0646 \u0627\u0648\u06af \u0641\u0648\u0631\u062f\u0627\u0646"
-    ],
     "name:pnb_x_preferred":[
         "\u0633\u0648\u06af\u0646 \u0627\u0648\u06a9 \u0641\u06cc\u0648\u0631\u062f\u06cc\u0646"
     ],
@@ -223,9 +196,6 @@
         "Sogn og Fjordane"
     ],
     "name:ron_x_preferred":[
-        "Sogn og Fjordane"
-    ],
-    "name:rum_x_preferred":[
         "Sogn og Fjordane"
     ],
     "name:rus_x_preferred":[
@@ -241,9 +211,6 @@
         "\u0dc3\u0ddc\u0d9c\u0dca\u0db1\u0dca \u0d94\u0d9c\u0dca \u0dc6\u0dca\u0da2\u0ddd\u0dbb\u0dca\u0daf\u0db1\u0dda"
     ],
     "name:slk_x_preferred":[
-        "Sogn og Fjordane"
-    ],
-    "name:slo_x_preferred":[
         "Sogn og Fjordane"
     ],
     "name:slv_x_preferred":[
@@ -423,7 +390,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1553550887,
+    "wof:lastmodified":1561769543,
     "wof:name":"Sogn og Fjordane",
     "wof:parent_id":85633341,
     "wof:placetype":"region",

@@ -18,14 +18,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:alb_x_preferred":[
-        "Stj\u00f8rdal"
-    ],
     "name:ara_x_preferred":[
         "\u0633\u062a\u064a\u0648\u0631\u062f\u0627\u0644"
-    ],
-    "name:baq_x_preferred":[
-        "Stj\u00f8rdal"
     ],
     "name:bpy_x_preferred":[
         "\u09b8\u09cd\u099f\u099c\u09be\u09b0\u09a1\u09be\u09b2"
@@ -33,13 +27,10 @@
     "name:cat_x_preferred":[
         "Stj\u00f8rdal"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u5f7b\u8fbe\u5c14"
-    ],
     "name:dan_x_preferred":[
         "Stj\u00f8rdal"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Stj\u00f8rdal"
     ],
     "name:eng_x_preferred":[
@@ -48,16 +39,16 @@
     "name:epo_x_preferred":[
         "Stj\u00f8rdal"
     ],
+    "name:eus_x_preferred":[
+        "Stj\u00f8rdal"
+    ],
     "name:fao_x_preferred":[
         "Stj\u00f8rdal"
     ],
     "name:fin_x_preferred":[
         "Stj\u00f8rdal"
     ],
-    "name:fre_x_preferred":[
-        "Stj\u00f8rdal"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Stj\u00f8rdal"
     ],
     "name:ind_x_preferred":[
@@ -84,7 +75,7 @@
     "name:lit_x_preferred":[
         "Stjordalshalsenas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Stj\u00f8rdal"
     ],
     "name:nan_x_preferred":[
@@ -92,6 +83,9 @@
     ],
     "name:nds_x_preferred":[
         "Kommun Stj\u00f8rdal"
+    ],
+    "name:nld_x_preferred":[
+        "Stj\u00f8rdal"
     ],
     "name:nno_x_preferred":[
         "Stj\u00f8rdal"
@@ -105,7 +99,7 @@
     "name:por_x_preferred":[
         "Stj\u00f8rdal"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Stj\u00f8rdal"
     ],
     "name:rus_x_preferred":[
@@ -126,6 +120,9 @@
     "name:spa_x_preferred":[
         "Stj\u00f8rdal"
     ],
+    "name:sqi_x_preferred":[
+        "Stj\u00f8rdal"
+    ],
     "name:swa_x_preferred":[
         "Stj\u00f8rdal"
     ],
@@ -137,6 +134,9 @@
     ],
     "name:war_x_preferred":[
         "Stj\u00f8rdal"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u5f7b\u8fbe\u5c14"
     ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":"NO",
@@ -190,7 +190,7 @@
         }
     ],
     "wof:id":1125880873,
-    "wof:lastmodified":1529700204,
+    "wof:lastmodified":1561769614,
     "wof:name":"Stj\u00f8rdal",
     "wof:parent_id":1159296711,
     "wof:placetype":"locality",

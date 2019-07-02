@@ -39,19 +39,10 @@
     "name:ces_x_preferred":[
         "Holmenkollen"
     ],
-    "name:chi_x_preferred":[
-        "\u970d\u723e\u9580\u79d1\u502b"
-    ],
-    "name:cze_x_preferred":[
-        "Holmenkollen"
-    ],
     "name:dan_x_preferred":[
         "Holmenkollen"
     ],
     "name:deu_x_preferred":[
-        "Holmenkollen"
-    ],
-    "name:dut_x_preferred":[
         "Holmenkollen"
     ],
     "name:eng_x_preferred":[
@@ -66,12 +57,6 @@
     "name:fra_x_preferred":[
         "Holmenkollen"
     ],
-    "name:fre_x_preferred":[
-        "Holmenkollen"
-    ],
-    "name:ger_x_preferred":[
-        "Holmenkollen"
-    ],
     "name:hun_x_preferred":[
         "Holmenkollen"
     ],
@@ -82,9 +67,6 @@
         "Holmenkollene"
     ],
     "name:ltz_x_preferred":[
-        "Holmenkollen"
-    ],
-    "name:may_x_preferred":[
         "Holmenkollen"
     ],
     "name:msa_x_preferred":[
@@ -133,6 +115,9 @@
         "Holmen",
         "Holmenkollen"
     ],
+    "name:zho_x_preferred":[
+        "\u970d\u723e\u9580\u79d1\u502b"
+    ],
     "qs:gn_adm0_cc":"NO",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3143244,
@@ -166,11 +151,11 @@
     "wd:longitude":10.666667,
     "wd:wordcount":295,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        101751917
+        101751917,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -197,7 +182,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529699791,
+    "wof:lastmodified":1561769533,
     "wof:name":"Holmenkollen",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

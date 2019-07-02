@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000586,
-    "geom:area_square_m":3730134.969201,
+    "geom:area_square_m":3730134.969199,
     "geom:bbox":"10.0138894693,58.9821033777,10.050358336,59.0144877044",
     "geom:latitude":58.998664,
     "geom:longitude":10.03108,
@@ -18,17 +18,11 @@
     "mps:longitude":10.029285,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Stavern"
-    ],
     "name:bul_x_preferred":[
         "\u0421\u0442\u0430\u0432\u0435\u0440\u043d"
     ],
     "name:ceb_x_preferred":[
         "Stavern"
-    ],
-    "name:chi_x_preferred":[
-        "\u65af\u5854\u97cb\u6069"
     ],
     "name:dan_x_preferred":[
         "Stavern"
@@ -36,10 +30,10 @@
     "name:deu_x_preferred":[
         "Stavern"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Stavern"
     ],
-    "name:eng_x_preferred":[
+    "name:eus_x_preferred":[
         "Stavern"
     ],
     "name:fin_x_preferred":[
@@ -48,20 +42,11 @@
     "name:fra_x_preferred":[
         "Stavern"
     ],
-    "name:fre_x_preferred":[
-        "Stavern"
-    ],
-    "name:ger_x_preferred":[
-        "Stavern"
-    ],
     "name:ita_x_preferred":[
         "Stavern"
     ],
     "name:jpn_x_preferred":[
         "\u30b9\u30bf\u30d9\u30eb\u30f3"
-    ],
-    "name:may_x_preferred":[
-        "Stavern"
     ],
     "name:msa_x_preferred":[
         "Stavern"
@@ -86,6 +71,9 @@
     ],
     "name:unk_x_variant":[
         "Fredriksv\u00e6rn"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u5854\u97cb\u6069"
     ],
     "qs:a0":"Norge",
     "qs:a1":"*Vestfold",
@@ -133,7 +121,7 @@
         }
     ],
     "wof:id":101803803,
-    "wof:lastmodified":1529700490,
+    "wof:lastmodified":1561769589,
     "wof:name":"Stavern",
     "wof:parent_id":1159296779,
     "wof:placetype":"locality",

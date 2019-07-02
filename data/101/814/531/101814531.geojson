@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000131,
-    "geom:area_square_m":745503.263936,
+    "geom:area_square_m":745503.263935,
     "geom:bbox":"11.2109563957,62.4900368682,11.2440752787,62.4997749664",
     "geom:latitude":62.495113,
     "geom:longitude":11.226227,
@@ -19,9 +19,6 @@
     "mz:is_current":1,
     "name:ara_x_preferred":[
         "\u0623\u0648 \u0625\u0633"
-    ],
-    "name:baq_x_preferred":[
-        "Os"
     ],
     "name:bpy_x_preferred":[
         "\u0993\u09b8"
@@ -38,9 +35,6 @@
     "name:ces_x_preferred":[
         "OS"
     ],
-    "name:chi_x_preferred":[
-        "\u70cf\u65af"
-    ],
     "name:dan_x_preferred":[
         "Knogle"
     ],
@@ -49,9 +43,6 @@
     ],
     "name:deu_x_variant":[
         "Os im \u00d8sterdalen"
-    ],
-    "name:dut_x_preferred":[
-        "Os"
     ],
     "name:eng_x_preferred":[
         "Os"
@@ -74,11 +65,8 @@
     "name:fra_x_preferred":[
         "OS"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Os"
-    ],
-    "name:ger_x_preferred":[
-        "Os im \u00d8sterdalen"
     ],
     "name:hrv_x_preferred":[
         "OS"
@@ -113,7 +101,7 @@
     "name:lit_x_preferred":[
         "Os"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Os"
     ],
     "name:nan_x_preferred":[
@@ -168,7 +156,7 @@
     "name:ron_x_preferred":[
         "OS"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Os"
     ],
     "name:rus_x_preferred":[
@@ -212,6 +200,9 @@
     ],
     "name:zho_x_preferred":[
         "OS"
+    ],
+    "name:zho_x_variant":[
+        "\u70cf\u65af"
     ],
     "qs:a0":"Norge",
     "qs:a1":"*Hedmark",
@@ -262,7 +253,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529700020,
+    "wof:lastmodified":1561769597,
     "wof:name":"Os",
     "wof:parent_id":1159297463,
     "wof:placetype":"locality",

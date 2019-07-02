@@ -19,20 +19,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Velle"
-    ],
     "name:eng_x_preferred":[
         "Velle"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u0647\u060c \u0646\u0648\u0631\u062f \u062a\u0631\u0646\u062f\u0644\u06af"
+    ],
+    "name:fra_x_preferred":[
         "Velle"
     ],
     "name:jav_x_preferred":[
         "Vellamelen"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Vellamelen"
+    ],
+    "name:nld_x_preferred":[
+        "Velle"
     ],
     "name:nno_x_preferred":[
         "Velde"
@@ -40,10 +43,7 @@
     "name:nob_x_preferred":[
         "Vellamelen"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0644\u0647\u060c \u0646\u0648\u0631\u062f \u062a\u0631\u0646\u062f\u0644\u06af"
-    ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Velde"
     ],
     "name:unk_x_variant":[
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1125946193,
-    "wof:lastmodified":1529700207,
+    "wof:lastmodified":1561769602,
     "wof:name":"Velle",
     "wof:parent_id":1159296907,
     "wof:placetype":"locality",

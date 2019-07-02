@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000286,
-    "geom:area_square_m":1730169.596706,
+    "geom:area_square_m":1730169.596707,
     "geom:bbox":"11.1779489738,60.7083748643,11.210848751,60.7246674342",
     "geom:latitude":60.716136,
     "geom:longitude":11.194034,
@@ -17,17 +17,8 @@
     "mps:longitude":11.194283,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "St\u00e5nge"
-    ],
     "name:ara_x_preferred":[
         "\u0633\u062a\u0627\u0646\u063a"
-    ],
-    "name:arm_x_preferred":[
-        "\u054d\u0569\u0561\u0576\u0563\u0565"
-    ],
-    "name:baq_x_preferred":[
-        "Stange"
     ],
     "name:bpy_x_preferred":[
         "\u09b8\u09cd\u099f\u09be\u09a8\u09cd\u099c\u09c7"
@@ -35,19 +26,13 @@
     "name:cat_x_preferred":[
         "Stange"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u5510\u5384"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Stange"
     ],
     "name:dan_x_preferred":[
         "Stange"
     ],
     "name:deu_x_preferred":[
-        "Stange"
-    ],
-    "name:dut_x_preferred":[
         "Stange"
     ],
     "name:eng_x_preferred":[
@@ -65,11 +50,8 @@
     "name:fra_x_preferred":[
         "Stange"
     ],
-    "name:fre_x_preferred":[
-        "Stange"
-    ],
-    "name:ger_x_preferred":[
-        "Stange"
+    "name:hye_x_preferred":[
+        "\u054d\u0569\u0561\u0576\u0563\u0565"
     ],
     "name:ita_x_preferred":[
         "St\u00e5nge"
@@ -81,9 +63,6 @@
         "Stange"
     ],
     "name:lim_x_preferred":[
-        "Stange"
-    ],
-    "name:may_x_preferred":[
         "Stange"
     ],
     "name:msa_x_preferred":[
@@ -123,9 +102,6 @@
     "name:ron_x_preferred":[
         "Stange"
     ],
-    "name:rum_x_preferred":[
-        "Stange"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0430\u043d\u0433\u0435"
     ],
@@ -140,6 +116,9 @@
     ],
     "name:sqi_x_preferred":[
         "Stange"
+    ],
+    "name:sqi_x_variant":[
+        "St\u00e5nge"
     ],
     "name:swa_x_preferred":[
         "Stange"
@@ -208,7 +187,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529700021,
+    "wof:lastmodified":1561769594,
     "wof:name":"Stange",
     "wof:parent_id":1159297493,
     "wof:placetype":"locality",

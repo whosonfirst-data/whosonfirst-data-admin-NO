@@ -24,14 +24,8 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.7,
-    "name:alb_x_preferred":[
-        "Telemark"
-    ],
     "name:ara_x_preferred":[
         "\u062a\u0644\u0645\u0627\u0631\u0643"
-    ],
-    "name:baq_x_preferred":[
-        "Telemark"
     ],
     "name:bel_x_preferred":[
         "\u0422\u044d\u043b\u0435\u043c\u0430\u0440\u043a"
@@ -54,13 +48,7 @@
     "name:ces_x_preferred":[
         "Telemark"
     ],
-    "name:chi_x_preferred":[
-        "\u6cf0\u52d2\u9a6c\u514b\u90e1"
-    ],
     "name:cor_x_preferred":[
-        "Telemark"
-    ],
-    "name:cze_x_preferred":[
         "Telemark"
     ],
     "name:dan_x_preferred":[
@@ -69,8 +57,8 @@
     "name:deu_x_preferred":[
         "Telemark"
     ],
-    "name:dut_x_preferred":[
-        "Telemark"
+    "name:ell_x_preferred":[
+        "\u03a4\u03ad\u03bb\u03b5\u03bc\u03b1\u03c1\u03ba"
     ],
     "name:eng_x_preferred":[
         "Telemark"
@@ -99,26 +87,11 @@
     "name:fra_x_variant":[
         "Telemark"
     ],
-    "name:fre_x_preferred":[
-        "Comt\u00e9 de Telemark"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d4\u10da\u10d4\u10db\u10d0\u10e0\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Telemark"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03ad\u03bb\u03b5\u03bc\u03b1\u03c1\u03ba"
-    ],
     "name:hrv_x_preferred":[
         "Telemark"
     ],
     "name:hun_x_preferred":[
         "Telemark megye"
-    ],
-    "name:ice_x_preferred":[
-        "\u00deelam\u00f6rk"
     ],
     "name:ind_x_preferred":[
         "Telemark"
@@ -147,9 +120,6 @@
     "name:lit_x_preferred":[
         "Telemarkas"
     ],
-    "name:mac_x_preferred":[
-        "\u0422\u0435\u043b\u0435\u043c\u0430\u0440\u043a"
-    ],
     "name:mkd_x_preferred":[
         "\u0422\u0435\u043b\u0435\u043c\u0430\u0440\u043a"
     ],
@@ -177,9 +147,6 @@
     "name:oss_x_preferred":[
         "\u0422\u0435\u043b\u0435\u043c\u0430\u0440\u043a"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0644\u0645\u0627\u0631\u06a9"
-    ],
     "name:pnb_x_preferred":[
         "\u0679\u06cc\u0644\u06cc\u0645\u0627\u0631\u06a9"
     ],
@@ -192,9 +159,6 @@
     "name:ron_x_preferred":[
         "Telemark"
     ],
-    "name:rum_x_preferred":[
-        "Telemark"
-    ],
     "name:rus_x_preferred":[
         "\u0422\u0435\u043b\u0435\u043c\u0430\u0440\u043a"
     ],
@@ -205,9 +169,6 @@
         "Telemarks"
     ],
     "name:slk_x_preferred":[
-        "Telemark"
-    ],
-    "name:slo_x_preferred":[
         "Telemark"
     ],
     "name:slv_x_preferred":[
@@ -375,7 +336,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1553550883,
+    "wof:lastmodified":1561769542,
     "wof:name":"Telemark",
     "wof:parent_id":85633341,
     "wof:placetype":"region",

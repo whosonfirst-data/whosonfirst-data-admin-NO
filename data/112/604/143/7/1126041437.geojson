@@ -20,25 +20,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:alb_x_preferred":[
-        "H\u00f8ylandet"
-    ],
-    "name:baq_x_preferred":[
-        "H\u00f8ylandet"
-    ],
     "name:bpy_x_preferred":[
         "\u09b9\u09be\u09af\u09bc\u09b2\u09c7\u09a8\u09cd\u09a1\u09c7\u099f"
     ],
     "name:cat_x_preferred":[
         "H\u00f8ylandet"
     ],
-    "name:chi_x_preferred":[
-        "\u60e0\u862d\u8a25"
-    ],
     "name:dan_x_preferred":[
         "H\u00f8ylandet"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "H\u00f8ylandet"
     ],
     "name:eng_x_preferred":[
@@ -47,13 +38,13 @@
     "name:epo_x_preferred":[
         "H\u00f8ylandet"
     ],
+    "name:eus_x_preferred":[
+        "H\u00f8ylandet"
+    ],
     "name:fin_x_preferred":[
         "H\u00f8ylandet"
     ],
-    "name:fre_x_preferred":[
-        "H\u00f8ylandet"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "H\u00f8ylandet"
     ],
     "name:ind_x_preferred":[
@@ -71,7 +62,7 @@
     "name:lim_x_preferred":[
         "H\u00f8ylandet"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "H\u00f8ylandet"
     ],
     "name:nan_x_preferred":[
@@ -79,6 +70,9 @@
     ],
     "name:nds_x_preferred":[
         "Kommun H\u00f8ylandet"
+    ],
+    "name:nld_x_preferred":[
+        "H\u00f8ylandet"
     ],
     "name:nno_x_preferred":[
         "H\u00f8ylandet"
@@ -92,7 +86,7 @@
     "name:por_x_preferred":[
         "H\u00f8ylandet"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "H\u00f8ylandet"
     ],
     "name:rus_x_preferred":[
@@ -107,6 +101,9 @@
     "name:spa_x_preferred":[
         "H\u00f8ylandet"
     ],
+    "name:sqi_x_preferred":[
+        "H\u00f8ylandet"
+    ],
     "name:swa_x_preferred":[
         "H\u00f8ylandet"
     ],
@@ -118,6 +115,9 @@
     ],
     "name:war_x_preferred":[
         "H\u00f8ylandet"
+    ],
+    "name:zho_x_preferred":[
+        "\u60e0\u862d\u8a25"
     ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":"NO",
@@ -157,7 +157,7 @@
         }
     ],
     "wof:id":1126041437,
-    "wof:lastmodified":1534379387,
+    "wof:lastmodified":1561769610,
     "wof:name":"H\u00f8ylandet",
     "wof:parent_id":1159297183,
     "wof:placetype":"locality",

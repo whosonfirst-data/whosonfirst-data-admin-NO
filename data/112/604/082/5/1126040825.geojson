@@ -16,12 +16,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:alb_x_preferred":[
-        "Rendalen"
-    ],
-    "name:baq_x_preferred":[
-        "Rendalen"
-    ],
     "name:bar_x_preferred":[
         "Rendalen"
     ],
@@ -31,13 +25,10 @@
     "name:cat_x_preferred":[
         "Rendalen"
     ],
-    "name:chi_x_preferred":[
-        "\u502b\u9054\u502b"
-    ],
     "name:dan_x_preferred":[
         "Rendalen"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Rendalen"
     ],
     "name:eng_x_preferred":[
@@ -46,13 +37,13 @@
     "name:epo_x_preferred":[
         "Rendalen"
     ],
+    "name:eus_x_preferred":[
+        "Rendalen"
+    ],
     "name:fin_x_preferred":[
         "Rendalen"
     ],
-    "name:fre_x_preferred":[
-        "Rendalen"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Rendalen"
     ],
     "name:ita_x_preferred":[
@@ -67,7 +58,7 @@
     "name:lim_x_preferred":[
         "Rendalen"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Rendalen"
     ],
     "name:nan_x_preferred":[
@@ -75,6 +66,9 @@
     ],
     "name:nds_x_preferred":[
         "Kommun Rendalen"
+    ],
+    "name:nld_x_preferred":[
+        "Rendalen"
     ],
     "name:nno_x_preferred":[
         "Rendalen"
@@ -88,7 +82,7 @@
     "name:por_x_preferred":[
         "Rendalen"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Rendalen"
     ],
     "name:rus_x_preferred":[
@@ -103,6 +97,9 @@
     "name:spa_x_preferred":[
         "Rendalen"
     ],
+    "name:sqi_x_preferred":[
+        "Rendalen"
+    ],
     "name:swa_x_preferred":[
         "Rendalen"
     ],
@@ -114,6 +111,9 @@
     ],
     "name:war_x_preferred":[
         "Rendalen"
+    ],
+    "name:zho_x_preferred":[
+        "\u502b\u9054\u502b"
     ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":null,
@@ -163,7 +163,7 @@
         }
     ],
     "wof:id":1126040825,
-    "wof:lastmodified":1529700024,
+    "wof:lastmodified":1561769610,
     "wof:name":"Rendalen",
     "wof:parent_id":1159297175,
     "wof:placetype":"locality",

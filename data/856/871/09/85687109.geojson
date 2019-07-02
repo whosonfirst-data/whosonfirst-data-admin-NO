@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.23308,
-    "geom:area_square_m":25045767736.79055,
+    "geom:area_square_m":25045767736.790321,
     "geom:bbox":"7.3425305,60.13161,11.153986,62.3784025",
     "geom:latitude":61.4115,
     "geom:longitude":9.352125,
@@ -27,17 +27,8 @@
     "name:afr_x_preferred":[
         "Oppland"
     ],
-    "name:alb_x_preferred":[
-        "Oppland"
-    ],
     "name:ara_x_preferred":[
         "\u0623\u0648\u0628\u0644\u0627\u0646\u062f"
-    ],
-    "name:arm_x_preferred":[
-        "\u0555\u057a\u056c\u0561\u0576\u0564"
-    ],
-    "name:baq_x_preferred":[
-        "Oppland"
     ],
     "name:bar_x_preferred":[
         "Oppland"
@@ -66,13 +57,7 @@
     "name:ces_x_preferred":[
         "Oppland"
     ],
-    "name:chi_x_preferred":[
-        "\u5965\u666e\u5170\u90e1"
-    ],
     "name:cor_x_preferred":[
-        "Oppland"
-    ],
-    "name:cze_x_preferred":[
         "Oppland"
     ],
     "name:dan_x_preferred":[
@@ -81,8 +66,8 @@
     "name:deu_x_preferred":[
         "Oppland"
     ],
-    "name:dut_x_preferred":[
-        "Oppland"
+    "name:ell_x_preferred":[
+        "\u038c\u03c0\u03bb\u03b1\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Oppland"
@@ -109,19 +94,8 @@
         "Comt\u00e9 d'Oppland"
     ],
     "name:fra_x_variant":[
-        "Oppland"
-    ],
-    "name:fre_x_preferred":[
+        "Oppland",
         "comt\u00e9 d'Oppland"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10de\u10da\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Oppland"
-    ],
-    "name:gre_x_preferred":[
-        "\u038c\u03c0\u03bb\u03b1\u03bd\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0aaa\u0acd\u0aaa\u0ab2\u0ac7\u0aa8\u0acd\u0aa1"
@@ -138,8 +112,8 @@
     "name:hun_x_preferred":[
         "Oppland megye"
     ],
-    "name:ice_x_preferred":[
-        "Uppl\u00f6nd"
+    "name:hye_x_preferred":[
+        "\u0555\u057a\u056c\u0561\u0576\u0564"
     ],
     "name:ind_x_preferred":[
         "Oppland"
@@ -174,17 +148,17 @@
     "name:lit_x_preferred":[
         "Oplandas"
     ],
-    "name:mac_x_preferred":[
-        "\u041e\u043f\u043b\u0430\u043d\u0434"
-    ],
     "name:mar_x_preferred":[
         "\u0911\u092a\u094d\u092a\u0932\u0901\u0921"
     ],
-    "name:may_x_preferred":[
-        "Oppland"
-    ],
     "name:mkd_x_preferred":[
         "\u041e\u043f\u043b\u0430\u043d"
+    ],
+    "name:mkd_x_variant":[
+        "\u041e\u043f\u043b\u0430\u043d\u0434"
+    ],
+    "name:msa_x_preferred":[
+        "Oppland"
     ],
     "name:nan_x_preferred":[
         "Oppland"
@@ -213,9 +187,6 @@
     "name:oss_x_preferred":[
         "\u041e\u043f\u043b\u0430\u043d\u043d"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u067e\u0644\u0627\u0646\u062f"
-    ],
     "name:pnb_x_preferred":[
         "\u0627\u0648\u067e\u0644\u06cc\u0646\u0688"
     ],
@@ -226,9 +197,6 @@
         "Oppland"
     ],
     "name:ron_x_preferred":[
-        "Oppland"
-    ],
-    "name:rum_x_preferred":[
         "Oppland"
     ],
     "name:rus_x_preferred":[
@@ -244,9 +212,6 @@
         "\u0d94\u0db4\u0dca\u0dbd\u0db1\u0dca\u0da9\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Oppland"
-    ],
-    "name:slo_x_preferred":[
         "Oppland"
     ],
     "name:slv_x_preferred":[
@@ -423,7 +388,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1553814893,
+    "wof:lastmodified":1561769543,
     "wof:name":"Oppland",
     "wof:parent_id":85633341,
     "wof:placetype":"region",

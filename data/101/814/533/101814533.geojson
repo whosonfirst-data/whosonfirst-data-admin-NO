@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000175,
-    "geom:area_square_m":1003959.712431,
+    "geom:area_square_m":1003959.71243,
     "geom:bbox":"10.988199742,62.4006489783,11.0191061187,62.4159792797",
     "geom:latitude":62.409688,
     "geom:longitude":11.000281,
@@ -17,9 +17,6 @@
     "mps:longitude":10.997706,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Tolga"
-    ],
     "name:bpy_x_preferred":[
         "\u099f\u09cb\u09b2\u0997\u09be"
     ],
@@ -29,16 +26,10 @@
     "name:ces_x_preferred":[
         "Tolga"
     ],
-    "name:chi_x_preferred":[
-        "\u6258\u723e\u52a0"
-    ],
     "name:dan_x_preferred":[
         "Tolga"
     ],
     "name:deu_x_preferred":[
-        "Tolga"
-    ],
-    "name:dut_x_preferred":[
         "Tolga"
     ],
     "name:eng_x_preferred":[
@@ -56,12 +47,6 @@
     "name:fra_x_preferred":[
         "Tolga"
     ],
-    "name:fre_x_preferred":[
-        "Tolga"
-    ],
-    "name:ger_x_preferred":[
-        "Tolga"
-    ],
     "name:ita_x_preferred":[
         "Tolga"
     ],
@@ -77,7 +62,7 @@
     "name:lim_x_preferred":[
         "Tolga"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Tolga"
     ],
     "name:nds_x_preferred":[
@@ -108,9 +93,6 @@
     "name:ron_x_preferred":[
         "Tolga"
     ],
-    "name:rum_x_preferred":[
-        "Tolga"
-    ],
     "name:rus_x_preferred":[
         "\u0422\u043e\u043b\u0433\u0430"
     ],
@@ -121,6 +103,9 @@
         "Tolga"
     ],
     "name:spa_x_preferred":[
+        "Tolga"
+    ],
+    "name:sqi_x_preferred":[
         "Tolga"
     ],
     "name:swa_x_preferred":[
@@ -140,6 +125,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "Tolga"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u723e\u52a0"
     ],
     "qs:a0":"Norge",
     "qs:a1":"*Hedmark",
@@ -191,7 +179,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529700020,
+    "wof:lastmodified":1561769596,
     "wof:name":"Tolga",
     "wof:parent_id":1159297297,
     "wof:placetype":"locality",

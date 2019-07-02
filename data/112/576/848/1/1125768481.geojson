@@ -19,12 +19,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:alb_x_preferred":[
-        "Frosta"
-    ],
-    "name:baq_x_preferred":[
-        "Frosta"
-    ],
     "name:bar_x_preferred":[
         "Frosta"
     ],
@@ -34,13 +28,10 @@
     "name:cat_x_preferred":[
         "Frosta"
     ],
-    "name:chi_x_preferred":[
-        "\u5f17\u7f85\u65af\u5854"
-    ],
     "name:dan_x_preferred":[
         "Frosta"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Frosta"
     ],
     "name:eng_x_preferred":[
@@ -49,16 +40,16 @@
     "name:epo_x_preferred":[
         "Frosta"
     ],
+    "name:eus_x_preferred":[
+        "Frosta"
+    ],
     "name:fin_x_preferred":[
         "Frosta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Frosta"
     ],
-    "name:ger_x_preferred":[
-        "Frosta"
-    ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Frosta"
     ],
     "name:ita_x_preferred":[
@@ -73,7 +64,7 @@
     "name:lim_x_preferred":[
         "Frosta"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Frosta"
     ],
     "name:nan_x_preferred":[
@@ -81,6 +72,9 @@
     ],
     "name:nds_x_preferred":[
         "Kommun Frosta"
+    ],
+    "name:nld_x_preferred":[
+        "Frosta"
     ],
     "name:nno_x_preferred":[
         "Frosta"
@@ -94,7 +88,7 @@
     "name:por_x_preferred":[
         "Frosta"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Frosta"
     ],
     "name:rus_x_preferred":[
@@ -109,6 +103,9 @@
     "name:spa_x_preferred":[
         "Frosta"
     ],
+    "name:sqi_x_preferred":[
+        "Frosta"
+    ],
     "name:swa_x_preferred":[
         "Frosta"
     ],
@@ -120,6 +117,9 @@
     ],
     "name:war_x_preferred":[
         "Frosta"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f17\u7f85\u65af\u5854"
     ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":"NO",
@@ -174,7 +174,7 @@
         }
     ],
     "wof:id":1125768481,
-    "wof:lastmodified":1529700206,
+    "wof:lastmodified":1561769630,
     "wof:name":"Frosta",
     "wof:parent_id":1159296851,
     "wof:placetype":"locality",

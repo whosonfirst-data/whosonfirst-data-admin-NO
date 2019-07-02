@@ -27,17 +27,8 @@
     "name:afr_x_preferred":[
         "Buskerud"
     ],
-    "name:alb_x_preferred":[
-        "Buskerud"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u0648\u0633\u0643\u0631\u0648\u062f"
-    ],
-    "name:arm_x_preferred":[
-        "\u0532\u0578\u0582\u057d\u056f\u0565\u0580\u0578\u0582\u0564"
-    ],
-    "name:baq_x_preferred":[
-        "Buskerud"
     ],
     "name:bar_x_preferred":[
         "Buskerud"
@@ -66,13 +57,7 @@
     "name:ces_x_preferred":[
         "Buskerud"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u65af\u514b\u5415\u90e1"
-    ],
     "name:cor_x_preferred":[
-        "Buskerud"
-    ],
-    "name:cze_x_preferred":[
         "Buskerud"
     ],
     "name:dan_x_preferred":[
@@ -81,8 +66,8 @@
     "name:deu_x_preferred":[
         "Buskerud"
     ],
-    "name:dut_x_preferred":[
-        "Buskerud"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03cd\u03c3\u03ba\u03b5\u03c1\u03bf\u03c5\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Buskerud"
@@ -108,18 +93,6 @@
     "name:fra_x_variant":[
         "Buskerud"
     ],
-    "name:fre_x_preferred":[
-        "Comt\u00e9 de Buskerud"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10e3\u10e1\u10d9\u10d4\u10e0\u10e3\u10d3\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Buskerud"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03bf\u03cd\u03c3\u03ba\u03b5\u03c1\u03bf\u03c5\u03bd\u03c4"
-    ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac1\u0ab8\u0a95\u0ac7\u0ab0\u0ac1\u0aa1"
     ],
@@ -135,8 +108,8 @@
     "name:hun_x_preferred":[
         "Buskerud megye"
     ],
-    "name:ice_x_preferred":[
-        "Buskerud"
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0582\u057d\u056f\u0565\u0580\u0578\u0582\u0564"
     ],
     "name:ind_x_preferred":[
         "Buskerud"
@@ -171,14 +144,8 @@
     "name:lit_x_preferred":[
         "Biuskeriudas"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0443\u0441\u043a\u0435\u0440\u0443\u0434"
-    ],
     "name:mar_x_preferred":[
         "\u092c\u0938\u094d\u0915\u0947\u0930\u0941\u0921"
-    ],
-    "name:may_x_preferred":[
-        "Buskerud"
     ],
     "name:mkd_x_preferred":[
         "\u0411\u0443\u0441\u043a\u0435\u0440\u0443\u0434"
@@ -213,9 +180,6 @@
     "name:oss_x_preferred":[
         "\u0411\u0443\u0441\u043a\u0435\u0440\u0443\u0434"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0648\u0633\u06a9\u0631\u0648\u062f"
-    ],
     "name:pnb_x_preferred":[
         "\u0628\u0633\u06a9\u0631\u0688"
     ],
@@ -226,9 +190,6 @@
         "Buskerud"
     ],
     "name:ron_x_preferred":[
-        "Buskerud"
-    ],
-    "name:rum_x_preferred":[
         "Buskerud"
     ],
     "name:rus_x_preferred":[
@@ -244,9 +205,6 @@
         "\u0db6\u0dc3\u0dca\u0d9a\u0dd9\u0dbb\u0dd4\u0da9\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Buskerud"
-    ],
-    "name:slo_x_preferred":[
         "Buskerud"
     ],
     "name:slv_x_preferred":[
@@ -423,7 +381,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1553550885,
+    "wof:lastmodified":1561769543,
     "wof:name":"Buskerud",
     "wof:parent_id":85633341,
     "wof:placetype":"region",

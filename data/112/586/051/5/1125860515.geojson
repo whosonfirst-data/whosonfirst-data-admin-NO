@@ -18,14 +18,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:alb_x_preferred":[
-        "Bamble"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u0627\u0645\u0628\u0644\u0647"
-    ],
-    "name:baq_x_preferred":[
-        "Bamble"
     ],
     "name:bar_x_preferred":[
         "Bamble"
@@ -39,13 +33,10 @@
     "name:cat_x_preferred":[
         "Bamble"
     ],
-    "name:chi_x_preferred":[
-        "\u73ed\u5e03\u52d2"
-    ],
     "name:dan_x_preferred":[
         "Bamble"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bamble"
     ],
     "name:eng_x_preferred":[
@@ -57,13 +48,13 @@
     "name:est_x_preferred":[
         "Bamble vald"
     ],
+    "name:eus_x_preferred":[
+        "Bamble"
+    ],
     "name:fin_x_preferred":[
         "Bamble"
     ],
-    "name:fre_x_preferred":[
-        "Bamble"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Bamble"
     ],
     "name:ita_x_preferred":[
@@ -78,7 +69,7 @@
     "name:lit_x_preferred":[
         "Bambl\u0117"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bamble"
     ],
     "name:nan_x_preferred":[
@@ -86,6 +77,9 @@
     ],
     "name:nds_x_preferred":[
         "Kommun Bamble"
+    ],
+    "name:nld_x_preferred":[
+        "Bamble"
     ],
     "name:nno_x_preferred":[
         "Bamble"
@@ -99,7 +93,7 @@
     "name:por_x_preferred":[
         "Bamble"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bamble"
     ],
     "name:rus_x_preferred":[
@@ -112,6 +106,9 @@
         "Bamble"
     ],
     "name:spa_x_preferred":[
+        "Bamble"
+    ],
+    "name:sqi_x_preferred":[
         "Bamble"
     ],
     "name:swa_x_preferred":[
@@ -128,6 +125,9 @@
     ],
     "name:war_x_preferred":[
         "Bamble"
+    ],
+    "name:zho_x_preferred":[
+        "\u73ed\u5e03\u52d2"
     ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":"NO",
@@ -179,7 +179,7 @@
         }
     ],
     "wof:id":1125860515,
-    "wof:lastmodified":1529700384,
+    "wof:lastmodified":1561769612,
     "wof:name":"Bamle",
     "wof:parent_id":1159296837,
     "wof:placetype":"locality",
