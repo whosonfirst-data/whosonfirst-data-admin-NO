@@ -30,6 +30,9 @@
     "name:bar_x_preferred":[
         "Holmenkollen"
     ],
+    "name:bel_x_preferred":[
+        "\u0425\u043e\u043b\u043c\u0435\u043d\u043a\u043e\u043b\u0435\u043d"
+    ],
     "name:bul_x_preferred":[
         "\u0425\u043e\u043b\u043c\u0435\u043d\u043a\u043e\u043b\u0435\u043d"
     ],
@@ -56,6 +59,9 @@
     ],
     "name:fra_x_preferred":[
         "Holmenkollen"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d5\u05dc\u05de\u05e0\u05e7\u05d5\u05dc\u05df"
     ],
     "name:hun_x_preferred":[
         "Holmenkollen"
@@ -110,6 +116,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u043e\u043b\u043c\u0435\u043d\u043a\u043e\u043b\u043b\u0435\u043d"
+    ],
+    "name:ukr_x_variant":[
+        "\u0425\u043e\u043b\u043c\u0435\u043d\u043a\u043e\u043b\u043b\u0435\u043d"
     ],
     "name:unk_x_variant":[
         "Holmen",
@@ -182,7 +191,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1561769533,
+    "wof:lastmodified":1563571621,
     "wof:name":"Holmenkollen",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

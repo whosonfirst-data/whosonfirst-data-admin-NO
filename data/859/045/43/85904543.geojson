@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":282129.448432,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.436855,63.420819,10.436855,63.420819",
     "geom:latitude":63.420819,
     "geom:longitude":10.436855,
@@ -25,6 +25,18 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:dan_x_preferred":[
+        "Tyholt"
+    ],
+    "name:eng_x_preferred":[
+        "Tyholt"
+    ],
+    "name:fra_x_preferred":[
+        "Tyholt"
+    ],
+    "name:nld_x_preferred":[
+        "Tyholt"
+    ],
+    "name:nob_x_preferred":[
         "Tyholt"
     ],
     "name:nor_x_preferred":[
@@ -62,9 +74,9 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":182,
     "wof:belongsto":[
-        85687127,
         1159297145,
-        101751927
+        101751927,
+        85687127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +101,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531936257,
+    "wof:lastmodified":1563571634,
     "wof:name":"Tyholt",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

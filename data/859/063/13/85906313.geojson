@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000213,
-    "geom:area_square_m":1318036.862613,
+    "geom:area_square_m":1318036.862612,
     "geom:bbox":"10.7358647159,59.8999582047,10.7583618164,59.9145867942",
     "geom:latitude":59.906216,
     "geom:longitude":10.746796,
@@ -26,6 +26,36 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":4,
     "mz:tier_metro":1,
+    "name:bar_x_preferred":[
+        "St. Hanshaugen"
+    ],
+    "name:ceb_x_preferred":[
+        "St. Hanshaugen District"
+    ],
+    "name:dan_x_preferred":[
+        "St. Hanshaugen"
+    ],
+    "name:deu_x_preferred":[
+        "St. Hanshaugen"
+    ],
+    "name:eng_x_preferred":[
+        "St. Hanshaugen"
+    ],
+    "name:est_x_preferred":[
+        "St. Hanshaugeni linnaosa"
+    ],
+    "name:fra_x_preferred":[
+        "St. Hanshaugen"
+    ],
+    "name:nld_x_preferred":[
+        "St. Hanshaugen"
+    ],
+    "name:nno_x_preferred":[
+        "Bydel St. Hanshaugen"
+    ],
+    "name:nob_x_preferred":[
+        "Bydel St. Hanshaugen"
+    ],
     "name:nor_x_preferred":[
         "St.hanshaugen"
     ],
@@ -34,9 +64,21 @@
         "Sankt Hanshaugens",
         "St.hanshaugens"
     ],
+    "name:pol_x_preferred":[
+        "St. Hanshaugen"
+    ],
+    "name:spa_x_preferred":[
+        "St. Hanshaugen"
+    ],
+    "name:swe_x_preferred":[
+        "St. Hanshaugen"
+    ],
     "name:unk_x_variant":[
         "Sankthanshaugen",
         "St.hanshaugen"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u6f22\u85a9\u6839"
     ],
     "qs:gn_adm0_cc":"NO",
     "qs:gn_fcode":"PPLX",
@@ -68,11 +110,11 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":867,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        101751917
+        101751917,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,7 +141,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529700267,
+    "wof:lastmodified":1563571632,
     "wof:name":"St. Hanshaugen",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

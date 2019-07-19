@@ -17,8 +17,14 @@
     "mps:longitude":10.209542,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Sande"
+    ],
     "name:bar_x_preferred":[
         "Sande"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09b8\u09be\u09a8\u09a1\u09c7"
     ],
     "name:cat_x_preferred":[
         "Sande"
@@ -59,6 +65,9 @@
     "name:jav_x_preferred":[
         "Sande"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30c7"
+    ],
     "name:lat_x_preferred":[
         "Sande"
     ],
@@ -71,6 +80,9 @@
     "name:msa_x_preferred":[
         "Sande"
     ],
+    "name:nan_x_preferred":[
+        "Sande"
+    ],
     "name:nds_x_preferred":[
         "Kommun Sande"
     ],
@@ -80,6 +92,9 @@
     "name:nno_x_preferred":[
         "Sande kommune i Vestfold"
     ],
+    "name:nno_x_variant":[
+        "Sande"
+    ],
     "name:nob_x_preferred":[
         "Sande"
     ],
@@ -88,6 +103,9 @@
     ],
     "name:nor_x_variant":[
         "Sandes"
+    ],
+    "name:pol_x_preferred":[
+        "Sande"
     ],
     "name:por_x_preferred":[
         "Sande i Vestfold"
@@ -112,6 +130,9 @@
     ],
     "name:swe_x_preferred":[
         "Sande kommun"
+    ],
+    "name:swe_x_variant":[
+        "Sande"
     ],
     "name:unk_x_variant":[
         "Sande i Vestfold"
@@ -175,7 +196,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1561769590,
+    "wof:lastmodified":1563572694,
     "wof:name":"Sande",
     "wof:parent_id":1159297057,
     "wof:placetype":"locality",

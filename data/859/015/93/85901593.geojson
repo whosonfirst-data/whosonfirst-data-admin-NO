@@ -31,7 +31,10 @@
     ],
     "name:eng_x_variant":[
         "Havnajordet",
-        "Korsvold"
+        "Korsvoll"
+    ],
+    "name:nob_x_preferred":[
+        "Korsvoll"
     ],
     "name:nor_x_preferred":[
         "Korsvoll"
@@ -71,11 +74,11 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":73,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        101751917
+        101751917,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,7 +105,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529700263,
+    "wof:lastmodified":1563571619,
     "wof:name":"Korsvoll",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

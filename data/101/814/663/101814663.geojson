@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000489,
+    "geom:area_square_m":2154501.699014,
     "geom:bbox":"18.1152959809,69.1360251008,18.1840724303,69.1585504365",
     "geom:latitude":69.146528,
     "geom:longitude":18.15496,
@@ -15,16 +16,31 @@
     "mps:longitude":18.157305,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "S\u00f8rreisa"
+    ],
+    "name:bar_x_preferred":[
+        "S\u00f8rreisa"
+    ],
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09b0\u09cd\u09b0\u09c7\u0987\u09b8\u09be"
     ],
     "name:cat_x_preferred":[
         "S\u00f8rreisa"
     ],
+    "name:ceb_x_preferred":[
+        "S\u00f8rreisa"
+    ],
     "name:dan_x_preferred":[
         "S\u00f8rreisa"
     ],
     "name:deu_x_preferred":[
+        "S\u00f8rreisa"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00f8rreisa"
+    ],
+    "name:epo_x_preferred":[
         "S\u00f8rreisa"
     ],
     "name:eus_x_preferred":[
@@ -36,13 +52,40 @@
     "name:fra_x_preferred":[
         "S\u00f8rreisa"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u0575\u0578\u0580\u057c\u0565\u056b\u057d\u0561"
+    ],
     "name:ind_x_preferred":[
         "S\u00f8rreisa"
     ],
     "name:ita_x_preferred":[
         "S\u00f8rreisa"
     ],
+    "name:jpn_x_preferred":[
+        "\u30bd\u30ec\u30a4\u30b5"
+    ],
     "name:lat_x_preferred":[
+        "S\u00f8rreisa"
+    ],
+    "name:lim_x_preferred":[
+        "S\u00f8rreisa"
+    ],
+    "name:msa_x_preferred":[
+        "S\u00f8rreisa"
+    ],
+    "name:nan_x_preferred":[
+        "S\u00f8rreisa"
+    ],
+    "name:nds_x_preferred":[
+        "Kommun S\u00f8rreisa"
+    ],
+    "name:nld_x_preferred":[
+        "S\u00f8rreisa"
+    ],
+    "name:nno_x_preferred":[
+        "S\u00f8rreisa"
+    ],
+    "name:nob_x_preferred":[
         "S\u00f8rreisa"
     ],
     "name:nor_x_colloquial":[
@@ -57,11 +100,48 @@
     "name:nor_x_variant":[
         "S\u00f8rreisas"
     ],
+    "name:oci_x_preferred":[
+        "S\u00f8rreisa"
+    ],
+    "name:pol_x_preferred":[
+        "S\u00f8rreisa"
+    ],
+    "name:por_x_preferred":[
+        "S\u00f8rreisa"
+    ],
+    "name:ron_x_preferred":[
+        "S\u00f8rreisa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0451\u0440\u0440\u0435\u0439\u0441\u0430"
+    ],
     "name:sme_x_preferred":[
         "\u00c5rjesraisa"
     ],
     "name:sme_x_variant":[
-        "Orjje\u0161-R\u00e1isa"
+        "Orjje\u0161-R\u00e1isa",
+        "R\u00e1isavuotna"
+    ],
+    "name:spa_x_preferred":[
+        "S\u00f8rreisa"
+    ],
+    "name:sqi_x_preferred":[
+        "S\u00f8rreisa"
+    ],
+    "name:swa_x_preferred":[
+        "S\u00f8rreisa"
+    ],
+    "name:swe_x_preferred":[
+        "S\u00f8rreisa"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f8rreisa"
+    ],
+    "name:war_x_preferred":[
+        "S\u00f8rreisa"
+    ],
+    "name:zho_x_preferred":[
+        "\u745f\u96f7\u85a9"
     ],
     "qs:a0":"Norge",
     "qs:a1":"*Troms",
@@ -111,7 +191,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529700443,
+    "wof:lastmodified":1563572831,
     "wof:name":"S\u00f8rreisa",
     "wof:parent_id":1159297055,
     "wof:placetype":"locality",

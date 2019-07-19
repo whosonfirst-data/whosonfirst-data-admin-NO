@@ -18,11 +18,32 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":5.0,
+    "name:afr_x_preferred":[
+        "Bergen"
+    ],
+    "name:amh_x_preferred":[
+        "\u1260\u122d\u130d\u1295"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u0631\u063a\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Bergen"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0631\u0642\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Bergen"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0435\u0440\u0433\u0435\u043d"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u0435\u0440\u0433\u0435\u043d"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u09b0\u09cd\u0997\u09c7\u09a8"
     ],
     "name:bos_x_preferred":[
         "Bergen"
@@ -39,8 +60,14 @@
     "name:cat_x_preferred":[
         "Bergen"
     ],
+    "name:ceb_x_preferred":[
+        "Bergen"
+    ],
     "name:ces_x_preferred":[
         "Bergen"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0435\u0440\u0433\u0435\u043d"
     ],
     "name:cym_x_preferred":[
         "Bergen"
@@ -58,6 +85,9 @@
         "Hansabyen",
         "The Hanseatic City"
     ],
+    "name:eng_x_preferred":[
+        "Bergen"
+    ],
     "name:eng_x_variant":[
         "BGO"
     ],
@@ -65,6 +95,12 @@
         "Bergen"
     ],
     "name:est_x_preferred":[
+        "Bergen"
+    ],
+    "name:eus_x_preferred":[
+        "Bergen"
+    ],
+    "name:fao_x_preferred":[
         "Bergen"
     ],
     "name:fas_x_preferred":[
@@ -76,16 +112,58 @@
     "name:fra_x_preferred":[
         "Bergen"
     ],
+    "name:frr_x_preferred":[
+        "Bergen"
+    ],
+    "name:fry_x_preferred":[
+        "Bergen"
+    ],
+    "name:gle_x_preferred":[
+        "Boirbhe"
+    ],
     "name:glg_x_preferred":[
+        "Bergen"
+    ],
+    "name:gsw_x_preferred":[
+        "Bergen"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0ab0\u0acd\u0a97\u0aa8"
+    ],
+    "name:hau_x_preferred":[
         "Bergen"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05e8\u05d2\u05df"
     ],
+    "name:hin_x_preferred":[
+        "\u092c\u0947\u0930\u094d\u0917\u0947\u0928"
+    ],
+    "name:hrv_x_preferred":[
+        "Bergen"
+    ],
+    "name:hsb_x_preferred":[
+        "Bergen"
+    ],
     "name:hun_x_preferred":[
         "Bergen"
     ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u0580\u0563\u0565\u0576"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054a\u0567\u0580\u056f\u0568\u0576"
+    ],
+    "name:ido_x_preferred":[
+        "Bergen"
+    ],
+    "name:ile_x_preferred":[
+        "Bergen"
+    ],
     "name:ina_x_preferred":[
+        "Bergen"
+    ],
+    "name:ind_x_preferred":[
         "Bergen"
     ],
     "name:isl_x_preferred":[
@@ -94,8 +172,17 @@
     "name:ita_x_preferred":[
         "Bergen"
     ],
+    "name:jav_x_preferred":[
+        "Bergen"
+    ],
     "name:jpn_x_preferred":[
         "\u30d9\u30eb\u30b2\u30f3"
+    ],
+    "name:kal_x_preferred":[
+        "Bergen"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0cc6\u0cb0\u0ccd\u0c97\u0cc6\u0ca8\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10d4\u10e0\u10d2\u10d4\u10dc\u10d8"
@@ -109,8 +196,14 @@
     "name:lav_x_preferred":[
         "Bergena"
     ],
+    "name:lim_x_preferred":[
+        "Bergen"
+    ],
     "name:lit_x_preferred":[
         "Bergenas"
+    ],
+    "name:lmo_x_preferred":[
+        "Bergen"
     ],
     "name:ltz_x_preferred":[
         "Bergen"
@@ -118,13 +211,37 @@
     "name:mar_x_preferred":[
         "\u092c\u093e\u0930\u094d\u0917\u0928"
     ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0435\u0440\u0433\u0435\u043d"
+    ],
+    "name:mri_x_preferred":[
+        "Bergen"
+    ],
+    "name:msa_x_preferred":[
+        "Bergen"
+    ],
+    "name:myv_x_preferred":[
+        "\u0411\u0435\u0440\u0433\u0435\u043d \u043e\u0448"
+    ],
+    "name:nah_x_preferred":[
+        "Bergen"
+    ],
+    "name:nan_x_preferred":[
+        "Bergen"
+    ],
     "name:nds_x_preferred":[
         "Bargen"
+    ],
+    "name:nep_x_preferred":[
+        "\u092c\u0930\u094d\u0917\u0928"
     ],
     "name:nld_x_preferred":[
         "Bergen"
     ],
     "name:nno_x_preferred":[
+        "Bergen"
+    ],
+    "name:nob_x_preferred":[
         "Bergen"
     ],
     "name:nor_x_colloquial":[
@@ -141,8 +258,14 @@
         "Bj\u00f6rgrin",
         "Bj\u00f6rgrins"
     ],
+    "name:oci_x_preferred":[
+        "Bergen"
+    ],
     "name:oss_x_preferred":[
         "\u0411\u0435\u0440\u0433\u0435\u043d"
+    ],
+    "name:pms_x_preferred":[
+        "Bergen"
     ],
     "name:pnb_x_preferred":[
         "\u0628\u0631\u06af\u0646"
@@ -153,11 +276,29 @@
     "name:por_x_preferred":[
         "Bergen"
     ],
+    "name:pus_x_preferred":[
+        "\u0628\u0631\u06ab\u064a\u0646"
+    ],
     "name:ron_x_preferred":[
         "Bergen"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u0440\u0433\u0435\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Bergen"
+    ],
+    "name:sgs_x_preferred":[
+        "Bergens"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dbb\u0dca\u0d9c\u0db1\u0dca"
+    ],
+    "name:slk_x_preferred":[
+        "Bergen"
+    ],
+    "name:slv_x_preferred":[
+        "Bergen"
     ],
     "name:sme_x_preferred":[
         "Birgon"
@@ -165,17 +306,35 @@
     "name:spa_x_preferred":[
         "Bergen"
     ],
+    "name:sqi_x_preferred":[
+        "Bergen"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u0435\u0440\u0433\u0435\u043d"
     ],
+    "name:swa_x_preferred":[
+        "Bergen"
+    ],
     "name:swe_x_preferred":[
+        "Bergen"
+    ],
+    "name:szl_x_preferred":[
         "Bergen"
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bc7\u0bb0\u0bcd\u0b95\u0ba9\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0411\u0435\u0440\u0433\u0435\u043d"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c30\u0c4d\u0c17\u0c46\u0c28\u0c4d"
+    ],
     "name:tha_x_preferred":[
         "\u0e41\u0e1a\u0e23\u0e4c\u0e40\u0e01\u0e19"
+    ],
+    "name:tum_x_preferred":[
+        "Bergen"
     ],
     "name:tur_x_preferred":[
         "Bergen"
@@ -183,8 +342,32 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0440\u0433\u0435\u043d"
     ],
+    "name:urd_x_preferred":[
+        "\u0628\u0631\u06af\u0646"
+    ],
+    "name:uzb_x_preferred":[
+        "Bergen"
+    ],
+    "name:vec_x_preferred":[
+        "Bergen"
+    ],
+    "name:vie_x_preferred":[
+        "Bergen"
+    ],
     "name:vls_x_preferred":[
         "Bergn"
+    ],
+    "name:vol_x_preferred":[
+        "Bergen"
+    ],
+    "name:war_x_preferred":[
+        "Bergen"
+    ],
+    "name:yue_x_preferred":[
+        "\u5351\u723e\u6839"
+    ],
+    "name:zea_x_preferred":[
+        "Bergen"
     ],
     "name:zho_x_preferred":[
         "\u5351\u5c14\u6839"
@@ -339,7 +522,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1535390507,
+    "wof:lastmodified":1563572744,
     "wof:megacity":0,
     "wof:name":"Bergen",
     "wof:parent_id":1159297617,

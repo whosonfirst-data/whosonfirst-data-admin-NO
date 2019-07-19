@@ -24,14 +24,21 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0644\u0647\u0627\u0645\u0631"
     ],
+    "name:ast_x_preferred":[
+        "Lillehammer"
+    ],
     "name:aze_x_preferred":[
         "Lillehammer"
+    ],
+    "name:bak_x_preferred":[
+        "\u041b\u0438\u043b\u043b\u0435\u0445\u0430\u043c\u043c\u0435\u0440"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041b\u0456\u043b\u0435\u0445\u0430\u043c\u0435\u0440"
     ],
     "name:bel_x_variant":[
-        "\u041b\u0456\u043b\u0435\u0433\u0430\u043c\u044d\u0440"
+        "\u041b\u0456\u043b\u0435\u0433\u0430\u043c\u044d\u0440",
+        "\u041b\u0456\u043b\u0435\u0445\u0430\u043c\u0435\u0440"
     ],
     "name:bos_x_preferred":[
         "Lillehammer"
@@ -45,7 +52,13 @@
     "name:cat_x_preferred":[
         "Lillehammer"
     ],
+    "name:ceb_x_preferred":[
+        "Lillehammer"
+    ],
     "name:ces_x_preferred":[
+        "Lillehammer"
+    ],
+    "name:cym_x_preferred":[
         "Lillehammer"
     ],
     "name:dan_x_preferred":[
@@ -56,6 +69,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039b\u03b9\u03bb\u03b5\u03c7\u03ac\u03bc\u03b5\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Lillehammer"
     ],
     "name:eng_x_variant":[
         "XXL"
@@ -99,6 +115,9 @@
     "name:hun_x_preferred":[
         "Lillehammer"
     ],
+    "name:hye_x_preferred":[
+        "\u053c\u056b\u056c\u0565\u0570\u0561\u0574\u0565\u0580"
+    ],
     "name:ile_x_preferred":[
         "Lillehammer"
     ],
@@ -119,6 +138,9 @@
     ],
     "name:kal_x_preferred":[
         "Lillehammer"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d8\u10da\u10d4\u10f0\u10d0\u10db\u10d4\u10e0\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ub9b4\ub808\ud568\uba54\ub974"
@@ -141,6 +163,9 @@
     "name:msa_x_preferred":[
         "Lillehammer"
     ],
+    "name:nan_x_preferred":[
+        "Lillehammer"
+    ],
     "name:nds_x_preferred":[
         "Lillehammer"
     ],
@@ -148,6 +173,9 @@
         "Lillehammer"
     ],
     "name:nno_x_preferred":[
+        "Lillehammer"
+    ],
+    "name:nob_x_preferred":[
         "Lillehammer"
     ],
     "name:nor_x_preferred":[
@@ -183,6 +211,9 @@
     "name:rus_x_preferred":[
         "\u041b\u0438\u043b\u043b\u0435\u0445\u0430\u043c\u043c\u0435\u0440"
     ],
+    "name:sco_x_preferred":[
+        "Lillehammer"
+    ],
     "name:sgs_x_preferred":[
         "L\u0117lehameris"
     ],
@@ -204,6 +235,9 @@
     "name:srp_x_preferred":[
         "\u041b\u0438\u043b\u0435\u0445\u0430\u043c\u0435\u0440"
     ],
+    "name:swa_x_preferred":[
+        "Lillehammer"
+    ],
     "name:swe_x_preferred":[
         "Lillehammer"
     ],
@@ -215,6 +249,12 @@
     ],
     "name:tat_x_preferred":[
         "\u041b\u0438\u043b\u043b\u0435\u0445\u0430\u043c\u043c\u0435\u0440"
+    ],
+    "name:tat_x_variant":[
+        "\u041b\u0438\u043b\u043b\u0435\u04bb\u0430\u043c\u043c\u0435\u0440"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e25\u0e34\u0e25\u0e40\u0e25\u0e2e\u0e31\u0e21\u0e40\u0e21\u0e23\u0e4c"
     ],
     "name:tum_x_preferred":[
         "Lillehammer"
@@ -233,6 +273,9 @@
     ],
     "name:war_x_preferred":[
         "Lillehammer"
+    ],
+    "name:yue_x_preferred":[
+        "\u5229\u52d2\u54c8\u9ed8\u723e"
     ],
     "name:zho_min_nan_x_preferred":[
         "Lillehammer"
@@ -386,7 +429,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529700234,
+    "wof:lastmodified":1563572848,
     "wof:name":"Lillehammer",
     "wof:parent_id":1159297519,
     "wof:placetype":"locality",

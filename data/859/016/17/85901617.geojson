@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0012,
-    "geom:area_square_m":7442493.704992,
+    "geom:area_square_m":7442493.70499,
     "geom:bbox":"10.8208423429,59.8889368396,10.8892114258,59.9181241964",
     "geom:latitude":59.901855,
     "geom:longitude":10.856645,
@@ -30,7 +30,10 @@
         "Opsal"
     ],
     "name:eng_x_variant":[
-        "Opsal"
+        "Oppsal"
+    ],
+    "name:nob_x_preferred":[
+        "Oppsal"
     ],
     "name:nor_x_preferred":[
         "Oppsal"
@@ -70,11 +73,11 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":149,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        101751917
+        101751917,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,7 +103,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529700265,
+    "wof:lastmodified":1563571640,
     "wof:name":"Oppsal",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

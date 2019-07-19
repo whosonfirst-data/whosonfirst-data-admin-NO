@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000043,
+    "geom:area_square_m":258522.89324,
     "geom:bbox":"7.18501833367,60.9047181296,7.19603145678,60.9120570744",
     "geom:latitude":60.907939,
     "geom:longitude":7.190412,
@@ -15,7 +16,22 @@
     "mps:longitude":7.190954,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0410\u0443\u0440\u043b\u0430\u043d\u0434\u0441\u0432\u0430\u043d\u0433\u0435\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Aurlandsvangen"
+    ],
     "name:deu_x_preferred":[
+        "Aurlandsvangen"
+    ],
+    "name:eng_x_preferred":[
+        "Aurlandsvangen"
+    ],
+    "name:fra_x_preferred":[
+        "Aurlandsvangen"
+    ],
+    "name:ita_x_preferred":[
         "Aurlandsvangen"
     ],
     "name:jav_x_preferred":[
@@ -30,6 +46,9 @@
     "name:nno_x_preferred":[
         "Aurlandsvangen"
     ],
+    "name:nob_x_preferred":[
+        "Aurlandsvangen"
+    ],
     "name:nor_x_preferred":[
         "Aurlandsvangen"
     ],
@@ -38,6 +57,9 @@
         "Aurlandsvangens"
     ],
     "name:ron_x_preferred":[
+        "Aurlandsvangen"
+    ],
+    "name:spa_x_preferred":[
         "Aurlandsvangen"
     ],
     "name:swe_x_preferred":[
@@ -92,7 +114,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529699933,
+    "wof:lastmodified":1563572644,
     "wof:name":"Aurlandsvangen",
     "wof:parent_id":1159297301,
     "wof:placetype":"locality",

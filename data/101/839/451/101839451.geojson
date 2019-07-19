@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001023,
-    "geom:area_square_m":6379655.888032,
+    "geom:area_square_m":6379655.888031,
     "geom:bbox":"10.790124624,59.7001382521,10.8686600598,59.7307816404",
     "geom:latitude":59.717201,
     "geom:longitude":10.834251,
@@ -23,7 +23,19 @@
     "name:bul_x_preferred":[
         "\u0428\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Ski"
+    ],
     "name:dan_x_preferred":[
+        "Ski"
+    ],
+    "name:deu_x_preferred":[
+        "Ski"
+    ],
+    "name:eng_x_preferred":[
+        "Ski"
+    ],
+    "name:fra_x_preferred":[
         "Ski"
     ],
     "name:lit_x_preferred":[
@@ -32,7 +44,13 @@
     "name:nds_x_preferred":[
         "Kommun Ski"
     ],
+    "name:nld_x_preferred":[
+        "Ski"
+    ],
     "name:nno_x_preferred":[
+        "Ski"
+    ],
+    "name:nob_x_preferred":[
         "Ski"
     ],
     "name:nor_x_preferred":[
@@ -40,6 +58,9 @@
     ],
     "name:nor_x_variant":[
         "Skis"
+    ],
+    "name:ron_x_preferred":[
+        "Ski"
     ],
     "name:rus_x_preferred":[
         "\u0428\u0438"
@@ -104,7 +125,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529699766,
+    "wof:lastmodified":1563572847,
     "wof:name":"Ski",
     "wof:parent_id":1159296817,
     "wof:placetype":"locality",

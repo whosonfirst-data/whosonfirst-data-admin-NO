@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002454,
-    "geom:area_square_m":10393817.806008,
+    "geom:area_square_m":10393817.806003,
     "geom:bbox":"23.1907768849,69.9471685003,23.4020490754,69.9835140001",
     "geom:latitude":69.965872,
     "geom:longitude":23.306949,
@@ -27,7 +27,13 @@
     "name:cat_x_preferred":[
         "Alta"
     ],
+    "name:ceb_x_preferred":[
+        "Alta"
+    ],
     "name:ces_x_preferred":[
+        "Alta"
+    ],
+    "name:dan_x_preferred":[
         "Alta"
     ],
     "name:deu_x_preferred":[
@@ -39,11 +45,17 @@
     "name:est_x_preferred":[
         "Alta vald"
     ],
+    "name:est_x_variant":[
+        "Alta"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u062a\u0627"
     ],
     "name:fin_x_preferred":[
         "Alattio"
+    ],
+    "name:fin_x_variant":[
+        "Alta"
     ],
     "name:fra_x_preferred":[
         "Alta"
@@ -57,6 +69,9 @@
     "name:kor_x_preferred":[
         "\uc54c\ud0c0"
     ],
+    "name:lit_x_preferred":[
+        "Altas"
+    ],
     "name:mkd_x_preferred":[
         "\u0410\u043b\u0442\u0430"
     ],
@@ -67,6 +82,9 @@
         "Alta"
     ],
     "name:nno_x_preferred":[
+        "Alta"
+    ],
+    "name:nob_x_preferred":[
         "Alta"
     ],
     "name:nor_x_preferred":[
@@ -246,7 +264,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529699906,
+    "wof:lastmodified":1563572840,
     "wof:name":"Alta",
     "wof:parent_id":1159296893,
     "wof:placetype":"locality",

@@ -26,7 +26,25 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
     "mz:tier_metro":1,
+    "name:bar_x_preferred":[
+        "T\u00f8yen"
+    ],
     "name:dan_x_preferred":[
+        "T\u00f8yen"
+    ],
+    "name:deu_x_preferred":[
+        "T\u00f8yen"
+    ],
+    "name:eng_x_preferred":[
+        "T\u00f8yen"
+    ],
+    "name:fra_x_preferred":[
+        "T\u00f8yen"
+    ],
+    "name:nno_x_preferred":[
+        "T\u00f8yen"
+    ],
+    "name:nob_x_preferred":[
         "T\u00f8yen"
     ],
     "name:nor_x_colloquial":[
@@ -42,6 +60,12 @@
         "T\u00f6ien"
     ],
     "name:por_x_preferred":[
+        "T\u00f8yen"
+    ],
+    "name:swe_x_preferred":[
+        "Ryen"
+    ],
+    "name:swe_x_variant":[
         "T\u00f8yen"
     ],
     "name:unk_x_variant":[
@@ -78,11 +102,11 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":489,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        101751917
+        101751917,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,7 +133,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529700265,
+    "wof:lastmodified":1563571640,
     "wof:name":"T\u00f8yen",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

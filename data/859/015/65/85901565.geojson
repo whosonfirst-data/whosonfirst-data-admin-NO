@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002753,
-    "geom:area_square_m":17079322.672882,
+    "geom:area_square_m":17079322.672881,
     "geom:bbox":"10.6114113057,59.8665334613,10.7013280827,59.9164834545",
     "geom:latitude":59.890337,
     "geom:longitude":10.65742,
@@ -26,10 +26,22 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":4,
     "mz:tier_metro":1,
+    "name:cat_x_preferred":[
+        "Bygd\u00f8y"
+    ],
+    "name:ceb_x_preferred":[
+        "Bygd\u00f8y"
+    ],
+    "name:ces_x_preferred":[
+        "Bygd\u00f8y"
+    ],
     "name:dan_x_preferred":[
         "Bygd\u00f8"
     ],
     "name:deu_x_preferred":[
+        "Bygd\u00f8y"
+    ],
+    "name:eng_x_preferred":[
         "Bygd\u00f8y"
     ],
     "name:epo_x_preferred":[
@@ -44,10 +56,16 @@
     "name:ita_x_preferred":[
         "Bygd\u00f8y"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30c9\u30b0\u30a4"
+    ],
     "name:nld_x_preferred":[
         "Bygd\u00f8y"
     ],
     "name:nno_x_preferred":[
+        "Bygd\u00f8y"
+    ],
+    "name:nob_x_preferred":[
         "Bygd\u00f8y"
     ],
     "name:nor_x_colloquial":[
@@ -62,12 +80,30 @@
     "name:nor_x_variant":[
         "Bygd\u00f6"
     ],
+    "name:pol_x_preferred":[
+        "Bygd\u00f8y"
+    ],
+    "name:por_x_preferred":[
+        "Bygd\u00f8y"
+    ],
+    "name:ron_x_preferred":[
+        "Bygd\u00f8y"
+    ],
     "name:spa_x_preferred":[
         "Bygd\u00f8y"
+    ],
+    "name:swe_x_preferred":[
+        "Bygd\u00f8y"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u044e\u0491\u0434\u044c\u043e\u0439"
     ],
     "name:unk_x_variant":[
         "Bygd\u00f6",
         "Bygd\u00f8y"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u683c\u8fea\u534a\u5cf6"
     ],
     "qs:gn_adm0_cc":"NO",
     "qs:gn_fcode":"PPLX",
@@ -99,11 +135,11 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":444,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        101751917
+        101751917,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -129,7 +165,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529699791,
+    "wof:lastmodified":1563571621,
     "wof:name":"Bygd\u00f8y",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

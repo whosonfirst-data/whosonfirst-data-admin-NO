@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001407,
-    "geom:area_square_m":8715512.597258,
+    "geom:area_square_m":8715512.59726,
     "geom:bbox":"10.5890600586,59.9235016986,10.6631794069,59.9563267093",
     "geom:latitude":59.941191,
     "geom:longitude":10.623598,
@@ -28,6 +28,9 @@
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
         "Rud"
+    ],
+    "name:eng_x_variant":[
+        "R\u00f8a"
     ],
     "name:nob_x_preferred":[
         "R\u00f8a"
@@ -82,11 +85,11 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":79,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        101751917
+        101751917,
+        85687089
     ],
     "wof:breaches":[
         85901637
@@ -115,7 +118,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529699792,
+    "wof:lastmodified":1563571644,
     "wof:name":"R\u00f8a",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

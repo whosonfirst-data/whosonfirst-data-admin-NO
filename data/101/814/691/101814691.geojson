@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000242,
-    "geom:area_square_m":982636.979611,
+    "geom:area_square_m":982636.979612,
     "geom:bbox":"29.0699407693,70.8518053155,29.1033725134,70.8684041642",
     "geom:latitude":70.859618,
     "geom:longitude":29.088869,
@@ -20,10 +20,19 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u0644\u0641\u0648\u063a"
     ],
+    "name:ast_x_preferred":[
+        "Berlev\u00e5g"
+    ],
+    "name:bar_x_preferred":[
+        "Berlev\u00e5g"
+    ],
     "name:bpy_x_preferred":[
         "\u09ac\u09c7\u09b0\u09b2\u09c7\u09ad\u0997"
     ],
     "name:cat_x_preferred":[
+        "Berlev\u00e5g"
+    ],
+    "name:ceb_x_preferred":[
         "Berlev\u00e5g"
     ],
     "name:dan_x_preferred":[
@@ -38,6 +47,9 @@
     "name:eng_x_variant":[
         "Berlev\u00e5g"
     ],
+    "name:epo_x_preferred":[
+        "Berlev\u00e5g"
+    ],
     "name:est_x_preferred":[
         "Berlev\u00e5gi vald"
     ],
@@ -48,6 +60,45 @@
         "Berlev\u00e5g"
     ],
     "name:fra_x_preferred":[
+        "Berlev\u00e5g"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u0580\u056c\u0565\u057e\u0578\u0563"
+    ],
+    "name:ind_x_preferred":[
+        "Berlev\u00e5g"
+    ],
+    "name:ita_x_preferred":[
+        "Berlev\u00e5g"
+    ],
+    "name:jav_x_preferred":[
+        "Berlev\u00e5g"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30eb\u30ec\u30f4\u30a9\u30fc\u30b0"
+    ],
+    "name:lat_x_preferred":[
+        "Berlev\u00e5g"
+    ],
+    "name:lim_x_preferred":[
+        "Berlev\u00e5g"
+    ],
+    "name:msa_x_preferred":[
+        "Berlev\u00e5g"
+    ],
+    "name:nan_x_preferred":[
+        "Berlev\u00e5g"
+    ],
+    "name:nds_x_preferred":[
+        "Kommun Berlev\u00e5g"
+    ],
+    "name:nld_x_preferred":[
+        "Berlev\u00e5g"
+    ],
+    "name:nno_x_preferred":[
+        "Berlev\u00e5g"
+    ],
+    "name:nob_x_preferred":[
         "Berlev\u00e5g"
     ],
     "name:nor_x_colloquial":[
@@ -61,8 +112,23 @@
     "name:nor_x_variant":[
         "Berlev\u00e5gs"
     ],
+    "name:oci_x_preferred":[
+        "Berlev\u00e5g"
+    ],
+    "name:pol_x_preferred":[
+        "Berlev\u00e5g"
+    ],
+    "name:por_x_preferred":[
+        "Berlev\u00e5g"
+    ],
+    "name:ron_x_preferred":[
+        "Berlev\u00e5g"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u0440\u043b\u0435\u0432\u043e\u0433"
+    ],
+    "name:slv_x_preferred":[
+        "Berlev\u00e5g"
     ],
     "name:sme_x_preferred":[
         "Bearalv\u00e1hki"
@@ -70,8 +136,29 @@
     "name:spa_x_preferred":[
         "Berlev\u00e5g"
     ],
+    "name:sqi_x_preferred":[
+        "Berlev\u00e5g"
+    ],
+    "name:swa_x_preferred":[
+        "Berlev\u00e5g"
+    ],
+    "name:swe_x_preferred":[
+        "Berlev\u00e5g"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0440\u043b\u0435\u0432\u043e\u0491"
+    ],
     "name:unk_x_variant":[
         "Berlevaag"
+    ],
+    "name:vie_x_preferred":[
+        "Berlev\u00e5g"
+    ],
+    "name:war_x_preferred":[
+        "Berlev\u00e5g"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u52d2\u6c83\u683c"
     ],
     "qs:a0":"Norge",
     "qs:a1":"*Finnmark",
@@ -123,7 +210,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529699905,
+    "wof:lastmodified":1563572833,
     "wof:name":"Berlev\u00e5g",
     "wof:parent_id":1159297427,
     "wof:placetype":"locality",

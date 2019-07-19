@@ -17,10 +17,16 @@
     "mps:longitude":15.986156,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "L\u00f8dingen"
+    ],
     "name:bpy_x_preferred":[
         "\u09b2\u09be\u09a1\u09bf\u0999\u09c7\u09a8"
     ],
     "name:cat_x_preferred":[
+        "L\u00f8dingen"
+    ],
+    "name:ceb_x_preferred":[
         "L\u00f8dingen"
     ],
     "name:dan_x_preferred":[
@@ -31,6 +37,12 @@
     ],
     "name:eng_x_preferred":[
         "Loedingen"
+    ],
+    "name:eng_x_variant":[
+        "L\u00f8dingen"
+    ],
+    "name:epo_x_preferred":[
+        "L\u00f8dingen"
     ],
     "name:eus_x_preferred":[
         "L\u00f8dingen"
@@ -50,6 +62,30 @@
     "name:jav_x_preferred":[
         "L\u00f8dingen"
     ],
+    "name:lat_x_preferred":[
+        "L\u00f8dingen"
+    ],
+    "name:lim_x_preferred":[
+        "L\u00f8dingen"
+    ],
+    "name:msa_x_preferred":[
+        "L\u00f8dingen"
+    ],
+    "name:nan_x_preferred":[
+        "L\u00f8dingen"
+    ],
+    "name:nds_x_preferred":[
+        "Kommun L\u00f8dingen"
+    ],
+    "name:nld_x_preferred":[
+        "L\u00f8dingen"
+    ],
+    "name:nno_x_preferred":[
+        "L\u00f8dingen"
+    ],
+    "name:nob_x_preferred":[
+        "L\u00f8dingen"
+    ],
     "name:nor_x_colloquial":[
         "Lodingen",
         "Lodingens",
@@ -61,8 +97,50 @@
     "name:nor_x_variant":[
         "L\u00f8dingens"
     ],
+    "name:pol_x_preferred":[
+        "L\u00f8dingen"
+    ],
+    "name:por_x_preferred":[
+        "L\u00f8dingen"
+    ],
+    "name:ron_x_preferred":[
+        "L\u00f8dingen"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0451\u0434\u0438\u043d\u0433\u0435\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "L\u00f8dingen"
+    ],
+    "name:sme_x_preferred":[
+        "Lodegat"
+    ],
+    "name:spa_x_preferred":[
+        "L\u00f8dingen"
+    ],
+    "name:sqi_x_preferred":[
+        "L\u00f8dingen"
+    ],
+    "name:swa_x_preferred":[
+        "L\u00f8dingen"
+    ],
+    "name:swe_x_preferred":[
+        "L\u00f8dingen"
+    ],
+    "name:tur_x_preferred":[
+        "L\u00f8dingen"
+    ],
     "name:unk_x_variant":[
         "Loedingen"
+    ],
+    "name:vie_x_preferred":[
+        "L\u00f8dingen"
+    ],
+    "name:war_x_preferred":[
+        "L\u00f8dingen"
+    ],
+    "name:zho_x_preferred":[
+        "\u52d2\u4e01\u6069"
     ],
     "qs:a0":"Norge",
     "qs:a1":"*Nordland",
@@ -111,7 +189,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529700154,
+    "wof:lastmodified":1563572802,
     "wof:name":"L\u00f8dingen",
     "wof:parent_id":1159297361,
     "wof:placetype":"locality",

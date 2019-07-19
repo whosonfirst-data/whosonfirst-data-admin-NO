@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000116,
-    "geom:area_square_m":716049.837688,
+    "geom:area_square_m":716049.837689,
     "geom:bbox":"5.3042823649,59.9136164981,5.330853116,59.9256997521",
     "geom:latitude":59.920196,
     "geom:longitude":5.320002,
@@ -17,8 +17,17 @@
     "mps:longitude":5.319801,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Fitjar"
+    ],
     "name:bpy_x_preferred":[
         "\u09ab\u09bf\u099f\u099c\u09be\u09b0"
+    ],
+    "name:cat_x_preferred":[
+        "Fitjar"
+    ],
+    "name:ceb_x_preferred":[
+        "Fitjar"
     ],
     "name:dan_x_preferred":[
         "Fitjar"
@@ -27,6 +36,9 @@
         "Fitjar"
     ],
     "name:eng_x_preferred":[
+        "Fitjar"
+    ],
+    "name:epo_x_preferred":[
         "Fitjar"
     ],
     "name:eus_x_preferred":[
@@ -56,6 +68,9 @@
     "name:msa_x_preferred":[
         "Fitjar"
     ],
+    "name:nan_x_preferred":[
+        "Fitjar"
+    ],
     "name:nds_x_preferred":[
         "Kommun Fitjar"
     ],
@@ -68,11 +83,17 @@
     "name:nno_x_variant":[
         "Fitjar"
     ],
+    "name:nob_x_preferred":[
+        "Fitjar"
+    ],
     "name:nor_x_preferred":[
         "Fitjar"
     ],
     "name:nor_x_variant":[
         "Fitjars"
+    ],
+    "name:oci_x_preferred":[
+        "Fitjar"
     ],
     "name:pol_x_preferred":[
         "Fitjar"
@@ -98,11 +119,15 @@
     "name:sqi_x_preferred":[
         "Fitjar"
     ],
+    "name:swa_x_preferred":[
+        "Fitjar"
+    ],
     "name:swe_x_preferred":[
         "Fitjars kommun"
     ],
     "name:swe_x_variant":[
-        "Fitjar kommun"
+        "Fitjar kommun",
+        "Fitjar"
     ],
     "name:vie_x_preferred":[
         "Fitjar"
@@ -165,7 +190,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529700046,
+    "wof:lastmodified":1563572702,
     "wof:name":"Fitjar",
     "wof:parent_id":1159297481,
     "wof:placetype":"locality",

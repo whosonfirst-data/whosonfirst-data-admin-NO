@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00068,
-    "geom:area_square_m":4036599.467251,
+    "geom:area_square_m":4036599.46725,
     "geom:bbox":"12.2371301076,61.2935184078,12.285617189,61.327421462",
     "geom:latitude":61.311937,
     "geom:longitude":12.261698,
@@ -17,6 +17,21 @@
     "mps:longitude":12.257958,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0418\u043d\u0431\u0439\u0433\u0434\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Innbygda"
+    ],
+    "name:eng_x_preferred":[
+        "Innbygda"
+    ],
+    "name:fra_x_preferred":[
+        "Innbygda"
+    ],
+    "name:ita_x_preferred":[
+        "Innbygda"
+    ],
     "name:jav_x_preferred":[
         "Innbygda"
     ],
@@ -28,6 +43,9 @@
     ],
     "name:nno_x_preferred":[
         "Innbygda i Trysil"
+    ],
+    "name:nob_x_preferred":[
+        "Innbygda"
     ],
     "name:nor_x_preferred":[
         "Innbygda"
@@ -96,7 +114,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529700020,
+    "wof:lastmodified":1563572763,
     "wof:name":"Innbygda",
     "wof:parent_id":1159297339,
     "wof:placetype":"locality",

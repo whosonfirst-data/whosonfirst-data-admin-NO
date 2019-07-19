@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0648 \u0625\u0633"
     ],
+    "name:ast_x_preferred":[
+        "Os"
+    ],
     "name:bpy_x_preferred":[
         "\u0993\u09b8"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:dan_x_preferred":[
         "Knogle"
+    ],
+    "name:dan_x_variant":[
+        "Os"
     ],
     "name:deu_x_preferred":[
         "OS"
@@ -162,11 +168,17 @@
     "name:rus_x_preferred":[
         "OS"
     ],
+    "name:rus_x_variant":[
+        "\u0423\u0441"
+    ],
     "name:slk_x_preferred":[
         "Os"
     ],
     "name:slv_x_preferred":[
         "OS"
+    ],
+    "name:slv_x_variant":[
+        "Os"
     ],
     "name:sme_x_preferred":[
         "Os"
@@ -182,6 +194,9 @@
     ],
     "name:swa_x_preferred":[
         "OS"
+    ],
+    "name:swa_x_variant":[
+        "Os"
     ],
     "name:swe_x_preferred":[
         "Os"
@@ -253,7 +268,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1561769597,
+    "wof:lastmodified":1563572817,
     "wof:name":"Os",
     "wof:parent_id":1159297463,
     "wof:placetype":"locality",

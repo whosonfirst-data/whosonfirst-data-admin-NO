@@ -30,6 +30,9 @@
     "name:ara_x_preferred":[
         "\u0641\u064a\u0646\u0645\u0627\u0631\u0643"
     ],
+    "name:azb_x_preferred":[
+        "\u0641\u06cc\u0646\u0645\u0627\u0631\u06a9"
+    ],
     "name:bel_x_preferred":[
         "\u0424\u0456\u043d\u043c\u0430\u0440\u043a"
     ],
@@ -48,10 +51,16 @@
     "name:cat_x_preferred":[
         "Finnmark"
     ],
+    "name:ceb_x_preferred":[
+        "Finnmark Fylke"
+    ],
     "name:ces_x_preferred":[
         "Finnmark"
     ],
     "name:cor_x_preferred":[
+        "Finnmark"
+    ],
+    "name:cym_x_preferred":[
         "Finnmark"
     ],
     "name:dan_x_preferred":[
@@ -66,6 +75,9 @@
     "name:epo_x_preferred":[
         "Finnmark"
     ],
+    "name:epo_x_variant":[
+        "Finnmarko"
+    ],
     "name:est_x_preferred":[
         "Finnmark"
     ],
@@ -74,6 +86,9 @@
     ],
     "name:fao_x_preferred":[
         "Finnmark fylki"
+    ],
+    "name:fao_x_variant":[
+        "Finnmark fylke"
     ],
     "name:fas_x_preferred":[
         "\u0641\u06cc\u0646\u0645\u0627\u0631\u06a9"
@@ -88,11 +103,17 @@
         "Finnmark",
         "comt\u00e9 de Finnmark"
     ],
+    "name:fry_x_preferred":[
+        "Finnmark"
+    ],
     "name:hbs_x_preferred":[
         "Finnmark"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05d9\u05e0\u05de\u05e8\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u092b\u093c\u093f\u0928\u092e\u093e\u0930\u094d\u0915"
     ],
     "name:hrv_x_preferred":[
         "Finnmark"
@@ -121,8 +142,14 @@
     "name:kor_x_preferred":[
         "\ud540\ub9c8\ub974\ud06c \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ud540\ub9c8\ub974\ud06c\uc8fc"
+    ],
     "name:lat_x_preferred":[
         "Finmarchia"
+    ],
+    "name:lat_x_variant":[
+        "Finnmark"
     ],
     "name:lav_x_preferred":[
         "Finnmarka"
@@ -210,6 +237,12 @@
     ],
     "name:swe_x_preferred":[
         "Finnmark fylke"
+    ],
+    "name:swe_x_variant":[
+        "Finnmark"
+    ],
+    "name:tat_x_preferred":[
+        "\u0424\u0438\u043d\u043d\u043c\u0430\u0440\u043a"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e17\u0e28\u0e21\u0e13\u0e11\u0e25\u0e1f\u0e34\u0e19\u0e19\u0e4c\u0e21\u0e32\u0e23\u0e4c\u0e01"
@@ -358,7 +391,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1561769543,
+    "wof:lastmodified":1563571685,
     "wof:name":"Finnmark",
     "wof:parent_id":85633341,
     "wof:placetype":"region",

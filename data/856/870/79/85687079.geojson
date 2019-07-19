@@ -30,6 +30,12 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0633\u062a\u0641\u0648\u0644\u062f"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0633\u062a\u0641\u0648\u0644\u062f"
+    ],
+    "name:aze_x_preferred":[
+        "\u00d6stfold"
+    ],
     "name:bel_x_preferred":[
         "\u042d\u0441\u0442\u0444\u0430\u043b"
     ],
@@ -54,6 +60,9 @@
     "name:cat_x_preferred":[
         "\u00d8stfold"
     ],
+    "name:ceb_x_preferred":[
+        "\u00d8stfold fylke"
+    ],
     "name:ces_x_preferred":[
         "\u00d8stfold"
     ],
@@ -73,8 +82,7 @@
         "\u00d8stfold"
     ],
     "name:eng_x_variant":[
-        "\u00d8stfold county",
-        "\u00d8stfold"
+        "\u00d8stfold county"
     ],
     "name:epo_x_preferred":[
         "\u00d8stfold"
@@ -136,6 +144,9 @@
     "name:kor_x_preferred":[
         "\uc678\uc2a4\ud2b8\ud3f4 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc678\uc2a4\ud2b8\ud3f4\uc8fc"
+    ],
     "name:lat_x_preferred":[
         "\u00d8stfold"
     ],
@@ -193,6 +204,9 @@
     "name:por_x_preferred":[
         "\u00d8stfold"
     ],
+    "name:pus_x_preferred":[
+        "\u0627\u0648\u0633\u062a\u0641\u0648\u0644\u062f"
+    ],
     "name:ron_x_preferred":[
         "\u00d8stfold"
     ],
@@ -231,6 +245,9 @@
     ],
     "name:swe_x_preferred":[
         "\u00d8stfold fylke"
+    ],
+    "name:swe_x_variant":[
+        "\u00d8stfold"
     ],
     "name:tam_x_preferred":[
         "\u0b92\u0bb8\u0bcd\u0b9f\u0baa\u0bcb\u0bb2\u0bcd\u0b9f\u0bc1"
@@ -379,7 +396,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1561769542,
+    "wof:lastmodified":1563571675,
     "wof:name":"\u00d8stfold",
     "wof:parent_id":85633341,
     "wof:placetype":"region",

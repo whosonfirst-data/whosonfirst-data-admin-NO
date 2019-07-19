@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000302,
-    "geom:area_square_m":1729613.019833,
+    "geom:area_square_m":1729613.019834,
     "geom:bbox":"6.01158182866,62.3605109727,6.04516078209,62.3814008543",
     "geom:latitude":62.369378,
     "geom:longitude":6.027987,
@@ -17,10 +17,16 @@
     "mps:longitude":6.024935,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Hareid"
+    ],
     "name:bpy_x_preferred":[
         "\u09b9\u09be\u09b0\u09c7\u0987\u09a1"
     ],
     "name:cat_x_preferred":[
+        "Hareid"
+    ],
+    "name:ceb_x_preferred":[
         "Hareid"
     ],
     "name:dan_x_preferred":[
@@ -29,9 +35,15 @@
     "name:deu_x_preferred":[
         "Hareid"
     ],
+    "name:eng_x_preferred":[
+        "Hareid"
+    ],
     "name:eng_x_variant":[
         "Indre Hareid",
         "Midtre Hareid"
+    ],
+    "name:epo_x_preferred":[
+        "Hareid"
     ],
     "name:eus_x_preferred":[
         "Hareid"
@@ -60,6 +72,9 @@
     "name:msa_x_preferred":[
         "Hareid"
     ],
+    "name:nan_x_preferred":[
+        "Hareid"
+    ],
     "name:nds_x_preferred":[
         "Kommun Hareid"
     ],
@@ -68,6 +83,12 @@
     ],
     "name:nno_x_preferred":[
         "Hareid kommune"
+    ],
+    "name:nno_x_variant":[
+        "Hareid"
+    ],
+    "name:nob_x_preferred":[
+        "Hareid"
     ],
     "name:nor_x_preferred":[
         "Hareid"
@@ -94,11 +115,20 @@
     "name:sme_x_preferred":[
         "Hareid"
     ],
+    "name:spa_x_preferred":[
+        "Hareid"
+    ],
     "name:sqi_x_preferred":[
+        "Hareid"
+    ],
+    "name:swa_x_preferred":[
         "Hareid"
     ],
     "name:swe_x_preferred":[
         "Hareids kommun"
+    ],
+    "name:swe_x_variant":[
+        "Hareid"
     ],
     "name:unk_x_variant":[
         "Indre Hareid"
@@ -164,7 +194,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529700087,
+    "wof:lastmodified":1563572641,
     "wof:name":"Hareid",
     "wof:parent_id":1159297015,
     "wof:placetype":"locality",

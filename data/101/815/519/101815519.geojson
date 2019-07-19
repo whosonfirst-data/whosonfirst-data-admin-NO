@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003895,
-    "geom:area_square_m":24617527.46419,
+    "geom:area_square_m":24617527.464187,
     "geom:bbox":"10.3791562033,59.2172585519,10.5095677008,59.3106762084",
     "geom:latitude":59.263916,
     "geom:longitude":10.432447,
@@ -23,6 +23,12 @@
     ],
     "name:ara_x_preferred":[
         "\u062a\u0648\u0646\u0633\u0628\u064a\u0631\u063a"
+    ],
+    "name:ara_x_variant":[
+        "\u062a\u0648\u0646\u0633\u0628\u0631\u063a"
+    ],
+    "name:ast_x_preferred":[
+        "T\u00f8nsberg"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0426\u0451\u043d\u0441\u0431\u0435\u0440\u0433"
@@ -45,11 +51,17 @@
     "name:ces_x_preferred":[
         "T\u00f8nsberg"
     ],
+    "name:cym_x_preferred":[
+        "T\u00f8nsberg"
+    ],
     "name:dan_x_preferred":[
         "T\u00f8nsberg"
     ],
     "name:deu_x_preferred":[
         "T\u00f8nsberg"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03ad\u03bd\u03c3\u03bc\u03c0\u03b5\u03c1\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Tonsberg"
@@ -57,7 +69,40 @@
     "name:eng_x_variant":[
         "T\u00f8nsberg"
     ],
+    "name:epo_x_preferred":[
+        "T\u00f8nsberg"
+    ],
+    "name:est_x_preferred":[
+        "T\u00f8nsberg"
+    ],
+    "name:eus_x_preferred":[
+        "T\u00f8nsberg"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0646\u0633\u0628\u0631\u06af"
+    ],
     "name:fin_x_preferred":[
+        "T\u00f8nsberg"
+    ],
+    "name:fra_x_preferred":[
+        "T\u00f8nsberg"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d5\u05e0\u05e1\u05d1\u05e8\u05d2"
+    ],
+    "name:hrv_x_preferred":[
+        "T\u00f8nsberg"
+    ],
+    "name:hun_x_preferred":[
+        "T\u00f8nsberg"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0575\u0578\u0576\u057d\u0562\u0565\u0580\u0563"
+    ],
+    "name:ido_x_preferred":[
+        "T\u00f8nsberg"
+    ],
+    "name:ind_x_preferred":[
         "T\u00f8nsberg"
     ],
     "name:ita_x_preferred":[
@@ -66,11 +111,32 @@
     "name:jpn_x_preferred":[
         "\u30c8\u30f3\u30b9\u30d9\u30eb\u30b0"
     ],
+    "name:kal_x_preferred":[
+        "T\u00f8nsberg"
+    ],
     "name:kor_x_preferred":[
         "\ud1f8\uc2a4\ubca0\ub974\uadf8"
     ],
+    "name:lat_x_preferred":[
+        "T\u00f8nsberg"
+    ],
+    "name:lim_x_preferred":[
+        "T\u00f8nsberg"
+    ],
     "name:lit_x_preferred":[
         "Tionsbergas"
+    ],
+    "name:ltz_x_preferred":[
+        "T\u00f8nsberg"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0422\u0435\u043d\u0441\u0431\u0435\u0440\u0433"
+    ],
+    "name:msa_x_preferred":[
+        "T\u00f8nsberg"
+    ],
+    "name:nan_x_preferred":[
+        "T\u00f8nsberg"
     ],
     "name:nds_x_preferred":[
         "Kommun T\u00f8nsberg"
@@ -79,6 +145,9 @@
         "T\u00f8nsberg"
     ],
     "name:nno_x_preferred":[
+        "T\u00f8nsberg"
+    ],
+    "name:nob_x_preferred":[
         "T\u00f8nsberg"
     ],
     "name:nor_x_colloquial":[
@@ -92,6 +161,9 @@
     "name:nor_x_variant":[
         "T\u00f8nsbergs"
     ],
+    "name:oci_x_preferred":[
+        "T\u00f8nsberg"
+    ],
     "name:oss_x_preferred":[
         "\u0422\u0451\u043d\u0441\u0431\u0435\u0440\u0433"
     ],
@@ -104,14 +176,35 @@
     "name:por_x_preferred":[
         "T\u00f8nsberg"
     ],
+    "name:ron_x_preferred":[
+        "T\u00f8nsberg"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0451\u043d\u0441\u0431\u0435\u0440\u0433"
+    ],
+    "name:sco_x_preferred":[
+        "T\u00f8nsberg"
+    ],
+    "name:sgs_x_preferred":[
+        "Tiuonsbergs"
+    ],
+    "name:slv_x_preferred":[
+        "T\u00f8nsberg"
+    ],
+    "name:sme_x_preferred":[
+        "T\u00f8nsberg"
     ],
     "name:spa_x_preferred":[
         "T\u00f8nsberg"
     ],
+    "name:sqi_x_preferred":[
+        "T\u00f8nsberg"
+    ],
     "name:srp_x_preferred":[
         "\u0422\u0435\u043d\u0441\u0431\u0435\u0440\u0433"
+    ],
+    "name:swa_x_preferred":[
+        "T\u00f8nsberg"
     ],
     "name:swe_x_preferred":[
         "T\u00f8nsberg"
@@ -119,8 +212,26 @@
     "name:swe_x_variant":[
         "T\u00f6nsberg"
     ],
+    "name:szl_x_preferred":[
+        "T\u00f8nsberg"
+    ],
+    "name:tum_x_preferred":[
+        "T\u00f8nsberg"
+    ],
+    "name:tur_x_preferred":[
+        "T\u00f8nsberg"
+    ],
     "name:ukr_x_preferred":[
         "\u0422\u0435\u043d\u0441\u0431\u0435\u0440\u0433"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0648\u0646\u0633\u0628\u0631\u06af"
+    ],
+    "name:vie_x_preferred":[
+        "T\u00f8nsberg"
+    ],
+    "name:war_x_preferred":[
+        "T\u00f8nsberg"
     ],
     "name:zho_x_preferred":[
         "\u6ed5\u65af\u8d1d\u683c"
@@ -267,7 +378,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529700487,
+    "wof:lastmodified":1563572766,
     "wof:name":"T\u00f8nsberg",
     "wof:parent_id":1159297071,
     "wof:placetype":"locality",

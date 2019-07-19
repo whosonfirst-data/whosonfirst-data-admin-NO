@@ -17,16 +17,25 @@
     "mps:longitude":8.558201,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Sunndals\u00f8ra"
+    ],
     "name:dan_x_preferred":[
         "Sunndals\u00f8ra"
     ],
     "name:eng_x_preferred":[
         "Sunndalsora"
     ],
+    "name:eng_x_variant":[
+        "Sunndals\u00f8ra"
+    ],
     "name:fin_x_preferred":[
         "Sunndals\u00f8ra"
     ],
     "name:fra_x_preferred":[
+        "Sunndals\u00f8ra"
+    ],
+    "name:hrv_x_preferred":[
         "Sunndals\u00f8ra"
     ],
     "name:ita_x_preferred":[
@@ -73,6 +82,12 @@
     "name:ron_x_preferred":[
         "Sunndals\u00f8ra"
     ],
+    "name:ron_x_variant":[
+        "Aure"
+    ],
+    "name:spa_x_preferred":[
+        "Sunndals\u00f8ra"
+    ],
     "name:swe_x_preferred":[
         "Sunndals\u00f8ra"
     ],
@@ -81,6 +96,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5b6b\u9054\u723e\u745f\u62c9"
+    ],
+    "name:zho_x_variant":[
+        "\u5b59\u8fbe\u5c14\u745f\u62c9"
     ],
     "qs:a0":"Norge",
     "qs:a1":"*M\u00f8re og Romsdal",
@@ -132,7 +150,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1561769586,
+    "wof:lastmodified":1563572647,
     "wof:name":"Sunndals\u00f8ra",
     "wof:parent_id":1159296805,
     "wof:placetype":"locality",

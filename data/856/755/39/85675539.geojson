@@ -140,6 +140,9 @@
     "name:jpn_x_preferred":[
         "\u30b9\u30d0\u30fc\u30eb\u30d0\u30eb\u8af8\u5cf6\u30fb\u30e4\u30f3\u30de\u30a4\u30a8\u30f3\u5cf6"
     ],
+    "name:jpn_x_variant":[
+        "\u30b9\u30f4\u30a1\u30fc\u30eb\u30d0\u30eb\u8af8\u5cf6\u304a\u3088\u3073\u30e4\u30f3\u30de\u30a4\u30a8\u30f3\u5cf6"
+    ],
     "name:kal_x_preferred":[
         "Svalbard aamma Jan Mayen"
     ],
@@ -259,6 +262,9 @@
     ],
     "name:zho_x_preferred":[
         "\u65af\u74e6\u5c14\u5df4\u7279\u548c\u626c\u9a6c\u5ef6"
+    ],
+    "name:zho_x_variant":[
+        "\u65af\u74e6\u5c14\u5df4\u548c\u626c\u9a6c\u5ef6"
     ],
     "name:zul_x_preferred":[
         "I-Svalbard ne-Jan Mayen"
@@ -400,7 +406,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1553550477,
+    "wof:lastmodified":1563571656,
     "wof:name":"Svalbard",
     "wof:parent_id":85633341,
     "wof:placetype":"region",

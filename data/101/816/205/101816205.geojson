@@ -17,10 +17,16 @@
     "mps:longitude":11.352841,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Rakkestad"
+    ],
     "name:bpy_x_preferred":[
         "\u09b0\u09be\u0995\u09cd\u0995\u09c7\u09b8\u09cd\u099f\u09be\u09a1"
     ],
     "name:cat_x_preferred":[
+        "Rakkestad"
+    ],
+    "name:ceb_x_preferred":[
         "Rakkestad"
     ],
     "name:cym_x_preferred":[
@@ -77,6 +83,9 @@
     "name:nno_x_preferred":[
         "Rakkestad kommune"
     ],
+    "name:nno_x_variant":[
+        "Rakkestad"
+    ],
     "name:nob_x_preferred":[
         "Rakkestad"
     ],
@@ -112,6 +121,9 @@
     ],
     "name:swe_x_preferred":[
         "Rakkestads kommun"
+    ],
+    "name:swe_x_variant":[
+        "Rakkestad"
     ],
     "name:vie_x_preferred":[
         "Rakkestad"
@@ -174,7 +186,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1561769584,
+    "wof:lastmodified":1563572614,
     "wof:name":"Rakkestad",
     "wof:parent_id":1159296869,
     "wof:placetype":"locality",

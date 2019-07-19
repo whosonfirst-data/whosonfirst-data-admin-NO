@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":677332.755857,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.327245,60.378169,5.327245,60.378169",
     "geom:latitude":60.378169,
     "geom:longitude":5.327245,
@@ -23,7 +23,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Gyldenpris"
+    ],
     "name:nno_x_preferred":[
+        "Gyldenpris"
+    ],
+    "name:nob_x_preferred":[
         "Gyldenpris"
     ],
     "name:nor_x_preferred":[
@@ -65,11 +71,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":735,
     "wof:belongsto":[
-        85687099,
         102191581,
         1159297617,
         85633341,
-        101751923
+        101751923,
+        85687099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +101,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531870553,
+    "wof:lastmodified":1563571693,
     "wof:name":"Gyldenpris",
     "wof:parent_id":101751923,
     "wof:placetype":"neighbourhood",

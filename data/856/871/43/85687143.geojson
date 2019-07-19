@@ -36,6 +36,9 @@
     "name:ast_x_preferred":[
         "Troms"
     ],
+    "name:azb_x_preferred":[
+        "\u062a\u0631\u0648\u0645\u0633"
+    ],
     "name:bar_x_preferred":[
         "Troms"
     ],
@@ -59,6 +62,9 @@
     ],
     "name:cat_x_preferred":[
         "Troms"
+    ],
+    "name:ceb_x_preferred":[
+        "Troms Fylke"
     ],
     "name:ces_x_preferred":[
         "Troms"
@@ -90,6 +96,9 @@
     "name:fao_x_preferred":[
         "Troms fylki"
     ],
+    "name:fao_x_variant":[
+        "Troms fylke"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u0631\u0648\u0645\u0632"
     ],
@@ -104,6 +113,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0acd\u0ab0\u0acb\u0aae\u0acd\u0ab8"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05e8\u05d5\u05de\u05e1"
     ],
     "name:hin_x_preferred":[
         "\u091f\u094d\u0930\u094b\u092e\u094d\u0938"
@@ -140,6 +152,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud2b8\ub86c\uc2a4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud2b8\ub86c\uc2a4\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Troms"
@@ -195,6 +210,9 @@
     "name:por_x_preferred":[
         "Troms"
     ],
+    "name:pus_x_preferred":[
+        "\u062a\u0631\u0648\u0645\u0633"
+    ],
     "name:ron_x_preferred":[
         "Troms"
     ],
@@ -240,8 +258,14 @@
     "name:swe_x_preferred":[
         "Troms fylke"
     ],
+    "name:swe_x_variant":[
+        "Troms"
+    ],
     "name:tam_x_preferred":[
         "\u0b9f\u0bcd\u0bb0\u0bcb\u0bae\u0bcd\u0bb8\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0440\u043e\u043c\u0441"
     ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c4d\u0c30\u0c4b\u0c2e\u0c4d\u0c38\u0c4d"
@@ -393,7 +417,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1561769543,
+    "wof:lastmodified":1563571688,
     "wof:name":"Troms",
     "wof:parent_id":85633341,
     "wof:placetype":"region",

@@ -12,20 +12,38 @@
     "iso:country":"NO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Lakselv Banak Airport"
+    ],
     "name:dan_x_preferred":[
         "Lakselv Lufthavn"
     ],
     "name:deu_x_preferred":[
         "Flughafen Lakselv"
     ],
+    "name:eng_x_preferred":[
+        "Lakselv Airport"
+    ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u06a9\u0633\u0644\u0648 \u0628\u0627\u0646\u0627\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "Lemmijoen lentoasema"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30af\u30b9\u30a8\u30eb\u30d6\u7a7a\u6e2f"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Banak"
     ],
     "name:nld_x_preferred":[
         "Luchthaven Lakselv Banak"
     ],
     "name:nno_x_preferred":[
         "Lakselv lufthamn"
+    ],
+    "name:nob_x_preferred":[
+        "Lakselv lufthavn"
     ],
     "name:nor_x_preferred":[
         "Lakselv lufthavn"
@@ -38,6 +56,9 @@
     ],
     "name:swe_x_preferred":[
         "Lakselvs flygplats"
+    ],
+    "name:swe_x_variant":[
+        "Lakselv flygplats"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043b\u043a\u0441\u043b\u0443 \u0431\u043e\u043d\u043e\u043a"
@@ -78,7 +99,7 @@
         }
     ],
     "wof:id":102556679,
-    "wof:lastmodified":1543792155,
+    "wof:lastmodified":1563571426,
     "wof:name":"Lakselv Lufthavn Banak",
     "wof:parent_id":85687145,
     "wof:placetype":"campus",

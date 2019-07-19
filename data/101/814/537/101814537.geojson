@@ -17,7 +17,13 @@
     "mps:longitude":10.803682,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Hommelvik"
+    ],
     "name:ces_x_preferred":[
+        "Hommelvik"
+    ],
+    "name:dan_x_preferred":[
         "Hommelvik"
     ],
     "name:deu_x_preferred":[
@@ -61,6 +67,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0425\u043e\u043c\u043c\u0435\u043b\u044c\u0432\u0438\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0443\u0433\u0435\u043d"
     ],
     "name:spa_x_preferred":[
         "Hommelvik"
@@ -117,7 +126,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1561769597,
+    "wof:lastmodified":1563572812,
     "wof:name":"Hommelvik",
     "wof:parent_id":1159296821,
     "wof:placetype":"locality",

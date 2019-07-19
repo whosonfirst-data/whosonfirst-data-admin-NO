@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000214,
-    "geom:area_square_m":1342712.445911,
+    "geom:area_square_m":1342712.445912,
     "geom:bbox":"8.60354488649,59.4781995224,8.64393143997,59.4909651298",
     "geom:latitude":59.484756,
     "geom:longitude":8.625557,
@@ -20,13 +20,31 @@
     "name:ara_x_preferred":[
         "\u0633\u0644\u064a\u0648\u0631\u062f"
     ],
+    "name:ast_x_preferred":[
+        "Seljord"
+    ],
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09b2\u099c\u09b0\u09cd\u09a1"
+    ],
+    "name:cat_x_preferred":[
+        "Seljord"
+    ],
+    "name:ceb_x_preferred":[
+        "Seljord"
+    ],
+    "name:ces_x_preferred":[
+        "Seljord"
     ],
     "name:dan_x_preferred":[
         "Seljord"
     ],
     "name:deu_x_preferred":[
+        "Seljord"
+    ],
+    "name:eng_x_preferred":[
+        "Seljord"
+    ],
+    "name:epo_x_preferred":[
         "Seljord"
     ],
     "name:est_x_preferred":[
@@ -50,7 +68,13 @@
     "name:lim_x_preferred":[
         "Seljord"
     ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0435\u043b\u0458\u0443\u0440"
+    ],
     "name:msa_x_preferred":[
+        "Seljord"
+    ],
+    "name:nan_x_preferred":[
         "Seljord"
     ],
     "name:nds_x_preferred":[
@@ -61,6 +85,12 @@
     ],
     "name:nno_x_preferred":[
         "Seljord kommune"
+    ],
+    "name:nno_x_variant":[
+        "Seljord"
+    ],
+    "name:nob_x_preferred":[
+        "Seljord"
     ],
     "name:nor_x_preferred":[
         "Seljord"
@@ -83,17 +113,29 @@
     "name:rus_x_preferred":[
         "\u0421\u0435\u043b\u044c\u044e\u0440"
     ],
+    "name:slk_x_preferred":[
+        "Seljord"
+    ],
     "name:slv_x_preferred":[
         "Seljord"
     ],
     "name:sme_x_preferred":[
         "Seljord"
     ],
+    "name:spa_x_preferred":[
+        "Seljord"
+    ],
     "name:sqi_x_preferred":[
+        "Seljord"
+    ],
+    "name:swa_x_preferred":[
         "Seljord"
     ],
     "name:swe_x_preferred":[
         "Seljords kommun"
+    ],
+    "name:swe_x_variant":[
+        "Seljord"
     ],
     "name:vie_x_preferred":[
         "Seljord"
@@ -157,7 +199,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529700381,
+    "wof:lastmodified":1563572716,
     "wof:name":"Seljord",
     "wof:parent_id":1159296965,
     "wof:placetype":"locality",

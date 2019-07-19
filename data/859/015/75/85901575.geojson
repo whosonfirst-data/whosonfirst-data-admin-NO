@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000283,
-    "geom:area_square_m":1752230.756135,
+    "geom:area_square_m":1752230.756137,
     "geom:bbox":"10.7822221306,59.9316243094,10.8050537109,59.9481336145",
     "geom:latitude":59.94024,
     "geom:longitude":10.793888,
@@ -30,7 +30,13 @@
         "Grafsen"
     ],
     "name:eng_x_variant":[
-        "Grafsen"
+        "Grefsen"
+    ],
+    "name:nno_x_preferred":[
+        "Grefsen"
+    ],
+    "name:nob_x_preferred":[
+        "Grefsen"
     ],
     "name:nor_x_preferred":[
         "Grefsen"
@@ -73,11 +79,11 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":219,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        101751917
+        101751917,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,7 +110,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529700263,
+    "wof:lastmodified":1563571620,
     "wof:name":"Grefsen",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

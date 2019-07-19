@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00031,
-    "geom:area_square_m":1921673.435415,
+    "geom:area_square_m":1921673.435416,
     "geom:bbox":"10.8146586052,59.8985806483,10.8450552424,59.9192368537",
     "geom:latitude":59.910349,
     "geom:longitude":10.8288,
@@ -26,6 +26,12 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
     "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Bryn"
+    ],
+    "name:nob_x_preferred":[
+        "Bryn"
+    ],
     "name:nor_x_preferred":[
         "Bryn"
     ],
@@ -62,11 +68,11 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":36,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        101751917
+        101751917,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +99,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529700263,
+    "wof:lastmodified":1563571622,
     "wof:name":"Bryn",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

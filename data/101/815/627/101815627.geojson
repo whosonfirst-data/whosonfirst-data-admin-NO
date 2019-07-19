@@ -20,10 +20,19 @@
     "name:ara_x_preferred":[
         "\u0633\u062a\u0627\u0646\u063a"
     ],
+    "name:ast_x_preferred":[
+        "Stange"
+    ],
+    "name:bar_x_preferred":[
+        "Stange"
+    ],
     "name:bpy_x_preferred":[
         "\u09b8\u09cd\u099f\u09be\u09a8\u09cd\u099c\u09c7"
     ],
     "name:cat_x_preferred":[
+        "Stange"
+    ],
+    "name:ceb_x_preferred":[
         "Stange"
     ],
     "name:ces_x_preferred":[
@@ -44,6 +53,9 @@
     "name:eus_x_preferred":[
         "Stange"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646\u06af\u0647"
+    ],
     "name:fin_x_preferred":[
         "Stange"
     ],
@@ -55,6 +67,9 @@
     ],
     "name:ita_x_preferred":[
         "St\u00e5nge"
+    ],
+    "name:ita_x_variant":[
+        "Stange"
     ],
     "name:jav_x_preferred":[
         "Stange"
@@ -79,6 +94,9 @@
     ],
     "name:nno_x_preferred":[
         "Stange kommune"
+    ],
+    "name:nno_x_variant":[
+        "Stange"
     ],
     "name:nob_x_preferred":[
         "Stange"
@@ -125,6 +143,15 @@
     ],
     "name:swe_x_preferred":[
         "Stange kommun"
+    ],
+    "name:swe_x_variant":[
+        "Stange"
+    ],
+    "name:szl_x_preferred":[
+        "Stange"
+    ],
+    "name:tur_x_preferred":[
+        "Stange"
     ],
     "name:unk_x_variant":[
         "Stange Stasjonsby"
@@ -187,7 +214,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1561769594,
+    "wof:lastmodified":1563572761,
     "wof:name":"Stange",
     "wof:parent_id":1159297493,
     "wof:placetype":"locality",

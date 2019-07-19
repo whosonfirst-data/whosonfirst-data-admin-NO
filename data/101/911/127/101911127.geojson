@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000057,
+    "geom:area_square_m":338031.31263,
     "geom:bbox":"7.45181648735,61.4413378872,7.4668202302,61.4477991777",
     "geom:latitude":61.444618,
     "geom:longitude":7.459957,
@@ -18,6 +19,9 @@
     "name:deu_x_preferred":[
         "Lustre"
     ],
+    "name:eng_x_preferred":[
+        "Lustre"
+    ],
     "name:fra_x_preferred":[
         "Lustre"
     ],
@@ -26,6 +30,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub7ec\uc2a4\ud130"
+    ],
+    "name:pus_x_preferred":[
+        "\u0631\u0648\u062f\u0633\u0647\u0648\u06ab\u062f\u0627"
     ],
     "name:ron_x_preferred":[
         "Lustre"
@@ -76,7 +83,7 @@
         }
     ],
     "wof:id":101911127,
-    "wof:lastmodified":1529699933,
+    "wof:lastmodified":1563572853,
     "wof:name":"Luster",
     "wof:parent_id":1159297283,
     "wof:placetype":"locality",

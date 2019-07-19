@@ -27,6 +27,15 @@
     "name:ara_x_preferred":[
         "\u0631\u0648\u063a\u0627\u0644\u0627\u0646\u062f"
     ],
+    "name:ast_x_preferred":[
+        "Rogaland"
+    ],
+    "name:azb_x_preferred":[
+        "\u0631\u0648\u0642\u0627\u0644\u0627\u0646\u062f"
+    ],
+    "name:bar_x_preferred":[
+        "Rogaland"
+    ],
     "name:bel_x_preferred":[
         "\u0420\u0443\u0433\u0430\u043b\u0430\u043d"
     ],
@@ -47,6 +56,9 @@
     ],
     "name:cat_x_preferred":[
         "Rogaland"
+    ],
+    "name:ceb_x_preferred":[
+        "Rogaland Fylke"
     ],
     "name:ces_x_preferred":[
         "Rogaland"
@@ -91,6 +103,9 @@
         "Rogaland",
         "comt\u00e9 de Rogaland"
     ],
+    "name:fry_x_preferred":[
+        "Rogaland"
+    ],
     "name:heb_x_preferred":[
         "\u05e8\u05d5\u05d2\u05dc\u05e0\u05d3"
     ],
@@ -120,6 +135,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub85c\uac08\ub780 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub85c\uac08\ub780\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Rogaland"
@@ -208,11 +226,20 @@
     "name:swe_x_preferred":[
         "Rogaland fylke"
     ],
+    "name:swe_x_variant":[
+        "Rogaland"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e17\u0e28\u0e21\u0e13\u0e11\u0e25\u0e23\u0e39\u0e01\u0e32\u0e25\u0e31\u0e19\u0e14\u0e4c"
+    ],
     "name:tur_x_preferred":[
         "Rogaland"
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0443\u0433\u0430\u043b\u0430\u043d"
+    ],
+    "name:ukr_x_variant":[
+        "\u0420\u0443\u0491\u0430\u043b\u0430\u043d"
     ],
     "name:unk_x_variant":[
         "Rogaland Fylke"
@@ -352,7 +379,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1561769542,
+    "wof:lastmodified":1563571677,
     "wof:name":"Rogaland",
     "wof:parent_id":85633341,
     "wof:placetype":"region",

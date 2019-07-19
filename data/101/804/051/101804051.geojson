@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000129,
-    "geom:area_square_m":765577.813787,
+    "geom:area_square_m":765577.813786,
     "geom:bbox":"6.5207383576,61.1977893113,6.53877199121,61.2114097033",
     "geom:latitude":61.205437,
     "geom:longitude":6.529554,
@@ -17,13 +17,28 @@
     "mps:longitude":6.529418,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Balestrand"
+    ],
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09b2\u09c7\u09b8\u09cd\u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09a1"
+    ],
+    "name:cat_x_preferred":[
+        "Balestrand"
+    ],
+    "name:ceb_x_preferred":[
+        "Balestrand"
     ],
     "name:dan_x_preferred":[
         "Balestrand"
     ],
     "name:deu_x_preferred":[
+        "Balestrand"
+    ],
+    "name:eng_x_preferred":[
+        "Balestrand"
+    ],
+    "name:epo_x_preferred":[
         "Balestrand"
     ],
     "name:eus_x_preferred":[
@@ -50,6 +65,9 @@
     "name:msa_x_preferred":[
         "Balestrand"
     ],
+    "name:nan_x_preferred":[
+        "Balestrand"
+    ],
     "name:nds_x_preferred":[
         "Kommun Balestrand"
     ],
@@ -60,6 +78,9 @@
         "Balestrand kommune"
     ],
     "name:nno_x_variant":[
+        "Balestrand"
+    ],
+    "name:nob_x_preferred":[
         "Balestrand"
     ],
     "name:nor_x_preferred":[
@@ -92,8 +113,17 @@
     "name:sqi_x_preferred":[
         "Balestrand"
     ],
+    "name:swa_x_preferred":[
+        "Balestrand"
+    ],
     "name:swe_x_preferred":[
         "Balestrands kommun"
+    ],
+    "name:swe_x_variant":[
+        "Balestrand"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043b\u0435\u0441\u0442\u0440\u0430\u043d\u0434"
     ],
     "name:war_x_preferred":[
         "Balestrand"
@@ -153,7 +183,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529699933,
+    "wof:lastmodified":1563572669,
     "wof:name":"Balestrand",
     "wof:parent_id":1159297555,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000229,
-    "geom:area_square_m":1352110.364475,
+    "geom:area_square_m":1352110.364474,
     "geom:bbox":"5.71129870851,61.5063542721,5.74245714098,61.5193718906",
     "geom:latitude":61.513221,
     "geom:longitude":5.724476,
@@ -17,8 +17,26 @@
     "mps:longitude":5.725538,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Naustdal"
+    ],
+    "name:bar_x_preferred":[
+        "Naustdal"
+    ],
+    "name:bel_x_preferred":[
+        "\u041d\u0451\u045e\u0441\u0442\u0434\u0430\u043b"
+    ],
     "name:bpy_x_preferred":[
         "\u09a8\u09cc\u09b8\u09cd\u099f\u09a1\u09be\u09b2"
+    ],
+    "name:cat_x_preferred":[
+        "Naustdal"
+    ],
+    "name:ceb_x_preferred":[
+        "Naustdal"
+    ],
+    "name:cym_x_preferred":[
+        "Naustdal"
     ],
     "name:dan_x_preferred":[
         "Naustdal"
@@ -27,6 +45,9 @@
         "Naustdal"
     ],
     "name:eng_x_preferred":[
+        "Naustdal"
+    ],
+    "name:epo_x_preferred":[
         "Naustdal"
     ],
     "name:eus_x_preferred":[
@@ -38,6 +59,9 @@
     "name:fra_x_preferred":[
         "Naustdal"
     ],
+    "name:hye_x_preferred":[
+        "\u0546\u0575\u0578\u0578\u0582\u057d\u0569\u0564\u0561\u056c"
+    ],
     "name:ita_x_preferred":[
         "Naustdal"
     ],
@@ -48,6 +72,9 @@
         "Naustdal"
     ],
     "name:msa_x_preferred":[
+        "Naustdal"
+    ],
+    "name:nan_x_preferred":[
         "Naustdal"
     ],
     "name:nds_x_preferred":[
@@ -90,7 +117,13 @@
     "name:sme_x_preferred":[
         "Naustdal"
     ],
+    "name:spa_x_preferred":[
+        "Naustdal"
+    ],
     "name:sqi_x_preferred":[
+        "Naustdal"
+    ],
+    "name:swa_x_preferred":[
         "Naustdal"
     ],
     "name:swe_x_preferred":[
@@ -160,7 +193,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529699931,
+    "wof:lastmodified":1563572640,
     "wof:name":"Naustdal",
     "wof:parent_id":1159297179,
     "wof:placetype":"locality",

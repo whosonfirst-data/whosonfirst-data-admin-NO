@@ -25,11 +25,41 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":4,
     "mz:tier_metro":1,
+    "name:dan_x_preferred":[
+        "Ammerud"
+    ],
+    "name:deu_x_preferred":[
+        "Ammerud"
+    ],
+    "name:eng_x_preferred":[
+        "Ammerud"
+    ],
+    "name:fra_x_preferred":[
+        "Ammerud"
+    ],
+    "name:nld_x_preferred":[
+        "Ammerud"
+    ],
+    "name:nno_x_preferred":[
+        "Ammerud"
+    ],
+    "name:nob_x_preferred":[
+        "Ammerud"
+    ],
     "name:nor_x_preferred":[
         "Ammerud"
     ],
     "name:nor_x_variant":[
         "Ammeruds"
+    ],
+    "name:pol_x_preferred":[
+        "Ammerud"
+    ],
+    "name:rus_x_preferred":[
+        "Ammerud"
+    ],
+    "name:srp_x_preferred":[
+        "Ammerud"
     ],
     "name:swe_x_preferred":[
         "Ammerud"
@@ -65,11 +95,11 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":328,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        101751917
+        101751917,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +124,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529700268,
+    "wof:lastmodified":1563571631,
     "wof:name":"Ammerud",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

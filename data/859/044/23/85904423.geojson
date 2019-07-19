@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":564533.494702,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.393151,63.420101,10.393151,63.420101",
     "geom:latitude":63.420101,
     "geom:longitude":10.393151,
@@ -30,7 +30,16 @@
     "name:dan_x_preferred":[
         "Elgeseter"
     ],
+    "name:eng_x_preferred":[
+        "Elgeseter"
+    ],
+    "name:nob_x_preferred":[
+        "Elgeseter"
+    ],
     "name:nor_x_preferred":[
+        "Elgeseter"
+    ],
+    "name:por_x_preferred":[
         "Elgeseter"
     ],
     "name:unk_x_variant":[
@@ -65,9 +74,9 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":252,
     "wof:belongsto":[
-        85687127,
         1159297145,
-        101751927
+        101751927,
+        85687127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +101,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531936221,
+    "wof:lastmodified":1563571653,
     "wof:name":"Elgeseter",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

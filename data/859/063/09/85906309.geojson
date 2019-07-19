@@ -25,10 +25,16 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
     "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Nordberg"
+    ],
     "name:jav_x_preferred":[
         "Nordberg"
     ],
     "name:msa_x_preferred":[
+        "Nordberg"
+    ],
+    "name:nob_x_preferred":[
         "Nordberg"
     ],
     "name:nor_x_preferred":[
@@ -68,11 +74,11 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":74,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        101751917
+        101751917,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +103,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529700268,
+    "wof:lastmodified":1563571631,
     "wof:name":"Nordberg",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

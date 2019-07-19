@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":47399562.756417,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.730103,58.965141,5.730103,58.965141",
     "geom:latitude":58.965141,
     "geom:longitude":5.730103,
@@ -27,7 +27,10 @@
         "Vaaland"
     ],
     "name:eng_x_variant":[
-        "Vaaland"
+        "V\u00e5land"
+    ],
+    "name:nob_x_preferred":[
+        "V\u00e5land"
     ],
     "name:nor_x_colloquial":[
         "Valand"
@@ -72,11 +75,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":133,
     "wof:belongsto":[
-        85687085,
         102191581,
         1159297103,
         85633341,
-        101751915
+        101751915,
+        85687085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,7 +106,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531862039,
+    "wof:lastmodified":1563571698,
     "wof:name":"V\u00e5land",
     "wof:parent_id":101751915,
     "wof:placetype":"neighbourhood",

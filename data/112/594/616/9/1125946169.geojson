@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "\u00c5lg\u00e5rd"
+    ],
     "name:bel_x_preferred":[
         "\u041e\u043b\u0433\u0430\u0440"
     ],
@@ -27,6 +30,12 @@
     "name:dan_x_preferred":[
         "\u00c5lg\u00e5rd"
     ],
+    "name:dan_x_variant":[
+        "Tregde"
+    ],
+    "name:deu_x_preferred":[
+        "\u00c5lg\u00e5rd"
+    ],
     "name:eng_x_preferred":[
         "\u00c5lg\u00e5rd"
     ],
@@ -34,6 +43,9 @@
         "\u00c5lg\u00e5rd"
     ],
     "name:gla_x_preferred":[
+        "\u00c5lg\u00e5rd"
+    ],
+    "name:ita_x_preferred":[
         "\u00c5lg\u00e5rd"
     ],
     "name:jav_x_preferred":[
@@ -56,6 +68,9 @@
     ],
     "name:swe_x_preferred":[
         "\u00c5lg\u00e5rd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041e\u043b\u0433\u043e\u0440"
     ],
     "name:unk_x_variant":[
         "Aalgaard"
@@ -112,7 +127,7 @@
         }
     ],
     "wof:id":1125946169,
-    "wof:lastmodified":1561769603,
+    "wof:lastmodified":1563572929,
     "wof:name":"\u00c5lg\u00e5rd",
     "wof:parent_id":1159297401,
     "wof:placetype":"locality",

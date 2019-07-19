@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003959,
-    "geom:area_square_m":25125537.05239,
+    "geom:area_square_m":25125537.052386,
     "geom:bbox":"10.1673243362,59.0735744479,10.2858373926,59.1600435366",
     "geom:latitude":59.123482,
     "geom:longitude":10.230754,
@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062f\u0641\u064a\u0648\u0631\u062f"
     ],
+    "name:ast_x_preferred":[
+        "Sandefjord"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u043d\u0435\u0444\u0456\u0451\u0440\u0434"
+    ],
     "name:bel_x_variant":[
         "\u0421\u0430\u043d\u044d\u0444\u2019\u0451\u0440"
     ],
@@ -29,10 +35,16 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d\u0435\u0444\u044c\u043e\u0440"
     ],
+    "name:cat_x_preferred":[
+        "Sandefjord"
+    ],
     "name:ceb_x_preferred":[
         "Sandefjord"
     ],
     "name:ces_x_preferred":[
+        "Sandefjord"
+    ],
+    "name:cym_x_preferred":[
         "Sandefjord"
     ],
     "name:dan_x_preferred":[
@@ -56,6 +68,9 @@
     "name:fao_x_preferred":[
         "Sandefjord kommuna"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646\u062f\u0641\u06cc\u0648\u0631\u062f"
+    ],
     "name:fin_x_preferred":[
         "Sandefjord"
     ],
@@ -65,7 +80,13 @@
     "name:hun_x_preferred":[
         "Sandefjord"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576\u0565\u0586\u0575\u0578\u0580\u0564"
+    ],
     "name:ind_x_preferred":[
+        "Sandefjord"
+    ],
+    "name:isl_x_preferred":[
         "Sandefjord"
     ],
     "name:ita_x_preferred":[
@@ -87,10 +108,16 @@
     "name:lat_x_preferred":[
         "Sandefjord"
     ],
+    "name:lim_x_preferred":[
+        "Sandefjord"
+    ],
     "name:lit_x_preferred":[
         "Sandefjordas"
     ],
     "name:msa_x_preferred":[
+        "Sandefjord"
+    ],
+    "name:nan_x_preferred":[
         "Sandefjord"
     ],
     "name:nds_x_preferred":[
@@ -105,11 +132,17 @@
     "name:nno_x_variant":[
         "Sandefjord"
     ],
+    "name:nob_x_preferred":[
+        "Sandefjord"
+    ],
     "name:nor_x_preferred":[
         "Sandefjord"
     ],
     "name:nor_x_variant":[
         "Sandefjords"
+    ],
+    "name:oci_x_preferred":[
+        "Sandefjord"
     ],
     "name:pol_x_preferred":[
         "Sandefjord"
@@ -123,6 +156,9 @@
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d\u043d\u0435\u0444\u044c\u043e\u0440\u0434"
     ],
+    "name:slv_x_preferred":[
+        "Sandefjord"
+    ],
     "name:sme_x_preferred":[
         "Sandefjord"
     ],
@@ -135,13 +171,22 @@
     "name:srp_x_preferred":[
         "\u0421\u0430\u043d\u0434\u0435\u0444\u0458\u043e\u0440\u0434"
     ],
+    "name:swa_x_preferred":[
+        "Sandefjord"
+    ],
     "name:swe_x_preferred":[
         "Sandefjords kommun"
     ],
     "name:swe_x_variant":[
         "Sandefjord"
     ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u043d\u043d\u0435\u0444\u044c\u043e\u0440\u0434"
+    ],
     "name:tum_x_preferred":[
+        "Sandefjord"
+    ],
+    "name:tur_x_preferred":[
         "Sandefjord"
     ],
     "name:ukr_x_preferred":[
@@ -213,7 +258,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529700488,
+    "wof:lastmodified":1563572626,
     "wof:name":"Sandefjord",
     "wof:parent_id":1159297193,
     "wof:placetype":"locality",

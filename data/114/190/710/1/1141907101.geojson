@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0644\u064a\u0633\u0648\u0646\u062f"
     ],
+    "name:ast_x_preferred":[
+        "\u00c5lesund"
+    ],
     "name:bel_x_preferred":[
         "\u041e\u043b\u0435\u0441\u0443\u043d"
     ],
@@ -32,7 +35,13 @@
     "name:cat_x_preferred":[
         "\u00c5lesund"
     ],
+    "name:ceb_x_preferred":[
+        "\u00c5lesund"
+    ],
     "name:ces_x_preferred":[
+        "\u00c5lesund"
+    ],
+    "name:cym_x_preferred":[
         "\u00c5lesund"
     ],
     "name:dan_x_preferred":[
@@ -71,8 +80,17 @@
     "name:glg_x_preferred":[
         "Aalesund"
     ],
+    "name:glg_x_variant":[
+        "\u00c5lesund"
+    ],
     "name:heb_x_preferred":[
         "\u05d0\u05dc\u05e1\u05d5\u05e0\u05d3"
+    ],
+    "name:heb_x_variant":[
+        "\u05d0\u05d5\u05dc\u05e1\u05d5\u05e0\u05d3"
+    ],
+    "name:hin_x_preferred":[
+        "\u0906\u0932\u0947\u0938\u0942\u0902\u0921"
     ],
     "name:hrv_x_preferred":[
         "\u00c5lesund"
@@ -113,11 +131,17 @@
     "name:lit_x_preferred":[
         "Olesiundas"
     ],
+    "name:ltz_x_preferred":[
+        "\u00c5lesund"
+    ],
     "name:mkd_x_preferred":[
         "\u041e\u043b\u0435\u0441\u0443\u043d\u0434"
     ],
     "name:msa_x_preferred":[
         "\u00c5lesund"
+    ],
+    "name:mya_x_preferred":[
+        "\u1021\u1031\u102c\u103a\u101c\u103a\u1006\u1014\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:nan_x_preferred":[
         "\u00c5lesund"
@@ -139,6 +163,9 @@
     ],
     "name:oss_x_preferred":[
         "\u041e\u043b\u0435\u0441\u0443\u043d\u043d"
+    ],
+    "name:pms_x_preferred":[
+        "\u00c5lesund"
     ],
     "name:pol_x_preferred":[
         "\u00c5lesund"
@@ -179,7 +206,16 @@
     "name:swe_x_preferred":[
         "\u00c5lesund"
     ],
+    "name:szl_x_preferred":[
+        "\u00c5lesund"
+    ],
+    "name:tat_x_preferred":[
+        "\u041e\u043b\u0435\u0441\u0443\u043d\u043d"
+    ],
     "name:tum_x_preferred":[
+        "\u00c5lesund"
+    ],
+    "name:tur_x_preferred":[
         "\u00c5lesund"
     ],
     "name:ukr_x_preferred":[
@@ -313,7 +349,7 @@
         }
     ],
     "wof:id":1141907101,
-    "wof:lastmodified":1561769682,
+    "wof:lastmodified":1563574182,
     "wof:name":"Alesund",
     "wof:parent_id":1159296865,
     "wof:placetype":"locality",

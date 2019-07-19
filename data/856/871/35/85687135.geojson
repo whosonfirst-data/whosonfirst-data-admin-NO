@@ -30,8 +30,14 @@
     "name:ara_x_preferred":[
         "\u0646\u0648\u0631\u062f\u0644\u0627\u0646\u062f"
     ],
+    "name:ara_x_variant":[
+        "\u0646\u0648\u0631\u0644\u0627\u0646"
+    ],
     "name:ast_x_preferred":[
         "Nordland"
+    ],
+    "name:azb_x_preferred":[
+        "\u0646\u0648\u0631\u062f\u0644\u0627\u0646\u062f"
     ],
     "name:bel_x_preferred":[
         "\u041d\u0443\u0440\u043b\u0430\u043d"
@@ -57,6 +63,9 @@
     "name:cat_x_preferred":[
         "Nordland"
     ],
+    "name:ceb_x_preferred":[
+        "Nordland Fylke"
+    ],
     "name:ces_x_preferred":[
         "Nordland"
     ],
@@ -81,6 +90,9 @@
     "name:epo_x_preferred":[
         "Nordland"
     ],
+    "name:epo_x_variant":[
+        "Nordlando"
+    ],
     "name:est_x_preferred":[
         "Nordland"
     ],
@@ -103,11 +115,17 @@
         "Nordland",
         "comt\u00e9 de Nordland"
     ],
+    "name:gsw_x_preferred":[
+        "Nordland"
+    ],
     "name:guj_x_preferred":[
         "\u0aa8\u0acb\u0ab0\u0acd\u0aa1\u0ab2\u0ac7\u0aa8\u0acd\u0aa1"
     ],
     "name:hbs_x_preferred":[
         "Nordland"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05e8\u05d3\u05dc\u05e0\u05d3"
     ],
     "name:hin_x_preferred":[
         "\u0928\u094b\u0930\u094d\u0921\u0932\u0948\u0902\u0921"
@@ -141,6 +159,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub178\ub97c\ub780 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub178\ub97c\ub780\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Nordland"
@@ -240,6 +261,9 @@
     ],
     "name:swe_x_preferred":[
         "Nordland fylke"
+    ],
+    "name:swe_x_variant":[
+        "Nordland"
     ],
     "name:tam_x_preferred":[
         "Nordland"
@@ -391,7 +415,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1561769542,
+    "wof:lastmodified":1563571680,
     "wof:name":"Nordland",
     "wof:parent_id":-1,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000144,
-    "geom:area_square_m":845020.982251,
+    "geom:area_square_m":845020.982252,
     "geom:bbox":"5.26983219727,61.7637477523,5.30103909349,61.7780617771",
     "geom:latitude":61.771455,
     "geom:longitude":5.287862,
@@ -17,10 +17,22 @@
     "mps:longitude":5.288098,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Svelgen"
+    ],
     "name:dan_x_preferred":[
         "Svelgen"
     ],
+    "name:eng_x_preferred":[
+        "Svelgen"
+    ],
     "name:fin_x_preferred":[
+        "Svelgen"
+    ],
+    "name:fra_x_preferred":[
+        "Svelgen"
+    ],
+    "name:ita_x_preferred":[
         "Svelgen"
     ],
     "name:msa_x_preferred":[
@@ -32,6 +44,9 @@
     "name:nno_x_preferred":[
         "Svelgen"
     ],
+    "name:nob_x_preferred":[
+        "Svelgen"
+    ],
     "name:nor_x_preferred":[
         "Svelgen"
     ],
@@ -41,8 +56,14 @@
     "name:ron_x_preferred":[
         "Svelgen"
     ],
+    "name:spa_x_preferred":[
+        "Svelgen"
+    ],
     "name:swe_x_preferred":[
         "Svelgen"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u7279\u6797"
     ],
     "qs:a0":"Norge",
     "qs:a1":"*Sogn og Fjordane",
@@ -94,7 +115,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529699931,
+    "wof:lastmodified":1563572663,
     "wof:name":"Svelgen",
     "wof:parent_id":1159297195,
     "wof:placetype":"locality",

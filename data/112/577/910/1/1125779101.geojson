@@ -18,6 +18,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u064a\u0627\u0631"
+    ],
+    "name:ceb_x_preferred":[
+        "Jar"
+    ],
     "name:dan_x_preferred":[
         "Jar"
     ],
@@ -59,6 +65,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062c\u0627\u0631\u060c \u0646\u0627\u0631\u0648\u06d2"
+    ],
+    "name:urd_x_variant":[
+        "\u062c\u0627\u0631"
     ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":"NO",
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":1125779101,
-    "wof:lastmodified":1561769637,
+    "wof:lastmodified":1563573439,
     "wof:name":"Jar",
     "wof:parent_id":1159297009,
     "wof:placetype":"locality",

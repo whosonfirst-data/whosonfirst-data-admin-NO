@@ -22,8 +22,20 @@
     "name:ara_x_preferred":[
         "\u0641\u0631\u064a\u062f\u0631\u064a\u0643\u0634\u062a\u0627\u062f"
     ],
+    "name:ara_x_variant":[
+        "\u0641\u0631\u064a\u062f\u0631\u064a\u0643\u0633\u062a\u0627\u062f"
+    ],
+    "name:ast_x_preferred":[
+        "Fredrikstad"
+    ],
+    "name:azb_x_preferred":[
+        "\u0641\u0631\u062f\u0631\u06cc\u06a9\u0633\u062a\u0627\u062f"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0424\u0440\u044d\u0434\u0440\u044b\u043a\u0441\u0442\u0430\u0434"
+    ],
+    "name:bel_x_variant":[
+        "\u0424\u0440\u044d\u0434\u0440\u044b\u043a\u0441\u0442\u0430\u0434"
     ],
     "name:bpy_x_preferred":[
         "\u09ab\u09cd\u09b0\u09c7\u09a1\u09bf\u0995\u09b8\u09cd\u099f\u09c7\u09a1"
@@ -34,11 +46,17 @@
     "name:cat_x_preferred":[
         "Fredrikstad"
     ],
+    "name:ceb_x_preferred":[
+        "Fredrikstad"
+    ],
     "name:ces_x_preferred":[
         "Fredrikstad"
     ],
     "name:che_x_preferred":[
         "\u0424\u0440\u0435\u0434\u0440\u0438\u043a\u0441\u0442\u0430\u0434"
+    ],
+    "name:cym_x_preferred":[
+        "Fredrikstad"
     ],
     "name:dan_x_preferred":[
         "Fredrikstad"
@@ -82,6 +100,9 @@
     "name:hye_x_preferred":[
         "\u0556\u0580\u0565\u0564\u0580\u056b\u056f\u057d\u057f\u0561\u0564"
     ],
+    "name:ido_x_preferred":[
+        "Fredrikstad"
+    ],
     "name:ind_x_preferred":[
         "Fredrikstad"
     ],
@@ -105,6 +126,9 @@
     ],
     "name:lat_x_preferred":[
         "Fredrikstad"
+    ],
+    "name:lav_x_preferred":[
+        "Fredrikstada"
     ],
     "name:lim_x_preferred":[
         "Fredrikstad"
@@ -181,8 +205,20 @@
     "name:swe_x_preferred":[
         "Fredrikstad"
     ],
+    "name:swe_x_variant":[
+        "Fredrikstads kommun"
+    ],
+    "name:tat_x_preferred":[
+        "\u0424\u0440\u0435\u0434\u0440\u0438\u043a\u0441\u0442\u0430\u0434"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e1f\u0e23\u0e14\u0e23\u0e34\u0e01\u0e2a\u0e15\u0e31\u0e14"
+    ],
     "name:tum_x_preferred":[
         "Fredrikstad/Sarpsborg"
+    ],
+    "name:tur_x_preferred":[
+        "Fredrikstad"
     ],
     "name:ukr_x_preferred":[
         "\u0424\u0440\u0435\u0434\u0440\u0456\u043a\u0441\u0442\u0430\u0434"
@@ -255,7 +291,7 @@
         }
     ],
     "wof:id":1125851043,
-    "wof:lastmodified":1561769631,
+    "wof:lastmodified":1563573356,
     "wof:name":"Fredrikstad",
     "wof:parent_id":1159297385,
     "wof:placetype":"locality",

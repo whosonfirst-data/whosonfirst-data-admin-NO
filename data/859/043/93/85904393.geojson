@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":565977.695709,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.403324,63.427605,10.403324,63.427605",
     "geom:latitude":63.427605,
     "geom:longitude":10.403324,
@@ -25,6 +25,12 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:dan_x_preferred":[
+        "Bakklandet"
+    ],
+    "name:eng_x_preferred":[
+        "Bakklandet"
+    ],
+    "name:nob_x_preferred":[
         "Bakklandet"
     ],
     "name:nor_x_preferred":[
@@ -62,9 +68,9 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":150,
     "wof:belongsto":[
-        85687127,
         1159297145,
-        101751927
+        101751927,
+        85687127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +95,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531936213,
+    "wof:lastmodified":1563571654,
     "wof:name":"Bakklandet",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",
