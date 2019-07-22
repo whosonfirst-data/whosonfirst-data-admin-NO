@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000379,
-    "geom:area_square_m":2176950.643956,
+    "geom:area_square_m":2176950.643955,
     "geom:bbox":"5.81516394155,62.3323529733,5.86492826841,62.3504922592",
     "geom:latitude":62.343271,
     "geom:longitude":5.844821,
@@ -20,17 +20,32 @@
     "name:bul_x_preferred":[
         "\u0423\u043b\u0441\u0442\u0430\u0439\u043d\u0432\u0438\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Ulsteinvik"
+    ],
     "name:dan_x_preferred":[
         "Ulsteinvik"
     ],
     "name:deu_x_preferred":[
         "Ulsteinvik"
     ],
+    "name:eng_x_preferred":[
+        "Ulsteinvik"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0644\u0633\u062a\u06cc\u0646\u0648\u06cc\u06a9"
+    ],
     "name:fra_x_preferred":[
         "Ulsteinvik"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05dc\u05e1\u05d8\u05e0\u05d5\u05d5\u05d9\u05e7"
+    ],
     "name:ita_x_preferred":[
         "Ulsteinvik"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6b8\uc2a4\ud14c\uc778\ube44\ud06c"
     ],
     "name:lit_x_preferred":[
         "Ulsteinvikas"
@@ -41,17 +56,26 @@
     "name:nno_x_preferred":[
         "Ulsteinvik"
     ],
+    "name:nob_x_preferred":[
+        "Ulsteinvik"
+    ],
     "name:nor_x_preferred":[
         "Ulsteinvik"
     ],
     "name:nor_x_variant":[
         "Ulsteinviks"
     ],
+    "name:pol_x_preferred":[
+        "Ulsteinvik"
+    ],
     "name:ron_x_preferred":[
         "Ulsteinvik"
     ],
     "name:rus_x_preferred":[
         "\u0423\u043b\u044c\u0441\u0442\u0435\u0439\u043d\u0432\u0438\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Ulsteinsvik"
     ],
     "name:srp_x_preferred":[
         "\u0423\u043b\u0441\u0442\u0435\u0458\u043d\u0432\u0438\u043a"
@@ -112,7 +136,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529700090,
+    "wof:lastmodified":1563572652,
     "wof:name":"Ulsteinvik",
     "wof:parent_id":1159297271,
     "wof:placetype":"locality",

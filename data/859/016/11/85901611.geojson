@@ -26,6 +26,15 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":4,
     "mz:tier_metro":1,
+    "name:bar_x_preferred":[
+        "Nordstrand"
+    ],
+    "name:cat_x_preferred":[
+        "Nordstrand"
+    ],
+    "name:ceb_x_preferred":[
+        "Nordstrand District"
+    ],
     "name:dan_x_preferred":[
         "Nordstrand"
     ],
@@ -36,7 +45,7 @@
         "Ekebergveien"
     ],
     "name:eng_x_variant":[
-        "Ekebergveien"
+        "Nordstrand"
     ],
     "name:est_x_preferred":[
         "Nordstrandi linnaosa"
@@ -46,6 +55,9 @@
     ],
     "name:nno_x_preferred":[
         "Nordstrand"
+    ],
+    "name:nob_x_preferred":[
+        "Bydel Nordstrand"
     ],
     "name:nor_x_preferred":[
         "Nordstrand"
@@ -58,6 +70,9 @@
     ],
     "name:swe_x_preferred":[
         "Nordstrand"
+    ],
+    "name:swe_x_variant":[
+        "Roms\u00e5s"
     ],
     "name:unk_x_variant":[
         "Nordstrand"
@@ -127,7 +142,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1536864511,
+    "wof:lastmodified":1563571639,
     "wof:name":"Nordstrand",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

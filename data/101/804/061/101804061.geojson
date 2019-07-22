@@ -17,6 +17,12 @@
     "mps:longitude":6.083539,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Volda"
+    ],
+    "name:bar_x_preferred":[
+        "Volda"
+    ],
     "name:bpy_x_preferred":[
         "\u09ad\u09cb\u09b2\u09a1\u09be"
     ],
@@ -26,15 +32,24 @@
     "name:cat_x_preferred":[
         "Volda"
     ],
+    "name:ceb_x_preferred":[
+        "Volda"
+    ],
     "name:dan_x_preferred":[
         "Volda"
     ],
     "name:deu_x_preferred":[
         "Volda"
     ],
+    "name:eng_x_preferred":[
+        "Volda"
+    ],
     "name:eng_x_variant":[
         "Hallkjellsvik",
         "Hallkjelsvik"
+    ],
+    "name:epo_x_preferred":[
+        "Volda"
     ],
     "name:eus_x_preferred":[
         "Volda"
@@ -54,6 +69,9 @@
     "name:jav_x_preferred":[
         "Volda"
     ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a9\u30eb\u30c0"
+    ],
     "name:lat_x_preferred":[
         "Volda"
     ],
@@ -61,6 +79,9 @@
         "Volda"
     ],
     "name:msa_x_preferred":[
+        "Volda"
+    ],
+    "name:nan_x_preferred":[
         "Volda"
     ],
     "name:nds_x_preferred":[
@@ -73,6 +94,9 @@
         "Volda kommune"
     ],
     "name:nno_x_variant":[
+        "Volda"
+    ],
+    "name:nob_x_preferred":[
         "Volda"
     ],
     "name:nor_x_preferred":[
@@ -106,8 +130,14 @@
     "name:sqi_x_preferred":[
         "Volda"
     ],
+    "name:swa_x_preferred":[
+        "Volda"
+    ],
     "name:swe_x_preferred":[
         "Volda kommun"
+    ],
+    "name:swe_x_variant":[
+        "Volda"
     ],
     "name:unk_x_variant":[
         "Hallkjelsvik"
@@ -174,7 +204,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529700087,
+    "wof:lastmodified":1563572665,
     "wof:name":"Volda",
     "wof:parent_id":1159297487,
     "wof:placetype":"locality",

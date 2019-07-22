@@ -16,10 +16,16 @@
     "mps:longitude":10.250063,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Revetal"
+    ],
     "name:eng_x_preferred":[
         "Revetal"
     ],
     "name:fra_x_preferred":[
+        "Revetal"
+    ],
+    "name:ita_x_preferred":[
         "Revetal"
     ],
     "name:msa_x_preferred":[
@@ -39,6 +45,9 @@
     ],
     "name:ron_x_preferred":[
         "Revetal"
+    ],
+    "name:spa_x_preferred":[
+        "Revetal/Bergs\u00e5sen"
     ],
     "qs:a0":"Norge",
     "qs:a1":"*Vestfold",
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":101803791,
-    "wof:lastmodified":1561769588,
+    "wof:lastmodified":1563572678,
     "wof:name":"Revetal/Bergs\u00e5sen",
     "wof:parent_id":1159296901,
     "wof:placetype":"locality",

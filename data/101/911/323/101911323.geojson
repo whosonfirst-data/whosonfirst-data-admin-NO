@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000126,
+    "geom:area_square_m":546031.479519,
     "geom:bbox":"20.1728553796,69.4850232622,20.20240919,69.4938854006",
     "geom:latitude":69.490125,
     "geom:longitude":20.189855,
@@ -20,6 +21,9 @@
     ],
     "name:ara_x_preferred":[
         "\u062d\u0628\u0648\u0628 \u0627\u0644\u0644\u0642\u0627\u062d"
+    ],
+    "name:ast_x_preferred":[
+        "Polen"
     ],
     "name:aze_x_preferred":[
         "\u00c7i\u00e7\u0259k tozu"
@@ -39,8 +43,14 @@
     "name:cat_x_preferred":[
         "Pol\u00b7len"
     ],
+    "name:cat_x_variant":[
+        "pol\u00b7len"
+    ],
     "name:ces_x_preferred":[
         "Pyl"
+    ],
+    "name:ces_x_variant":[
+        "pyl"
     ],
     "name:chv_x_preferred":[
         "\u0428\u0103\u0440\u043a\u0430"
@@ -57,8 +67,14 @@
     "name:ell_x_preferred":[
         "\u0393\u03cd\u03c1\u03b7"
     ],
+    "name:eng_x_preferred":[
+        "pollen"
+    ],
     "name:epo_x_preferred":[
         "Poleno"
+    ],
+    "name:epo_x_variant":[
+        "poleno"
     ],
     "name:est_x_preferred":[
         "\u00d5ietolm"
@@ -75,6 +91,9 @@
     "name:fra_x_preferred":[
         "Pollen"
     ],
+    "name:fra_x_variant":[
+        "pollen"
+    ],
     "name:gla_x_preferred":[
         "Poilean"
     ],
@@ -83,6 +102,9 @@
     ],
     "name:glg_x_preferred":[
         "Pole"
+    ],
+    "name:glk_x_preferred":[
+        "\u06af\u064e\u0631\u062f\u0647"
     ],
     "name:hbs_x_preferred":[
         "Pelud"
@@ -99,6 +121,9 @@
     "name:hun_x_preferred":[
         "Vir\u00e1gpor"
     ],
+    "name:hun_x_variant":[
+        "vir\u00e1gpor"
+    ],
     "name:hye_x_preferred":[
         "\u053e\u0561\u0572\u056f\u0561\u0583\u0578\u0577\u056b"
     ],
@@ -111,11 +136,17 @@
     "name:ind_x_preferred":[
         "Serbuk sari"
     ],
+    "name:ind_x_variant":[
+        "serbuk sari"
+    ],
     "name:isl_x_preferred":[
         "Frj\u00f3duft"
     ],
     "name:ita_x_preferred":[
         "Polline"
+    ],
+    "name:ita_x_variant":[
+        "polline"
     ],
     "name:jpn_x_preferred":[
         "\u82b1\u7c89"
@@ -126,8 +157,14 @@
     "name:kor_x_preferred":[
         "\uaf43\uac00\ub8e8"
     ],
+    "name:kur_x_preferred":[
+        "polen"
+    ],
     "name:lat_x_preferred":[
         "Pollen"
+    ],
+    "name:lat_x_variant":[
+        "pollen"
     ],
     "name:lav_x_preferred":[
         "Putek\u0161\u0146i"
@@ -135,14 +172,29 @@
     "name:lit_x_preferred":[
         "\u017diedadulk\u0117"
     ],
+    "name:mal_x_preferred":[
+        "\u0d2a\u0d30\u0d3e\u0d17\u0d02"
+    ],
     "name:mkd_x_preferred":[
         "\u041f\u043e\u043b\u0435\u043d"
     ],
     "name:msa_x_preferred":[
         "Debunga"
     ],
+    "name:nds_x_preferred":[
+        "Pollen"
+    ],
     "name:nld_x_preferred":[
         "Stuifmeel"
+    ],
+    "name:nld_x_variant":[
+        "stuifmeel"
+    ],
+    "name:nno_x_preferred":[
+        "Pollen"
+    ],
+    "name:nob_x_preferred":[
+        "pollen"
     ],
     "name:nor_x_preferred":[
         "Pollen"
@@ -159,6 +211,9 @@
     "name:por_x_preferred":[
         "P\u00f3len"
     ],
+    "name:por_x_variant":[
+        "p\u00f3len"
+    ],
     "name:que_x_preferred":[
         "Sisa"
     ],
@@ -174,11 +229,20 @@
     "name:sco_x_preferred":[
         "Pollen"
     ],
+    "name:sco_x_variant":[
+        "pollen"
+    ],
+    "name:slk_x_preferred":[
+        "V\u010del\u00ed pe\u013e"
+    ],
     "name:slv_x_preferred":[
         "Pelod"
     ],
     "name:spa_x_preferred":[
         "Polen"
+    ],
+    "name:spa_x_variant":[
+        "polen"
     ],
     "name:srp_x_preferred":[
         "\u041f\u043e\u043b\u0435\u043d"
@@ -207,11 +271,20 @@
     "name:tur_x_preferred":[
         "Polen"
     ],
+    "name:tur_x_variant":[
+        "polen"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0438\u043b\u043e\u043a"
     ],
+    "name:uzb_x_preferred":[
+        "Chang donachalari"
+    ],
     "name:vie_x_preferred":[
         "Ph\u1ea5n hoa"
+    ],
+    "name:wuu_x_preferred":[
+        "\u82b1\u7c89"
     ],
     "name:zho_x_preferred":[
         "\u82b1\u7c89"
@@ -259,7 +332,7 @@
         }
     ],
     "wof:id":101911323,
-    "wof:lastmodified":1529700444,
+    "wof:lastmodified":1563572852,
     "wof:name":"Pollen",
     "wof:parent_id":1159297359,
     "wof:placetype":"locality",

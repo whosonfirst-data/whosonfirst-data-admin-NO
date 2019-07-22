@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00023,
-    "geom:area_square_m":1502278.94853,
+    "geom:area_square_m":1502278.948531,
     "geom:bbox":"6.68032393924,58.0888811936,6.71527412899,58.1037485751",
     "geom:latitude":58.096974,
     "geom:longitude":6.696178,
@@ -17,7 +17,19 @@
     "mps:longitude":6.696178,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vanse"
+    ],
+    "name:dan_x_preferred":[
+        "Vanse"
+    ],
     "name:deu_x_preferred":[
+        "Vanse"
+    ],
+    "name:eng_x_preferred":[
+        "Vanse"
+    ],
+    "name:fra_x_preferred":[
         "Vanse"
     ],
     "name:msa_x_preferred":[
@@ -29,6 +41,9 @@
     "name:nno_x_preferred":[
         "Vanse"
     ],
+    "name:nob_x_preferred":[
+        "Vanse"
+    ],
     "name:nor_x_preferred":[
         "Vanse"
     ],
@@ -37,6 +52,9 @@
         "Vanses"
     ],
     "name:ron_x_preferred":[
+        "Vanse"
+    ],
+    "name:spa_x_preferred":[
         "Vanse"
     ],
     "name:unk_x_variant":[
@@ -92,7 +110,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529700465,
+    "wof:lastmodified":1563572733,
     "wof:name":"Vanse",
     "wof:parent_id":1159297123,
     "wof:placetype":"locality",

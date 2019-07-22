@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6040097.958885,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.39876,63.440996,10.39876,63.440996",
     "geom:latitude":63.440996,
     "geom:longitude":10.39876,
@@ -24,7 +24,16 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "Bratt\u00f8ra"
+    ],
     "name:dan_x_preferred":[
+        "Bratt\u00f8ra"
+    ],
+    "name:eng_x_preferred":[
+        "Bratt\u00f8ra"
+    ],
+    "name:nob_x_preferred":[
         "Bratt\u00f8ra"
     ],
     "name:nor_x_preferred":[
@@ -63,9 +72,9 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":195,
     "wof:belongsto":[
-        85687127,
         1159297145,
-        101751927
+        101751927,
+        85687127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +99,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531936216,
+    "wof:lastmodified":1563571649,
     "wof:name":"Brattora",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u041b\u0438\u043b\u0435\u0441\u0442\u0440\u044c\u043e\u043c"
     ],
+    "name:ceb_x_preferred":[
+        "Lillestr\u00f8m"
+    ],
     "name:ces_x_preferred":[
         "Lillestr\u00f8m"
     ],
@@ -37,11 +40,17 @@
     "name:ell_x_preferred":[
         "\u039b\u03af\u03bb\u03b5\u03c3\u03c4\u03c1\u03b5\u03bc"
     ],
+    "name:ell_x_variant":[
+        "\u039b\u03af\u03bb\u03b5\u03c3\u03c4\u03c1o\u03bc"
+    ],
     "name:eng_x_preferred":[
         "Lillestr\u00f8m"
     ],
     "name:est_x_preferred":[
         "Lillestr\u00f8m"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0644\u0633\u062a\u0631\u0648\u0645"
     ],
     "name:fin_x_preferred":[
         "Lillestr\u00f8m"
@@ -57,6 +66,9 @@
     ],
     "name:ile_x_preferred":[
         "Lillestr\u00f8m"
+    ],
+    "name:isl_x_preferred":[
+        "Lillestr\u00f6m"
     ],
     "name:ita_x_preferred":[
         "Lillestr\u00f8m"
@@ -165,7 +177,7 @@
         }
     ],
     "wof:id":1125888207,
-    "wof:lastmodified":1561769614,
+    "wof:lastmodified":1563573092,
     "wof:name":"Lillestr\u00f8m",
     "wof:parent_id":1159297495,
     "wof:placetype":"locality",

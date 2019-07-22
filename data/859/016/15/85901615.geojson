@@ -29,6 +29,12 @@
     "name:dan_x_preferred":[
         "\u00d8kern Station"
     ],
+    "name:eng_x_preferred":[
+        "\u00d8kern"
+    ],
+    "name:nob_x_preferred":[
+        "\u00d8kern stasjon"
+    ],
     "name:nor_x_colloquial":[
         "Oekern",
         "Okern"
@@ -38,6 +44,12 @@
     ],
     "name:nor_x_variant":[
         "\u00d8kern stasjon"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043a\u0435\u0440\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043a\u0435\u0440\u043d"
     ],
     "name:unk_x_variant":[
         "\u00d8kern"
@@ -102,7 +114,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1536864511,
+    "wof:lastmodified":1563571644,
     "wof:name":"\u00d8kern",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

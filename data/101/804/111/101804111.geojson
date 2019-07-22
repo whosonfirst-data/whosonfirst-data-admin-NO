@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000244,
-    "geom:area_square_m":1391595.701737,
+    "geom:area_square_m":1391595.70174,
     "geom:bbox":"6.66928435192,62.4980596986,6.73210982178,62.5091696186",
     "geom:latitude":62.503662,
     "geom:longitude":6.697654,
@@ -17,16 +17,28 @@
     "mps:longitude":6.684565,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Skodje"
+    ],
     "name:bpy_x_preferred":[
         "\u09b8\u09cd\u0995\u09cb\u09a1\u099c\u09c7"
     ],
     "name:cat_x_preferred":[
         "Skodje"
     ],
+    "name:ceb_x_preferred":[
+        "Skodje"
+    ],
     "name:dan_x_preferred":[
         "Skodje"
     ],
     "name:deu_x_preferred":[
+        "Skodje"
+    ],
+    "name:eng_x_preferred":[
+        "Skodje"
+    ],
+    "name:epo_x_preferred":[
         "Skodje"
     ],
     "name:eus_x_preferred":[
@@ -56,6 +68,9 @@
     "name:msa_x_preferred":[
         "Skodje"
     ],
+    "name:nan_x_preferred":[
+        "Skodje"
+    ],
     "name:nds_x_preferred":[
         "Kommun Skodje"
     ],
@@ -65,11 +80,20 @@
     "name:nno_x_preferred":[
         "Skodje kommune"
     ],
+    "name:nno_x_variant":[
+        "Skodje"
+    ],
+    "name:nob_x_preferred":[
+        "Skodje"
+    ],
     "name:nor_x_preferred":[
         "Skodje"
     ],
     "name:nor_x_variant":[
         "Skodjes"
+    ],
+    "name:oci_x_preferred":[
+        "Skodje"
     ],
     "name:pol_x_preferred":[
         "Skodje"
@@ -89,11 +113,20 @@
     "name:sme_x_preferred":[
         "Skodje"
     ],
+    "name:spa_x_preferred":[
+        "Skodje"
+    ],
     "name:sqi_x_preferred":[
+        "Skodje"
+    ],
+    "name:swa_x_preferred":[
         "Skodje"
     ],
     "name:swe_x_preferred":[
         "Skodje kommun"
+    ],
+    "name:swe_x_variant":[
+        "Skodje"
     ],
     "name:vie_x_preferred":[
         "Skodje"
@@ -156,7 +189,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529700089,
+    "wof:lastmodified":1563572651,
     "wof:name":"Skodje",
     "wof:parent_id":1159297019,
     "wof:placetype":"locality",

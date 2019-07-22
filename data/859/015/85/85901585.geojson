@@ -25,7 +25,13 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
     "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Kjels\u00e5s"
+    ],
     "name:nno_x_preferred":[
+        "Kjels\u00e5s"
+    ],
+    "name:nob_x_preferred":[
         "Kjels\u00e5s"
     ],
     "name:nor_x_colloquial":[
@@ -37,6 +43,9 @@
     ],
     "name:nor_x_variant":[
         "Grefsen-kjels\u00e5s",
+        "Kjels\u00e5s"
+    ],
+    "name:swe_x_preferred":[
         "Kjels\u00e5s"
     ],
     "name:unk_x_variant":[
@@ -99,7 +108,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1536864510,
+    "wof:lastmodified":1563571624,
     "wof:name":"Kjels\u00e5s",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":940743.609984,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.316386,60.400375,5.316386,60.400375",
     "geom:latitude":60.400375,
     "geom:longitude":5.316386,
@@ -24,6 +24,27 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:deu_x_preferred":[
+        "Bergenhus"
+    ],
+    "name:eng_x_preferred":[
+        "Bergenhus"
+    ],
+    "name:fra_x_preferred":[
+        "Bergenhus"
+    ],
+    "name:nds_x_preferred":[
+        "Bergenhus"
+    ],
+    "name:nld_x_preferred":[
+        "Bergenhus"
+    ],
+    "name:nno_x_preferred":[
+        "Bergenhus"
+    ],
+    "name:nob_x_preferred":[
+        "Bergenhus"
+    ],
     "name:nor_x_preferred":[
         "Bergenhus"
     ],
@@ -61,11 +82,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":501,
     "wof:belongsto":[
-        85687099,
         102191581,
         1159297617,
         85633341,
-        101751923
+        101751923,
+        85687099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +111,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531870548,
+    "wof:lastmodified":1563571695,
     "wof:name":"Bergenhus",
     "wof:parent_id":101751923,
     "wof:placetype":"neighbourhood",

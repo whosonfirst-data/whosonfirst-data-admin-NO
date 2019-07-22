@@ -18,6 +18,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.1,
+    "name:ara_x_preferred":[
+        "\u0633\u062a\u0627\u064a\u0646\u0634\u0627\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Steinkjer"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0442\u044d\u0439\u043d\u0445'\u0435\u0440"
     ],
@@ -33,7 +39,13 @@
     "name:cat_x_preferred":[
         "Steinkjer"
     ],
+    "name:ceb_x_preferred":[
+        "Steinkjer"
+    ],
     "name:ces_x_preferred":[
+        "Steinkjer"
+    ],
+    "name:cym_x_preferred":[
         "Steinkjer"
     ],
     "name:dan_x_preferred":[
@@ -42,8 +54,20 @@
     "name:deu_x_preferred":[
         "Steinkjer"
     ],
+    "name:eng_x_preferred":[
+        "Steinkjer"
+    ],
+    "name:epo_x_preferred":[
+        "Steinkjer"
+    ],
+    "name:est_x_preferred":[
+        "Steinkjer"
+    ],
     "name:eus_x_preferred":[
         "Steinkjer"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u06cc\u0646\u06a9\u06cc\u0631"
     ],
     "name:fin_x_preferred":[
         "Steinkjer"
@@ -54,11 +78,17 @@
     "name:glg_x_preferred":[
         "Steinkjer"
     ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d8\u05d9\u05d9\u05e0\u05e7\u05d9\u05d9\u05e8"
+    ],
     "name:hrv_x_preferred":[
         "Steinkjer"
     ],
     "name:hun_x_preferred":[
         "Steinkjer"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0569\u0565\u0575\u0576\u0570\u0575\u0565\u0580"
     ],
     "name:ind_x_preferred":[
         "Steinkjer"
@@ -87,7 +117,13 @@
     "name:lit_x_preferred":[
         "Steincheris"
     ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0442\u0435\u0458\u043d\u0445\u0435\u0440"
+    ],
     "name:msa_x_preferred":[
+        "Steinkjer"
+    ],
+    "name:nan_x_preferred":[
         "Steinkjer"
     ],
     "name:nds_x_preferred":[
@@ -99,12 +135,21 @@
     "name:nno_x_preferred":[
         "Steinkjer kommune"
     ],
+    "name:nno_x_variant":[
+        "Steinkjer"
+    ],
+    "name:nob_x_preferred":[
+        "Steinkjer"
+    ],
     "name:nor_x_preferred":[
         "Steinkjer"
     ],
     "name:nor_x_variant":[
         "Steinkjers",
         "Stenkjaer"
+    ],
+    "name:oci_x_preferred":[
+        "Steinkjer"
     ],
     "name:oss_x_preferred":[
         "\u0421\u0442\u0435\u0439\u043d\u0445\u044c\u0435\u0440"
@@ -127,8 +172,17 @@
     "name:rus_x_preferred":[
         "\u0421\u0442\u0435\u0439\u043d\u0445\u044c\u0435\u0440"
     ],
+    "name:sco_x_preferred":[
+        "Steinkjer"
+    ],
+    "name:sgs_x_preferred":[
+        "St\u0117incher\u0117s"
+    ],
     "name:slv_x_preferred":[
         "Steinkjer"
+    ],
+    "name:sma_x_preferred":[
+        "Stientjie"
     ],
     "name:sme_x_preferred":[
         "Stientjie"
@@ -147,6 +201,12 @@
     ],
     "name:swe_x_preferred":[
         "Steinkjers kommun"
+    ],
+    "name:swe_x_variant":[
+        "Steinkjer"
+    ],
+    "name:tur_x_preferred":[
+        "Steinkjer"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0435\u0439\u043d\u0433'\u0454\u0440"
@@ -310,7 +370,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529700202,
+    "wof:lastmodified":1563572815,
     "wof:name":"Steinkjer",
     "wof:parent_id":1159296907,
     "wof:placetype":"locality",

@@ -57,6 +57,9 @@
     "name:eng_x_preferred":[
         "\u00c5len"
     ],
+    "name:eng_x_variant":[
+        "\u00c5len municipality"
+    ],
     "name:epo_x_preferred":[
         "\u00c5len"
     ],
@@ -161,6 +164,9 @@
     ],
     "name:nob_x_preferred":[
         "\u00c5len"
+    ],
+    "name:nob_x_variant":[
+        "\u00c5len kommune"
     ],
     "name:nrm_x_preferred":[
         "\u00c5len"
@@ -294,7 +300,7 @@
         }
     ],
     "wof:id":1125891525,
-    "wof:lastmodified":1561769615,
+    "wof:lastmodified":1563573117,
     "wof:name":"\u00c5len",
     "wof:parent_id":1159296983,
     "wof:placetype":"locality",

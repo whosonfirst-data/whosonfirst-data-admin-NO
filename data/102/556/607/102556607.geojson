@@ -12,13 +12,34 @@
     "iso:country":"NO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Sandane / Anda"
+    ],
     "name:dan_x_preferred":[
         "Sandane Lufthavn"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Sandane"
+    ],
+    "name:eng_x_preferred":[
+        "Sandane Airport"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0646\u062f\u0627 \u0633\u0646\u062f\u0646"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30c0\u30cd\u7a7a\u6e2f"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Anda"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Sandane Anda"
+    ],
     "name:nno_x_preferred":[
+        "Sandane lufthamn"
+    ],
+    "name:nob_x_preferred":[
         "Sandane lufthamn"
     ],
     "name:nor_x_preferred":[
@@ -26,6 +47,9 @@
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Sandane"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Sandane"
     ],
     "name:swe_x_preferred":[
         "Sandane flygplats"
@@ -35,6 +59,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Sandane"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u58c7\u62ff\u664f\u6253\u6a5f\u5834"
     ],
     "oa:elevation_ft":"196",
     "oa:type":"small_airport",
@@ -69,7 +96,7 @@
         }
     ],
     "wof:id":102556607,
-    "wof:lastmodified":1543792155,
+    "wof:lastmodified":1563571427,
     "wof:name":"Sandane lufthamn Anda",
     "wof:parent_id":85687113,
     "wof:placetype":"campus",

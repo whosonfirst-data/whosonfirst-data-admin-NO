@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":23718626.409908,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.659203,59.124761,9.659203,59.124761",
     "geom:latitude":59.124761,
     "geom:longitude":9.659203,
@@ -37,14 +37,26 @@
     "name:deu_x_preferred":[
         "Folkwang"
     ],
+    "name:eng_x_preferred":[
+        "F\u00f3lkvangr"
+    ],
+    "name:epo_x_preferred":[
+        "Fulkvangro"
+    ],
     "name:fra_x_preferred":[
         "F\u00f3lkvangr"
     ],
     "name:glg_x_preferred":[
         "F\u00f3lkvangr"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05dc\u05e7\u05d5\u05d5\u05d0\u05e0\u05d2"
+    ],
     "name:hun_x_preferred":[
         "Folkvang"
+    ],
+    "name:ita_x_preferred":[
+        "F\u00f3lkvangr"
     ],
     "name:jpn_x_preferred":[
         "\u30d5\u30a9\u30fc\u30eb\u30af\u30f4\u30a1\u30f3\u30b0"
@@ -52,14 +64,44 @@
     "name:kor_x_preferred":[
         "\ud3f4\ud06c\ubc29"
     ],
+    "name:nld_x_preferred":[
+        "Folkvangr"
+    ],
+    "name:nno_x_preferred":[
+        "Folkvang"
+    ],
+    "name:nob_x_preferred":[
+        "Folkvang"
+    ],
     "name:nor_x_preferred":[
         "Folkvang"
+    ],
+    "name:pol_x_preferred":[
+        "Folkvang"
+    ],
+    "name:por_x_preferred":[
+        "Folkvang"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u043e\u043b\u044c\u043a\u0432\u0430\u043d\u0433"
     ],
     "name:spa_x_preferred":[
         "F\u00f3lkvangr"
     ],
+    "name:swe_x_preferred":[
+        "Folkvang"
+    ],
+    "name:tur_x_preferred":[
+        "F\u00f3lkvangr"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u043e\u043b\u044c\u043a\u0432\u0430\u043d\u0491"
+    ],
     "name:unk_x_variant":[
         "Folkvang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f17\u723e\u514b\u8303\u683c"
     ],
     "qs:gn_adm0_cc":"NO",
     "qs:gn_fcode":"PPLX",
@@ -93,11 +135,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":1090,
     "wof:belongsto":[
-        85687091,
         102191581,
         1159296755,
         85633341,
-        101751919
+        101751919,
+        85687091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -123,7 +165,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531932533,
+    "wof:lastmodified":1563571619,
     "wof:name":"Folkvang",
     "wof:parent_id":101751919,
     "wof:placetype":"neighbourhood",

@@ -25,8 +25,14 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
     "mz:tier_metro":1,
+    "name:aze_x_preferred":[
+        "Dal"
+    ],
     "name:ben_x_preferred":[
         "\u09a1\u09be\u09b2"
+    ],
+    "name:bho_x_preferred":[
+        "\u0926\u093e\u0932"
     ],
     "name:dan_x_preferred":[
         "Dhal"
@@ -36,6 +42,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a6\u03ac\u03b2\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Dal"
     ],
     "name:epo_x_preferred":[
         "Dal"
@@ -64,8 +73,14 @@
     "name:kan_x_preferred":[
         "\u0ca4\u0cca\u0cb5\u0ccd\u0cb5\u0cc6"
     ],
+    "name:kor_x_preferred":[
+        "\ub2ec"
+    ],
     "name:lit_x_preferred":[
         "Dal"
+    ],
+    "name:mai_x_preferred":[
+        "\u0926\u093e\u0932"
     ],
     "name:mal_x_preferred":[
         "\u0d2a\u0d30\u0d3f\u0d2a\u0d4d\u0d2a\u0d41\u0d15\u0d31\u0d3f"
@@ -76,6 +91,9 @@
     "name:nld_x_preferred":[
         "Dal"
     ],
+    "name:nob_x_preferred":[
+        "Dhal"
+    ],
     "name:nor_x_preferred":[
         "Sondredal"
     ],
@@ -84,6 +102,9 @@
     ],
     "name:ori_x_preferred":[
         "\u0b21\u0b3e\u0b32\u0b3f"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a26\u0a3e\u0a32"
     ],
     "name:pol_x_preferred":[
         "Dal"
@@ -97,6 +118,9 @@
     "name:rus_x_preferred":[
         "\u0414\u0430\u043b"
     ],
+    "name:sat_x_preferred":[
+        "\u1c6b\u1c5f\u1c79\u1c5e"
+    ],
     "name:sin_x_preferred":[
         "\u0db4\u0dbb\u0dd2\u0db4\u0dca\u0db4\u0dd4"
     ],
@@ -105,6 +129,9 @@
     ],
     "name:swe_x_preferred":[
         "Dal"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc1"
     ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c2a\u0c4d\u0c2a\u0c41"
@@ -172,7 +199,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1536864511,
+    "wof:lastmodified":1563571643,
     "wof:name":"Dal",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

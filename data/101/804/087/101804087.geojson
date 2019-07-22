@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000208,
-    "geom:area_square_m":1172826.578541,
+    "geom:area_square_m":1172826.57854,
     "geom:bbox":"8.18802721428,62.898916101,8.21576021624,62.9197337854",
     "geom:latitude":62.910571,
     "geom:longitude":8.198989,
@@ -17,6 +17,15 @@
     "mps:longitude":8.194366,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tingvoll"
+    ],
+    "name:eng_x_preferred":[
+        "Tingvollv\u00e5gen"
+    ],
+    "name:fra_x_preferred":[
+        "Tingvollv\u00e5gen"
+    ],
     "name:jav_x_preferred":[
         "Tingvoll"
     ],
@@ -29,10 +38,16 @@
     "name:nno_x_preferred":[
         "Tingvollv\u00e5gen"
     ],
+    "name:nob_x_preferred":[
+        "Tingvollv\u00e5gen"
+    ],
     "name:nor_x_preferred":[
         "Tingvoll"
     ],
     "name:ron_x_preferred":[
+        "Tingvollv\u00e5gen"
+    ],
+    "name:spa_x_preferred":[
         "Tingvollv\u00e5gen"
     ],
     "name:swe_x_preferred":[
@@ -83,7 +98,7 @@
         }
     ],
     "wof:id":101804087,
-    "wof:lastmodified":1529700088,
+    "wof:lastmodified":1563572657,
     "wof:name":"Tingvollv\u00e5gen",
     "wof:parent_id":1159297327,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001946,
-    "geom:area_square_m":12093933.769675,
+    "geom:area_square_m":12093933.769676,
     "geom:bbox":"10.7263891602,59.8003037451,10.7913208008,59.8613674835",
     "geom:latitude":59.831124,
     "geom:longitude":10.75656,
@@ -28,6 +28,9 @@
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
         "Lian"
+    ],
+    "name:eng_x_variant":[
+        "Ljan"
     ],
     "name:nno_x_preferred":[
         "Ljan"
@@ -76,11 +79,11 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":940,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        101751917
+        101751917,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,7 +110,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529699791,
+    "wof:lastmodified":1563571637,
     "wof:name":"Ljan",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

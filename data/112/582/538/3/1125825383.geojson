@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Randaberg"
+    ],
     "name:bpy_x_preferred":[
         "\u09b0\u09be\u09a8\u09cd\u09a1\u09be\u09ac\u09c7\u09b0\u09cd\u0997"
     ],
@@ -25,6 +28,9 @@
         "\u0420\u0430\u043d\u0434\u0430\u0431\u0435\u0440\u0433"
     ],
     "name:cat_x_preferred":[
+        "Randaberg"
+    ],
+    "name:ceb_x_preferred":[
         "Randaberg"
     ],
     "name:dan_x_preferred":[
@@ -129,6 +135,9 @@
     "name:swe_x_preferred":[
         "Randaberg kommun"
     ],
+    "name:swe_x_variant":[
+        "Randaberg"
+    ],
     "name:unk_x_variant":[
         "Randaberg p\u00e5 Jaeren"
     ],
@@ -190,7 +199,7 @@
         }
     ],
     "wof:id":1125825383,
-    "wof:lastmodified":1561769629,
+    "wof:lastmodified":1563573324,
     "wof:name":"Randaberg",
     "wof:parent_id":1159297357,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":624527.399093,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.403588,63.418531,10.403588,63.418531",
     "geom:latitude":63.418531,
     "geom:longitude":10.403588,
@@ -27,7 +27,13 @@
     "name:deu_x_preferred":[
         "Gl\u00f8shaugen"
     ],
+    "name:eng_x_preferred":[
+        "Gl\u00f8shaugen"
+    ],
     "name:nno_x_preferred":[
+        "Gl\u00f8shaugen"
+    ],
+    "name:nob_x_preferred":[
         "Gl\u00f8shaugen"
     ],
     "name:nor_x_preferred":[
@@ -69,9 +75,9 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":122,
     "wof:belongsto":[
-        85687127,
         1159297145,
-        101751927
+        101751927,
+        85687127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,7 +102,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531936224,
+    "wof:lastmodified":1563571650,
     "wof:name":"Gloshaugen",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

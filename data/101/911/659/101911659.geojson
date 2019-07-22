@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000066,
+    "geom:area_square_m":427787.034768,
     "geom:bbox":"8.49920738473,58.264257316,8.51314921352,58.2758882031",
     "geom:latitude":58.26965,
     "geom:longitude":8.506808,
@@ -18,10 +19,22 @@
     "name:ceb_x_preferred":[
         "Homborsund"
     ],
+    "name:eng_x_preferred":[
+        "Homborsund"
+    ],
+    "name:fra_x_preferred":[
+        "Homborsund"
+    ],
     "name:jav_x_preferred":[
         "Homborsund"
     ],
     "name:msa_x_preferred":[
+        "Homborsund"
+    ],
+    "name:nld_x_preferred":[
+        "Homborsund"
+    ],
+    "name:nob_x_preferred":[
         "Homborsund"
     ],
     "name:nor_x_preferred":[
@@ -71,7 +84,7 @@
         }
     ],
     "wof:id":101911659,
-    "wof:lastmodified":1529699813,
+    "wof:lastmodified":1563572850,
     "wof:name":"Homborsund",
     "wof:parent_id":1159297075,
     "wof:placetype":"locality",

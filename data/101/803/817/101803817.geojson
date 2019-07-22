@@ -17,14 +17,23 @@
     "mps:longitude":5.201535,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0643\u0631\u0647\u0627\u0645\u0646"
+    ],
     "name:bul_x_preferred":[
         "\u041e\u043a\u0440\u0435\u0445\u0430\u043c\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "\u00c5krehamn"
     ],
     "name:dan_x_preferred":[
         "\u00c5krehamn"
     ],
     "name:eng_x_preferred":[
         "\u00c5krehamn"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u06a9\u0631\u0647\u0627\u0645"
     ],
     "name:fra_x_preferred":[
         "\u00c5krehamn"
@@ -39,6 +48,9 @@
         "\u00c5krehamn"
     ],
     "name:nor_x_preferred":[
+        "\u00c5krehamn"
+    ],
+    "name:spa_x_preferred":[
         "\u00c5krehamn"
     ],
     "name:srp_x_preferred":[
@@ -91,7 +103,7 @@
         }
     ],
     "wof:id":101803817,
-    "wof:lastmodified":1561769589,
+    "wof:lastmodified":1563572684,
     "wof:name":"\u00c5krehamn/Vedav\u00e5gen",
     "wof:parent_id":1159297005,
     "wof:placetype":"locality",

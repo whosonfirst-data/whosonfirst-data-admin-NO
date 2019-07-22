@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011058,
-    "geom:area_square_m":70589184.787756,
+    "geom:area_square_m":70589184.787755,
     "geom:bbox":"5.621489,58.8169935,5.773447,59.0086595",
     "geom:latitude":58.917706,
     "geom:longitude":5.714478,
@@ -24,11 +24,23 @@
     "name:ara_x_preferred":[
         "\u0633\u062a\u0627\u0641\u0627\u0646\u063a\u0631"
     ],
+    "name:arg_x_preferred":[
+        "Stavanger"
+    ],
+    "name:ast_x_preferred":[
+        "Stavanger"
+    ],
+    "name:bar_x_preferred":[
+        "Stavanger"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0442\u0430\u0432\u0430\u043d\u0433\u0435\u0440"
     ],
     "name:bel_x_variant":[
         "\u0421\u0442\u0430\u0432\u0430\u043d\u0433\u0435\u0440"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cd\u099f\u09be\u09ad\u09c7\u099e\u09cd\u099c\u09be\u09b0"
     ],
     "name:bos_x_preferred":[
         "Stavanger"
@@ -45,11 +57,17 @@
     "name:cat_x_preferred":[
         "Stavanger"
     ],
+    "name:ceb_x_preferred":[
+        "Stavanger"
+    ],
     "name:ces_x_preferred":[
         "Stavanger"
     ],
     "name:che_x_preferred":[
         "\u0421\u0442\u0430\u0432\u0430\u043d\u0433\u0435\u0440"
+    ],
+    "name:cos_x_preferred":[
+        "Stavanger"
     ],
     "name:cym_x_preferred":[
         "Stavanger"
@@ -62,6 +80,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03c4\u03b1\u03b2\u03ac\u03bd\u03b3\u03ba\u03b5\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Stavanger"
     ],
     "name:eng_x_variant":[
         "SVG"
@@ -87,17 +108,41 @@
     "name:fra_x_preferred":[
         "Stavanger"
     ],
+    "name:frp_x_preferred":[
+        "Stavanger"
+    ],
     "name:frr_x_preferred":[
         "Stavanger"
     ],
     "name:fry_x_preferred":[
         "Stavanger"
     ],
+    "name:fur_x_preferred":[
+        "Stavanger"
+    ],
+    "name:gla_x_preferred":[
+        "Stavanger"
+    ],
+    "name:gle_x_preferred":[
+        "Stavanger"
+    ],
     "name:glg_x_preferred":[
+        "Stavanger"
+    ],
+    "name:gsw_x_preferred":[
+        "Stavanger"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0acd\u0a9f\u0abe\u0ab5\u0ac5\u0aa8\u0acd\u0a9c\u0ab0"
+    ],
+    "name:hau_x_preferred":[
         "Stavanger"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05d8\u05d5\u05d5\u05e0\u05d2\u05e8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094d\u091f\u093e\u0935\u0947\u0902\u0917\u0930"
     ],
     "name:hrv_x_preferred":[
         "Stavanger"
@@ -107,6 +152,18 @@
     ],
     "name:hye_x_preferred":[
         "\u054d\u057f\u0561\u057e\u0561\u0576\u0563\u0565\u0580"
+    ],
+    "name:hye_x_variant":[
+        "\u054d\u0569\u0561\u057e\u0561\u0576\u0563\u0565\u0580"
+    ],
+    "name:ido_x_preferred":[
+        "Stavanger"
+    ],
+    "name:ile_x_preferred":[
+        "Stavanger"
+    ],
+    "name:ina_x_preferred":[
+        "Stavanger"
     ],
     "name:ind_x_preferred":[
         "Stavanger"
@@ -126,6 +183,12 @@
     "name:kal_x_preferred":[
         "Stavanger"
     ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0c9f\u0cbe\u0cb5\u0c82\u0c97\u0cb0\u0ccd"
+    ],
+    "name:kon_x_preferred":[
+        "Stavanger"
+    ],
     "name:kor_x_preferred":[
         "\uc2a4\ud0c0\ubc29\uc5d0\ub974"
     ],
@@ -137,6 +200,9 @@
     ],
     "name:lav_x_variant":[
         "Stavangera"
+    ],
+    "name:lij_x_preferred":[
+        "Stavanger"
     ],
     "name:lim_x_preferred":[
         "Stavanger"
@@ -150,13 +216,28 @@
     "name:mar_x_preferred":[
         "\u0938\u094d\u091f\u093e\u0935\u093e\u0902\u0917\u094d\u092f\u093f\u0930"
     ],
+    "name:min_x_preferred":[
+        "Stavanger"
+    ],
     "name:mkd_x_preferred":[
         "\u0421\u0442\u0430\u0432\u0430\u043d\u0433\u0435\u0440"
+    ],
+    "name:mlg_x_preferred":[
+        "Stavanger"
     ],
     "name:mri_x_preferred":[
         "Stavanger"
     ],
     "name:msa_x_preferred":[
+        "Stavanger"
+    ],
+    "name:nah_x_preferred":[
+        "Stavanger"
+    ],
+    "name:nan_x_preferred":[
+        "Stavanger"
+    ],
+    "name:nap_x_preferred":[
         "Stavanger"
     ],
     "name:nds_x_preferred":[
@@ -168,6 +249,12 @@
     "name:nno_x_preferred":[
         "Stavanger"
     ],
+    "name:nno_x_variant":[
+        "Stavanger kommune"
+    ],
+    "name:nob_x_preferred":[
+        "Stavanger"
+    ],
     "name:nor_x_preferred":[
         "Stavanger"
     ],
@@ -175,8 +262,17 @@
         "Stavangers",
         "Stavenger"
     ],
+    "name:nrm_x_preferred":[
+        "Stavanger"
+    ],
+    "name:oci_x_preferred":[
+        "Stavanger"
+    ],
     "name:oss_x_preferred":[
         "\u0421\u0442\u0430\u0432\u0430\u043d\u0433\u0435\u0440"
+    ],
+    "name:pcd_x_preferred":[
+        "Stavanger"
     ],
     "name:pms_x_preferred":[
         "Stavanger"
@@ -184,10 +280,19 @@
     "name:pnb_x_preferred":[
         "\u0633\u062a\u0627\u0648\u0627\u0646\u06af\u06cc\u0631"
     ],
+    "name:pnb_x_variant":[
+        "\u0633\u0679\u0627\u0648\u0627\u0646\u06af\u0631"
+    ],
     "name:pol_x_preferred":[
         "Stavanger"
     ],
     "name:por_x_preferred":[
+        "Stavanger"
+    ],
+    "name:pus_x_preferred":[
+        "\u0633\u062a\u0648\u0627\u0646\u06ab\u0631"
+    ],
+    "name:roh_x_preferred":[
         "Stavanger"
     ],
     "name:ron_x_preferred":[
@@ -196,8 +301,17 @@
     "name:rus_x_preferred":[
         "\u0421\u0442\u0430\u0432\u0430\u043d\u0433\u0435\u0440"
     ],
+    "name:scn_x_preferred":[
+        "Stavanger"
+    ],
     "name:sco_x_preferred":[
         "Stavanger"
+    ],
+    "name:sgs_x_preferred":[
+        "Stavangeris"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dca\u0da7\u0dcf\u0dc0\u0dd9\u0db1\u0dca\u0da2\u0dbb\u0dca"
     ],
     "name:slk_x_preferred":[
         "Stavanger"
@@ -214,6 +328,9 @@
     "name:sqi_x_preferred":[
         "Stavanger"
     ],
+    "name:srd_x_preferred":[
+        "Stavanger"
+    ],
     "name:srp_x_preferred":[
         "\u0421\u0442\u0430\u0432\u0430\u043d\u0433\u0435\u0440"
     ],
@@ -225,6 +342,15 @@
     ],
     "name:szl_x_preferred":[
         "Stavanger"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb8\u0bcd\u0b9f\u0bbe\u0bb5\u0bc6\u0ba9\u0bcd\u0b9c\u0bb0\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0442\u0430\u0432\u0430\u04a3\u0435\u0440"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c4d\u0c1f\u0c3e\u0c35\u0c02\u0c17\u0c46\u0c30\u0c4d"
     ],
     "name:tha_x_preferred":[
         "\u0e2a\u0e15\u0e32\u0e27\u0e31\u0e07\u0e40\u0e07\u0e23\u0e4c"
@@ -244,7 +370,13 @@
     "name:urd_x_preferred":[
         "\u0633\u062a\u0627\u0648\u0627\u0646\u06af\u06cc\u0631"
     ],
+    "name:vec_x_preferred":[
+        "Stavanger"
+    ],
     "name:vie_x_preferred":[
+        "Stavanger"
+    ],
+    "name:vls_x_preferred":[
         "Stavanger"
     ],
     "name:vol_x_preferred":[
@@ -252,6 +384,15 @@
     ],
     "name:war_x_preferred":[
         "Stavanger"
+    ],
+    "name:wln_x_preferred":[
+        "Stavanger"
+    ],
+    "name:wol_x_preferred":[
+        "Stavanger"
+    ],
+    "name:yue_x_preferred":[
+        "\u65af\u5854\u51e1\u683c"
     ],
     "name:zho_min_nan_x_preferred":[
         "Stavanger"
@@ -261,6 +402,9 @@
     ],
     "name:zho_yue_x_preferred":[
         "\u65af\u5854\u51e1\u683c"
+    ],
+    "name:zul_x_preferred":[
+        "Stavanger"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Norway",
@@ -406,7 +550,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529700283,
+    "wof:lastmodified":1563572742,
     "wof:name":"Stavanger",
     "wof:parent_id":1159297103,
     "wof:placetype":"locality",

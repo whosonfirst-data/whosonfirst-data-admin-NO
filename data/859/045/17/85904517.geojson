@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":462908.002651,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.379999,63.409669,10.379999,63.409669",
     "geom:latitude":63.409669,
     "geom:longitude":10.379999,
@@ -25,6 +25,12 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Stavne"
+    ],
+    "name:nob_x_preferred":[
+        "Stavne"
+    ],
     "name:nor_x_preferred":[
         "Stavne"
     ],
@@ -62,9 +68,9 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":67,
     "wof:belongsto":[
-        85687127,
         1159297145,
-        101751927
+        101751927,
+        85687127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +96,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531936250,
+    "wof:lastmodified":1563571634,
     "wof:name":"Stavne",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

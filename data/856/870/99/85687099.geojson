@@ -33,6 +33,12 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u0631\u062f\u0627\u0644\u0627\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Hordaland"
+    ],
+    "name:azb_x_preferred":[
+        "\u0647\u0648\u0631\u062f\u0627\u0644\u0627\u0646\u062f"
+    ],
     "name:bar_x_preferred":[
         "Hordaland"
     ],
@@ -59,6 +65,9 @@
     ],
     "name:cat_x_preferred":[
         "Hordaland"
+    ],
+    "name:ceb_x_preferred":[
+        "Hordaland Fylke"
     ],
     "name:ces_x_preferred":[
         "Hordaland"
@@ -92,6 +101,9 @@
     ],
     "name:fao_x_preferred":[
         "Hordaland fylki"
+    ],
+    "name:fao_x_variant":[
+        "Hordaland fylke"
     ],
     "name:fas_x_preferred":[
         "\u0647\u0648\u0631\u062f\u0627\u0644\u0627\u0646\u062f"
@@ -144,6 +156,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud638\ub974\ub2ec\ub780 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud638\ub974\ub2ec\ub780\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Hordaland"
@@ -246,6 +261,9 @@
     ],
     "name:swe_x_preferred":[
         "Hordaland fylke"
+    ],
+    "name:swe_x_variant":[
+        "Hordaland"
     ],
     "name:tam_x_preferred":[
         "\u0bb9\u0bbe\u0bb0\u0bcd\u0b9f\u0bbe\u0bb2\u0ba9\u0bcd\u0b9f\u0bcd"
@@ -400,7 +418,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1561769542,
+    "wof:lastmodified":1563571673,
     "wof:name":"Hordaland",
     "wof:parent_id":85633341,
     "wof:placetype":"region",

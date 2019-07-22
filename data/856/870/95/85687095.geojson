@@ -30,6 +30,15 @@
     "name:ara_x_preferred":[
         "\u0622\u0643\u0631\u0634\u0648\u0633"
     ],
+    "name:ast_x_preferred":[
+        "Akershus"
+    ],
+    "name:azb_x_preferred":[
+        "\u0622\u06a9\u0631\u0634\u0648\u0633"
+    ],
+    "name:bar_x_preferred":[
+        "Akershus"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u043a\u0435\u0440\u0441\u0445\u0443\u0441"
     ],
@@ -50,6 +59,9 @@
     ],
     "name:cat_x_preferred":[
         "Akershus"
+    ],
+    "name:ceb_x_preferred":[
+        "Akershus fylke"
     ],
     "name:ces_x_preferred":[
         "Akershus"
@@ -91,6 +103,9 @@
         "Comt\u00e9 d'Akershus"
     ],
     "name:fra_x_variant":[
+        "Akershus"
+    ],
+    "name:fry_x_preferred":[
         "Akershus"
     ],
     "name:guj_x_preferred":[
@@ -138,8 +153,14 @@
     "name:kor_x_preferred":[
         "\uc544\ucf00\ub974\uc2a4\ud6c4\uc2a4 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc544\ucf00\ub974\uc2a4\ud6c4\uc2a4\uc8fc"
+    ],
     "name:lat_x_preferred":[
         "Aggerhusium"
+    ],
+    "name:lat_x_variant":[
+        "Akershus"
     ],
     "name:lav_x_preferred":[
         "\u0100ke\u0161husa"
@@ -239,6 +260,9 @@
     ],
     "name:swe_x_preferred":[
         "Akershus fylke"
+    ],
+    "name:swe_x_variant":[
+        "Akershus"
     ],
     "name:tam_x_preferred":[
         "\u0b85\u0b95\u0bbf\u0bb1\u0bcd\u0bb8\u0bcd\u0bb8\u0bcd"
@@ -393,7 +417,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1561769541,
+    "wof:lastmodified":1563571666,
     "wof:name":"Akershus",
     "wof:parent_id":85633341,
     "wof:placetype":"region",

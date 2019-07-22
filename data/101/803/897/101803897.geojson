@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000263,
-    "geom:area_square_m":1600964.793919,
+    "geom:area_square_m":1600964.793921,
     "geom:bbox":"5.27369394516,60.5409027312,5.30801676431,60.5535317418",
     "geom:latitude":60.547164,
     "geom:longitude":5.288225,
@@ -17,10 +17,25 @@
     "mps:longitude":5.28275,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Knarvik"
+    ],
+    "name:ceb_x_preferred":[
+        "Knarvik"
+    ],
     "name:dan_x_preferred":[
         "Knarvik"
     ],
     "name:deu_x_preferred":[
+        "Knarvik"
+    ],
+    "name:eng_x_preferred":[
+        "Knarvik"
+    ],
+    "name:fra_x_preferred":[
+        "Knarvik"
+    ],
+    "name:ita_x_preferred":[
         "Knarvik"
     ],
     "name:jav_x_preferred":[
@@ -35,6 +50,9 @@
     "name:nno_x_preferred":[
         "Knarvik"
     ],
+    "name:nob_x_preferred":[
+        "Knarvik"
+    ],
     "name:nor_x_preferred":[
         "Knarrvik",
         "Knarvik"
@@ -45,6 +63,9 @@
         "Knarrevik"
     ],
     "name:ron_x_preferred":[
+        "Knarvik"
+    ],
+    "name:spa_x_preferred":[
         "Knarvik"
     ],
     "name:swe_x_preferred":[
@@ -104,7 +125,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529700045,
+    "wof:lastmodified":1563572721,
     "wof:name":"Knarvik",
     "wof:parent_id":1159296745,
     "wof:placetype":"locality",

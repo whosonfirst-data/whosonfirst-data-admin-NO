@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Langev\u00e5g"
+    ],
     "name:deu_x_preferred":[
         "Langev\u00e5g"
     ],
@@ -36,7 +39,13 @@
     "name:nno_x_preferred":[
         "Langev\u00e5g i Sula"
     ],
+    "name:nno_x_variant":[
+        "Langev\u00e5g"
+    ],
     "name:nob_x_preferred":[
+        "Langev\u00e5g"
+    ],
+    "name:swe_x_preferred":[
         "Langev\u00e5g"
     ],
     "name:unk_x_variant":[
@@ -83,7 +92,7 @@
         }
     ],
     "wof:id":1125985605,
-    "wof:lastmodified":1561769624,
+    "wof:lastmodified":1563573248,
     "wof:name":"Langev\u00e5g",
     "wof:parent_id":1159296721,
     "wof:placetype":"locality",

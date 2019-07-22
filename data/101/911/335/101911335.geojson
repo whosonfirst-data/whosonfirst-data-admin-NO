@@ -17,6 +17,12 @@
     "mps:longitude":10.886323,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Kr\u00e5kstad"
+    ],
+    "name:dan_x_preferred":[
+        "Kr\u00e5kstad"
+    ],
     "name:deu_x_preferred":[
         "Kr\u00e5kstad"
     ],
@@ -24,6 +30,9 @@
         "Kr\u00e5kstad"
     ],
     "name:fra_x_preferred":[
+        "Kr\u00e5kstad"
+    ],
+    "name:ita_x_preferred":[
         "Kr\u00e5kstad"
     ],
     "name:jav_x_preferred":[
@@ -51,7 +60,8 @@
         "Santiago Chimaltenango"
     ],
     "name:spa_x_variant":[
-        "Chimaltenango"
+        "Chimaltenango",
+        "Kr\u00e5kstad"
     ],
     "name:swe_x_preferred":[
         "Kr\u00e5kstad"
@@ -106,7 +116,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561769599,
+    "wof:lastmodified":1563572854,
     "wof:name":"Krakstad",
     "wof:parent_id":1159296817,
     "wof:placetype":"locality",

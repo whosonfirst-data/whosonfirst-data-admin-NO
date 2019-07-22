@@ -25,8 +25,14 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
     "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Ellingsrud"
+    ],
     "name:nno_x_preferred":[
         "Ellingsrud\u00e5sen"
+    ],
+    "name:nob_x_preferred":[
+        "Ellingsrud"
     ],
     "name:nor_x_preferred":[
         "Ellingsruds"
@@ -97,7 +103,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1536864516,
+    "wof:lastmodified":1563571630,
     "wof:name":"Ellingsrud",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

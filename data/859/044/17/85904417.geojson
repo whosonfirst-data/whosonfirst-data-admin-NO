@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":979630.289774,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.368305,63.404988,10.368305,63.404988",
     "geom:latitude":63.404988,
     "geom:longitude":10.368305,
@@ -27,7 +27,16 @@
     "name:dan_x_preferred":[
         "By\u00e5sen"
     ],
+    "name:eng_x_preferred":[
+        "By\u00e5sen"
+    ],
     "name:fra_x_preferred":[
+        "By\u00e5sen"
+    ],
+    "name:nld_x_preferred":[
+        "By\u00e5sen"
+    ],
+    "name:nob_x_preferred":[
         "By\u00e5sen"
     ],
     "name:nor_x_preferred":[
@@ -66,9 +75,9 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":479,
     "wof:belongsto":[
-        85687127,
         1159297145,
-        101751927
+        101751927,
+        85687127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +102,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531936219,
+    "wof:lastmodified":1563571648,
     "wof:name":"Byasen",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

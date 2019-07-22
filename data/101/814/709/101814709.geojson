@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000841,
-    "geom:area_square_m":3544198.617374,
+    "geom:area_square_m":3544198.61737,
     "geom:bbox":"29.6951106228,70.0664885527,29.8027093479,70.091143618",
     "geom:latitude":70.078699,
     "geom:longitude":29.740407,
@@ -21,6 +21,12 @@
     "name:ara_x_preferred":[
         "\u0641\u0627\u062f\u0633\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Vads\u00f8"
+    ],
+    "name:bak_x_preferred":[
+        "\u0412\u0430\u0434\u0441\u0451"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0412\u0430\u0434\u0441\u0451"
     ],
@@ -34,6 +40,9 @@
         "\u0412\u0430\u0434\u0441\u044c\u043e"
     ],
     "name:cat_x_preferred":[
+        "Vads\u00f8"
+    ],
+    "name:ceb_x_preferred":[
         "Vads\u00f8"
     ],
     "name:ces_x_preferred":[
@@ -52,19 +61,82 @@
         "VDS",
         "Vads\u00f8"
     ],
+    "name:epo_x_preferred":[
+        "Vads\u00f8"
+    ],
+    "name:est_x_preferred":[
+        "Vads\u00f8 vald"
+    ],
+    "name:eus_x_preferred":[
+        "Vads\u00f8"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u062f\u0633\u0648"
+    ],
     "name:fin_x_preferred":[
         "Vesisaari"
     ],
     "name:fra_x_preferred":[
         "Vads\u00f8"
     ],
+    "name:fry_x_preferred":[
+        "Vads\u00f8"
+    ],
+    "name:hrv_x_preferred":[
+        "Vads\u00f8"
+    ],
+    "name:hun_x_preferred":[
+        "Vads\u00f8"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0561\u0564\u057d\u0575\u0578"
+    ],
+    "name:ind_x_preferred":[
+        "Vads\u00f8"
+    ],
     "name:ita_x_preferred":[
         "Vads\u00f8"
+    ],
+    "name:jav_x_preferred":[
+        "Vads\u00f8"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a1\u30c9\u30bd\u30fc"
+    ],
+    "name:kal_x_preferred":[
+        "Vads\u00f8"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\ub4dc\uc1e0"
+    ],
+    "name:lat_x_preferred":[
+        "Vads\u00f8"
+    ],
+    "name:lim_x_preferred":[
+        "Vads\u00f8"
+    ],
+    "name:lit_x_preferred":[
+        "Vads\u0117"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0430\u0434\u0441\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Vads\u00f8"
+    ],
+    "name:nan_x_preferred":[
+        "Vads\u00f8"
+    ],
+    "name:nds_x_preferred":[
+        "Kommun Vads\u00f8"
     ],
     "name:nld_x_preferred":[
         "Vads\u00f8"
     ],
     "name:nno_x_preferred":[
+        "Vads\u00f8"
+    ],
+    "name:nob_x_preferred":[
         "Vads\u00f8"
     ],
     "name:nor_x_colloquial":[
@@ -78,6 +150,15 @@
     "name:nor_x_variant":[
         "Vads\u00f8s"
     ],
+    "name:oci_x_preferred":[
+        "Vads\u00f8"
+    ],
+    "name:oss_x_preferred":[
+        "\u0412\u0430\u0434\u0441\u0451"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0648\u0627\u0688\u0633\u0648"
+    ],
     "name:pol_x_preferred":[
         "Vads\u00f8"
     ],
@@ -90,14 +171,59 @@
     "name:rus_x_preferred":[
         "\u0412\u0430\u0434\u0441\u0435"
     ],
+    "name:rus_x_variant":[
+        "\u0412\u0430\u0434\u0441\u0451"
+    ],
+    "name:sco_x_preferred":[
+        "Vads\u00f8"
+    ],
+    "name:sgs_x_preferred":[
+        "Vads\u0117"
+    ],
+    "name:slv_x_preferred":[
+        "Vads\u00f8"
+    ],
     "name:sme_x_preferred":[
         "\u010c\u00e1hcesuolu"
     ],
     "name:spa_x_preferred":[
         "Vads\u00f8"
     ],
+    "name:sqi_x_preferred":[
+        "Vads\u00f8"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u0434\u0441\u0435"
+    ],
+    "name:swa_x_preferred":[
+        "Vads\u00f8"
+    ],
     "name:swe_x_preferred":[
         "Vads\u00f8 kommun"
+    ],
+    "name:swe_x_variant":[
+        "Vads\u00f8"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0430\u0434\u0441\u04e9"
+    ],
+    "name:tur_x_preferred":[
+        "Vads\u00f8"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0434\u0441\u044c\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u062f\u0633\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Vads\u00f8"
+    ],
+    "name:war_x_preferred":[
+        "Vads\u00f8"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u5fb7\u745f"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Norway",
@@ -241,7 +367,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529699906,
+    "wof:lastmodified":1563572792,
     "wof:name":"Vads\u00f8",
     "wof:parent_id":1159297387,
     "wof:placetype":"locality",

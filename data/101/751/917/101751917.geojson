@@ -42,6 +42,15 @@
     "name:ast_x_preferred":[
         "Oslo"
     ],
+    "name:ast_x_variant":[
+        "Oslu"
+    ],
+    "name:ava_x_preferred":[
+        "\u041e\u0441\u043b\u043e"
+    ],
+    "name:aym_x_preferred":[
+        "Oslo"
+    ],
     "name:aze_x_preferred":[
         "Oslo"
     ],
@@ -51,11 +60,15 @@
     "name:bar_x_preferred":[
         "Oslo"
     ],
+    "name:bcl_x_preferred":[
+        "Oslo"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041e\u0441\u043b\u0430"
     ],
     "name:bel_x_variant":[
-        "\u041e\u0441\u044c\u043b\u0451"
+        "\u041e\u0441\u044c\u043b\u0451",
+        "\u041e\u0441\u043b\u0430"
     ],
     "name:ben_x_preferred":[
         "\u0985\u09b8\u09b2\u09cb"
@@ -73,6 +86,9 @@
         "Oslo"
     ],
     "name:bul_x_preferred":[
+        "\u041e\u0441\u043b\u043e"
+    ],
+    "name:bxr_x_preferred":[
         "\u041e\u0441\u043b\u043e"
     ],
     "name:cat_x_preferred":[
@@ -125,6 +141,9 @@
     ],
     "name:ell_x_preferred":[
         "\u038c\u03c3\u03bb\u03bf"
+    ],
+    "name:eml_x_preferred":[
+        "\u00d2\u015blo"
     ],
     "name:eng_x_colloquial":[
         "Tigerstaden",
@@ -194,10 +213,19 @@
     "name:glv_x_preferred":[
         "Oslo"
     ],
+    "name:gsw_x_preferred":[
+        "Oslo"
+    ],
     "name:guj_x_preferred":[
         "\u0a93\u0ab8\u0acd\u0ab2\u0acb"
     ],
+    "name:hak_x_preferred":[
+        "Oslo"
+    ],
     "name:hat_x_preferred":[
+        "Oslo"
+    ],
+    "name:hau_x_preferred":[
         "Oslo"
     ],
     "name:haw_x_preferred":[
@@ -263,11 +291,17 @@
     "name:kal_x_preferred":[
         "Oslo"
     ],
+    "name:kan_x_preferred":[
+        "\u0c93\u0cb8\u0ccd\u0cb2\u0ccb"
+    ],
     "name:kat_x_preferred":[
         "\u10dd\u10e1\u10da\u10dd"
     ],
     "name:kaz_x_preferred":[
         "\u041e\u0441\u043b\u043e"
+    ],
+    "name:kbp_x_preferred":[
+        "\u0186s\u0269loo"
     ],
     "name:kir_x_preferred":[
         "\u041e\u0441\u043b\u043e"
@@ -279,6 +313,9 @@
         "\uc624\uc2ac\ub85c"
     ],
     "name:kur_x_preferred":[
+        "Oslo"
+    ],
+    "name:lad_x_preferred":[
         "Oslo"
     ],
     "name:lat_x_preferred":[
@@ -310,6 +347,9 @@
     ],
     "name:lrc_x_preferred":[
         "\u0626\u0648\u0633\u0644\u0648"
+    ],
+    "name:lrc_x_variant":[
+        "\u0627\u0633\u0644\u0648"
     ],
     "name:ltz_x_preferred":[
         "Oslo"
@@ -350,6 +390,12 @@
     "name:mzn_x_preferred":[
         "\u0627\u0633\u0644\u0648"
     ],
+    "name:nah_x_preferred":[
+        "Oslo"
+    ],
+    "name:nan_x_preferred":[
+        "Oslo"
+    ],
     "name:nau_x_preferred":[
         "Oslo"
     ],
@@ -366,6 +412,9 @@
         "Oslo"
     ],
     "name:nno_x_preferred":[
+        "Oslo"
+    ],
+    "name:nob_x_preferred":[
         "Oslo"
     ],
     "name:nor_x_preferred":[
@@ -387,6 +436,9 @@
     "name:oci_x_variant":[
         "Oslo"
     ],
+    "name:olo_x_preferred":[
+        "Oslo"
+    ],
     "name:ori_x_preferred":[
         "\u0b05\u0b38\u0b32\u0b4b"
     ],
@@ -400,6 +452,12 @@
         "Oslo"
     ],
     "name:pcd_x_preferred":[
+        "Oslo"
+    ],
+    "name:pdc_x_preferred":[
+        "Oslo"
+    ],
+    "name:pih_x_preferred":[
         "Oslo"
     ],
     "name:pms_x_preferred":[
@@ -420,7 +478,16 @@
     "name:que_x_preferred":[
         "Oslo"
     ],
+    "name:roh_x_preferred":[
+        "Oslo"
+    ],
     "name:ron_x_preferred":[
+        "Oslo"
+    ],
+    "name:rue_x_preferred":[
+        "\u041e\u0441\u043b\u043e"
+    ],
+    "name:rup_x_preferred":[
         "Oslo"
     ],
     "name:rus_x_preferred":[
@@ -435,11 +502,20 @@
     "name:sco_x_preferred":[
         "Oslo"
     ],
+    "name:sgs_x_preferred":[
+        "Uoslos"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d94\u0dc3\u0dca\u0dbd\u0ddd"
+    ],
     "name:slk_x_preferred":[
         "Oslo"
     ],
     "name:slv_x_preferred":[
         "Oslo"
+    ],
+    "name:sma_x_preferred":[
+        "Oslove"
     ],
     "name:sme_x_preferred":[
         "Oslo"
@@ -483,6 +559,9 @@
     "name:tat_x_preferred":[
         "\u041e\u0441\u043b\u043e"
     ],
+    "name:tel_x_preferred":[
+        "\u0c13\u0c38\u0c4d\u0c32\u0c4b"
+    ],
     "name:tgk_x_preferred":[
         "\u041e\u0441\u043b\u043e"
     ],
@@ -496,6 +575,9 @@
         "Oslo"
     ],
     "name:tso_x_preferred":[
+        "Oslo"
+    ],
+    "name:tuk_x_preferred":[
         "Oslo"
     ],
     "name:tum_x_preferred":[
@@ -537,16 +619,31 @@
     "name:vol_x_preferred":[
         "Oslo"
     ],
+    "name:vro_x_preferred":[
+        "Oslo"
+    ],
     "name:war_x_preferred":[
         "Oslo"
     ],
     "name:wol_x_preferred":[
         "Oslo"
     ],
+    "name:wuu_x_preferred":[
+        "\u5965\u65af\u9646"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10dd\u10e1\u10da\u10dd"
+    ],
     "name:yid_x_preferred":[
         "\u05d0\u05e1\u05dc\u05d0"
     ],
     "name:yor_x_preferred":[
+        "Oslo"
+    ],
+    "name:yue_x_preferred":[
+        "\u5967\u65af\u9678"
+    ],
+    "name:zea_x_preferred":[
         "Oslo"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -556,8 +653,7 @@
         "\u5965\u65af\u9646"
     ],
     "name:zho_x_variant":[
-        "\u5967\u65af\u9678",
-        "\u5965\u65af\u9646"
+        "\u5967\u65af\u9678"
     ],
     "name:zho_yue_x_preferred":[
         "\u5967\u65af\u9678"
@@ -707,7 +803,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1536947516,
+    "wof:lastmodified":1563572754,
     "wof:megacity":1,
     "wof:name":"Oslo",
     "wof:parent_id":1159297167,

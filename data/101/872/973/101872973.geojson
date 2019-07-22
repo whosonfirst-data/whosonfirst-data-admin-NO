@@ -73,6 +73,9 @@
     "name:msa_x_preferred":[
         "Valle"
     ],
+    "name:nan_x_preferred":[
+        "Valle"
+    ],
     "name:nds_x_preferred":[
         "Kommun Valle"
     ],
@@ -81,6 +84,9 @@
     ],
     "name:nno_x_preferred":[
         "Valle"
+    ],
+    "name:nno_x_variant":[
+        "Valle kommune"
     ],
     "name:nob_x_preferred":[
         "Valle"
@@ -106,7 +112,13 @@
     "name:rus_x_preferred":[
         "\u0412\u0430\u043b\u044c\u0435"
     ],
+    "name:rus_x_variant":[
+        "\u0412\u0430\u043b\u043b\u0435"
+    ],
     "name:slv_x_preferred":[
+        "Valle"
+    ],
+    "name:sme_x_preferred":[
         "Valle"
     ],
     "name:spa_x_preferred":[
@@ -183,7 +195,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1561769586,
+    "wof:lastmodified":1563572634,
     "wof:name":"Valle",
     "wof:parent_id":1159296773,
     "wof:placetype":"locality",

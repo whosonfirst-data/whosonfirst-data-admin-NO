@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Stadsbygd"
     ],
+    "name:eng_x_variant":[
+        "Stadsbygd municipality"
+    ],
     "name:fra_x_preferred":[
         "Stadsbygd"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:nob_x_preferred":[
         "Stadsbygd"
+    ],
+    "name:nob_x_variant":[
+        "Stadsbygd kommune"
     ],
     "name:ron_x_preferred":[
         "Stadsbygd"
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1125969171,
-    "wof:lastmodified":1561769623,
+    "wof:lastmodified":1563573229,
     "wof:name":"Stadsbygd",
     "wof:parent_id":1159296767,
     "wof:placetype":"locality",

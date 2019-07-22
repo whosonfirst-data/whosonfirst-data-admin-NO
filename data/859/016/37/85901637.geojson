@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001008,
-    "geom:area_square_m":6245220.934271,
+    "geom:area_square_m":6245220.934269,
     "geom:bbox":"10.6140247765,59.9222494267,10.695879687,59.9503665825",
     "geom:latitude":59.934322,
     "geom:longitude":10.660492,
@@ -33,7 +33,10 @@
         "Smedstad"
     ],
     "name:eng_x_variant":[
-        "Smedstad"
+        "Smestad"
+    ],
+    "name:nob_x_preferred":[
+        "Smestad"
     ],
     "name:nor_x_preferred":[
         "Smestad"
@@ -73,11 +76,11 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":501,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        101751917
+        101751917,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,7 +107,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529699792,
+    "wof:lastmodified":1563571642,
     "wof:name":"Smestad",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

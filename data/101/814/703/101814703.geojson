@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000395,
-    "geom:area_square_m":1617949.683576,
+    "geom:area_square_m":1617949.683575,
     "geom:bbox":"23.6682542902,70.6516592785,23.7276560926,70.6706599452",
     "geom:latitude":70.661267,
     "geom:longitude":23.701128,
@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u0647\u0627\u0645\u0631\u0641\u0633\u062a"
     ],
+    "name:ast_x_preferred":[
+        "Hammerfest"
+    ],
     "name:bpy_x_preferred":[
         "\u09b9\u09be\u09ae\u09cd\u09ae\u09c7\u09b0\u09ab\u09bf\u09b8\u09cd\u099f"
     ],
@@ -31,6 +34,9 @@
         "\u0425\u0430\u043c\u0435\u0440\u0444\u0435\u0441\u0442"
     ],
     "name:cat_x_preferred":[
+        "Hammerfest"
+    ],
+    "name:ceb_x_preferred":[
         "Hammerfest"
     ],
     "name:ces_x_preferred":[
@@ -42,14 +48,26 @@
     "name:deu_x_preferred":[
         "Hammerfest"
     ],
+    "name:eng_x_preferred":[
+        "Hammerfest"
+    ],
     "name:eng_x_variant":[
         "HFT"
+    ],
+    "name:epo_x_preferred":[
+        "Hammerfest"
     ],
     "name:est_x_preferred":[
         "Hammerfesti vald"
     ],
+    "name:est_x_variant":[
+        "Hammerfest"
+    ],
     "name:eus_x_preferred":[
         "Hammerfest"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0645\u0631\u0641\u0633\u062a"
     ],
     "name:fin_x_preferred":[
         "Hammerfest"
@@ -69,7 +87,19 @@
     "name:hun_x_preferred":[
         "Hammerfest k\u00f6zs\u00e9g"
     ],
+    "name:hun_x_variant":[
+        "Hammerfest"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u0574\u0565\u0580\u0586\u0565\u057d\u057f"
+    ],
+    "name:ile_x_preferred":[
+        "Hammerfest"
+    ],
     "name:ind_x_preferred":[
+        "Hammerfest"
+    ],
+    "name:isl_x_preferred":[
         "Hammerfest"
     ],
     "name:ita_x_preferred":[
@@ -99,8 +129,14 @@
     "name:msa_x_preferred":[
         "Hammerfest"
     ],
+    "name:nan_x_preferred":[
+        "Hammerfest"
+    ],
     "name:nds_x_preferred":[
         "Kommun Hammerfest"
+    ],
+    "name:nds_x_variant":[
+        "Hammerfest"
     ],
     "name:nld_x_preferred":[
         "Hammerfest"
@@ -111,14 +147,23 @@
     "name:nno_x_variant":[
         "Hammerfest"
     ],
+    "name:nob_x_preferred":[
+        "Hammerfest"
+    ],
     "name:nor_x_preferred":[
         "Hammerfest"
     ],
     "name:nor_x_variant":[
         "Hammerfests"
     ],
+    "name:oci_x_preferred":[
+        "Hammerfest"
+    ],
     "name:oss_x_preferred":[
         "\u0425\u0430\u043c\u043c\u0435\u0440\u0444\u0435\u0441\u0442"
+    ],
+    "name:pms_x_preferred":[
+        "Hammerfest"
     ],
     "name:pol_x_preferred":[
         "Hammerfest"
@@ -131,6 +176,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0425\u0430\u043c\u043c\u0435\u0440\u0444\u0435\u0441\u0442"
+    ],
+    "name:sco_x_preferred":[
+        "Hammerfest"
     ],
     "name:slv_x_preferred":[
         "Hammerfest"
@@ -146,6 +194,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0425\u0430\u043c\u0435\u0440\u0444\u0435\u0441\u0442"
+    ],
+    "name:swa_x_preferred":[
+        "Hammerfest"
     ],
     "name:swe_x_preferred":[
         "Hammerfests kommun"
@@ -313,7 +364,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529699905,
+    "wof:lastmodified":1563572819,
     "wof:name":"Hammerfest",
     "wof:parent_id":1159296825,
     "wof:placetype":"locality",
