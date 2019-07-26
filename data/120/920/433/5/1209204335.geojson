@@ -26,7 +26,19 @@
     "iso:country":"NO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kaldfarnes"
+    ],
+    "name:msa_x_preferred":[
+        "Kaldfarnes"
+    ],
     "name:nor_x_preferred":[
+        "Medby"
+    ],
+    "name:nor_x_variant":[
+        "Medby-Kaldfarnes"
+    ],
+    "name:spa_x_preferred":[
         "Medby"
     ],
     "src:geom":"geonames",
@@ -46,7 +58,7 @@
         }
     ],
     "wof:id":1209204335,
-    "wof:lastmodified":1537676013,
+    "wof:lastmodified":1564103795,
     "wof:name":"Medby",
     "wof:parent_id":85633341,
     "wof:placetype":"locality",

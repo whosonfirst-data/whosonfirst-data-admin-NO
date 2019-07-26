@@ -27,19 +27,55 @@
     "iso:country":"NO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "\u00c5"
+    ],
+    "name:ceb_x_preferred":[
+        "\u00c5"
+    ],
+    "name:ces_x_preferred":[
+        "\u00c5"
+    ],
+    "name:dan_x_preferred":[
+        "\u00c5"
+    ],
     "name:deu_x_preferred":[
         "\u00c5 i Lofoten"
     ],
     "name:eng_x_preferred":[
         "\u00c5"
     ],
+    "name:est_x_preferred":[
+        "\u00c5"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648"
+    ],
     "name:fin_x_preferred":[
         "\u00c5 i Lofoten"
+    ],
+    "name:fin_x_variant":[
+        "\u00c5"
     ],
     "name:fra_x_preferred":[
         "\u00c5"
     ],
+    "name:fry_x_preferred":[
+        "\u00c5"
+    ],
+    "name:hun_x_preferred":[
+        "\u00c5"
+    ],
     "name:ita_x_preferred":[
+        "\u00c5"
+    ],
+    "name:jav_x_preferred":[
+        "\u00c5"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30fc"
+    ],
+    "name:msa_x_preferred":[
         "\u00c5"
     ],
     "name:nld_x_preferred":[
@@ -51,11 +87,20 @@
     "name:nor_x_preferred":[
         "\u00c5 i Lofoten"
     ],
+    "name:nor_x_variant":[
+        "\u00c5"
+    ],
+    "name:oss_x_preferred":[
+        "\u041e"
+    ],
     "name:pol_x_preferred":[
         "\u00c5"
     ],
     "name:rus_x_preferred":[
         "\u0410 \u0438 \u041b\u043e\u0444\u043e\u0442\u0435\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u041e"
     ],
     "name:spa_x_preferred":[
         "\u00c5"
@@ -63,9 +108,21 @@
     "name:swe_x_preferred":[
         "\u00c5"
     ],
+    "name:tur_x_preferred":[
+        "\u00c5"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e"
+    ],
     "name:und_x_variant":[
         "Aa",
         "\u00c5 i Lofoten"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u9547"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -90,7 +147,7 @@
         }
     ],
     "wof:id":1310001737,
-    "wof:lastmodified":1537675670,
+    "wof:lastmodified":1564104041,
     "wof:name":"A, Moskenes",
     "wof:parent_id":1159297153,
     "wof:placetype":"locality",

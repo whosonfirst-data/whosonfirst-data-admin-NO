@@ -26,8 +26,29 @@
     "iso:country":"NO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jav_x_preferred":[
+        "Bru"
+    ],
+    "name:msa_x_preferred":[
+        "Bru"
+    ],
+    "name:nld_x_preferred":[
+        "Ploganes"
+    ],
+    "name:nno_x_preferred":[
+        "Ploganes"
+    ],
     "name:nor_x_preferred":[
         "Bru"
+    ],
+    "name:nor_x_variant":[
+        "Ploganes"
+    ],
+    "name:ron_x_preferred":[
+        "Ploganes"
+    ],
+    "name:spa_x_preferred":[
+        "Ploganes"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1327254961,
-    "wof:lastmodified":1537676033,
+    "wof:lastmodified":1564102791,
     "wof:name":"Bru",
     "wof:parent_id":1159297429,
     "wof:placetype":"locality",

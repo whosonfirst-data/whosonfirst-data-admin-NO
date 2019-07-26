@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03323,
+    "geom:area_square_m":205475328.930878,
     "geom:bbox":"11.0562374942,59.8786257634,11.4395062278,60.0772470259",
     "geom:latitude":59.995173,
     "geom:longitude":11.258079,
@@ -18,8 +19,14 @@
     "name:eng_x_preferred":[
         "Sorum"
     ],
+    "name:kor_x_preferred":[
+        "\uc18c\ub984"
+    ],
     "name:nor_x_preferred":[
         "S\u00f8rum"
+    ],
+    "name:spa_x_preferred":[
+        "Sorum"
     ],
     "no-geonorge:datauttaksdato":"20180109110341",
     "no-geonorge:kommunenummer":"0226",
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":1159297599,
-    "wof:lastmodified":1529699757,
+    "wof:lastmodified":1564104739,
     "wof:name":"Sorum",
     "wof:parent_id":85687095,
     "wof:placetype":"localadmin",

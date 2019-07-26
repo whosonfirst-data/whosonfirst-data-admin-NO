@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":19288840.2067,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.310395,63.33094,10.310395,63.33094",
     "geom:latitude":63.33094,
     "geom:longitude":10.310395,
@@ -25,6 +25,9 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:nor_x_preferred":[
+        "Nypan"
+    ],
+    "name:spa_x_preferred":[
         "Nypan"
     ],
     "name:unk_x_variant":[
@@ -60,8 +63,8 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85687127,
-        1159297145
+        1159297145,
+        85687127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +88,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531936240,
+    "wof:lastmodified":1564103164,
     "wof:name":"Nypan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.136477,
+    "geom:area_square_m":832499813.477144,
     "geom:bbox":"11.795696243,60.2768281532,12.6068829698,60.550657804",
     "geom:latitude":60.441293,
     "geom:longitude":12.225472,
@@ -18,7 +19,31 @@
     "name:eng_x_preferred":[
         "Grue"
     ],
+    "name:epo_x_preferred":[
+        "Gruo"
+    ],
+    "name:eus_x_preferred":[
+        "Grue"
+    ],
+    "name:fra_x_preferred":[
+        "Grue"
+    ],
+    "name:ita_x_preferred":[
+        "Grue"
+    ],
     "name:nor_x_preferred":[
+        "Grue"
+    ],
+    "name:por_x_preferred":[
+        "Grue"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0443\u044d"
+    ],
+    "name:swe_x_preferred":[
+        "Grue"
+    ],
+    "name:vie_x_preferred":[
         "Grue"
     ],
     "no-geonorge:datauttaksdato":"20180109110341",
@@ -48,7 +73,7 @@
         }
     ],
     "wof:id":1159297575,
-    "wof:lastmodified":1529700010,
+    "wof:lastmodified":1564104733,
     "wof:name":"Grue",
     "wof:parent_id":85687117,
     "wof:placetype":"localadmin",

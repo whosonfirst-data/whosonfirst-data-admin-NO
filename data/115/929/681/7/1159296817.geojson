@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026413,
+    "geom:area_square_m":164630470.332498,
     "geom:bbox":"10.7999493015,59.6186754654,10.9919822393,59.8316696976",
     "geom:latitude":59.729949,
     "geom:longitude":10.901203,
@@ -15,11 +16,155 @@
     "mps:longitude":10.903011,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Tabla d'esqu\u00ed"
+    ],
+    "name:aze_x_preferred":[
+        "Xiz\u0259k"
+    ],
+    "name:bak_x_preferred":[
+        "\u0421\u0430\u04a3\u0493\u044b"
+    ],
+    "name:bel_x_preferred":[
+        "\u041b\u044b\u0436\u044b"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u043a\u0438"
+    ],
+    "name:ces_x_preferred":[
+        "Ly\u017ee"
+    ],
+    "name:cym_x_preferred":[
+        "Sgi"
+    ],
+    "name:dan_x_preferred":[
+        "Ski"
+    ],
+    "name:deu_x_preferred":[
+        "Ski"
+    ],
     "name:eng_x_preferred":[
+        "Ski"
+    ],
+    "name:est_x_preferred":[
+        "Suusad"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u0628 \u0627\u0633\u06a9\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Suksi"
+    ],
+    "name:fra_x_preferred":[
+        "Ski"
+    ],
+    "name:fry_x_preferred":[
+        "Sky"
+    ],
+    "name:hat_x_preferred":[
+        "Ski"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d2\u05dc\u05e9\u05d9\u05d9\u05dd"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094d\u0915\u0940"
+    ],
+    "name:hrv_x_preferred":[
+        "Skije"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0561\u0570\u0578\u0582\u056f\u0576\u0565\u0580"
+    ],
+    "name:ido_x_preferred":[
+        "Skio"
+    ],
+    "name:isl_x_preferred":[
+        "Sk\u00ed\u00f0i"
+    ],
+    "name:ita_x_preferred":[
+        "Sci"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30ad\u30fc\u677f"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d7\u10ee\u10d8\u10da\u10d0\u10db\u10e3\u10e0\u10d4\u10d1\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0428\u0430\u04a3\u0493\u044b"
+    ],
+    "name:lav_x_preferred":[
+        "Sl\u0113pes"
+    ],
+    "name:lim_x_preferred":[
+        "Sjie"
+    ],
+    "name:lit_x_preferred":[
+        "Slid\u0117s"
+    ],
+    "name:mon_x_preferred":[
+        "\u0426\u0430\u043d\u0430"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0415\u0447\u04f9"
+    ],
+    "name:nld_x_preferred":[
+        "Ski"
+    ],
+    "name:nno_x_preferred":[
         "Ski"
     ],
     "name:nor_x_preferred":[
         "Ski"
+    ],
+    "name:pol_x_preferred":[
+        "Narty"
+    ],
+    "name:que_x_preferred":[
+        "Chaki lluchk'ana"
+    ],
+    "name:roh_x_preferred":[
+        "Ski"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044b\u0436\u0438"
+    ],
+    "name:scn_x_preferred":[
+        "Sci"
+    ],
+    "name:sco_x_preferred":[
+        "Ski"
+    ],
+    "name:slk_x_preferred":[
+        "Ly\u017ee"
+    ],
+    "name:sme_x_preferred":[
+        "Sabehat"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043a\u0438\u0458\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Skidor"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041b\u0430\u0493\u0436\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0438\u0436\u0456"
+    ],
+    "name:uzb_x_preferred":[
+        "Chang\u02bbi"
+    ],
+    "name:vep_x_preferred":[
+        "Suksed"
+    ],
+    "name:war_x_preferred":[
+        "Ski"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ed1\u96ea\u677f"
     ],
     "no-geonorge:datauttaksdato":"20180109110340",
     "no-geonorge:kommunenummer":"0213",
@@ -48,7 +193,7 @@
         }
     ],
     "wof:id":1159296817,
-    "wof:lastmodified":1529699736,
+    "wof:lastmodified":1564104602,
     "wof:name":"Ski",
     "wof:parent_id":85687095,
     "wof:placetype":"localadmin",

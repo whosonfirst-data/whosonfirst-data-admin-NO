@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":687137.214039,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.464738,63.42762,10.464738,63.42762",
     "geom:latitude":63.42762,
     "geom:longitude":10.464738,
@@ -24,6 +24,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "Tunga"
+    ],
     "name:deu_x_preferred":[
         "Tunga"
     ],
@@ -39,7 +42,13 @@
     "name:por_x_preferred":[
         "Tunga"
     ],
+    "name:que_x_preferred":[
+        "Tunga"
+    ],
     "name:rus_x_preferred":[
+        "Tunga"
+    ],
+    "name:swe_x_preferred":[
         "Tunga"
     ],
     "name:unk_x_variant":[
@@ -74,9 +83,9 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":123,
     "wof:belongsto":[
-        85687127,
         1159297145,
-        101751927
+        101751927,
+        85687127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,7 +109,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531936257,
+    "wof:lastmodified":1564103156,
     "wof:name":"Tunga",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

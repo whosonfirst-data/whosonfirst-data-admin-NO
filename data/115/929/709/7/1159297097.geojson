@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074307,
+    "geom:area_square_m":453947993.352977,
     "geom:bbox":"11.0720954377,60.2259731395,11.4219334375,60.6051477511",
     "geom:latitude":60.392321,
     "geom:longitude":11.227336,
@@ -15,11 +16,128 @@
     "mps:longitude":11.24456,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Eidsvoll"
+    ],
+    "name:ara_x_preferred":[
+        "\u0623\u064a\u062f\u0633\u0641\u0648\u0644"
+    ],
+    "name:bpy_x_preferred":[
+        "\u0988\u09a6\u09b8\u09ad\u09cb\u09b2"
+    ],
+    "name:cat_x_preferred":[
+        "Eidsvoll"
+    ],
+    "name:ceb_x_preferred":[
+        "Eidsvoll"
+    ],
+    "name:dan_x_preferred":[
+        "Eidsvoll"
+    ],
+    "name:deu_x_preferred":[
+        "Eidsvoll"
+    ],
     "name:eng_x_preferred":[
         "Eidsvoll"
     ],
+    "name:epo_x_preferred":[
+        "Eidsvoll"
+    ],
+    "name:eus_x_preferred":[
+        "Eidsvoll"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u062f\u0633\u0648\u0648\u0644"
+    ],
+    "name:fin_x_preferred":[
+        "Eidsvoll"
+    ],
+    "name:fra_x_preferred":[
+        "Eidsvoll"
+    ],
+    "name:glg_x_preferred":[
+        "Eidsvoll"
+    ],
+    "name:hun_x_preferred":[
+        "Eidsvoll k\u00f6zs\u00e9g"
+    ],
+    "name:hye_x_preferred":[
+        "\u0537\u0575\u0564\u057d\u057e\u0578\u056c"
+    ],
+    "name:isl_x_preferred":[
+        "Ei\u00f0sv\u00f6llur"
+    ],
+    "name:ita_x_preferred":[
+        "Eidsvoll"
+    ],
+    "name:jav_x_preferred":[
+        "Eidsvoll"
+    ],
+    "name:lat_x_preferred":[
+        "Eidsvoll"
+    ],
+    "name:lim_x_preferred":[
+        "Eidsvoll"
+    ],
+    "name:lit_x_preferred":[
+        "Eidsvolas"
+    ],
+    "name:msa_x_preferred":[
+        "Eidsvoll"
+    ],
+    "name:nds_x_preferred":[
+        "Kommun Eidsvoll"
+    ],
+    "name:nld_x_preferred":[
+        "Eidsvoll"
+    ],
+    "name:nno_x_preferred":[
+        "Eidsvoll kommune"
+    ],
     "name:nor_x_preferred":[
         "Eidsvoll"
+    ],
+    "name:pol_x_preferred":[
+        "Eidsvoll"
+    ],
+    "name:por_x_preferred":[
+        "Eidsvoll"
+    ],
+    "name:ron_x_preferred":[
+        "Eidsvoll"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0439\u0434\u0441\u0432\u043e\u043b\u043b"
+    ],
+    "name:slv_x_preferred":[
+        "Eidsvoll"
+    ],
+    "name:sme_x_preferred":[
+        "Eidsvoll"
+    ],
+    "name:spa_x_preferred":[
+        "Eidsvoll"
+    ],
+    "name:sqi_x_preferred":[
+        "Eidsvoll"
+    ],
+    "name:swe_x_preferred":[
+        "Eidsvolls kommun"
+    ],
+    "name:tur_x_preferred":[
+        "Eidsvoll"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0439\u0434\u0441\u0432\u043e\u043b\u043b"
+    ],
+    "name:vie_x_preferred":[
+        "Eidsvoll"
+    ],
+    "name:war_x_preferred":[
+        "Eidsvoll"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u5179\u4f0f\u5c14"
     ],
     "no-geonorge:datauttaksdato":"20180109110341",
     "no-geonorge:kommunenummer":"0237",
@@ -48,7 +166,7 @@
         }
     ],
     "wof:id":1159297097,
-    "wof:lastmodified":1529699745,
+    "wof:lastmodified":1564104573,
     "wof:name":"Eidsvoll",
     "wof:parent_id":85687095,
     "wof:placetype":"localadmin",

@@ -26,6 +26,90 @@
     "iso:country":"NO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ornes"
+    ],
+    "name:ceb_x_preferred":[
+        "Ornes"
+    ],
+    "name:deu_x_preferred":[
+        "Ornes"
+    ],
+    "name:epo_x_preferred":[
+        "Ornes"
+    ],
+    "name:eus_x_preferred":[
+        "Ornes"
+    ],
+    "name:fin_x_preferred":[
+        "Ornes"
+    ],
+    "name:fra_x_preferred":[
+        "Ornes"
+    ],
+    "name:hun_x_preferred":[
+        "Ornes"
+    ],
+    "name:ita_x_preferred":[
+        "Ornes"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041e\u0440\u043d"
+    ],
+    "name:lat_x_preferred":[
+        "Ornes"
+    ],
+    "name:ltz_x_preferred":[
+        "Ornes"
+    ],
+    "name:msa_x_preferred":[
+        "Ornes"
+    ],
+    "name:nld_x_preferred":[
+        "Ornes"
+    ],
+    "name:oci_x_preferred":[
+        "Ornes"
+    ],
+    "name:pms_x_preferred":[
+        "Ornes"
+    ],
+    "name:pol_x_preferred":[
+        "Ornes"
+    ],
+    "name:por_x_preferred":[
+        "Ornes"
+    ],
+    "name:ron_x_preferred":[
+        "Ornes"
+    ],
+    "name:slk_x_preferred":[
+        "Ornes"
+    ],
+    "name:spa_x_preferred":[
+        "Ornes"
+    ],
+    "name:swe_x_preferred":[
+        "Ornes"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Ornes"
+    ],
+    "name:vie_x_preferred":[
+        "Ornes"
+    ],
+    "name:vol_x_preferred":[
+        "Ornes"
+    ],
+    "name:war_x_preferred":[
+        "Ornes"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u5c14\u8bb7"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633341
@@ -35,7 +119,7 @@
         "gn:id":3143370
     },
     "wof:country":"NO",
-    "wof:geomhash":"3ac17536d64189a46b36430c9568304e",
+    "wof:geomhash":"15b0635c97a5f23e0f121fd5676a238c",
     "wof:hierarchy":[
         {
             "country_id":85633341,
@@ -43,7 +127,7 @@
         }
     ],
     "wof:id":1209489179,
-    "wof:lastmodified":1536285540,
+    "wof:lastmodified":1564103691,
     "wof:name":"Ornes",
     "wof:parent_id":85633341,
     "wof:placetype":"locality",
@@ -53,9 +137,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.9333300000000015,
+    5.93333,
     59.51667,
-    5.9333300000000015,
+    5.93333,
     59.51667
 ],
   "geometry": {"coordinates":[5.93333,59.51667],"type":"Point"}

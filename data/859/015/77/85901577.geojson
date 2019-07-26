@@ -29,6 +29,9 @@
     "name:als_x_preferred":[
         "Hasle"
     ],
+    "name:ceb_x_preferred":[
+        "Hasle"
+    ],
     "name:dan_x_preferred":[
         "Hasle"
     ],
@@ -92,11 +95,11 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":35,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        101751917
+        101751917,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -121,7 +124,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529700263,
+    "wof:lastmodified":1564103151,
     "wof:name":"Hasle",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

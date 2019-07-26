@@ -26,8 +26,26 @@
     "iso:country":"NO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Oy\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "Oya"
+    ],
+    "name:ita_x_preferred":[
+        "Oy\u00e1"
+    ],
     "name:nor_x_preferred":[
         "\u00d8ya"
+    ],
+    "name:por_x_preferred":[
+        "Oy\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Oi\u00e1"
+    ],
+    "name:yor_x_preferred":[
+        "\u1eccya"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1310570965,
-    "wof:lastmodified":1537675924,
+    "wof:lastmodified":1564104123,
     "wof:name":"Oya",
     "wof:parent_id":1159297133,
     "wof:placetype":"locality",

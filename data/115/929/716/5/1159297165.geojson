@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.233577,
+    "geom:area_square_m":1398264131.398007,
     "geom:bbox":"6.99881125151,60.8417074497,8.28266146224,61.2354988129",
     "geom:latitude":61.044745,
     "geom:longitude":7.722622,
@@ -15,11 +16,23 @@
     "mps:longitude":7.72249,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Laerdal"
+    ],
     "name:eng_x_preferred":[
         "Laerdal"
     ],
     "name:nor_x_preferred":[
         "L\u00e6rdal"
+    ],
+    "name:nor_x_variant":[
+        "Laerdal Medical"
+    ],
+    "name:pol_x_preferred":[
+        "Laerdal Medical"
+    ],
+    "name:swe_x_preferred":[
+        "Laerdal"
     ],
     "no-geonorge:datauttaksdato":"20180109110336",
     "no-geonorge:kommunenummer":"1422",
@@ -48,7 +61,7 @@
         }
     ],
     "wof:id":1159297165,
-    "wof:lastmodified":1529699833,
+    "wof:lastmodified":1564104838,
     "wof:name":"Laerdal",
     "wof:parent_id":85687113,
     "wof:placetype":"localadmin",

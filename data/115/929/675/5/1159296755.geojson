@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031186,
+    "geom:area_square_m":197987675.737181,
     "geom:bbox":"9.60633173833,58.9978121758,9.89641648314,59.2092317004",
     "geom:latitude":59.108331,
     "geom:longitude":9.754123,
@@ -15,11 +16,134 @@
     "mps:longitude":9.756312,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0631\u0634\u063a\u0631\u0648\u0646"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09aa\u09cb\u09b0\u09cd\u09b8\u0997\u09cd\u09b0\u09c1\u09a8"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u0448\u0433\u0440\u0443\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Porsgrunn"
+    ],
+    "name:ceb_x_preferred":[
+        "Porsgrunn"
+    ],
+    "name:ces_x_preferred":[
+        "Porsgrunn"
+    ],
+    "name:dan_x_preferred":[
+        "Porsgrunn"
+    ],
+    "name:deu_x_preferred":[
+        "Porsgrunn"
+    ],
     "name:eng_x_preferred":[
         "Porsgrunn"
     ],
+    "name:epo_x_preferred":[
+        "Porsgrunn"
+    ],
+    "name:est_x_preferred":[
+        "Porsgrunni vald"
+    ],
+    "name:eus_x_preferred":[
+        "Porsgrunn"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0631\u0634\u06af\u0631\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Porsgrunn"
+    ],
+    "name:fra_x_preferred":[
+        "Porsgrunn"
+    ],
+    "name:ind_x_preferred":[
+        "Porsgrunn"
+    ],
+    "name:ita_x_preferred":[
+        "Porsgrunn"
+    ],
+    "name:kal_x_preferred":[
+        "Porsgrunn"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3ec\ub974\uc2a4\uadf8\ub8ec"
+    ],
+    "name:lat_x_preferred":[
+        "Porsgrunn"
+    ],
+    "name:lim_x_preferred":[
+        "Porsgrunn"
+    ],
+    "name:lit_x_preferred":[
+        "Po\u0161gri\u016bnas"
+    ],
+    "name:msa_x_preferred":[
+        "Porsgrunn"
+    ],
+    "name:nds_x_preferred":[
+        "Kommun Porsgrunn"
+    ],
+    "name:nld_x_preferred":[
+        "Porsgrunn"
+    ],
+    "name:nno_x_preferred":[
+        "Porsgrunn kommune"
+    ],
     "name:nor_x_preferred":[
         "Porsgrunn"
+    ],
+    "name:pol_x_preferred":[
+        "Porsgrunn"
+    ],
+    "name:por_x_preferred":[
+        "Porsgrunn"
+    ],
+    "name:ron_x_preferred":[
+        "Porsgrunn"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0441\u0433\u0440\u0443\u043d\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Porsgrunn"
+    ],
+    "name:slv_x_preferred":[
+        "Porsgrunn"
+    ],
+    "name:sme_x_preferred":[
+        "Porsgrunn"
+    ],
+    "name:spa_x_preferred":[
+        "Porsgrunn"
+    ],
+    "name:sqi_x_preferred":[
+        "Porsgrunn"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0440\u0441\u0433\u0440\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Porsgrunns kommun"
+    ],
+    "name:tum_x_preferred":[
+        "Porsgrunn/Skien"
+    ],
+    "name:tur_x_preferred":[
+        "Porsgrunn"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0440\u0441\u0433\u0440\u0443\u043d\u043d"
+    ],
+    "name:war_x_preferred":[
+        "Porsgrunn"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u4ec0\u683c\u4f26"
     ],
     "no-geonorge:datauttaksdato":"20180109110338",
     "no-geonorge:kommunenummer":"0805",
@@ -48,7 +172,7 @@
         }
     ],
     "wof:id":1159296755,
-    "wof:lastmodified":1529700377,
+    "wof:lastmodified":1564104600,
     "wof:name":"Porsgrunn",
     "wof:parent_id":85687091,
     "wof:placetype":"localadmin",

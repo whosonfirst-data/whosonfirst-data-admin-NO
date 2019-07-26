@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.112689,
+    "geom:area_square_m":652610951.202106,
     "geom:bbox":"5.72792116953,61.9565832508,6.50051169823,62.2375229052",
     "geom:latitude":62.072758,
     "geom:longitude":6.080451,
@@ -15,11 +16,107 @@
     "mps:longitude":6.074583,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bar_x_preferred":[
+        "Volda"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09ad\u09cb\u09b2\u09a1\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u043e\u043b\u0434\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Volda"
+    ],
+    "name:ceb_x_preferred":[
+        "Volda"
+    ],
+    "name:dan_x_preferred":[
+        "Volda"
+    ],
+    "name:deu_x_preferred":[
+        "Volda"
+    ],
     "name:eng_x_preferred":[
         "Volda"
     ],
+    "name:epo_x_preferred":[
+        "Volda"
+    ],
+    "name:eus_x_preferred":[
+        "Volda"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0648\u0644\u062f\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Volda"
+    ],
+    "name:fra_x_preferred":[
+        "Volda"
+    ],
+    "name:ita_x_preferred":[
+        "Volda"
+    ],
+    "name:jav_x_preferred":[
+        "Volda"
+    ],
+    "name:lat_x_preferred":[
+        "Volda"
+    ],
+    "name:lim_x_preferred":[
+        "Volda"
+    ],
+    "name:msa_x_preferred":[
+        "Volda"
+    ],
+    "name:nds_x_preferred":[
+        "Kommun Volda"
+    ],
+    "name:nld_x_preferred":[
+        "Volda"
+    ],
+    "name:nno_x_preferred":[
+        "Volda kommune"
+    ],
     "name:nor_x_preferred":[
         "Volda"
+    ],
+    "name:pol_x_preferred":[
+        "Volda"
+    ],
+    "name:por_x_preferred":[
+        "Volda"
+    ],
+    "name:ron_x_preferred":[
+        "Volda"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u043b\u0434\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Volda"
+    ],
+    "name:sme_x_preferred":[
+        "Volda"
+    ],
+    "name:spa_x_preferred":[
+        "Volda"
+    ],
+    "name:sqi_x_preferred":[
+        "Volda"
+    ],
+    "name:swe_x_preferred":[
+        "Volda kommun"
+    ],
+    "name:vie_x_preferred":[
+        "Volda"
+    ],
+    "name:war_x_preferred":[
+        "Volda"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c83\u723e\u9054"
     ],
     "no-geonorge:datauttaksdato":"20180109110337",
     "no-geonorge:kommunenummer":"1519",
@@ -48,7 +145,7 @@
         }
     ],
     "wof:id":1159297487,
-    "wof:lastmodified":1529699929,
+    "wof:lastmodified":1564104681,
     "wof:name":"Volda",
     "wof:parent_id":85687123,
     "wof:placetype":"localadmin",

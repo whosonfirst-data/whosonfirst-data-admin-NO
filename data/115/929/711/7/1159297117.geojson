@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083403,
+    "geom:area_square_m":459604876.123755,
     "geom:bbox":"9.24835825673,63.3861488434,9.97970127799,63.6718420607",
     "geom:latitude":63.534126,
     "geom:longitude":9.678828,
@@ -15,11 +16,107 @@
     "mps:longitude":9.684423,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0623\u063a\u062f\u064a\u0646\u064a\u0633"
+    ],
+    "name:bpy_x_preferred":[
+        "\u0985\u0997\u09a1\u09c7\u09a8\u09c7\u09b8"
+    ],
+    "name:cat_x_preferred":[
+        "Agdenes"
+    ],
+    "name:ceb_x_preferred":[
+        "Agdenes"
+    ],
+    "name:dan_x_preferred":[
+        "Agdenes"
+    ],
+    "name:deu_x_preferred":[
+        "Agdenes"
+    ],
     "name:eng_x_preferred":[
         "Agdenes"
     ],
+    "name:epo_x_preferred":[
+        "Agdenes"
+    ],
+    "name:est_x_preferred":[
+        "Agdenesi vald"
+    ],
+    "name:eus_x_preferred":[
+        "Agdenes"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06af\u062f\u0646\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Agdenes"
+    ],
+    "name:fra_x_preferred":[
+        "Agdenes"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0563\u0564\u0565\u0576\u0565\u057d"
+    ],
+    "name:ita_x_preferred":[
+        "Agdenes"
+    ],
+    "name:lat_x_preferred":[
+        "Agdenes"
+    ],
+    "name:lim_x_preferred":[
+        "Agdenes"
+    ],
+    "name:msa_x_preferred":[
+        "Agdenes"
+    ],
+    "name:nds_x_preferred":[
+        "Kommun Agdenes"
+    ],
+    "name:nld_x_preferred":[
+        "Agdenes"
+    ],
+    "name:nno_x_preferred":[
+        "Agdenes kommune"
+    ],
     "name:nor_x_preferred":[
         "Agdenes"
+    ],
+    "name:pol_x_preferred":[
+        "Agdenes"
+    ],
+    "name:por_x_preferred":[
+        "Agdenes"
+    ],
+    "name:ron_x_preferred":[
+        "Agdenes"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0433\u0434\u0435\u043d\u0435\u0441"
+    ],
+    "name:slv_x_preferred":[
+        "Agdenes"
+    ],
+    "name:sme_x_preferred":[
+        "Agdenes"
+    ],
+    "name:spa_x_preferred":[
+        "Agdenes"
+    ],
+    "name:swe_x_preferred":[
+        "Agdenes kommun"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06af\u062f\u0646\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Agdenes"
+    ],
+    "name:war_x_preferred":[
+        "Agdenes"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u683c\u5fb7\u5167\u65af"
     ],
     "no-geonorge:datauttaksdato":"20180109110336",
     "no-geonorge:kommunenummer":"5016",
@@ -46,7 +143,7 @@
         }
     ],
     "wof:id":1159297117,
-    "wof:lastmodified":1529700321,
+    "wof:lastmodified":1564104829,
     "wof:name":"Agdenes",
     "wof:parent_id":85687127,
     "wof:placetype":"localadmin",

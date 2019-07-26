@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":355167.295845,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.326278,60.389595,5.326278,60.389595",
     "geom:latitude":60.389595,
     "geom:longitude":5.326278,
@@ -23,8 +23,59 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:bre_x_preferred":[
+        "Marken"
+    ],
+    "name:ceb_x_preferred":[
+        "Marken"
+    ],
+    "name:dan_x_preferred":[
+        "Marken"
+    ],
+    "name:deu_x_preferred":[
+        "Marken"
+    ],
+    "name:epo_x_preferred":[
+        "Marken"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0631\u06a9\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Marken"
+    ],
+    "name:fry_x_preferred":[
+        "Marken"
+    ],
+    "name:ita_x_preferred":[
+        "Marken"
+    ],
+    "name:nld_x_preferred":[
+        "Marken"
+    ],
     "name:nor_x_preferred":[
         "Marken"
+    ],
+    "name:pol_x_preferred":[
+        "Marken"
+    ],
+    "name:por_x_preferred":[
+        "Marken"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u0435\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Marken"
+    ],
+    "name:swe_x_preferred":[
+        "Marken"
+    ],
+    "name:tur_x_preferred":[
+        "Marken"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u0435\u043d"
     ],
     "name:unk_x_variant":[
         "Marken"
@@ -59,11 +110,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85687099,
         102191581,
         1159297617,
         85633341,
-        101751923
+        101751923,
+        85687099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +136,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531870562,
+    "wof:lastmodified":1564103172,
     "wof:name":"Marken",
     "wof:parent_id":101751923,
     "wof:placetype":"neighbourhood",

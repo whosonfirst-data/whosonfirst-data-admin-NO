@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057893,
+    "geom:area_square_m":363607424.263092,
     "geom:bbox":"4.56891820678,59.3831213571,5.39725937276,59.5581630999",
     "geom:latitude":59.473658,
     "geom:longitude":5.013852,
@@ -15,11 +16,158 @@
     "mps:longitude":5.054498,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0647\u0627\u0648\u063a\u0633\u0648\u0646\u062f"
+    ],
+    "name:azb_x_preferred":[
+        "\u0647\u0648\u0642\u0633\u0648\u0646\u062f"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09b9\u09cc\u0997\u09c7\u09b8\u09c1\u09a8\u09cd\u09a1"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u0430\u0443\u0433\u0435\u0441\u0443\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Haugesund"
+    ],
+    "name:ceb_x_preferred":[
+        "Haugesund"
+    ],
+    "name:ces_x_preferred":[
+        "Haugesund"
+    ],
+    "name:dan_x_preferred":[
+        "Haugesund"
+    ],
+    "name:deu_x_preferred":[
+        "Haugesund"
+    ],
     "name:eng_x_preferred":[
         "Haugesund"
     ],
+    "name:epo_x_preferred":[
+        "Haugesund"
+    ],
+    "name:eus_x_preferred":[
+        "Haugesund"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u06af\u0633\u0648\u0646\u062f"
+    ],
+    "name:fin_x_preferred":[
+        "Haugesund"
+    ],
+    "name:fra_x_preferred":[
+        "Haugesund"
+    ],
+    "name:hun_x_preferred":[
+        "Haugesund"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0575\u0578\u0578\u0582\u0563\u0565\u057d\u0578\u0582\u0576"
+    ],
+    "name:ile_x_preferred":[
+        "Haugesund"
+    ],
+    "name:ind_x_preferred":[
+        "Haugesund"
+    ],
+    "name:isl_x_preferred":[
+        "Haugesund"
+    ],
+    "name:ita_x_preferred":[
+        "Haugesund"
+    ],
+    "name:jav_x_preferred":[
+        "Haugesund"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30a6\u30b2\u30b9\u30f3"
+    ],
+    "name:kal_x_preferred":[
+        "Haugesund"
+    ],
+    "name:kor_x_preferred":[
+        "\ud5e4\uc6b0\uac8c\uc21c"
+    ],
+    "name:lat_x_preferred":[
+        "Haugesund"
+    ],
+    "name:lim_x_preferred":[
+        "Haugesund"
+    ],
+    "name:lit_x_preferred":[
+        "Haugesiundas"
+    ],
+    "name:msa_x_preferred":[
+        "Haugesund"
+    ],
+    "name:nds_x_preferred":[
+        "Kommun Haugesund"
+    ],
+    "name:nld_x_preferred":[
+        "Haugesund"
+    ],
+    "name:nno_x_preferred":[
+        "Haugesund kommune"
+    ],
     "name:nor_x_preferred":[
         "Haugesund"
+    ],
+    "name:pol_x_preferred":[
+        "Haugesund"
+    ],
+    "name:por_x_preferred":[
+        "Haugesund"
+    ],
+    "name:ron_x_preferred":[
+        "Haugesund"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0451\u0443\u0433\u0435\u0441\u0443\u043d\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Haugesund"
+    ],
+    "name:slv_x_preferred":[
+        "Haugesund"
+    ],
+    "name:sme_x_preferred":[
+        "Haugesund"
+    ],
+    "name:spa_x_preferred":[
+        "Haugesund"
+    ],
+    "name:sqi_x_preferred":[
+        "Haugesund"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0430\u0432\u0435\u0441\u0443\u043d\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Haugesunds kommun"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e2e\u0e32\u0e40\u0e01\u0e2d\u0e0b\u0e38\u0e19\u0e14\u0e4c"
+    ],
+    "name:tum_x_preferred":[
+        "Haugesund"
+    ],
+    "name:tur_x_preferred":[
+        "Haugesund"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0443\u0433\u0435\u0441\u0443\u043d\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Haugesund"
+    ],
+    "name:war_x_preferred":[
+        "Haugesund"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d77\u4e8e\u683c\u677e"
     ],
     "no-geonorge:datauttaksdato":"20180109110334",
     "no-geonorge:kommunenummer":"1106",
@@ -48,7 +196,7 @@
         }
     ],
     "wof:id":1159296709,
-    "wof:lastmodified":1529700038,
+    "wof:lastmodified":1564104762,
     "wof:name":"Haugesund",
     "wof:parent_id":85687085,
     "wof:placetype":"localadmin",
