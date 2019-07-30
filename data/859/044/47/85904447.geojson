@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1030136.889506,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.367202,63.429867,10.367202,63.429867",
     "geom:latitude":63.429867,
     "geom:longitude":10.367202,
@@ -24,10 +24,46 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "Ila"
+    ],
+    "name:dan_x_preferred":[
+        "Ila"
+    ],
+    "name:deu_x_preferred":[
+        "Ila"
+    ],
+    "name:fra_x_preferred":[
+        "Ila"
+    ],
+    "name:ind_x_preferred":[
+        "Ila"
+    ],
+    "name:lit_x_preferred":[
+        "Ila"
+    ],
+    "name:nld_x_preferred":[
+        "Ila"
+    ],
     "name:nor_x_preferred":[
         "Ila"
     ],
+    "name:por_x_preferred":[
+        "Ila"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Ila"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b87\u0bb2\u0bbe"
+    ],
     "name:unk_x_variant":[
+        "Ila"
+    ],
+    "name:vol_x_preferred":[
         "Ila"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -59,9 +95,9 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":188,
     "wof:belongsto":[
-        85687127,
         1159297145,
-        101751927
+        101751927,
+        85687127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +121,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531936228,
+    "wof:lastmodified":1564103164,
     "wof:name":"Ila",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

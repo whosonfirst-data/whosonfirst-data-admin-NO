@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058117,
+    "geom:area_square_m":348938872.518569,
     "geom:bbox":"10.9809795297,60.7689841048,11.2796864065,61.2360446947",
     "geom:latitude":60.950841,
     "geom:longitude":11.14287,
@@ -15,10 +16,31 @@
     "mps:longitude":11.153049,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0647\u0627\u0645\u0631"
+    ],
+    "name:azb_x_preferred":[
+        "\u0647\u0627\u0645\u0627\u0631"
+    ],
+    "name:ceb_x_preferred":[
+        "Hamar"
+    ],
     "name:eng_x_preferred":[
         "Hamar"
     ],
+    "name:est_x_preferred":[
+        "Hamar"
+    ],
+    "name:isl_x_preferred":[
+        "Hamar"
+    ],
+    "name:nno_x_preferred":[
+        "Hamar"
+    ],
     "name:nor_x_preferred":[
+        "Hamar"
+    ],
+    "name:swe_x_preferred":[
         "Hamar"
     ],
     "no-geonorge:datauttaksdato":"20180109110341",
@@ -48,7 +70,7 @@
         }
     ],
     "wof:id":1159297089,
-    "wof:lastmodified":1529700002,
+    "wof:lastmodified":1564104555,
     "wof:name":"Hamar",
     "wof:parent_id":85687117,
     "wof:placetype":"localadmin",

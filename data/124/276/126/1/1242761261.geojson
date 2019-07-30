@@ -29,6 +29,12 @@
     "name:ara_x_preferred":[
         "\u0633\u062a\u0631\u0627\u0646\u062f"
     ],
+    "name:cat_x_preferred":[
+        "Strand"
+    ],
+    "name:ceb_x_preferred":[
+        "Strand"
+    ],
     "name:dan_x_preferred":[
         "Strand kommune"
     ],
@@ -36,6 +42,33 @@
         "Strand"
     ],
     "name:eng_x_preferred":[
+        "Strand"
+    ],
+    "name:epo_x_preferred":[
+        "Strand"
+    ],
+    "name:fin_x_preferred":[
+        "Strand"
+    ],
+    "name:fra_x_preferred":[
+        "Strand"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u057f\u0580\u0561\u0576\u0564"
+    ],
+    "name:ita_x_preferred":[
+        "Strand"
+    ],
+    "name:jav_x_preferred":[
+        "Strand"
+    ],
+    "name:lat_x_preferred":[
+        "Strand"
+    ],
+    "name:lim_x_preferred":[
+        "Strand"
+    ],
+    "name:msa_x_preferred":[
         "Strand"
     ],
     "name:nds_x_preferred":[
@@ -47,8 +80,14 @@
     "name:nno_x_preferred":[
         "Strand"
     ],
+    "name:nno_x_variant":[
+        "Strand kommune"
+    ],
     "name:nor_x_preferred":[
         "Strand kommune"
+    ],
+    "name:nor_x_variant":[
+        "Strand"
     ],
     "name:pol_x_preferred":[
         "Strand"
@@ -56,11 +95,29 @@
     "name:por_x_preferred":[
         "Strand"
     ],
+    "name:ron_x_preferred":[
+        "Strand"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0440\u0430\u043d\u043d"
     ],
+    "name:slv_x_preferred":[
+        "Strand"
+    ],
+    "name:sme_x_preferred":[
+        "Strand"
+    ],
+    "name:spa_x_preferred":[
+        "Strand"
+    ],
+    "name:sqi_x_preferred":[
+        "Strand"
+    ],
     "name:swe_x_preferred":[
         "Strands kommun"
+    ],
+    "name:war_x_preferred":[
+        "Strand"
     ],
     "name:zho_x_preferred":[
         "\u65af\u7279\u862d"
@@ -89,7 +146,7 @@
         }
     ],
     "wof:id":1242761261,
-    "wof:lastmodified":1537675702,
+    "wof:lastmodified":1564105014,
     "wof:name":"Strand",
     "wof:parent_id":1159297053,
     "wof:placetype":"locality",

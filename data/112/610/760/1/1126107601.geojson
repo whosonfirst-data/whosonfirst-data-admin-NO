@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:nno_x_preferred":[
+        "Dragvoll"
+    ],
+    "name:nor_x_preferred":[
+        "Dragvoll"
+    ],
+    "name:swe_x_preferred":[
+        "Dragvoll"
+    ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Dragvoll",
@@ -40,9 +49,9 @@
     "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85687127,
         1159297145,
-        101751927
+        101751927,
+        85687127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1126107601,
-    "wof:lastmodified":1529700350,
+    "wof:lastmodified":1564104356,
     "wof:name":"Dragvoll",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

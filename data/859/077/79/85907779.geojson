@@ -25,11 +25,83 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
     "mz:tier_metro":1,
+    "name:bul_x_preferred":[
+        "\u0424\u0438\u043b\u0438\u043f\u0441\u0442\u0430\u0434"
+    ],
+    "name:cat_x_preferred":[
+        "Filipstad"
+    ],
+    "name:ceb_x_preferred":[
+        "Filipstad"
+    ],
+    "name:dan_x_preferred":[
+        "Filipstad"
+    ],
+    "name:deu_x_preferred":[
+        "Filipstad"
+    ],
+    "name:fao_x_preferred":[
+        "Filipstad"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u06cc\u0644\u06cc\u067e\u0633\u062a\u0627\u062f"
+    ],
+    "name:fin_x_preferred":[
+        "Filipstad"
+    ],
+    "name:fra_x_preferred":[
+        "Filipstad"
+    ],
+    "name:hrv_x_preferred":[
+        "Filipstad"
+    ],
+    "name:iku_x_preferred":[
+        "\u1555\u14d5\u1449\u1505\u1455\u1466"
+    ],
+    "name:isl_x_preferred":[
+        "Filipstad"
+    ],
+    "name:ita_x_preferred":[
+        "Filipstad"
+    ],
+    "name:nld_x_preferred":[
+        "Filipstad"
+    ],
     "name:nor_x_preferred":[
         "Filipstad"
     ],
+    "name:pol_x_preferred":[
+        "Filipstad"
+    ],
+    "name:por_x_preferred":[
+        "Filipstad"
+    ],
+    "name:ron_x_preferred":[
+        "Filipstad"
+    ],
+    "name:srp_x_preferred":[
+        "\u0424\u0438\u043b\u0438\u043f\u0441\u0442\u0430\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Filipstad"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0438\u043b\u0438\u043f\u0441\u0442\u0430\u0434"
+    ],
+    "name:tur_x_preferred":[
+        "Filipstad"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0456\u043b\u0456\u043f\u0441\u0442\u0430\u0434"
+    ],
     "name:unk_x_variant":[
         "Filipstad"
+    ],
+    "name:vol_x_preferred":[
+        "Filipstad"
+    ],
+    "name:zho_x_preferred":[
+        "\u83f2\u5229\u666e\u65af\u5854\u5fb7"
     ],
     "qs:gn_adm0_cc":"NO",
     "qs:gn_id":0,
@@ -58,11 +130,11 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        101751917
+        101751917,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +158,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529700270,
+    "wof:lastmodified":1564103152,
     "wof:name":"Filipstad",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

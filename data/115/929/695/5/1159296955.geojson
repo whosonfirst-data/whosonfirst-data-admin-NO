@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.163476,
+    "geom:area_square_m":1055000818.596365,
     "geom:bbox":"5.16324058714,58.3325082219,5.93470340764,58.7053227487",
     "geom:latitude":58.540144,
     "geom:longitude":5.55072,
@@ -18,8 +19,23 @@
     "name:eng_x_preferred":[
         "Ha"
     ],
+    "name:epo_x_preferred":[
+        "Ha"
+    ],
+    "name:hun_x_preferred":[
+        "Ha"
+    ],
     "name:nor_x_preferred":[
         "H\u00e5"
+    ],
+    "name:pol_x_preferred":[
+        "Ha"
+    ],
+    "name:spa_x_preferred":[
+        "Ha"
+    ],
+    "name:vie_x_preferred":[
+        "Ha"
     ],
     "no-geonorge:datauttaksdato":"20180109110334",
     "no-geonorge:kommunenummer":"1119",
@@ -48,7 +64,7 @@
         }
     ],
     "wof:id":1159296955,
-    "wof:lastmodified":1529700276,
+    "wof:lastmodified":1564104639,
     "wof:name":"Ha",
     "wof:parent_id":85687085,
     "wof:placetype":"localadmin",

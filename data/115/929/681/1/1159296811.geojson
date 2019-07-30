@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031037,
+    "geom:area_square_m":191633301.05554,
     "geom:bbox":"10.1245402,59.9564540937,10.4777426075,60.1265620523",
     "geom:latitude":60.044868,
     "geom:longitude":10.294665,
@@ -18,8 +19,20 @@
     "name:eng_x_preferred":[
         "Hole"
     ],
+    "name:ita_x_preferred":[
+        "Buco"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb0\u0c82\u0ca7\u0ccd\u0cb0"
+    ],
     "name:nor_x_preferred":[
         "Hole"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0442\u0432\u0435\u0440\u0441\u0442\u0438\u0435"
+    ],
+    "name:sun_x_preferred":[
+        "Liang"
     ],
     "no-geonorge:datauttaksdato":"20180109110342",
     "no-geonorge:kommunenummer":"0612",
@@ -48,7 +61,7 @@
         }
     ],
     "wof:id":1159296811,
-    "wof:lastmodified":1529699736,
+    "wof:lastmodified":1564104603,
     "wof:name":"Hole",
     "wof:parent_id":85687105,
     "wof:placetype":"localadmin",

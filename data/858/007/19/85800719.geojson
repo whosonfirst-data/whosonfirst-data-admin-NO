@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3197967.673453,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.338224,60.367712,5.338224,60.367712",
     "geom:latitude":60.367712,
     "geom:longitude":5.338224,
@@ -23,6 +23,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "Solheim"
+    ],
     "name:deu_x_preferred":[
         "Solheim"
     ],
@@ -75,11 +78,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":211,
     "wof:belongsto":[
-        85687099,
         102191581,
         1159297617,
         85633341,
-        101751923
+        101751923,
+        85687099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,7 +107,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531862038,
+    "wof:lastmodified":1564103169,
     "wof:name":"Solheim",
     "wof:parent_id":101751923,
     "wof:placetype":"neighbourhood",

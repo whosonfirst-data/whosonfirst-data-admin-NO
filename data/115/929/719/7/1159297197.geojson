@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.194108,
+    "geom:area_square_m":1033570879.847881,
     "geom:bbox":"10.7382050522,64.2333549631,11.9129350035,64.7143088192",
     "geom:latitude":64.492779,
     "geom:longitude":11.422634,
@@ -15,11 +16,128 @@
     "mps:longitude":11.480574,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0646\u0627\u0645\u0633\u0648\u0633"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09a8\u09be\u09ae\u09b8\u09cb\u09b8"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u0430\u043c\u0441\u043e\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Namsos"
+    ],
+    "name:ceb_x_preferred":[
+        "Namsos"
+    ],
+    "name:dan_x_preferred":[
+        "Namsos"
+    ],
+    "name:deu_x_preferred":[
+        "Namsos"
+    ],
     "name:eng_x_preferred":[
         "Namsos"
     ],
+    "name:epo_x_preferred":[
+        "Namsos"
+    ],
+    "name:eus_x_preferred":[
+        "Namsos"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0645\u0633\u0648\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Namsos"
+    ],
+    "name:fra_x_preferred":[
+        "Namsos"
+    ],
+    "name:ita_x_preferred":[
+        "Namsos"
+    ],
+    "name:jav_x_preferred":[
+        "Namsos"
+    ],
+    "name:jbo_x_preferred":[
+        "namsos"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ca\u30e0\u30bd\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\ub0a8\uc18c\uc2a4"
+    ],
+    "name:lat_x_preferred":[
+        "Namsos"
+    ],
+    "name:lim_x_preferred":[
+        "Namsos"
+    ],
+    "name:msa_x_preferred":[
+        "Namsos"
+    ],
+    "name:nds_x_preferred":[
+        "Kommun Namsos"
+    ],
+    "name:nld_x_preferred":[
+        "Namsos"
+    ],
+    "name:nno_x_preferred":[
+        "Namsos kommune"
+    ],
     "name:nor_x_preferred":[
         "Namsos"
+    ],
+    "name:pol_x_preferred":[
+        "Namsos"
+    ],
+    "name:por_x_preferred":[
+        "Namsos"
+    ],
+    "name:ron_x_preferred":[
+        "Namsos"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u043c\u0441\u0443\u0441"
+    ],
+    "name:slv_x_preferred":[
+        "Namsos"
+    ],
+    "name:sme_x_preferred":[
+        "Njaarke"
+    ],
+    "name:spa_x_preferred":[
+        "Namsos"
+    ],
+    "name:sqi_x_preferred":[
+        "Namsos"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0430\u043c\u0441\u043e\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Namsos kommun"
+    ],
+    "name:szl_x_preferred":[
+        "Namsos"
+    ],
+    "name:tur_x_preferred":[
+        "Namsos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u043c\u0441\u0443\u0441"
+    ],
+    "name:vie_x_preferred":[
+        "Namsos"
+    ],
+    "name:war_x_preferred":[
+        "Namsos"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u59c6\u7d22\u65af"
     ],
     "no-geonorge:datauttaksdato":"20180109110336",
     "no-geonorge:kommunenummer":"5005",
@@ -48,7 +166,7 @@
         }
     ],
     "wof:id":1159297197,
-    "wof:lastmodified":1529700198,
+    "wof:lastmodified":1564104805,
     "wof:name":"Namsos",
     "wof:parent_id":85687133,
     "wof:placetype":"localadmin",

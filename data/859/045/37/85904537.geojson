@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":474044.363535,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.403573,63.411504,10.403573,63.411504",
     "geom:latitude":63.411504,
     "geom:longitude":10.403573,
@@ -24,6 +24,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:cat_x_preferred":[
+        "Tempe"
+    ],
+    "name:ceb_x_preferred":[
+        "Tempe"
+    ],
+    "name:dan_x_preferred":[
+        "Tempe"
+    ],
     "name:deu_x_preferred":[
         "Tempe"
     ],
@@ -113,9 +122,9 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":43,
     "wof:belongsto":[
-        85687127,
         1159297145,
-        101751927
+        101751927,
+        85687127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -139,7 +148,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531936256,
+    "wof:lastmodified":1564103156,
     "wof:name":"Tempe",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

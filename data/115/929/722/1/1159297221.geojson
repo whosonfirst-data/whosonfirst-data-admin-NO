@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01864,
+    "geom:area_square_m":115910699.308807,
     "geom:bbox":"10.5421005737,59.722119513,10.7440196687,59.884410483",
     "geom:latitude":59.807629,
     "geom:longitude":10.643551,
@@ -15,11 +16,113 @@
     "mps:longitude":10.645076,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u0633\u0648\u062f\u0646"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09a8\u09c7\u09b8\u09cb\u09a1\u09c7\u09a8"
+    ],
+    "name:cat_x_preferred":[
+        "Nesodden"
+    ],
+    "name:ceb_x_preferred":[
+        "Nesodden"
+    ],
+    "name:dan_x_preferred":[
+        "Nesodden"
+    ],
+    "name:deu_x_preferred":[
+        "Nesodden"
+    ],
     "name:eng_x_preferred":[
         "Nesodden"
     ],
+    "name:epo_x_preferred":[
+        "Nesodden"
+    ],
+    "name:eus_x_preferred":[
+        "Nesodden"
+    ],
+    "name:fin_x_preferred":[
+        "Nesodden"
+    ],
+    "name:fra_x_preferred":[
+        "Nesodden"
+    ],
+    "name:glg_x_preferred":[
+        "Nesodden"
+    ],
+    "name:hun_x_preferred":[
+        "Nesodden k\u00f6zs\u00e9g"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0565\u057d\u0578\u0564\u0565\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Nesodden"
+    ],
+    "name:jav_x_preferred":[
+        "Nesodden"
+    ],
+    "name:lat_x_preferred":[
+        "Nesodden"
+    ],
+    "name:lim_x_preferred":[
+        "Nesodden"
+    ],
+    "name:msa_x_preferred":[
+        "Nesodden"
+    ],
+    "name:nds_x_preferred":[
+        "Kommun Nesodden"
+    ],
+    "name:nld_x_preferred":[
+        "Nesodden"
+    ],
+    "name:nno_x_preferred":[
+        "Nesodden kommune"
+    ],
     "name:nor_x_preferred":[
         "Nesodden"
+    ],
+    "name:pol_x_preferred":[
+        "Nesodden"
+    ],
+    "name:por_x_preferred":[
+        "Nesodden"
+    ],
+    "name:ron_x_preferred":[
+        "Nesodden"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0441\u043e\u0434\u0434\u0435\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Nesodden"
+    ],
+    "name:sme_x_preferred":[
+        "Nesodden"
+    ],
+    "name:spa_x_preferred":[
+        "Nesodden"
+    ],
+    "name:sqi_x_preferred":[
+        "Nesodden"
+    ],
+    "name:swe_x_preferred":[
+        "Nesoddens kommun"
+    ],
+    "name:tur_x_preferred":[
+        "Nesodden"
+    ],
+    "name:vie_x_preferred":[
+        "Nesodden"
+    ],
+    "name:war_x_preferred":[
+        "Nesodden"
+    ],
+    "name:zho_x_preferred":[
+        "\u5167\u7d22\u767b"
     ],
     "no-geonorge:datauttaksdato":"20180109110343",
     "no-geonorge:kommunenummer":"0216",
@@ -48,7 +151,7 @@
         }
     ],
     "wof:id":1159297221,
-    "wof:lastmodified":1529699747,
+    "wof:lastmodified":1564104640,
     "wof:name":"Nesodden",
     "wof:parent_id":85687095,
     "wof:placetype":"localadmin",

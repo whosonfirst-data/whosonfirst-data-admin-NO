@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":78513.692575,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.461731,63.407509,10.461731,63.407509",
     "geom:latitude":63.407509,
     "geom:longitude":10.461731,
@@ -24,11 +24,71 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
+    "name:bar_x_preferred":[
+        "Bergheim"
+    ],
+    "name:ceb_x_preferred":[
+        "Bergheim"
+    ],
+    "name:dan_x_preferred":[
+        "Bergheim"
+    ],
+    "name:deu_x_preferred":[
+        "Bergheim"
+    ],
+    "name:eus_x_preferred":[
+        "Bergheim"
+    ],
+    "name:fra_x_preferred":[
+        "Bergheim"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u0580\u0563\u0570\u0561\u0575\u0574"
+    ],
+    "name:ita_x_preferred":[
+        "Bergheim"
+    ],
+    "name:nds_x_preferred":[
+        "Bergheim"
+    ],
+    "name:nld_x_preferred":[
+        "Bergheim"
+    ],
+    "name:nno_x_preferred":[
+        "Bergheim"
+    ],
     "name:nor_x_preferred":[
         "Bergheim"
     ],
+    "name:pol_x_preferred":[
+        "Bergheim"
+    ],
+    "name:por_x_preferred":[
+        "Bergheim"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0433\u0445\u0430\u0439\u043c"
+    ],
+    "name:slk_x_preferred":[
+        "Bergheim"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u0440\u0433\u0445\u0430\u0458\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "Bergheim"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0440\u0433\u0433\u0430\u0439\u043c"
+    ],
     "name:unk_x_variant":[
         "Bergheim"
+    ],
+    "name:vol_x_preferred":[
+        "Bergheim"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u683c\u6d77\u59c6"
     ],
     "qs:gn_adm0_cc":"NO",
     "qs:gn_id":0,
@@ -58,9 +118,9 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85687127,
         1159297145,
-        101751927
+        101751927,
+        85687127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +144,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531936213,
+    "wof:lastmodified":1564103165,
     "wof:name":"Bergheim",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

@@ -27,8 +27,17 @@
     "iso:country":"NO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Meland"
+    ],
     "name:bpy_x_preferred":[
         "\u09ae\u09c7\u09b2\u09c7\u09a8\u09cd\u09a1"
+    ],
+    "name:cat_x_preferred":[
+        "Meland"
+    ],
+    "name:ceb_x_preferred":[
+        "Meland"
     ],
     "name:dan_x_preferred":[
         "Meland"
@@ -39,6 +48,33 @@
     "name:eng_x_preferred":[
         "Meland"
     ],
+    "name:epo_x_preferred":[
+        "Meland"
+    ],
+    "name:eus_x_preferred":[
+        "Meland"
+    ],
+    "name:fin_x_preferred":[
+        "Meland"
+    ],
+    "name:fra_x_preferred":[
+        "Meland"
+    ],
+    "name:ita_x_preferred":[
+        "Meland"
+    ],
+    "name:jav_x_preferred":[
+        "Meland"
+    ],
+    "name:lat_x_preferred":[
+        "Meland"
+    ],
+    "name:lim_x_preferred":[
+        "Meland"
+    ],
+    "name:msa_x_preferred":[
+        "Meland"
+    ],
     "name:nds_x_preferred":[
         "Kommun Meland"
     ],
@@ -47,6 +83,9 @@
     ],
     "name:nno_x_preferred":[
         "Meland"
+    ],
+    "name:nno_x_variant":[
+        "Meland kommune"
     ],
     "name:nor_x_preferred":[
         "Meland"
@@ -63,11 +102,29 @@
     "name:rus_x_preferred":[
         "\u041c\u0435\u043b\u0430\u043d\u043d"
     ],
+    "name:slv_x_preferred":[
+        "Meland"
+    ],
+    "name:sme_x_preferred":[
+        "Meland"
+    ],
+    "name:spa_x_preferred":[
+        "Meland"
+    ],
+    "name:sqi_x_preferred":[
+        "Meland"
+    ],
     "name:swe_x_preferred":[
         "Melands kommun"
     ],
     "name:und_x_variant":[
         "M\u00e6land",
+        "Meland"
+    ],
+    "name:vie_x_preferred":[
+        "Meland"
+    ],
+    "name:war_x_preferred":[
         "Meland"
     ],
     "name:zho_x_preferred":[
@@ -97,7 +154,7 @@
         }
     ],
     "wof:id":1293195031,
-    "wof:lastmodified":1537675768,
+    "wof:lastmodified":1564103374,
     "wof:name":"Meland",
     "wof:parent_id":1159297633,
     "wof:placetype":"locality",

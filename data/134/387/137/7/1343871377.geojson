@@ -26,11 +26,26 @@
     "iso:country":"NO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0631\u064a\u0645\u0633\u062a\u0627\u062f"
+    ],
+    "name:bar_x_preferred":[
+        "Grimstad"
+    ],
     "name:bpy_x_preferred":[
         "\u0997\u09cd\u09b0\u09bf\u09ae\u09b8\u09cd\u099f\u09be\u09a1"
     ],
     "name:bul_x_preferred":[
         "\u0413\u0440\u0438\u043c\u0441\u0442\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Grimstad"
+    ],
+    "name:ceb_x_preferred":[
+        "Grimstad"
+    ],
+    "name:ces_x_preferred":[
+        "Grimstad"
     ],
     "name:dan_x_preferred":[
         "Grimstad"
@@ -41,17 +56,59 @@
     "name:eng_x_preferred":[
         "Grimstad"
     ],
+    "name:epo_x_preferred":[
+        "Grimstad"
+    ],
     "name:est_x_preferred":[
         "Grimstadi vald"
     ],
+    "name:eus_x_preferred":[
+        "Grimstad"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0631\u06cc\u0645\u0633\u062a\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Grimstad"
+    ],
+    "name:fra_x_preferred":[
+        "Grimstad"
+    ],
+    "name:gla_x_preferred":[
+        "Grimstad"
+    ],
+    "name:hrv_x_preferred":[
+        "Grimstad"
+    ],
+    "name:hun_x_preferred":[
+        "Grimstad"
+    ],
     "name:ita_x_preferred":[
+        "Grimstad"
+    ],
+    "name:jav_x_preferred":[
         "Grimstad"
     ],
     "name:jpn_x_preferred":[
         "\u30b0\u30ea\u30e0\u30b9\u30bf\u30c3\u30c9"
     ],
+    "name:jpn_x_variant":[
+        "\u30b0\u30ea\u30e0\u30b9\u30bf"
+    ],
     "name:kor_x_preferred":[
         "\uadf8\ub9bc\uc2a4\ud0c0\ub4dc"
+    ],
+    "name:lat_x_preferred":[
+        "Grimstad"
+    ],
+    "name:lim_x_preferred":[
+        "Grimstad"
+    ],
+    "name:lit_x_preferred":[
+        "Grimstadas"
+    ],
+    "name:msa_x_preferred":[
+        "Grimstad"
     ],
     "name:nds_x_preferred":[
         "Kommun Grimstad"
@@ -61,6 +118,9 @@
     ],
     "name:nno_x_preferred":[
         "Grimstad"
+    ],
+    "name:nno_x_variant":[
+        "Grimstad kommune"
     ],
     "name:nor_x_preferred":[
         "Grimstad"
@@ -77,10 +137,37 @@
     "name:rus_x_preferred":[
         "\u0413\u0440\u0438\u043c\u0441\u0442\u0430\u0434"
     ],
+    "name:slv_x_preferred":[
+        "Grimstad"
+    ],
+    "name:sme_x_preferred":[
+        "Grimstad"
+    ],
+    "name:spa_x_preferred":[
+        "Grimstad"
+    ],
+    "name:sqi_x_preferred":[
+        "Grimstad"
+    ],
     "name:srp_x_preferred":[
         "\u0413\u0440\u0438\u043c\u0441\u0442\u0430\u0434"
     ],
     "name:swe_x_preferred":[
+        "Grimstad"
+    ],
+    "name:swe_x_variant":[
+        "Grimstads kommun"
+    ],
+    "name:tur_x_preferred":[
+        "Grimstad"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u0456\u043c\u0441\u0442\u0430\u0434"
+    ],
+    "name:vie_x_preferred":[
+        "Grimstad"
+    ],
+    "name:war_x_preferred":[
         "Grimstad"
     ],
     "name:zho_x_preferred":[
@@ -111,7 +198,7 @@
         }
     ],
     "wof:id":1343871377,
-    "wof:lastmodified":1537675830,
+    "wof:lastmodified":1564103125,
     "wof:name":"Grimstad",
     "wof:parent_id":1159297075,
     "wof:placetype":"locality",

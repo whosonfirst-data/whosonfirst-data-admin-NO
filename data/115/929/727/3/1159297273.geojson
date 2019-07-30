@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.242068,
+    "geom:area_square_m":1085167755.324425,
     "geom:bbox":"14.787935637,68.5259813552,16.1122669806,69.0086294724",
     "geom:latitude":68.743225,
     "geom:longitude":15.509639,
@@ -15,11 +16,116 @@
     "mps:longitude":15.464669,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0631\u062a\u0644\u0627\u0646\u062f"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09b8\u09cb\u09b0\u09cd\u099f\u09b2\u09c7\u09a8\u09cd\u09a1"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u043e\u0440\u0442\u043b\u0430\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Sortland"
+    ],
+    "name:ceb_x_preferred":[
+        "Sortland"
+    ],
+    "name:dan_x_preferred":[
+        "Sortland"
+    ],
+    "name:deu_x_preferred":[
+        "Sortland"
+    ],
     "name:eng_x_preferred":[
         "Sortland"
     ],
+    "name:epo_x_preferred":[
+        "Sortland"
+    ],
+    "name:eus_x_preferred":[
+        "Sortland"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0631\u062a\u0644\u0646\u062f"
+    ],
+    "name:fin_x_preferred":[
+        "Sortland"
+    ],
+    "name:fra_x_preferred":[
+        "Sortland"
+    ],
+    "name:ita_x_preferred":[
+        "Sortland"
+    ],
+    "name:jav_x_preferred":[
+        "Sortland"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bd\u30eb\u30c8\u30e9\u30f3"
+    ],
+    "name:lat_x_preferred":[
+        "Sortland"
+    ],
+    "name:lim_x_preferred":[
+        "Sortland"
+    ],
+    "name:msa_x_preferred":[
+        "Sortland"
+    ],
+    "name:nds_x_preferred":[
+        "Kommun Sortland"
+    ],
+    "name:nld_x_preferred":[
+        "Sortland"
+    ],
+    "name:nno_x_preferred":[
+        "Sortland kommune"
+    ],
     "name:nor_x_preferred":[
         "Sortland"
+    ],
+    "name:pol_x_preferred":[
+        "Sortland"
+    ],
+    "name:por_x_preferred":[
+        "Sortland"
+    ],
+    "name:ron_x_preferred":[
+        "Sortland"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0440\u0442\u043b\u0430\u043d\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Sortland"
+    ],
+    "name:sme_x_preferred":[
+        "Suorta"
+    ],
+    "name:spa_x_preferred":[
+        "Sortland"
+    ],
+    "name:sqi_x_preferred":[
+        "Sortland"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043e\u0440\u0442\u043b\u0430\u043d\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Sortlands kommun"
+    ],
+    "name:tur_x_preferred":[
+        "Sortland"
+    ],
+    "name:vie_x_preferred":[
+        "Sortland"
+    ],
+    "name:war_x_preferred":[
+        "Sortland"
+    ],
+    "name:zho_x_preferred":[
+        "\u82cf\u7279\u5170"
     ],
     "no-geonorge:datauttaksdato":"20180109110344",
     "no-geonorge:kommunenummer":"1870",
@@ -46,7 +152,7 @@
         }
     ],
     "wof:id":1159297273,
-    "wof:lastmodified":1529700145,
+    "wof:lastmodified":1564104845,
     "wof:name":"Sortland",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",
