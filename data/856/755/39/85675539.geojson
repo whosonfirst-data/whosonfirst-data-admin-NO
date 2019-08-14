@@ -20,6 +20,9 @@
     "label:eng_x_preferred_placetype":[
         "territory"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SV"
+    ],
     "lbl:latitude":78.778238,
     "lbl:longitude":18.080645,
     "mps:latitude":78.778238,
@@ -394,9 +397,6 @@
         }
     ],
     "wof:id":85675539,
-    "wof:lang":[
-        "nor"
-    ],
     "wof:lang_x_official":[
         "nob",
         "nno"
@@ -406,7 +406,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1563571656,
+    "wof:lastmodified":1565731838,
     "wof:name":"Svalbard",
     "wof:parent_id":85633341,
     "wof:placetype":"region",
