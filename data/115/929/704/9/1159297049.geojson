@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.300199,
+    "geom:area_square_m":1574537384.434567,
     "geom:bbox":"13.039464262,64.5030397479,14.3259858374,65.13924895",
     "geom:latitude":64.901515,
     "geom:longitude":13.639212,
     "iso:country":"NO",
     "lbl:latitude":64.950157,
     "lbl:longitude":13.683162,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":64.950157,
     "mps:longitude":13.683162,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Royrvik"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159297049,
-    "wof:lastmodified":1529700141,
+    "wof:lastmodified":1566662870,
     "wof:name":"Royrvik",
     "wof:parent_id":85687133,
     "wof:placetype":"localadmin",

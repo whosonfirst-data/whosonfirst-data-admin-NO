@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"7.03,58.09667,7.07,58.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rosfjorden"
     ],
@@ -46,8 +50,7 @@
         "Rosfjord"
     ],
     "name:und_x_variant":[
-        "Rossfjord",
-        "Rosfjord"
+        "Rossfjord"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1243226177,
-    "wof:lastmodified":1564104959,
+    "wof:lastmodified":1566663013,
     "wof:name":"Rosfjord",
     "wof:parent_id":1159296753,
     "wof:placetype":"locality",

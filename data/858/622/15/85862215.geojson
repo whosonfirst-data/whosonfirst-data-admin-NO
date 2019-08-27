@@ -10,8 +10,10 @@
     "geom:latitude":60.389595,
     "geom:longitude":5.326278,
     "iso:country":"NO",
+    "lbl:bbox":"5.321278,60.384595,5.331278,60.394595",
     "lbl:latitude":60.389595,
     "lbl:longitude":5.326278,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.388752,
     "mps:longitude":5.32843,
     "mz:hierarchy_label":0,
@@ -77,9 +79,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u043a\u0435\u043d"
     ],
-    "name:unk_x_variant":[
-        "Marken"
-    ],
     "qs:gn_adm0_cc":"NO",
     "qs:gn_id":0,
     "qs:gn_local":3161732,
@@ -108,7 +107,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1159297617,
@@ -136,7 +135,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1564103172,
+    "wof:lastmodified":1566661687,
     "wof:name":"Marken",
     "wof:parent_id":101751923,
     "wof:placetype":"neighbourhood",

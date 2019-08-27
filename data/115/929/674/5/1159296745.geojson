@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.104656,
+    "geom:area_square_m":633419308.135648,
     "geom:bbox":"4.95189993919,60.5329027599,5.71382180468,60.8527777338",
     "geom:latitude":60.694134,
     "geom:longitude":5.345398,
     "iso:country":"NO",
     "lbl:latitude":60.638262,
     "lbl:longitude":5.30768,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.638262,
     "mps:longitude":5.30768,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lindas"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159296745,
-    "wof:lastmodified":1529699923,
+    "wof:lastmodified":1566662791,
     "wof:name":"Lindas",
     "wof:parent_id":85687099,
     "wof:placetype":"localadmin",

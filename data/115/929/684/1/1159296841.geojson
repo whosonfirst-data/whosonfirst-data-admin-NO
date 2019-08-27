@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.092183,
+    "geom:area_square_m":559404939.936511,
     "geom:bbox":"10.6714722856,60.4705817621,11.1539860031,60.7749410668",
     "geom:latitude":60.60896,
     "geom:longitude":10.890188,
     "iso:country":"NO",
     "lbl:latitude":60.605778,
     "lbl:longitude":10.890192,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.605778,
     "mps:longitude":10.890192,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ostre Toten"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159296841,
-    "wof:lastmodified":1529699737,
+    "wof:lastmodified":1566662899,
     "wof:name":"Ostre Toten",
     "wof:parent_id":85687109,
     "wof:placetype":"localadmin",

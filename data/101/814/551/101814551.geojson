@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":64.463646,
     "lbl:longitude":12.313411,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":64.463646,
     "mps:longitude":12.313411,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Grong"
     ],
@@ -159,7 +162,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":454,
     "wof:belongsto":[
@@ -173,7 +176,6 @@
         "fct:id":"01fdc0d4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3154907,
         "gp:id":859110,
-        "qs:id":352952,
         "qs_pg:id":352952,
         "wd:id":"Q258084"
     },
@@ -192,7 +194,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572787,
+    "wof:lastmodified":1566662406,
     "wof:name":"Grong",
     "wof:parent_id":1159297447,
     "wof:placetype":"locality",

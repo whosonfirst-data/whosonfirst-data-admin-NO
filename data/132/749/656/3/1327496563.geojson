@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"20.5113,70.17354,20.5513,70.21354",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "\u00c5rvik"
     ],
@@ -35,10 +39,8 @@
         "\u00c5rviksanden"
     ],
     "name:und_x_variant":[
-        "\u00c5rvik",
         "Aarviksand",
-        "Aarvik",
-        "\u00c5rviksand"
+        "Aarvik"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":1327496563,
-    "wof:lastmodified":1537675667,
+    "wof:lastmodified":1566661412,
     "wof:name":"Arvik",
     "wof:parent_id":1159297483,
     "wof:placetype":"locality",

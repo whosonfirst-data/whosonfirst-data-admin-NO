@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"17.16333,69.06333,17.20333,69.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Stonglandseidet"
     ],
@@ -41,8 +45,7 @@
     ],
     "name:und_x_variant":[
         "Eidet",
-        "Stonglandseid",
-        "Stonglandseidet"
+        "Stonglandseid"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1209478339,
-    "wof:lastmodified":1564103723,
+    "wof:lastmodified":1566662029,
     "wof:name":"Stonglandseidet",
     "wof:parent_id":85633341,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033839,
+    "geom:area_square_m":193411307.152821,
     "geom:bbox":"6.05516626094,62.3943572736,6.57128325486,62.5250797294",
     "geom:latitude":62.468973,
     "geom:longitude":6.333108,
     "iso:country":"NO",
     "lbl:latitude":62.477259,
     "lbl:longitude":6.333041,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":62.477259,
     "mps:longitude":6.333041,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Alesund"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159297219,
-    "wof:lastmodified":1529700082,
+    "wof:lastmodified":1566662924,
     "wof:name":"Alesund",
     "wof:parent_id":85687123,
     "wof:placetype":"localadmin",

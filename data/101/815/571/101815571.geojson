@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":59.747147,
     "lbl:longitude":10.394542,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.747147,
     "mps:longitude":10.394542,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0631\u0648\u064a\u0643\u0646"
     ],
@@ -162,7 +165,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -175,7 +178,6 @@
         "fct:id":"01fbb898-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3141107,
         "gp:id":863192,
-        "qs:id":3199,
         "qs_pg:id":3199,
         "wd:id":"Q488663"
     },
@@ -194,7 +196,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572780,
+    "wof:lastmodified":1566662404,
     "wof:name":"R\u00f8yken",
     "wof:parent_id":1159297215,
     "wof:placetype":"locality",

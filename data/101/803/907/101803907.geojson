@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":60.408586,
     "lbl:longitude":5.008974,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":60.408586,
     "mps:longitude":5.008974,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u00c5gotnes"
     ],
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":158,
     "wof:belongsto":[
@@ -87,7 +90,6 @@
         "fct:id":"01fec48e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3163506,
         "gp:id":856512,
-        "qs:id":1350063,
         "qs_pg:id":1350063,
         "wd:id":"Q2347592",
         "wk:page":"\u00c5gotnes"
@@ -107,7 +109,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572673,
+    "wof:lastmodified":1566662371,
     "wof:name":"\u00c5gotnes",
     "wof:parent_id":1159296987,
     "wof:placetype":"locality",

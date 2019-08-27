@@ -10,8 +10,10 @@
     "geom:latitude":60.325118,
     "geom:longitude":5.256433,
     "iso:country":"NO",
+    "lbl:bbox":"5.251433,60.320118,5.261433,60.330118",
     "lbl:latitude":60.325118,
     "lbl:longitude":5.256433,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.322618,
     "mps:longitude":5.257524,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
         "Varden"
     ],
     "name:nor_x_preferred":[
-        "Varden"
-    ],
-    "name:unk_x_variant":[
         "Varden"
     ],
     "qs:gn_fcode":"PPLX",
@@ -65,7 +64,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":92,
     "wof:belongsto":[
         102191581,
@@ -78,7 +77,6 @@
     "wof:concordances":{
         "gn:id":6697368,
         "gp:id":20100587,
-        "qs:id":51599,
         "qs_pg:id":51599
     },
     "wof:country":"NO",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1564103171,
+    "wof:lastmodified":1566661686,
     "wof:name":"Varden",
     "wof:parent_id":101751923,
     "wof:placetype":"neighbourhood",

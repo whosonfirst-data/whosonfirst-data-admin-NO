@@ -9,15 +9,18 @@
     "geom:bbox":"11.03685,59.02526,11.03685,59.02526",
     "geom:latitude":59.02526,
     "geom:longitude":11.03685,
-    "gn:gn_country":"NO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":642,
+    "gn:country":"NO",
+    "gn:fcode":"PPLA2",
     "gn:population":642,
     "iso:country":"NO",
+    "lbl:bbox":"11.01685,59.00526,11.05685,59.04526",
     "lbl:latitude":59.02526,
     "lbl:longitude":11.03685,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Skj\u00e6rhalden"
@@ -73,9 +76,6 @@
     "name:swe_x_preferred":[
         "Skj\u00e6rhalden"
     ],
-    "name:unk_x_variant":[
-        "Skj\u00e6rhalden"
-    ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":"NO",
     "qs_pg:gn_fcode":"PPLA2",
@@ -97,7 +97,7 @@
     "qs_pg:woe_adm0":23424910,
     "qs_pg:woe_id":863811,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424910,
     "woe:name_adm0":"Norge",
@@ -129,7 +129,7 @@
         }
     ],
     "wof:id":1125985713,
-    "wof:lastmodified":1563573260,
+    "wof:lastmodified":1566662641,
     "wof:name":"Skj\u00e6rhollen",
     "wof:parent_id":1159297477,
     "wof:placetype":"locality",

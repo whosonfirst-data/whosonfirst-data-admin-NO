@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10579109.244508,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.308631,63.375281,10.308631,63.375281",
     "geom:latitude":63.375281,
     "geom:longitude":10.308631,
     "gn:latitude":64.19971,
     "gn:longitude":10.30714,
     "iso:country":"NO",
+    "lbl:bbox":"10.303631,63.370281,10.313631,63.380281",
     "lbl:latitude":63.375281,
     "lbl:longitude":10.308631,
+    "lbl:max_zoom":18.0,
     "mps:latitude":63.363465,
     "mps:longitude":10.300151,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     ],
     "name:nor_x_variant":[
         "Smistadgrenda"
-    ],
-    "name:unk_x_variant":[
-        "Smistad"
     ],
     "qs:gn_adm0_cc":"NO",
     "qs:gn_fcode":"PPL",
@@ -62,16 +61,15 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687127,
-        1159297145
+        1159297145,
+        85687127
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3135491,
         "gp:id":20100460,
-        "qs:id":898868,
         "qs_pg:id":898868
     },
     "wof:country":"NO",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531936248,
+    "wof:lastmodified":1566661651,
     "wof:name":"Smistad",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

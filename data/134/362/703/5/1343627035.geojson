@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"6.76333,58.43,6.80333,58.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1343627035,
-    "wof:lastmodified":1537002582,
+    "wof:lastmodified":1566661503,
     "wof:name":"Rygg",
     "wof:parent_id":1159296845,
     "wof:placetype":"locality",

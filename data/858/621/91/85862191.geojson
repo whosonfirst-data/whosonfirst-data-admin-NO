@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":180530.064324,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.317164,60.395287,5.317164,60.395287",
     "geom:latitude":60.395287,
     "geom:longitude":5.317164,
     "gn:id":"",
     "iso:country":"NO",
+    "lbl:bbox":"5.312164,60.390287,5.322164,60.400287",
     "lbl:latitude":60.395287,
     "lbl:longitude":5.317164,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.394884,
     "mps:longitude":5.317423,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Klosteret"
     ],
     "name:nor_x_preferred":[
-        "Klosteret"
-    ],
-    "name:unk_x_variant":[
         "Klosteret"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -61,19 +60,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":266,
     "wof:belongsto":[
-        85687099,
         102191581,
         1159297617,
         85633341,
-        101751923
+        101751923,
+        85687099
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20100163,
-        "qs:id":1087372,
         "qs_pg:id":1087372
     },
     "wof:country":"NO",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531870557,
+    "wof:lastmodified":1566661682,
     "wof:name":"Klosteret",
     "wof:parent_id":101751923,
     "wof:placetype":"neighbourhood",

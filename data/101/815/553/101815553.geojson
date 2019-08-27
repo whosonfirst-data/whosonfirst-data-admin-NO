@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":60.058217,
     "lbl:longitude":10.862576,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":60.058217,
     "mps:longitude":10.862576,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Rotnes"
     ],
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":54,
     "wof:belongsto":[
@@ -84,7 +87,6 @@
         "fct:id":"01fe3dc0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3141156,
         "gp:id":863173,
-        "qs:id":581061,
         "qs_pg:id":581061,
         "wd:id":"Q3353895",
         "wk:page":"Rotnes"
@@ -104,7 +106,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572775,
+    "wof:lastmodified":1566662402,
     "wof:name":"Rotnes",
     "wof:parent_id":1159296969,
     "wof:placetype":"locality",

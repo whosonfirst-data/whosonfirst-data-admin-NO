@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"11.18949,59.15808,11.22949,59.19808",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1344236241,
-    "wof:lastmodified":1536619877,
+    "wof:lastmodified":1566661541,
     "wof:name":"Jorstad",
     "wof:parent_id":1159297543,
     "wof:placetype":"locality",

@@ -9,14 +9,18 @@
     "geom:bbox":"10.60556,59.9075,10.60556,59.9075",
     "geom:latitude":59.9075,
     "geom:longitude":10.60556,
-    "gn:gn_country":"NO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"NO",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"NO",
+    "lbl:bbox":"10.58556,59.8875,10.62556,59.9275",
     "lbl:latitude":59.9075,
     "lbl:longitude":10.60556,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:aar_x_preferred":[
         "Stabekk"
@@ -564,7 +568,7 @@
     "name:tur_x_preferred":[
         "Stabekk"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stab\u00e6k"
     ],
     "name:uzb_x_preferred":[
@@ -639,7 +643,7 @@
     "qs_pg:woe_adm0":23424910,
     "qs_pg:woe_id":864307,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424910,
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"Akershus Fylke",
@@ -670,7 +674,7 @@
         }
     ],
     "wof:id":1125926385,
-    "wof:lastmodified":1563572984,
+    "wof:lastmodified":1566662506,
     "wof:name":"Stabekk",
     "wof:parent_id":1159297009,
     "wof:placetype":"locality",

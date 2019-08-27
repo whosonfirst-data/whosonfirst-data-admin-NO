@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026815,
+    "geom:area_square_m":153214587.606407,
     "geom:bbox":"6.6842476808,62.4132634129,7.12045938611,62.5444101257",
     "geom:latitude":62.478651,
     "geom:longitude":6.905329,
     "iso:country":"NO",
     "lbl:latitude":62.490093,
     "lbl:longitude":6.90204,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":62.490093,
     "mps:longitude":6.90204,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Orskog"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159296827,
-    "wof:lastmodified":1529700080,
+    "wof:lastmodified":1566662888,
     "wof:name":"Orskog",
     "wof:parent_id":85687123,
     "wof:placetype":"localadmin",

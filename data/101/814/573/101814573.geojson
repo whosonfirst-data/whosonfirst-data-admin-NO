@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":68.519105,
     "lbl:longitude":17.004253,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":68.519105,
     "mps:longitude":17.004253,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "R\u00e1nda"
     ],
@@ -70,9 +73,6 @@
     "name:spa_x_preferred":[
         "Bogen"
     ],
-    "name:unk_x_variant":[
-        "Bogen i Ofoten"
-    ],
     "name:zho_x_preferred":[
         "\u4f2f\u6839"
     ],
@@ -92,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         1159296951,
@@ -103,7 +103,6 @@
         "fct:id":"01fb0484-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3160846,
         "gp:id":857349,
-        "qs:id":1145235,
         "qs_pg:id":1145235,
         "wd:id":"Q2047509",
         "wk:page":"Bogen, Evenes"
@@ -123,7 +122,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572811,
+    "wof:lastmodified":1566662413,
     "wof:name":"Bogen",
     "wof:parent_id":1159296951,
     "wof:placetype":"locality",

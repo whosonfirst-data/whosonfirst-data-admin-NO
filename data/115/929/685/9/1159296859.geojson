@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.264378,
+    "geom:area_square_m":1648340518.953956,
     "geom:bbox":"4.60368943675,59.4961272493,5.4720285901,59.9386159279",
     "geom:latitude":59.720355,
     "geom:longitude":4.975167,
     "iso:country":"NO",
     "lbl:latitude":59.714302,
     "lbl:longitude":4.98347,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.714302,
     "mps:longitude":4.98347,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bomlo"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159296859,
-    "wof:lastmodified":1529700038,
+    "wof:lastmodified":1566662889,
     "wof:name":"Bomlo",
     "wof:parent_id":85687099,
     "wof:placetype":"localadmin",

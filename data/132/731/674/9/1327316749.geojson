@@ -25,14 +25,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"4.98,61.81333,5.02,61.85333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Fossane"
     ],
     "name:und_x_variant":[
-        "Fossene",
-        "Fossane"
+        "Fossene"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1327316749,
-    "wof:lastmodified":1564102716,
+    "wof:lastmodified":1566661355,
     "wof:name":"Fossane",
     "wof:parent_id":1159297195,
     "wof:placetype":"locality",

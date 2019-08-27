@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"5.58,58.81333,5.62,58.85333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jav_x_preferred":[
         "Helleland"
     ],
@@ -37,8 +41,7 @@
         "Helleland"
     ],
     "name:und_x_variant":[
-        "Helland",
-        "Helleland"
+        "Helland"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1277049455,
-    "wof:lastmodified":1564103522,
+    "wof:lastmodified":1566661903,
     "wof:name":"Helleland",
     "wof:parent_id":1159297501,
     "wof:placetype":"locality",

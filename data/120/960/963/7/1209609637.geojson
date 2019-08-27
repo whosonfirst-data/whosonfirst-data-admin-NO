@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"6.63519,60.30039,6.67519,60.34039",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0989\u09b2\u09cd\u09b2\u09c7\u09a8\u09b8\u09ad\u09be\u0982"
     ],
@@ -140,7 +144,7 @@
         }
     ],
     "wof:id":1209609637,
-    "wof:lastmodified":1564103768,
+    "wof:lastmodified":1566662053,
     "wof:name":"Ullensvang",
     "wof:parent_id":85633341,
     "wof:placetype":"locality",

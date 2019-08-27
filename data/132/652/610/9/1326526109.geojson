@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"15.13876,67.18752,15.17876,67.22752",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Breivik"
     ],
@@ -64,9 +68,7 @@
         "Breivik"
     ],
     "name:und_x_variant":[
-        "Breivik i Salten",
-        "Breivik",
-        "Breidvik"
+        "Breivik i Salten"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":1326526109,
-    "wof:lastmodified":1564102873,
+    "wof:lastmodified":1566661457,
     "wof:name":"Breivik",
     "wof:parent_id":1159297465,
     "wof:placetype":"locality",

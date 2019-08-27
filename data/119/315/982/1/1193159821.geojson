@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"26.98193,70.55279,27.02193,70.59279",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lebesby"
     ],
@@ -37,9 +41,6 @@
     ],
     "name:sme_x_preferred":[
         "Davvesiida"
-    ],
-    "name:und_x_variant":[
-        "Lebesby"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1193159821,
-    "wof:lastmodified":1537675654,
+    "wof:lastmodified":1566662121,
     "wof:name":"Davvesiida",
     "wof:parent_id":1159297143,
     "wof:placetype":"locality",

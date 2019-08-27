@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"13.29771,65.05868,13.33771,65.09868",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "Smal\u00e5sen"
     ],
@@ -34,8 +38,7 @@
         "Smeelehaesie"
     ],
     "name:und_x_variant":[
-        "Smalaasen",
-        "Smal\u00e5sen"
+        "Smalaasen"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1242858107,
-    "wof:lastmodified":1537675715,
+    "wof:lastmodified":1566663050,
     "wof:name":"Smalasen",
     "wof:parent_id":1159296771,
     "wof:placetype":"locality",

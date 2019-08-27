@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":59.603084,
     "lbl:longitude":10.748224,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":59.603084,
     "mps:longitude":10.748224,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0633\u062a\u0628\u064a"
     ],
@@ -166,7 +169,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":532,
     "wof:belongsto":[
@@ -180,7 +183,6 @@
         "fct:id":"01fc3796-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3132058,
         "gp:id":865686,
-        "qs:id":145852,
         "qs_pg:id":145852,
         "wd:id":"Q57918"
     },
@@ -199,7 +201,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572622,
+    "wof:lastmodified":1566662357,
     "wof:name":"Vestby",
     "wof:parent_id":1159297237,
     "wof:placetype":"locality",

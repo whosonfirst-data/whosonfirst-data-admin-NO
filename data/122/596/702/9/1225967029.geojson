@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"23.40885,70.79122,23.44885,70.83122",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mefjorden"
     ],
@@ -40,9 +44,7 @@
         "Mefjord"
     ],
     "name:und_x_variant":[
-        "Mefjorden",
-        "Midfjord",
-        "Mefjord"
+        "Midfjord"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +69,7 @@
         }
     ],
     "wof:id":1225967029,
-    "wof:lastmodified":1564105334,
+    "wof:lastmodified":1566663243,
     "wof:name":"Mefjord",
     "wof:parent_id":1159296825,
     "wof:placetype":"locality",

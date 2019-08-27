@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"10.585,64.42778,10.625,64.46778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jav_x_preferred":[
         "Hasv\u00e5g"
     ],
@@ -37,8 +41,7 @@
         "Hasv\u00e5g"
     ],
     "name:und_x_variant":[
-        "Hasvaag",
-        "Hasv\u00e5g"
+        "Hasvaag"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1310690319,
-    "wof:lastmodified":1564104138,
+    "wof:lastmodified":1566662299,
     "wof:name":"Hasvag",
     "wof:parent_id":1159296889,
     "wof:placetype":"locality",

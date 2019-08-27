@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12601326.49577,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.359671,60.4029,5.359671,60.4029",
     "geom:latitude":60.4029,
     "geom:longitude":5.359671,
     "gn:id":"",
     "iso:country":"NO",
+    "lbl:bbox":"5.354671,60.3979,5.364671,60.4079",
     "lbl:latitude":60.4029,
     "lbl:longitude":5.359671,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.40997,
     "mps:longitude":5.38024,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:nor_x_preferred":[
-        "Brushutten"
-    ],
-    "name:unk_x_variant":[
         "Brushutten"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -58,17 +57,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687099,
         102191581,
         1159297617,
-        85633341
+        85633341,
+        85687099
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20099951,
-        "qs:id":1087366,
         "qs_pg:id":1087366
     },
     "wof:country":"NO",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531870549,
+    "wof:lastmodified":1566661683,
     "wof:name":"Brushutten",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

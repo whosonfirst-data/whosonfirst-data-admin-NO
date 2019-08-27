@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":60.716393,
     "lbl:longitude":11.194283,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":60.716393,
     "mps:longitude":11.194283,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u062a\u0627\u0646\u063a"
     ],
@@ -153,9 +156,6 @@
     "name:tur_x_preferred":[
         "Stange"
     ],
-    "name:unk_x_variant":[
-        "Stange Stasjonsby"
-    ],
     "name:war_x_preferred":[
         "Stange"
     ],
@@ -181,7 +181,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":429,
     "wof:belongsto":[
@@ -195,7 +195,6 @@
         "fct:id":"01ff4332-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3137169,
         "gp:id":864326,
-        "qs:id":914939,
         "qs_pg:id":914939,
         "wd:id":"Q48542"
     },
@@ -214,7 +213,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572761,
+    "wof:lastmodified":1566662398,
     "wof:name":"Stange",
     "wof:parent_id":1159297493,
     "wof:placetype":"locality",

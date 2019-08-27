@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":59.659974,
     "lbl:longitude":9.653083,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":59.659974,
     "mps:longitude":9.653083,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0646\u063a\u0633\u0628\u0631\u063a"
     ],
@@ -208,7 +211,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -221,7 +224,6 @@
         "fct:id":"01fd9ae6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3149563,
         "gp:id":860749,
-        "qs:id":459966,
         "qs_pg:id":459966,
         "wd:id":"Q108988",
         "wk:page":"Kongsberg Station"
@@ -241,7 +243,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572729,
+    "wof:lastmodified":1566662388,
     "wof:name":"Kongsberg",
     "wof:parent_id":1159297255,
     "wof:placetype":"locality",

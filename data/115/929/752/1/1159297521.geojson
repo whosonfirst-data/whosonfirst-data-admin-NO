@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.970567,
+    "geom:area_square_m":5255597920.981465,
     "geom:bbox":"7.6480939813,63.5981473775,9.73185906337,64.5472941354",
     "geom:latitude":64.024499,
     "geom:longitude":8.797446,
     "iso:country":"NO",
     "lbl:latitude":63.991764,
     "lbl:longitude":8.813107,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":63.991764,
     "mps:longitude":8.813107,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Froya"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687127
     ],
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1159297521,
-    "wof:lastmodified":1529700325,
+    "wof:lastmodified":1566662731,
     "wof:name":"Froya",
     "wof:parent_id":85687127,
     "wof:placetype":"localadmin",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"6.54667,58.21333,6.58667,58.25333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u098f\u0987\u09a1\u09c7"
     ],
@@ -142,7 +146,7 @@
         }
     ],
     "wof:id":1225810865,
-    "wof:lastmodified":1564105329,
+    "wof:lastmodified":1566663239,
     "wof:name":"Eide",
     "wof:parent_id":1159296845,
     "wof:placetype":"locality",

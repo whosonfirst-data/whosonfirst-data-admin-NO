@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1447417.618419,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.340553,63.405601,10.340553,63.405601",
     "geom:latitude":63.405601,
     "geom:longitude":10.340553,
     "gn:id":"",
     "iso:country":"NO",
+    "lbl:bbox":"10.335553,63.400601,10.345553,63.410601",
     "lbl:latitude":63.405601,
     "lbl:longitude":10.340553,
+    "lbl:max_zoom":18.0,
     "mps:latitude":63.40575,
     "mps:longitude":10.340248,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:nor_x_preferred":[
-        "Arnebyen"
-    ],
-    "name:unk_x_variant":[
         "Arnebyen"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -56,16 +55,15 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687127,
         1159297145,
-        101751927
+        101751927,
+        85687127
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20099876,
-        "qs:id":43955,
         "qs_pg:id":43955
     },
     "wof:country":"NO",
@@ -84,7 +82,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531936211,
+    "wof:lastmodified":1566661665,
     "wof:name":"Arnebyen",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

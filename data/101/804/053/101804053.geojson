@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":60.908134,
     "lbl:longitude":7.190954,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.908134,
     "mps:longitude":7.190954,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0410\u0443\u0440\u043b\u0430\u043d\u0434\u0441\u0432\u0430\u043d\u0433\u0435\u043d"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":263,
     "wof:belongsto":[
         102191581,
@@ -94,7 +97,6 @@
         "fct:id":"01fb1514-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7626362,
         "gp:id":856892,
-        "qs:id":432714,
         "qs_pg:id":432714,
         "wd:id":"Q3353833",
         "wk:page":"Aurlandsvangen"
@@ -114,7 +116,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572644,
+    "wof:lastmodified":1566662362,
     "wof:name":"Aurlandsvangen",
     "wof:parent_id":1159297301,
     "wof:placetype":"locality",

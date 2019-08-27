@@ -9,12 +9,15 @@
     "geom:bbox":"10.318334,63.3946875,10.318334,63.3946875",
     "geom:latitude":63.394688,
     "geom:longitude":10.318334,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"NO",
+    "lbl:bbox":"10.313334,63.3896875,10.323334,63.3996875",
     "lbl:latitude":63.394688,
     "lbl:longitude":10.318334,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":null,
@@ -34,14 +37,14 @@
     "qs_pg:woe_adm0":23424910,
     "qs_pg:woe_id":20100204,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424910,
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85687127,
-        1159297145
+        1159297145,
+        85687127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1126089347,
-    "wof:lastmodified":1529700351,
+    "wof:lastmodified":1566662642,
     "wof:name":"Larsbyen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

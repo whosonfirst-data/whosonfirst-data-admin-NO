@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"18.57472,69.81278,18.61472,69.85278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Sandnes"
     ],
@@ -202,7 +206,7 @@
         }
     ],
     "wof:id":1226405585,
-    "wof:lastmodified":1564105357,
+    "wof:lastmodified":1566663258,
     "wof:name":"Sandnes",
     "wof:parent_id":1159297187,
     "wof:placetype":"locality",

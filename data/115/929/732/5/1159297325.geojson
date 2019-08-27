@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":61.927637,
     "lbl:longitude":5.952179,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":61.927637,
     "mps:longitude":5.952179,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Eid"
     ],
@@ -74,7 +77,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1159297325,
-    "wof:lastmodified":1564104716,
+    "wof:lastmodified":1566662863,
     "wof:name":"Eid",
     "wof:parent_id":85687113,
     "wof:placetype":"localadmin",

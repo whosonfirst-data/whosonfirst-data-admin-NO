@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.258767,
+    "geom:area_square_m":1402390110.583312,
     "geom:bbox":"9.61419048443,63.7712418403,10.8803871906,64.2021159028",
     "geom:latitude":64.00514,
     "geom:longitude":10.217116,
     "iso:country":"NO",
     "lbl:latitude":63.994025,
     "lbl:longitude":10.102022,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":63.994025,
     "mps:longitude":10.102022,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Afjord"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687127
     ],
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1159297163,
-    "wof:lastmodified":1529700319,
+    "wof:lastmodified":1566662939,
     "wof:name":"Afjord",
     "wof:parent_id":85687127,
     "wof:placetype":"localadmin",

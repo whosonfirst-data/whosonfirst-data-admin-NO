@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":60.725384,
     "lbl:longitude":10.615783,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":60.725384,
     "mps:longitude":10.615783,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0420\u0430\u0443\u0444\u043e\u0441"
     ],
@@ -82,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":203,
     "wof:belongsto":[
@@ -96,7 +99,6 @@
         "fct:id":"01fba59c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3142228,
         "gp:id":862854,
-        "qs:id":3186,
         "qs_pg:id":3186,
         "wd:id":"Q2632394",
         "wk:page":"Raufoss"
@@ -116,7 +118,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572784,
+    "wof:lastmodified":1566662405,
     "wof:name":"Raufoss",
     "wof:parent_id":1159297405,
     "wof:placetype":"locality",

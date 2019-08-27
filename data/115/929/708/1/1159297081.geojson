@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.385432,
+    "geom:area_square_m":1813101768.971901,
     "geom:bbox":"11.9877234492,67.3649612267,13.506678725,67.8700778154",
     "geom:latitude":67.645991,
     "geom:longitude":12.758419,
     "iso:country":"NO",
     "lbl:latitude":67.585622,
     "lbl:longitude":12.833216,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":67.585622,
     "mps:longitude":12.833216,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vaeroy"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687135
     ],
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1159297081,
-    "wof:lastmodified":1529700141,
+    "wof:lastmodified":1566662741,
     "wof:name":"Vaeroy",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

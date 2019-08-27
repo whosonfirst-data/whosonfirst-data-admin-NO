@@ -9,15 +9,18 @@
     "geom:bbox":"6.71694,58.66263,6.71694,58.66263",
     "geom:latitude":58.66263,
     "geom:longitude":6.71694,
-    "gn:gn_country":"NO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":751,
+    "gn:country":"NO",
+    "gn:fcode":"PPLA2",
     "gn:population":751,
     "iso:country":"NO",
+    "lbl:bbox":"6.69694,58.64263,6.73694,58.68263",
     "lbl:latitude":58.66263,
     "lbl:longitude":6.71694,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Tonstad"
@@ -46,7 +49,7 @@
     "name:spa_x_preferred":[
         "Tonstad"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sirdal"
     ],
     "qs_pg:aaroncc":"NO",
@@ -70,7 +73,7 @@
     "qs_pg:woe_adm0":23424910,
     "qs_pg:woe_id":865035,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424910,
     "woe:name_adm0":"Norge",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1126031131,
-    "wof:lastmodified":1564104378,
+    "wof:lastmodified":1566662543,
     "wof:name":"Tonstad",
     "wof:parent_id":1159297553,
     "wof:placetype":"locality",

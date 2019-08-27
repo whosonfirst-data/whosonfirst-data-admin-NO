@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"11.32781,64.79021,11.36781,64.83021",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "Var\u00f8ya"
     ],
@@ -35,9 +39,7 @@
     ],
     "name:und_x_variant":[
         "Var\u00f8y",
-        "Var\u00f6en",
-        "Var\u00f8ya",
-        "Vard\u00f8y"
+        "Var\u00f6en"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +64,7 @@
         }
     ],
     "wof:id":1276860317,
-    "wof:lastmodified":1537675681,
+    "wof:lastmodified":1566661839,
     "wof:name":"Varoya",
     "wof:parent_id":1159297169,
     "wof:placetype":"locality",

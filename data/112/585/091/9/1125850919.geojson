@@ -9,15 +9,18 @@
     "geom:bbox":"14.47205,68.6888,14.47205,68.6888",
     "geom:latitude":68.6888,
     "geom:longitude":14.47205,
-    "gn:gn_country":"NO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":291,
+    "gn:country":"NO",
+    "gn:fcode":"PPLA2",
     "gn:population":291,
     "iso:country":"NO",
+    "lbl:bbox":"14.45205,68.6688,14.49205,68.7088",
     "lbl:latitude":68.6888,
     "lbl:longitude":14.47205,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Straume"
@@ -52,7 +55,7 @@
     "name:ron_x_preferred":[
         "Straume i B\u00f8"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Str\u00f6mme"
     ],
     "qs_pg:aaroncc":"NO",
@@ -67,7 +70,7 @@
     "qs_pg:qs_id":581043,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         1159297417,
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1125850919,
-    "wof:lastmodified":1563573359,
+    "wof:lastmodified":1566662685,
     "wof:name":"Straume",
     "wof:parent_id":1159297417,
     "wof:placetype":"locality",

@@ -9,14 +9,18 @@
     "geom:bbox":"8.78194,58.43944,8.78194,58.43944",
     "geom:latitude":58.43944,
     "geom:longitude":8.78194,
-    "gn:gn_country":"NO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"NO",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"NO",
+    "lbl:bbox":"8.76194,58.41944,8.80194,58.45944",
     "lbl:latitude":58.43944,
     "lbl:longitude":8.78194,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:nor_x_preferred":[
         "Sandviga"
@@ -26,9 +30,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d\u0434\u0432\u0438\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Sandviga"
     ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":"NO",
@@ -51,7 +52,7 @@
     "qs_pg:woe_adm0":23424910,
     "qs_pg:woe_id":863458,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424910,
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"Aust-Agder Fylke",
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1125962053,
-    "wof:lastmodified":1529699815,
+    "wof:lastmodified":1566662620,
     "wof:name":"Sandvigen",
     "wof:parent_id":1159297607,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"9.6561,59.14054,9.6561,59.14054",
     "geom:latitude":59.14054,
     "geom:longitude":9.6561,
-    "gn:gn_country":"NO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":34377,
+    "gn:country":"NO",
+    "gn:fcode":"PPLA2",
     "gn:population":34377,
     "iso:country":"NO",
+    "lbl:bbox":"9.6361,59.12054,9.6761,59.16054",
     "lbl:latitude":59.14054,
     "lbl:longitude":9.6561,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u0634\u063a\u0631\u0648\u0646"
@@ -175,7 +178,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0440\u0441\u0433\u0440\u0443\u043d\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Porsgrund"
     ],
     "name:war_x_preferred":[
@@ -205,7 +208,7 @@
     "qs_pg:woe_adm0":23424910,
     "qs_pg:woe_id":862752,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424910,
     "woe:name_adm0":"Norge",
@@ -237,7 +240,7 @@
         }
     ],
     "wof:id":1126031233,
-    "wof:lastmodified":1563573056,
+    "wof:lastmodified":1566662542,
     "wof:name":"Porsgrunn",
     "wof:parent_id":1159296755,
     "wof:placetype":"locality",

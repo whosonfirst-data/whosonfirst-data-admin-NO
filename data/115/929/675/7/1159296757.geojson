@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.102365,
+    "geom:area_square_m":557701796.949518,
     "geom:bbox":"10.6365240715,63.6996264787,11.5244927566,64.0003394074",
     "geom:latitude":63.857309,
     "geom:longitude":11.073011,
     "iso:country":"NO",
     "lbl:latitude":63.80544,
     "lbl:longitude":10.918712,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":63.80544,
     "mps:longitude":10.918712,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Inderoy"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159296757,
-    "wof:lastmodified":1529700194,
+    "wof:lastmodified":1566662777,
     "wof:name":"Inderoy",
     "wof:parent_id":85687133,
     "wof:placetype":"localadmin",

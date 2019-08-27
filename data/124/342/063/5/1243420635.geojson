@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"16.55536,68.64568,16.59536,68.68568",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Fauskev\u00e5g"
     ],
@@ -40,9 +44,7 @@
         "Store Fauskev\u00e5g"
     ],
     "name:und_x_variant":[
-        "Fauskevaag",
-        "Fauskev\u00e5g",
-        "Store Fauskev\u00e5g"
+        "Fauskevaag"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +70,7 @@
         }
     ],
     "wof:id":1243420635,
-    "wof:lastmodified":1564105050,
+    "wof:lastmodified":1566663067,
     "wof:name":"Fauskevag",
     "wof:parent_id":1159297451,
     "wof:placetype":"locality",

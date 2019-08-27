@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":59.062371,
     "lbl:longitude":5.404477,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.062371,
     "mps:longitude":5.404477,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Kvits\u00f8y"
     ],
@@ -139,12 +142,6 @@
         "Hoeoevoer",
         "Hoovor"
     ],
-    "name:und_x_preferred":[
-        "H\u00f6\u00f6v\u00f6r"
-    ],
-    "name:unk_x_variant":[
-        "Baruun Bayan Uula Suma"
-    ],
     "name:war_x_preferred":[
         "Kvits\u00f8y"
     ],
@@ -166,7 +163,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":851,
     "wof:belongsto":[
         102191581,
@@ -178,9 +175,11 @@
     "wof:concordances":{
         "gn:id":3133410,
         "gp:id":22658512,
-        "qs:id":462906,
         "qs_pg:id":44735,
         "wd:id":"Q494024"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":462906
     },
     "wof:country":"NO",
     "wof:geomhash":"ee39bcbb7da6b7c36024603173243389",
@@ -197,7 +196,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563572736,
+    "wof:lastmodified":1566662391,
     "wof:name":"Kvits\u00f8y",
     "wof:parent_id":1159297635,
     "wof:placetype":"locality",

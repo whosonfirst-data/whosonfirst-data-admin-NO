@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4351563.253876,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.289825,60.367532,5.289825,60.367532",
     "geom:latitude":60.367532,
     "geom:longitude":5.289825,
     "iso:country":"NO",
+    "lbl:bbox":"5.284825,60.362532,5.294825,60.372532",
     "lbl:latitude":60.367532,
     "lbl:longitude":5.289825,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.368391,
     "mps:longitude":5.286239,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:nor_x_preferred":[
-        "Samdalen"
-    ],
-    "name:unk_x_variant":[
         "Samdalen"
     ],
     "qs:gn_fcode":"PPL",
@@ -56,19 +55,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687099,
         102191581,
         1159297617,
         85633341,
-        101751923
+        101751923,
+        85687099
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3140003,
         "gp:id":20100420,
-        "qs:id":985397,
         "qs_pg:id":985397
     },
     "wof:country":"NO",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531870569,
+    "wof:lastmodified":1566661687,
     "wof:name":"Samdalen",
     "wof:parent_id":101751923,
     "wof:placetype":"neighbourhood",

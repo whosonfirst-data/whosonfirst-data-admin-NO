@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":60.824322,
     "lbl:longitude":9.547598,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":60.824322,
     "mps:longitude":9.547598,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bagn"
     ],
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":60.816667,
     "wd:longitude":9.566667,
@@ -94,7 +97,6 @@
         "fct:id":"01feb372-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3162199,
         "gp:id":856949,
-        "qs:id":1168824,
         "qs_pg:id":1168824,
         "wd:id":"Q50644",
         "wk:page":"Bagn"
@@ -114,7 +116,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572645,
+    "wof:lastmodified":1566662363,
     "wof:name":"Bagn",
     "wof:parent_id":1159296855,
     "wof:placetype":"locality",

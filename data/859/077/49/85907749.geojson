@@ -13,6 +13,7 @@
     "iso:country":"NO",
     "lbl:latitude":59.913004,
     "lbl:longitude":10.721628,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.916483,
     "mps:longitude":10.722543,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:nor_x_preferred":[
-        "Ruselokka"
-    ],
-    "name:unk_x_variant":[
         "Ruselokka"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -56,18 +54,17 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        101751917
+        101751917,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23701337,
-        "qs:id":1087796,
         "qs_pg:id":1087796
     },
     "wof:country":"NO",
@@ -86,7 +83,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529700269,
+    "wof:lastmodified":1566661649,
     "wof:name":"Ruselokka",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

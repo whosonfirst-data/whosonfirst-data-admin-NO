@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"5.06333,60.26333,5.10333,60.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209807113,
-    "wof:lastmodified":1536388113,
+    "wof:lastmodified":1566662082,
     "wof:name":"Tellnes",
     "wof:parent_id":1159296987,
     "wof:placetype":"locality",

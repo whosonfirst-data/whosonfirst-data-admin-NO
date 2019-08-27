@@ -13,6 +13,8 @@
     "iso:country":"NO",
     "lbl:latitude":68.437705,
     "lbl:longitude":17.424586,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":68.437705,
     "mps:longitude":17.424586,
     "mz:hierarchy_label":1,
@@ -333,7 +335,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":68.420556,
     "wd:longitude":17.56,
@@ -348,7 +350,6 @@
         "fct:id":"01fb7400-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3144987,
         "gp:id":862074,
-        "qs:id":914696,
         "qs_pg:id":914696,
         "wd:id":"Q59101",
         "wk:page":"Narvik"
@@ -368,7 +369,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572832,
+    "wof:lastmodified":1566662417,
     "wof:name":"Narvik",
     "wof:parent_id":1159297203,
     "wof:placetype":"locality",

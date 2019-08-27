@@ -9,14 +9,18 @@
     "geom:bbox":"5.36667,61.13333,5.36667,61.13333",
     "geom:latitude":61.13333,
     "geom:longitude":5.36667,
-    "gn:gn_country":"NO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"NO",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"NO",
+    "lbl:bbox":"5.34667,61.11333,5.38667,61.15333",
     "lbl:latitude":61.13333,
     "lbl:longitude":5.36667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Leirvik"
@@ -36,7 +40,7 @@
     "name:nob_x_preferred":[
         "Leirvik"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lervik"
     ],
     "qs_pg:aaroncc":"NO",
@@ -60,7 +64,7 @@
     "qs_pg:woe_adm0":23424910,
     "qs_pg:woe_id":861246,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424910,
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"Sogn og Fjordane Fylke",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":1125875195,
-    "wof:lastmodified":1563573152,
+    "wof:lastmodified":1566662586,
     "wof:name":"Leirvik",
     "wof:parent_id":1159297157,
     "wof:placetype":"locality",

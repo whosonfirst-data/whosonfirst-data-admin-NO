@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":61.241396,
     "lbl:longitude":10.441142,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":61.241396,
     "mps:longitude":10.441142,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Granrudmoen"
     ],
@@ -62,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":102,
     "wof:belongsto":[
         102191581,
@@ -73,9 +76,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20100049,
-        "qs:id":2,
-        "qs_pg:id":365546,
+        "qs_pg:id":2,
         "wd:id":"Q1772308"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":365546
     },
     "wof:country":"NO",
     "wof:geomhash":"224379e988048ff29f3685b7b9538409",
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":101815579,
-    "wof:lastmodified":1563572783,
+    "wof:lastmodified":1566662405,
     "wof:name":"Granrudmoen",
     "wof:parent_id":1159296701,
     "wof:placetype":"locality",

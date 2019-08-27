@@ -25,14 +25,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"6.12335,62.30473,6.16335,62.34473",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nno_x_preferred":[
         "Nordre Vartdal"
     ],
     "name:und_x_variant":[
-        "Vartdal Nordre",
-        "Nordre Vartdal"
+        "Vartdal Nordre"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1327453661,
-    "wof:lastmodified":1564102914,
+    "wof:lastmodified":1566661484,
     "wof:name":"Nordre Vartdal",
     "wof:parent_id":1159297435,
     "wof:placetype":"locality",

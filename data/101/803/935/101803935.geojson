@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":59.920911,
     "lbl:longitude":5.319801,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":59.920911,
     "mps:longitude":5.319801,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Fitjar"
     ],
@@ -157,7 +160,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":803,
     "wof:belongsto":[
@@ -171,7 +174,6 @@
         "fct:id":"01fcdac0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3157436,
         "gp:id":858448,
-        "qs:id":353057,
         "qs_pg:id":353057,
         "wd:id":"Q113491"
     },
@@ -190,7 +192,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572702,
+    "wof:lastmodified":1566662380,
     "wof:name":"Fitjar",
     "wof:parent_id":1159297481,
     "wof:placetype":"locality",

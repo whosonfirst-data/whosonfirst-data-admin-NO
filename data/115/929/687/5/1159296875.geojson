@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055166,
+    "geom:area_square_m":353786548.62711,
     "geom:bbox":"8.62177479483,58.6393261824,9.01707960858,58.8713411283",
     "geom:latitude":58.758844,
     "geom:longitude":8.82417,
     "iso:country":"NO",
     "lbl:latitude":58.753606,
     "lbl:longitude":8.800692,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.753606,
     "mps:longitude":8.800692,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vegarshei"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159296875,
-    "wof:lastmodified":1529699802,
+    "wof:lastmodified":1566662795,
     "wof:name":"Vegarshei",
     "wof:parent_id":85687071,
     "wof:placetype":"localadmin",

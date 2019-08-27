@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":58.961603,
     "lbl:longitude":5.84899,
+    "lbl:min_zoom":8.0,
     "mps:latitude":58.961603,
     "mps:longitude":5.84899,
     "mz:hierarchy_label":1,
@@ -244,9 +245,6 @@
     "name:ukr_x_variant":[
         "\u0420\u0443\u0491\u0430\u043b\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Rogaland Fylke"
-    ],
     "name:urd_x_preferred":[
         "\u0631\u0648\u06af\u0627\u0644\u0627\u0646"
     ],
@@ -332,9 +330,9 @@
     "qs:type":"Fylke",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-03",
+    "src:population_date":"2001-11-03",
     "statoids:area_km":"9,326",
     "statoids:area_mi":"3,601",
     "statoids:as_of_date":"2001-11-03",
@@ -382,11 +380,10 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1565731844,
+    "wof:lastmodified":1566661678,
     "wof:name":"Rogaland",
     "wof:parent_id":85633341,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":380913,
     "wof:population_rank":10,

@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":59.282663,
     "lbl:longitude":5.304183,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":59.282663,
     "mps:longitude":5.304183,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u043f\u0435\u0440\u0432\u0438\u043a"
     ],
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":503,
     "wof:belongsto":[
@@ -102,7 +105,6 @@
         "fct:id":"01fe199e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3149512,
         "gp:id":860771,
-        "qs:id":914609,
         "qs_pg:id":914609,
         "wd:id":"Q2109119",
         "wk:page":"Kopervik"
@@ -122,7 +124,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572713,
+    "wof:lastmodified":1566662383,
     "wof:name":"Kopervik",
     "wof:parent_id":1159297005,
     "wof:placetype":"locality",

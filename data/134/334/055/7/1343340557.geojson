@@ -25,14 +25,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"5.80512,58.90116,5.84512,58.94116",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "Riska"
     ],
     "name:und_x_variant":[
-        "Riskekverven",
-        "Riska"
+        "Riskekverven"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1343340557,
-    "wof:lastmodified":1564103084,
+    "wof:lastmodified":1566661598,
     "wof:name":"Riska",
     "wof:parent_id":1159296819,
     "wof:placetype":"locality",

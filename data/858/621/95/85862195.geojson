@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":17009920.489063,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.319621,60.456928,5.319621,60.456928",
     "geom:latitude":60.456928,
     "geom:longitude":5.319621,
     "gn:id":"",
     "iso:country":"NO",
+    "lbl:bbox":"5.314621,60.451928,5.324621,60.461928",
     "lbl:latitude":60.456928,
     "lbl:longitude":5.319621,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.464996,
     "mps:longitude":5.328334,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:nor_x_preferred":[
-        "Kollasen"
-    ],
-    "name:unk_x_variant":[
         "Kollasen"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687099,
         102191581,
         1159297617,
         85633341,
-        101751923
+        101751923,
+        85687099
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20100166,
-        "qs:id":1087373,
         "qs_pg:id":1087373
     },
     "wof:country":"NO",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531870558,
+    "wof:lastmodified":1566661681,
     "wof:name":"Kollasen",
     "wof:parent_id":101751923,
     "wof:placetype":"neighbourhood",

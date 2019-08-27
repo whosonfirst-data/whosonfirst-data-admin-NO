@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"5.80167,62.34065,5.84167,62.38065",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Ulstein"
     ],
@@ -119,8 +123,7 @@
     ],
     "name:und_x_variant":[
         "Ulfsten",
-        "Ulvsten",
-        "Ulstein"
+        "Ulvsten"
     ],
     "name:vie_x_preferred":[
         "Ulstein"
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":1327154281,
-    "wof:lastmodified":1564102803,
+    "wof:lastmodified":1566661413,
     "wof:name":"Ulstein",
     "wof:parent_id":1159297271,
     "wof:placetype":"locality",

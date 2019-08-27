@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12229364.129871,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.303863,60.422353,5.303863,60.422353",
     "geom:latitude":60.422353,
     "geom:longitude":5.303863,
     "gn:id":"",
     "iso:country":"NO",
+    "lbl:bbox":"5.298863,60.417353,5.308863,60.427353",
     "lbl:latitude":60.422353,
     "lbl:longitude":5.303863,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.41586,
     "mps:longitude":5.286276,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:nor_x_preferred":[
-        "Gamle Bergen"
-    ],
-    "name:unk_x_variant":[
         "Gamle Bergen"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687099,
         102191581,
         1159297617,
         85633341,
-        101751923
+        101751923,
+        85687099
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20100029,
-        "qs:id":221650,
         "qs_pg:id":221650
     },
     "wof:country":"NO",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531870553,
+    "wof:lastmodified":1566661682,
     "wof:name":"Gamle Bergen",
     "wof:parent_id":101751923,
     "wof:placetype":"neighbourhood",

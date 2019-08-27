@@ -13,6 +13,8 @@
     "iso:country":"NO",
     "lbl:latitude":59.412257,
     "lbl:longitude":5.287575,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":59.412257,
     "mps:longitude":5.287575,
     "mz:hierarchy_label":1,
@@ -321,7 +323,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2039,
     "wof:belongsto":[
@@ -335,7 +337,6 @@
         "fct:id":"01ff4b2a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3153623,
         "gp:id":859485,
-        "qs:id":462685,
         "qs_pg:id":462685,
         "wd:id":"Q109036",
         "wk:page":"Haugesund"
@@ -355,7 +356,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572714,
+    "wof:lastmodified":1566662384,
     "wof:name":"Haugesund",
     "wof:parent_id":1159296709,
     "wof:placetype":"locality",

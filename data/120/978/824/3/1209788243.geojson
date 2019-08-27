@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"9.94667,64.03,9.98667,64.07",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Chosen"
     ],
@@ -43,8 +47,7 @@
         "Chosen"
     ],
     "name:und_x_variant":[
-        "Duehallen",
-        "Hosen"
+        "Duehallen"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1209788243,
-    "wof:lastmodified":1564103719,
+    "wof:lastmodified":1566662027,
     "wof:name":"Hosen",
     "wof:parent_id":1159297163,
     "wof:placetype":"locality",

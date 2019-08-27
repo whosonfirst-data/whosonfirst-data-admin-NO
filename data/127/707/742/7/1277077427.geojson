@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"8.84437,58.47979,8.88437,58.51979",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Eydehavn"
     ],
@@ -54,9 +58,6 @@
     "name:ron_x_preferred":[
         "Eydehavn"
     ],
-    "name:und_x_variant":[
-        "Eydehamn"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1277077427,
-    "wof:lastmodified":1564103413,
+    "wof:lastmodified":1566661836,
     "wof:name":"Eydehavn",
     "wof:parent_id":1159297607,
     "wof:placetype":"locality",

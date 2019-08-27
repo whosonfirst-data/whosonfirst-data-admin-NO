@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"15.43677,67.08948,15.47677,67.12948",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         1159297115,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1360181309,
-    "wof:lastmodified":1536806601,
+    "wof:lastmodified":1566662332,
     "wof:name":"Soksenvik vestre",
     "wof:parent_id":1159297115,
     "wof:placetype":"locality",

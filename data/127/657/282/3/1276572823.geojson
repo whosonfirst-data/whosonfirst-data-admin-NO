@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"5.13333,60.59353,5.17333,60.63353",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jav_x_preferred":[
         "S\u00e6b\u00f8"
     ],
@@ -40,8 +44,7 @@
         "S\u00e6b\u00f8"
     ],
     "name:und_x_variant":[
-        "S\u00e6b\u00f6vagen",
-        "S\u00e6b\u00f8"
+        "S\u00e6b\u00f6vagen"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0628\u0648"
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1276572823,
-    "wof:lastmodified":1564103508,
+    "wof:lastmodified":1566661892,
     "wof:name":"Saebo",
     "wof:parent_id":1159297557,
     "wof:placetype":"locality",

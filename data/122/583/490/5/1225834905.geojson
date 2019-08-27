@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"17.12162,68.3705,17.16162,68.4105",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Vidrek"
     ],
@@ -44,7 +48,6 @@
     ],
     "name:und_x_variant":[
         "Virek",
-        "Vidrek",
         "Virik"
     ],
     "src:geom":"geonames",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1225834905,
-    "wof:lastmodified":1564105437,
+    "wof:lastmodified":1566663306,
     "wof:name":"Vidrek",
     "wof:parent_id":1159297203,
     "wof:placetype":"locality",

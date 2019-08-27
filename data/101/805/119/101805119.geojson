@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":58.028235,
     "lbl:longitude":7.464023,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":58.028235,
     "mps:longitude":7.464023,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0646\u062f\u0627\u0644"
     ],
@@ -177,7 +180,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":804,
     "wof:belongsto":[
@@ -191,7 +194,6 @@
         "fct:id":"01ff4cba-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3146463,
         "gp:id":861639,
-        "qs:id":914687,
         "qs_pg:id":914687,
         "wd:id":"Q108966",
         "wk:page":"Mandal, Norway"
@@ -211,7 +213,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572731,
+    "wof:lastmodified":1566662389,
     "wof:name":"Mandal",
     "wof:parent_id":1159297379,
     "wof:placetype":"locality",

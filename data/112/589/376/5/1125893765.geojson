@@ -9,14 +9,18 @@
     "geom:bbox":"10.15,61.2,10.15,61.2",
     "geom:latitude":61.2,
     "geom:longitude":10.15,
-    "gn:gn_country":"NO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"NO",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"NO",
+    "lbl:bbox":"10.13,61.18,10.17,61.22",
     "lbl:latitude":61.2,
     "lbl:longitude":10.15,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ita_x_preferred":[
         "\u00d8stre Gausdal"
@@ -27,7 +31,7 @@
     "name:nor_x_preferred":[
         "\u00d8stre Gausdal"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u00f6dalen"
     ],
     "qs_pg:aaroncc":"NO",
@@ -51,7 +55,7 @@
     "qs_pg:woe_adm0":23424910,
     "qs_pg:woe_id":15000666,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424910,
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"Oppland Fylke",
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1125893765,
-    "wof:lastmodified":1564104404,
+    "wof:lastmodified":1566662571,
     "wof:name":"\u00d8stre Gausdal",
     "wof:parent_id":1159297375,
     "wof:placetype":"locality",

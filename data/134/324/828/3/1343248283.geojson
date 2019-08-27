@@ -25,13 +25,16 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"10.93,59.34667,10.97,59.38667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "Slangsvold"
     ],
     "name:und_x_variant":[
-        "Slangsvold",
         "Slangsvoll"
     ],
     "src:geom":"geonames",
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1343248283,
-    "wof:lastmodified":1564103016,
+    "wof:lastmodified":1566661556,
     "wof:name":"Slangsvoll",
     "wof:parent_id":1159297257,
     "wof:placetype":"locality",

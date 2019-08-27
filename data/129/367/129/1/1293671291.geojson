@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"10.23313,63.11632,10.27313,63.15632",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Horg"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293671291,
-    "wof:lastmodified":1564103303,
+    "wof:lastmodified":1566661770,
     "wof:name":"Horg",
     "wof:parent_id":1159297511,
     "wof:placetype":"locality",

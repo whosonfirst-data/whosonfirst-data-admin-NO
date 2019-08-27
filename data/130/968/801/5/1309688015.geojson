@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"21.46237,70.15467,21.50237,70.19467",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Olderfjord"
     ],
@@ -58,8 +62,7 @@
         "Olderfjord"
     ],
     "name:und_x_variant":[
-        "Olderfjordbotn",
-        "Olderfjord"
+        "Olderfjordbotn"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1309688015,
-    "wof:lastmodified":1564104287,
+    "wof:lastmodified":1566662456,
     "wof:name":"Olderfjord",
     "wof:parent_id":1159297307,
     "wof:placetype":"locality",

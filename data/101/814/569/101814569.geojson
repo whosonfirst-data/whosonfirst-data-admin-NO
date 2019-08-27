@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":67.933259,
     "lbl:longitude":13.090034,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":67.933259,
     "mps:longitude":13.090034,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Reine"
     ],
@@ -129,7 +132,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":11.0,
     "wd:latitude":67.932222,
@@ -144,10 +147,12 @@
         "fct:id":"01ff50f2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3142105,
         "gp:id":862890,
-        "qs:id":375008,
-        "qs_pg:id":983729,
+        "qs_pg:id":375008,
         "wd:id":"Q593597",
         "wk:page":"Reine"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":983729
     },
     "wof:country":"NO",
     "wof:geomhash":"54ba774c6e30bf020cbad810ebd679f9",
@@ -164,7 +169,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572787,
+    "wof:lastmodified":1566662407,
     "wof:name":"Reine",
     "wof:parent_id":1159297153,
     "wof:placetype":"locality",

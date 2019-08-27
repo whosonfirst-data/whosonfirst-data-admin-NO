@@ -9,15 +9,18 @@
     "geom:bbox":"7.35676,59.56027,7.35676,59.56027",
     "geom:latitude":59.56027,
     "geom:longitude":7.35676,
-    "gn:gn_country":"NO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":265,
+    "gn:country":"NO",
+    "gn:fcode":"PPLA2",
     "gn:population":265,
     "iso:country":"NO",
+    "lbl:bbox":"7.33676,59.54027,7.37676,59.58027",
     "lbl:latitude":59.56027,
     "lbl:longitude":7.35676,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Hovden"
@@ -58,7 +61,7 @@
     "name:swe_x_preferred":[
         "Hovden i Setesdal"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hovde"
     ],
     "qs_pg:aaroncc":"NO",
@@ -82,7 +85,7 @@
     "qs_pg:woe_adm0":23424910,
     "qs_pg:woe_id":860077,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424910,
     "woe:name_adm0":"Norge",
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1125946313,
-    "wof:lastmodified":1563572942,
+    "wof:lastmodified":1566662483,
     "wof:name":"Hovden",
     "wof:parent_id":1159296911,
     "wof:placetype":"locality",

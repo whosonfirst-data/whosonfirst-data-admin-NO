@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":62.414844,
     "lbl:longitude":6.189964,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":62.414844,
     "mps:longitude":6.189964,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u0443\u043b\u0430"
     ],
@@ -101,7 +104,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1159296721,
-    "wof:lastmodified":1564104597,
+    "wof:lastmodified":1566662777,
     "wof:name":"Sula",
     "wof:parent_id":85687123,
     "wof:placetype":"localadmin",

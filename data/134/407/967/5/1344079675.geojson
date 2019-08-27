@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"28.48343,70.41966,28.52343,70.45966",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Leirpollen"
     ],
@@ -34,8 +38,7 @@
         "\u041b\u0435\u0439\u0440\u043f\u043e\u043b\u043b\u0435\u043d"
     ],
     "name:und_x_variant":[
-        "Lerpollen",
-        "Leirpollen"
+        "Lerpollen"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1344079675,
-    "wof:lastmodified":1537675653,
+    "wof:lastmodified":1566661545,
     "wof:name":"Leirpollskogen",
     "wof:parent_id":1159296751,
     "wof:placetype":"locality",

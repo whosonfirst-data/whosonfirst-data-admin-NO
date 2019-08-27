@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.211544,
+    "geom:area_square_m":931794265.912927,
     "geom:bbox":"16.7112393222,68.9519478329,17.8512129914,69.3497186304",
     "geom:latitude":69.132026,
     "geom:longitude":17.228287,
     "iso:country":"NO",
     "lbl:latitude":69.082261,
     "lbl:longitude":17.189538,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":69.082261,
     "mps:longitude":17.189538,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tranoy"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159297595,
-    "wof:lastmodified":1529700439,
+    "wof:lastmodified":1566662885,
     "wof:name":"Tranoy",
     "wof:parent_id":85687143,
     "wof:placetype":"localadmin",

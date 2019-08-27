@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":60.376096,
     "lbl:longitude":9.1329,
+    "lbl:min_zoom":8.0,
     "mps:latitude":60.376096,
     "mps:longitude":9.1329,
     "mz:hierarchy_label":1,
@@ -267,7 +268,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0441\u043a\u0435\u0440\u044e\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Buskerud county"
     ],
     "name:urd_x_preferred":[
@@ -355,9 +356,9 @@
     "qs:type":"Fylke",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-03",
+    "src:population_date":"2001-11-03",
     "statoids:area_km":"14,927",
     "statoids:area_mi":"5,763",
     "statoids:as_of_date":"2001-11-03",
@@ -405,11 +406,10 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1565731845,
+    "wof:lastmodified":1566661679,
     "wof:name":"Buskerud",
     "wof:parent_id":85633341,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":239591,
     "wof:population_rank":10,

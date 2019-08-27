@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.127771,
+    "geom:area_square_m":714240869.788673,
     "geom:bbox":"6.86050326148,62.9219416518,7.7563070144,63.3424896978",
     "geom:latitude":63.123588,
     "geom:longitude":7.365395,
     "iso:country":"NO",
     "lbl:latitude":63.072163,
     "lbl:longitude":7.446832,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":63.072163,
     "mps:longitude":7.446832,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Averoy"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159297467,
-    "wof:lastmodified":1529700084,
+    "wof:lastmodified":1566662836,
     "wof:name":"Averoy",
     "wof:parent_id":85687123,
     "wof:placetype":"localadmin",

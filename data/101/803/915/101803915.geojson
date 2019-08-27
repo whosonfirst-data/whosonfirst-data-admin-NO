@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":60.356789,
     "lbl:longitude":5.128096,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.356789,
     "mps:longitude":5.128096,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Knarrevik"
     ],
@@ -37,9 +40,6 @@
     "name:nob_x_preferred":[
         "Knarrevik"
     ],
-    "name:unk_x_variant":[
-        "Knarrevik"
-    ],
     "qs:a0":"Norge",
     "qs:a1":"*Hordaland",
     "qs:a1r":"0",
@@ -54,7 +54,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1159296987,
@@ -65,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3149722,
         "gp:id":860699,
-        "qs:id":1167480,
+        "qs_pg:id":1167480,
         "wd:id":"Q1773190",
         "wk:page":"Knarrevik"
     },
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":101803915,
-    "wof:lastmodified":1561769590,
+    "wof:lastmodified":1566662377,
     "wof:name":"Knarrevik/Straume",
     "wof:parent_id":1159296987,
     "wof:placetype":"locality",

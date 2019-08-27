@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.14065,
+    "geom:area_square_m":815960884.647392,
     "geom:bbox":"4.44119008689,61.8758980444,5.54022298277,62.1808439922",
     "geom:latitude":62.019212,
     "geom:longitude":4.919658,
     "iso:country":"NO",
     "lbl:latitude":62.01796,
     "lbl:longitude":4.919647,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":62.01796,
     "mps:longitude":4.919647,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vagsoy"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159297459,
-    "wof:lastmodified":1529699929,
+    "wof:lastmodified":1566662934,
     "wof:name":"Vagsoy",
     "wof:parent_id":85687113,
     "wof:placetype":"localadmin",

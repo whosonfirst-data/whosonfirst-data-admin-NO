@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":63.687766,
     "lbl:longitude":9.659785,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":63.687766,
     "mps:longitude":9.659785,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0440\u0435\u043a\u0441\u0442\u0430"
     ],
@@ -73,9 +76,6 @@
     "name:swe_x_preferred":[
         "Brekstad"
     ],
-    "name:unk_x_variant":[
-        "Brekkstad"
-    ],
     "qs:a0":"Norge",
     "qs:a1":"*S\u00f8r-Tr\u00f8ndelag",
     "qs:a1r":"0",
@@ -92,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":412,
     "wof:belongsto":[
@@ -104,7 +104,6 @@
         "fct:id":"01fe579c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3160100,
         "gp:id":857566,
-        "qs:id":492052,
         "qs_pg:id":492052,
         "wd:id":"Q2449403",
         "wk:page":"Brekstad"
@@ -124,7 +123,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572651,
+    "wof:lastmodified":1566662364,
     "wof:name":"Brekstad",
     "wof:parent_id":1159296835,
     "wof:placetype":"locality",

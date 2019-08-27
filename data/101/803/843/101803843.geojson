@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":59.651093,
     "lbl:longitude":6.356493,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.651093,
     "mps:longitude":6.356493,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sauda"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -97,7 +100,6 @@
         "fct:id":"01fbd990-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3140056,
         "gp:id":863495,
-        "qs:id":581059,
         "qs_pg:id":581059,
         "wd:id":"Q6728725",
         "wk:page":"Sauda (town)"
@@ -117,7 +119,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572687,
+    "wof:lastmodified":1566662376,
     "wof:name":"Sauda",
     "wof:parent_id":1159297249,
     "wof:placetype":"locality",

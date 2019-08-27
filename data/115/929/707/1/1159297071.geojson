@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.13364,
+    "geom:area_square_m":850619782.647629,
     "geom:bbox":"10.3302252761,58.7609603851,10.6750198284,59.2711411344",
     "geom:latitude":59.019382,
     "geom:longitude":10.495906,
     "iso:country":"NO",
     "lbl:latitude":59.032738,
     "lbl:longitude":10.499186,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.032738,
     "mps:longitude":10.499186,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Faerder"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159297071,
-    "wof:lastmodified":1529700484,
+    "wof:lastmodified":1566662766,
     "wof:name":"Faerder",
     "wof:parent_id":85687073,
     "wof:placetype":"localadmin",

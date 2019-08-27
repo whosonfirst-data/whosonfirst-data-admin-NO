@@ -11,8 +11,10 @@
     "geom:longitude":5.322588,
     "gn:id":"",
     "iso:country":"NO",
+    "lbl:bbox":"5.317588,60.392423,5.327588,60.402423",
     "lbl:latitude":60.397423,
     "lbl:longitude":5.322588,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.398254,
     "mps:longitude":5.322931,
     "mz:hierarchy_label":0,
@@ -133,9 +135,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0440\u0444 \u0411\u0440\u044e\u0433\u0433\u0435\u043d"
     ],
-    "name:unk_x_variant":[
-        "Bryggen"
-    ],
     "name:vie_x_preferred":[
         "Bryggen"
     ],
@@ -170,7 +169,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":644,
     "wof:belongsto":[
         102191581,
@@ -182,7 +181,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20099952,
-        "qs:id":500885,
         "qs_pg:id":500885,
         "wd:id":"Q153430"
     },
@@ -202,7 +200,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563571694,
+    "wof:lastmodified":1566661683,
     "wof:name":"Bryggen",
     "wof:parent_id":101751923,
     "wof:placetype":"neighbourhood",

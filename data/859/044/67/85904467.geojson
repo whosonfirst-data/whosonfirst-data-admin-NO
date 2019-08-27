@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":693740.729698,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.395989,63.431766,10.395989,63.431766",
     "geom:latitude":63.431766,
     "geom:longitude":10.395989,
     "gn:id":"",
     "iso:country":"NO",
+    "lbl:bbox":"10.390989,63.426766,10.400989,63.436766",
     "lbl:latitude":63.431766,
     "lbl:longitude":10.395989,
+    "lbl:max_zoom":18.0,
     "mps:latitude":63.432395,
     "mps:longitude":10.396254,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Midtbyen"
     ],
     "name:nor_x_preferred":[
-        "Midtbyen"
-    ],
-    "name:unk_x_variant":[
         "Midtbyen"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -59,17 +58,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":29,
     "wof:belongsto":[
-        85687127,
         1159297145,
-        101751927
+        101751927,
+        85687127
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20100247,
-        "qs:id":246942,
         "qs_pg:id":246942
     },
     "wof:country":"NO",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531936234,
+    "wof:lastmodified":1566661659,
     "wof:name":"Midtbyen",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

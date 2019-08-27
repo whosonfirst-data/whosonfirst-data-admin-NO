@@ -14,6 +14,7 @@
     "iso:country":"NO",
     "lbl:latitude":59.896531,
     "lbl:longitude":10.772581,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.890906,
     "mps:longitude":10.76032,
     "mz:hierarchy_label":1,
@@ -89,9 +90,6 @@
     "name:tur_x_preferred":[
         "Ekeberg"
     ],
-    "name:unk_x_variant":[
-        "Ekeberg"
-    ],
     "name:vls_x_preferred":[
         "Ekeberg"
     ],
@@ -125,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":619,
     "wof:belongsto":[
         102191581,
@@ -138,7 +136,6 @@
     "wof:concordances":{
         "gn:id":3158443,
         "gp:id":858081,
-        "qs:id":239241,
         "qs_pg:id":239241,
         "wd:id":"Q4587972",
         "wk:page":"Ekeberg"
@@ -159,7 +156,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563571619,
+    "wof:lastmodified":1566661643,
     "wof:name":"Ekeberg",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.113236,
+    "geom:area_square_m":666966970.024188,
     "geom:bbox":"5.97014225983,61.4367951107,6.85430694313,61.7016882596",
     "geom:latitude":61.553125,
     "geom:longitude":6.440224,
     "iso:country":"NO",
     "lbl:latitude":61.569404,
     "lbl:longitude":6.470383,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":61.569404,
     "mps:longitude":6.470383,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Jolster"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159296765,
-    "wof:lastmodified":1529699924,
+    "wof:lastmodified":1566662887,
     "wof:name":"Jolster",
     "wof:parent_id":85687113,
     "wof:placetype":"localadmin",

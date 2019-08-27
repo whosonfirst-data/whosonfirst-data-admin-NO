@@ -9,15 +9,18 @@
     "geom:bbox":"6.63333,58.41667,6.63333,58.41667",
     "geom:latitude":58.41667,
     "geom:longitude":6.63333,
-    "gn:gn_country":"NO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":584,
+    "gn:country":"NO",
+    "gn:fcode":"PPL",
     "gn:population":584,
     "iso:country":"NO",
+    "lbl:bbox":"6.61333,58.39667,6.65333,58.43667",
     "lbl:latitude":58.41667,
     "lbl:longitude":6.63333,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Sira"
@@ -49,7 +52,7 @@
     "name:swe_x_preferred":[
         "\u00c5na-Sira"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sire"
     ],
     "qs_pg:aaroncc":"NO",
@@ -73,7 +76,7 @@
     "qs_pg:woe_adm0":23424910,
     "qs_pg:woe_id":863647,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424910,
     "woe:name_adm0":"Norge",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1125878597,
-    "wof:lastmodified":1563573149,
+    "wof:lastmodified":1566662584,
     "wof:name":"Sira",
     "wof:parent_id":1159296845,
     "wof:placetype":"locality",

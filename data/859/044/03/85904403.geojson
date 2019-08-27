@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1035884.376264,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.425379,63.422594,10.425379,63.422594",
     "geom:latitude":63.422594,
     "geom:longitude":10.425379,
     "gn:id":"",
     "iso:country":"NO",
+    "lbl:bbox":"10.420379,63.417594,10.430379,63.427594",
     "lbl:latitude":63.422594,
     "lbl:longitude":10.425379,
+    "lbl:max_zoom":18.0,
     "mps:latitude":63.423488,
     "mps:longitude":10.425677,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:nor_x_preferred":[
-        "Blussuvoll"
-    ],
-    "name:unk_x_variant":[
         "Blussuvoll"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -56,16 +55,15 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687127,
         1159297145,
-        101751927
+        101751927,
+        85687127
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20099922,
-        "qs:id":1087361,
         "qs_pg:id":1087361
     },
     "wof:country":"NO",
@@ -84,7 +82,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531936216,
+    "wof:lastmodified":1566661659,
     "wof:name":"Blussuvoll",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

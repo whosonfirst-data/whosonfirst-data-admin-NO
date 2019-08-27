@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":59.275144,
     "lbl:longitude":10.747134,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.275144,
     "mps:longitude":10.747134,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lervik"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":66,
     "wof:belongsto":[
@@ -89,7 +92,6 @@
         "fct:id":"01fd7ac0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3147720,
         "gp:id":861285,
-        "qs:id":1276997,
         "qs_pg:id":1276997,
         "wd:id":"Q2002924",
         "wk:page":"Lervik"
@@ -109,7 +111,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572845,
+    "wof:lastmodified":1566662421,
     "wof:name":"Lervik",
     "wof:parent_id":1159297385,
     "wof:placetype":"locality",

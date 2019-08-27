@@ -25,14 +25,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"5.29032,60.41677,5.33032,60.45677",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "Eidsv\u00e5g"
     ],
     "name:und_x_variant":[
-        "Eidsvaag",
-        "Eidsv\u00e5g"
+        "Eidsvaag"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1276465287,
-    "wof:lastmodified":1564103554,
+    "wof:lastmodified":1566661924,
     "wof:name":"Eidsvag",
     "wof:parent_id":1159297617,
     "wof:placetype":"locality",

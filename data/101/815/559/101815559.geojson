@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":59.924231,
     "lbl:longitude":11.451195,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.924231,
     "mps:longitude":11.451195,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Aursmoen"
     ],
@@ -53,7 +56,7 @@
     "name:swe_x_preferred":[
         "Aursmoen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Urskog"
     ],
     "name:vie_x_preferred":[
@@ -73,7 +76,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":16,
     "wof:belongsto":[
@@ -86,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3162385,
         "gp:id":856895,
-        "qs:id":1220717,
+        "qs_pg:id":1220717,
         "wd:id":"Q2667193",
         "wk:page":"Aursmoen"
     },
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101815559,
-    "wof:lastmodified":1563572756,
+    "wof:lastmodified":1566662397,
     "wof:name":"Aursmoen",
     "wof:parent_id":1159297207,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":67.213016,
     "lbl:longitude":15.769627,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":67.213016,
     "mps:longitude":15.769627,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09cc\u09b8\u09cd\u0995\u09c7"
     ],
@@ -125,7 +128,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687135
     ],
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":1159296833,
-    "wof:lastmodified":1564104770,
+    "wof:lastmodified":1566662901,
     "wof:name":"Fauske",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

@@ -25,6 +25,7 @@
     ],
     "lbl:latitude":78.778238,
     "lbl:longitude":18.080645,
+    "lbl:min_zoom":8.0,
     "mps:latitude":78.778238,
     "mps:longitude":18.080645,
     "mz:hierarchy_label":1,
@@ -254,7 +255,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0441\u0442\u0440\u043e\u0432\u0438 \u0421\u0432\u0430\u043b\u044c\u0431\u0430\u0440\u0434 \u0442\u0430 \u042f\u043d-\u041c\u0430\u0454\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Svalbard Archipelago"
     ],
     "name:urd_x_preferred":[
@@ -342,9 +343,9 @@
     "qs:type":"Territory",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-01-01",
+    "src:population_date":"2010-01-01",
     "statoids:area_km":"62,049",
     "statoids:area_mi":"23,957",
     "statoids:as_of_date":"2010-01-01",
@@ -382,7 +383,7 @@
         "hasc:id":"SJ.SV",
         "iso:id":"SJ-21",
         "itu:id":"NOR",
-        "qs:id":550256,
+        "qs_pg:id":550256,
         "wd:id":"Q842829",
         "wk:page":"Svalbard and Jan Mayen",
         "wmo:id":"SZ"
@@ -406,11 +407,10 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1565731838,
+    "wof:lastmodified":1566661666,
     "wof:name":"Svalbard",
     "wof:parent_id":85633341,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"territory",
     "wof:population":2481,
     "wof:population_rank":4,

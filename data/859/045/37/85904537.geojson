@@ -11,8 +11,10 @@
     "geom:longitude":10.403573,
     "gn:id":"",
     "iso:country":"NO",
+    "lbl:bbox":"10.398573,63.406504,10.408573,63.416504",
     "lbl:latitude":63.411504,
     "lbl:longitude":10.403573,
+    "lbl:max_zoom":18.0,
     "mps:latitude":63.41037,
     "mps:longitude":10.403119,
     "mz:hierarchy_label":0,
@@ -90,9 +92,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u043c\u043f\u0456"
     ],
-    "name:unk_x_variant":[
-        "Tempe"
-    ],
     "qs:gn_adm0_cc":"NO",
     "qs:gn_id":0,
     "qs:gn_local":3133880,
@@ -119,7 +118,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":43,
     "wof:belongsto":[
         1159297145,
@@ -129,7 +128,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20100543,
-        "qs:id":1176095,
         "qs_pg:id":1176095
     },
     "wof:country":"NO",
@@ -148,7 +146,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1564103156,
+    "wof:lastmodified":1566661653,
     "wof:name":"Tempe",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

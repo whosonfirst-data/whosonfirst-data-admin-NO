@@ -10,8 +10,10 @@
     "geom:latitude":60.378169,
     "geom:longitude":5.327245,
     "iso:country":"NO",
+    "lbl:bbox":"5.322245,60.373169,5.332245,60.383169",
     "lbl:latitude":60.378169,
     "lbl:longitude":5.327245,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.377218,
     "mps:longitude":5.324497,
     "mz:hierarchy_label":0,
@@ -35,9 +37,8 @@
     "name:nor_x_preferred":[
         "Gyldenpris"
     ],
-    "name:unk_x_variant":[
-        "Gyllenpris",
-        "Gyldenpris"
+    "name:und_x_variant":[
+        "Gyllenpris"
     ],
     "qs:gn_adm0_cc":"NO",
     "qs:gn_fcode":"PPLX",
@@ -68,7 +69,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":735,
     "wof:belongsto":[
         102191581,
@@ -81,7 +82,6 @@
     "wof:concordances":{
         "gn:id":3241047,
         "gp:id":20100072,
-        "qs:id":349618,
         "qs_pg:id":349618,
         "wd:id":"Q11973466"
     },
@@ -101,7 +101,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563571693,
+    "wof:lastmodified":1566661682,
     "wof:name":"Gyldenpris",
     "wof:parent_id":101751923,
     "wof:placetype":"neighbourhood",

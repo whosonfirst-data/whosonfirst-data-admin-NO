@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":67.097356,
     "lbl:longitude":15.39065,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":67.097356,
     "mps:longitude":15.39065,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Rognan"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":230,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
         "fct:id":"01fbbf5a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3141548,
         "gp:id":863055,
-        "qs:id":686278,
         "qs_pg:id":686278,
         "wd:id":"Q2162122",
         "wk:page":"Rognan"
@@ -128,7 +130,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572798,
+    "wof:lastmodified":1566662410,
     "wof:name":"Rognan",
     "wof:parent_id":1159297115,
     "wof:placetype":"locality",

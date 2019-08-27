@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":59.098862,
     "lbl:longitude":9.756312,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.098862,
     "mps:longitude":9.756312,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u0634\u063a\u0631\u0648\u0646"
     ],
@@ -152,7 +155,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":1159296755,
-    "wof:lastmodified":1564104600,
+    "wof:lastmodified":1566662778,
     "wof:name":"Porsgrunn",
     "wof:parent_id":85687091,
     "wof:placetype":"localadmin",

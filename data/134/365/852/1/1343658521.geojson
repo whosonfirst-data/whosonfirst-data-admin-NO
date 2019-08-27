@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"14.53,66.26333,14.57,66.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Raudvatnet"
     ],
@@ -40,8 +44,7 @@
         "Rauvatnet",
         "R\u00f8dvatn",
         "Rauvatn",
-        "R\u00f6dvatnet",
-        "Raudvatnet"
+        "R\u00f6dvatnet"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1343658521,
-    "wof:lastmodified":1564102937,
+    "wof:lastmodified":1566661500,
     "wof:name":"Raudvatnet",
     "wof:parent_id":1159296963,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"23.4975,70.30528,23.5375,70.34528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Moen"
     ],
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":1343363767,
-    "wof:lastmodified":1564102934,
+    "wof:lastmodified":1566661498,
     "wof:name":"Moen",
     "wof:parent_id":1159296893,
     "wof:placetype":"locality",

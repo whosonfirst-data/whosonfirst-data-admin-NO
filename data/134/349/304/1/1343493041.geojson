@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"23.95063,70.49901,23.99063,70.53901",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "Stallogargo"
     ],
@@ -38,8 +42,7 @@
     ],
     "name:und_x_variant":[
         "Plankenesbugten",
-        "Plankenesbukt",
-        "Stallogargo"
+        "Plankenesbukt"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1343493041,
-    "wof:lastmodified":1537675643,
+    "wof:lastmodified":1566661568,
     "wof:name":"Stallogarggu",
     "wof:parent_id":1159297439,
     "wof:placetype":"locality",

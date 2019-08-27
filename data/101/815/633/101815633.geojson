@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":60.45542,
     "lbl:longitude":12.06286,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":60.45542,
     "mps:longitude":12.06286,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Kirken\u00e6r"
     ],
@@ -75,7 +78,7 @@
     "name:swe_x_preferred":[
         "Innbygda"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kirken\u00e6r i Sol\u00f8r"
     ],
     "qs:a0":"Norge",
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":31,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
         "fct:id":"01fc1e8c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3150261,
         "gp:id":860522,
-        "qs:id":145929,
         "qs_pg:id":145929,
         "wd:id":"Q1773779",
         "wk:page":"Kirken\u00e6r"
@@ -128,7 +130,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572763,
+    "wof:lastmodified":1566662398,
     "wof:name":"Kirken\u00e6r",
     "wof:parent_id":1159297575,
     "wof:placetype":"locality",

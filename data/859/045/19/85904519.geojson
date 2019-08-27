@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1505494.962351,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.331304,63.385243,10.331304,63.385243",
     "geom:latitude":63.385243,
     "geom:longitude":10.331304,
     "gn:id":"",
     "iso:country":"NO",
+    "lbl:bbox":"10.326304,63.380243,10.336304,63.390243",
     "lbl:latitude":63.385243,
     "lbl:longitude":10.331304,
+    "lbl:max_zoom":18.0,
     "mps:latitude":63.3866,
     "mps:longitude":10.334331,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:nor_x_preferred":[
-        "Stavset"
-    ],
-    "name:unk_x_variant":[
         "Stavset"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -56,16 +55,15 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687127,
         1159297145,
-        101751927
+        101751927,
+        85687127
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20100500,
-        "qs:id":1000705,
         "qs_pg:id":1000705
     },
     "wof:country":"NO",
@@ -84,7 +82,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531936250,
+    "wof:lastmodified":1566661652,
     "wof:name":"Stavset",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

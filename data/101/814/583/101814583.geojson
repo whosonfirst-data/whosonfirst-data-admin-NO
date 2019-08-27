@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":65.595786,
     "lbl:longitude":13.995602,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":65.595786,
     "mps:longitude":13.995602,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Hattfjelldal"
     ],
@@ -159,7 +162,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":461,
     "wof:belongsto":[
         1159297409,
@@ -170,7 +173,7 @@
         "fct:id":"01fec01a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7626393,
         "gp:id":859439,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q488384"
     },
     "wof:country":"NO",
@@ -188,7 +191,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572842,
+    "wof:lastmodified":1566662420,
     "wof:name":"Hattfjelldal",
     "wof:parent_id":1159297409,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":69.145565,
     "lbl:longitude":18.157305,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":69.145565,
     "mps:longitude":18.157305,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "S\u00f8rreisa"
     ],
@@ -159,7 +162,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":373,
     "wof:belongsto":[
         102191581,
@@ -172,7 +175,6 @@
         "fct:id":"01fe535a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7626403,
         "gp:id":864232,
-        "qs:id":481118,
         "qs_pg:id":481118,
         "wd:id":"Q48325"
     },
@@ -191,7 +193,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572831,
+    "wof:lastmodified":1566662417,
     "wof:name":"S\u00f8rreisa",
     "wof:parent_id":1159297055,
     "wof:placetype":"locality",

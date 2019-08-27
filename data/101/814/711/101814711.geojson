@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":70.046979,
     "lbl:longitude":24.962769,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":70.046979,
     "mps:longitude":24.962769,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Lakselv"
     ],
@@ -99,9 +102,6 @@
     "name:swe_x_preferred":[
         "Lakselv"
     ],
-    "name:unk_x_variant":[
-        "Lakeselv"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u06a9\u0633\u06cc\u0644\u0648"
     ],
@@ -124,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":18.0,
     "wd:latitude":70.051111,
@@ -141,7 +141,6 @@
         "fct:id":"01fda69e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":779082,
         "gp:id":861053,
-        "qs:id":3135,
         "qs_pg:id":3135,
         "wd:id":"Q531041",
         "wk:page":"Lakselv"
@@ -161,7 +160,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572842,
+    "wof:lastmodified":1566662420,
     "wof:name":"Lakselv",
     "wof:parent_id":1159297563,
     "wof:placetype":"locality",

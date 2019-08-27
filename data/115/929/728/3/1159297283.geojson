@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.473341,
+    "geom:area_square_m":2789735458.047688,
     "geom:bbox":"6.80575851323,61.1817452626,8.32205300683,61.8575093304",
     "geom:latitude":61.533874,
     "geom:longitude":7.442878,
     "iso:country":"NO",
     "lbl:latitude":61.531587,
     "lbl:longitude":7.304855,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":61.531587,
     "mps:longitude":7.304855,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Luster"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159297283,
-    "wof:lastmodified":1529699927,
+    "wof:lastmodified":1566662931,
     "wof:name":"Luster",
     "wof:parent_id":85687113,
     "wof:placetype":"localadmin",

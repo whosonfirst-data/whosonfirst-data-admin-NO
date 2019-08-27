@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"9.83,60.53,9.87,60.57",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Urda"
     ],
@@ -55,8 +59,7 @@
         "Urda"
     ],
     "name:und_x_variant":[
-        "Ura",
-        "Urda"
+        "Ura"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1226748091,
-    "wof:lastmodified":1564105273,
+    "wof:lastmodified":1566663205,
     "wof:name":"Urda",
     "wof:parent_id":1159297513,
     "wof:placetype":"locality",

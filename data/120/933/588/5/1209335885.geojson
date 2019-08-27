@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"4.83972,60.53694,4.87972,60.57694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633341
@@ -35,7 +39,7 @@
         "gn:id":3241977
     },
     "wof:country":"NO",
-    "wof:geomhash":"638b006dbea66dd3a511b8689f01fb5f",
+    "wof:geomhash":"6a4750781fc92a55c63dfa3cde0d18a8",
     "wof:hierarchy":[
         {
             "country_id":85633341,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209335885,
-    "wof:lastmodified":1536290223,
+    "wof:lastmodified":1566662064,
     "wof:name":"Rossnes",
     "wof:parent_id":85633341,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.8597199999999985,
+    4.85972,
     60.55694,
-    4.8597199999999985,
+    4.85972,
     60.55694
 ],
   "geometry": {"coordinates":[4.85972,60.55694],"type":"Point"}

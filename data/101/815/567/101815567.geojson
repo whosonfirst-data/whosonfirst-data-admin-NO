@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":59.819751,
     "lbl:longitude":10.329212,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.819751,
     "mps:longitude":10.329212,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kjenner"
     ],
@@ -57,7 +60,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":95,
     "wof:belongsto":[
         102191581,
@@ -68,7 +71,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22658756,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q1961014"
     },
     "wof:country":"NO",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101815567,
-    "wof:lastmodified":1561769593,
+    "wof:lastmodified":1566662396,
     "wof:name":"Kjenner",
     "wof:parent_id":1159296937,
     "wof:placetype":"locality",

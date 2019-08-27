@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.227594,
+    "geom:area_square_m":1036912345.133662,
     "geom:bbox":"15.1259672412,68.1749880288,16.160819112,68.6138975515",
     "geom:latitude":68.380608,
     "geom:longitude":15.620787,
     "iso:country":"NO",
     "lbl:latitude":68.33976,
     "lbl:longitude":15.613009,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":68.33976,
     "mps:longitude":15.613009,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lodingen"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687135
     ],
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1159297361,
-    "wof:lastmodified":1529700147,
+    "wof:lastmodified":1566662759,
     "wof:name":"Lodingen",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

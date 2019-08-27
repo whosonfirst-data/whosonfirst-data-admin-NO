@@ -11,8 +11,10 @@
     "geom:longitude":10.461731,
     "gn:id":"",
     "iso:country":"NO",
+    "lbl:bbox":"10.456731,63.402509,10.466731,63.412509",
     "lbl:latitude":63.407509,
     "lbl:longitude":10.461731,
+    "lbl:max_zoom":18.0,
     "mps:latitude":63.40751,
     "mps:longitude":10.461591,
     "mz:hierarchy_label":0,
@@ -81,9 +83,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0440\u0433\u0433\u0430\u0439\u043c"
     ],
-    "name:unk_x_variant":[
-        "Bergheim"
-    ],
     "name:vol_x_preferred":[
         "Bergheim"
     ],
@@ -116,7 +115,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         1159297145,
         101751927,
@@ -125,7 +124,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20099909,
-        "qs:id":1256446,
         "qs_pg:id":1256446
     },
     "wof:country":"NO",
@@ -144,7 +142,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1564103165,
+    "wof:lastmodified":1566661665,
     "wof:name":"Bergheim",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

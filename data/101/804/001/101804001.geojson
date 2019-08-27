@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":61.529758,
     "lbl:longitude":10.138413,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":61.529758,
     "mps:longitude":10.138413,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Ringebu"
     ],
@@ -166,7 +169,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":445,
     "wof:belongsto":[
         102191581,
@@ -179,7 +182,6 @@
         "fct:id":"01fcfa00-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3141850,
         "gp:id":862961,
-        "qs:id":462779,
         "qs_pg:id":462779,
         "wd:id":"Q48637"
     },
@@ -198,7 +200,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572648,
+    "wof:lastmodified":1566662363,
     "wof:name":"Ringebu",
     "wof:parent_id":1159296971,
     "wof:placetype":"locality",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":19289159.20192,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.441384,68.437174,17.441384,68.437174",
     "geom:latitude":68.437174,
     "geom:longitude":17.441384,
     "gn:latitude":68.43333,
     "gn:longitude":17.43333,
     "iso:country":"NO",
+    "lbl:bbox":"17.436384,68.432174,17.446384,68.442174",
     "lbl:latitude":68.437174,
     "lbl:longitude":17.441384,
+    "lbl:max_zoom":18.0,
     "mps:latitude":68.437661,
     "mps:longitude":17.463085,
     "mz:hierarchy_label":0,
@@ -32,10 +34,6 @@
         "Oscarsborg"
     ],
     "name:nor_x_preferred":[
-        "Oskarsborg"
-    ],
-    "name:unk_x_variant":[
-        "Oscarsborg",
         "Oskarsborg"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -68,17 +66,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687135,
         1159297203,
-        101814601
+        101814601,
+        85687135
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3143250,
         "gp:id":862590,
-        "qs:id":314467,
         "qs_pg:id":314467
     },
     "wof:country":"NO",
@@ -97,7 +94,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531932534,
+    "wof:lastmodified":1566661656,
     "wof:name":"Oskarsborg",
     "wof:parent_id":101814601,
     "wof:placetype":"neighbourhood",

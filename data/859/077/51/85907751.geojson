@@ -13,6 +13,7 @@
     "iso:country":"NO",
     "lbl:latitude":59.911995,
     "lbl:longitude":10.709197,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.911658,
     "mps:longitude":10.70086,
     "mz:hierarchy_label":1,
@@ -35,9 +36,6 @@
         "Skillebekk"
     ],
     "name:nor_x_preferred":[
-        "Skillebekk"
-    ],
-    "name:unk_x_variant":[
         "Skillebekk"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -65,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":95,
     "wof:belongsto":[
         102191581,
@@ -77,7 +75,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23701338,
-        "qs:id":1087797,
         "qs_pg:id":1087797,
         "wd:id":"Q7535199"
     },
@@ -97,7 +94,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563571625,
+    "wof:lastmodified":1566661647,
     "wof:name":"Skillebekk",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

@@ -25,14 +25,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"22.00614,69.82515,22.04614,69.86515",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "Badderen"
     ],
     "name:und_x_variant":[
-        "Baddern",
-        "Badderen"
+        "Baddern"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1225811571,
-    "wof:lastmodified":1564105326,
+    "wof:lastmodified":1566663238,
     "wof:name":"Badderen",
     "wof:parent_id":1159297307,
     "wof:placetype":"locality",

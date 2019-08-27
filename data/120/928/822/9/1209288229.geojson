@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"6.29667,58.56333,6.33667,58.60333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633341
@@ -35,7 +39,7 @@
         "gn:id":3154440
     },
     "wof:country":"NO",
-    "wof:geomhash":"a05b145404c23c6386dd9bdcf341585f",
+    "wof:geomhash":"5f305f7af850a401d773d718508cb39c",
     "wof:hierarchy":[
         {
             "country_id":85633341,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209288229,
-    "wof:lastmodified":1536291785,
+    "wof:lastmodified":1566662094,
     "wof:name":"Gya",
     "wof:parent_id":85633341,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.3166699999999985,
+    6.31667,
     58.58333,
-    6.3166699999999985,
+    6.31667,
     58.58333
 ],
   "geometry": {"coordinates":[6.31667,58.58333],"type":"Point"}

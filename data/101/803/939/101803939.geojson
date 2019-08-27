@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":59.816279,
     "lbl:longitude":5.265246,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":59.816279,
     "mps:longitude":5.265246,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Rubbestadneset"
     ],
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":159,
     "wof:belongsto":[
@@ -90,7 +93,6 @@
         "fct:id":"01fdb9cc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3141032,
         "gp:id":863220,
-        "qs:id":3198,
         "qs_pg:id":3198,
         "wd:id":"Q2112605",
         "wk:page":"Rubbestadneset"
@@ -110,7 +112,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572677,
+    "wof:lastmodified":1566662372,
     "wof:name":"Rubbestadneset",
     "wof:parent_id":1159296859,
     "wof:placetype":"locality",

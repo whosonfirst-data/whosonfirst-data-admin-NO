@@ -13,6 +13,8 @@
     "iso:country":"NO",
     "lbl:latitude":70.660447,
     "lbl:longitude":23.703154,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":70.660447,
     "mps:longitude":23.703154,
     "mz:hierarchy_label":1,
@@ -330,7 +332,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2898,
     "wof:belongsto":[
@@ -344,7 +346,6 @@
         "fct:id":"01fd488e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":779683,
         "gp:id":859348,
-        "qs:id":914351,
         "qs_pg:id":914351,
         "wd:id":"Q107351",
         "wk:page":"Hammerfest"
@@ -364,7 +365,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572819,
+    "wof:lastmodified":1566662414,
     "wof:name":"Hammerfest",
     "wof:parent_id":1159296825,
     "wof:placetype":"locality",

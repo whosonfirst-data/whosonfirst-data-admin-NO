@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"5.11071,60.64144,5.15071,60.68144",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0633\u062a\u0648"
     ],
@@ -64,8 +68,7 @@
         "Festo"
     ],
     "name:und_x_variant":[
-        "Festaa",
-        "Festo"
+        "Festaa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1225935687,
-    "wof:lastmodified":1564105232,
+    "wof:lastmodified":1566663178,
     "wof:name":"Festo",
     "wof:parent_id":1159296745,
     "wof:placetype":"locality",

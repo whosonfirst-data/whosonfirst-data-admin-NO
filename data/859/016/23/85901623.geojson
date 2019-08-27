@@ -14,6 +14,7 @@
     "iso:country":"NO",
     "lbl:latitude":59.952059,
     "lbl:longitude":10.640355,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.943318,
     "mps:longitude":10.643742,
     "mz:hierarchy_label":1,
@@ -50,10 +51,6 @@
     "name:swe_x_preferred":[
         "R\u00f8a"
     ],
-    "name:unk_x_variant":[
-        "R\u00f6d",
-        "R\u00f8a"
-    ],
     "qs:gn_adm0_cc":"NO",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3143244,
@@ -82,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":79,
     "wof:belongsto":[
         102191581,
@@ -97,7 +94,6 @@
     "wof:concordances":{
         "gn:id":3141670,
         "gp:id":863011,
-        "qs:id":1083385,
         "qs_pg:id":1083385,
         "wd:id":"Q4587635",
         "wk:page":"R\u00f8a"
@@ -118,7 +114,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563571644,
+    "wof:lastmodified":1566661658,
     "wof:name":"R\u00f8a",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

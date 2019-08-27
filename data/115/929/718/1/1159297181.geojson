@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.152141,
+    "geom:area_square_m":784960427.079003,
     "geom:bbox":"10.6088849783,65.1832755644,12.4646288309,65.5375600818",
     "geom:latitude":65.33929,
     "geom:longitude":11.781498,
     "iso:country":"NO",
     "lbl:latitude":65.277521,
     "lbl:longitude":12.026821,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":65.277521,
     "mps:longitude":12.026821,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Somna"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687135
     ],
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1159297181,
-    "wof:lastmodified":1529700143,
+    "wof:lastmodified":1566662951,
     "wof:name":"Somna",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

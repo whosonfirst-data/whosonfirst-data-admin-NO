@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":59.258394,
     "lbl:longitude":10.365561,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.258394,
     "mps:longitude":10.365561,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Vear"
     ],
@@ -115,7 +118,7 @@
     "name:swe_x_preferred":[
         "Vear"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Varnes"
     ],
     "qs:a0":"Norge",
@@ -134,7 +137,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":77,
     "wof:belongsto":[
         102191581,
@@ -146,7 +149,6 @@
     "wof:concordances":{
         "gn:id":3132712,
         "gp:id":15000682,
-        "qs:id":229983,
         "qs_pg:id":229983,
         "wd:id":"Q1778457"
     },
@@ -162,7 +164,7 @@
         }
     ],
     "wof:id":101815521,
-    "wof:lastmodified":1561769594,
+    "wof:lastmodified":1566662399,
     "wof:name":"Vear",
     "wof:parent_id":1159297321,
     "wof:placetype":"locality",

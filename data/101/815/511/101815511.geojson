@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":59.350865,
     "lbl:longitude":10.464696,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.350865,
     "mps:longitude":10.464696,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "\u00c5sg\u00e5rdstrand"
     ],
@@ -91,9 +94,6 @@
     "name:swe_x_preferred":[
         "\u00c5sg\u00e5rdstrand"
     ],
-    "name:unk_x_variant":[
-        "Aasgaardstrand"
-    ],
     "qs:a0":"Norge",
     "qs:a1":"*Vestfold",
     "qs:a1r":"0",
@@ -111,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":59.349972,
     "wd:longitude":10.466667,
@@ -127,7 +127,6 @@
         "fct:id":"01fc2436-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3162682,
         "gp:id":856804,
-        "qs:id":2974,
         "qs_pg:id":2974,
         "wd:id":"Q271269",
         "wk:page":"\u00c5sg\u00e5rdstrand"
@@ -147,7 +146,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572769,
+    "wof:lastmodified":1566662400,
     "wof:name":"\u00c5sg\u00e5rdstrand",
     "wof:parent_id":1159296925,
     "wof:placetype":"locality",

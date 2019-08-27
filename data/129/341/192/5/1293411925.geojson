@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"12.34528,60.04541,12.38528,60.08541",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "Karterud"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293411925,
-    "wof:lastmodified":1537676010,
+    "wof:lastmodified":1566661724,
     "wof:name":"Karterud",
     "wof:parent_id":1159296807,
     "wof:placetype":"locality",

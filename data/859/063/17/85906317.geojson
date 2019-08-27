@@ -13,6 +13,7 @@
     "iso:country":"NO",
     "lbl:latitude":59.935619,
     "lbl:longitude":10.916443,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.930165,
     "mps:longitude":10.927388,
     "mz:hierarchy_label":1,
@@ -43,9 +44,6 @@
     "name:pol_x_preferred":[
         "Ellingsrud"
     ],
-    "name:unk_x_variant":[
-        "Ellingsruds"
-    ],
     "qs:gn_adm0_cc":"NO",
     "qs:gn_id":0,
     "qs:gn_local":3143244,
@@ -71,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":112,
     "wof:belongsto":[
         102191581,
@@ -83,7 +81,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22658622,
-        "qs:id":14365,
         "qs_pg:id":14365,
         "wd:id":"Q5365401"
     },
@@ -103,7 +100,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563571630,
+    "wof:lastmodified":1566661650,
     "wof:name":"Ellingsrud",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

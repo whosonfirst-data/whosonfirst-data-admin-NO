@@ -14,6 +14,7 @@
     "iso:country":"NO",
     "lbl:latitude":59.939291,
     "lbl:longitude":10.73342,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.943319,
     "mps:longitude":10.749687,
     "mz:hierarchy_label":1,
@@ -44,10 +45,6 @@
     "name:nor_x_variant":[
         "Ullev\u00e5l Hageby"
     ],
-    "name:unk_x_variant":[
-        "Ullev\u00e5l Hageby",
-        "Ullev\u00e5l Haveby"
-    ],
     "qs:gn_adm0_cc":"NO",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3143244,
@@ -75,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":468,
     "wof:belongsto":[
         102191581,
@@ -88,7 +85,6 @@
     "wof:concordances":{
         "gn:id":3133372,
         "gp:id":865321,
-        "qs:id":239243,
         "qs_pg:id":239243,
         "wd:id":"Q7879174",
         "wk:page":"Ullev\u00e5l Hageby"
@@ -109,7 +105,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563571644,
+    "wof:lastmodified":1566661658,
     "wof:name":"Ullev\u00e5l Haveby",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

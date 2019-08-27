@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":62.370609,
     "lbl:longitude":6.024935,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":62.370609,
     "mps:longitude":6.024935,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Hareid"
     ],
@@ -130,9 +133,6 @@
     "name:swe_x_variant":[
         "Hareid"
     ],
-    "name:unk_x_variant":[
-        "Indre Hareid"
-    ],
     "name:vie_x_preferred":[
         "Hareid"
     ],
@@ -161,7 +161,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":671,
     "wof:belongsto":[
@@ -175,7 +175,6 @@
         "fct:id":"01fe6912-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3153861,
         "gp:id":859409,
-        "qs:id":145942,
         "qs_pg:id":145942,
         "wd:id":"Q494029"
     },
@@ -194,7 +193,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572641,
+    "wof:lastmodified":1566662362,
     "wof:name":"Hareid",
     "wof:parent_id":1159297015,
     "wof:placetype":"locality",

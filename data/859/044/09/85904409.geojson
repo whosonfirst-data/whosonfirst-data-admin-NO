@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1102744.712329,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.450819,63.42734,10.450819,63.42734",
     "geom:latitude":63.42734,
     "geom:longitude":10.450819,
     "iso:country":"NO",
+    "lbl:bbox":"10.445819,63.42234,10.455819,63.43234",
     "lbl:latitude":63.42734,
     "lbl:longitude":10.450819,
+    "lbl:max_zoom":18.0,
     "mps:latitude":63.426559,
     "mps:longitude":10.448047,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:nor_x_preferred":[
-        "Bromstad"
-    ],
-    "name:unk_x_variant":[
         "Bromstad"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -55,11 +54,11 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687127,
         1159297145,
-        101751927
+        101751927,
+        85687127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,7 +80,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531936217,
+    "wof:lastmodified":1566661662,
     "wof:name":"Bromstad",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

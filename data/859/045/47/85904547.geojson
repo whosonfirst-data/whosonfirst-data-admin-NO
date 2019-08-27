@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1553354.220552,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.432107,63.386249,10.432107,63.386249",
     "geom:latitude":63.386249,
     "geom:longitude":10.432107,
     "iso:country":"NO",
+    "lbl:bbox":"10.427107,63.381249,10.437107,63.391249",
     "lbl:latitude":63.386249,
     "lbl:longitude":10.432107,
+    "lbl:max_zoom":18.0,
     "mps:latitude":63.386161,
     "mps:longitude":10.427707,
     "mz:hierarchy_label":0,
@@ -54,9 +56,6 @@
     "name:spa_x_preferred":[
         "Bj\u00f8rn Tore Kvarme"
     ],
-    "name:unk_x_variant":[
-        "Utleira"
-    ],
     "qs:gn_adm0_cc":"NO",
     "qs:gn_id":0,
     "qs:gn_local":3133880,
@@ -83,10 +82,10 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687127,
-        1159297145
+        1159297145,
+        85687127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,7 +107,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531936259,
+    "wof:lastmodified":1566661654,
     "wof:name":"Utleira",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

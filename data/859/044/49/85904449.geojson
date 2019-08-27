@@ -11,8 +11,10 @@
     "geom:longitude":10.386523,
     "gn:id":"",
     "iso:country":"NO",
+    "lbl:bbox":"10.381523,63.424356,10.391523,63.434356",
     "lbl:latitude":63.429356,
     "lbl:longitude":10.386523,
+    "lbl:max_zoom":18.0,
     "mps:latitude":63.429018,
     "mps:longitude":10.386201,
     "mz:hierarchy_label":0,
@@ -37,9 +39,6 @@
         "Kalvskinnet"
     ],
     "name:nor_x_preferred":[
-        "Kalvskinnet"
-    ],
-    "name:unk_x_variant":[
         "Kalvskinnet"
     ],
     "name:zho_x_preferred":[
@@ -71,7 +70,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":145,
     "wof:belongsto":[
         1159297145,
@@ -81,7 +80,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20100148,
-        "qs:id":365559,
         "qs_pg:id":365559,
         "wd:id":"Q4583716"
     },
@@ -101,7 +99,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563571653,
+    "wof:lastmodified":1566661664,
     "wof:name":"Kalvskinnet",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

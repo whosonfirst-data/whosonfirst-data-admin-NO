@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":59.787863,
     "lbl:longitude":10.24343,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.787863,
     "mps:longitude":10.24343,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lierbyen"
     ],
@@ -68,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":243,
     "wof:belongsto":[
         102191581,
@@ -81,7 +84,6 @@
         "fct:id":"01fed3de-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7626341,
         "gp:id":22659589,
-        "qs:id":1174851,
         "qs_pg:id":1174851,
         "wd:id":"Q2072812",
         "wk:page":"Lierbyen"
@@ -101,7 +103,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572729,
+    "wof:lastmodified":1566662389,
     "wof:name":"Lierbyen",
     "wof:parent_id":1159296937,
     "wof:placetype":"locality",

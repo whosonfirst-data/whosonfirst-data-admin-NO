@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":62.96584,
     "lbl:longitude":8.705595,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":62.96584,
     "mps:longitude":8.705595,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Skei/Surnadals\u00f8ra"
     ],
@@ -74,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":119,
     "wof:belongsto":[
         102191581,
@@ -86,9 +89,11 @@
     "wof:concordances":{
         "gn:id":6692398,
         "gp:id":20100438,
-        "qs:id":6,
-        "qs_pg:id":1118881,
+        "qs_pg:id":6,
         "wd:id":"Q1779303"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1118881
     },
     "wof:country":"NO",
     "wof:geomhash":"e983d594ca6e235bf7467c7972ec86e3",
@@ -102,7 +107,7 @@
         }
     ],
     "wof:id":101804083,
-    "wof:lastmodified":1563572640,
+    "wof:lastmodified":1566662361,
     "wof:name":"Skei/Surnadals\u00f8ra",
     "wof:parent_id":1159297613,
     "wof:placetype":"locality",

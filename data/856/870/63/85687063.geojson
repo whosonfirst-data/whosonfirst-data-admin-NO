@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":58.295348,
     "lbl:longitude":7.091363,
+    "lbl:min_zoom":8.0,
     "mps:latitude":58.295348,
     "mps:longitude":7.091363,
     "mz:hierarchy_label":1,
@@ -270,9 +271,6 @@
     "name:ukr_x_variant":[
         "\u0412\u0435\u0441\u0442-\u0410\u0491\u0434\u0435\u0440"
     ],
-    "name:unk_x_variant":[
-        "Vest-Agder Fylke"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0633\u062a-\u0622\u06af\u062f\u06cc\u0631"
     ],
@@ -358,9 +356,9 @@
     "qs:type":"Fylke",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-03",
+    "src:population_date":"2001-11-03",
     "statoids:area_km":"7,281",
     "statoids:area_mi":"2,811",
     "statoids:as_of_date":"2001-11-03",
@@ -408,11 +406,10 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1565731844,
+    "wof:lastmodified":1566661678,
     "wof:name":"Vest-Agder",
     "wof:parent_id":85633341,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":157697,
     "wof:population_rank":9,

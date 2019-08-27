@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040674,
+    "geom:area_square_m":255574073.928912,
     "geom:bbox":"10.7657743879,59.3869869199,11.1379168707,59.5419727714",
     "geom:latitude":59.458473,
     "geom:longitude":10.932636,
     "iso:country":"NO",
     "lbl:latitude":59.467853,
     "lbl:longitude":10.917579,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.467853,
     "mps:longitude":10.917579,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Valer"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159297541,
-    "wof:lastmodified":1529699753,
+    "wof:lastmodified":1566662745,
     "wof:name":"Valer",
     "wof:parent_id":85687079,
     "wof:placetype":"localadmin",

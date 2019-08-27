@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":62.506294,
     "lbl:longitude":6.684565,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":62.506294,
     "mps:longitude":6.684565,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Skodje"
     ],
@@ -156,7 +159,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":484,
     "wof:belongsto":[
@@ -170,7 +173,6 @@
         "fct:id":"01fd1a08-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3138747,
         "gp:id":863876,
-        "qs:id":348842,
         "qs_pg:id":348842,
         "wd:id":"Q48265"
     },
@@ -189,7 +191,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572651,
+    "wof:lastmodified":1566662364,
     "wof:name":"Skodje",
     "wof:parent_id":1159297019,
     "wof:placetype":"locality",

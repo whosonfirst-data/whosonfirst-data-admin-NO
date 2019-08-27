@@ -9,14 +9,18 @@
     "geom:bbox":"14.5743,67.00601,14.5743,67.00601",
     "geom:latitude":67.00601,
     "geom:longitude":14.5743,
-    "gn:gn_country":"NO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":0,
+    "gn:country":"NO",
+    "gn:fcode":"PPLA2",
+    "gn:population":0,
     "iso:country":"NO",
+    "lbl:bbox":"14.5543,66.98601,14.5943,67.02601",
     "lbl:latitude":67.00601,
     "lbl:longitude":14.5743,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Moldjord"
@@ -45,7 +49,7 @@
     "name:nob_x_preferred":[
         "Moldjord"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Moldjorden"
     ],
     "qs_pg:aaroncc":"NO",
@@ -69,7 +73,7 @@
     "qs_pg:woe_adm0":23424910,
     "qs_pg:woe_id":861907,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424910,
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"Nordland Fylke",
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":1125913939,
-    "wof:lastmodified":1563573240,
+    "wof:lastmodified":1566662631,
     "wof:name":"Moldjord",
     "wof:parent_id":1159297265,
     "wof:placetype":"locality",

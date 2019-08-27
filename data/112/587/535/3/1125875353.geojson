@@ -9,14 +9,18 @@
     "geom:bbox":"7.2197,58.3757,7.2197,58.3757",
     "geom:latitude":58.3757,
     "geom:longitude":7.2197,
-    "gn:gn_country":"NO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":0,
+    "gn:country":"NO",
+    "gn:fcode":"PPLA2",
+    "gn:population":0,
     "iso:country":"NO",
+    "lbl:bbox":"7.1997,58.3557,7.2397,58.3957",
     "lbl:latitude":58.3757,
     "lbl:longitude":7.2197,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:nno_x_preferred":[
         "Tingvatn"
@@ -24,7 +28,7 @@
     "name:nor_x_preferred":[
         "Tingvatn"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tingvatne"
     ],
     "qs_pg:aaroncc":"NO",
@@ -48,7 +52,7 @@
     "qs_pg:woe_adm0":23424910,
     "qs_pg:woe_id":864948,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424910,
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"Vest-Agder Fylke",
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1125875353,
-    "wof:lastmodified":1564104412,
+    "wof:lastmodified":1566662582,
     "wof:name":"Tingvatn",
     "wof:parent_id":1159297205,
     "wof:placetype":"locality",

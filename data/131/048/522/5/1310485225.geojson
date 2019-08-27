@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"5.78,59.13,5.82,59.17",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1310485225,
-    "wof:lastmodified":1536946573,
+    "wof:lastmodified":1566662217,
     "wof:name":"Lastein",
     "wof:parent_id":1159296829,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"6.31379,62.58381,6.35379,62.62381",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633341
@@ -35,7 +39,7 @@
         "gn:id":3152702
     },
     "wof:country":"NO",
-    "wof:geomhash":"caf27d4760ceec82f3f70b5587082521",
+    "wof:geomhash":"6aa6cb203c6c12935255159e42a01e17",
     "wof:hierarchy":[
         {
             "country_id":85633341,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209600947,
-    "wof:lastmodified":1536282170,
+    "wof:lastmodified":1566662055,
     "wof:name":"Hildre",
     "wof:parent_id":85633341,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.3337900000000005,
+    6.33379,
     62.60381,
-    6.3337900000000005,
+    6.33379,
     62.60381
 ],
   "geometry": {"coordinates":[6.33379,62.60381],"type":"Point"}

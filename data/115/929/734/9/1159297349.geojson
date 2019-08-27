@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":60.125833,
     "lbl:longitude":11.456958,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.125833,
     "mps:longitude":11.456958,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Nes"
     ],
@@ -98,7 +101,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":1159297349,
-    "wof:lastmodified":1564104695,
+    "wof:lastmodified":1566662845,
     "wof:name":"Nes",
     "wof:parent_id":85687095,
     "wof:placetype":"localadmin",

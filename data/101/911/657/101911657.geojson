@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":58.481732,
     "lbl:longitude":8.858538,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.481732,
     "mps:longitude":8.858538,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kongshamn"
     ],
@@ -62,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":113,
     "wof:belongsto":[
         102191581,
@@ -73,7 +76,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":860752,
-        "qs:id":35022,
         "qs_pg:id":35022,
         "wd:id":"Q2614172"
     },
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":101911657,
-    "wof:lastmodified":1563572851,
+    "wof:lastmodified":1566662423,
     "wof:name":"Kongshamn",
     "wof:parent_id":1159297607,
     "wof:placetype":"locality",

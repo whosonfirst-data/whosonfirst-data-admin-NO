@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"20.5472,69.76848,20.5872,69.80848",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "Hamnnes"
     ],
@@ -36,9 +40,7 @@
     "name:und_x_variant":[
         "Hamnes",
         "Havn\u00e6s",
-        "G\u00e1rgu",
-        "Havnnes",
-        "Hamnnes"
+        "Havnnes"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":1243230071,
-    "wof:lastmodified":1537675661,
+    "wof:lastmodified":1566663005,
     "wof:name":"Gargu",
     "wof:parent_id":1159297593,
     "wof:placetype":"locality",

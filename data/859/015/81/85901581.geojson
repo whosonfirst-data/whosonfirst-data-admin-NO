@@ -15,6 +15,7 @@
     "iso:country":"NO",
     "lbl:latitude":59.964753,
     "lbl:longitude":10.66094,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.968037,
     "mps:longitude":10.630341,
     "mz:hierarchy_label":1,
@@ -120,9 +121,8 @@
     "name:ukr_x_variant":[
         "\u0425\u043e\u043b\u043c\u0435\u043d\u043a\u043e\u043b\u043b\u0435\u043d"
     ],
-    "name:unk_x_variant":[
-        "Holmen",
-        "Holmenkollen"
+    "name:und_x_variant":[
+        "Holmen"
     ],
     "name:zho_x_preferred":[
         "\u970d\u723e\u9580\u79d1\u502b"
@@ -154,7 +154,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:elevation":371.0,
     "wd:latitude":59.966667,
     "wd:longitude":10.666667,
@@ -170,7 +170,6 @@
     "wof:concordances":{
         "gn:id":3152136,
         "gp:id":859936,
-        "qs:id":217839,
         "qs_pg:id":217839,
         "wd:id":"Q34771",
         "wk:page":"Holmenkollen"
@@ -191,7 +190,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563571621,
+    "wof:lastmodified":1566661644,
     "wof:name":"Holmenkollen",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

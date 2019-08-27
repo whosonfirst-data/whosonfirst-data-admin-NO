@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":63.118692,
     "lbl:longitude":7.721879,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":63.118692,
     "mps:longitude":7.721879,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0643\u0631\u064a\u0633\u062a\u064a\u0627\u0646\u0633\u0648\u0646\u062f"
     ],
@@ -176,9 +179,6 @@
     "name:tur_x_preferred":[
         "Kristiansund"
     ],
-    "name:unk_x_variant":[
-        "Kristiansund Nord"
-    ],
     "name:vie_x_preferred":[
         "Kristiansund"
     ],
@@ -207,7 +207,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2864,
     "wof:belongsto":[
@@ -221,7 +221,6 @@
         "fct:id":"01ff4dd2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3149312,
         "gp:id":860829,
-        "qs:id":1043337,
         "qs_pg:id":1043337,
         "wd:id":"Q109483"
     },
@@ -240,7 +239,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572639,
+    "wof:lastmodified":1566662361,
     "wof:name":"Kristiansund",
     "wof:parent_id":1159297475,
     "wof:placetype":"locality",

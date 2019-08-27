@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":70.217139,
     "lbl:longitude":25.203649,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":70.217139,
     "mps:longitude":25.203649,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Porsanger"
     ],
@@ -125,7 +128,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":1159297563,
-    "wof:lastmodified":1564104708,
+    "wof:lastmodified":1566662857,
     "wof:name":"Porsanger",
     "wof:parent_id":85687145,
     "wof:placetype":"localadmin",

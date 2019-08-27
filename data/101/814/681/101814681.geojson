@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":69.57408,
     "lbl:longitude":20.216518,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":69.57408,
     "mps:longitude":20.216518,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lyngseidet"
     ],
@@ -72,9 +75,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0456\u043d\u0433\u0441\u0435\u0439\u0434\u0435\u0442"
     ],
-    "name:unk_x_variant":[
-        "Lyngsejdet"
-    ],
     "qs:a0":"Norge",
     "qs:a1":"*Troms",
     "qs:a1r":"0",
@@ -92,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":155,
     "wof:belongsto":[
@@ -106,7 +106,6 @@
         "fct:id":"01fe65c0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":778829,
         "gp:id":861585,
-        "qs:id":245898,
         "qs_pg:id":245898,
         "wd:id":"Q787028",
         "wk:page":"Lyngseidet"
@@ -126,7 +125,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572794,
+    "wof:lastmodified":1566662408,
     "wof:name":"Lyngseidet",
     "wof:parent_id":1159297359,
     "wof:placetype":"locality",

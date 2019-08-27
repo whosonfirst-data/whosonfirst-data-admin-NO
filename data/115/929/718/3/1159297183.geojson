@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.142993,
+    "geom:area_square_m":754375274.504997,
     "geom:bbox":"12.0236623584,64.5257895886,12.7332087076,64.9870511525",
     "geom:latitude":64.744775,
     "geom:longitude":12.3574,
     "iso:country":"NO",
     "lbl:latitude":64.712343,
     "lbl:longitude":12.333394,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":64.712343,
     "mps:longitude":12.333394,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hoylandet"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159297183,
-    "wof:lastmodified":1529700143,
+    "wof:lastmodified":1566662952,
     "wof:name":"Hoylandet",
     "wof:parent_id":85687133,
     "wof:placetype":"localadmin",

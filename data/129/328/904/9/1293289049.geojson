@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"15.58942,68.06522,15.62942,68.10522",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Oppeid"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1293289049,
-    "wof:lastmodified":1564103363,
+    "wof:lastmodified":1566661806,
     "wof:name":"Oppeid",
     "wof:parent_id":1159297087,
     "wof:placetype":"locality",

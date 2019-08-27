@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":63.276825,
     "lbl:longitude":10.032507,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":63.276825,
     "mps:longitude":10.032507,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0643\u0627\u0648\u0646"
     ],
@@ -110,7 +113,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687127
     ],
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":1159297253,
-    "wof:lastmodified":1564104644,
+    "wof:lastmodified":1566662809,
     "wof:name":"Skaun",
     "wof:parent_id":85687127,
     "wof:placetype":"localadmin",

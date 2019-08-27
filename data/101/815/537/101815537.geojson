@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":60.141533,
     "lbl:longitude":11.166917,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":60.141533,
     "mps:longitude":11.166917,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u0419\u0435\u0441\u0445\u0430\u0439\u043c"
     ],
@@ -96,9 +99,6 @@
     "name:swe_x_preferred":[
         "Jessheim"
     ],
-    "name:unk_x_variant":[
-        "Jesseim"
-    ],
     "qs:a0":"Norge",
     "qs:a1":"*Akershus",
     "qs:a1r":"0",
@@ -115,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":677,
     "wof:belongsto":[
@@ -129,7 +129,6 @@
         "fct:id":"01fe5242-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3150851,
         "gp:id":860344,
-        "qs:id":686241,
         "qs_pg:id":686241,
         "wd:id":"Q990999",
         "wk:page":"Jessheim"
@@ -149,7 +148,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572770,
+    "wof:lastmodified":1566662401,
     "wof:name":"Jessheim",
     "wof:parent_id":1159297621,
     "wof:placetype":"locality",

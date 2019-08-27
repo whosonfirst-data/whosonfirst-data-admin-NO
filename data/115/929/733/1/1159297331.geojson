@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.448703,
+    "geom:area_square_m":2246337396.471806,
     "geom:bbox":"10.9538863556,65.8519422327,12.4823566262,66.4044874992",
     "geom:latitude":66.114136,
     "geom:longitude":11.632202,
     "iso:country":"NO",
     "lbl:latitude":66.143646,
     "lbl:longitude":11.580141,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":66.143646,
     "mps:longitude":11.580141,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Heroy"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687135
     ],
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1159297331,
-    "wof:lastmodified":1529700146,
+    "wof:lastmodified":1566662850,
     "wof:name":"Heroy",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

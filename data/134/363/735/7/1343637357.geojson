@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"15.86572,68.64146,15.90572,68.68146",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bogen"
     ],
@@ -61,8 +65,7 @@
         "Bogen"
     ],
     "name:und_x_variant":[
-        "Bogen i Senja",
-        "Bogen"
+        "Bogen i Senja"
     ],
     "name:yid_x_preferred":[
         "\u05d1\u05d5\u05d9\u05d2\u05df"
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1343637357,
-    "wof:lastmodified":1564102961,
+    "wof:lastmodified":1566661518,
     "wof:name":"Bogen",
     "wof:parent_id":1159297213,
     "wof:placetype":"locality",

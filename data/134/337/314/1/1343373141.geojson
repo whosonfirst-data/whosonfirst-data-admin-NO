@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"11.23,59.76333,11.27,59.80333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Enebakkneset"
     ],
@@ -40,8 +44,7 @@
         "Enebakkneset"
     ],
     "name:und_x_variant":[
-        "Enebakneset",
-        "Enebakkneset"
+        "Enebakneset"
     ],
     "name:vie_x_preferred":[
         "Enebakkneset"
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1343373141,
-    "wof:lastmodified":1564102950,
+    "wof:lastmodified":1566661509,
     "wof:name":"Enebakkneset",
     "wof:parent_id":1159296913,
     "wof:placetype":"locality",

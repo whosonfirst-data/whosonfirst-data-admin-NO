@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":305908.3113,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.378299,63.427385,10.378299,63.427385",
     "geom:latitude":63.427385,
     "geom:longitude":10.378299,
     "gn:id":"",
     "iso:country":"NO",
+    "lbl:bbox":"10.373299,63.422385,10.383299,63.432385",
     "lbl:latitude":63.427385,
     "lbl:longitude":10.378299,
+    "lbl:max_zoom":18.0,
     "mps:latitude":63.42656,
     "mps:longitude":10.379064,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:nor_x_preferred":[
-        "Nidaro"
-    ],
-    "name:unk_x_variant":[
         "Nidaro"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -56,16 +55,15 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687127,
         1159297145,
-        101751927
+        101751927,
+        85687127
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20100278,
-        "qs:id":241882,
         "qs_pg:id":241882
     },
     "wof:country":"NO",
@@ -84,7 +82,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531936238,
+    "wof:lastmodified":1566661663,
     "wof:name":"Nidaro",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.226224,
+    "geom:area_square_m":5249162653.255335,
     "geom:bbox":"17.1600465202,69.2820889285,20.0436386885,70.1684166693",
     "geom:latitude":69.744742,
     "geom:longitude":18.623407,
     "iso:country":"NO",
     "lbl:latitude":69.782218,
     "lbl:longitude":18.601259,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":69.782218,
     "mps:longitude":18.601259,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tromso"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159297187,
-    "wof:lastmodified":1529700437,
+    "wof:lastmodified":1566662951,
     "wof:name":"Tromso",
     "wof:parent_id":85687143,
     "wof:placetype":"localadmin",

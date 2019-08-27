@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":58.893504,
     "lbl:longitude":7.772764,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.893504,
     "mps:longitude":7.772764,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Bygland"
     ],
@@ -125,7 +128,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":1159297545,
-    "wof:lastmodified":1564104565,
+    "wof:lastmodified":1566662747,
     "wof:name":"Bygland",
     "wof:parent_id":85687071,
     "wof:placetype":"localadmin",

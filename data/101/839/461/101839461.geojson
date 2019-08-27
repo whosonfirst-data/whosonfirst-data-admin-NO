@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":63.46436,
     "lbl:longitude":10.925856,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":63.46436,
     "mps:longitude":10.925856,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u044c\u043e\u0440\u0434\u0430\u043b\u0441\u0445\u0430\u043b\u0441\u0435\u043d"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":130,
     "wof:belongsto":[
@@ -95,9 +98,11 @@
         "fct:id":"01fa2a78-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3136765,
         "gp:id":864432,
-        "qs:id":1208983,
         "qs_pg:id":57835,
         "wd:id":"Q2619068"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1208983
     },
     "wof:country":"NO",
     "wof:geomhash":"e7774119d03df14fd2051418d28ef159",
@@ -114,7 +119,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572848,
+    "wof:lastmodified":1566662422,
     "wof:name":"Stj\u00f8rdalshalsen",
     "wof:parent_id":1159296711,
     "wof:placetype":"locality",

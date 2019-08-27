@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":61.083803,
     "lbl:longitude":6.578455,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":61.083803,
     "mps:longitude":6.578455,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vik\u00f8yri"
     ],
@@ -49,7 +52,7 @@
     "name:spa_x_preferred":[
         "Viks\u00f8yri"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vik\u00f8ra"
     ],
     "qs:a0":"Norge",
@@ -68,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":286,
     "wof:belongsto":[
         102191581,
@@ -80,7 +83,6 @@
     "wof:concordances":{
         "gn:id":3131653,
         "gp:id":865800,
-        "qs:id":1159183,
         "qs_pg:id":1159183,
         "wd:id":"Q1805859",
         "wk:page":"Vik\u00f8yri"
@@ -97,7 +99,7 @@
         }
     ],
     "wof:id":101804043,
-    "wof:lastmodified":1563572661,
+    "wof:lastmodified":1566662367,
     "wof:name":"Viks\u00f8yri",
     "wof:parent_id":1159297277,
     "wof:placetype":"locality",

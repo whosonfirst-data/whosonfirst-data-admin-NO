@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":59.93666,
     "lbl:longitude":9.971338,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.93666,
     "mps:longitude":9.971338,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Geithus"
     ],
@@ -43,7 +46,7 @@
     "name:ron_x_preferred":[
         "Geithus"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gjeithus"
     ],
     "qs:a0":"Norge",
@@ -60,7 +63,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1159297329,
@@ -71,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3155887,
         "gp:id":858874,
-        "qs:id":314319,
+        "qs_pg:id":314319,
         "wd:id":"Q4588586",
         "wk:page":"Geithus"
     },
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101803973,
-    "wof:lastmodified":1561769592,
+    "wof:lastmodified":1566662387,
     "wof:name":"\u00c5mot/Geithus",
     "wof:parent_id":1159297329,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"17.77636,69.17999,17.81636,69.21999",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Solli"
     ],
@@ -40,8 +44,7 @@
         "\u0421\u043e\u043b\u043b\u0438"
     ],
     "name:und_x_variant":[
-        "Solbakken",
-        "Solli"
+        "Solbakken"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1242753765,
-    "wof:lastmodified":1564104897,
+    "wof:lastmodified":1566662983,
     "wof:name":"Solli",
     "wof:parent_id":1159297595,
     "wof:placetype":"locality",

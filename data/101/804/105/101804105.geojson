@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":62.580694,
     "lbl:longitude":7.793282,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":62.580694,
     "mps:longitude":7.793282,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Isfjorden"
     ],
@@ -68,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":78,
     "wof:belongsto":[
         102191581,
@@ -80,7 +83,6 @@
     "wof:concordances":{
         "gn:id":9403892,
         "gp:id":860304,
-        "qs:id":1089822,
         "qs_pg:id":1089822,
         "wd:id":"Q3273458"
     },
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":101804105,
-    "wof:lastmodified":1561769586,
+    "wof:lastmodified":1566662360,
     "wof:name":"Isfjorden",
     "wof:parent_id":1159297421,
     "wof:placetype":"locality",

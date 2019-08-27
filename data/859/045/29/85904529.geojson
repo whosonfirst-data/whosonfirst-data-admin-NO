@@ -11,8 +11,10 @@
     "geom:longitude":10.449588,
     "gn:id":"",
     "iso:country":"NO",
+    "lbl:bbox":"10.444588,63.427638,10.454588,63.437638",
     "lbl:latitude":63.432638,
     "lbl:longitude":10.449588,
+    "lbl:max_zoom":18.0,
     "mps:latitude":63.432803,
     "mps:longitude":10.452015,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
         "Strindheim"
     ],
     "name:nor_x_preferred":[
-        "Strindheim"
-    ],
-    "name:unk_x_variant":[
         "Strindheim"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -62,7 +61,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":46,
     "wof:belongsto":[
         1159297145,
@@ -72,7 +71,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20100518,
-        "qs:id":1256942,
         "qs_pg:id":1256942,
         "wd:id":"Q15333642"
     },
@@ -92,7 +90,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563571633,
+    "wof:lastmodified":1566661652,
     "wof:name":"Strindheim",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

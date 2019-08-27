@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"5.11333,61.99667,5.15333,62.03667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Langenes"
     ],
@@ -35,8 +39,7 @@
     ],
     "name:und_x_variant":[
         "Langen\u00e4s",
-        "Langen\u00e6s",
-        "Langenes"
+        "Langen\u00e6s"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0646\u06af\u06cc\u0646\u06cc\u0633"
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1276520747,
-    "wof:lastmodified":1564103570,
+    "wof:lastmodified":1566661934,
     "wof:name":"Langenes",
     "wof:parent_id":1159297459,
     "wof:placetype":"locality",

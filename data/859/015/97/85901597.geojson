@@ -13,6 +13,7 @@
     "iso:country":"NO",
     "lbl:latitude":59.873071,
     "lbl:longitude":10.812495,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.872397,
     "mps:longitude":10.811757,
     "mz:hierarchy_label":1,
@@ -46,9 +47,6 @@
     "name:pol_x_preferred":[
         "Lambertseter"
     ],
-    "name:unk_x_variant":[
-        "Lambertseter"
-    ],
     "name:zho_x_preferred":[
         "\u862d\u8c9d\u723e\u585e\u7279"
     ],
@@ -79,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":101,
     "wof:belongsto":[
         102191581,
@@ -91,7 +89,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":861064,
-        "qs:id":1089944,
         "qs_pg:id":1089944,
         "wd:id":"Q1769586"
     },
@@ -111,7 +108,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563571622,
+    "wof:lastmodified":1566661645,
     "wof:name":"Lambertseter",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

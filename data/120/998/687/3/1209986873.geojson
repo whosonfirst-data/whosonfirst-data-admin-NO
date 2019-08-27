@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"7.08178,61.20575,7.12178,61.24575",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u043e\u0433\u043d\u0434\u0430\u043b\u0441\u0444\u044c\u043e\u0440\u0430"
     ],
@@ -58,8 +62,7 @@
         "Sogndal"
     ],
     "name:und_x_variant":[
-        "Sogndalsfj\u00e6ra",
-        "Sogndalsfj\u00f8ra"
+        "Sogndalsfj\u00e6ra"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1209986873,
-    "wof:lastmodified":1564103642,
+    "wof:lastmodified":1566661983,
     "wof:name":"Sogndalsfjora",
     "wof:parent_id":1159297581,
     "wof:placetype":"locality",

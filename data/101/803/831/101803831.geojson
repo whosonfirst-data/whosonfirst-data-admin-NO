@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":58.77469,
     "lbl:longitude":5.627214,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.77469,
     "mps:longitude":5.627214,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Kleppe"
     ],
@@ -60,7 +63,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1159297381,
@@ -71,7 +74,7 @@
     "wof:concordances":{
         "gn:id":7626354,
         "gp:id":860655,
-        "qs:id":922708,
+        "qs_pg:id":922708,
         "wd:id":"Q1769308",
         "wk:page":"Kleppe"
     },
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101803831,
-    "wof:lastmodified":1563572715,
+    "wof:lastmodified":1566662384,
     "wof:name":"Kleppe/Verdalen",
     "wof:parent_id":1159297381,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":58.097025,
     "lbl:longitude":6.696178,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":58.097025,
     "mps:longitude":6.696178,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Vanse"
     ],
@@ -57,9 +60,6 @@
     "name:spa_x_preferred":[
         "Vanse"
     ],
-    "name:unk_x_variant":[
-        "Lista"
-    ],
     "qs:a0":"Norge",
     "qs:a1":"*Vest-Agder",
     "qs:a1r":"0",
@@ -76,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":334,
     "wof:belongsto":[
@@ -90,7 +90,6 @@
         "fct:id":"01fd4686-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3132720,
         "gp:id":865541,
-        "qs:id":145859,
         "qs_pg:id":145859,
         "wd:id":"Q1006472",
         "wk:page":"Vanse"
@@ -110,7 +109,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572733,
+    "wof:lastmodified":1566662390,
     "wof:name":"Vanse",
     "wof:parent_id":1159297123,
     "wof:placetype":"locality",

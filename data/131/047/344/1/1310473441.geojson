@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"9.21333,59.34667,9.25333,59.38667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Nes"
     ],
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":1310473441,
-    "wof:lastmodified":1564104030,
+    "wof:lastmodified":1566662227,
     "wof:name":"Nes",
     "wof:parent_id":1159297147,
     "wof:placetype":"locality",

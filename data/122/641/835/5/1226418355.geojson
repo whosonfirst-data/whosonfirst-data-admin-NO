@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"20.64544,69.95311,20.68544,69.99311",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "Jekthamna"
     ],
@@ -34,9 +38,7 @@
         "Jekthamn"
     ],
     "name:und_x_variant":[
-        "Jegthamn",
-        "Jekthamn",
-        "Jekthamna"
+        "Jegthamn"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1226418355,
-    "wof:lastmodified":1537675658,
+    "wof:lastmodified":1566663269,
     "wof:name":"Jekthamna",
     "wof:parent_id":1159297483,
     "wof:placetype":"locality",

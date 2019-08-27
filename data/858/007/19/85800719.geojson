@@ -10,8 +10,10 @@
     "geom:latitude":60.367712,
     "geom:longitude":5.338224,
     "iso:country":"NO",
+    "lbl:bbox":"5.333224,60.362712,5.343224,60.372712",
     "lbl:latitude":60.367712,
     "lbl:longitude":5.338224,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.367404,
     "mps:longitude":5.337308,
     "mz:hierarchy_label":0,
@@ -40,9 +42,6 @@
         "Solheim"
     ],
     "name:pol_x_preferred":[
-        "Solheim"
-    ],
-    "name:unk_x_variant":[
         "Solheim"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -75,7 +74,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":211,
     "wof:belongsto":[
         102191581,
@@ -88,7 +87,6 @@
     "wof:concordances":{
         "gn:id":3137836,
         "gp:id":864116,
-        "qs:id":1080936,
         "qs_pg:id":1080936
     },
     "wof:country":"NO",
@@ -107,7 +105,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1564103169,
+    "wof:lastmodified":1566661684,
     "wof:name":"Solheim",
     "wof:parent_id":101751923,
     "wof:placetype":"neighbourhood",

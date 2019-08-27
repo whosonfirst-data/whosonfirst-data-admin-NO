@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"21.84088,70.1192,21.88088,70.1592",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jav_x_preferred":[
         "Langfjordhamn"
     ],
@@ -40,9 +44,7 @@
         "Langfjordbotn"
     ],
     "name:und_x_variant":[
-        "Botn",
-        "Langfjordbotn",
-        "Langfjordhamn"
+        "Botn"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0646\u06af\u0641\u062c\u0648\u0631\u0688\u06c1\u0627\u0645\u0646"
@@ -65,7 +67,7 @@
         }
     ],
     "wof:id":1209419803,
-    "wof:lastmodified":1564103709,
+    "wof:lastmodified":1566662021,
     "wof:name":"Langfjordhamn",
     "wof:parent_id":85633341,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"14.84606,68.59774,14.88606,68.63774",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09bf\u0995"
     ],
@@ -106,8 +110,7 @@
         "Viks kommun"
     ],
     "name:und_x_variant":[
-        "Vik i Vesteralen",
-        "Vik"
+        "Vik i Vesteralen"
     ],
     "name:war_x_preferred":[
         "Vik"
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":1209411097,
-    "wof:lastmodified":1564103707,
+    "wof:lastmodified":1566662019,
     "wof:name":"Vik",
     "wof:parent_id":85633341,
     "wof:placetype":"locality",

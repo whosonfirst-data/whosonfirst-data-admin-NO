@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.957348,
+    "geom:area_square_m":3853611234.213708,
     "geom:bbox":"23.2474638908,70.6182743032,25.5002647297,71.3356761876",
     "geom:latitude":71.001986,
     "geom:longitude":24.456308,
     "iso:country":"NO",
     "lbl:latitude":71.006364,
     "lbl:longitude":24.477864,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":71.006364,
     "mps:longitude":24.477864,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Masoy"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159297565,
-    "wof:lastmodified":1529699903,
+    "wof:lastmodified":1566662857,
     "wof:name":"Masoy",
     "wof:parent_id":85687145,
     "wof:placetype":"localadmin",

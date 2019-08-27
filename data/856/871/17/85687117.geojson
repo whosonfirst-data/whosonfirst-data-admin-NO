@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":61.420054,
     "lbl:longitude":11.526756,
+    "lbl:min_zoom":8.0,
     "mps:latitude":61.420054,
     "mps:longitude":11.526756,
     "mz:hierarchy_label":1,
@@ -271,7 +272,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0435\u0434\u043c\u0430\u0440\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hedmark county"
     ],
     "name:urd_x_preferred":[
@@ -359,9 +360,9 @@
     "qs:type":"Fylke",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-03",
+    "src:population_date":"2001-11-03",
     "statoids:area_km":"27,388",
     "statoids:area_mi":"10,575",
     "statoids:as_of_date":"2001-11-03",
@@ -409,11 +410,10 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1565731845,
+    "wof:lastmodified":1566661680,
     "wof:name":"Hedmark",
     "wof:parent_id":85633341,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":187878,
     "wof:population_rank":9,

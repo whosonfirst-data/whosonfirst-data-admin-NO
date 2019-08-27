@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":62.108256,
     "lbl:longitude":10.63398,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":62.108256,
     "mps:longitude":10.63398,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Alvdal"
     ],
@@ -157,7 +160,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":317,
     "wof:belongsto":[
@@ -171,7 +174,6 @@
         "fct:id":"01fe52b0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3163269,
         "gp:id":856592,
-        "qs:id":277771,
         "qs_pg:id":277771,
         "wd:id":"Q48723"
     },
@@ -190,7 +192,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572809,
+    "wof:lastmodified":1566662412,
     "wof:name":"Alvdal",
     "wof:parent_id":1159296891,
     "wof:placetype":"locality",

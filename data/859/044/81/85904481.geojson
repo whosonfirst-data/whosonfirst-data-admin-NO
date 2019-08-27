@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1542249.864645,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.31723,63.391761,10.31723,63.391761",
     "geom:latitude":63.391761,
     "geom:longitude":10.31723,
     "gn:id":"",
     "iso:country":"NO",
+    "lbl:bbox":"10.31223,63.386761,10.32223,63.396761",
     "lbl:latitude":63.391761,
     "lbl:longitude":10.31723,
+    "lbl:max_zoom":18.0,
     "mps:latitude":63.390906,
     "mps:longitude":10.315493,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:nor_x_preferred":[
-        "Nilsbyen"
-    ],
-    "name:unk_x_variant":[
         "Nilsbyen"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -56,15 +55,14 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687127,
-        1159297145
+        1159297145,
+        85687127
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20100280,
-        "qs:id":1256688,
         "qs_pg:id":1256688
     },
     "wof:country":"NO",
@@ -83,7 +81,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531936239,
+    "wof:lastmodified":1566661661,
     "wof:name":"Nilsbyen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

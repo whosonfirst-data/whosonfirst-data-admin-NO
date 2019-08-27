@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":59.105078,
     "lbl:longitude":9.555994,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":59.105078,
     "mps:longitude":9.555994,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Herre"
     ],
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":51,
     "wof:belongsto":[
@@ -80,7 +83,6 @@
         "fct:id":"01feb1a6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3152862,
         "gp:id":859742,
-        "qs:id":947456,
         "qs_pg:id":947456,
         "wd:id":"Q1773454",
         "wk:page":"Herre, Norway"
@@ -100,7 +102,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572709,
+    "wof:lastmodified":1566662382,
     "wof:name":"Herre",
     "wof:parent_id":1159296837,
     "wof:placetype":"locality",

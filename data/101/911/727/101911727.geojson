@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":59.615597,
     "lbl:longitude":10.454681,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.615597,
     "mps:longitude":10.454681,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Klokkarstua"
     ],
@@ -68,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":163,
     "wof:belongsto":[
         102191581,
@@ -80,7 +83,6 @@
     "wof:concordances":{
         "gn:id":9404171,
         "gp:id":15000690,
-        "qs:id":895443,
         "qs_pg:id":895443,
         "wd:id":"Q1799102"
     },
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":101911727,
-    "wof:lastmodified":1563572858,
+    "wof:lastmodified":1566662426,
     "wof:name":"Klokkarstua",
     "wof:parent_id":1159297231,
     "wof:placetype":"locality",

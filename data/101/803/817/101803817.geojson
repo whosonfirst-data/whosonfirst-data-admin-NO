@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":59.256459,
     "lbl:longitude":5.201535,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":59.256459,
     "mps:longitude":5.201535,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0643\u0631\u0647\u0627\u0645\u0646"
     ],
@@ -56,7 +59,7 @@
     "name:srp_x_preferred":[
         "\u041e\u043a\u0440\u0435\u0445\u0430\u043c\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aakrehamn"
     ],
     "qs:a0":"Norge",
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -87,7 +90,6 @@
     "wof:concordances":{
         "gn:id":3163443,
         "gp:id":856537,
-        "qs:id":181831,
         "qs_pg:id":181831,
         "wd:id":"Q2648207"
     },
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":101803817,
-    "wof:lastmodified":1563572684,
+    "wof:lastmodified":1566662375,
     "wof:name":"\u00c5krehamn/Vedav\u00e5gen",
     "wof:parent_id":1159297005,
     "wof:placetype":"locality",

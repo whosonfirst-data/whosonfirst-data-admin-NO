@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"28.06179,70.69884,28.10179,70.73884",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Langfjordnes"
     ],
@@ -40,9 +44,6 @@
     ],
     "name:sme_x_variant":[
         "Goalsevuoppi"
-    ],
-    "name:und_x_variant":[
-        "Langfjordnes"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1344056053,
-    "wof:lastmodified":1537675655,
+    "wof:lastmodified":1566661610,
     "wof:name":"Goalsevuohppi",
     "wof:parent_id":1159297403,
     "wof:placetype":"locality",

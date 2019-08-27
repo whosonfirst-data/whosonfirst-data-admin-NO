@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":68.279408,
     "lbl:longitude":16.777587,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":68.279408,
     "mps:longitude":16.777587,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09b2\u09cd\u09b2\u09be\u0999\u09c7\u09a8"
     ],
@@ -125,7 +128,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687135
     ],
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":1159297229,
-    "wof:lastmodified":1564104639,
+    "wof:lastmodified":1566662806,
     "wof:name":"Ballangen",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

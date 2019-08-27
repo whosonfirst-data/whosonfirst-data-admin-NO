@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":69.604876,
     "lbl:longitude":20.532512,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":69.604876,
     "mps:longitude":20.532512,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Olderdalen"
     ],
@@ -64,9 +67,6 @@
     "name:spa_x_preferred":[
         "Olderdalen"
     ],
-    "name:unk_x_variant":[
-        "Olderdal"
-    ],
     "qs:a0":"Norge",
     "qs:a1":"*Troms",
     "qs:a1r":"0",
@@ -83,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -96,7 +96,6 @@
         "fct:id":"01fc5d52-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":778346,
         "gp:id":862448,
-        "qs:id":553136,
         "qs_pg:id":553136,
         "wd:id":"Q2578185",
         "wk:page":"Olderdalen"
@@ -116,7 +115,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572827,
+    "wof:lastmodified":1566662416,
     "wof:name":"Olderdalen",
     "wof:parent_id":1159296761,
     "wof:placetype":"locality",

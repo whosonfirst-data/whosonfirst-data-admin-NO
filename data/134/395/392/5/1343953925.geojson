@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"12.29557,64.44366,12.33557,64.48366",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Medj\u00e5"
     ],
@@ -46,8 +50,7 @@
         "Grong"
     ],
     "name:und_x_variant":[
-        "Medjaa",
-        "Medj\u00e5"
+        "Medjaa"
     ],
     "name:zho_x_preferred":[
         "\u683c\u9f8d"
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1343953925,
-    "wof:lastmodified":1564103051,
+    "wof:lastmodified":1566661577,
     "wof:name":"Medja",
     "wof:parent_id":1159297447,
     "wof:placetype":"locality",

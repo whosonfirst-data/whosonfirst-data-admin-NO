@@ -9,15 +9,18 @@
     "geom:bbox":"5.23333,59.29167,5.23333,59.29167",
     "geom:latitude":59.29167,
     "geom:longitude":5.23333,
-    "gn:gn_country":"NO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2728,
+    "gn:country":"NO",
+    "gn:fcode":"PPL",
     "gn:population":2728,
     "iso:country":"NO",
+    "lbl:bbox":"5.21333,59.27167,5.25333,59.31167",
     "lbl:latitude":59.29167,
     "lbl:longitude":5.23333,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Vedav\u00e5gen"
@@ -46,9 +49,6 @@
     "name:nor_x_variant":[
         "Veav\u00e5gen"
     ],
-    "name:unk_x_variant":[
-        "Vedav\u00e5gen"
-    ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":"NO",
     "qs_pg:gn_fcode":"PPL",
@@ -70,7 +70,7 @@
     "qs_pg:woe_adm0":23424910,
     "qs_pg:woe_id":865618,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424910,
     "woe:name_adm0":"Norge",
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":1125818281,
-    "wof:lastmodified":1563573073,
+    "wof:lastmodified":1566662551,
     "wof:name":"Vedavagen",
     "wof:parent_id":1159297005,
     "wof:placetype":"locality",

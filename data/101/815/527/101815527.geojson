@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":60.33409,
     "lbl:longitude":11.257202,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.33409,
     "mps:longitude":11.257202,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Eidsvoll"
     ],
@@ -169,9 +172,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u0439\u0434\u0441\u0432\u043e\u043b\u043b"
     ],
-    "name:unk_x_variant":[
-        "Eidsvold"
-    ],
     "name:vie_x_preferred":[
         "Eidsvoll"
     ],
@@ -200,7 +200,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":876,
     "wof:belongsto":[
         102191581,
@@ -213,7 +213,6 @@
         "fct:id":"01ff4a12-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3158608,
         "gp:id":858017,
-        "qs:id":3029,
         "qs_pg:id":3029,
         "wd:id":"Q57080"
     },
@@ -232,7 +231,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572768,
+    "wof:lastmodified":1566662400,
     "wof:name":"Eidsvoll",
     "wof:parent_id":1159297097,
     "wof:placetype":"locality",

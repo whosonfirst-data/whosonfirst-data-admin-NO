@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011311,
+    "geom:area_square_m":70159361.455677,
     "geom:bbox":"10.9071584986,59.8363838305,11.0306254774,59.9579569437",
     "geom:latitude":59.892486,
     "geom:longitude":10.969317,
     "iso:country":"NO",
     "lbl:latitude":59.894482,
     "lbl:longitude":10.968141,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.894482,
     "mps:longitude":10.968141,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lorenskog"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159296815,
-    "wof:lastmodified":1529699736,
+    "wof:lastmodified":1566662781,
     "wof:name":"Lorenskog",
     "wof:parent_id":85687095,
     "wof:placetype":"localadmin",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.368978,
+    "geom:area_square_m":1549523353.236043,
     "geom:bbox":"20.2226416636,69.8162096461,21.4386894208,70.5797013382",
     "geom:latitude":70.142633,
     "geom:longitude":20.718254,
     "iso:country":"NO",
     "lbl:latitude":70.163661,
     "lbl:longitude":20.709033,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":70.163661,
     "mps:longitude":20.709033,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Skjervoy"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159297483,
-    "wof:lastmodified":1529699902,
+    "wof:lastmodified":1566662832,
     "wof:name":"Skjervoy",
     "wof:parent_id":85687143,
     "wof:placetype":"localadmin",

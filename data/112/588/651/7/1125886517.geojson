@@ -9,15 +9,18 @@
     "geom:bbox":"10.71667,63.6,10.71667,63.6",
     "geom:latitude":63.6,
     "geom:longitude":10.71667,
-    "gn:gn_country":"NO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":343,
+    "gn:country":"NO",
+    "gn:fcode":"PPL",
     "gn:population":343,
     "iso:country":"NO",
+    "lbl:bbox":"10.69667,63.58,10.73667,63.62",
     "lbl:latitude":63.6,
     "lbl:longitude":10.71667,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0633\u0645\u0648\u0644\u0627\u0646\u062f"
@@ -139,7 +142,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043c\u043e\u043b\u0430\u043d\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Smaaland"
     ],
     "name:vec_x_preferred":[
@@ -178,7 +181,7 @@
     "qs_pg:woe_adm0":23424910,
     "qs_pg:woe_id":29305168,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424910,
     "woe:name_adm0":"Norge",
@@ -209,7 +212,7 @@
         }
     ],
     "wof:id":1125886517,
-    "wof:lastmodified":1564104395,
+    "wof:lastmodified":1566662562,
     "wof:name":"Sm\u00e5land",
     "wof:parent_id":1159296851,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"13.96333,67.41333,14.00333,67.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         1159297465,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1309696745,
-    "wof:lastmodified":1537085198,
+    "wof:lastmodified":1566662460,
     "wof:name":"Kvalvik",
     "wof:parent_id":1159297465,
     "wof:placetype":"locality",

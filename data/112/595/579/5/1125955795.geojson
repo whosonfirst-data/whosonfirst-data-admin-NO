@@ -9,15 +9,18 @@
     "geom:bbox":"6.91701,60.57117,6.91701,60.57117",
     "geom:latitude":60.57117,
     "geom:longitude":6.91701,
-    "gn:gn_country":"NO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":675,
+    "gn:country":"NO",
+    "gn:fcode":"PPLA2",
     "gn:population":675,
     "iso:country":"NO",
+    "lbl:bbox":"6.89701,60.55117,6.93701,60.59117",
     "lbl:latitude":60.57117,
     "lbl:longitude":6.91701,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bpy_x_preferred":[
         "\u0989\u09b2\u09ad\u09bf\u0995"
@@ -106,7 +109,7 @@
     "name:swe_x_preferred":[
         "Ulviks kommun"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ulvik i Hardanger"
     ],
     "name:vie_x_preferred":[
@@ -130,7 +133,7 @@
     "qs_pg:qs_id":581023,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":1125955795,
-    "wof:lastmodified":1564104355,
+    "wof:lastmodified":1566662517,
     "wof:name":"Ulvik",
     "wof:parent_id":1159297527,
     "wof:placetype":"locality",

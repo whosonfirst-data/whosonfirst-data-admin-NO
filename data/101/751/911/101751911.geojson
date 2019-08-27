@@ -9,10 +9,12 @@
     "geom:bbox":"7.9117515,58.0989039112,8.086216,58.1835002029",
     "geom:latitude":58.142764,
     "geom:longitude":7.989114,
-    "geonames:id":"3149318,6942467",
+    "gn:id":"3149318,6942467",
     "iso:country":"NO",
     "lbl:latitude":58.137256,
     "lbl:longitude":7.95224,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":58.137256,
     "mps:longitude":7.95224,
     "mz:hierarchy_label":1,
@@ -265,7 +267,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0456\u0441\u0442\u0456\u0430\u043d\u0441\u0430\u043d\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Christiansand"
     ],
     "name:urd_x_preferred":[
@@ -397,7 +399,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":58.17,
     "wd:longitude":8.006111,
@@ -413,9 +415,11 @@
     "wof:concordances":{
         "gn:id":3149318,
         "gp:id":860827,
-        "qs:id":2,
-        "qs_pg:id":459954,
+        "qs_pg:id":2,
         "wd:id":"Q2415"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":459954
     },
     "wof:country":"NO",
     "wof:geomhash":"4e2d381c17590246a6f49385f5ce7661",
@@ -429,7 +433,7 @@
         }
     ],
     "wof:id":101751911,
-    "wof:lastmodified":1563572747,
+    "wof:lastmodified":1566662395,
     "wof:name":"Kristiansand",
     "wof:parent_id":1159296703,
     "wof:placetype":"locality",

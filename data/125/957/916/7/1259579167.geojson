@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"11.44667,64.11333,11.48667,64.15333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0628\u062f\u0627\u0644"
     ],
@@ -118,8 +122,7 @@
         "Oppdals kommun"
     ],
     "name:und_x_variant":[
-        "Opdal",
-        "Oppdal"
+        "Opdal"
     ],
     "name:vie_x_preferred":[
         "Oppdal"
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":1259579167,
-    "wof:lastmodified":1564105170,
+    "wof:lastmodified":1566663131,
     "wof:name":"Oppdal",
     "wof:parent_id":1159296907,
     "wof:placetype":"locality",

@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1233544.838279,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.361801,60.385929,5.361801,60.385929",
     "geom:latitude":60.385929,
     "geom:longitude":5.361801,
     "iso:country":"NO",
+    "lbl:bbox":"5.356801,60.380929,5.366801,60.390929",
     "lbl:latitude":60.385929,
     "lbl:longitude":5.361801,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.385896,
     "mps:longitude":5.364356,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:nor_x_preferred":[
-        "Lappen"
-    ],
-    "name:unk_x_variant":[
         "Lappen"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -57,13 +56,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687099,
         102191581,
         1159297617,
         85633341,
-        101751923
+        101751923,
+        85687099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +84,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531870559,
+    "wof:lastmodified":1566661685,
     "wof:name":"Lappen",
     "wof:parent_id":101751923,
     "wof:placetype":"neighbourhood",

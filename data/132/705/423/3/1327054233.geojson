@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"9.50821,59.89129,9.54821,59.93129",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Lyngdal"
     ],
@@ -112,8 +116,7 @@
         "Lyngdals kommun"
     ],
     "name:und_x_variant":[
-        "Lyngdal i Numedal",
-        "Lyngdal"
+        "Lyngdal i Numedal"
     ],
     "name:war_x_preferred":[
         "Lyngdal"
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":1327054233,
-    "wof:lastmodified":1564102819,
+    "wof:lastmodified":1566661423,
     "wof:name":"Lyngdal",
     "wof:parent_id":1159297107,
     "wof:placetype":"locality",

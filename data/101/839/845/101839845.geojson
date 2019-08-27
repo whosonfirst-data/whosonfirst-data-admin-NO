@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":59.298878,
     "lbl:longitude":10.766705,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.298878,
     "mps:longitude":10.766705,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cym_x_preferred":[
         "Saltnes"
     ],
@@ -52,9 +55,6 @@
     "name:swe_x_preferred":[
         "Saltnes"
     ],
-    "name:unk_x_variant":[
-        "Saltnes"
-    ],
     "qs:a0":"Norge",
     "qs:a1":"*\u00d8stfold",
     "qs:a1r":"0",
@@ -71,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1159297257,
@@ -82,7 +82,6 @@
     "wof:concordances":{
         "gn:id":3140488,
         "gp:id":20100494,
-        "qs:id":1176093,
         "qs_pg:id":1176093,
         "wd:id":"Q2275745"
     },
@@ -98,7 +97,7 @@
         }
     ],
     "wof:id":101839845,
-    "wof:lastmodified":1563572845,
+    "wof:lastmodified":1566662421,
     "wof:name":"Spetalen",
     "wof:parent_id":1159297257,
     "wof:placetype":"locality",

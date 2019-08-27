@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":62.583569,
     "lbl:longitude":7.073525,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":62.583569,
     "mps:longitude":7.073525,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09c7\u09b8\u09cd\u099f\u09a8\u09c7\u09b8"
     ],
@@ -119,7 +122,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":1159297289,
-    "wof:lastmodified":1564104812,
+    "wof:lastmodified":1566662931,
     "wof:name":"Vestnes",
     "wof:parent_id":85687123,
     "wof:placetype":"localadmin",

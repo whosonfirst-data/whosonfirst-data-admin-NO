@@ -10,8 +10,10 @@
     "geom:latitude":60.397432,
     "geom:longitude":5.33734,
     "iso:country":"NO",
+    "lbl:bbox":"5.33234,60.392432,5.34234,60.402432",
     "lbl:latitude":60.397432,
     "lbl:longitude":5.33734,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.398932,
     "mps:longitude":5.337279,
     "mz:hierarchy_label":0,
@@ -104,9 +106,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043a\u0430\u043d\u0441\u0435\u043d"
     ],
-    "name:unk_x_variant":[
-        "Skansen"
-    ],
     "name:zho_x_preferred":[
         "\u65af\u582a\u68ee\u535a\u7269\u9928"
     ],
@@ -139,7 +138,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":646,
     "wof:belongsto":[
         102191581,
@@ -151,7 +150,6 @@
     "wof:concordances":{
         "gn:id":3139368,
         "gp:id":863728,
-        "qs:id":1083389,
         "qs_pg:id":1083389
     },
     "wof:country":"NO",
@@ -170,7 +168,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1564103170,
+    "wof:lastmodified":1566661684,
     "wof:name":"Skansen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

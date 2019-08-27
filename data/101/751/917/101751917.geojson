@@ -13,6 +13,8 @@
     "iso:country":"NO",
     "lbl:latitude":59.914112,
     "lbl:longitude":10.80102,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":59.914112,
     "mps:longitude":10.80102,
     "mz:hierarchy_label":1,
@@ -598,7 +600,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0441\u043b\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kristiania (historical)"
     ],
     "name:urd_x_preferred":[
@@ -766,7 +768,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -783,7 +785,6 @@
         "gn:id":3143244,
         "gp:id":862592,
         "nyt:id":"N38438065819677521651",
-        "qs:id":391345,
         "qs_pg:id":391345,
         "wd:id":"Q585",
         "wk:page":"Oslo"
@@ -803,7 +804,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572754,
+    "wof:lastmodified":1566662396,
     "wof:megacity":1,
     "wof:name":"Oslo",
     "wof:parent_id":1159297167,

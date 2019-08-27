@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000214,
+    "geom:area_square_m":863521.185346,
     "geom:bbox":"25.9543605932,70.988196137,25.9827595135,71.0098552103",
     "geom:latitude":70.99883,
     "geom:longitude":25.96839,
     "iso:country":"NO",
     "lbl:latitude":70.999537,
     "lbl:longitude":25.966991,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":70.999537,
     "mps:longitude":25.966991,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Norge",
     "qs:a1":"*Finnmark",
     "qs:a1r":"7",
@@ -31,7 +35,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1159297287,
@@ -41,7 +45,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55872357,
-        "qs:id":1197784,
         "qs_pg:id":1197784
     },
     "wof:country":"NO",
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":101911289,
-    "wof:lastmodified":1529699907,
+    "wof:lastmodified":1566662422,
     "wof:name":"Storbukt",
     "wof:parent_id":1159297287,
     "wof:placetype":"locality",

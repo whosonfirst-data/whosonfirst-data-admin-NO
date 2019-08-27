@@ -9,15 +9,18 @@
     "geom:bbox":"10.35193,60.6987,10.35193,60.6987",
     "geom:latitude":60.6987,
     "geom:longitude":10.35193,
-    "gn:gn_country":"NO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":2095,
+    "gn:country":"NO",
+    "gn:fcode":"PPLA2",
     "gn:population":2095,
     "iso:country":"NO",
+    "lbl:bbox":"10.33193,60.6787,10.37193,60.7187",
     "lbl:latitude":60.6987,
     "lbl:longitude":10.35193,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Hov"
@@ -49,9 +52,6 @@
     "name:ron_x_preferred":[
         "Hov"
     ],
-    "name:unk_x_variant":[
-        "Hov i Land"
-    ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":"NO",
     "qs_pg:gn_fcode":"PPLA2",
@@ -73,7 +73,7 @@
     "qs_pg:woe_adm0":23424910,
     "qs_pg:woe_id":860063,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424910,
     "woe:name_adm0":"Norge",
@@ -105,7 +105,7 @@
         }
     ],
     "wof:id":1126040971,
-    "wof:lastmodified":1563573033,
+    "wof:lastmodified":1566662531,
     "wof:name":"Hov",
     "wof:parent_id":1159297295,
     "wof:placetype":"locality",

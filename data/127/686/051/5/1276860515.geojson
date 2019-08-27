@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"11.23,64.64667,11.27,64.68667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Fosnes"
     ],
@@ -112,8 +116,7 @@
         "Fosnes kommun"
     ],
     "name:und_x_variant":[
-        "Fosnesv\u00e5gen",
-        "Fosnes"
+        "Fosnesv\u00e5gen"
     ],
     "name:vie_x_preferred":[
         "Fosnes"
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":1276860515,
-    "wof:lastmodified":1564103423,
+    "wof:lastmodified":1566661842,
     "wof:name":"Fosnes",
     "wof:parent_id":1159297159,
     "wof:placetype":"locality",

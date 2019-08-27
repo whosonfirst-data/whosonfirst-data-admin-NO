@@ -9,15 +9,18 @@
     "geom:bbox":"10.88333,63.48333,10.88333,63.48333",
     "geom:latitude":63.48333,
     "geom:longitude":10.88333,
-    "gn:gn_country":"NO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":245,
+    "gn:country":"NO",
+    "gn:fcode":"PPL",
     "gn:population":245,
     "iso:country":"NO",
+    "lbl:bbox":"10.86333,63.46333,10.90333,63.50333",
     "lbl:latitude":63.48333,
     "lbl:longitude":10.88333,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Kvithamar"
@@ -49,9 +52,6 @@
     "name:spa_x_preferred":[
         "Kvithammer"
     ],
-    "name:unk_x_variant":[
-        "Kvithammer"
-    ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":"NO",
     "qs_pg:gn_fcode":"PPL",
@@ -71,7 +71,7 @@
     "qs_pg:woe_adm0":23424910,
     "qs_pg:woe_id":15000834,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424910,
     "woe:name_adm0":"Norge",
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1125960981,
-    "wof:lastmodified":1563573217,
+    "wof:lastmodified":1566662619,
     "wof:name":"Vikhamar",
     "wof:parent_id":1159296711,
     "wof:placetype":"locality",
