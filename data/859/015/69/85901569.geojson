@@ -12,8 +12,10 @@
     "gn:latitude":59.1,
     "gn:longitude":9.65,
     "iso:country":"NO",
+    "lbl:bbox":"9.654203,59.119761,9.664203,59.129761",
     "lbl:latitude":59.124761,
     "lbl:longitude":9.659203,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.107798,
     "mps:longitude":9.673549,
     "mz:hierarchy_label":0,
@@ -97,9 +99,6 @@
     "name:ukr_x_preferred":[
         "\u0424\u043e\u043b\u044c\u043a\u0432\u0430\u043d\u0491"
     ],
-    "name:unk_x_variant":[
-        "Folkvang"
-    ],
     "name:zho_x_preferred":[
         "\u5f17\u723e\u514b\u8303\u683c"
     ],
@@ -132,7 +131,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1090,
     "wof:belongsto":[
         102191581,
@@ -145,7 +144,6 @@
     "wof:concordances":{
         "gn:id":2609758,
         "gp:id":858597,
-        "qs:id":1083371,
         "qs_pg:id":1083371,
         "wd:id":"Q1435524"
     },
@@ -165,7 +163,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563571619,
+    "wof:lastmodified":1566661643,
     "wof:name":"Folkvang",
     "wof:parent_id":101751919,
     "wof:placetype":"neighbourhood",

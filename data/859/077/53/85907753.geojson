@@ -13,6 +13,7 @@
     "iso:country":"NO",
     "lbl:latitude":59.916369,
     "lbl:longitude":10.703691,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.920254,
     "mps:longitude":10.690924,
     "mz:hierarchy_label":1,
@@ -73,9 +74,6 @@
     "name:swe_x_preferred":[
         "Gimle"
     ],
-    "name:unk_x_variant":[
-        "Gimle"
-    ],
     "name:zho_x_preferred":[
         "\u6d25\u5229"
     ],
@@ -104,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":193,
     "wof:belongsto":[
         102191581,
@@ -116,7 +114,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23701339,
-        "qs:id":1087798,
         "qs_pg:id":1087798,
         "wd:id":"Q610766"
     },
@@ -136,7 +133,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563571627,
+    "wof:lastmodified":1566661648,
     "wof:name":"Gimle",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

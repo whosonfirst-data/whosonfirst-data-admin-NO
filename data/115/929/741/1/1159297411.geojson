@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.35465,
+    "geom:area_square_m":2063246213.514979,
     "geom:bbox":"7.34253052216,61.679137027,8.59136488175,62.1896868008",
     "geom:latitude":61.933653,
     "geom:longitude":7.886341,
     "iso:country":"NO",
     "lbl:latitude":61.950192,
     "lbl:longitude":7.886299,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":61.950192,
     "mps:longitude":7.886299,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Skjak"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159297411,
-    "wof:lastmodified":1529699928,
+    "wof:lastmodified":1566662839,
     "wof:name":"Skjak",
     "wof:parent_id":85687109,
     "wof:placetype":"localadmin",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"15.47417,67.9825,15.51417,68.0225",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Finn\u00f8ya"
     ],
@@ -44,8 +48,7 @@
     ],
     "name:und_x_variant":[
         "Finn\u00f8y",
-        "Finn\u00f6en",
-        "Finn\u00f8ya"
+        "Finn\u00f6en"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1293873369,
-    "wof:lastmodified":1564103351,
+    "wof:lastmodified":1566661797,
     "wof:name":"Finnoya",
     "wof:parent_id":1159297087,
     "wof:placetype":"locality",

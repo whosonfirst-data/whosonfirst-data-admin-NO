@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":58.718148,
     "lbl:longitude":9.221455,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.718148,
     "mps:longitude":9.221455,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0631\u064a\u0633\u0648\u0631"
     ],
@@ -197,7 +200,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1259,
     "wof:belongsto":[
@@ -211,7 +214,6 @@
         "fct:id":"01fcb6d0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3141747,
         "gp:id":862997,
-        "qs:id":1244171,
         "qs_pg:id":1244171,
         "wd:id":"Q90595",
         "wk:page":"Ris\u00f8r"
@@ -231,7 +233,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572708,
+    "wof:lastmodified":1566662382,
     "wof:name":"Ris\u00f8r",
     "wof:parent_id":1159296923,
     "wof:placetype":"locality",

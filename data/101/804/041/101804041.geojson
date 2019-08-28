@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000234,
+    "geom:area_square_m":1391965.496548,
     "geom:bbox":"6.83196523741,61.1781448622,6.86537561242,61.1954337778",
     "geom:latitude":61.188224,
     "geom:longitude":6.852216,
     "iso:country":"NO",
     "lbl:latitude":61.187904,
     "lbl:longitude":6.853356,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":61.187904,
     "mps:longitude":6.853356,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Norge",
     "qs:a1":"*Sogn og Fjordane",
     "qs:a1r":"0",
@@ -29,7 +33,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1159296861,
@@ -39,7 +43,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":859732,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"NO",
     "wof:geomhash":"bc80372e1f656ecf239698627830b495",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101804041,
-    "wof:lastmodified":1529699932,
+    "wof:lastmodified":1566662361,
     "wof:name":"Hermannsverk/Leikanger",
     "wof:parent_id":1159296861,
     "wof:placetype":"locality",

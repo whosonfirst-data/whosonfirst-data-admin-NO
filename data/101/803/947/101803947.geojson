@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":59.778332,
     "lbl:longitude":5.399527,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.778332,
     "mps:longitude":5.399527,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sagv\u00e5g"
     ],
@@ -86,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":38.0,
     "wd:latitude":59.775278,
@@ -103,7 +106,6 @@
         "fct:id":"01fbf4ca-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3140573,
         "gp:id":863346,
-        "qs:id":465994,
         "qs_pg:id":465994,
         "wd:id":"Q1890945"
     },
@@ -122,7 +124,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572695,
+    "wof:lastmodified":1566662378,
     "wof:name":"Sagv\u00e5g",
     "wof:parent_id":1159297369,
     "wof:placetype":"locality",

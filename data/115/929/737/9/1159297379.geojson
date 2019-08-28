@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":57.922723,
     "lbl:longitude":7.525481,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.922723,
     "mps:longitude":7.525481,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mandal"
     ],
@@ -32,7 +35,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1159297379,
-    "wof:lastmodified":1564104557,
+    "wof:lastmodified":1566662742,
     "wof:name":"Mandal",
     "wof:parent_id":85687063,
     "wof:placetype":"localadmin",

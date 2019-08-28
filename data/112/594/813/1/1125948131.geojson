@@ -9,14 +9,18 @@
     "geom:bbox":"5.26942,60.55519,5.26942,60.55519",
     "geom:latitude":60.55519,
     "geom:longitude":5.26942,
-    "gn:gn_country":"NO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":0,
+    "gn:country":"NO",
+    "gn:fcode":"PPLA2",
+    "gn:population":0,
     "iso:country":"NO",
+    "lbl:bbox":"5.24942,60.53519,5.28942,60.57519",
     "lbl:latitude":60.55519,
     "lbl:longitude":5.26942,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Isdalst\u00f8"
@@ -39,7 +43,7 @@
     "name:nob_x_preferred":[
         "Isdalst\u00f8"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Isdalsst\u00f8"
     ],
     "qs_pg:aaroncc":"NO",
@@ -63,7 +67,7 @@
     "qs_pg:woe_adm0":23424910,
     "qs_pg:woe_id":860302,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424910,
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"Hordaland Fylke",
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":1125948131,
-    "wof:lastmodified":1561769603,
+    "wof:lastmodified":1566662481,
     "wof:name":"Isdalst\u00f8",
     "wof:parent_id":1159296745,
     "wof:placetype":"locality",

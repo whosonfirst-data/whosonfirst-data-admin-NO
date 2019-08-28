@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":58.730495,
     "lbl:longitude":5.651802,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":58.730495,
     "mps:longitude":5.651802,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u064a\u0646\u0647"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":692,
     "wof:belongsto":[
@@ -116,7 +119,6 @@
         "fct:id":"01fd92a8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3159822,
         "gp:id":857655,
-        "qs:id":3000,
         "qs_pg:id":3000,
         "wd:id":"Q2332350",
         "wk:page":"Bryne"
@@ -136,7 +138,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572717,
+    "wof:lastmodified":1566662385,
     "wof:name":"Bryne",
     "wof:parent_id":1159296707,
     "wof:placetype":"locality",

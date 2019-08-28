@@ -14,6 +14,7 @@
     "iso:country":"NO",
     "lbl:latitude":59.913136,
     "lbl:longitude":10.754978,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.909599,
     "mps:longitude":10.759763,
     "mz:hierarchy_label":1,
@@ -37,9 +38,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0424\u0430\u0442\u0435\u0440\u043b\u044f\u043d\u0434"
-    ],
-    "name:unk_x_variant":[
-        "Vaterland"
     ],
     "qs:gn_adm0_cc":"NO",
     "qs:gn_fcode":"PPLX",
@@ -68,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":41,
     "wof:belongsto":[
         102191581,
@@ -81,7 +79,6 @@
     "wof:concordances":{
         "gn:id":3132467,
         "gp:id":23701346,
-        "qs:id":203278,
         "qs_pg:id":203278
     },
     "wof:country":"NO",
@@ -100,7 +97,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1564103152,
+    "wof:lastmodified":1566661648,
     "wof:name":"Vaterland",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

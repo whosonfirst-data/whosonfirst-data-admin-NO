@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034791,
+    "geom:area_square_m":215534425.232485,
     "geom:bbox":"10.3480240982,59.8257398538,10.6580824852,60.0322271642",
     "geom:latitude":59.933284,
     "geom:longitude":10.506776,
     "iso:country":"NO",
     "lbl:latitude":59.941284,
     "lbl:longitude":10.509124,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.941284,
     "mps:longitude":10.509124,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Baerum"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159297009,
-    "wof:lastmodified":1529699743,
+    "wof:lastmodified":1566662768,
     "wof:name":"Baerum",
     "wof:parent_id":85687095,
     "wof:placetype":"localadmin",

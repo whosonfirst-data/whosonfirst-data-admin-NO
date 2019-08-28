@@ -12,8 +12,10 @@
     "gn:latitude":63.98333,
     "gn:longitude":10.4,
     "iso:country":"NO",
+    "lbl:bbox":"10.374999,63.404669,10.384999,63.414669",
     "lbl:latitude":63.409669,
     "lbl:longitude":10.379999,
+    "lbl:max_zoom":18.0,
     "mps:latitude":63.40751,
     "mps:longitude":10.382014,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
         "Stavne"
     ],
     "name:nor_x_preferred":[
-        "Stavne"
-    ],
-    "name:unk_x_variant":[
         "Stavne"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -65,7 +64,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":67,
     "wof:belongsto":[
         1159297145,
@@ -76,7 +75,6 @@
     "wof:concordances":{
         "gn:id":3137099,
         "gp:id":20100499,
-        "qs:id":51600,
         "qs_pg:id":51600,
         "wd:id":"Q7604828"
     },
@@ -96,7 +94,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563571634,
+    "wof:lastmodified":1566661652,
     "wof:name":"Stavne",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

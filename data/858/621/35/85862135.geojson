@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9243556.858739,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.241727,60.345148,5.241727,60.345148",
     "geom:latitude":60.345148,
     "geom:longitude":5.241727,
     "gn:id":"",
     "iso:country":"NO",
+    "lbl:bbox":"5.236727,60.340148,5.246727,60.350148",
     "lbl:latitude":60.345148,
     "lbl:longitude":5.241727,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.343033,
     "mps:longitude":5.230896,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:nor_x_preferred":[
-        "Allestadhaugen"
-    ],
-    "name:unk_x_variant":[
         "Allestadhaugen"
     ],
     "qs:gn_id":0,
@@ -55,18 +54,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687099,
         102191581,
         1159297617,
         85633341,
-        101751923
+        101751923,
+        85687099
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20099866,
-        "qs:id":215822,
         "qs_pg:id":215822
     },
     "wof:country":"NO",
@@ -85,7 +83,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531870545,
+    "wof:lastmodified":1566661682,
     "wof:name":"Allestadhaugen",
     "wof:parent_id":101751923,
     "wof:placetype":"neighbourhood",

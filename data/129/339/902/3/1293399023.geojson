@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"7.54667,59.03,7.58667,59.07",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Helle"
     ],
@@ -64,8 +68,7 @@
         "Helle"
     ],
     "name:und_x_variant":[
-        "Helle i Setesdal",
-        "Helle"
+        "Helle i Setesdal"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1293399023,
-    "wof:lastmodified":1564103210,
+    "wof:lastmodified":1566661712,
     "wof:name":"Helle",
     "wof:parent_id":1159296773,
     "wof:placetype":"locality",

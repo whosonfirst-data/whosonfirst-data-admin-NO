@@ -9,15 +9,18 @@
     "geom:bbox":"9.86667,63.88333,9.86667,63.88333",
     "geom:latitude":63.88333,
     "geom:longitude":9.86667,
-    "gn:gn_country":"NO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":313,
+    "gn:country":"NO",
+    "gn:fcode":"PPL",
     "gn:population":313,
     "iso:country":"NO",
+    "lbl:bbox":"9.84667,63.86333,9.88667,63.90333",
     "lbl:latitude":63.88333,
     "lbl:longitude":9.86667,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Lys\u00f8ysundet"
@@ -55,9 +58,6 @@
     "name:spa_x_preferred":[
         "Lys\u00f8ysund"
     ],
-    "name:unk_x_variant":[
-        "Lys\u00f8ysund"
-    ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":"NO",
     "qs_pg:gn_fcode":"PPL",
@@ -79,7 +79,7 @@
     "qs_pg:woe_adm0":23424910,
     "qs_pg:woe_id":861597,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424910,
     "woe:name_adm0":"Norge",
@@ -109,7 +109,7 @@
         }
     ],
     "wof:id":1125920517,
-    "wof:lastmodified":1563572983,
+    "wof:lastmodified":1566662506,
     "wof:name":"Lysesund",
     "wof:parent_id":1159297367,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":8411,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"11.27963,63.72644,11.31963,63.76644",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ang_x_preferred":[
         "Levanger"
     ],
@@ -162,7 +166,7 @@
         }
     ],
     "wof:id":1343251101,
-    "wof:lastmodified":1564103046,
+    "wof:lastmodified":1566661574,
     "wof:name":"Levanger",
     "wof:parent_id":1159297125,
     "wof:placetype":"locality",

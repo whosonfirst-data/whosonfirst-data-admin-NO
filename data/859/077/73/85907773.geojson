@@ -12,6 +12,7 @@
     "iso:country":"NO",
     "lbl:latitude":59.916607,
     "lbl:longitude":10.746601,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.917172,
     "mps:longitude":10.7465,
     "mz:hierarchy_label":1,
@@ -394,9 +395,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043b\u043e\u0442\u043e\u043a"
     ],
-    "name:unk_x_variant":[
-        "Hammers"
-    ],
     "name:uzb_x_preferred":[
         "Bolg\u02bba"
     ],
@@ -448,7 +446,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":2558,
     "wof:belongsto":[
         102191581,
@@ -478,7 +476,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563571626,
+    "wof:lastmodified":1566661647,
     "wof:name":"Hammers",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

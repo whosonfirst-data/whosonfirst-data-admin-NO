@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":61.357279,
     "lbl:longitude":5.399634,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":61.357279,
     "mps:longitude":5.399634,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dale"
     ],
@@ -57,9 +60,6 @@
     "name:spa_x_preferred":[
         "Dale"
     ],
-    "name:unk_x_variant":[
-        "Fjaler"
-    ],
     "qs:a0":"Norge",
     "qs:a1":"*Sogn og Fjordane",
     "qs:a1r":"0",
@@ -76,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":217,
     "wof:belongsto":[
@@ -90,10 +90,12 @@
         "fct:id":"01fc4132-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3159441,
         "gp:id":22659135,
-        "qs:id":1167460,
-        "qs_pg:id":1191326,
+        "qs_pg:id":1167460,
         "wd:id":"Q1783017",
         "wk:page":"Dale, Sogn og Fjordane"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1191326
     },
     "wof:country":"NO",
     "wof:geomhash":"7f5e772f39c682a24c9fa955916ab389",
@@ -110,7 +112,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572642,
+    "wof:lastmodified":1566662362,
     "wof:name":"Dale",
     "wof:parent_id":1159297051,
     "wof:placetype":"locality",

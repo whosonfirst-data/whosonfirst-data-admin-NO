@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":61.592675,
     "lbl:longitude":5.036118,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":61.592675,
     "mps:longitude":5.036118,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u0644\u0648\u0631\u0648"
     ],
@@ -111,9 +114,6 @@
     "name:swe_x_preferred":[
         "Flor\u00f8"
     ],
-    "name:unk_x_variant":[
-        "Kinn"
-    ],
     "name:zho_x_preferred":[
         "\u5f17\u76e7\u52d2"
     ],
@@ -133,7 +133,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":61.598611,
     "wd:longitude":5.017222,
@@ -149,7 +149,6 @@
         "fct:id":"01fcc6b6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3156980,
         "gp:id":858562,
-        "qs:id":1043341,
         "qs_pg:id":1043341,
         "wd:id":"Q1020010",
         "wk:page":"Flor\u00f8"
@@ -169,7 +168,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572637,
+    "wof:lastmodified":1566662361,
     "wof:name":"Flor\u00f8",
     "wof:parent_id":1159297017,
     "wof:placetype":"locality",

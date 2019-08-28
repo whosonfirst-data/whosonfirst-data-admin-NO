@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"5.39684,61.43868,5.43684,61.47868",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kvammen"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1259753541,
-    "wof:lastmodified":1564105222,
+    "wof:lastmodified":1566663171,
     "wof:name":"Kvammen",
     "wof:parent_id":1159297313,
     "wof:placetype":"locality",

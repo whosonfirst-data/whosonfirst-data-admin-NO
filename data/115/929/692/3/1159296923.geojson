@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090504,
+    "geom:area_square_m":581723034.247553,
     "geom:bbox":"8.96573068457,58.5236356378,9.6688765569,58.8298822167",
     "geom:latitude":58.681034,
     "geom:longitude":9.323178,
     "iso:country":"NO",
     "lbl:latitude":58.694078,
     "lbl:longitude":9.32851,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.694078,
     "mps:longitude":9.32851,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Risor"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159296923,
-    "wof:lastmodified":1529699802,
+    "wof:lastmodified":1566662804,
     "wof:name":"Risor",
     "wof:parent_id":85687071,
     "wof:placetype":"localadmin",

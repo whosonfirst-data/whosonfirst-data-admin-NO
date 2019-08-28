@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":60.932729,
     "lbl:longitude":10.698958,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":60.932729,
     "mps:longitude":10.698958,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Moelv"
     ],
@@ -54,9 +57,6 @@
     "name:swe_x_preferred":[
         "Moelv"
     ],
-    "name:unk_x_variant":[
-        "Moelven"
-    ],
     "qs:a0":"Norge",
     "qs:a1":"*Hedmark",
     "qs:a1r":"0",
@@ -73,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":142,
     "wof:belongsto":[
@@ -87,7 +87,6 @@
         "fct:id":"01fe1b6a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3145689,
         "gp:id":861869,
-        "qs:id":3154,
         "qs_pg:id":3154,
         "wd:id":"Q1863851",
         "wk:page":"Moelv"
@@ -107,7 +106,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572776,
+    "wof:lastmodified":1566662403,
     "wof:name":"Moelv",
     "wof:parent_id":1159296699,
     "wof:placetype":"locality",

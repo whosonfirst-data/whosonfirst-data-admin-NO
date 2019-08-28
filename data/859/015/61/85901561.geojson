@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":36371437.948668,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.190854,59.74577,10.190854,59.74577",
     "geom:latitude":59.74577,
     "geom:longitude":10.190854,
     "gn:latitude":59.75,
     "gn:longitude":10.13333,
     "iso:country":"NO",
+    "lbl:bbox":"10.185854,59.74077,10.195854,59.75077",
     "lbl:latitude":59.74577,
     "lbl:longitude":10.190854,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.751917,
     "mps:longitude":10.164181,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
         "Bratan"
     ],
     "name:nor_x_preferred":[
-        "Br\u00e5tan"
-    ],
-    "name:unk_x_variant":[
         "Br\u00e5tan"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -64,19 +63,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687105,
         102191581,
         1159297001,
         85633341,
-        101751925
+        101751925,
+        85687105
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3160378,
         "gp:id":857476,
-        "qs:id":894636,
         "qs_pg:id":894636
     },
     "wof:country":"NO",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531932532,
+    "wof:lastmodified":1566661643,
     "wof:name":"Br\u00e5tan",
     "wof:parent_id":101751925,
     "wof:placetype":"neighbourhood",

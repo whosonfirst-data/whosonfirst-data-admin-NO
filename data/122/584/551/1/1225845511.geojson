@@ -25,18 +25,18 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"8.92573,60.69789,8.96573,60.73789",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "\u00c5sgardan"
     ],
     "name:nor_x_variant":[
         "Aasgardann",
         "\u00c5sgardane"
-    ],
-    "name:und_x_variant":[
-        "Aasgardann",
-        "\u00c5sgardan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1225845511,
-    "wof:lastmodified":1537675885,
+    "wof:lastmodified":1566663303,
     "wof:name":"Asgardan",
     "wof:parent_id":1159297373,
     "wof:placetype":"locality",

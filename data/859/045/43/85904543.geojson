@@ -11,8 +11,10 @@
     "geom:longitude":10.436855,
     "gn:id":"",
     "iso:country":"NO",
+    "lbl:bbox":"10.431855,63.415819,10.441855,63.425819",
     "lbl:latitude":63.420819,
     "lbl:longitude":10.436855,
+    "lbl:max_zoom":18.0,
     "mps:latitude":63.421031,
     "mps:longitude":10.438065,
     "mz:hierarchy_label":0,
@@ -42,9 +44,6 @@
     "name:nor_x_preferred":[
         "Tyholt"
     ],
-    "name:unk_x_variant":[
-        "Tyholt"
-    ],
     "qs:gn_adm0_cc":"NO",
     "qs:gn_id":0,
     "qs:gn_local":3133880,
@@ -71,7 +70,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":182,
     "wof:belongsto":[
         1159297145,
@@ -81,7 +80,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20100569,
-        "qs:id":481995,
         "qs_pg:id":481995,
         "wd:id":"Q7859864"
     },
@@ -101,7 +99,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563571634,
+    "wof:lastmodified":1566661652,
     "wof:name":"Tyholt",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":59.444151,
     "lbl:longitude":8.007375,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":59.444151,
     "mps:longitude":8.007375,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dalen"
     ],
@@ -60,7 +63,7 @@
     "name:spa_x_preferred":[
         "Dalen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dalen i Telemark"
     ],
     "qs:a0":"Norge",
@@ -79,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":206,
     "wof:belongsto":[
@@ -93,7 +96,6 @@
         "fct:id":"01fb3e9a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3159400,
         "gp:id":857776,
-        "qs:id":581140,
         "qs_pg:id":581140,
         "wd:id":"Q1019138",
         "wk:page":"Dalen, Telemark"
@@ -113,7 +115,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572710,
+    "wof:lastmodified":1566662382,
     "wof:name":"Dalen",
     "wof:parent_id":1159297609,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":58.156955,
     "lbl:longitude":7.094972,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.156955,
     "mps:longitude":7.094972,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Lyngdal"
     ],
@@ -155,7 +158,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":651,
     "wof:belongsto":[
@@ -169,7 +172,6 @@
         "fct:id":"01fd9bea-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3146684,
         "gp:id":861578,
-        "qs:id":456222,
         "qs_pg:id":456222,
         "wd:id":"Q505952"
     },
@@ -188,7 +190,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572730,
+    "wof:lastmodified":1566662389,
     "wof:name":"Lyngdal",
     "wof:parent_id":1159296753,
     "wof:placetype":"locality",

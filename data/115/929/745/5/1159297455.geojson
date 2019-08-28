@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":68.914506,
     "lbl:longitude":17.782386,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":68.914506,
     "mps:longitude":17.782386,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Salangen"
     ],
@@ -116,7 +119,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":1159297455,
-    "wof:lastmodified":1564104828,
+    "wof:lastmodified":1566662936,
     "wof:name":"Salangen",
     "wof:parent_id":85687143,
     "wof:placetype":"localadmin",

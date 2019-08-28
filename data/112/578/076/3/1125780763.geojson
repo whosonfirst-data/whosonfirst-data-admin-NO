@@ -9,15 +9,18 @@
     "geom:bbox":"25.83332,71.11405,25.83332,71.11405",
     "geom:latitude":71.11405,
     "geom:longitude":25.83332,
-    "gn:gn_country":"NO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":80,
+    "gn:country":"NO",
+    "gn:fcode":"PPL",
     "gn:population":80,
     "iso:country":"NO",
+    "lbl:bbox":"25.81332,71.09405,25.85332,71.13405",
     "lbl:latitude":71.11405,
     "lbl:longitude":25.83332,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Skarsv\u00e5g"
@@ -64,7 +67,7 @@
     "name:swe_x_preferred":[
         "Skarsv\u00e5g"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Skardsv\u00e5g"
     ],
     "qs_pg:aaroncc":"NO",
@@ -79,7 +82,7 @@
     "qs_pg:qs_id":553163,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1125780763,
-    "wof:lastmodified":1563573375,
+    "wof:lastmodified":1566662694,
     "wof:name":"Skarsv\u00e5g",
     "wof:parent_id":1159297287,
     "wof:placetype":"locality",

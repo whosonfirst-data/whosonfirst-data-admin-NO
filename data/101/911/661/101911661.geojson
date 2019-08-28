@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":62.523975,
     "lbl:longitude":7.12865,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":62.523975,
     "mps:longitude":7.12865,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tresfjord"
     ],
@@ -62,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":184,
     "wof:belongsto":[
         102191581,
@@ -73,7 +76,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":865132,
-        "qs:id":1090723,
         "qs_pg:id":1090723,
         "wd:id":"Q3316998"
     },
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":101911661,
-    "wof:lastmodified":1563572850,
+    "wof:lastmodified":1566662423,
     "wof:name":"Tresfjord",
     "wof:parent_id":1159297289,
     "wof:placetype":"locality",

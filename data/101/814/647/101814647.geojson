@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":65.469115,
     "lbl:longitude":12.216987,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":65.469115,
     "mps:longitude":12.216987,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0440\u044c\u043e\u043d\u044c\u043e\u0439\u0441\u0443\u043d"
     ],
@@ -94,9 +97,6 @@
     "name:swe_x_preferred":[
         "Br\u00f8nn\u00f8ysund"
     ],
-    "name:unk_x_variant":[
-        "Br\u00f8nn\u00f8y"
-    ],
     "name:zho_x_preferred":[
         "\u5e03\u502b\u5c3c"
     ],
@@ -116,7 +116,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":65.474944,
     "wd:longitude":12.211833,
@@ -130,7 +130,6 @@
         "fct:id":"01ff5048-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3159954,
         "gp:id":857609,
-        "qs:id":279656,
         "qs_pg:id":279656,
         "wd:id":"Q995929",
         "wk:page":"Br\u00f8nn\u00f8ysund"
@@ -150,7 +149,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572825,
+    "wof:lastmodified":1566662416,
     "wof:name":"Br\u00f8nn\u00f8ysund",
     "wof:parent_id":1159297445,
     "wof:placetype":"locality",

@@ -13,6 +13,7 @@
     "iso:country":"NO",
     "lbl:latitude":59.925024,
     "lbl:longitude":10.684725,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.916814,
     "mps:longitude":10.620114,
     "mz:hierarchy_label":1,
@@ -46,9 +47,6 @@
     "name:spa_x_preferred":[
         "Sk\u00f8yen"
     ],
-    "name:unk_x_variant":[
-        "Skoyen"
-    ],
     "qs:gn_adm0_cc":"NO",
     "qs:gn_id":0,
     "qs:gn_local":3143244,
@@ -74,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":59.922087,
     "wd:longitude":10.683861,
     "wd:wordcount":69,
@@ -88,7 +86,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":863936,
-        "qs:id":1090480,
         "qs_pg:id":1090480,
         "wd:id":"Q6514682"
     },
@@ -108,7 +105,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1561769534,
+    "wof:lastmodified":1566661655,
     "wof:name":"Sk\u00f8yen",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

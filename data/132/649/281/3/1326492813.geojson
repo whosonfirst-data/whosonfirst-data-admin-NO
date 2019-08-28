@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"7.51333,58.41333,7.55333,58.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Foss"
     ],
@@ -58,8 +62,7 @@
         "Foss"
     ],
     "name:und_x_variant":[
-        "Foss i Bjelland",
-        "Foss"
+        "Foss i Bjelland"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1326492813,
-    "wof:lastmodified":1564102848,
+    "wof:lastmodified":1566661440,
     "wof:name":"Foss",
     "wof:parent_id":1159297583,
     "wof:placetype":"locality",

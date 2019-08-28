@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"16.54448,68.85774,16.58448,68.89774",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Lundenes"
     ],
@@ -34,8 +38,7 @@
         "Lundenes"
     ],
     "name:und_x_variant":[
-        "Lundenes i Senja",
-        "Lundenes"
+        "Lundenes i Senja"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1259943151,
-    "wof:lastmodified":1564105199,
+    "wof:lastmodified":1566663151,
     "wof:name":"Lundenes",
     "wof:parent_id":1159297451,
     "wof:placetype":"locality",

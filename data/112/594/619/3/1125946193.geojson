@@ -9,15 +9,18 @@
     "geom:bbox":"11.4,64.11667,11.4,64.11667",
     "geom:latitude":64.11667,
     "geom:longitude":11.4,
-    "gn:gn_country":"NO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":442,
+    "gn:country":"NO",
+    "gn:fcode":"PPL",
     "gn:population":442,
     "iso:country":"NO",
+    "lbl:bbox":"11.38,64.09667,11.42,64.13667",
     "lbl:latitude":64.11667,
     "lbl:longitude":11.4,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Velbe"
@@ -55,9 +58,6 @@
     "name:spa_x_preferred":[
         "Velde"
     ],
-    "name:unk_x_variant":[
-        "Velde"
-    ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":"NO",
     "qs_pg:gn_fcode":"PPL",
@@ -75,7 +75,7 @@
     "qs_pg:woe_adm0":23424910,
     "qs_pg:woe_id":22660043,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424910,
     "woe:name_adm0":"Norge",
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":1125946193,
-    "wof:lastmodified":1563572928,
+    "wof:lastmodified":1566662477,
     "wof:name":"Velle",
     "wof:parent_id":1159296907,
     "wof:placetype":"locality",

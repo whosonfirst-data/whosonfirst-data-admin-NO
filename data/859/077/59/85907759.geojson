@@ -13,6 +13,7 @@
     "iso:country":"NO",
     "lbl:latitude":59.928923,
     "lbl:longitude":10.727986,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.930936,
     "mps:longitude":10.729184,
     "mz:hierarchy_label":1,
@@ -35,9 +36,6 @@
         "Bislett"
     ],
     "name:swe_x_preferred":[
-        "Bislett"
-    ],
-    "name:unk_x_variant":[
         "Bislett"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -65,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":72,
     "wof:belongsto":[
         102191581,
@@ -77,7 +75,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23701344,
-        "qs:id":350622,
         "qs_pg:id":350622,
         "wd:id":"Q4918267"
     },
@@ -97,7 +94,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563571624,
+    "wof:lastmodified":1566661647,
     "wof:name":"Bislett",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

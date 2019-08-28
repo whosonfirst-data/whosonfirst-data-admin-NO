@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000108,
+    "geom:area_square_m":686332.709099,
     "geom:bbox":"10.1321865729,59.0566927817,10.1583043646,59.0647771393",
     "geom:latitude":59.060896,
     "geom:longitude":10.14504,
     "iso:country":"NO",
     "lbl:latitude":59.059843,
     "lbl:longitude":10.142666,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.059843,
     "mps:longitude":10.142666,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Norge",
     "qs:a1":"*Vestfold",
     "qs:a1r":"0",
@@ -29,7 +33,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1159296779,
@@ -39,7 +43,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":861172,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"NO",
     "wof:geomhash":"563ea4f8bbc92b960086306e4bfd9481",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101803795,
-    "wof:lastmodified":1529700489,
+    "wof:lastmodified":1566662382,
     "wof:name":"Lauve/Viksjord",
     "wof:parent_id":1159296779,
     "wof:placetype":"locality",

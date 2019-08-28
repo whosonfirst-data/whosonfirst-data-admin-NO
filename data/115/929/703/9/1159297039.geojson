@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.456075,
+    "geom:area_square_m":2094938975.525151,
     "geom:bbox":"13.0036925752,67.7844211641,14.1895918741,68.5409842782",
     "geom:latitude":68.193363,
     "geom:longitude":13.671809,
     "iso:country":"NO",
     "lbl:latitude":68.187122,
     "lbl:longitude":13.730243,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":68.187122,
     "mps:longitude":13.730243,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vestvagoy"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687135
     ],
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1159297039,
-    "wof:lastmodified":1529700140,
+    "wof:lastmodified":1566662865,
     "wof:name":"Vestvagoy",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

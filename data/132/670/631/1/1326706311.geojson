@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"18.09988,69.53158,18.13988,69.57158",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Buvik"
     ],
@@ -37,8 +41,7 @@
         "Buvik"
     ],
     "name:und_x_variant":[
-        "Buvikvoll",
-        "Buvik"
+        "Buvikvoll"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1326706311,
-    "wof:lastmodified":1564102866,
+    "wof:lastmodified":1566661453,
     "wof:name":"Buvik",
     "wof:parent_id":1159297187,
     "wof:placetype":"locality",

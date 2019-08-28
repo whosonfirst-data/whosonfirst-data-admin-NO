@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":59.150714,
     "lbl:longitude":5.253466,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.150714,
     "mps:longitude":5.253466,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u043a\u044e\u0434\u0435\u043d\u0435\u0441\u0445\u0430\u0432\u043d"
     ],
@@ -65,9 +68,6 @@
     "name:swe_x_preferred":[
         "Skudeneshamn"
     ],
-    "name:unk_x_variant":[
-        "Skudneshavn"
-    ],
     "qs:a0":"Norge",
     "qs:a1":"*Rogaland",
     "qs:a1r":"0",
@@ -85,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":584,
     "wof:belongsto":[
@@ -99,7 +99,6 @@
         "fct:id":"01fb15aa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3138429,
         "gp:id":863957,
-        "qs:id":1168998,
         "qs_pg:id":1168998,
         "wd:id":"Q1900046",
         "wk:page":"Skudeneshavn"
@@ -119,7 +118,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572685,
+    "wof:lastmodified":1566662375,
     "wof:name":"Skudeneshamn",
     "wof:parent_id":1159297005,
     "wof:placetype":"locality",

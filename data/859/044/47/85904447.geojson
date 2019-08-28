@@ -11,8 +11,10 @@
     "geom:longitude":10.367202,
     "gn:id":"",
     "iso:country":"NO",
+    "lbl:bbox":"10.362202,63.424867,10.372202,63.434867",
     "lbl:latitude":63.429867,
     "lbl:longitude":10.367202,
+    "lbl:max_zoom":18.0,
     "mps:latitude":63.430301,
     "mps:longitude":10.365526,
     "mz:hierarchy_label":0,
@@ -60,9 +62,6 @@
     "name:tam_x_preferred":[
         "\u0b87\u0bb2\u0bbe"
     ],
-    "name:unk_x_variant":[
-        "Ila"
-    ],
     "name:vol_x_preferred":[
         "Ila"
     ],
@@ -92,7 +91,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":188,
     "wof:belongsto":[
         1159297145,
@@ -102,7 +101,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20100133,
-        "qs:id":1087370,
         "qs_pg:id":1087370
     },
     "wof:country":"NO",
@@ -121,7 +119,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1564103164,
+    "wof:lastmodified":1566661664,
     "wof:name":"Ila",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

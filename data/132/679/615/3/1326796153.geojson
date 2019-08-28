@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"7.84948,58.22845,7.88948,58.26845",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stemmen"
     ],
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":1326796153,
-    "wof:lastmodified":1564102860,
+    "wof:lastmodified":1566661449,
     "wof:name":"Stemmen",
     "wof:parent_id":1159296843,
     "wof:placetype":"locality",

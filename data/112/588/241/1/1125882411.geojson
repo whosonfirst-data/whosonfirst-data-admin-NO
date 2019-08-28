@@ -9,14 +9,18 @@
     "geom:bbox":"10.85,59.35,10.85,59.35",
     "geom:latitude":59.35,
     "geom:longitude":10.85,
-    "gn:gn_country":"NO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"NO",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"NO",
+    "lbl:bbox":"10.83,59.33,10.87,59.37",
     "lbl:latitude":59.35,
     "lbl:longitude":10.85,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bar_x_preferred":[
         "R\u00e5de"
@@ -108,7 +112,7 @@
     "name:swe_x_preferred":[
         "R\u00e5de kommun"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Raade"
     ],
     "name:vie_x_preferred":[
@@ -141,7 +145,7 @@
     "qs_pg:woe_adm0":23424910,
     "qs_pg:woe_id":862774,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424910,
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"\u00d8stfold Fylke",
@@ -171,7 +175,7 @@
         }
     ],
     "wof:id":1125882411,
-    "wof:lastmodified":1564104398,
+    "wof:lastmodified":1566662564,
     "wof:name":"R\u00e5de",
     "wof:parent_id":1159297257,
     "wof:placetype":"locality",

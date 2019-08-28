@@ -11,8 +11,10 @@
     "geom:longitude":5.316752,
     "gn:id":"",
     "iso:country":"NO",
+    "lbl:bbox":"5.311752,60.383745,5.321752,60.393745",
     "lbl:latitude":60.388745,
     "lbl:longitude":5.316752,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.388756,
     "mps:longitude":5.315105,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Sydnes"
     ],
     "name:nor_x_preferred":[
-        "Sydnes"
-    ],
-    "name:unk_x_variant":[
         "Sydnes"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -61,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":72,
     "wof:belongsto":[
         102191581,
@@ -73,7 +72,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20100535,
-        "qs:id":1119602,
         "qs_pg:id":1119602,
         "wd:id":"Q7659803"
     },
@@ -93,7 +91,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563571701,
+    "wof:lastmodified":1566661686,
     "wof:name":"Sydnes",
     "wof:parent_id":101751923,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033727,
+    "geom:area_square_m":214158827.480537,
     "geom:bbox":"5.4990339638,59.0144884931,5.86177352044,59.1904170517",
     "geom:latitude":59.101984,
     "geom:longitude":5.656061,
     "iso:country":"NO",
     "lbl:latitude":59.096416,
     "lbl:longitude":5.653311,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.096416,
     "mps:longitude":5.653311,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rennesoy"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159296985,
-    "wof:lastmodified":1529700276,
+    "wof:lastmodified":1566662916,
     "wof:name":"Rennesoy",
     "wof:parent_id":85687085,
     "wof:placetype":"localadmin",

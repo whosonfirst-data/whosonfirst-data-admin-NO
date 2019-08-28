@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":565331.193914,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.326525,60.393334,5.326525,60.393334",
     "geom:latitude":60.393334,
     "geom:longitude":5.326525,
     "gn:id":"",
     "iso:country":"NO",
+    "lbl:bbox":"5.321525,60.388334,5.331525,60.398334",
     "lbl:latitude":60.393334,
     "lbl:longitude":5.326525,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.394328,
     "mps:longitude":5.329221,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:nor_x_preferred":[
-        "Vagsbunnen"
-    ],
-    "name:unk_x_variant":[
         "Vagsbunnen"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687099,
         102191581,
         1159297617,
         85633341,
-        101751923
+        101751923,
+        85687099
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20100579,
-        "qs:id":496644,
         "qs_pg:id":496644
     },
     "wof:country":"NO",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531870573,
+    "wof:lastmodified":1566661685,
     "wof:name":"Vagsbunnen",
     "wof:parent_id":101751923,
     "wof:placetype":"neighbourhood",

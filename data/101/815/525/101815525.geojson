@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":59.123974,
     "lbl:longitude":10.419396,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.123974,
     "mps:longitude":10.419396,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u099f\u099c\u09be\u09ae\u09c7"
     ],
@@ -152,7 +155,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":431,
     "wof:belongsto":[
@@ -166,7 +169,6 @@
         "fct:id":"01feffd0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3134521,
         "gp:id":864971,
-        "qs:id":145866,
         "qs_pg:id":145866,
         "wd:id":"Q48687"
     },
@@ -185,7 +187,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572782,
+    "wof:lastmodified":1566662405,
     "wof:name":"Tj\u00f8me",
     "wof:parent_id":1159297071,
     "wof:placetype":"locality",

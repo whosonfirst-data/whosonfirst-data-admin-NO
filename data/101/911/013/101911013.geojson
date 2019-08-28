@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000078,
+    "geom:area_square_m":477326.344598,
     "geom:bbox":"5.17843736207,60.3159547543,5.19220880205,60.3293575796",
     "geom:latitude":60.322296,
     "geom:longitude":5.185095,
     "iso:country":"NO",
     "lbl:latitude":60.32238,
     "lbl:longitude":5.185199,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.32238,
     "mps:longitude":5.185199,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "Bjor\u00f8ytunnelen"
     ],
@@ -34,7 +38,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1159296987,
@@ -44,7 +48,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":15000740,
-        "qs:id":895445,
         "qs_pg:id":895445
     },
     "wof:country":"NO",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101911013,
-    "wof:lastmodified":1529700044,
+    "wof:lastmodified":1566662422,
     "wof:name":"Bj\u00f8r\u00f8yhamn",
     "wof:parent_id":1159296987,
     "wof:placetype":"locality",

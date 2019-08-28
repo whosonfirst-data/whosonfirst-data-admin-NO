@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"7.74667,63.06333,7.78667,63.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bolga"
     ],
@@ -49,8 +53,7 @@
         "Bolga"
     ],
     "name:und_x_variant":[
-        "Bolgen",
-        "Bolga"
+        "Bolgen"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1259605585,
-    "wof:lastmodified":1564105195,
+    "wof:lastmodified":1566663149,
     "wof:name":"Bolga",
     "wof:parent_id":1159297475,
     "wof:placetype":"locality",

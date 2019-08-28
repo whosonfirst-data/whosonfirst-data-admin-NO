@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":60.26201,
     "lbl:longitude":5.340634,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.26201,
     "mps:longitude":5.340634,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fanahammeren"
     ],
@@ -54,9 +57,6 @@
     "name:swe_x_preferred":[
         "Fanahammeren"
     ],
-    "name:unk_x_variant":[
-        "Fanahammaren"
-    ],
     "qs:a0":"Norge",
     "qs:a1":"*Hordaland",
     "qs:a1r":"0",
@@ -71,7 +71,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":138,
     "wof:belongsto":[
         102191581,
@@ -84,7 +84,7 @@
         "fct:id":"01f8d9ca-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3157832,
         "gp:id":858313,
-        "qs:id":504358,
+        "qs_pg:id":504358,
         "wd:id":"Q2633272"
     },
     "wof:country":"NO",
@@ -102,7 +102,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572699,
+    "wof:lastmodified":1566662379,
     "wof:name":"Fanahammeren",
     "wof:parent_id":1159297617,
     "wof:placetype":"locality",

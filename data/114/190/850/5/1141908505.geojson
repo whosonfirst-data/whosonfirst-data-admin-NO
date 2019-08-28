@@ -10,10 +10,14 @@
     "geom:latitude":68.38315,
     "geom:longitude":17.289993,
     "iso:country":"NO",
+    "lbl:bbox":"17.2699934475,68.3631502474,17.3099934475,68.4031502474",
     "lbl:latitude":68.38315,
     "lbl:longitude":17.289993,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Narvik"
     ],
@@ -317,7 +321,7 @@
         }
     ],
     "wof:id":1141908505,
-    "wof:lastmodified":1563574180,
+    "wof:lastmodified":1566663309,
     "wof:name":"Narvik",
     "wof:parent_id":1159297203,
     "wof:placetype":"locality",

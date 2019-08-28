@@ -9,14 +9,18 @@
     "geom:bbox":"19.01667,69.65,19.01667,69.65",
     "geom:latitude":69.65,
     "geom:longitude":19.01667,
-    "gn:gn_country":"NO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"NO",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"NO",
+    "lbl:bbox":"18.99667,69.63,19.03667,69.67",
     "lbl:latitude":69.65,
     "lbl:longitude":19.01667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Tromsdalen"
@@ -57,7 +61,7 @@
     "name:swe_x_preferred":[
         "Tromsdalen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Trondalen"
     ],
     "qs_pg:aaroncc":"NO",
@@ -81,7 +85,7 @@
     "qs_pg:woe_adm0":23424910,
     "qs_pg:woe_id":865153,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424910,
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"Troms Fylke",
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":1125899047,
-    "wof:lastmodified":1563573116,
+    "wof:lastmodified":1566662572,
     "wof:name":"Tromsdalen",
     "wof:parent_id":1159297187,
     "wof:placetype":"locality",

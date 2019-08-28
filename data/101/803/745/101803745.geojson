@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":58.298773,
     "lbl:longitude":6.666105,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":58.298773,
     "mps:longitude":6.666105,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Flekkefjord"
     ],
@@ -177,7 +180,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1245,
     "wof:belongsto":[
@@ -191,7 +194,6 @@
         "fct:id":"01ff5a98-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3157090,
         "gp:id":858537,
-        "qs:id":803792,
         "qs_pg:id":803792,
         "wd:id":"Q493481",
         "wk:page":"Flekkefjord"
@@ -211,7 +213,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572728,
+    "wof:lastmodified":1566662388,
     "wof:name":"Flekkefjord",
     "wof:parent_id":1159296845,
     "wof:placetype":"locality",

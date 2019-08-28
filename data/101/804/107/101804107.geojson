@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":62.560654,
     "lbl:longitude":7.689283,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":62.560654,
     "mps:longitude":7.689283,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041e\u043d\u0434\u0430\u043b\u0441\u043d\u0435\u0441"
     ],
@@ -93,9 +96,6 @@
     "name:swe_x_preferred":[
         "\u00c5ndalsnes"
     ],
-    "name:unk_x_variant":[
-        "Anbalsnes"
-    ],
     "name:zho_x_preferred":[
         "\u7fc1\u9054\u723e\u65af\u5167\u65af"
     ],
@@ -115,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":16.0,
     "wd:latitude":62.567222,
@@ -132,7 +132,6 @@
         "fct:id":"01ff3ebe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3163155,
         "gp:id":856636,
-        "qs:id":2966,
         "qs_pg:id":2966,
         "wd:id":"Q271083",
         "wk:page":"\u00c5ndalsnes"
@@ -152,7 +151,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572655,
+    "wof:lastmodified":1566662365,
     "wof:name":"\u00c5ndalsnes",
     "wof:parent_id":1159297421,
     "wof:placetype":"locality",

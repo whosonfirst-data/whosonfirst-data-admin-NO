@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"5.13,60.88,5.17,60.92",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1276735793,
-    "wof:lastmodified":1536736688,
+    "wof:lastmodified":1566661867,
     "wof:name":"Grinde",
     "wof:parent_id":1159297577,
     "wof:placetype":"locality",

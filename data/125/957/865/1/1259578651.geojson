@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"10.94667,60.94667,10.98667,60.98667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Holmen"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1259578651,
-    "wof:lastmodified":1564105169,
+    "wof:lastmodified":1566663131,
     "wof:name":"Holmen",
     "wof:parent_id":1159296699,
     "wof:placetype":"locality",

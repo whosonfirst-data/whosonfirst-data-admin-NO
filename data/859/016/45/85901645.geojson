@@ -14,6 +14,7 @@
     "iso:country":"NO",
     "lbl:latitude":59.919909,
     "lbl:longitude":10.785514,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.920492,
     "mps:longitude":10.788334,
     "mz:hierarchy_label":1,
@@ -68,10 +69,6 @@
     "name:swe_x_variant":[
         "T\u00f8yen"
     ],
-    "name:unk_x_variant":[
-        "T\u00f6ien",
-        "T\u00f8yen"
-    ],
     "qs:gn_adm0_cc":"NO",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3143244,
@@ -99,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":489,
     "wof:belongsto":[
         102191581,
@@ -112,7 +109,6 @@
     "wof:concordances":{
         "gn:id":3134109,
         "gp:id":865103,
-        "qs:id":1167510,
         "qs_pg:id":1167510,
         "wd:id":"Q1776966",
         "wk:page":"T\u00f8yen"
@@ -133,7 +129,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563571640,
+    "wof:lastmodified":1566661656,
     "wof:name":"T\u00f8yen",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

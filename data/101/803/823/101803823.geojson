@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":59.025916,
     "lbl:longitude":6.04255,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":59.025916,
     "mps:longitude":6.04255,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0419\u043e\u0440\u043f\u0435\u043b\u0430\u043d"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":460,
     "wof:belongsto":[
@@ -110,7 +113,6 @@
         "fct:id":"01fc127a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3150742,
         "gp:id":860373,
-        "qs:id":145930,
         "qs_pg:id":145930,
         "wd:id":"Q1851053",
         "wk:page":"J\u00f8rpeland"
@@ -130,7 +132,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572710,
+    "wof:lastmodified":1566662383,
     "wof:name":"J\u00f8rpeland",
     "wof:parent_id":1159297053,
     "wof:placetype":"locality",

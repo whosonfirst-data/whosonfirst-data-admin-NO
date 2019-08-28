@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"7.43512,58.24824,7.47512,58.28824",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Laudal"
     ],
@@ -33,9 +37,6 @@
         "Laudal"
     ],
     "name:nor_x_preferred":[
-        "Laudal"
-    ],
-    "name:und_x_variant":[
         "Laudal"
     ],
     "name:urd_x_preferred":[
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1326992611,
-    "wof:lastmodified":1564102870,
+    "wof:lastmodified":1566661456,
     "wof:name":"Laudal ovre",
     "wof:parent_id":1159297583,
     "wof:placetype":"locality",

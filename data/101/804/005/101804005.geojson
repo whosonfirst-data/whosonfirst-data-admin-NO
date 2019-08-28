@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":60.835367,
     "lbl:longitude":10.074475,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":60.835367,
     "mps:longitude":10.074475,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dokka"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":152,
     "wof:belongsto":[
@@ -95,7 +98,6 @@
         "fct:id":"01fd3ec0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3159143,
         "gp:id":857832,
-        "qs:id":375031,
         "qs_pg:id":375031,
         "wd:id":"Q1856800",
         "wk:page":"Dokka"
@@ -115,7 +117,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572668,
+    "wof:lastmodified":1566662369,
     "wof:name":"Dokka",
     "wof:parent_id":1159297311,
     "wof:placetype":"locality",

@@ -10,10 +10,14 @@
     "geom:latitude":62.545419,
     "geom:longitude":6.388023,
     "iso:country":"NO",
+    "lbl:bbox":"6.36802323266,62.5254187206,6.40802323266,62.5654187206",
     "lbl:latitude":62.545419,
     "lbl:longitude":6.388023,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "\u00c5lesund"
     ],
@@ -349,7 +353,7 @@
         }
     ],
     "wof:id":1141907101,
-    "wof:lastmodified":1563574182,
+    "wof:lastmodified":1566663310,
     "wof:name":"Alesund",
     "wof:parent_id":1159296865,
     "wof:placetype":"locality",

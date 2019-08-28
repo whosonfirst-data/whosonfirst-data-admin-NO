@@ -14,6 +14,7 @@
     "iso:country":"NO",
     "lbl:latitude":59.929112,
     "lbl:longitude":10.716245,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.933734,
     "mps:longitude":10.708239,
     "mz:hierarchy_label":1,
@@ -53,9 +54,6 @@
     "name:swe_x_preferred":[
         "Majorstuen"
     ],
-    "name:unk_x_variant":[
-        "Majorstua"
-    ],
     "qs:gn_adm0_cc":"NO",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3143244,
@@ -83,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":564,
     "wof:belongsto":[
         102191581,
@@ -96,7 +94,6 @@
     "wof:concordances":{
         "gn:id":6940544,
         "gp:id":861622,
-        "qs:id":1080934,
         "qs_pg:id":1080934,
         "wd:id":"Q4129897",
         "wk:page":"Majorstuen"
@@ -117,7 +114,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1561769535,
+    "wof:lastmodified":1566661657,
     "wof:name":"Majorstua",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

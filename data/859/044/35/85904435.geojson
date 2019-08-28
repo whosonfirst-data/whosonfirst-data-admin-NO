@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2104102.907128,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.471394,63.411839,10.471394,63.411839",
     "geom:latitude":63.411839,
     "geom:longitude":10.471394,
     "gn:id":"",
     "iso:country":"NO",
+    "lbl:bbox":"10.466394,63.406839,10.476394,63.416839",
     "lbl:latitude":63.411839,
     "lbl:longitude":10.471394,
+    "lbl:max_zoom":18.0,
     "mps:latitude":63.414885,
     "mps:longitude":10.486094,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:nor_x_preferred":[
-        "Granaslia"
-    ],
-    "name:unk_x_variant":[
         "Granaslia"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -56,16 +55,15 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687127,
         1159297145,
-        101751927
+        101751927,
+        85687127
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20100046,
-        "qs:id":484848,
         "qs_pg:id":484848
     },
     "wof:country":"NO",
@@ -84,7 +82,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531936225,
+    "wof:lastmodified":1566661659,
     "wof:name":"Granaslia",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

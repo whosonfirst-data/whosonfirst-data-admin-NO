@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"4.99717,60.51844,5.03717,60.55844",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jav_x_preferred":[
         "Abbedisso"
     ],
@@ -40,8 +44,7 @@
         "Abbedissen"
     ],
     "name:und_x_variant":[
-        "Abbedissa",
-        "Abbedisso"
+        "Abbedissa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1209103069,
-    "wof:lastmodified":1564103831,
+    "wof:lastmodified":1566662096,
     "wof:name":"Abbedisso",
     "wof:parent_id":85633341,
     "wof:placetype":"locality",

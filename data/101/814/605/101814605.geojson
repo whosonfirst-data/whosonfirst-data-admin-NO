@@ -13,6 +13,8 @@
     "iso:country":"NO",
     "lbl:latitude":68.235278,
     "lbl:longitude":14.559969,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":68.235278,
     "mps:longitude":14.559969,
     "mz:hierarchy_label":1,
@@ -214,7 +216,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":880,
     "wof:belongsto":[
@@ -226,7 +228,6 @@
         "fct:id":"01ff51d8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3135020,
         "gp:id":864826,
-        "qs:id":3252,
         "qs_pg:id":3252,
         "wd:id":"Q145948",
         "wk:page":"Svolv\u00e6r"
@@ -246,7 +247,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572800,
+    "wof:lastmodified":1566662410,
     "wof:name":"Svolv\u00e6r",
     "wof:parent_id":1159296883,
     "wof:placetype":"locality",

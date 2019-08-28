@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.161412,
+    "geom:area_square_m":980381341.491138,
     "geom:bbox":"4.2661373556,60.4125820698,4.99705273689,60.7409046647",
     "geom:latitude":60.580311,
     "geom:longitude":4.61833,
     "iso:country":"NO",
     "lbl:latitude":60.586896,
     "lbl:longitude":4.618391,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.586896,
     "mps:longitude":4.618391,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Oygarden"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159297547,
-    "wof:lastmodified":1529700042,
+    "wof:lastmodified":1566662745,
     "wof:name":"Oygarden",
     "wof:parent_id":85687099,
     "wof:placetype":"localadmin",

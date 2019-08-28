@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":58.535915,
     "lbl:longitude":5.544819,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.535915,
     "mps:longitude":5.544819,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ha"
     ],
@@ -44,7 +47,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1159296955,
-    "wof:lastmodified":1564104639,
+    "wof:lastmodified":1566662805,
     "wof:name":"Ha",
     "wof:parent_id":85687085,
     "wof:placetype":"localadmin",

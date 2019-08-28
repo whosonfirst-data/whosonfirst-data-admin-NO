@@ -10,8 +10,10 @@
     "geom:latitude":58.965141,
     "geom:longitude":5.730103,
     "iso:country":"NO",
+    "lbl:bbox":"5.725103,58.960141,5.735103,58.970141",
     "lbl:latitude":58.965141,
     "lbl:longitude":5.730103,
+    "lbl:max_zoom":18.0,
     "mps:latitude":58.951891,
     "mps:longitude":5.729825,
     "mz:hierarchy_label":0,
@@ -36,10 +38,6 @@
         "Valand"
     ],
     "name:nor_x_preferred":[
-        "V\u00e5land"
-    ],
-    "name:unk_x_variant":[
-        "Vaaland",
         "V\u00e5land"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -72,7 +70,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":133,
     "wof:belongsto":[
         102191581,
@@ -85,7 +83,6 @@
     "wof:concordances":{
         "gn:id":3132939,
         "gp:id":865467,
-        "qs:id":235359,
         "qs_pg:id":235359,
         "wd:id":"Q7944473",
         "wk:page":"V\u00e5land"
@@ -106,7 +103,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563571698,
+    "wof:lastmodified":1566661684,
     "wof:name":"V\u00e5land",
     "wof:parent_id":101751915,
     "wof:placetype":"neighbourhood",

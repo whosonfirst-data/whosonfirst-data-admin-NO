@@ -14,6 +14,7 @@
     "iso:country":"NO",
     "lbl:latitude":59.895292,
     "lbl:longitude":10.755817,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.879145,
     "mps:longitude":10.713707,
     "mz:hierarchy_label":1,
@@ -60,10 +61,6 @@
     "name:swe_x_preferred":[
         "Kongshamn"
     ],
-    "name:unk_x_variant":[
-        "Kongshavn Bad",
-        "Kongshamn"
-    ],
     "qs:gn_adm0_cc":"NO",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3143244,
@@ -92,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1159297167,
@@ -104,7 +101,6 @@
     "wof:concordances":{
         "gn:id":3149556,
         "gp:id":860753,
-        "qs:id":1083379,
         "qs_pg:id":1083379
     },
     "wof:country":"NO",
@@ -123,7 +119,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1536864511,
+    "wof:lastmodified":1566661644,
     "wof:name":"Kongshamn",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

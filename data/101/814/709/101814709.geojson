@@ -13,6 +13,8 @@
     "iso:country":"NO",
     "lbl:latitude":70.082015,
     "lbl:longitude":29.72774,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":70.082015,
     "mps:longitude":29.72774,
     "mz:hierarchy_label":1,
@@ -334,7 +336,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":955,
     "wof:belongsto":[
@@ -348,7 +350,6 @@
         "fct:id":"01ff52fa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":777073,
         "gp:id":865409,
-        "qs:id":370163,
         "qs_pg:id":370163,
         "wd:id":"Q104379"
     },
@@ -367,7 +368,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572792,
+    "wof:lastmodified":1566662408,
     "wof:name":"Vads\u00f8",
     "wof:parent_id":1159297387,
     "wof:placetype":"locality",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6377681.846003,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.548419,63.418613,10.548419,63.418613",
     "geom:latitude":63.418613,
     "geom:longitude":10.548419,
     "gn:latitude":62.98333,
     "gn:longitude":10.56667,
     "iso:country":"NO",
+    "lbl:bbox":"10.543419,63.413613,10.553419,63.423613",
     "lbl:latitude":63.418613,
     "lbl:longitude":10.548419,
+    "lbl:max_zoom":18.0,
     "mps:latitude":63.41776,
     "mps:longitude":10.545539,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
         "Reppe"
     ],
     "name:nor_x_preferred":[
-        "Reppe"
-    ],
-    "name:unk_x_variant":[
         "Reppe"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -66,17 +65,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687127,
         1159297145,
-        101751927
+        101751927,
+        85687127
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3141945,
         "gp:id":20100378,
-        "qs:id":1085861,
         "qs_pg:id":1085861
     },
     "wof:country":"NO",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531936244,
+    "wof:lastmodified":1566661663,
     "wof:name":"Reppe",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

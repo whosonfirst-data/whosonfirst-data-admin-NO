@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.181305,
+    "geom:area_square_m":5070155467.822374,
     "geom:bbox":"28.3304524104,69.0108190551,31.1981767764,70.0642477131",
     "geom:latitude":69.689835,
     "geom:longitude":29.773144,
     "iso:country":"NO",
     "lbl:latitude":69.689733,
     "lbl:longitude":29.676084,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":69.689733,
     "mps:longitude":29.676084,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sor-Varanger"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159296947,
-    "wof:lastmodified":1529699899,
+    "wof:lastmodified":1566662797,
     "wof:name":"Sor-Varanger",
     "wof:parent_id":85687145,
     "wof:placetype":"localadmin",

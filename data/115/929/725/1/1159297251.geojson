@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050953,
+    "geom:area_square_m":309878237.343594,
     "geom:bbox":"5.31743308282,60.4254134229,5.72293504986,60.7164398456",
     "geom:latitude":60.538069,
     "geom:longitude":5.547022,
     "iso:country":"NO",
     "lbl:latitude":60.529073,
     "lbl:longitude":5.513233,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.529073,
     "mps:longitude":5.513233,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Osteroy"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159297251,
-    "wof:lastmodified":1529700040,
+    "wof:lastmodified":1566662809,
     "wof:name":"Osteroy",
     "wof:parent_id":85687099,
     "wof:placetype":"localadmin",

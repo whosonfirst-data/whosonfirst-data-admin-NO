@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":59.664757,
     "lbl:longitude":5.935684,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":59.664757,
     "mps:longitude":5.935684,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Etne"
     ],
@@ -102,9 +105,6 @@
     "name:swe_x_variant":[
         "Etne kommun"
     ],
-    "name:unk_x_variant":[
-        "Etnesj\u00f8en"
-    ],
     "qs:a0":"Norge",
     "qs:a1":"*Hordaland",
     "qs:a1r":"0",
@@ -121,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -134,7 +134,6 @@
         "fct:id":"01fe2254-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3158015,
         "gp:id":858248,
-        "qs:id":348819,
         "qs_pg:id":348819,
         "wd:id":"Q1799094",
         "wk:page":"Etnesj\u00f8en"
@@ -154,7 +153,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572700,
+    "wof:lastmodified":1566662380,
     "wof:name":"Etne",
     "wof:parent_id":1159297111,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":59.048231,
     "lbl:longitude":9.730277,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.048231,
     "mps:longitude":9.730277,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hujirt"
     ],
@@ -46,9 +49,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u043b\u0433\u0435\u0440\u0445\u0430\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Delger-khan"
-    ],
     "qs:a0":"Norge",
     "qs:a1":"*Telemark",
     "qs:a1r":"2",
@@ -64,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1159296755,
@@ -76,9 +76,11 @@
         "fct:id":"01aadafe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2030429,
         "gp:id":22658822,
-        "qs:id":1131267,
         "qs_pg:id":493459,
         "wk:page":"Delgerkhaan"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1131267
     },
     "wof:country":"NO",
     "wof:geomhash":"14e69d184dd14cfd4df427f1b4e5c624",
@@ -95,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564104231,
+    "wof:lastmodified":1566662391,
     "wof:name":"Sand\u00f8ya",
     "wof:parent_id":1159296755,
     "wof:placetype":"locality",

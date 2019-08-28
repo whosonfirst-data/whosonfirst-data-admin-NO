@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":60.508699,
     "lbl:longitude":5.354063,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":60.508699,
     "mps:longitude":5.354063,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Hylkje"
     ],
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":85,
     "wof:belongsto":[
@@ -83,7 +86,6 @@
         "fct:id":"01fed456-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3151272,
         "gp:id":860206,
-        "qs:id":145931,
         "qs_pg:id":145931,
         "wd:id":"Q2347371",
         "wk:page":"Hylkje"
@@ -103,7 +105,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572677,
+    "wof:lastmodified":1566662372,
     "wof:name":"Hylkje",
     "wof:parent_id":1159297617,
     "wof:placetype":"locality",

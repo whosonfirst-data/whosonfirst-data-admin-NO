@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1451927.459287,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.315004,60.37123,5.315004,60.37123",
     "geom:latitude":60.37123,
     "geom:longitude":5.315004,
     "gn:elevation":129,
     "iso:country":"NO",
+    "lbl:bbox":"5.310004,60.36623,5.320004,60.37623",
     "lbl:latitude":60.37123,
     "lbl:longitude":5.315004,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.373144,
     "mps:longitude":5.309343,
     "mz:hierarchy_label":0,
@@ -36,9 +38,6 @@
     "name:nor_x_preferred":[
         "Melkeplassen",
         "Damsg\u00e5rdsfjellet"
-    ],
-    "name:unk_x_variant":[
-        "Melkeplassen"
     ],
     "qs:gn_adm0_cc":"NO",
     "qs:gn_fcode":"PPL",
@@ -69,19 +68,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687099,
         102191581,
         1159297617,
         85633341,
-        101751923
+        101751923,
+        85687099
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8378586,
         "gp:id":20100246,
-        "qs:id":234062,
         "qs_pg:id":234062
     },
     "wof:country":"NO",
@@ -100,7 +98,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531870563,
+    "wof:lastmodified":1566661686,
     "wof:name":"Melkeplassen",
     "wof:parent_id":101751923,
     "wof:placetype":"neighbourhood",

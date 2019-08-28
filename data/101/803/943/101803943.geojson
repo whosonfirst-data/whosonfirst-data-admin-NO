@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":59.795432,
     "lbl:longitude":5.181681,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.795432,
     "mps:longitude":5.181681,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Svortland"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":193,
     "wof:belongsto":[
         102191581,
@@ -85,7 +88,6 @@
         "fct:id":"01f8b314-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3160082,
         "gp:id":857574,
-        "qs:id":1332166,
         "qs_pg:id":1332166,
         "wd:id":"Q1813371"
     },
@@ -104,7 +106,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572728,
+    "wof:lastmodified":1566662388,
     "wof:name":"Svortland",
     "wof:parent_id":1159296859,
     "wof:placetype":"locality",

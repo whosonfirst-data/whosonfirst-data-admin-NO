@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":62.310538,
     "lbl:longitude":11.140548,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":62.310538,
     "mps:longitude":11.140548,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tolga"
     ],
@@ -59,7 +62,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1159297297,
-    "wof:lastmodified":1564104838,
+    "wof:lastmodified":1566662940,
     "wof:name":"Tolga",
     "wof:parent_id":85687117,
     "wof:placetype":"localadmin",

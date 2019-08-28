@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":60.116305,
     "lbl:longitude":10.856142,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.116305,
     "mps:longitude":10.856142,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gr\u00f8nvoll"
     ],
@@ -63,7 +66,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":34,
     "wof:belongsto":[
         102191581,
@@ -74,7 +77,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20100062,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2375017"
     },
     "wof:country":"NO",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101815539,
-    "wof:lastmodified":1561769594,
+    "wof:lastmodified":1566662401,
     "wof:name":"Gr\u00f8nvoll",
     "wof:parent_id":1159296969,
     "wof:placetype":"locality",

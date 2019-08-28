@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007269,
+    "geom:area_square_m":45218092.375123,
     "geom:bbox":"10.7186403223,59.7589106423,10.8399730388,59.8392832024",
     "geom:latitude":59.795072,
     "geom:longitude":10.774336,
     "iso:country":"NO",
     "lbl:latitude":59.793052,
     "lbl:longitude":10.769423,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.793052,
     "mps:longitude":10.769423,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Oppegard"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159296943,
-    "wof:lastmodified":1529699741,
+    "wof:lastmodified":1566662798,
     "wof:name":"Oppegard",
     "wof:parent_id":85687095,
     "wof:placetype":"localadmin",

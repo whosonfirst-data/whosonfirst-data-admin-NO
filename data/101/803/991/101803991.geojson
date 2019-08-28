@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":62.079085,
     "lbl:longitude":9.128834,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":62.079085,
     "mps:longitude":9.128834,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Domb\u00e5s"
     ],
@@ -74,9 +77,6 @@
     "name:swe_x_preferred":[
         "Domb\u00e5s"
     ],
-    "name:unk_x_variant":[
-        "Dombaas"
-    ],
     "name:zho_x_preferred":[
         "\u675c\u59c6\u5965\u65af"
     ],
@@ -100,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1070,
     "wof:belongsto":[
@@ -114,7 +114,6 @@
         "fct:id":"01fb6366-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3159107,
         "gp:id":857840,
-        "qs:id":1244180,
         "qs_pg:id":1244180,
         "wd:id":"Q1025951",
         "wk:page":"Domb\u00e5s"
@@ -134,7 +133,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572677,
+    "wof:lastmodified":1566662372,
     "wof:name":"Domb\u00e5s",
     "wof:parent_id":1159297013,
     "wof:placetype":"locality",

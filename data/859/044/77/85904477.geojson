@@ -11,8 +11,10 @@
     "geom:longitude":10.410417,
     "gn:id":"",
     "iso:country":"NO",
+    "lbl:bbox":"10.405417,63.430109,10.415417,63.440109",
     "lbl:latitude":63.435109,
     "lbl:longitude":10.410417,
+    "lbl:max_zoom":18.0,
     "mps:latitude":63.435773,
     "mps:longitude":10.410101,
     "mz:hierarchy_label":0,
@@ -45,9 +47,6 @@
     "name:pol_x_preferred":[
         "Nedre Elvehavn"
     ],
-    "name:unk_x_variant":[
-        "Nedre Elvehavn"
-    ],
     "qs:gn_adm0_cc":"NO",
     "qs:gn_id":0,
     "qs:gn_local":3133880,
@@ -74,7 +73,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":253,
     "wof:belongsto":[
         1159297145,
@@ -84,7 +83,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20100274,
-        "qs:id":1256801,
         "qs_pg:id":1256801,
         "wd:id":"Q173828"
     },
@@ -104,7 +102,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563571652,
+    "wof:lastmodified":1566661664,
     "wof:name":"Nedre Elvehavn",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":59.385554,
     "lbl:longitude":10.264476,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.385554,
     "mps:longitude":10.264476,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Re"
     ],
@@ -41,7 +44,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1159296901,
-    "wof:lastmodified":1564104779,
+    "wof:lastmodified":1566662907,
     "wof:name":"Re",
     "wof:parent_id":85687073,
     "wof:placetype":"localadmin",

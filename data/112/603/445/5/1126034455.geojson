@@ -9,15 +9,18 @@
     "geom:bbox":"15.01667,69.0,15.01667,69.0",
     "geom:latitude":69.0,
     "geom:longitude":15.01667,
-    "gn:gn_country":"NO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":6,
+    "gn:country":"NO",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"NO",
+    "lbl:bbox":"14.99667,68.98,15.03667,69.02",
     "lbl:latitude":69.0,
     "lbl:longitude":15.01667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Nyksund"
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Nyksund"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nykksund"
     ],
     "qs_pg:aaroncc":"NO",
@@ -76,7 +79,7 @@
     "qs_pg:woe_adm0":23424910,
     "qs_pg:woe_id":862376,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424910,
     "woe:name_adm0":"Norge",
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1126034455,
-    "wof:lastmodified":1563573053,
+    "wof:lastmodified":1566662541,
     "wof:name":"Nyksund",
     "wof:parent_id":1159296769,
     "wof:placetype":"locality",

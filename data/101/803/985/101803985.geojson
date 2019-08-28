@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":60.268859,
     "lbl:longitude":8.943031,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.268859,
     "mps:longitude":8.943031,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "R\u00f8dberg"
     ],
@@ -266,7 +269,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":125,
     "wof:belongsto":[
         102191581,
@@ -279,7 +282,7 @@
         "fct:id":"01fe8c76-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7626343,
         "gp:id":863033,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q4129912",
         "wk:page":"R\u00f8dberg"
     },
@@ -298,7 +301,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1561769590,
+    "wof:lastmodified":1566662378,
     "wof:name":"R\u00f8dberg",
     "wof:parent_id":1159297507,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":61.874199,
     "lbl:longitude":9.099048,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":61.874199,
     "mps:longitude":9.099048,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "V\u00e5g\u00e5mo"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":123,
     "wof:belongsto":[
@@ -95,10 +98,12 @@
         "fct:id":"01fc468c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3133053,
         "gp:id":865426,
-        "qs:id":249066,
         "qs_pg:id":145861,
         "wd:id":"Q1777208",
         "wk:page":"V\u00e5g\u00e5mo"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":249066
     },
     "wof:country":"NO",
     "wof:geomhash":"1c09c8d1d6480ce522ee87f25c148e5a",
@@ -115,7 +120,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572704,
+    "wof:lastmodified":1566662381,
     "wof:name":"V\u00e5g\u00e5mo",
     "wof:parent_id":1159296879,
     "wof:placetype":"locality",

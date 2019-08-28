@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"12.54667,66.18,12.58667,66.22",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         1159297149,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1259869413,
-    "wof:lastmodified":1536799551,
+    "wof:lastmodified":1566663175,
     "wof:name":"Bryggevik",
     "wof:parent_id":1159297149,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"11.02154,63.85476,11.06154,63.89476",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0648\u0646\u0634\u0645\u0646"
     ],
@@ -43,8 +47,7 @@
         "Venneshamna"
     ],
     "name:und_x_variant":[
-        "Venneshavn",
-        "Venneshamn"
+        "Venneshavn"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1344050927,
-    "wof:lastmodified":1564103101,
+    "wof:lastmodified":1566661611,
     "wof:name":"Venneshamn",
     "wof:parent_id":1159296757,
     "wof:placetype":"locality",

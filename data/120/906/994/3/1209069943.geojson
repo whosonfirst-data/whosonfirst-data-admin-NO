@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"8.16842,59.38776,8.20842,59.42776",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633341
@@ -35,7 +39,7 @@
         "gn:id":3162073
     },
     "wof:country":"NO",
-    "wof:geomhash":"245507d19763926e4b64323b85d8b9fc",
+    "wof:geomhash":"5ee839ada5bb7b317bd8751c987dce4c",
     "wof:hierarchy":[
         {
             "country_id":85633341,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209069943,
-    "wof:lastmodified":1536298680,
+    "wof:lastmodified":1566661992,
     "wof:name":"Bandaksli",
     "wof:parent_id":85633341,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.188419999999999,
+    8.18842,
     59.40776,
-    8.188419999999999,
+    8.18842,
     59.40776
 ],
   "geometry": {"coordinates":[8.18842,59.40776],"type":"Point"}

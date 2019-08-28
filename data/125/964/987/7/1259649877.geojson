@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"20.61242,70.03272,20.65242,70.07272",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Arn\u00f8yhamn"
     ],
@@ -39,9 +43,6 @@
         "Arn\u00f8yhamn"
     ],
     "name:spa_x_preferred":[
-        "Arn\u00f8yhamn"
-    ],
-    "name:und_x_variant":[
         "Arn\u00f8yhamn"
     ],
     "src:geom":"geonames",
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1259649877,
-    "wof:lastmodified":1564105103,
+    "wof:lastmodified":1566663102,
     "wof:name":"Arnoyhamn",
     "wof:parent_id":1159297483,
     "wof:placetype":"locality",

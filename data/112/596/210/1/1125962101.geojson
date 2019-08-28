@@ -9,15 +9,18 @@
     "geom:bbox":"9.83333,63.5,9.83333,63.5",
     "geom:latitude":63.5,
     "geom:longitude":9.83333,
-    "gn:gn_country":"NO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":376,
+    "gn:country":"NO",
+    "gn:fcode":"PPL",
     "gn:population":376,
     "iso:country":"NO",
+    "lbl:bbox":"9.81333,63.48,9.85333,63.52",
     "lbl:latitude":63.5,
     "lbl:longitude":9.83333,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Selbekken"
@@ -46,7 +49,7 @@
     "name:spa_x_preferred":[
         "Selbekken"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Selb\u00e6kken"
     ],
     "qs_pg:aaroncc":"NO",
@@ -66,7 +69,7 @@
     "qs_pg:woe_adm0":23424910,
     "qs_pg:woe_id":863536,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424910,
     "woe:name_adm0":"Norge",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1125962101,
-    "wof:lastmodified":1563573214,
+    "wof:lastmodified":1566662618,
     "wof:name":"Selbekken",
     "wof:parent_id":1159297117,
     "wof:placetype":"locality",

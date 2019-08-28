@@ -13,6 +13,7 @@
     "iso:country":"NO",
     "lbl:latitude":59.94394,
     "lbl:longitude":10.846029,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.943318,
     "mps:longitude":10.844546,
     "mz:hierarchy_label":1,
@@ -37,9 +38,6 @@
     ],
     "name:nor_x_variant":[
         "Erich Mogens\u00f8ns Veis"
-    ],
-    "name:unk_x_variant":[
-        "Erich Mogens\u00f8ns Vei"
     ],
     "qs:gn_adm0_cc":"NO",
     "qs:gn_id":0,
@@ -66,18 +64,17 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        101751917
+        101751917,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22660910,
-        "qs:id":901200,
         "qs_pg:id":901200
     },
     "wof:country":"NO",
@@ -96,7 +93,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529700268,
+    "wof:lastmodified":1566661649,
     "wof:name":"Erich Mogens\u00f8ns Vei",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

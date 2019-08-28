@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"25.97129,70.58692,26.01129,70.62692",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fkv_x_preferred":[
         "Keisi"
     ],
@@ -43,7 +47,6 @@
         "Da\u014bagieddi"
     ],
     "name:und_x_variant":[
-        "Kj\u00e6s",
         "Kjoes",
         "Ytre Kj\u00e6s"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1326534713,
-    "wof:lastmodified":1537675637,
+    "wof:lastmodified":1566661471,
     "wof:name":"Keisi",
     "wof:parent_id":1159297563,
     "wof:placetype":"locality",

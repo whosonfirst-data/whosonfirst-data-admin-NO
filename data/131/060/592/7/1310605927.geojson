@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"27.37853,69.99455,27.41853,70.03455",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sirma"
     ],
@@ -40,9 +44,6 @@
     ],
     "name:sme_x_variant":[
         "Sirbma"
-    ],
-    "name:und_x_variant":[
-        "Sirma"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1310605927,
-    "wof:lastmodified":1537675645,
+    "wof:lastmodified":1566662308,
     "wof:name":"Sirbma",
     "wof:parent_id":1159296751,
     "wof:placetype":"locality",

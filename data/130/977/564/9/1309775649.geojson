@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"10.40283,63.40061,10.44283,63.44061",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Berg"
     ],
@@ -143,7 +147,7 @@
         }
     ],
     "wof:id":1309775649,
-    "wof:lastmodified":1564104259,
+    "wof:lastmodified":1566662439,
     "wof:name":"Berg",
     "wof:parent_id":1159297145,
     "wof:placetype":"locality",

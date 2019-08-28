@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":892212.528808,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.357929,63.387069,10.357929,63.387069",
     "geom:latitude":63.387069,
     "geom:longitude":10.357929,
     "gn:id":"",
     "iso:country":"NO",
+    "lbl:bbox":"10.352929,63.382069,10.362929,63.392069",
     "lbl:latitude":63.387069,
     "lbl:longitude":10.357929,
+    "lbl:max_zoom":18.0,
     "mps:latitude":63.386687,
     "mps:longitude":10.35438,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:nor_x_preferred":[
-        "Buenget"
-    ],
-    "name:unk_x_variant":[
         "Buenget"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -56,16 +55,15 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687127,
         1159297145,
-        101751927
+        101751927,
+        85687127
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20099955,
-        "qs:id":986066,
         "qs_pg:id":986066
     },
     "wof:country":"NO",
@@ -84,7 +82,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531936218,
+    "wof:lastmodified":1566661665,
     "wof:name":"Buenget",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

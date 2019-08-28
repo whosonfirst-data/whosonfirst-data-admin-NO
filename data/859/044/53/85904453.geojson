@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4785785.613582,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.353998,63.364299,10.353998,63.364299",
     "geom:latitude":63.364299,
     "geom:longitude":10.353998,
     "gn:latitude":63.23333,
     "gn:longitude":10.11667,
     "iso:country":"NO",
+    "lbl:bbox":"10.348998,63.359299,10.358998,63.369299",
     "lbl:latitude":63.364299,
     "lbl:longitude":10.353998,
+    "lbl:max_zoom":18.0,
     "mps:latitude":63.351641,
     "mps:longitude":10.363219,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Kolstad"
     ],
     "name:nor_x_preferred":[
-        "Kolstad"
-    ],
-    "name:unk_x_variant":[
         "Kolstad"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -62,18 +61,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":89,
     "wof:belongsto":[
-        85687127,
         1159297145,
-        101751927
+        101751927,
+        85687127
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3149522,
         "gp:id":20100168,
-        "qs:id":1287732,
         "qs_pg:id":1287732
     },
     "wof:country":"NO",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531936230,
+    "wof:lastmodified":1566661662,
     "wof:name":"Kolstad",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

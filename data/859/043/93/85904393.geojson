@@ -11,8 +11,10 @@
     "geom:longitude":10.403324,
     "gn:id":"",
     "iso:country":"NO",
+    "lbl:bbox":"10.398324,63.422605,10.408324,63.432605",
     "lbl:latitude":63.427605,
     "lbl:longitude":10.403324,
+    "lbl:max_zoom":18.0,
     "mps:latitude":63.424553,
     "mps:longitude":10.406966,
     "mz:hierarchy_label":0,
@@ -34,9 +36,6 @@
         "Bakklandet"
     ],
     "name:nor_x_preferred":[
-        "Bakklandet"
-    ],
-    "name:unk_x_variant":[
         "Bakklandet"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -65,7 +64,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":150,
     "wof:belongsto":[
         1159297145,
@@ -75,7 +74,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20099892,
-        "qs:id":1087358,
         "qs_pg:id":1087358,
         "wd:id":"Q4849480"
     },
@@ -95,7 +93,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563571654,
+    "wof:lastmodified":1566661665,
     "wof:name":"Bakklandet",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

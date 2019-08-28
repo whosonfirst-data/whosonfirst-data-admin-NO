@@ -13,6 +13,8 @@
     "iso:country":"NO",
     "lbl:latitude":69.968735,
     "lbl:longitude":23.270136,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":69.968735,
     "mps:longitude":23.270136,
     "mz:hierarchy_label":1,
@@ -231,7 +233,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -244,10 +246,12 @@
         "fct:id":"01ff5282-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":847633,
         "gp:id":856589,
-        "qs:id":129715,
-        "qs_pg:id":1089175,
+        "qs_pg:id":129715,
         "wd:id":"Q3366952",
         "wk:page":"Alta (town)"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1089175
     },
     "wof:country":"NO",
     "wof:geomhash":"b71abf80fa82d9912eabdab17eb7a0ae",
@@ -264,7 +268,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572840,
+    "wof:lastmodified":1566662419,
     "wof:name":"Alta",
     "wof:parent_id":1159296893,
     "wof:placetype":"locality",

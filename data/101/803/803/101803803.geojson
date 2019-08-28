@@ -9,15 +9,18 @@
     "geom:bbox":"10.0138894693,58.9821033777,10.050358336,59.0144877044",
     "geom:latitude":58.998664,
     "geom:longitude":10.03108,
-    "geonames:id":"3137091,3137092",
+    "gn:id":"3137091,3137092",
     "gn:population":5593,
     "iso:country":"NO",
     "lbl:latitude":58.998676,
     "lbl:longitude":10.029285,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":58.998676,
     "mps:longitude":10.029285,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u0430\u0432\u0435\u0440\u043d"
     ],
@@ -72,7 +75,7 @@
     "name:swe_x_preferred":[
         "Stavern"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fredriksv\u00e6rn"
     ],
     "name:zho_x_preferred":[
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":504,
     "wof:belongsto":[
@@ -107,7 +110,6 @@
     "wof:concordances":{
         "gn:id":3137091,
         "gp:id":864348,
-        "qs:id":848016,
         "qs_pg:id":848016,
         "wd:id":"Q1541556",
         "wk:page":"Stavern"
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101803803,
-    "wof:lastmodified":1563572689,
+    "wof:lastmodified":1566662376,
     "wof:name":"Stavern",
     "wof:parent_id":1159296779,
     "wof:placetype":"locality",

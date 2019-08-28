@@ -14,6 +14,7 @@
     "iso:country":"NO",
     "lbl:latitude":59.863766,
     "lbl:longitude":10.79045,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.866274,
     "mps:longitude":10.795613,
     "mz:hierarchy_label":1,
@@ -74,9 +75,6 @@
     "name:swe_x_variant":[
         "Roms\u00e5s"
     ],
-    "name:unk_x_variant":[
-        "Nordstrand"
-    ],
     "name:zho_x_preferred":[
         "\u5317\u6d77\u7058"
     ],
@@ -108,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":372,
     "wof:belongsto":[
         102191581,
@@ -121,7 +119,6 @@
     "wof:concordances":{
         "gn:id":6940987,
         "gp:id":862308,
-        "qs:id":478355,
         "qs_pg:id":478355,
         "wd:id":"Q1998762",
         "wk:page":"Nordstrand, Norway"
@@ -142,7 +139,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563571639,
+    "wof:lastmodified":1566661656,
     "wof:name":"Nordstrand",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

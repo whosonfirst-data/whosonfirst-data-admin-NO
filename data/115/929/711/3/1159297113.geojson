@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.100335,
+    "geom:area_square_m":632291253.451599,
     "geom:bbox":"5.34357576365,59.2090588325,5.92197257672,59.4996754678",
     "geom:latitude":59.360312,
     "geom:longitude":5.61498,
     "iso:country":"NO",
     "lbl:latitude":59.342396,
     "lbl:longitude":5.609428,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.342396,
     "mps:longitude":5.609428,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tysvaer"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159297113,
-    "wof:lastmodified":1529700040,
+    "wof:lastmodified":1566662937,
     "wof:name":"Tysvaer",
     "wof:parent_id":85687085,
     "wof:placetype":"localadmin",

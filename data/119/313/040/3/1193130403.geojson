@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"12.44667,60.66333,12.48667,60.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u0646\u0627"
     ],
@@ -72,8 +76,7 @@
         "\u041b\u0456\u043d\u0430"
     ],
     "name:und_x_variant":[
-        "Linna",
-        "Lina"
+        "Linna"
     ],
     "name:vie_x_preferred":[
         "Lina"
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1193130403,
-    "wof:lastmodified":1564103880,
+    "wof:lastmodified":1566662126,
     "wof:name":"Lina",
     "wof:parent_id":1125286653,
     "wof:placetype":"locality",

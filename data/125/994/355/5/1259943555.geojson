@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"9.51706,59.17789,9.55706,59.21789",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "\u00c5foss"
     ],
@@ -34,8 +38,7 @@
         "\u00c5foss"
     ],
     "name:und_x_variant":[
-        "Aafoss",
-        "\u00c5foss"
+        "Aafoss"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1259943555,
-    "wof:lastmodified":1564105198,
+    "wof:lastmodified":1566663151,
     "wof:name":"Afoss",
     "wof:parent_id":1159297035,
     "wof:placetype":"locality",

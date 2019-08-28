@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":686016.510561,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.41327,63.430495,10.41327,63.430495",
     "geom:latitude":63.430495,
     "geom:longitude":10.41327,
     "gn:id":"",
     "iso:country":"NO",
+    "lbl:bbox":"10.40827,63.425495,10.41827,63.435495",
     "lbl:latitude":63.430495,
     "lbl:longitude":10.41327,
+    "lbl:max_zoom":18.0,
     "mps:latitude":63.4298,
     "mps:longitude":10.416316,
     "mz:hierarchy_label":0,
@@ -54,9 +56,6 @@
     "name:swe_x_preferred":[
         "Rosenborg"
     ],
-    "name:unk_x_variant":[
-        "Rosenborg"
-    ],
     "qs:gn_adm0_cc":"NO",
     "qs:gn_id":0,
     "qs:gn_local":3133880,
@@ -83,17 +82,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":51,
     "wof:belongsto":[
-        85687127,
         1159297145,
-        101751927
+        101751927,
+        85687127
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20100393,
-        "qs:id":237567,
         "qs_pg:id":237567
     },
     "wof:country":"NO",
@@ -112,7 +110,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531936245,
+    "wof:lastmodified":1566661653,
     "wof:name":"Rosenborg",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

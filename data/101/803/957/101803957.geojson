@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":59.986286,
     "lbl:longitude":6.012945,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":59.986286,
     "mps:longitude":6.012945,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Rosendal"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":182,
     "wof:belongsto":[
@@ -101,7 +104,6 @@
         "fct:id":"01fca1a4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3141292,
         "gp:id":863135,
-        "qs:id":1168975,
         "qs_pg:id":1168975,
         "wd:id":"Q736489",
         "wk:page":"Rosendal, Norway"
@@ -121,7 +123,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572700,
+    "wof:lastmodified":1566662379,
     "wof:name":"Rosendal",
     "wof:parent_id":1159296949,
     "wof:placetype":"locality",

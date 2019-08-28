@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"15.31191,67.99543,15.35191,68.03543",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Skutvik"
     ],
@@ -57,10 +61,6 @@
     "name:swe_x_preferred":[
         "Skutvik"
     ],
-    "name:und_x_variant":[
-        "Skutvik",
-        "Skutvika"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         1159297087,
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":1293868451,
-    "wof:lastmodified":1564103391,
+    "wof:lastmodified":1566661823,
     "wof:name":"Skutvika",
     "wof:parent_id":1159297087,
     "wof:placetype":"locality",

@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2532630.529475,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.357863,60.372668,5.357863,60.372668",
     "geom:latitude":60.372668,
     "geom:longitude":5.357863,
     "iso:country":"NO",
+    "lbl:bbox":"5.352863,60.367668,5.362863,60.377668",
     "lbl:latitude":60.372668,
     "lbl:longitude":5.357863,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.371786,
     "mps:longitude":5.360647,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     "name:nor_x_preferred":[
         "Arstad",
         "\u00c5rstad"
-    ],
-    "name:unk_x_variant":[
-        "Arstad"
     ],
     "qs:gn_adm0_cc":"NO",
     "qs:gn_id":0,
@@ -61,14 +60,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":95,
     "wof:belongsto":[
-        85687099,
         102191581,
         1159297617,
         85633341,
-        101751923
+        101751923,
+        85687099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +89,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531870546,
+    "wof:lastmodified":1566661682,
     "wof:name":"Arstad",
     "wof:parent_id":101751923,
     "wof:placetype":"neighbourhood",

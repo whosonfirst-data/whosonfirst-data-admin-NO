@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5342645.475408,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.338697,63.355958,10.338697,63.355958",
     "geom:latitude":63.355958,
     "geom:longitude":10.338697,
     "gn:id":"",
     "iso:country":"NO",
+    "lbl:bbox":"10.333697,63.350958,10.343697,63.360958",
     "lbl:latitude":63.355958,
     "lbl:longitude":10.338697,
+    "lbl:max_zoom":18.0,
     "mps:latitude":63.363445,
     "mps:longitude":10.328137,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:nor_x_preferred":[
-        "Haseby"
-    ],
-    "name:unk_x_variant":[
         "Haseby"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -58,16 +57,15 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687127,
         1159297145,
-        101751927
+        101751927,
+        85687127
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20100087,
-        "qs:id":1256654,
         "qs_pg:id":1256654
     },
     "wof:country":"NO",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531936226,
+    "wof:lastmodified":1566661663,
     "wof:name":"Haseby",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

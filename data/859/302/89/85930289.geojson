@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000783,
-    "geom:area_square_m":4865724.901224,
+    "geom:area_square_m":4865724.901225,
     "geom:bbox":"10.8232879824,59.8241120125,10.8672387696,59.85538202",
     "geom:latitude":59.83941,
     "geom:longitude":10.845774,
@@ -13,6 +13,7 @@
     "iso:country":"NO",
     "lbl:latitude":59.837315,
     "lbl:longitude":10.840759,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.842743,
     "mps:longitude":10.84977,
     "mz:hierarchy_label":1,
@@ -31,9 +32,6 @@
         "Ronning"
     ],
     "name:nor_x_preferred":[
-        "R\u00f8nning"
-    ],
-    "name:unk_x_variant":[
         "R\u00f8nning"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -61,19 +59,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":73,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        101751917
+        101751917,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55871613,
-        "qs:id":136947,
         "qs_pg:id":136947
     },
     "wof:country":"NO",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529700270,
+    "wof:lastmodified":1566661651,
     "wof:name":"R\u00f8nning",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

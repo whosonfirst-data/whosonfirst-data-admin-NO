@@ -11,8 +11,10 @@
     "geom:longitude":10.450134,
     "gn:id":"",
     "iso:country":"NO",
+    "lbl:bbox":"10.445134,63.412889,10.455134,63.422889",
     "lbl:latitude":63.417889,
     "lbl:longitude":10.450134,
+    "lbl:max_zoom":18.0,
     "mps:latitude":63.419187,
     "mps:longitude":10.448055,
     "mz:hierarchy_label":0,
@@ -37,9 +39,6 @@
         "Valentinlyst"
     ],
     "name:nor_x_preferred":[
-        "Valentinlyst"
-    ],
-    "name:unk_x_variant":[
         "Valentinlyst"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -68,7 +67,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":42,
     "wof:belongsto":[
         1159297145,
@@ -78,7 +77,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20100582,
-        "qs:id":1328376,
         "qs_pg:id":1328376,
         "wd:id":"Q7911048"
     },
@@ -98,7 +96,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563571635,
+    "wof:lastmodified":1566661653,
     "wof:name":"Valentinlyst",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

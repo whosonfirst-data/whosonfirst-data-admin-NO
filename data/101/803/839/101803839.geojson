@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":58.736132,
     "lbl:longitude":5.737204,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.736132,
     "mps:longitude":5.737204,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lyefjell"
     ],
@@ -65,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":170,
     "wof:belongsto":[
         102191581,
@@ -76,9 +79,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22659504,
-        "qs:id":7,
-        "qs_pg:id":1187040,
+        "qs_pg:id":7,
         "wd:id":"Q1783442"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1187040
     },
     "wof:country":"NO",
     "wof:geomhash":"27cb5ce564e948a693afb8adc60df117",
@@ -92,7 +97,7 @@
         }
     ],
     "wof:id":101803839,
-    "wof:lastmodified":1563572718,
+    "wof:lastmodified":1566662385,
     "wof:name":"Lyefjell",
     "wof:parent_id":1159296707,
     "wof:placetype":"locality",

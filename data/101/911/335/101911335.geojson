@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":59.680992,
     "lbl:longitude":10.886323,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.680992,
     "mps:longitude":10.886323,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kr\u00e5kstad"
     ],
@@ -66,9 +69,6 @@
     "name:swe_x_preferred":[
         "Kr\u00e5kstad"
     ],
-    "name:unk_x_variant":[
-        "Chimaltenango"
-    ],
     "qs:a0":"Norge",
     "qs:a1":"*Akershus",
     "qs:a1r":"4",
@@ -84,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -96,10 +96,12 @@
     "wof:concordances":{
         "gn:id":3589103,
         "gp:id":860814,
-        "qs:id":1116137,
         "qs_pg:id":1089904,
         "wd:id":"Q2012843",
         "wk:page":"Santiago Chimaltenango"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1116137
     },
     "wof:country":"NO",
     "wof:geomhash":"df1f0fa1c8b17ff4d3b147432157d8d9",
@@ -116,7 +118,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563572854,
+    "wof:lastmodified":1566662424,
     "wof:name":"Krakstad",
     "wof:parent_id":1159296817,
     "wof:placetype":"locality",

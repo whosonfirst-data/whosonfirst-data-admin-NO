@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"5.09667,61.81333,5.13667,61.85333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jav_x_preferred":[
         "Berle"
     ],
@@ -40,8 +44,7 @@
         "Berle"
     ],
     "name:und_x_variant":[
-        "Berdle",
-        "Berle"
+        "Berdle"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1209388145,
-    "wof:lastmodified":1564103636,
+    "wof:lastmodified":1566661979,
     "wof:name":"Berle",
     "wof:parent_id":85633341,
     "wof:placetype":"locality",

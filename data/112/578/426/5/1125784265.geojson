@@ -9,15 +9,18 @@
     "geom:bbox":"12.38333,66.36667,12.38333,66.36667",
     "geom:latitude":66.36667,
     "geom:longitude":12.38333,
-    "gn:gn_country":"NO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":349,
+    "gn:country":"NO",
+    "gn:fcode":"PPL",
     "gn:population":349,
     "iso:country":"NO",
+    "lbl:bbox":"12.36333,66.34667,12.40333,66.38667",
     "lbl:latitude":66.36667,
     "lbl:longitude":12.38333,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Lovund"
@@ -52,7 +55,7 @@
     "name:spa_x_preferred":[
         "Lovund"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lovunden"
     ],
     "qs_pg:aaroncc":"NO",
@@ -67,7 +70,7 @@
     "qs_pg:qs_id":581104,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         1159297347,
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1125784265,
-    "wof:lastmodified":1563573380,
+    "wof:lastmodified":1566662696,
     "wof:name":"Lovund",
     "wof:parent_id":1159297347,
     "wof:placetype":"locality",

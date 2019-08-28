@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"10.93,63.89667,10.97,63.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hoven"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1243056841,
-    "wof:lastmodified":1564104996,
+    "wof:lastmodified":1566663035,
     "wof:name":"Hoven",
     "wof:parent_id":1159297077,
     "wof:placetype":"locality",

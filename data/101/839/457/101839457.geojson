@@ -13,6 +13,8 @@
     "iso:country":"NO",
     "lbl:latitude":61.122137,
     "lbl:longitude":10.464437,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":61.122137,
     "mps:longitude":10.464437,
     "mz:hierarchy_label":1,
@@ -394,7 +396,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1401,
     "wof:belongsto":[
@@ -409,7 +411,6 @@
         "gn:id":3147474,
         "gp:id":861344,
         "loc:id":"n81012170",
-        "qs:id":1085851,
         "qs_pg:id":1085851,
         "wd:id":"Q101341",
         "wk:page":"Lillehammer"
@@ -429,7 +430,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572848,
+    "wof:lastmodified":1566662421,
     "wof:name":"Lillehammer",
     "wof:parent_id":1159297519,
     "wof:placetype":"locality",

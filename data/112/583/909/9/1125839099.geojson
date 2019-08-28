@@ -9,14 +9,18 @@
     "geom:bbox":"9.75,63.71667,9.75,63.71667",
     "geom:latitude":63.71667,
     "geom:longitude":9.75,
-    "gn:gn_country":"NO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"NO",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"NO",
+    "lbl:bbox":"9.73,63.69667,9.77,63.73667",
     "lbl:latitude":63.71667,
     "lbl:longitude":9.75,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Austr\u00e5ttborgen"
@@ -36,7 +40,7 @@
     "name:swe_x_preferred":[
         "Austr\u00e5ttborgen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u00d6straat"
     ],
     "qs_pg:aaroncc":"NO",
@@ -60,7 +64,7 @@
     "qs_pg:woe_adm0":23424910,
     "qs_pg:woe_id":856925,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424910,
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":1125839099,
-    "wof:lastmodified":1564104530,
+    "wof:lastmodified":1566662723,
     "wof:name":"Austr\u00e5tt",
     "wof:parent_id":1159296835,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"10.11889,61.50965,10.15889,61.54965",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Ringebu"
     ],
@@ -152,7 +156,7 @@
         }
     ],
     "wof:id":1243160285,
-    "wof:lastmodified":1564105046,
+    "wof:lastmodified":1566663065,
     "wof:name":"Ringebu",
     "wof:parent_id":1159296971,
     "wof:placetype":"locality",

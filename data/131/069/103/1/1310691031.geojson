@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"12.94304,66.18168,12.98304,66.22168",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09bf\u0995"
     ],
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":1310691031,
-    "wof:lastmodified":1564104135,
+    "wof:lastmodified":1566662297,
     "wof:name":"Vik",
     "wof:parent_id":1159297235,
     "wof:placetype":"locality",

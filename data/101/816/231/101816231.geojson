@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":59.659753,
     "lbl:longitude":10.640076,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":59.659753,
     "mps:longitude":10.640076,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Dr\u00f8bak"
     ],
@@ -281,7 +284,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":59.666667,
     "wd:longitude":10.633333,
@@ -297,7 +300,6 @@
         "fct:id":"01fd17d8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3158960,
         "gp:id":857888,
-        "qs:id":914350,
         "qs_pg:id":914350,
         "wd:id":"Q995477",
         "wk:page":"Dr\u00f8bak"
@@ -317,7 +319,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572619,
+    "wof:lastmodified":1566662355,
     "wof:name":"Dr\u00f8bak",
     "wof:parent_id":1159297355,
     "wof:placetype":"locality",

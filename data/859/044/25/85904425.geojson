@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7368037.306924,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.45535,63.446886,10.45535,63.446886",
     "geom:latitude":63.446886,
     "geom:longitude":10.45535,
     "gn:id":"",
     "iso:country":"NO",
+    "lbl:bbox":"10.45035,63.441886,10.46035,63.451886",
     "lbl:latitude":63.446886,
     "lbl:longitude":10.45535,
+    "lbl:max_zoom":18.0,
     "mps:latitude":63.452723,
     "mps:longitude":10.463742,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:nor_x_preferred":[
-        "Fagerheim"
-    ],
-    "name:unk_x_variant":[
         "Fagerheim"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -56,16 +55,15 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687127,
         1159297145,
-        101751927
+        101751927,
+        85687127
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20099993,
-        "qs:id":895799,
         "qs_pg:id":895799
     },
     "wof:country":"NO",
@@ -84,7 +82,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531936222,
+    "wof:lastmodified":1566661665,
     "wof:name":"Fagerheim",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

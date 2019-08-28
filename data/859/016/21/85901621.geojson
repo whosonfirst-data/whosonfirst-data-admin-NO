@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000283,
-    "geom:area_square_m":1755921.655832,
+    "geom:area_square_m":1755921.655833,
     "geom:bbox":"10.8187866211,59.8459385625,10.849047886,59.8627463543",
     "geom:latitude":59.854414,
     "geom:longitude":10.831251,
@@ -13,6 +13,7 @@
     "iso:country":"NO",
     "lbl:latitude":59.85453,
     "lbl:longitude":10.906563,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.855164,
     "mps:longitude":10.828959,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:nor_x_preferred":[
-        "Ostmarkkapellet"
-    ],
-    "name:unk_x_variant":[
         "Ostmarkkapellet"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -57,17 +55,16 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
-        85633341
+        85633341,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":862617,
-        "qs:id":1090273,
         "qs_pg:id":1090273
     },
     "wof:country":"NO",
@@ -86,7 +83,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529700265,
+    "wof:lastmodified":1566661656,
     "wof:name":"Ostmarkkapellet",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

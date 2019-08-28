@@ -13,6 +13,7 @@
     "iso:country":"NO",
     "lbl:latitude":59.907121,
     "lbl:longitude":10.76913,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.902024,
     "mps:longitude":10.777936,
     "mz:hierarchy_label":1,
@@ -80,9 +81,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u043c\u043b\u0435 \u041e\u0441\u043b\u043e"
     ],
-    "name:unk_x_variant":[
-        "Gamlebyen"
-    ],
     "name:zho_x_preferred":[
         "\u820a\u5967\u65af\u9678"
     ],
@@ -111,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":183,
     "wof:belongsto":[
         102191581,
@@ -123,7 +121,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23701347,
-        "qs:id":212350,
         "qs_pg:id":212350,
         "wd:id":"Q1493178"
     },
@@ -143,7 +140,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563571626,
+    "wof:lastmodified":1566661647,
     "wof:name":"Gamlebyen",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

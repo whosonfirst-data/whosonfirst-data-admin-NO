@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":59.668483,
     "lbl:longitude":10.799907,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":59.668483,
     "mps:longitude":10.799907,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0622\u0648\u0633"
     ],
@@ -162,9 +165,6 @@
     "name:tur_x_preferred":[
         "\u00c5s"
     ],
-    "name:unk_x_variant":[
-        "Aas"
-    ],
     "name:vie_x_preferred":[
         "\u00c5s"
     ],
@@ -190,7 +190,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -203,10 +203,12 @@
         "fct:id":"01fd91ae-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3156068,
         "gp:id":858833,
-        "qs:id":914307,
         "qs_pg:id":235347,
         "wd:id":"Q54062",
         "wk:page":"\u00c5s Station"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":914307
     },
     "wof:country":"NO",
     "wof:geomhash":"82dfd06ffe5ef0502c6f6e49c357da73",
@@ -223,7 +225,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572615,
+    "wof:lastmodified":1566662354,
     "wof:name":"\u00c5s",
     "wof:parent_id":1159297627,
     "wof:placetype":"locality",

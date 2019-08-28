@@ -11,8 +11,10 @@
     "geom:longitude":10.426763,
     "gn:id":"",
     "iso:country":"NO",
+    "lbl:bbox":"10.421763,63.407239,10.431763,63.417239",
     "lbl:latitude":63.412239,
     "lbl:longitude":10.426763,
+    "lbl:max_zoom":18.0,
     "mps:latitude":63.412427,
     "mps:longitude":10.426453,
     "mz:hierarchy_label":0,
@@ -42,9 +44,6 @@
     "name:nor_x_preferred":[
         "Lerkendal"
     ],
-    "name:unk_x_variant":[
-        "Lerkendal"
-    ],
     "qs:gn_adm0_cc":"NO",
     "qs:gn_id":0,
     "qs:gn_local":3133880,
@@ -71,7 +70,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":129,
     "wof:belongsto":[
         1159297145,
@@ -81,7 +80,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20100211,
-        "qs:id":221653,
         "qs_pg:id":221653,
         "wd:id":"Q6528814"
     },
@@ -101,7 +99,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563571646,
+    "wof:lastmodified":1566661659,
     "wof:name":"Lerkendal",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

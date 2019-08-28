@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"7.11159,58.04868,7.15159,58.08868",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1326492785,
-    "wof:lastmodified":1537039281,
+    "wof:lastmodified":1566661442,
     "wof:name":"Linddalen",
     "wof:parent_id":1159297315,
     "wof:placetype":"locality",

@@ -14,6 +14,7 @@
     "iso:country":"NO",
     "lbl:latitude":59.910326,
     "lbl:longitude":10.82121,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.911741,
     "mps:longitude":10.827763,
     "mz:hierarchy_label":1,
@@ -33,9 +34,6 @@
         "Bryn"
     ],
     "name:nor_x_preferred":[
-        "Bryn"
-    ],
-    "name:unk_x_variant":[
         "Bryn"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -65,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":36,
     "wof:belongsto":[
         102191581,
@@ -78,7 +76,6 @@
     "wof:concordances":{
         "gn:id":3159823,
         "gp:id":857653,
-        "qs:id":1168763,
         "qs_pg:id":1168763,
         "wd:id":"Q4980827",
         "wk:page":"Bryn, Oslo"
@@ -99,7 +96,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563571622,
+    "wof:lastmodified":1566661645,
     "wof:name":"Bryn",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

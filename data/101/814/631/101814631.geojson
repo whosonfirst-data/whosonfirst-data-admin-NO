@@ -9,15 +9,18 @@
     "geom:bbox":"13.9205552045,66.8076429828,13.9854325629,66.8200509374",
     "geom:latitude":66.814565,
     "geom:longitude":13.955935,
-    "geonames:id":"3153556,3155487",
+    "gn:id":"3153556,3155487",
     "gn:population":1204,
     "iso:country":"NO",
     "lbl:latitude":66.817214,
     "lbl:longitude":13.958146,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":66.817214,
     "mps:longitude":13.958146,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Glomfjord"
     ],
@@ -54,7 +57,7 @@
     "name:spa_x_preferred":[
         "Glomfjord"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Glaamen"
     ],
     "qs:a0":"Norge",
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":283,
     "wof:belongsto":[
@@ -84,7 +87,6 @@
     "wof:concordances":{
         "gn:id":3155487,
         "gp:id":858983,
-        "qs:id":375015,
         "qs_pg:id":375015,
         "wd:id":"Q1019570",
         "wk:page":"Glomfjord"
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101814631,
-    "wof:lastmodified":1563572835,
+    "wof:lastmodified":1566662418,
     "wof:name":"Glomfjord",
     "wof:parent_id":1159297093,
     "wof:placetype":"locality",

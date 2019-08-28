@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1296446.274518,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.41876,63.403387,10.41876,63.403387",
     "geom:latitude":63.403387,
     "geom:longitude":10.41876,
     "gn:id":"",
     "iso:country":"NO",
+    "lbl:bbox":"10.41376,63.398387,10.42376,63.408387",
     "lbl:latitude":63.403387,
     "lbl:longitude":10.41876,
+    "lbl:max_zoom":18.0,
     "mps:latitude":63.3999,
     "mps:longitude":10.423619,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:nor_x_preferred":[
-        "Nardosletta"
-    ],
-    "name:unk_x_variant":[
         "Nardosletta"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -56,16 +55,15 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687127,
         1159297145,
-        101751927
+        101751927,
+        85687127
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20100270,
-        "qs:id":1256800,
         "qs_pg:id":1256800
     },
     "wof:country":"NO",
@@ -84,7 +82,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531936236,
+    "wof:lastmodified":1566661661,
     "wof:name":"Nardosletta",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

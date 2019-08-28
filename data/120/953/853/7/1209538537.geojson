@@ -25,15 +25,16 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"29.33283,70.70427,29.37283,70.74427",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "Veidnes"
     ],
     "name:nor_x_variant":[
-        "Veines"
-    ],
-    "name:und_x_variant":[
         "Veines"
     ],
     "src:geom":"geonames",
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1209538537,
-    "wof:lastmodified":1537675638,
+    "wof:lastmodified":1566661981,
     "wof:name":"Veidnes",
     "wof:parent_id":85633341,
     "wof:placetype":"locality",

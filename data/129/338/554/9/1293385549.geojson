@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"8.28751,63.09917,8.32751,63.13917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "Liab\u00f8en"
     ],
@@ -34,8 +38,7 @@
         "Liab\u00f8"
     ],
     "name:und_x_variant":[
-        "Liab\u00f6en",
-        "Liab\u00f8"
+        "Liab\u00f6en"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1293385549,
-    "wof:lastmodified":1537675778,
+    "wof:lastmodified":1566661692,
     "wof:name":"Liaboen",
     "wof:parent_id":1159296693,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":401961.020992,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.378666,63.431513,10.378666,63.431513",
     "geom:latitude":63.431513,
     "geom:longitude":10.378666,
     "gn:id":"",
     "iso:country":"NO",
+    "lbl:bbox":"10.373666,63.426513,10.383666,63.436513",
     "lbl:latitude":63.431513,
     "lbl:longitude":10.378666,
+    "lbl:max_zoom":18.0,
     "mps:latitude":63.432703,
     "mps:longitude":10.378891,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:nor_x_preferred":[
-        "Hospitalslokka"
-    ],
-    "name:unk_x_variant":[
         "Hospitalslokka"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -56,16 +55,15 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687127,
         1159297145,
-        101751927
+        101751927,
+        85687127
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20100120,
-        "qs:id":1087369,
         "qs_pg:id":1087369
     },
     "wof:country":"NO",
@@ -84,7 +82,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531936228,
+    "wof:lastmodified":1566661661,
     "wof:name":"Hospitalslokka",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"10.96767,63.75745,11.00767,63.79745",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "Saltvikhamn"
     ],
@@ -35,8 +39,7 @@
     ],
     "name:und_x_variant":[
         "Saltvikhavnen",
-        "Saltvikhavn",
-        "Saltvikhamn"
+        "Saltvikhavn"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1293118939,
-    "wof:lastmodified":1537675730,
+    "wof:lastmodified":1566661791,
     "wof:name":"Saltvikhamna",
     "wof:parent_id":1159296757,
     "wof:placetype":"locality",

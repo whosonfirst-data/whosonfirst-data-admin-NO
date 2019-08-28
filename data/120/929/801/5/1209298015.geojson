@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"6.29667,59.21333,6.33667,59.25333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633341
@@ -35,7 +39,7 @@
         "gn:id":3160266
     },
     "wof:country":"NO",
-    "wof:geomhash":"60143ac3d2b5b7bf44ba86fb52f6ff30",
+    "wof:geomhash":"17cc055dcec36b87da11b893fe2df77a",
     "wof:hierarchy":[
         {
             "country_id":85633341,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209298015,
-    "wof:lastmodified":1536291455,
+    "wof:lastmodified":1566662069,
     "wof:name":"Breidland",
     "wof:parent_id":85633341,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.3166699999999985,
+    6.31667,
     59.23333,
-    6.3166699999999985,
+    6.31667,
     59.23333
 ],
   "geometry": {"coordinates":[6.31667,59.23333],"type":"Point"}

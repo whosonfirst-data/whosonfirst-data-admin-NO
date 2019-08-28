@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"9.64034,60.74275,9.68034,60.78275",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1242658711,
-    "wof:lastmodified":1536947395,
+    "wof:lastmodified":1566663056,
     "wof:name":"Holera",
     "wof:parent_id":1159296855,
     "wof:placetype":"locality",

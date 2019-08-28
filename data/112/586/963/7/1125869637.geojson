@@ -9,14 +9,18 @@
     "geom:bbox":"5.325,60.47444,5.325,60.47444",
     "geom:latitude":60.47444,
     "geom:longitude":5.325,
-    "gn:gn_country":"NO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"NO",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"NO",
+    "lbl:bbox":"5.305,60.45444,5.345,60.49444",
     "lbl:latitude":60.47444,
     "lbl:longitude":5.325,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "\u00c5sane"
@@ -48,7 +52,7 @@
     "name:tur_x_preferred":[
         "\u00c5sane"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aasane"
     ],
     "qs_pg:aaroncc":"NO",
@@ -72,7 +76,7 @@
     "qs_pg:woe_adm0":23424910,
     "qs_pg:woe_id":856775,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424910,
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"Hordaland Fylke",
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":1125869637,
-    "wof:lastmodified":1563573059,
+    "wof:lastmodified":1566662544,
     "wof:name":"\u00c5sane",
     "wof:parent_id":1159297617,
     "wof:placetype":"locality",

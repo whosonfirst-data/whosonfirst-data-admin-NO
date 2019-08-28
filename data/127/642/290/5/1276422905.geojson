@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"10.17487,63.94172,10.21487,63.98172",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         1159297163,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1276422905,
-    "wof:lastmodified":1536658772,
+    "wof:lastmodified":1566661860,
     "wof:name":"Monstad",
     "wof:parent_id":1159297163,
     "wof:placetype":"locality",

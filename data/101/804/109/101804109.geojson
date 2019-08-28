@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":62.46765,
     "lbl:longitude":6.339121,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":62.46765,
     "mps:longitude":6.339121,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "\u00c5lesund"
     ],
@@ -241,9 +244,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u043b\u0435\u0441\u0443\u043d\u043d"
     ],
-    "name:unk_x_variant":[
-        "Aalesund"
-    ],
     "name:vie_x_preferred":[
         "\u00c5lesund"
     ],
@@ -269,7 +269,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2287,
     "wof:belongsto":[
@@ -284,7 +284,6 @@
         "gn:id":3163392,
         "gp:id":856555,
         "loc:id":"n79127974",
-        "qs:id":459924,
         "qs_pg:id":459924,
         "wd:id":"Q62266",
         "wk:page":"\u00c5lesund"
@@ -304,7 +303,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572654,
+    "wof:lastmodified":1566662365,
     "wof:name":"\u00c5lesund",
     "wof:parent_id":1159297219,
     "wof:placetype":"locality",

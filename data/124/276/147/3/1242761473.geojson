@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"12.41462,64.86166,12.45462,64.90166",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jav_x_preferred":[
         "Kongsmoen"
     ],
@@ -37,8 +41,7 @@
         "Kongsmoen"
     ],
     "name:und_x_variant":[
-        "Kongsmo",
-        "Kongsmoen"
+        "Kongsmo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1242761473,
-    "wof:lastmodified":1564105019,
+    "wof:lastmodified":1566663049,
     "wof:name":"Kongsmoen",
     "wof:parent_id":1159297183,
     "wof:placetype":"locality",

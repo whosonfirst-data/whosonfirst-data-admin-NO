@@ -11,8 +11,10 @@
     "geom:longitude":10.353417,
     "gn:id":"",
     "iso:country":"NO",
+    "lbl:bbox":"10.348417,63.413508,10.358417,63.423508",
     "lbl:latitude":63.418508,
     "lbl:longitude":10.353417,
+    "lbl:max_zoom":18.0,
     "mps:latitude":63.417144,
     "mps:longitude":10.35235,
     "mz:hierarchy_label":0,
@@ -39,9 +41,6 @@
     "name:nor_x_preferred":[
         "Sverresborg",
         "Sion"
-    ],
-    "name:unk_x_variant":[
-        "Sverresborg"
     ],
     "name:zho_x_preferred":[
         "\u65af\u97cb\u96f7\u57ce\u5821"
@@ -72,7 +71,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":880,
     "wof:belongsto":[
         1159297145,
@@ -82,7 +81,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20100529,
-        "qs:id":1119601,
         "qs_pg:id":1119601,
         "wd:id":"Q18342461"
     },
@@ -102,7 +100,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563571633,
+    "wof:lastmodified":1566661651,
     "wof:name":"Sverresborg",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

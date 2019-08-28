@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.228712,
+    "geom:area_square_m":1266114472.52368,
     "geom:bbox":"11.4545616771,63.180687327,12.2128783283,63.6331543181",
     "geom:latitude":63.404229,
     "geom:longitude":11.831862,
     "iso:country":"NO",
     "lbl:latitude":63.410184,
     "lbl:longitude":11.824578,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":63.410184,
     "mps:longitude":11.824578,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Meraker"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159297383,
-    "wof:lastmodified":1529700199,
+    "wof:lastmodified":1566662764,
     "wof:name":"Meraker",
     "wof:parent_id":85687133,
     "wof:placetype":"localadmin",

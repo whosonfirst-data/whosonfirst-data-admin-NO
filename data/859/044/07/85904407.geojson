@@ -11,8 +11,10 @@
     "geom:longitude":10.39876,
     "gn:id":"",
     "iso:country":"NO",
+    "lbl:bbox":"10.39376,63.435996,10.40376,63.445996",
     "lbl:latitude":63.440996,
     "lbl:longitude":10.39876,
+    "lbl:max_zoom":18.0,
     "mps:latitude":63.448749,
     "mps:longitude":10.384938,
     "mz:hierarchy_label":0,
@@ -40,9 +42,6 @@
         "Brattora",
         "Bratt\u00f8ra"
     ],
-    "name:unk_x_variant":[
-        "Brattora"
-    ],
     "qs:gn_adm0_cc":"NO",
     "qs:gn_id":0,
     "qs:gn_local":3133880,
@@ -69,7 +68,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":195,
     "wof:belongsto":[
         1159297145,
@@ -79,7 +78,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20099939,
-        "qs:id":1087363,
         "qs_pg:id":1087363,
         "wd:id":"Q4958157"
     },
@@ -99,7 +97,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563571649,
+    "wof:lastmodified":1566661662,
     "wof:name":"Brattora",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

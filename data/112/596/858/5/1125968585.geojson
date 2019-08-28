@@ -9,14 +9,18 @@
     "geom:bbox":"7.9,58.23333,7.9,58.23333",
     "geom:latitude":58.23333,
     "geom:longitude":7.9,
-    "gn:gn_country":"NO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"NO",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"NO",
+    "lbl:bbox":"7.88,58.21333,7.92,58.25333",
     "lbl:latitude":58.23333,
     "lbl:longitude":7.9,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Mosby"
@@ -36,7 +40,7 @@
     "name:nob_x_preferred":[
         "Mosby"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u00d8vre Mosby"
     ],
     "qs_pg:aaroncc":"NO",
@@ -60,7 +64,7 @@
     "qs_pg:woe_adm0":23424910,
     "qs_pg:woe_id":861950,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424910,
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"Vest-Agder Fylke",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":1125968585,
-    "wof:lastmodified":1561769622,
+    "wof:lastmodified":1566662620,
     "wof:name":"Mosby",
     "wof:parent_id":1159296703,
     "wof:placetype":"locality",

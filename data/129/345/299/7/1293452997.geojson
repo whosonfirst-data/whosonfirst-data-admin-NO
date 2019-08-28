@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"17.66666,68.86152,17.70666,68.90152",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dalen"
     ],
@@ -50,8 +54,7 @@
     ],
     "name:und_x_variant":[
         "Salangsdalen",
-        "Salangsdal",
-        "Dalen"
+        "Salangsdal"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1293452997,
-    "wof:lastmodified":1564103349,
+    "wof:lastmodified":1566661796,
     "wof:name":"Dalen",
     "wof:parent_id":1159297455,
     "wof:placetype":"locality",

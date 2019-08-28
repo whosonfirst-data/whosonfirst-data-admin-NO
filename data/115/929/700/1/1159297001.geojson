@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":59.714943,
     "lbl:longitude":10.168822,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.714943,
     "mps:longitude":10.168822,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Drammen"
     ],
@@ -224,7 +227,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -244,7 +247,7 @@
         }
     ],
     "wof:id":1159297001,
-    "wof:lastmodified":1564104589,
+    "wof:lastmodified":1566662769,
     "wof:name":"Drammen",
     "wof:parent_id":85687105,
     "wof:placetype":"localadmin",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.170784,
+    "geom:area_square_m":1035061532.32185,
     "geom:bbox":"11.6413410771,60.471596064,12.5982869573,60.8908330398",
     "geom:latitude":60.650256,
     "geom:longitude":12.16763,
     "iso:country":"NO",
     "lbl:latitude":60.704181,
     "lbl:longitude":12.247365,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.704181,
     "mps:longitude":12.247365,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Asnes"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159297037,
-    "wof:lastmodified":1529700000,
+    "wof:lastmodified":1566662866,
     "wof:name":"Asnes",
     "wof:parent_id":85687117,
     "wof:placetype":"localadmin",

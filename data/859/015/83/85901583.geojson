@@ -14,6 +14,7 @@
     "iso:country":"NO",
     "lbl:latitude":59.94498,
     "lbl:longitude":10.921211,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.964244,
     "mps:longitude":10.947545,
     "mz:hierarchy_label":1,
@@ -42,9 +43,8 @@
     "name:nor_x_preferred":[
         "H\u00f8ybr\u00e5ten"
     ],
-    "name:unk_x_variant":[
-        "H\u00f6ybraaten",
-        "H\u00f8ybr\u00e5ten"
+    "name:und_x_variant":[
+        "H\u00f6ybraaten"
     ],
     "qs:gn_adm0_cc":"NO",
     "qs:gn_fcode":"PPLX",
@@ -73,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":59.933333,
     "wd:longitude":10.916667,
     "wd:wordcount":186,
@@ -88,7 +88,6 @@
     "wof:concordances":{
         "gn:id":3151570,
         "gp:id":860111,
-        "qs:id":1168834,
         "qs_pg:id":1168834,
         "wd:id":"Q11976564",
         "wk:page":"H\u00f8ybr\u00e5ten"
@@ -109,7 +108,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563571623,
+    "wof:lastmodified":1566661646,
     "wof:name":"H\u00f8ybr\u00e5ten",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

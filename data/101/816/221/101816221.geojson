@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":59.883033,
     "lbl:longitude":11.561628,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.883033,
     "mps:longitude":11.561628,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bj\u00f8rkelangen"
     ],
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":137,
     "wof:belongsto":[
@@ -99,7 +102,6 @@
         "fct:id":"01fc4c90-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3161346,
         "gp:id":857225,
-        "qs:id":1043347,
         "qs_pg:id":1043347,
         "wd:id":"Q1882693",
         "wk:page":"Bj\u00f8rkelangen"
@@ -119,7 +121,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572611,
+    "wof:lastmodified":1566662353,
     "wof:name":"Bj\u00f8rkelangen",
     "wof:parent_id":1159297207,
     "wof:placetype":"locality",

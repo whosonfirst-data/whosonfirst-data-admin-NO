@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":59.530275,
     "lbl:longitude":8.482352,
+    "lbl:min_zoom":8.0,
     "mps:latitude":59.530275,
     "mps:longitude":8.482352,
     "mz:hierarchy_label":1,
@@ -228,8 +229,8 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u043b\u0435\u043c\u0430\u0440\u043a"
     ],
-    "name:unk_x_variant":[
-        "Telemark  county"
+    "name:und_x_variant":[
+        "Telemark county"
     ],
     "name:urd_x_preferred":[
         "\u062a\u06cc\u0644\u06cc\u0645\u0627\u0631\u06a9"
@@ -316,9 +317,9 @@
     "qs:type":"Fylke",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-03",
+    "src:population_date":"2001-11-03",
     "statoids:area_km":"15,315",
     "statoids:area_mi":"5,913",
     "statoids:as_of_date":"2001-11-03",
@@ -366,11 +367,10 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1565731844,
+    "wof:lastmodified":1566661678,
     "wof:name":"Telemark",
     "wof:parent_id":85633341,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":165732,
     "wof:population_rank":9,

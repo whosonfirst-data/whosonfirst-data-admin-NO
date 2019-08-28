@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"14.44627,68.37319,14.48627,68.41319",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Straumnes"
     ],
@@ -37,8 +41,7 @@
         "Straumnes"
     ],
     "name:und_x_variant":[
-        "Str\u00f6mnes",
-        "Straumnes"
+        "Str\u00f6mnes"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1276650937,
-    "wof:lastmodified":1564103606,
+    "wof:lastmodified":1566661959,
     "wof:name":"Straumnes",
     "wof:parent_id":1159296883,
     "wof:placetype":"locality",

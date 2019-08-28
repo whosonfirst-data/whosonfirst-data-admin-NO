@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":62.329177,
     "lbl:longitude":5.643369,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":62.329177,
     "mps:longitude":5.643369,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0424\u043e\u0441\u043d\u0430\u0432\u0430\u0433"
     ],
@@ -79,7 +82,7 @@
     "name:swe_x_preferred":[
         "Fosnav\u00e5g"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Forsnevaag"
     ],
     "name:zho_x_preferred":[
@@ -101,7 +104,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1159297413,
@@ -112,7 +115,6 @@
     "wof:concordances":{
         "gn:id":3156680,
         "gp:id":858661,
-        "qs:id":481055,
         "qs_pg:id":481055,
         "wd:id":"Q1439388",
         "wk:page":"Fosnav\u00e5g"
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":101804115,
-    "wof:lastmodified":1563572670,
+    "wof:lastmodified":1566662370,
     "wof:name":"Fosnav\u00e5g/Leinstrand",
     "wof:parent_id":1159297413,
     "wof:placetype":"locality",

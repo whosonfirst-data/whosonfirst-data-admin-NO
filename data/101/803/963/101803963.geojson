@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":60.701856,
     "lbl:longitude":8.934345,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":60.701856,
     "mps:longitude":8.934345,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0642\u0648\u0644"
     ],
@@ -192,7 +195,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":218,
     "wof:belongsto":[
@@ -206,7 +209,6 @@
         "fct:id":"01fb3e04-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3155422,
         "gp:id":859003,
-        "qs:id":391917,
         "qs_pg:id":391917,
         "wd:id":"Q493301"
     },
@@ -225,7 +227,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572680,
+    "wof:lastmodified":1566662373,
     "wof:name":"Gol",
     "wof:parent_id":1159297373,
     "wof:placetype":"locality",

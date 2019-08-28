@@ -24,15 +24,16 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"8.71192,63.60909,8.75192,63.64909",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Melandsj\u00f8"
     ],
     "name:nor_x_preferred":[
-        "Melandsj\u00f8en"
-    ],
-    "name:und_x_variant":[
         "Melandsj\u00f8en"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1310673223,
-    "wof:lastmodified":1564104145,
+    "wof:lastmodified":1566662303,
     "wof:name":"Melandsjo",
     "wof:parent_id":1159297259,
     "wof:placetype":"locality",

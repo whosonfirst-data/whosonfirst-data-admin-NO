@@ -9,14 +9,18 @@
     "geom:bbox":"9.01667,59.68333,9.01667,59.68333",
     "geom:latitude":59.68333,
     "geom:longitude":9.01667,
-    "gn:gn_country":"NO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"NO",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"NO",
+    "lbl:bbox":"8.99667,59.66333,9.03667,59.70333",
     "lbl:latitude":59.68333,
     "lbl:longitude":9.01667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:dan_x_preferred":[
         "Gransherad"
@@ -42,7 +46,7 @@
     "name:nob_x_preferred":[
         "Gransherad"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gransherred"
     ],
     "qs_pg:aaroncc":"NO",
@@ -66,7 +70,7 @@
     "qs_pg:woe_adm0":23424910,
     "qs_pg:woe_id":859033,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424910,
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"Telemark Fylke",
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":1125872321,
-    "wof:lastmodified":1563573149,
+    "wof:lastmodified":1566662584,
     "wof:name":"Gransherad",
     "wof:parent_id":1159297293,
     "wof:placetype":"locality",

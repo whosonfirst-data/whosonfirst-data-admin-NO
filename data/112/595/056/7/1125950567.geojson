@@ -9,14 +9,18 @@
     "geom:bbox":"13.3,66.71667,13.3,66.71667",
     "geom:latitude":66.71667,
     "geom:longitude":13.3,
-    "gn:gn_country":"NO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"NO",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"NO",
+    "lbl:bbox":"13.28,66.69667,13.32,66.73667",
     "lbl:latitude":66.71667,
     "lbl:longitude":13.3,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:nno_x_preferred":[
         "V\u00e5ge"
@@ -24,7 +28,7 @@
     "name:nor_x_preferred":[
         "V\u00e5ge"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vaage"
     ],
     "qs_pg:aaroncc":"NO",
@@ -48,7 +52,7 @@
     "qs_pg:woe_adm0":23424910,
     "qs_pg:woe_id":865443,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424910,
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"Nordland Fylke",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1125950567,
-    "wof:lastmodified":1564104353,
+    "wof:lastmodified":1566662515,
     "wof:name":"V\u00e5ge",
     "wof:parent_id":1159296809,
     "wof:placetype":"locality",

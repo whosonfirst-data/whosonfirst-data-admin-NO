@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.155076,
+    "geom:area_square_m":696645723.2499,
     "geom:bbox":"15.5925416184,68.443341659,16.422474456,68.9317845168",
     "geom:latitude":68.696785,
     "geom:longitude":16.028724,
     "iso:country":"NO",
     "lbl:latitude":68.73183,
     "lbl:longitude":16.159731,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":68.73183,
     "mps:longitude":16.159731,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kvaefjord"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159297213,
-    "wof:lastmodified":1529700144,
+    "wof:lastmodified":1566662925,
     "wof:name":"Kvaefjord",
     "wof:parent_id":85687143,
     "wof:placetype":"localadmin",

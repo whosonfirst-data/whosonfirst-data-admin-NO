@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"8.20833,62.90556,8.24833,62.94556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jav_x_preferred":[
         "Sollia"
     ],
@@ -41,8 +45,7 @@
     ],
     "name:und_x_variant":[
         "Solli",
-        "Sollien",
-        "Sollia"
+        "Sollien"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1260100285,
-    "wof:lastmodified":1564103985,
+    "wof:lastmodified":1566662197,
     "wof:name":"Sollia",
     "wof:parent_id":1159297327,
     "wof:placetype":"locality",

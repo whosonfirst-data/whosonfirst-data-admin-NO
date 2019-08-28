@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000144,
+    "geom:area_square_m":895087.131047,
     "geom:bbox":"5.70088055262,59.8329592898,5.73673637246,59.8398716147",
     "geom:latitude":59.836132,
     "geom:longitude":5.71784,
     "iso:country":"NO",
     "lbl:latitude":59.836649,
     "lbl:longitude":5.716074,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.836649,
     "mps:longitude":5.716074,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Norge",
     "qs:a1":"*Hordaland",
     "qs:a1r":"0",
@@ -29,7 +33,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1159296949,
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":3132899,
         "gp:id":864723,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"NO",
     "wof:geomhash":"a7649bdfa268aae0917544cdeda13277",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":101803945,
-    "wof:lastmodified":1529700047,
+    "wof:lastmodified":1566662387,
     "wof:name":"Sunde/Valen",
     "wof:parent_id":1159296949,
     "wof:placetype":"locality",

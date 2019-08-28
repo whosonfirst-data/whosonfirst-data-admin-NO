@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":58.771698,
     "lbl:longitude":5.838759,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.771698,
     "mps:longitude":5.838759,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Figgjo"
     ],
@@ -37,9 +40,6 @@
     "name:ukr_x_preferred":[
         "\u0424\u0456\u0433\u0433\u0439\u043e"
     ],
-    "name:unk_x_variant":[
-        "Figgjo"
-    ],
     "qs:a0":"Norge",
     "qs:a1":"*Rogaland",
     "qs:a1r":"0",
@@ -54,7 +54,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1159297401,
@@ -65,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3157662,
         "gp:id":858375,
-        "qs:id":1267924,
+        "qs_pg:id":1267924,
         "wd:id":"Q5447711",
         "wk:page":"Figgjo"
     },
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":101803835,
-    "wof:lastmodified":1563572689,
+    "wof:lastmodified":1566662377,
     "wof:name":"\u00c5lg\u00e5rd/Figgjo",
     "wof:parent_id":1159297401,
     "wof:placetype":"locality",

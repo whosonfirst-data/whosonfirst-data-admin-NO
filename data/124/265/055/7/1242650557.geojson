@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"5.34336,61.29535,5.38336,61.33535",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Flekke"
     ],
@@ -46,8 +50,7 @@
         "Flekke"
     ],
     "name:und_x_variant":[
-        "Flekke i Sunnfjord",
-        "Flekke"
+        "Flekke i Sunnfjord"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1242650557,
-    "wof:lastmodified":1564105030,
+    "wof:lastmodified":1566663055,
     "wof:name":"Flekke",
     "wof:parent_id":1159297051,
     "wof:placetype":"locality",

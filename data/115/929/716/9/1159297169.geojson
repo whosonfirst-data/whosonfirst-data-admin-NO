@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.294016,
+    "geom:area_square_m":1543208239.090669,
     "geom:bbox":"10.9586019631,64.6979122913,12.5808877881,65.0777703075",
     "geom:latitude":64.882105,
     "geom:longitude":11.732169,
     "iso:country":"NO",
     "lbl:latitude":64.876249,
     "lbl:longitude":11.652345,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":64.876249,
     "mps:longitude":11.652345,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Naeroy"
     ],
@@ -28,7 +32,7 @@
     "no-geonorge:versjonid":"4.1",
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1159297169,
-    "wof:lastmodified":1529700143,
+    "wof:lastmodified":1566662937,
     "wof:name":"Naeroy",
     "wof:parent_id":85687133,
     "wof:placetype":"localadmin",

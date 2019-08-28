@@ -24,15 +24,16 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"22.50773,70.08878,22.54773,70.12878",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jav_x_preferred":[
         "\u00d8ksfjordbotn"
     ],
     "name:msa_x_preferred":[
-        "\u00d8ksfjordbotn"
-    ],
-    "name:und_x_variant":[
         "\u00d8ksfjordbotn"
     ],
     "src:geom":"geonames",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1259488131,
-    "wof:lastmodified":1564105115,
+    "wof:lastmodified":1566663108,
     "wof:name":"Oksfjordbotn",
     "wof:parent_id":1159297177,
     "wof:placetype":"locality",

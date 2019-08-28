@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":70.641059,
     "lbl:longitude":23.674516,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":70.641059,
     "mps:longitude":23.674516,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Rypefjord"
     ],
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":153,
     "wof:belongsto":[
@@ -99,7 +102,6 @@
         "fct:id":"01fc0abe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":847634,
         "gp:id":15000751,
-        "qs:id":1321357,
         "qs_pg:id":1321357,
         "wd:id":"Q1783401",
         "wk:page":"Rypefjord"
@@ -119,7 +121,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572793,
+    "wof:lastmodified":1566662408,
     "wof:name":"Rypefjord",
     "wof:parent_id":1159296825,
     "wof:placetype":"locality",

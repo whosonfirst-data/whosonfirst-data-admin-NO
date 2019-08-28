@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"4.99028,60.76583,5.03028,60.80583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Keila"
     ],
@@ -172,7 +176,7 @@
         }
     ],
     "wof:id":1259480127,
-    "wof:lastmodified":1564105113,
+    "wof:lastmodified":1566663107,
     "wof:name":"Keila",
     "wof:parent_id":1159296745,
     "wof:placetype":"locality",

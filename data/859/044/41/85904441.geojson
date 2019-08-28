@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":646694.273939,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.355845,63.410222,10.355845,63.410222",
     "geom:latitude":63.410222,
     "geom:longitude":10.355845,
     "gn:id":"",
     "iso:country":"NO",
+    "lbl:bbox":"10.350845,63.405222,10.360845,63.415222",
     "lbl:latitude":63.410222,
     "lbl:longitude":10.355845,
+    "lbl:max_zoom":18.0,
     "mps:latitude":63.409968,
     "mps:longitude":10.355576,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:nor_x_preferred":[
-        "Havstad"
-    ],
-    "name:unk_x_variant":[
         "Havstad"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -56,16 +55,15 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687127,
         1159297145,
-        101751927
+        101751927,
+        85687127
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20100093,
-        "qs:id":902232,
         "qs_pg:id":902232
     },
     "wof:country":"NO",
@@ -84,7 +82,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531936227,
+    "wof:lastmodified":1566661663,
     "wof:name":"Havstad",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000399,
-    "geom:area_square_m":2471029.775852,
+    "geom:area_square_m":2471029.775851,
     "geom:bbox":"10.8256465367,59.9151065265,10.8544921875,59.9371278962",
     "geom:latitude":59.924998,
     "geom:longitude":10.842713,
@@ -13,6 +13,7 @@
     "iso:country":"NO",
     "lbl:latitude":59.921914,
     "lbl:longitude":10.839895,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.924156,
     "mps:longitude":10.844428,
     "mz:hierarchy_label":1,
@@ -29,9 +30,6 @@
         "Tveita"
     ],
     "name:nor_x_preferred":[
-        "Tveita"
-    ],
-    "name:unk_x_variant":[
         "Tveita"
     ],
     "qs:gn_adm0_cc":"NO",
@@ -59,19 +57,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":106,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        101751917
+        101751917,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":865240,
-        "qs:id":242634,
         "qs_pg:id":242634
     },
     "wof:country":"NO",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1529700266,
+    "wof:lastmodified":1566661658,
     "wof:name":"Tveita",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

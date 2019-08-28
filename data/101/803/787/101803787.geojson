@@ -13,10 +13,13 @@
     "iso:country":"NO",
     "lbl:latitude":59.579743,
     "lbl:longitude":10.249577,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":59.579743,
     "mps:longitude":10.249577,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Selvik"
     ],
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":34,
     "wof:belongsto":[
@@ -83,7 +86,6 @@
         "fct:id":"01fd7dd6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3139826,
         "gp:id":863582,
-        "qs:id":145886,
         "qs_pg:id":145886,
         "wd:id":"Q2354706",
         "wk:page":"Selvik"
@@ -103,7 +105,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1563572726,
+    "wof:lastmodified":1566662387,
     "wof:name":"Selvik",
     "wof:parent_id":1159297057,
     "wof:placetype":"locality",

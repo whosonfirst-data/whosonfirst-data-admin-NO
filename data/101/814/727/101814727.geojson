@@ -12,10 +12,13 @@
     "iso:country":"NO",
     "lbl:latitude":70.201547,
     "lbl:longitude":28.179166,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":70.201547,
     "mps:longitude":28.179166,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tana bru"
     ],
@@ -83,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":164,
     "wof:belongsto":[
         102191581,
@@ -95,7 +98,6 @@
     "wof:concordances":{
         "gn:id":3159921,
         "gp:id":864873,
-        "qs:id":986940,
         "qs_pg:id":986940,
         "wd:id":"Q2256597",
         "wk:page":"Tana Bru"
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":101814727,
-    "wof:lastmodified":1563572844,
+    "wof:lastmodified":1566662421,
     "wof:name":"Tana Bru",
     "wof:parent_id":1159296751,
     "wof:placetype":"locality",

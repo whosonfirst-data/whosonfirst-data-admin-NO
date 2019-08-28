@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"16.03669,68.23199,16.07669,68.27199",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Korsnes"
     ],
@@ -49,8 +53,7 @@
         "Hierenj\u00e1rgga"
     ],
     "name:und_x_variant":[
-        "K\u00e5rsnes",
-        "Korsnes"
+        "K\u00e5rsnes"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1259572817,
-    "wof:lastmodified":1564105167,
+    "wof:lastmodified":1566663129,
     "wof:name":"Hierenjargga",
     "wof:parent_id":1159297109,
     "wof:placetype":"locality",

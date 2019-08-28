@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"11.39469,63.80243,11.43469,63.84243",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1242962383,
-    "wof:lastmodified":1537005743,
+    "wof:lastmodified":1566663054,
     "wof:name":"Nordskaget",
     "wof:parent_id":1159296801,
     "wof:placetype":"locality",

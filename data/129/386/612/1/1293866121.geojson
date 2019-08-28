@@ -25,15 +25,18 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"9.83607,62.82904,9.87607,62.86904",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Stamnan"
     ],
     "name:und_x_variant":[
         "Stavnan",
-        "Stavne",
-        "Stamnan"
+        "Stavne"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1293866121,
-    "wof:lastmodified":1564103394,
+    "wof:lastmodified":1566661825,
     "wof:name":"Stamnan",
     "wof:parent_id":1159297637,
     "wof:placetype":"locality",

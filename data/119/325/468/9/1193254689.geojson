@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"9.62884,59.09146,9.66884,59.13146",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Her\u00f8ya"
     ],
@@ -46,8 +50,7 @@
         "Herroya",
         "Heroyo",
         "Hoer\u00f6ya",
-        "Heroen",
-        "Her\u00f8ya"
+        "Heroen"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1193254689,
-    "wof:lastmodified":1564103887,
+    "wof:lastmodified":1566662129,
     "wof:name":"Heroya",
     "wof:parent_id":1159296755,
     "wof:placetype":"locality",

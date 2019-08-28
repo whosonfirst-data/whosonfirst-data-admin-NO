@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1001001.116949,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.381206,63.417802,10.381206,63.417802",
     "geom:latitude":63.417802,
     "geom:longitude":10.381206,
     "iso:country":"NO",
+    "lbl:bbox":"10.376206,63.412802,10.386206,63.422802",
     "lbl:latitude":63.417802,
     "lbl:longitude":10.381206,
+    "lbl:max_zoom":18.0,
     "mps:latitude":63.416312,
     "mps:longitude":10.379425,
     "mz:hierarchy_label":0,
@@ -47,9 +49,6 @@
     "name:swe_x_preferred":[
         "Marienborg"
     ],
-    "name:unk_x_variant":[
-        "Marienborg"
-    ],
     "qs:gn_adm0_cc":"NO",
     "qs:gn_id":0,
     "qs:gn_local":3133880,
@@ -76,12 +75,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":529,
     "wof:belongsto":[
-        85687127,
         1159297145,
-        101751927
+        101751927,
+        85687127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,7 +102,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1531936233,
+    "wof:lastmodified":1566661663,
     "wof:name":"Marienborg",
     "wof:parent_id":101751927,
     "wof:placetype":"neighbourhood",

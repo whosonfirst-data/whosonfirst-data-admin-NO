@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"14.98972,67.94944,15.02972,67.98944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09cd\u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09a1\u09be"
     ],
@@ -112,8 +116,7 @@
         "Stranda kommun"
     ],
     "name:und_x_variant":[
-        "Stranden",
-        "Stranda"
+        "Stranden"
     ],
     "name:vie_x_preferred":[
         "Stranda"
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":1310690967,
-    "wof:lastmodified":1564104137,
+    "wof:lastmodified":1566662298,
     "wof:name":"Stranda",
     "wof:parent_id":1159297343,
     "wof:placetype":"locality",

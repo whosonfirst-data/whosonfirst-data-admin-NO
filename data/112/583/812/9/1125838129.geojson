@@ -9,14 +9,18 @@
     "geom:bbox":"9.24997,59.32991,9.24997,59.32991",
     "geom:latitude":59.32991,
     "geom:longitude":9.24997,
-    "gn:gn_country":"NO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"NO",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"NO",
+    "lbl:bbox":"9.22997,59.30991,9.26997,59.34991",
     "lbl:latitude":59.32991,
     "lbl:longitude":9.24997,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Sandnes"
@@ -162,7 +166,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u043d\u0435\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sannes"
     ],
     "name:vol_x_preferred":[
@@ -195,7 +199,7 @@
     "qs_pg:woe_adm0":23424910,
     "qs_pg:woe_id":863434,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424910,
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"Telemark Fylke",
@@ -225,7 +229,7 @@
         }
     ],
     "wof:id":1125838129,
-    "wof:lastmodified":1564104534,
+    "wof:lastmodified":1566662726,
     "wof:name":"Sandnes",
     "wof:parent_id":1159296935,
     "wof:placetype":"locality",
