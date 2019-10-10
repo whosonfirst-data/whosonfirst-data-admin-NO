@@ -2,7 +2,7 @@
   "id": 85687127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2018-01-01",
     "edtf:inception":"uuuu",
     "geom:area":5.207597,
     "geom:area_square_m":28788237166.852615,
@@ -25,7 +25,7 @@
     "mps:latitude":63.836173,
     "mps:longitude":9.553081,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.7,
     "name:ara_x_preferred":[
@@ -388,7 +388,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1566661680,
+    "wof:lastmodified":1570734615,
     "wof:name":"S\u00f8r-Tr\u00f8ndelag",
     "wof:parent_id":-1,
     "wof:placetype":"region",
@@ -398,7 +398,9 @@
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:shortcode":"ST",
     "wof:subdivision":"NO-16",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1495115971
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
