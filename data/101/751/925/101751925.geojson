@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-10-11",
     "edtf:inception":"uuuu",
     "geom:area":0.006836,
     "geom:area_square_m":42594082.677566,
@@ -18,7 +19,7 @@
     "mps:latitude":59.742976,
     "mps:longitude":10.165509,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":6.1,
     "name:afr_x_preferred":[
         "Drammen"
@@ -516,14 +517,21 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1566662394,
+    "wof:lastmodified":1570830035,
     "wof:name":"Drammen",
     "wof:parent_id":1159297001,
     "wof:placetype":"locality",
     "wof:population":67895,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-no",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1495123973,
+        1495123975,
+        1495124031,
+        1495124033,
+        1495124035,
+        1495124039
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

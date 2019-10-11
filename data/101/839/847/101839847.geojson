@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-10-11",
     "edtf:inception":"uuuu",
     "geom:area":0.000417,
     "geom:area_square_m":2633505.993443,
@@ -18,7 +19,7 @@
     "mps:latitude":59.275144,
     "mps:longitude":10.747134,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lervik"
@@ -111,14 +112,18 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1566662421,
+    "wof:lastmodified":1570830043,
     "wof:name":"Lervik",
     "wof:parent_id":1159297385,
     "wof:placetype":"locality",
     "wof:population":2331,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-no",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1495124021,
+        1495124025,
+        1495124067
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

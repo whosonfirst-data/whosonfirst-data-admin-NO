@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-10-11",
     "edtf:inception":"uuuu",
     "geom:area":0.054085,
     "geom:area_square_m":335367146.229486,
@@ -18,7 +19,7 @@
     "mps:latitude":59.914112,
     "mps:longitude":10.80102,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
         "Oslo"
@@ -804,7 +805,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1566662396,
+    "wof:lastmodified":1570830042,
     "wof:megacity":1,
     "wof:name":"Oslo",
     "wof:parent_id":1159297167,
@@ -813,7 +814,22 @@
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:scale":1,
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1495123993,
+        1495123995,
+        1495123997,
+        1495123999,
+        1495124003,
+        1495124005,
+        1495124007,
+        1495124009,
+        1495124049,
+        1495124051,
+        1495124053,
+        1495124057,
+        1495124059,
+        1495124061
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

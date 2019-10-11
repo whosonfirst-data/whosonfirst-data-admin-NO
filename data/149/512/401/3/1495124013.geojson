@@ -1,0 +1,52 @@
+{
+  "id": 1495124013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000033,
+    "geom:area_square_m":205751.680353,
+    "geom:bbox":"10.411213784,59.6094210885,10.4239461128,59.616629347",
+    "geom:latitude":59.613608,
+    "geom:longitude":10.415377,
+    "iso:country":"NO",
+    "lbl:latitude":59.613893,
+    "lbl:longitude":10.413689,
+    "mps:latitude":59.613893,
+    "mps:longitude":10.413689,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Verket"
+    ],
+    "name:nob_x_preferred":[
+        "Verket"
+    ],
+    "src:geom":"whosonfirst",
+    "src:geom_via":"quattroshapes",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"NO",
+    "wof:created":1570830029,
+    "wof:geomhash":"22d2d4409448c04674c93864f9022e69",
+    "wof:hierarchy":[],
+    "wof:id":1495124013,
+    "wof:lastmodified":1570830029,
+    "wof:name":"Verket",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101815563
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.411213784022706,
+    59.60942108849093,
+    10.423946112799493,
+    59.616629347026475
+],
+  "geometry": {"coordinates":[[[10.41121378402271,59.61213233964742],[10.41180580341747,59.61662934702647],[10.41536239616335,59.61661882833806],[10.41534063473887,59.61481939121541],[10.41887536770258,59.61480882531879],[10.41886439540093,59.61390910761082],[10.4238978520095,59.61389364742515],[10.42394611279949,59.61299389429733],[10.41531887597125,59.6130199555335],[10.41527536640587,59.60942108849093],[10.41350827687324,59.60942633692957],[10.41354076920612,59.6121254871378],[10.41121378402271,59.61213233964742]]],"type":"Polygon"}
+}
