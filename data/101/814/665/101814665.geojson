@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-10-11",
     "edtf:inception":"uuuu",
     "geom:area":0.00139,
     "geom:area_square_m":6145855.446544,
@@ -17,7 +18,7 @@
     "mps:latitude":69.059085,
     "mps:longitude":18.515132,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Heggelia"
@@ -100,12 +101,15 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1566662418,
+    "wof:lastmodified":1570829035,
     "wof:name":"Heggelia",
     "wof:parent_id":1159296775,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1495123889,
+        1495123895
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
