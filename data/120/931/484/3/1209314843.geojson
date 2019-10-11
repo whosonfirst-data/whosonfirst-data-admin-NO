@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"10.41854,59.61351,10.41854,59.61351",
-    "geom:latitude":59.61351,
-    "geom:longitude":10.41854,
+    "geom:area":0.000033,
+    "geom:area_square_m":205751.680352,
+    "geom:bbox":"10.411213784,59.6094210885,10.4239461128,59.616629347",
+    "geom:latitude":59.613608,
+    "geom:longitude":10.415377,
     "gn:admin1_code":"4",
     "gn:admin2_code":"628",
     "gn:asciiname":"Verket",
@@ -25,6 +25,8 @@
     "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
     "lbl:bbox":"10.39854,59.59351,10.43854,59.63351",
+    "lbl:latitude":59.61351,
+    "lbl:longitude":10.41854,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -33,7 +35,11 @@
     "name:nor_x_preferred":[
         "Verket"
     ],
-    "src:geom":"geonames",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:geom_via":"quattroshapes",
     "wof:belongsto":[
         85633341
     ],
@@ -42,7 +48,7 @@
         "gn:id":9404455
     },
     "wof:country":"NO",
-    "wof:geomhash":"ad802131898933f230c6093732ae07dc",
+    "wof:geomhash":"f2a17b10a83569be24c0518b4d137648",
     "wof:hierarchy":[
         {
             "country_id":85633341,
@@ -50,20 +56,22 @@
         }
     ],
     "wof:id":1209314843,
-    "wof:lastmodified":1566661975,
+    "wof:lastmodified":1570837865,
     "wof:name":"Verket",
     "wof:parent_id":85633341,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101815563
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    10.41854,
-    59.61351,
-    10.41854,
-    59.61351
+    10.41121378402271,
+    59.60942108849093,
+    10.42394611279949,
+    59.61662934702647
 ],
-  "geometry": {"coordinates":[10.41854,59.61351],"type":"Point"}
+  "geometry": {"coordinates":[[[10.41121378402271,59.61213233964742],[10.41180580341747,59.61662934702647],[10.41536239616335,59.61661882833806],[10.41534063473887,59.61481939121541],[10.41887536770258,59.61480882531879],[10.41886439540093,59.61390910761082],[10.4238978520095,59.61389364742515],[10.42394611279949,59.61299389429733],[10.41531887597125,59.6130199555335],[10.41527536640587,59.60942108849093],[10.41350827687324,59.60942633692957],[10.41354076920612,59.6121254871378],[10.41121378402271,59.61213233964742]]],"type":"Polygon"}
 }
