@@ -9,7 +9,21 @@
     "geom:bbox":"10.5833654701,63.429599655,10.663944,63.443867",
     "geom:latitude":63.43657,
     "geom:longitude":10.62274,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5031",
+    "gn:asciiname":"Vikhamar",
     "gn:country":null,
+    "gn:country_code":"NO",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9403902,
+    "gn:latitude":63.43727,
+    "gn:longitude":10.62658,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Vikhamar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
     "lbl:bbox":"10.619743,63.418153,10.659743,63.458153",
     "lbl:latitude":63.438153,
@@ -68,6 +82,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":9403902,
         "gp:id":22660017,
         "qs_pg:id":44759,
         "wd:id":"Q7929424"
@@ -85,14 +100,15 @@
         }
     ],
     "wof:id":1125877245,
-    "wof:lastmodified":1570837862,
+    "wof:lastmodified":1571076292,
     "wof:name":"Vikhammer",
     "wof:parent_id":1159296821,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        101751927
+        101751927,
+        1276412743
     ],
     "wof:tags":[]
 },
