@@ -1,0 +1,83 @@
+{
+  "id": 1495148167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.3218,60.44946,5.3218,60.44946",
+    "geom:latitude":60.44946,
+    "geom:longitude":5.3218,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1201.0",
+    "gn:asciiname":"Astveit",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3162532,
+    "gn:latitude":60.44946,
+    "gn:longitude":5.3218,
+    "gn:modification_date":"2013-07-13",
+    "gn:name":"\u00c5stveit",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.3018,60.42946,5.3418,60.46946",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Vaagen",
+        "Aastvejt",
+        "Aastveit",
+        "\u00c5stveit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687099,
+        102191581,
+        1159297617,
+        85633341,
+        1259604579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3162532
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"141197b157fa02de38fced2fc5a38d76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":1259604579,
+            "neighbourhood_id":1495148167,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1495148167,
+    "wof:lastmodified":1571089536,
+    "wof:name":"Astveit",
+    "wof:parent_id":1159297617,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259604579
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.3218,
+    60.44946,
+    5.3218,
+    60.44946
+],
+  "geometry": {"coordinates":[5.3218,60.44946],"type":"Point"}
+}

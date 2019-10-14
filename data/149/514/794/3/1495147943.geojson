@@ -1,0 +1,79 @@
+{
+  "id": 1495147943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.78778,58.44233,8.78778,58.44233",
+    "geom:latitude":58.44233,
+    "geom:longitude":8.78778,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"906",
+    "gn:asciiname":"Jonsvold",
+    "gn:country_code":"NO",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404206,
+    "gn:latitude":58.44233,
+    "gn:longitude":8.78778,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Jonsvold",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"8.76778,58.42233,8.80778,58.46233",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Jonsvold"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687071,
+        102191581,
+        1159297607,
+        85633341,
+        1276451677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404206
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4618c682e4d00e53de71328ea1bbabc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297607,
+            "locality_id":1276451677,
+            "neighbourhood_id":1495147943,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1495147943,
+    "wof:lastmodified":1571089530,
+    "wof:name":"Jonsvold",
+    "wof:parent_id":1159297607,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276451677
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.78778,
+    58.44233000000001,
+    8.78778,
+    58.44233000000001
+],
+  "geometry": {"coordinates":[8.78778,58.44233000000001],"type":"Point"}
+}

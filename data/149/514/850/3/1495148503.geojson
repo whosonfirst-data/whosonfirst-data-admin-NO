@@ -1,0 +1,79 @@
+{
+  "id": 1495148503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.43221,67.25486,15.43221,67.25486",
+    "geom:latitude":67.25486,
+    "geom:longitude":15.43221,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1841.0",
+    "gn:asciiname":"Finneid",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3157622,
+    "gn:latitude":67.25486,
+    "gn:longitude":15.43221,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Finneid",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"15.41221,67.23486,15.45221,67.27486",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:deu_x_preferred":[
+        "Finneid"
+    ],
+    "name:nno_x_preferred":[
+        "Finneid"
+    ],
+    "name:nor_x_preferred":[
+        "Finneid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1209499619,
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3157622
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"7742676ef4d27e4febb6b7fbfd3ade77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209499619,
+            "neighbourhood_id":1495148503
+        }
+    ],
+    "wof:id":1495148503,
+    "wof:lastmodified":1571089546,
+    "wof:name":"Finneid",
+    "wof:parent_id":85633341,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209499619
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.43221,
+    67.25486,
+    15.43221,
+    67.25486
+],
+  "geometry": {"coordinates":[15.43221,67.25485999999999],"type":"Point"}
+}

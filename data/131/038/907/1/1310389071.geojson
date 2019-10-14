@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-10-14",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +29,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Str\u00f6mmen",
@@ -59,14 +60,16 @@
         }
     ],
     "wof:id":1310389071,
-    "wof:lastmodified":1571077282,
+    "wof:lastmodified":1571089566,
     "wof:name":"Straumen",
     "wof:parent_id":1159296757,
     "wof:placetype":"locality",
     "wof:population":1147,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-no",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1495149243
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

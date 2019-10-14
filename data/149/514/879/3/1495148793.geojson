@@ -1,0 +1,79 @@
+{
+  "id": 1495148793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.97777,58.26486,7.97777,58.26486",
+    "geom:latitude":58.26486,
+    "geom:longitude":7.97777,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1014",
+    "gn:asciiname":"Graslia",
+    "gn:country_code":"NO",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404461,
+    "gn:latitude":58.26486,
+    "gn:longitude":7.97777,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Graslia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"7.95777,58.24486,7.99777,58.28486",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Graslia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687063,
+        102191581,
+        1159296843,
+        85633341,
+        1242652633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404461
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b1a4d475351af9e918d979784918a930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296843,
+            "locality_id":1242652633,
+            "neighbourhood_id":1495148793,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1495148793,
+    "wof:lastmodified":1571089554,
+    "wof:name":"Graslia",
+    "wof:parent_id":1159296843,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1242652633
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.97777,
+    58.26486,
+    7.97777,
+    58.26486
+],
+  "geometry": {"coordinates":[7.97777,58.26486],"type":"Point"}
+}

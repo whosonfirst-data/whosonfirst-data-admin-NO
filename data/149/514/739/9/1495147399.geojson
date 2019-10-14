@@ -1,0 +1,90 @@
+{
+  "id": 1495147399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.042163,58.167133,8.042163,58.167133",
+    "geom:latitude":58.167133,
+    "geom:longitude":8.042163,
+    "gn:country":"NO",
+    "iso:country":"NO",
+    "lbl:bbox":"8.022163,58.147133,8.062163,58.187133",
+    "lbl:latitude":58.167133,
+    "lbl:longitude":8.042163,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:name":"Fagerholt",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Vest-Agder Fylke",
+    "qs_pg:photos":21,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":21,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":32422,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":22659687,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Vest-Agder Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85687063,
+        102191581,
+        1159296703,
+        85633341,
+        1125906415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22659687,
+        "qs_pg:id":32422
+    },
+    "wof:country":"NO",
+    "wof:created":1497296004,
+    "wof:geomhash":"316e7e2c2e7e2bf44107202b1c007192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296703,
+            "locality_id":1125906415,
+            "neighbourhood_id":1495147399,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1495147399,
+    "wof:lastmodified":1571089513,
+    "wof:name":"Fagerholt",
+    "wof:parent_id":1159296703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125906415
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.042163,
+    58.167133,
+    8.042163,
+    58.167133
+],
+  "geometry": {"coordinates":[8.042163,58.167133],"type":"Point"}
+}

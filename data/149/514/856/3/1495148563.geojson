@@ -1,0 +1,79 @@
+{
+  "id": 1495148563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.64177,62.34133,5.64177,62.34133",
+    "geom:latitude":62.34133,
+    "geom:longitude":5.64177,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1515",
+    "gn:asciiname":"Nordrevag",
+    "gn:country_code":"NO",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404070,
+    "gn:latitude":62.34133,
+    "gn:longitude":5.64177,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"N\u00f8rdrev\u00e5g",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.62177,62.32133,5.66177,62.36133",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "N\u00f8rdrev\u00e5g"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687123,
+        102191581,
+        1159297413,
+        85633341,
+        1260065963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404070
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"48948c7a44d4438075a507023c18fa44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297413,
+            "locality_id":1260065963,
+            "neighbourhood_id":1495148563,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1495148563,
+    "wof:lastmodified":1571089547,
+    "wof:name":"Nordrevag",
+    "wof:parent_id":1159297413,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1260065963
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.64177,
+    62.34133000000001,
+    5.64177,
+    62.34133000000001
+],
+  "geometry": {"coordinates":[5.64177,62.34133000000001],"type":"Point"}
+}

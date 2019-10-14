@@ -1,0 +1,92 @@
+{
+  "id": 1495148649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.20122,65.46315,12.20122,65.46315",
+    "geom:latitude":65.46315,
+    "geom:longitude":12.20122,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1813",
+    "gn:asciiname":"Tautra",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404089,
+    "gn:latitude":65.46315,
+    "gn:longitude":12.20122,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Tautra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"12.18122,65.44315,12.22122,65.48315",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Tautra"
+    ],
+    "name:ita_x_preferred":[
+        "Tautra"
+    ],
+    "name:jav_x_preferred":[
+        "Tautra"
+    ],
+    "name:msa_x_preferred":[
+        "Tautra"
+    ],
+    "name:nor_x_preferred":[
+        "Tautra"
+    ],
+    "name:pol_x_preferred":[
+        "Tautra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687135,
+        1159297445,
+        1242767321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404089
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"96e907d1c5623d25e9c123e64b2e4e3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297445,
+            "locality_id":1242767321,
+            "neighbourhood_id":1495148649,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1495148649,
+    "wof:lastmodified":1571089550,
+    "wof:name":"Tautra",
+    "wof:parent_id":1159297445,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1242767321
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.20122,
+    65.46315,
+    12.20122,
+    65.46315
+],
+  "geometry": {"coordinates":[12.20122,65.46315],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1495147489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.28234,63.05422,10.28234,63.05422",
+    "geom:latitude":63.05422,
+    "geom:longitude":10.28234,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5027.0",
+    "gn:asciiname":"Engan",
+    "gn:country_code":"NO",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3158241,
+    "gn:latitude":63.05422,
+    "gn:longitude":10.28234,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Engan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"10.26234,63.03422,10.30234,63.07422",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:deu_x_preferred":[
+        "Engan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687127,
+        1159296717,
+        1327315961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3158241
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b3a5ddf8db9fa8d8f868cfe48f608a5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296717,
+            "locality_id":1327315961,
+            "neighbourhood_id":1495147489,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1495147489,
+    "wof:lastmodified":1571089517,
+    "wof:name":"Engan",
+    "wof:parent_id":1159296717,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327315961
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.28234,
+    63.05422,
+    10.28234,
+    63.05422
+],
+  "geometry": {"coordinates":[10.28234,63.05422],"type":"Point"}
+}

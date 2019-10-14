@@ -1,0 +1,95 @@
+{
+  "id": 1495148255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.49058,59.86611,10.49058,59.86611",
+    "geom:latitude":59.86611,
+    "geom:longitude":10.49058,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"220.0",
+    "gn:asciiname":"Nesbru",
+    "gn:country_code":"NO",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8299525,
+    "gn:latitude":59.86611,
+    "gn:longitude":10.49058,
+    "gn:modification_date":"2017-09-23",
+    "gn:name":"Nesbru",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"10.47058,59.84611,10.51058,59.88611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Nesbru"
+    ],
+    "name:jav_x_preferred":[
+        "Nesbru"
+    ],
+    "name:msa_x_preferred":[
+        "Nesbru"
+    ],
+    "name:nno_x_preferred":[
+        "Nesbru"
+    ],
+    "name:nor_x_preferred":[
+        "Nesbru"
+    ],
+    "name:ron_x_preferred":[
+        "Nesbru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687095,
+        102191581,
+        1159296931,
+        85633341,
+        1343775837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8299525,
+        "wk:page":"Nesbru"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"68ffcd2a7cec1f92b98f8a136d1b546d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296931,
+            "locality_id":1343775837,
+            "neighbourhood_id":1495148255,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1495148255,
+    "wof:lastmodified":1571089539,
+    "wof:name":"Nesbru",
+    "wof:parent_id":1159296931,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343775837
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.49058,
+    59.86611,
+    10.49058,
+    59.86611
+],
+  "geometry": {"coordinates":[10.49058,59.86611],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1495148809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.42966,60.65842,6.42966,60.65842",
+    "geom:latitude":60.65842,
+    "geom:longitude":6.42966,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1235.0",
+    "gn:asciiname":"Skulestadmo",
+    "gn:country_code":"NO",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8659014,
+    "gn:latitude":60.65842,
+    "gn:longitude":6.42966,
+    "gn:modification_date":"2017-09-23",
+    "gn:name":"Skulestadmo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"6.40966,60.63842,6.44966,60.67842",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687099,
+        102191581,
+        1159296873,
+        85633341,
+        1343353141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8659014
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f92401b7bb3ea692c607d2ff14d0b81f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296873,
+            "locality_id":1343353141,
+            "neighbourhood_id":1495148809,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1495148809,
+    "wof:lastmodified":1571089554,
+    "wof:name":"Skulestadmo",
+    "wof:parent_id":1159296873,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343353141
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.42966,
+    60.65841999999999,
+    6.42966,
+    60.65841999999999
+],
+  "geometry": {"coordinates":[6.42966,60.65841999999999],"type":"Point"}
+}

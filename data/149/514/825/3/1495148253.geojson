@@ -1,0 +1,79 @@
+{
+  "id": 1495148253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.61065,59.69205,10.61065,59.69205",
+    "geom:latitude":59.69205,
+    "geom:longitude":10.61065,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"215.0",
+    "gn:asciiname":"Langebatfeltet",
+    "gn:country_code":"NO",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537246,
+    "gn:latitude":59.69205,
+    "gn:longitude":10.61065,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Langeb\u00e5tfeltet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"10.59065,59.67205,10.63065,59.71205",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Langeb\u00e5tfeltet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687095,
+        102191581,
+        1159297355,
+        85633341,
+        1327148745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537246
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"857f47beeca4cae0d9c523f81878d922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297355,
+            "locality_id":1327148745,
+            "neighbourhood_id":1495148253,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1495148253,
+    "wof:lastmodified":1571089539,
+    "wof:name":"Langebatfeltet",
+    "wof:parent_id":1159297355,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327148745
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.61065,
+    59.69205,
+    10.61065,
+    59.69205
+],
+  "geometry": {"coordinates":[10.61065,59.69205],"type":"Point"}
+}

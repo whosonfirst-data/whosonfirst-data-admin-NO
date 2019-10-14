@@ -1,0 +1,76 @@
+{
+  "id": 1495149173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.56667,59.2,9.56667,59.2",
+    "geom:latitude":59.2,
+    "geom:longitude":9.56667,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"806.0",
+    "gn:asciiname":"Grotsund",
+    "gn:country_code":"NO",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3154742,
+    "gn:latitude":59.2,
+    "gn:longitude":9.56667,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Grotsund",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"9.54667,59.18,9.58667,59.22",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687091,
+        102191581,
+        1159297035,
+        85633341,
+        1293453265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3154742
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"61fbfaf2ab47860d14212fc24fc6e31f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297035,
+            "locality_id":1293453265,
+            "neighbourhood_id":1495149173,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1495149173,
+    "wof:lastmodified":1571089564,
+    "wof:name":"Grotsund",
+    "wof:parent_id":1159297035,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293453265
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.56667,
+    59.2,
+    9.56667,
+    59.2
+],
+  "geometry": {"coordinates":[9.56667,59.2],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1495149137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.48028,59.27722,10.48028,59.27722",
+    "geom:latitude":59.27722,
+    "geom:longitude":10.48028,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"704.0",
+    "gn:asciiname":"Gauterod",
+    "gn:country_code":"NO",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3229979,
+    "gn:latitude":59.27722,
+    "gn:longitude":10.48028,
+    "gn:modification_date":"2010-10-15",
+    "gn:name":"Gauter\u00f8d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"10.46028,59.25722,10.50028,59.29722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687073,
+        102191581,
+        1159297321,
+        85633341,
+        1293162655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3229979
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f98d8b6b6bb755716cb2f855674c2de8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297321,
+            "locality_id":1293162655,
+            "neighbourhood_id":1495149137,
+            "region_id":85687073
+        }
+    ],
+    "wof:id":1495149137,
+    "wof:lastmodified":1571089563,
+    "wof:name":"Gauterod",
+    "wof:parent_id":1159297321,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293162655
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.48028,
+    59.27721999999999,
+    10.48028,
+    59.27721999999999
+],
+  "geometry": {"coordinates":[10.48028,59.27721999999999],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1495148431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.42894,63.44171,10.42894,63.44171",
+    "geom:latitude":63.44171,
+    "geom:longitude":10.42894,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5001",
+    "gn:asciiname":"Colonien",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404328,
+    "gn:latitude":63.44171,
+    "gn:longitude":10.42894,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Colonien",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"10.40894,63.42171,10.44894,63.46171",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Colonien"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687127,
+        1159297145,
+        1226312493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404328
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4f6b4662f8d40e84f4daba57b7d481f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297145,
+            "locality_id":1226312493,
+            "neighbourhood_id":1495148431,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1495148431,
+    "wof:lastmodified":1571089544,
+    "wof:name":"Colonien",
+    "wof:parent_id":1159297145,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226312493
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.42894,
+    63.44171,
+    10.42894,
+    63.44171
+],
+  "geometry": {"coordinates":[10.42894,63.44171],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1495148371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.45844,58.02494,7.45844,58.02494",
+    "geom:latitude":58.02494,
+    "geom:longitude":7.45844,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1002",
+    "gn:asciiname":"Nedre Malmo",
+    "gn:country_code":"NO",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404319,
+    "gn:latitude":58.02494,
+    "gn:longitude":7.45844,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Nedre Malm\u00f8",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"7.43844,58.00494,7.47844,58.04494",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Nedre Malm\u00f8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687063,
+        102191581,
+        1159297379,
+        85633341,
+        1360247543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404319
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f7b65443c70065f0dd95abebf2a7b773",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297379,
+            "locality_id":1360247543,
+            "neighbourhood_id":1495148371,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1495148371,
+    "wof:lastmodified":1571089542,
+    "wof:name":"Nedre Malmo",
+    "wof:parent_id":1159297379,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1360247543
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.45844,
+    58.02494,
+    7.45844,
+    58.02494
+],
+  "geometry": {"coordinates":[7.45844,58.02494],"type":"Point"}
+}

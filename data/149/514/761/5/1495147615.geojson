@@ -1,0 +1,84 @@
+{
+  "id": 1495147615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.28463,63.72741,11.28463,63.72741",
+    "geom:latitude":63.72741,
+    "geom:longitude":11.28463,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5037.0",
+    "gn:asciiname":"Momarka",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7731775,
+    "gn:latitude":63.72741,
+    "gn:longitude":11.28463,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Momarka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"11.26463,63.70741,11.30463,63.74741",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:jav_x_preferred":[
+        "Momarka"
+    ],
+    "name:msa_x_preferred":[
+        "Momarka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687133,
+        102191581,
+        1159297125,
+        85633341,
+        1242661283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7731775,
+        "wk:page":"Momarka"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"630c814b8119635250d5731fe7013753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297125,
+            "locality_id":1242661283,
+            "neighbourhood_id":1495147615,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1495147615,
+    "wof:lastmodified":1571089520,
+    "wof:name":"Momarka",
+    "wof:parent_id":1159297125,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1242661283
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.28463,
+    63.72741,
+    11.28463,
+    63.72741
+],
+  "geometry": {"coordinates":[11.28463,63.72741],"type":"Point"}
+}

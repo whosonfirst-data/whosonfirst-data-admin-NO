@@ -1,0 +1,88 @@
+{
+  "id": 1495148325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.5603605,67.289168,14.5603605,67.289168",
+    "geom:latitude":67.289168,
+    "geom:longitude":14.56036,
+    "gn:country":null,
+    "iso:country":"NO",
+    "lbl:bbox":"14.5403605,67.269168,14.5803605,67.309168",
+    "lbl:latitude":67.289168,
+    "lbl:longitude":14.56036,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Hunstad",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nordland Fylke",
+    "qs_pg:photos":96,
+    "qs_pg:photos_1k":19,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":96,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1089785,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":860156,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Nordland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85687135,
+        1159297465,
+        1125828363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":860156,
+        "qs_pg:id":1089785
+    },
+    "wof:country":"NO",
+    "wof:created":1497292379,
+    "wof:geomhash":"3e7801b23d268205f429e22ca75fb073",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297465,
+            "locality_id":1125828363,
+            "neighbourhood_id":1495148325,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1495148325,
+    "wof:lastmodified":1571089541,
+    "wof:name":"Hunstad",
+    "wof:parent_id":1159297465,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125828363
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.5603605,
+    67.289168,
+    14.5603605,
+    67.289168
+],
+  "geometry": {"coordinates":[14.5603605,67.289168],"type":"Point"}
+}

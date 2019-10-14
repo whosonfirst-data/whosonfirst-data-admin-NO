@@ -1,0 +1,99 @@
+{
+  "id": 1495147865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.64884,59.11146,9.64884,59.11146",
+    "geom:latitude":59.11146,
+    "geom:longitude":9.64884,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"805.0",
+    "gn:asciiname":"Heroya",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3152868,
+    "gn:latitude":59.11146,
+    "gn:longitude":9.64884,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Her\u00f8ya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"9.62884,59.09146,9.66884,59.13146",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:deu_x_preferred":[
+        "Her\u00f8ya"
+    ],
+    "name:fra_x_preferred":[
+        "Her\u00f8ya"
+    ],
+    "name:nld_x_preferred":[
+        "Her\u00f8ya"
+    ],
+    "name:nor_x_preferred":[
+        "Her\u00f8ya"
+    ],
+    "name:swe_x_preferred":[
+        "Her\u00f8ya"
+    ],
+    "name:und_x_variant":[
+        "Herroya",
+        "Heroyo",
+        "Hoer\u00f6ya",
+        "Heroen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687091,
+        102191581,
+        1159296755,
+        85633341,
+        1193254689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3152868,
+        "wk:page":"Her%C3%B8ya"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8e853b2ebd2872228dd9f2be2ce6e82b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296755,
+            "locality_id":1193254689,
+            "neighbourhood_id":1495147865,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1495147865,
+    "wof:lastmodified":1571089528,
+    "wof:name":"Heroya",
+    "wof:parent_id":1159296755,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1193254689
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.64884,
+    59.11146,
+    9.64884,
+    59.11146
+],
+  "geometry": {"coordinates":[9.64884,59.11146],"type":"Point"}
+}

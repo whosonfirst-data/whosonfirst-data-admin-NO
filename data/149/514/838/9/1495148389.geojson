@@ -1,0 +1,76 @@
+{
+  "id": 1495148389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.72784,59.04993,9.72784,59.04993",
+    "geom:latitude":59.04993,
+    "geom:longitude":9.72784,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"805.0",
+    "gn:asciiname":"Sandoystrand",
+    "gn:country_code":"NO",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3209592,
+    "gn:latitude":59.04993,
+    "gn:longitude":9.72784,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Sand\u00f8ystrand",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"9.70784,59.02993,9.74784,59.06993",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687091,
+        102191581,
+        1159296755,
+        85633341,
+        1243339831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3209592
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"97a8201d1fa3b2f1eb1df1fe7f1e3632",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296755,
+            "locality_id":1243339831,
+            "neighbourhood_id":1495148389,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1495148389,
+    "wof:lastmodified":1571089542,
+    "wof:name":"Sandoystrand",
+    "wof:parent_id":1159296755,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243339831
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.72784,
+    59.04993,
+    9.72784,
+    59.04993
+],
+  "geometry": {"coordinates":[9.72784,59.04993],"type":"Point"}
+}

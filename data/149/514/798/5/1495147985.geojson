@@ -1,0 +1,74 @@
+{
+  "id": 1495147985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.56615,68.23568,14.56615,68.23568",
+    "geom:latitude":68.23568,
+    "geom:longitude":14.56615,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1865.0",
+    "gn:asciiname":"Svolvaer (Lofoten)",
+    "gn:country_code":"NO",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6692394,
+    "gn:latitude":68.23568,
+    "gn:longitude":14.56615,
+    "gn:modification_date":"2010-10-15",
+    "gn:name":"Svolv\u00e6r (Lofoten)",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"14.54615,68.21568,14.58615,68.25568",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687135,
+        1159296883,
+        1310590789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6692394
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5a99ffd7493b3d281010e3cf5e0653ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296883,
+            "locality_id":1310590789,
+            "neighbourhood_id":1495147985,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1495147985,
+    "wof:lastmodified":1571089531,
+    "wof:name":"Svolvaer (Lofoten)",
+    "wof:parent_id":1159296883,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310590789
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.56615,
+    68.23568,
+    14.56615,
+    68.23568
+],
+  "geometry": {"coordinates":[14.56615,68.23568],"type":"Point"}
+}

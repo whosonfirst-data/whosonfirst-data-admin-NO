@@ -1,0 +1,92 @@
+{
+  "id": 1495148861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.38457,61.14558,10.38457,61.14558",
+    "geom:latitude":61.14558,
+    "geom:longitude":10.38457,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"501.0",
+    "gn:asciiname":"Jorstadmoen",
+    "gn:country_code":"NO",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558444,
+    "gn:latitude":61.14558,
+    "gn:longitude":10.38457,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"J\u00f8rstadmoen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"10.36457,61.12558,10.40457,61.16558",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:jav_x_preferred":[
+        "J\u00f8rstadmoen"
+    ],
+    "name:msa_x_preferred":[
+        "J\u00f8rstadmoen"
+    ],
+    "name:nor_x_preferred":[
+        "J\u00f8rstadmoen"
+    ],
+    "name:ron_x_preferred":[
+        "J\u00f8rstadmoen"
+    ],
+    "name:spa_x_preferred":[
+        "J\u00f8rstadmoen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687109,
+        102191581,
+        1159297519,
+        85633341,
+        1292988869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558444,
+        "wk:page":"J%C3%B8rstadmoen"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3faba770c912daab66443feb121d018c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297519,
+            "locality_id":1292988869,
+            "neighbourhood_id":1495148861,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1495148861,
+    "wof:lastmodified":1571089556,
+    "wof:name":"Jorstadmoen",
+    "wof:parent_id":1159297519,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1292988869
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.38457,
+    61.14558,
+    10.38457,
+    61.14558
+],
+  "geometry": {"coordinates":[10.38457,61.14558],"type":"Point"}
+}

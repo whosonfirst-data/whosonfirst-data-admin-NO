@@ -1,0 +1,130 @@
+{
+  "id": 1495148603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.325,60.47444,5.325,60.47444",
+    "geom:latitude":60.47444,
+    "geom:longitude":5.325,
+    "gn:country":"NO",
+    "gn:fcode":"PPL",
+    "gn:population":0,
+    "iso:country":"NO",
+    "lbl:bbox":"5.305,60.45444,5.345,60.49444",
+    "lbl:latitude":60.47444,
+    "lbl:longitude":5.325,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "\u00c5sane"
+    ],
+    "name:fra_x_preferred":[
+        "\u00c5sane"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30b5\u30cd"
+    ],
+    "name:lit_x_preferred":[
+        "Osan\u0117"
+    ],
+    "name:nld_x_preferred":[
+        "\u00c5sane"
+    ],
+    "name:nno_x_preferred":[
+        "\u00c5sane"
+    ],
+    "name:nob_x_preferred":[
+        "\u00c5sane"
+    ],
+    "name:por_x_preferred":[
+        "\u00c5sane"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c5sane"
+    ],
+    "name:tur_x_preferred":[
+        "\u00c5sane"
+    ],
+    "name:und_x_variant":[
+        "Aasane"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3162778,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"\u00c5sane",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Hordaland Fylke",
+    "qs_pg:photos":92,
+    "qs_pg:photos_1k":19,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":92,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":2981,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":856775,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Hordaland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85687099,
+        102191581,
+        1159297617,
+        85633341,
+        1125869637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3162778,
+        "gp:id":856775,
+        "qs_pg:id":2981,
+        "wd:id":"Q2403843"
+    },
+    "wof:country":"NO",
+    "wof:created":1497294223,
+    "wof:geomhash":"c313787f684e2193b5dc34569f4d3020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":1125869637,
+            "neighbourhood_id":1495148603,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1495148603,
+    "wof:lastmodified":1571089548,
+    "wof:name":"\u00c5sane",
+    "wof:parent_id":1159297617,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125869637
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.325,
+    60.47444,
+    5.325,
+    60.47444
+],
+  "geometry": {"coordinates":[5.325,60.47444],"type":"Point"}
+}

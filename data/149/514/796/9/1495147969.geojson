@@ -1,0 +1,77 @@
+{
+  "id": 1495147969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.12897,66.35038,14.12897,66.35038",
+    "geom:latitude":66.35038,
+    "geom:longitude":14.12897,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1833.0",
+    "gn:asciiname":"Sigridplassen",
+    "gn:country_code":"NO",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536890,
+    "gn:latitude":66.35038,
+    "gn:longitude":14.12897,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Sigridplassen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"14.10897,66.33038,14.14897,66.37038",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Sigridplassen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687135,
+        1159296963,
+        1243156679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536890
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e3cfbc6a906cc4492d67b85f27d0be84",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296963,
+            "locality_id":1243156679,
+            "neighbourhood_id":1495147969,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1495147969,
+    "wof:lastmodified":1571089531,
+    "wof:name":"Sigridplassen",
+    "wof:parent_id":1159296963,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243156679
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.12897,
+    66.35038,
+    14.12897,
+    66.35038
+],
+  "geometry": {"coordinates":[14.12897,66.35038],"type":"Point"}
+}

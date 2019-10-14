@@ -1,0 +1,79 @@
+{
+  "id": 1495147571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.29866,60.33095,5.29866,60.33095",
+    "geom:latitude":60.33095,
+    "geom:longitude":5.29866,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1201",
+    "gn:asciiname":"Bonesberget",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404509,
+    "gn:latitude":60.33095,
+    "gn:longitude":5.29866,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"B\u00f8nesberget",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.27866,60.31095,5.31866,60.35095",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "B\u00f8nesberget"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687099,
+        102191581,
+        1159297617,
+        85633341,
+        1277068377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404509
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b314c56112817197e4aac949b852af29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":1277068377,
+            "neighbourhood_id":1495147571,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1495147571,
+    "wof:lastmodified":1571089519,
+    "wof:name":"Bonesberget",
+    "wof:parent_id":1159297617,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1277068377
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.29866,
+    60.33095,
+    5.29866,
+    60.33095
+],
+  "geometry": {"coordinates":[5.29866,60.33095],"type":"Point"}
+}

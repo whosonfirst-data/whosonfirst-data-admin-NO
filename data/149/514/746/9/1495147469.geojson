@@ -1,0 +1,77 @@
+{
+  "id": 1495147469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.45512,67.31654,14.45512,67.31654",
+    "geom:latitude":67.31654,
+    "geom:longitude":14.45512,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1804",
+    "gn:asciiname":"Storvollen",
+    "gn:country_code":"NO",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9403956,
+    "gn:latitude":67.31654,
+    "gn:longitude":14.45512,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Storvollen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"14.43512,67.29654,14.47512,67.33654",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Storvollen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687135,
+        1159297465,
+        1327318293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9403956
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2e5230b1d64f480761843630c4fc55c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297465,
+            "locality_id":1327318293,
+            "neighbourhood_id":1495147469,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1495147469,
+    "wof:lastmodified":1571089516,
+    "wof:name":"Storvollen",
+    "wof:parent_id":1159297465,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327318293
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.45512,
+    67.31654,
+    14.45512,
+    67.31654
+],
+  "geometry": {"coordinates":[14.45512,67.31654],"type":"Point"}
+}

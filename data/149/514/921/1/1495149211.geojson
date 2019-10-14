@@ -1,0 +1,77 @@
+{
+  "id": 1495149211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.40886,65.53357,13.40886,65.53357",
+    "geom:latitude":65.53357,
+    "geom:longitude":13.40886,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1825",
+    "gn:asciiname":"Aspneset",
+    "gn:country_code":"NO",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404233,
+    "gn:latitude":65.53357,
+    "gn:longitude":13.40886,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Aspneset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"13.38886,65.51357,13.42886,65.55357",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Aspneset"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687135,
+        1159297571,
+        1243539083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404233
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d889ba3568d187d783ec9b74e999dc98",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297571,
+            "locality_id":1243539083,
+            "neighbourhood_id":1495149211,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1495149211,
+    "wof:lastmodified":1571089565,
+    "wof:name":"Aspneset",
+    "wof:parent_id":1159297571,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243539083
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.40886,
+    65.53357,
+    13.40886,
+    65.53357
+],
+  "geometry": {"coordinates":[13.40886,65.53357],"type":"Point"}
+}

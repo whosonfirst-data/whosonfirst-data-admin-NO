@@ -1,0 +1,90 @@
+{
+  "id": 1495148459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.25917,69.97194,23.25917,69.97194",
+    "geom:latitude":69.97194,
+    "geom:longitude":23.25917,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2012.0",
+    "gn:asciiname":"Bossekop",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":780604,
+    "gn:latitude":69.97194,
+    "gn:longitude":23.25917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bossekop",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"23.23917,69.95194,23.27917,69.99194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:fin_x_preferred":[
+        "Possukoppa"
+    ],
+    "name:nor_x_preferred":[
+        "Bossekop"
+    ],
+    "name:swe_x_preferred":[
+        "Bossekop"
+    ],
+    "name:und_x_variant":[
+        "Bosekop"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687145,
+        102191581,
+        1159296893,
+        85633341,
+        1293223241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":780604,
+        "wk:page":"Bossekop"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8e204209a0c72040b3adffcc3750b693",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296893,
+            "locality_id":1293223241,
+            "neighbourhood_id":1495148459,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":1495148459,
+    "wof:lastmodified":1571089544,
+    "wof:name":"Bossekop",
+    "wof:parent_id":1159296893,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293223241
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.25917,
+    69.97194,
+    23.25917,
+    69.97194
+],
+  "geometry": {"coordinates":[23.25917,69.97194],"type":"Point"}
+}

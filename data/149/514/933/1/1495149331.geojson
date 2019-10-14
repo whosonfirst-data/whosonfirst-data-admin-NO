@@ -1,0 +1,83 @@
+{
+  "id": 1495149331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.79694,61.3085,7.79694,61.3085",
+    "geom:latitude":61.3085,
+    "geom:longitude":7.79694,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1424.0",
+    "gn:asciiname":"Farnes",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3143034,
+    "gn:latitude":61.3085,
+    "gn:longitude":7.79694,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Farnes",
+    "gn:population":3465,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"7.77694,61.2885,7.81694,61.3285",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
+        "\u00d8vre Aardal",
+        "\u00d8vre \u00c5rdal"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85687113,
+        102191581,
+        1159296749,
+        85633341,
+        1276628161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3143034
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c72dc97720298a5e87ac217d3bf5859e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296749,
+            "locality_id":1276628161,
+            "neighbourhood_id":1495149331,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1495149331,
+    "wof:lastmodified":1571089568,
+    "wof:name":"Farnes",
+    "wof:parent_id":1159296749,
+    "wof:placetype":"neighbourhood",
+    "wof:population":3465,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276628161
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.79694,
+    61.3085,
+    7.79694,
+    61.3085
+],
+  "geometry": {"coordinates":[7.79694,61.3085],"type":"Point"}
+}

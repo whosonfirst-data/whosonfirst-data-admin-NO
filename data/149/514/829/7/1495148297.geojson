@@ -1,0 +1,79 @@
+{
+  "id": 1495148297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.19634,59.27136,5.19634,59.27136",
+    "geom:latitude":59.27136,
+    "geom:longitude":5.19634,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1149",
+    "gn:asciiname":"Sevlandsvik",
+    "gn:country_code":"NO",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9403989,
+    "gn:latitude":59.27136,
+    "gn:longitude":5.19634,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Sevlandsvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.17634,59.25136,5.21634,59.29136",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Sevlandsvik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687085,
+        102191581,
+        1159297005,
+        85633341,
+        1343841297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9403989
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"eb35ce250d58dfa353ef99449f1ab707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297005,
+            "locality_id":1343841297,
+            "neighbourhood_id":1495148297,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1495148297,
+    "wof:lastmodified":1571089540,
+    "wof:name":"Sevlandsvik",
+    "wof:parent_id":1159297005,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343841297
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.19634,
+    59.27136,
+    5.19634,
+    59.27136
+],
+  "geometry": {"coordinates":[5.19634,59.27136],"type":"Point"}
+}

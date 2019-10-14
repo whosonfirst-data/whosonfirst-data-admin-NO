@@ -1,0 +1,112 @@
+{
+  "id": 1495148155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.656053,59.850489,10.656053,59.850489",
+    "geom:latitude":59.850489,
+    "geom:longitude":10.656053,
+    "gn:country":null,
+    "iso:country":"NO",
+    "lbl:bbox":"10.636053,59.830489,10.676053,59.870489",
+    "lbl:latitude":59.850489,
+    "lbl:longitude":10.656053,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Flaskebekk"
+    ],
+    "name:eng_x_preferred":[
+        "Flaskebekk"
+    ],
+    "name:fra_x_preferred":[
+        "Flaskebekk"
+    ],
+    "name:jav_x_preferred":[
+        "Flaskebekk"
+    ],
+    "name:msa_x_preferred":[
+        "Flaskebekk"
+    ],
+    "name:nld_x_preferred":[
+        "Flaskebekk"
+    ],
+    "name:nob_x_preferred":[
+        "Flaskebekk"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Flaskebekk",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Akershus Fylke",
+    "qs_pg:photos":67,
+    "qs_pg:photos_1k":14,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":67,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1089494,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":858504,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Akershus Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85687095,
+        102191581,
+        1159297221,
+        85633341,
+        1125827909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":858504,
+        "qs_pg:id":1089494,
+        "wd:id":"Q5457677"
+    },
+    "wof:country":"NO",
+    "wof:created":1497292361,
+    "wof:geomhash":"549531ffba2013173c12f1d497545c92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297221,
+            "locality_id":1125827909,
+            "neighbourhood_id":1495148155,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1495148155,
+    "wof:lastmodified":1571089536,
+    "wof:name":"Flaskebekk",
+    "wof:parent_id":1159297221,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125827909
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.656053,
+    59.850489,
+    10.656053,
+    59.850489
+],
+  "geometry": {"coordinates":[10.656053,59.850489],"type":"Point"}
+}

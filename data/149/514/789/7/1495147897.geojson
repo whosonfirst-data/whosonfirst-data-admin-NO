@@ -1,0 +1,76 @@
+{
+  "id": 1495147897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.59393,69.14453,18.59393,69.14453",
+    "geom:latitude":69.14453,
+    "geom:longitude":18.59393,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1924.0",
+    "gn:asciiname":"Olsborg",
+    "gn:country_code":"NO",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3143602,
+    "gn:latitude":69.14453,
+    "gn:longitude":18.59393,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Olsborg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"18.57393,69.12453,18.61393,69.16453",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687143,
+        102191581,
+        1159296775,
+        85633341,
+        1293067327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3143602
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8e859c20c34b36820e112dadd9a688c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296775,
+            "locality_id":1293067327,
+            "neighbourhood_id":1495147897,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1495147897,
+    "wof:lastmodified":1571089529,
+    "wof:name":"Olsborg",
+    "wof:parent_id":1159296775,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293067327
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.59393,
+    69.14453,
+    18.59393,
+    69.14453
+],
+  "geometry": {"coordinates":[18.59393,69.14453],"type":"Point"}
+}

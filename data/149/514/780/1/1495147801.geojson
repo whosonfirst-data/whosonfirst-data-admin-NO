@@ -1,0 +1,83 @@
+{
+  "id": 1495147801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.36499,63.38983,10.36499,63.38983",
+    "geom:latitude":63.38983,
+    "geom:longitude":10.36499,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5001",
+    "gn:asciiname":"Selsbakk",
+    "gn:country_code":"NO",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404083,
+    "gn:latitude":63.38983,
+    "gn:longitude":10.36499,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Selsbakk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"10.34499,63.36983,10.38499,63.40983",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:fra_x_preferred":[
+        "Selsbakk"
+    ],
+    "name:nor_x_preferred":[
+        "Selsbakk"
+    ],
+    "name:ron_x_preferred":[
+        "Selsbakk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687127,
+        1159297145,
+        1293372091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404083
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3d493c8bfca02c57055f9c176fa09700",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297145,
+            "locality_id":1293372091,
+            "neighbourhood_id":1495147801,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1495147801,
+    "wof:lastmodified":1571089526,
+    "wof:name":"Selsbakk",
+    "wof:parent_id":1159297145,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293372091
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.36499,
+    63.38983,
+    10.36499,
+    63.38983
+],
+  "geometry": {"coordinates":[10.36499,63.38983],"type":"Point"}
+}

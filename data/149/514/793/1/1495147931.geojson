@@ -1,0 +1,76 @@
+{
+  "id": 1495147931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.57573,58.93292,5.57573,58.93292",
+    "geom:latitude":58.93292,
+    "geom:longitude":5.57573,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tananger havn",
+    "gn:country_code":"NO",
+    "gn:dem":-3,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8051520,
+    "gn:latitude":58.93292,
+    "gn:longitude":5.57573,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Tananger havn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.55573,58.91292,5.59573,58.95292",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687085,
+        102191581,
+        1159297501,
+        85633341,
+        1226126071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051520
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d04360bd945886bbc8d4e9eee17de579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297501,
+            "locality_id":1226126071,
+            "neighbourhood_id":1495147931,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1495147931,
+    "wof:lastmodified":1571089530,
+    "wof:name":"Tananger havn",
+    "wof:parent_id":1159297501,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226126071
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.57573,
+    58.93292,
+    5.57573,
+    58.93292
+],
+  "geometry": {"coordinates":[5.57573,58.93292],"type":"Point"}
+}

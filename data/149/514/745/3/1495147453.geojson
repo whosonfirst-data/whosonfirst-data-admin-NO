@@ -1,0 +1,112 @@
+{
+  "id": 1495147453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.75,58.85,5.75,58.85",
+    "geom:latitude":58.85,
+    "geom:longitude":5.75,
+    "gn:country":"NO",
+    "gn:fcode":"PPL",
+    "gn:population":0,
+    "iso:country":"NO",
+    "lbl:bbox":"5.73,58.83,5.77,58.87",
+    "lbl:latitude":58.85,
+    "lbl:longitude":5.75,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Austr\u00e5tt"
+    ],
+    "name:eng_x_preferred":[
+        "Austr\u00e5tt"
+    ],
+    "name:nno_x_preferred":[
+        "Austr\u00e5tt i Sandnes"
+    ],
+    "name:nob_x_preferred":[
+        "Austr\u00e5tt"
+    ],
+    "name:und_x_variant":[
+        "Austraat"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3162297,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Austr\u00e5tt",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Rogaland Fylke",
+    "qs_pg:photos":22,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":22,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":416495,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":856924,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Rogaland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85687085,
+        102191581,
+        1159296819,
+        85633341,
+        1125972611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3162297,
+        "gp:id":856924,
+        "qs_pg:id":416495,
+        "wd:id":"Q4584248"
+    },
+    "wof:country":"NO",
+    "wof:created":1497298231,
+    "wof:geomhash":"d815108363e4893d2eb317a36297d790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296819,
+            "locality_id":1125972611,
+            "neighbourhood_id":1495147453,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1495147453,
+    "wof:lastmodified":1571089515,
+    "wof:name":"Austr\u00e5tt",
+    "wof:parent_id":1159296819,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125972611
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.75,
+    58.85,
+    5.75,
+    58.85
+],
+  "geometry": {"coordinates":[5.75,58.85],"type":"Point"}
+}

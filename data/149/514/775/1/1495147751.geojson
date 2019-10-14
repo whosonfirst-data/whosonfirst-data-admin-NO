@@ -1,0 +1,79 @@
+{
+  "id": 1495147751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.64222,59.12851,9.64222,59.12851",
+    "geom:latitude":59.12851,
+    "geom:longitude":9.64222,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"805",
+    "gn:asciiname":"Oyekast",
+    "gn:country_code":"NO",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404162,
+    "gn:latitude":59.12851,
+    "gn:longitude":9.64222,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"\u00d8yekast",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"9.62222,59.10851,9.66222,59.14851",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "\u00d8yekast"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687091,
+        102191581,
+        1159296755,
+        85633341,
+        1276725655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404162
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1da3aece5a0be9cda4bf044dce5b9869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296755,
+            "locality_id":1276725655,
+            "neighbourhood_id":1495147751,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1495147751,
+    "wof:lastmodified":1571089524,
+    "wof:name":"Oyekast",
+    "wof:parent_id":1159296755,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276725655
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.64222,
+    59.12851,
+    9.64222,
+    59.12851
+],
+  "geometry": {"coordinates":[9.64222,59.12851],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1495147387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.65,59.16667,9.65,59.16667",
+    "geom:latitude":59.16667,
+    "geom:longitude":9.65,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"806.0",
+    "gn:asciiname":"Menstad",
+    "gn:country_code":"NO",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3146027,
+    "gn:latitude":59.16667,
+    "gn:longitude":9.65,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Menstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"9.63,59.14667,9.67,59.18667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687091,
+        102191581,
+        1159297035,
+        85633341,
+        1226617585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3146027
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"67877bc8dab89b91e297afd62768a1c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297035,
+            "locality_id":1226617585,
+            "neighbourhood_id":1495147387,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1495147387,
+    "wof:lastmodified":1571089512,
+    "wof:name":"Menstad",
+    "wof:parent_id":1159297035,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226617585
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.65,
+    59.16667,
+    9.65,
+    59.16667
+],
+  "geometry": {"coordinates":[9.65,59.16667],"type":"Point"}
+}

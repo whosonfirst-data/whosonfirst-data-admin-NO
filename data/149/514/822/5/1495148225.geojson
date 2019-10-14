@@ -1,0 +1,79 @@
+{
+  "id": 1495148225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.72592,59.00772,9.72592,59.00772",
+    "geom:latitude":59.00772,
+    "geom:longitude":9.72592,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"814",
+    "gn:asciiname":"Nustad eiendom",
+    "gn:country_code":"NO",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404353,
+    "gn:latitude":59.00772,
+    "gn:longitude":9.72592,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Nustad eiendom",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"9.70592,58.98772,9.74592,59.02772",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Nustad eiendom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687091,
+        102191581,
+        1159296837,
+        85633341,
+        1343834351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404353
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"419e03bbf8c1ffd76ab89d1cd9a45106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296837,
+            "locality_id":1343834351,
+            "neighbourhood_id":1495148225,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1495148225,
+    "wof:lastmodified":1571089538,
+    "wof:name":"Nustad eiendom",
+    "wof:parent_id":1159296837,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343834351
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.72592,
+    59.00771999999999,
+    9.72592,
+    59.00771999999999
+],
+  "geometry": {"coordinates":[9.72592,59.00771999999999],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1495148657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.5529045,59.8887425,10.5529045,59.8887425",
+    "geom:latitude":59.888742,
+    "geom:longitude":10.552905,
+    "gn:country":null,
+    "iso:country":"NO",
+    "lbl:bbox":"10.5329045,59.8687425,10.5729045,59.9087425",
+    "lbl:latitude":59.888742,
+    "lbl:longitude":10.552905,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kunstsentret Hovikodden",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Akershus Fylke",
+    "qs_pg:photos":14,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":14,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1181326,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":23424693,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Akershus Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85687095,
+        102191581,
+        1159297009,
+        85633341,
+        1125860423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23424693,
+        "qs_pg:id":1181326
+    },
+    "wof:country":"NO",
+    "wof:created":1497293805,
+    "wof:geomhash":"72a89f821380b2f47eebc163c63d08d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297009,
+            "locality_id":1125860423,
+            "neighbourhood_id":1495148657,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1495148657,
+    "wof:lastmodified":1571089550,
+    "wof:name":"Kunstsentret Hovikodden",
+    "wof:parent_id":1159297009,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125860423
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.5529045,
+    59.8887425,
+    10.5529045,
+    59.8887425
+],
+  "geometry": {"coordinates":[10.5529045,59.8887425],"type":"Point"}
+}

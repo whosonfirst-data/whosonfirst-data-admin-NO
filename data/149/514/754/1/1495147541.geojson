@@ -1,0 +1,94 @@
+{
+  "id": 1495147541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.47368,59.25204,10.47368,59.25204",
+    "geom:latitude":59.25204,
+    "geom:longitude":10.47368,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"704",
+    "gn:asciiname":"Husvik",
+    "gn:country_code":"NO",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9403979,
+    "gn:latitude":59.25204,
+    "gn:longitude":10.47368,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Husvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"10.45368,59.23204,10.49368,59.27204",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:ang_x_preferred":[
+        "Husvik"
+    ],
+    "name:deu_x_preferred":[
+        "Husvik"
+    ],
+    "name:fra_x_preferred":[
+        "Husvik"
+    ],
+    "name:nno_x_preferred":[
+        "Husvik"
+    ],
+    "name:nor_x_preferred":[
+        "Husvik"
+    ],
+    "name:spa_x_preferred":[
+        "Husvik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687073,
+        102191581,
+        1159297321,
+        85633341,
+        1259841271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9403979
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8a9ddcb0cc7fb1ab2c71a98b7d7283dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297321,
+            "locality_id":1259841271,
+            "neighbourhood_id":1495147541,
+            "region_id":85687073
+        }
+    ],
+    "wof:id":1495147541,
+    "wof:lastmodified":1571089518,
+    "wof:name":"Husvik",
+    "wof:parent_id":1159297321,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259841271
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.47368,
+    59.25204,
+    10.47368,
+    59.25204
+],
+  "geometry": {"coordinates":[10.47368,59.25204],"type":"Point"}
+}

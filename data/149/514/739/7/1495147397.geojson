@@ -1,0 +1,73 @@
+{
+  "id": 1495147397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.42988,67.28958,14.42988,67.28958",
+    "geom:latitude":67.28958,
+    "geom:longitude":14.42988,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1804",
+    "gn:asciiname":"Myrvoll",
+    "gn:country_code":"NO",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404221,
+    "gn:latitude":67.28958,
+    "gn:longitude":14.42988,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Myrvoll",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"14.40988,67.26958,14.44988,67.30958",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Myrvoll"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1209101847,
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404221
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5311d862d00e6f574ad469461fa416f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209101847,
+            "neighbourhood_id":1495147397
+        }
+    ],
+    "wof:id":1495147397,
+    "wof:lastmodified":1571089513,
+    "wof:name":"Myrvoll",
+    "wof:parent_id":85633341,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209101847
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.42988,
+    67.28958,
+    14.42988,
+    67.28958
+],
+  "geometry": {"coordinates":[14.42988,67.28958],"type":"Point"}
+}

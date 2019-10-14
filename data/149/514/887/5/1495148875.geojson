@@ -1,0 +1,76 @@
+{
+  "id": 1495148875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.68575,58.9571,5.68575,58.9571",
+    "geom:latitude":58.9571,
+    "geom:longitude":5.68575,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1103.0",
+    "gn:asciiname":"Sanddal",
+    "gn:country_code":"NO",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3227415,
+    "gn:latitude":58.9571,
+    "gn:longitude":5.68575,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Sanddal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.66575,58.9371,5.70575,58.9771",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687085,
+        102191581,
+        1159297103,
+        85633341,
+        1292984331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3227415
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"77fbc8aff891f1f54fd14a6da6e1173a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297103,
+            "locality_id":1292984331,
+            "neighbourhood_id":1495148875,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1495148875,
+    "wof:lastmodified":1571089556,
+    "wof:name":"Sanddal",
+    "wof:parent_id":1159297103,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1292984331
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.68575,
+    58.9571,
+    5.68575,
+    58.9571
+],
+  "geometry": {"coordinates":[5.68575,58.9571],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1495148179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.26667,61.31667,12.26667,61.31667",
+    "geom:latitude":61.31667,
+    "geom:longitude":12.26667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"428.0",
+    "gn:asciiname":"Vestad",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3132066,
+    "gn:latitude":61.31667,
+    "gn:longitude":12.26667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Vestad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"12.24667,61.29667,12.28667,61.33667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "V\u00e6stad",
+        "Vestad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687117,
+        102191581,
+        1159297339,
+        85633341,
+        1327229059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3132066
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"97b7451cb826e5d95861e85acfda68f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297339,
+            "locality_id":1327229059,
+            "neighbourhood_id":1495148179,
+            "region_id":85687117
+        }
+    ],
+    "wof:id":1495148179,
+    "wof:lastmodified":1571089536,
+    "wof:name":"Vestad",
+    "wof:parent_id":1159297339,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327229059
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.26667,
+    61.31667,
+    12.26667,
+    61.31667
+],
+  "geometry": {"coordinates":[12.26667,61.31667],"type":"Point"}
+}

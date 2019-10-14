@@ -1,0 +1,124 @@
+{
+  "id": 1495148055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.499174,59.889184,10.499174,59.889184",
+    "geom:latitude":59.889184,
+    "geom:longitude":10.499174,
+    "gn:country":null,
+    "iso:country":"NO",
+    "lbl:bbox":"10.479174,59.869184,10.519174,59.909184",
+    "lbl:latitude":59.889184,
+    "lbl:longitude":10.499174,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Slependen"
+    ],
+    "name:dan_x_preferred":[
+        "Slependen"
+    ],
+    "name:eng_x_preferred":[
+        "Slependen"
+    ],
+    "name:fra_x_preferred":[
+        "Slependen"
+    ],
+    "name:jav_x_preferred":[
+        "Slependen"
+    ],
+    "name:msa_x_preferred":[
+        "Slependen"
+    ],
+    "name:nld_x_preferred":[
+        "Slependen"
+    ],
+    "name:nno_x_preferred":[
+        "Slependen"
+    ],
+    "name:nob_x_preferred":[
+        "Slependen"
+    ],
+    "name:ron_x_preferred":[
+        "Slependen"
+    ],
+    "name:swe_x_preferred":[
+        "Slependen"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Slependen",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Akershus Fylke",
+    "qs_pg:photos":178,
+    "qs_pg:photos_1k":36,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":178,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":215784,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":15000602,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Akershus Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85687095,
+        102191581,
+        1159297009,
+        85633341,
+        1125921539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15000602,
+        "qs_pg:id":215784,
+        "wd:id":"Q3355531"
+    },
+    "wof:country":"NO",
+    "wof:created":1497296498,
+    "wof:geomhash":"456b5d2eeffaa5cc8a1a1ea4895d2f85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297009,
+            "locality_id":1125921539,
+            "neighbourhood_id":1495148055,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1495148055,
+    "wof:lastmodified":1571089533,
+    "wof:name":"Slependen",
+    "wof:parent_id":1159297009,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125921539
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.499174,
+    59.889184,
+    10.499174,
+    59.889184
+],
+  "geometry": {"coordinates":[10.499174,59.889184],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1495148641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.45154,63.40615,10.45154,63.40615",
+    "geom:latitude":63.40615,
+    "geom:longitude":10.45154,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5001",
+    "gn:asciiname":"Asvang",
+    "gn:country_code":"NO",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404229,
+    "gn:latitude":63.40615,
+    "gn:longitude":10.45154,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"\u00c5svang",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"10.43154,63.38615,10.47154,63.42615",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "\u00c5svang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687127,
+        1159297145,
+        1277047985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404229
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"31f9fd71a7bc8064b81fd2bce7e10011",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297145,
+            "locality_id":1277047985,
+            "neighbourhood_id":1495148641,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1495148641,
+    "wof:lastmodified":1571089549,
+    "wof:name":"Asvang",
+    "wof:parent_id":1159297145,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1277047985
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.45154,
+    63.40615,
+    10.45154,
+    63.40615
+],
+  "geometry": {"coordinates":[10.45154,63.40615],"type":"Point"}
+}

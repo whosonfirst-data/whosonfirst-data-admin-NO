@@ -1,0 +1,77 @@
+{
+  "id": 1495149007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.41097,63.43077,10.41097,63.43077",
+    "geom:latitude":63.43077,
+    "geom:longitude":10.41097,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5001",
+    "gn:asciiname":"Mollenberg",
+    "gn:country_code":"NO",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404331,
+    "gn:latitude":63.43077,
+    "gn:longitude":10.41097,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"M\u00f8llenberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"10.39097,63.41077,10.43097,63.45077",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "M\u00f8llenberg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687127,
+        1159297145,
+        1326900147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404331
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"fea7307a1d29f5e6c6d357d6faafa53e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297145,
+            "locality_id":1326900147,
+            "neighbourhood_id":1495149007,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1495149007,
+    "wof:lastmodified":1571089559,
+    "wof:name":"Mollenberg",
+    "wof:parent_id":1159297145,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326900147
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.41097,
+    63.43077,
+    10.41097,
+    63.43077
+],
+  "geometry": {"coordinates":[10.41097,63.43077],"type":"Point"}
+}

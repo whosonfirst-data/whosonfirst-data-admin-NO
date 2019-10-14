@@ -1,0 +1,81 @@
+{
+  "id": 1495148163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.17811,60.43472,5.17811,60.43472",
+    "geom:latitude":60.43472,
+    "geom:longitude":5.17811,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1247.0",
+    "gn:asciiname":"Juvik",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3150651,
+    "gn:latitude":60.43472,
+    "gn:longitude":5.17811,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Juvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.15811,60.41472,5.19811,60.45472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Djupvik",
+        "Juvik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687099,
+        102191581,
+        1159296789,
+        85633341,
+        1293481437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3150651
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"408ec51c514af0707cb1046feee21fbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296789,
+            "locality_id":1293481437,
+            "neighbourhood_id":1495148163,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1495148163,
+    "wof:lastmodified":1571089536,
+    "wof:name":"Juvik",
+    "wof:parent_id":1159296789,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293481437
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.17811,
+    60.43472,
+    5.17811,
+    60.43472
+],
+  "geometry": {"coordinates":[5.17811,60.43472],"type":"Point"}
+}

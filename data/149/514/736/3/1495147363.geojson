@@ -1,0 +1,79 @@
+{
+  "id": 1495147363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.35784,58.89002,9.35784,58.89002",
+    "geom:latitude":58.89002,
+    "geom:longitude":9.35784,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"815",
+    "gn:asciiname":"Arosvingen",
+    "gn:country_code":"NO",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404145,
+    "gn:latitude":58.89002,
+    "gn:longitude":9.35784,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"\u00c5r\u00f8svingen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"9.33784,58.87002,9.37784,58.91002",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "\u00c5r\u00f8svingen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687091,
+        102191581,
+        1159297523,
+        85633341,
+        1327110735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404145
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0798b21a6ad33d2528ecdb46c37798e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297523,
+            "locality_id":1327110735,
+            "neighbourhood_id":1495147363,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1495147363,
+    "wof:lastmodified":1571089511,
+    "wof:name":"Arosvingen",
+    "wof:parent_id":1159297523,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327110735
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.35784,
+    58.89001999999999,
+    9.35784,
+    58.89001999999999
+],
+  "geometry": {"coordinates":[9.35784,58.89001999999999],"type":"Point"}
+}

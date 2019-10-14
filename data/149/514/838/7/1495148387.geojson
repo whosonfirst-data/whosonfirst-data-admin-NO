@@ -1,0 +1,89 @@
+{
+  "id": 1495148387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.96181,59.91899,10.96181,59.91899",
+    "geom:latitude":59.91899,
+    "geom:longitude":10.96181,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"230.0",
+    "gn:asciiname":"Skarer",
+    "gn:country_code":"NO",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558601,
+    "gn:latitude":59.91899,
+    "gn:longitude":10.96181,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Sk\u00e5rer",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"10.94181,59.89899,10.98181,59.93899",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Sk\u00e5rer"
+    ],
+    "name:jav_x_preferred":[
+        "Sk\u00e5rer"
+    ],
+    "name:msa_x_preferred":[
+        "Sk\u00e5rer"
+    ],
+    "name:nor_x_preferred":[
+        "Sk\u00e5rer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687095,
+        102191581,
+        1159296815,
+        85633341,
+        1259897729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558601,
+        "wk:page":"Sk%C3%A5rer"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"015eea4bf4b3e61e257a961e61af7cbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296815,
+            "locality_id":1259897729,
+            "neighbourhood_id":1495148387,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1495148387,
+    "wof:lastmodified":1571089542,
+    "wof:name":"Skarer",
+    "wof:parent_id":1159296815,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259897729
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.96181,
+    59.91899,
+    10.96181,
+    59.91899
+],
+  "geometry": {"coordinates":[10.96181,59.91899],"type":"Point"}
+}

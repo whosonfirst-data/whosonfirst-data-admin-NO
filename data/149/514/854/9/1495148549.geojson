@@ -1,0 +1,80 @@
+{
+  "id": 1495148549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.44121,59.19983,10.44121,59.19983",
+    "geom:latitude":59.19983,
+    "geom:longitude":10.44121,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"729",
+    "gn:asciiname":"Harkollen",
+    "gn:country_code":"NO",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9403981,
+    "gn:latitude":59.19983,
+    "gn:longitude":10.44121,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"H\u00e5rkollen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"10.42121,59.17983,10.46121,59.21983",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "H\u00e5rkollen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687073,
+        102191581,
+        1159297071,
+        85633341,
+        1343226887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9403981,
+        "wk:page":"H%C3%A5rkollen"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9750e91a0178c98549a036803a7dcdeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297071,
+            "locality_id":1343226887,
+            "neighbourhood_id":1495148549,
+            "region_id":85687073
+        }
+    ],
+    "wof:id":1495148549,
+    "wof:lastmodified":1571089547,
+    "wof:name":"Harkollen",
+    "wof:parent_id":1159297071,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343226887
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.44121,
+    59.19983000000001,
+    10.44121,
+    59.19983000000001
+],
+  "geometry": {"coordinates":[10.44121,59.19983000000001],"type":"Point"}
+}

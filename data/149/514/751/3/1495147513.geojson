@@ -1,0 +1,79 @@
+{
+  "id": 1495147513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.12911,59.83503,11.12911,59.83503",
+    "geom:latitude":59.83503,
+    "geom:longitude":11.12911,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"229.0",
+    "gn:asciiname":"Hogda",
+    "gn:country_code":"NO",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536281,
+    "gn:latitude":59.83503,
+    "gn:longitude":11.12911,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"H\u00f8gda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"11.10911,59.81503,11.14911,59.85503",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "H\u00f8gda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687095,
+        102191581,
+        1159297449,
+        85633341,
+        1293887645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536281
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"592444ec2abe7df662a6876720d9de4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297449,
+            "locality_id":1293887645,
+            "neighbourhood_id":1495147513,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1495147513,
+    "wof:lastmodified":1571089517,
+    "wof:name":"Hogda",
+    "wof:parent_id":1159297449,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293887645
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.12911,
+    59.83503,
+    11.12911,
+    59.83503
+],
+  "geometry": {"coordinates":[11.12911,59.83503],"type":"Point"}
+}

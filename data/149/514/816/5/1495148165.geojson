@@ -1,0 +1,73 @@
+{
+  "id": 1495148165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.21163,63.96496,10.21163,63.96496",
+    "geom:latitude":63.96496,
+    "geom:longitude":10.21163,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5018",
+    "gn:asciiname":"Vassneset",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404091,
+    "gn:latitude":63.96496,
+    "gn:longitude":10.21163,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Vassneset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"10.19163,63.94496,10.23163,63.98496",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Vassneset"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1209487819,
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404091
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c880bf402edcc11ab9dbc7d8ac3bbc48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209487819,
+            "neighbourhood_id":1495148165
+        }
+    ],
+    "wof:id":1495148165,
+    "wof:lastmodified":1571089536,
+    "wof:name":"Vassneset",
+    "wof:parent_id":85633341,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209487819
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.21163,
+    63.96496,
+    10.21163,
+    63.96496
+],
+  "geometry": {"coordinates":[10.21163,63.96496],"type":"Point"}
+}

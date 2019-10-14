@@ -1,0 +1,76 @@
+{
+  "id": 1495148993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.7137,59.03539,9.7137,59.03539",
+    "geom:latitude":59.03539,
+    "geom:longitude":9.7137,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"814.0",
+    "gn:asciiname":"Eiksronningen",
+    "gn:country_code":"NO",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3209759,
+    "gn:latitude":59.03539,
+    "gn:longitude":9.7137,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Eiksr\u00f8nningen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"9.6937,59.01539,9.7337,59.05539",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687091,
+        102191581,
+        1159296837,
+        85633341,
+        1343337919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3209759
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a7c9adbd3af7abfcf8f76285dcf6e1c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296837,
+            "locality_id":1343337919,
+            "neighbourhood_id":1495148993,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1495148993,
+    "wof:lastmodified":1571089559,
+    "wof:name":"Eiksronningen",
+    "wof:parent_id":1159296837,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343337919
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.7137,
+    59.03539,
+    9.7137,
+    59.03539
+],
+  "geometry": {"coordinates":[9.7137,59.03539],"type":"Point"}
+}

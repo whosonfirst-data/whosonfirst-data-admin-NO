@@ -1,0 +1,77 @@
+{
+  "id": 1495148039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.28044,63.04487,10.28044,63.04487",
+    "geom:latitude":63.04487,
+    "geom:longitude":10.28044,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5027",
+    "gn:asciiname":"Smavollan",
+    "gn:country_code":"NO",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404231,
+    "gn:latitude":63.04487,
+    "gn:longitude":10.28044,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Sm\u00e5vollan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"10.26044,63.02487,10.30044,63.06487",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Sm\u00e5vollan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687127,
+        1159296717,
+        1293462293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404231
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6cf8173baf537996805ea78cd2ef52b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296717,
+            "locality_id":1293462293,
+            "neighbourhood_id":1495148039,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1495148039,
+    "wof:lastmodified":1571089533,
+    "wof:name":"Smavollan",
+    "wof:parent_id":1159296717,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293462293
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.28044,
+    63.04487,
+    10.28044,
+    63.04487
+],
+  "geometry": {"coordinates":[10.28044,63.04487],"type":"Point"}
+}

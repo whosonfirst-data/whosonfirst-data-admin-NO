@@ -1,0 +1,79 @@
+{
+  "id": 1495147409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.27754,62.45937,6.27754,62.45937",
+    "geom:latitude":62.45937,
+    "geom:longitude":6.27754,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1504.0",
+    "gn:asciiname":"Indre Hatlen",
+    "gn:country_code":"NO",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558579,
+    "gn:latitude":62.45937,
+    "gn:longitude":6.27754,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Indre Hatlen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"6.25754,62.43937,6.29754,62.47937",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Indre Hatlen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687123,
+        102191581,
+        1159297219,
+        85633341,
+        1276652153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558579
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"412a65654ab8386507e808e83259e2f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297219,
+            "locality_id":1276652153,
+            "neighbourhood_id":1495147409,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1495147409,
+    "wof:lastmodified":1571089513,
+    "wof:name":"Indre Hatlen",
+    "wof:parent_id":1159297219,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276652153
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.27754,
+    62.45936999999999,
+    6.27754,
+    62.45936999999999
+],
+  "geometry": {"coordinates":[6.27754,62.45936999999999],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1495149145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.30499,60.41981,5.30499,60.41981",
+    "geom:latitude":60.41981,
+    "geom:longitude":5.30499,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1201",
+    "gn:asciiname":"Breiviken",
+    "gn:country_code":"NO",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9403942,
+    "gn:latitude":60.41981,
+    "gn:longitude":5.30499,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Breiviken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.28499,60.39981,5.32499,60.43981",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Breiviken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687099,
+        102191581,
+        1159297617,
+        85633341,
+        1243360591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9403942
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0e02ccfd51f185e0c21bd8e60473405b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":1243360591,
+            "neighbourhood_id":1495149145,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1495149145,
+    "wof:lastmodified":1571089563,
+    "wof:name":"Breiviken",
+    "wof:parent_id":1159297617,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243360591
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.30499,
+    60.41981,
+    5.30499,
+    60.41981
+],
+  "geometry": {"coordinates":[5.30499,60.41981],"type":"Point"}
+}

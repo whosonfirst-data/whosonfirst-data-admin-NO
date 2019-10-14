@@ -1,0 +1,76 @@
+{
+  "id": 1495148137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.60871,58.92633,5.60871,58.92633",
+    "geom:latitude":58.92633,
+    "geom:longitude":5.60871,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1124",
+    "gn:asciiname":"Snode",
+    "gn:country_code":"NO",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404146,
+    "gn:latitude":58.92633,
+    "gn:longitude":5.60871,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Sn\u00f8de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.58871,58.90633,5.62871,58.94633",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Sn\u00f8de"
+    ],
+    "name:nor_x_variant":[
+        "Sn\u00f8da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1209486265,
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404146
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"79de574156c82b0d610aac685a6b8350",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209486265,
+            "neighbourhood_id":1495148137
+        }
+    ],
+    "wof:id":1495148137,
+    "wof:lastmodified":1571089535,
+    "wof:name":"Snode",
+    "wof:parent_id":85633341,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209486265
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.60871,
+    58.92633000000001,
+    5.60871,
+    58.92633000000001
+],
+  "geometry": {"coordinates":[5.60871,58.92633000000001],"type":"Point"}
+}

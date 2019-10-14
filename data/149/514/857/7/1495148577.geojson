@@ -1,0 +1,94 @@
+{
+  "id": 1495148577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.08333,59.28333,11.08333,59.28333",
+    "geom:latitude":59.28333,
+    "geom:longitude":11.08333,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"105.0",
+    "gn:asciiname":"Tune",
+    "gn:country_code":"NO",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3133771,
+    "gn:latitude":59.28333,
+    "gn:longitude":11.08333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Tune",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"11.06333,59.26333,11.10333,59.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Tune"
+    ],
+    "name:deu_x_preferred":[
+        "Tune"
+    ],
+    "name:ita_x_preferred":[
+        "Tune"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e5\u30fc\u30f3"
+    ],
+    "name:nld_x_preferred":[
+        "Tune"
+    ],
+    "name:swe_x_preferred":[
+        "Tune"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687079,
+        102191581,
+        1159297543,
+        85633341,
+        1277153429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3133771
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d6d89eadcb917140e5d703166889571f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297543,
+            "locality_id":1277153429,
+            "neighbourhood_id":1495148577,
+            "region_id":85687079
+        }
+    ],
+    "wof:id":1495148577,
+    "wof:lastmodified":1571089548,
+    "wof:name":"Tune",
+    "wof:parent_id":1159297543,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1277153429
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.08333,
+    59.28333000000001,
+    11.08333,
+    59.28333000000001
+],
+  "geometry": {"coordinates":[11.08333,59.28333000000001],"type":"Point"}
+}

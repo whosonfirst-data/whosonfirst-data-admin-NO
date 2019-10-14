@@ -1,0 +1,79 @@
+{
+  "id": 1495148825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.36424,59.69704,5.36424,59.69704",
+    "geom:latitude":59.69704,
+    "geom:longitude":5.36424,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1219",
+    "gn:asciiname":"Ovra Skimmeland",
+    "gn:country_code":"NO",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404362,
+    "gn:latitude":59.69704,
+    "gn:longitude":5.36424,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"\u00d8vra Skimmeland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.34424,59.67704,5.38424,59.71704",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "\u00d8vra Skimmeland"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687099,
+        102191581,
+        1159296859,
+        85633341,
+        1260101575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404362
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c4256a8b7466a44466e22c24dd95471b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296859,
+            "locality_id":1260101575,
+            "neighbourhood_id":1495148825,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1495148825,
+    "wof:lastmodified":1571089555,
+    "wof:name":"Ovra Skimmeland",
+    "wof:parent_id":1159296859,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1260101575
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.36424,
+    59.69704,
+    5.36424,
+    59.69704
+],
+  "geometry": {"coordinates":[5.36424,59.69704],"type":"Point"}
+}

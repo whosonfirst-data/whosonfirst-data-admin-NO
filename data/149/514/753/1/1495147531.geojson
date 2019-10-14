@@ -1,0 +1,77 @@
+{
+  "id": 1495147531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.46397,63.40345,10.46397,63.40345",
+    "geom:latitude":63.40345,
+    "geom:longitude":10.46397,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5001.0",
+    "gn:asciiname":"Loholt",
+    "gn:country_code":"NO",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537336,
+    "gn:latitude":63.40345,
+    "gn:longitude":10.46397,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Loholt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"10.44397,63.38345,10.48397,63.42345",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Loholt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687127,
+        1159297145,
+        1225916725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537336
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ef239bd2ec66dd2f69c75c78f22c9d8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297145,
+            "locality_id":1225916725,
+            "neighbourhood_id":1495147531,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1495147531,
+    "wof:lastmodified":1571089518,
+    "wof:name":"Loholt",
+    "wof:parent_id":1159297145,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1225916725
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.46397,
+    63.40345,
+    10.46397,
+    63.40345
+],
+  "geometry": {"coordinates":[10.46397,63.40345],"type":"Point"}
+}

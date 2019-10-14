@@ -1,0 +1,79 @@
+{
+  "id": 1495148749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.44387,59.27379,10.44387,59.27379",
+    "geom:latitude":59.27379,
+    "geom:longitude":10.44387,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"704",
+    "gn:asciiname":"Presterod",
+    "gn:country_code":"NO",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9403933,
+    "gn:latitude":59.27379,
+    "gn:longitude":10.44387,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Prester\u00f8d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"10.42387,59.25379,10.46387,59.29379",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Prester\u00f8d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687073,
+        102191581,
+        1159297321,
+        85633341,
+        1226810877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9403933
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"305be5cbdbeed33d3e52d0bb00b7aa9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297321,
+            "locality_id":1226810877,
+            "neighbourhood_id":1495148749,
+            "region_id":85687073
+        }
+    ],
+    "wof:id":1495148749,
+    "wof:lastmodified":1571089552,
+    "wof:name":"Presterod",
+    "wof:parent_id":1159297321,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226810877
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.44387,
+    59.27379000000001,
+    10.44387,
+    59.27379000000001
+],
+  "geometry": {"coordinates":[10.44387,59.27379000000001],"type":"Point"}
+}

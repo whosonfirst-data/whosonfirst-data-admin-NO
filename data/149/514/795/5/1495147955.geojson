@@ -1,0 +1,79 @@
+{
+  "id": 1495147955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.37927,58.90146,9.37927,58.90146",
+    "geom:latitude":58.90146,
+    "geom:longitude":9.37927,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"815.0",
+    "gn:asciiname":"Heibo",
+    "gn:country_code":"NO",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536628,
+    "gn:latitude":58.90146,
+    "gn:longitude":9.37927,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Heib\u00f8",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"9.35927,58.88146,9.39927,58.92146",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Heib\u00f8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687091,
+        102191581,
+        1159297523,
+        85633341,
+        1226414011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536628
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9e371d922b30220c199610b7b60ae1ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297523,
+            "locality_id":1226414011,
+            "neighbourhood_id":1495147955,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1495147955,
+    "wof:lastmodified":1571089530,
+    "wof:name":"Heibo",
+    "wof:parent_id":1159297523,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226414011
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.37927,
+    58.90146,
+    9.37927,
+    58.90146
+],
+  "geometry": {"coordinates":[9.37927,58.90146],"type":"Point"}
+}

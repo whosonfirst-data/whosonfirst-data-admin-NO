@@ -1,0 +1,92 @@
+{
+  "id": 1495147535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.0693,59.41299,9.0693,59.41299",
+    "geom:latitude":59.41299,
+    "geom:longitude":9.0693,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"821.0",
+    "gn:asciiname":"Bo",
+    "gn:country_code":"NO",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3160911,
+    "gn:latitude":59.41299,
+    "gn:longitude":9.0693,
+    "gn:modification_date":"2010-12-07",
+    "gn:name":"B\u00f8",
+    "gn:population":2522,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"9.0493,59.39299,9.0893,59.43299",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:dan_x_preferred":[
+        "Bo"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578"
+    ],
+    "name:lit_x_preferred":[
+        "Bo"
+    ],
+    "name:und_x_variant":[
+        "B\u00f8 i Telemark",
+        "B\u00f8"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85687091,
+        102191581,
+        1159297003,
+        85633341,
+        1343625233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160911
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"fdd82a156fd864a2c13b29876f3bc77e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297003,
+            "locality_id":1343625233,
+            "neighbourhood_id":1495147535,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1495147535,
+    "wof:lastmodified":1571089518,
+    "wof:name":"Bo",
+    "wof:parent_id":1159297003,
+    "wof:placetype":"neighbourhood",
+    "wof:population":2522,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343625233
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.0693,
+    59.41299,
+    9.0693,
+    59.41299
+],
+  "geometry": {"coordinates":[9.0693,59.41299],"type":"Point"}
+}

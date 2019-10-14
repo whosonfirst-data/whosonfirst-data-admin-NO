@@ -1,0 +1,79 @@
+{
+  "id": 1495147827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.34388,60.37866,5.34388,60.37866",
+    "geom:latitude":60.37866,
+    "geom:longitude":5.34388,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1201",
+    "gn:asciiname":"Mollendal",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404501,
+    "gn:latitude":60.37866,
+    "gn:longitude":5.34388,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"M\u00f8llendal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.32388,60.35866,5.36388,60.39866",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "M\u00f8llendal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687099,
+        102191581,
+        1159297617,
+        85633341,
+        1276433151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404501
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"938b0cb9398878a89b2c0775dba6cb6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":1276433151,
+            "neighbourhood_id":1495147827,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1495147827,
+    "wof:lastmodified":1571089527,
+    "wof:name":"Mollendal",
+    "wof:parent_id":1159297617,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276433151
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.34388,
+    60.37866,
+    5.34388,
+    60.37866
+],
+  "geometry": {"coordinates":[5.34388,60.37866],"type":"Point"}
+}

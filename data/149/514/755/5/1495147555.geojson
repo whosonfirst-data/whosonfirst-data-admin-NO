@@ -1,0 +1,74 @@
+{
+  "id": 1495147555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.85,68.13333,13.85,68.13333",
+    "geom:latitude":68.13333,
+    "geom:longitude":13.85,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1860.0",
+    "gn:asciiname":"Svarholt",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3135285,
+    "gn:latitude":68.13333,
+    "gn:longitude":13.85,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Svarholt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"13.83,68.11333,13.87,68.15333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687135,
+        1159297039,
+        1277066517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3135285
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9bb921b457c2c406d4e0bccce4c6f4cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297039,
+            "locality_id":1277066517,
+            "neighbourhood_id":1495147555,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1495147555,
+    "wof:lastmodified":1571089519,
+    "wof:name":"Svarholt",
+    "wof:parent_id":1159297039,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1277066517
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.85,
+    68.13333,
+    13.85,
+    68.13333
+],
+  "geometry": {"coordinates":[13.85,68.13333],"type":"Point"}
+}

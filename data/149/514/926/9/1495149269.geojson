@@ -1,0 +1,81 @@
+{
+  "id": 1495149269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.27181,60.38507,5.27181,60.38507",
+    "geom:latitude":60.38507,
+    "geom:longitude":5.27181,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1201.0",
+    "gn:asciiname":"Nygard",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3143993,
+    "gn:latitude":60.38507,
+    "gn:longitude":5.27181,
+    "gn:modification_date":"2012-08-09",
+    "gn:name":"Nyg\u00e5rd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.25181,60.36507,5.29181,60.40507",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Nygaard",
+        "Nyg\u00e5rd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687099,
+        102191581,
+        1159297617,
+        85633341,
+        1243088837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3143993
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b2079d34d0188d0ee0c118758fd94737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":1243088837,
+            "neighbourhood_id":1495149269,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1495149269,
+    "wof:lastmodified":1571089567,
+    "wof:name":"Nygard",
+    "wof:parent_id":1159297617,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243088837
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.27181,
+    60.38506999999999,
+    5.27181,
+    60.38506999999999
+],
+  "geometry": {"coordinates":[5.27181,60.38506999999999],"type":"Point"}
+}

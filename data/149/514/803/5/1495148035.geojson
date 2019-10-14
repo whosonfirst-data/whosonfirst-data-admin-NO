@@ -1,0 +1,82 @@
+{
+  "id": 1495148035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.23333,59.13333,10.23333,59.13333",
+    "geom:latitude":59.13333,
+    "geom:longitude":10.23333,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"710.0",
+    "gn:asciiname":"Gokstad",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3155423,
+    "gn:latitude":59.13333,
+    "gn:longitude":10.23333,
+    "gn:modification_date":"2017-09-20",
+    "gn:name":"Gokstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"10.21333,59.11333,10.25333,59.15333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Goks",
+        "Gogstad",
+        "Gokstad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687073,
+        102191581,
+        1159297193,
+        85633341,
+        1243133981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3155423
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c3c4bacccfde2359daa56ee601b09a4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297193,
+            "locality_id":1243133981,
+            "neighbourhood_id":1495148035,
+            "region_id":85687073
+        }
+    ],
+    "wof:id":1495148035,
+    "wof:lastmodified":1571089533,
+    "wof:name":"Gokstad",
+    "wof:parent_id":1159297193,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243133981
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.23333,
+    59.13333000000001,
+    10.23333,
+    59.13333000000001
+],
+  "geometry": {"coordinates":[10.23333,59.13333000000001],"type":"Point"}
+}

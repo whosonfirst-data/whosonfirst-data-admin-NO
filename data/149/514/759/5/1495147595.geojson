@@ -1,0 +1,75 @@
+{
+  "id": 1495147595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.24333,60.41528,5.24333,60.41528",
+    "geom:latitude":60.41528,
+    "geom:longitude":5.24333,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1247.0",
+    "gn:asciiname":"Bastaneset",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3241402,
+    "gn:latitude":60.41528,
+    "gn:longitude":5.24333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bastaneset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.22333,60.39528,5.26333,60.43528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Bast\u00f8yneset",
+        "Bastaneset"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1209097833,
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3241402
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a73a424ce9a0190636f99b08072dc6c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209097833,
+            "neighbourhood_id":1495147595
+        }
+    ],
+    "wof:id":1495147595,
+    "wof:lastmodified":1571089520,
+    "wof:name":"Bastaneset",
+    "wof:parent_id":85633341,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209097833
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.24333,
+    60.41528,
+    5.24333,
+    60.41528
+],
+  "geometry": {"coordinates":[5.24333,60.41528],"type":"Point"}
+}

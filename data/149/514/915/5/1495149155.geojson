@@ -1,0 +1,82 @@
+{
+  "id": 1495149155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.71043,61.89865,6.71043,61.89865",
+    "geom:latitude":61.89865,
+    "geom:longitude":6.71043,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1449.0",
+    "gn:asciiname":"Visnes",
+    "gn:country_code":"NO",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3131499,
+    "gn:latitude":61.89865,
+    "gn:longitude":6.71043,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Visnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"6.69043,61.87865,6.73043,61.91865",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:deu_x_preferred":[
+        "Visnes"
+    ],
+    "name:nor_x_preferred":[
+        "Visnes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687113,
+        102191581,
+        1159296967,
+        85633341,
+        1344028315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3131499
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"362f955022efcfd9f7093bcf7baa0b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296967,
+            "locality_id":1344028315,
+            "neighbourhood_id":1495149155,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1495149155,
+    "wof:lastmodified":1571089563,
+    "wof:name":"Visnes",
+    "wof:parent_id":1159296967,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1344028315
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.71043,
+    61.89865,
+    6.71043,
+    61.89865
+],
+  "geometry": {"coordinates":[6.71043,61.89865],"type":"Point"}
+}

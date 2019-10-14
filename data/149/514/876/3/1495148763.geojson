@@ -1,0 +1,124 @@
+{
+  "id": 1495148763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.01667,59.75,10.01667,59.75",
+    "geom:latitude":59.75,
+    "geom:longitude":10.01667,
+    "gn:country":"NO",
+    "gn:fcode":"PPL",
+    "gn:population":0,
+    "iso:country":"NO",
+    "lbl:bbox":"9.99667,59.73,10.03667,59.77",
+    "lbl:latitude":59.75,
+    "lbl:longitude":10.01667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Krokstadelva"
+    ],
+    "name:eng_x_preferred":[
+        "Krokstadelva"
+    ],
+    "name:fra_x_preferred":[
+        "Krokstadelva"
+    ],
+    "name:jav_x_preferred":[
+        "Krokstadelva"
+    ],
+    "name:msa_x_preferred":[
+        "Krokstadelva"
+    ],
+    "name:nld_x_preferred":[
+        "Krokstadelva"
+    ],
+    "name:nob_x_preferred":[
+        "Krokstadelva"
+    ],
+    "name:swe_x_preferred":[
+        "Krokstadelva"
+    ],
+    "name:und_x_variant":[
+        "Kroksjadelva"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3149242,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Krokstadelva",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Buskerud Fylke",
+    "qs_pg:photos":53,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":53,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":270974,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":860853,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Buskerud Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85687105,
+        102191581,
+        1159297615,
+        85633341,
+        1125796139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3149242,
+        "gp:id":860853,
+        "qs_pg:id":270974,
+        "wd:id":"Q6438822"
+    },
+    "wof:country":"NO",
+    "wof:created":1497291056,
+    "wof:geomhash":"ed55dce068448b5187b8c57db72e6224",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297615,
+            "locality_id":1125796139,
+            "neighbourhood_id":1495148763,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1495148763,
+    "wof:lastmodified":1571089553,
+    "wof:name":"Krokstadelva",
+    "wof:parent_id":1159297615,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125796139
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.01667,
+    59.75,
+    10.01667,
+    59.75
+],
+  "geometry": {"coordinates":[10.01667,59.75],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1495148683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.979568,69.705249,18.979568,69.705249",
+    "geom:latitude":69.705249,
+    "geom:longitude":18.979568,
+    "gn:country":"NO",
+    "iso:country":"NO",
+    "lbl:bbox":"18.959568,69.685249,18.999568,69.725249",
+    "lbl:latitude":69.705249,
+    "lbl:longitude":18.979568,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:name":"Hamna",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Troms Fylke",
+    "qs_pg:photos":154,
+    "qs_pg:photos_1k":31,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":154,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":8052,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":22660627,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Troms Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85687143,
+        102191581,
+        1159297187,
+        85633341,
+        1125819399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22660627,
+        "qs_pg:id":8052
+    },
+    "wof:country":"NO",
+    "wof:created":1497291983,
+    "wof:geomhash":"f628e5fcfe4816fee203a47a21726a00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297187,
+            "locality_id":1125819399,
+            "neighbourhood_id":1495148683,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1495148683,
+    "wof:lastmodified":1571089550,
+    "wof:name":"Hamna",
+    "wof:parent_id":1159297187,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125819399
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.979568,
+    69.705249,
+    18.979568,
+    69.705249
+],
+  "geometry": {"coordinates":[18.979568,69.70524899999999],"type":"Point"}
+}

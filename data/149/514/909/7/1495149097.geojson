@@ -1,0 +1,77 @@
+{
+  "id": 1495149097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.28333,63.03333,10.28333,63.03333",
+    "geom:latitude":63.03333,
+    "geom:longitude":10.28333,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5027.0",
+    "gn:asciiname":"Soknes",
+    "gn:country_code":"NO",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3137950,
+    "gn:latitude":63.03333,
+    "gn:longitude":10.28333,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Soknes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"10.26333,63.01333,10.30333,63.05333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Soknes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687127,
+        1159296717,
+        1309975783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3137950
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8b93cfeef78ff7cb29f3d06454e868ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296717,
+            "locality_id":1309975783,
+            "neighbourhood_id":1495149097,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":1495149097,
+    "wof:lastmodified":1571089562,
+    "wof:name":"Soknes",
+    "wof:parent_id":1159296717,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1309975783
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.28333,
+    63.03333000000001,
+    10.28333,
+    63.03333000000001
+],
+  "geometry": {"coordinates":[10.28333,63.03333000000001],"type":"Point"}
+}

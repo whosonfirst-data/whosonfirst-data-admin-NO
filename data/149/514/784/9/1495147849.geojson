@@ -1,0 +1,79 @@
+{
+  "id": 1495147849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.37292,60.36734,5.37292,60.36734",
+    "geom:latitude":60.36734,
+    "geom:longitude":5.37292,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1201",
+    "gn:asciiname":"Laegdene",
+    "gn:country_code":"NO",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404504,
+    "gn:latitude":60.36734,
+    "gn:longitude":5.37292,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"L\u00e6gdene",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.35292,60.34734,5.39292,60.38734",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "L\u00e6gdene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687099,
+        102191581,
+        1159297617,
+        85633341,
+        1226234189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404504
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5d31e166a313ffb8cfe9e7c606a36738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":1226234189,
+            "neighbourhood_id":1495147849,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1495147849,
+    "wof:lastmodified":1571089527,
+    "wof:name":"Laegdene",
+    "wof:parent_id":1159297617,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226234189
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.37292,
+    60.36734000000001,
+    5.37292,
+    60.36734000000001
+],
+  "geometry": {"coordinates":[5.37292,60.36734000000001],"type":"Point"}
+}

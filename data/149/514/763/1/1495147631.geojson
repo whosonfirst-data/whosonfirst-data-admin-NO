@@ -1,0 +1,79 @@
+{
+  "id": 1495147631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.24434,60.33028,11.24434,60.33028",
+    "geom:latitude":60.33028,
+    "geom:longitude":11.24434,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"237.0",
+    "gn:asciiname":"Holstangen",
+    "gn:country_code":"NO",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537368,
+    "gn:latitude":60.33028,
+    "gn:longitude":11.24434,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Holstangen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"11.22434,60.31028,11.26434,60.35028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Holstangen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687095,
+        102191581,
+        1159297097,
+        85633341,
+        1343376635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537368
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"50034943d613b60062965f0c0dc9c0d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297097,
+            "locality_id":1343376635,
+            "neighbourhood_id":1495147631,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1495147631,
+    "wof:lastmodified":1571089521,
+    "wof:name":"Holstangen",
+    "wof:parent_id":1159297097,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343376635
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.24434,
+    60.33028,
+    11.24434,
+    60.33028
+],
+  "geometry": {"coordinates":[11.24434,60.33028],"type":"Point"}
+}

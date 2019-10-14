@@ -1,0 +1,76 @@
+{
+  "id": 1495147487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.43333,60.65,6.43333,60.65",
+    "geom:latitude":60.65,
+    "geom:longitude":6.43333,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1235.0",
+    "gn:asciiname":"Molster",
+    "gn:country_code":"NO",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3145529,
+    "gn:latitude":60.65,
+    "gn:longitude":6.43333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"M\u00f8lster",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"6.41333,60.63,6.45333,60.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687099,
+        102191581,
+        1159296873,
+        85633341,
+        1259480167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3145529
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4a6573b9b00d934d20f2f04a86444a8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296873,
+            "locality_id":1259480167,
+            "neighbourhood_id":1495147487,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1495147487,
+    "wof:lastmodified":1571089516,
+    "wof:name":"Molster",
+    "wof:parent_id":1159296873,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259480167
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.43333,
+    60.65,
+    6.43333,
+    60.65
+],
+  "geometry": {"coordinates":[6.43333,60.65],"type":"Point"}
+}

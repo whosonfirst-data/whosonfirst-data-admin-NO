@@ -1,0 +1,96 @@
+{
+  "id": 1495148689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.22601,63.96114,10.22601,63.96114",
+    "geom:latitude":63.96114,
+    "geom:longitude":10.22601,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5018.0",
+    "gn:asciiname":"Arnes",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3162903,
+    "gn:latitude":63.96114,
+    "gn:longitude":10.22601,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"\u00c5rnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"10.20601,63.94114,10.24601,63.98114",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Arnes"
+    ],
+    "name:deu_x_preferred":[
+        "Arnes"
+    ],
+    "name:eus_x_preferred":[
+        "Arnes"
+    ],
+    "name:fra_x_preferred":[
+        "Arnes"
+    ],
+    "name:nld_x_preferred":[
+        "Arnes"
+    ],
+    "name:slv_x_preferred":[
+        "Arnes"
+    ],
+    "name:swe_x_preferred":[
+        "Arnes"
+    ],
+    "name:und_x_variant":[
+        "Aarnes",
+        "\u00c5rnes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1209597519,
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3162903
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0970b8551b8c6799946b4b345f57313f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "locality_id":1209597519,
+            "neighbourhood_id":1495148689
+        }
+    ],
+    "wof:id":1495148689,
+    "wof:lastmodified":1571089551,
+    "wof:name":"Arnes",
+    "wof:parent_id":85633341,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209597519
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.22601,
+    63.96114,
+    10.22601,
+    63.96114
+],
+  "geometry": {"coordinates":[10.22601,63.96114],"type":"Point"}
+}

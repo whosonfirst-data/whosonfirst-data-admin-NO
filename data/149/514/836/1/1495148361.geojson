@@ -1,0 +1,105 @@
+{
+  "id": 1495148361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.0741,59.21523,11.0741,59.21523",
+    "geom:latitude":59.21523,
+    "geom:longitude":11.0741,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"106",
+    "gn:asciiname":"Skiviken",
+    "gn:country_code":"NO",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9403984,
+    "gn:latitude":59.21523,
+    "gn:longitude":11.0741,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Skiviken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"11.0541,59.19523,11.0941,59.23523",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:jav_x_preferred":[
+        "Skj\u00e6rvika"
+    ],
+    "name:msa_x_preferred":[
+        "Skj\u00e6rvika"
+    ],
+    "name:nld_x_preferred":[
+        "Skivika"
+    ],
+    "name:nno_x_preferred":[
+        "Skivika"
+    ],
+    "name:nor_x_preferred":[
+        "Skiviken"
+    ],
+    "name:nor_x_variant":[
+        "Skivika",
+        "Skj\u00e6rvika"
+    ],
+    "name:ron_x_preferred":[
+        "Skivika"
+    ],
+    "name:spa_x_preferred":[
+        "Skivika"
+    ],
+    "name:swe_x_preferred":[
+        "Skivika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687079,
+        102191581,
+        1159297385,
+        85633341,
+        1243342823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9403984,
+        "wk:page":"Skivika"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"dc0e9544c7055e7e923ce747f1d3fd3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297385,
+            "locality_id":1243342823,
+            "neighbourhood_id":1495148361,
+            "region_id":85687079
+        }
+    ],
+    "wof:id":1495148361,
+    "wof:lastmodified":1571089542,
+    "wof:name":"Skiviken",
+    "wof:parent_id":1159297385,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243342823
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.0741,
+    59.21523000000001,
+    11.0741,
+    59.21523000000001
+],
+  "geometry": {"coordinates":[11.0741,59.21523000000001],"type":"Point"}
+}

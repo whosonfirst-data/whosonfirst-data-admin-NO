@@ -1,0 +1,85 @@
+{
+  "id": 1495148399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.95496,63.48541,10.95496,63.48541",
+    "geom:latitude":63.48541,
+    "geom:longitude":10.95496,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5035.0",
+    "gn:asciiname":"Dolin",
+    "gn:country_code":"NO",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536562,
+    "gn:latitude":63.48541,
+    "gn:longitude":10.95496,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"D\u00f8lin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"10.93496,63.46541,10.97496,63.50541",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:deu_x_preferred":[
+        "Dolin"
+    ],
+    "name:nor_x_preferred":[
+        "D\u00f8lin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u0438\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687133,
+        102191581,
+        1159296711,
+        85633341,
+        1276322719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536562
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a92c380b27e7418af53f1061ec78c65a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296711,
+            "locality_id":1276322719,
+            "neighbourhood_id":1495148399,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":1495148399,
+    "wof:lastmodified":1571089543,
+    "wof:name":"Dolin",
+    "wof:parent_id":1159296711,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276322719
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.95496,
+    63.48541,
+    10.95496,
+    63.48541
+],
+  "geometry": {"coordinates":[10.95496,63.48541],"type":"Point"}
+}

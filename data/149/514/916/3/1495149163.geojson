@@ -1,0 +1,79 @@
+{
+  "id": 1495149163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.65201,59.85303,10.65201,59.85303",
+    "geom:latitude":59.85303,
+    "geom:longitude":10.65201,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"216",
+    "gn:asciiname":"Sjostrand",
+    "gn:country_code":"NO",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404468,
+    "gn:latitude":59.85303,
+    "gn:longitude":10.65201,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Sj\u00f8strand",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"10.63201,59.83303,10.67201,59.87303",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Sj\u00f8strand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687095,
+        102191581,
+        1159297221,
+        85633341,
+        1327445515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404468
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a42db2e3d524c6ce6dfbec7a912460f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297221,
+            "locality_id":1327445515,
+            "neighbourhood_id":1495149163,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1495149163,
+    "wof:lastmodified":1571089564,
+    "wof:name":"Sjostrand",
+    "wof:parent_id":1159297221,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327445515
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.65201,
+    59.85303,
+    10.65201,
+    59.85303
+],
+  "geometry": {"coordinates":[10.65201,59.85303],"type":"Point"}
+}
