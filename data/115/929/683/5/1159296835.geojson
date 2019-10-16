@@ -66,6 +66,8 @@
     "no-geonorge:lokalid":"172846",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":63.719304,
+    "reversegeo:longitude":9.641871,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":1159296835,
-    "wof:lastmodified":1566662901,
+    "wof:lastmodified":1571184494,
     "wof:name":"Orland",
     "wof:parent_id":85687127,
     "wof:placetype":"localadmin",

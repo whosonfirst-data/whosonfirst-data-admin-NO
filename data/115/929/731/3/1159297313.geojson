@@ -114,6 +114,8 @@
     "no-geonorge:lokalid":"172965",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":61.349203,
+    "reversegeo:longitude":4.988125,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -136,7 +138,7 @@
         }
     ],
     "wof:id":1159297313,
-    "wof:lastmodified":1566662762,
+    "wof:lastmodified":1571184487,
     "wof:name":"Askvoll",
     "wof:parent_id":85687113,
     "wof:placetype":"localadmin",

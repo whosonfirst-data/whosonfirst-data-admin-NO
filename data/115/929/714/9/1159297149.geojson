@@ -75,6 +75,8 @@
     "no-geonorge:lokalid":"172770",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":66.065458,
+    "reversegeo:longitude":12.485497,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":1159297149,
-    "wof:lastmodified":1566662812,
+    "wof:lastmodified":1571184489,
     "wof:name":"Donna",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

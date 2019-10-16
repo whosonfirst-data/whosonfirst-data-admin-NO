@@ -120,6 +120,8 @@
     "no-geonorge:lokalid":"172994",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":62.476978,
+    "reversegeo:longitude":6.005374,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":1159297399,
-    "wof:lastmodified":1566662734,
+    "wof:lastmodified":1571184485,
     "wof:name":"Giske",
     "wof:parent_id":85687123,
     "wof:placetype":"localadmin",

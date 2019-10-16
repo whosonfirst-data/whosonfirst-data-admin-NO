@@ -120,6 +120,8 @@
     "no-geonorge:lokalid":"172744",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":67.817746,
+    "reversegeo:longitude":15.015525,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -140,7 +142,7 @@
         }
     ],
     "wof:id":1159297343,
-    "wof:lastmodified":1566662847,
+    "wof:lastmodified":1571184491,
     "wof:name":"Steigen",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

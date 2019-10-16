@@ -87,6 +87,8 @@
     "no-geonorge:lokalid":"172813",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":60.265538,
+    "reversegeo:longitude":5.063504,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":1159297139,
-    "wof:lastmodified":1566662811,
+    "wof:lastmodified":1571184489,
     "wof:name":"Sund",
     "wof:parent_id":85687099,
     "wof:placetype":"localadmin",

@@ -117,6 +117,8 @@
     "no-geonorge:lokalid":"173007",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":64.326794,
+    "reversegeo:longitude":10.498581,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -137,7 +139,7 @@
         }
     ],
     "wof:id":1159297275,
-    "wof:lastmodified":1566662949,
+    "wof:lastmodified":1571184497,
     "wof:name":"Osen",
     "wof:parent_id":85687127,
     "wof:placetype":"localadmin",

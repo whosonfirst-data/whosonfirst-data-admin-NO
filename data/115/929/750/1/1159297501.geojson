@@ -132,6 +132,8 @@
     "no-geonorge:lokalid":"173097",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":58.941146,
+    "reversegeo:longitude":5.593675,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -154,7 +156,7 @@
         }
     ],
     "wof:id":1159297501,
-    "wof:lastmodified":1566662874,
+    "wof:lastmodified":1571184492,
     "wof:name":"Sola",
     "wof:parent_id":85687085,
     "wof:placetype":"localadmin",

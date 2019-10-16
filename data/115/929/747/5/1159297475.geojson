@@ -153,6 +153,8 @@
     "no-geonorge:lokalid":"173062",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":63.071875,
+    "reversegeo:longitude":7.811631,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -175,7 +177,7 @@
         }
     ],
     "wof:id":1159297475,
-    "wof:lastmodified":1566662818,
+    "wof:lastmodified":1571184489,
     "wof:name":"Kristiansund",
     "wof:parent_id":85687123,
     "wof:placetype":"localadmin",

@@ -30,6 +30,8 @@
     "no-geonorge:lokalid":"173013",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":62.350512,
+    "reversegeo:longitude":5.555001,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":1159297413,
-    "wof:lastmodified":1566662839,
+    "wof:lastmodified":1571184490,
     "wof:name":"Heroy",
     "wof:parent_id":85687123,
     "wof:placetype":"localadmin",

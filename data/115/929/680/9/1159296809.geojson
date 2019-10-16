@@ -30,6 +30,8 @@
     "no-geonorge:lokalid":"172963",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":66.66127,
+    "reversegeo:longitude":13.233721,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -50,7 +52,7 @@
         }
     ],
     "wof:id":1159296809,
-    "wof:lastmodified":1566662785,
+    "wof:lastmodified":1571184488,
     "wof:name":"Rodoy",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

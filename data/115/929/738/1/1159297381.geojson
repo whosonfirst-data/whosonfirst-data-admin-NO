@@ -126,6 +126,8 @@
     "no-geonorge:lokalid":"173073",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":58.750436,
+    "reversegeo:longitude":5.602566,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":1159297381,
-    "wof:lastmodified":1566662764,
+    "wof:lastmodified":1571184487,
     "wof:name":"Klepp",
     "wof:parent_id":85687085,
     "wof:placetype":"localadmin",

@@ -132,6 +132,8 @@
     "no-geonorge:lokalid":"173042",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":58.194238,
+    "reversegeo:longitude":8.246539,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -154,7 +156,7 @@
         }
     ],
     "wof:id":1159297591,
-    "wof:lastmodified":1566662884,
+    "wof:lastmodified":1571184492,
     "wof:name":"Lillesand",
     "wof:parent_id":85687071,
     "wof:placetype":"localadmin",

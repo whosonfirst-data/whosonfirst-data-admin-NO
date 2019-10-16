@@ -36,6 +36,8 @@
     "no-geonorge:lokalid":"172972",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":66.930109,
+    "reversegeo:longitude":13.73441,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -56,7 +58,7 @@
         }
     ],
     "wof:id":1159296803,
-    "wof:lastmodified":1566662789,
+    "wof:lastmodified":1571184488,
     "wof:name":"Rost",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

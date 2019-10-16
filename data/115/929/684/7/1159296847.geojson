@@ -30,6 +30,8 @@
     "no-geonorge:lokalid":"172771",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":58.105205,
+    "reversegeo:longitude":7.744621,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":1159296847,
-    "wof:lastmodified":1566662899,
+    "wof:lastmodified":1571184494,
     "wof:name":"Sogne",
     "wof:parent_id":85687063,
     "wof:placetype":"localadmin",

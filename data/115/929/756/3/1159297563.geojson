@@ -126,6 +126,8 @@
     "no-geonorge:lokalid":"172956",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":70.109111,
+    "reversegeo:longitude":25.509273,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":1159297563,
-    "wof:lastmodified":1566662857,
+    "wof:lastmodified":1571184492,
     "wof:name":"Porsanger",
     "wof:parent_id":85687145,
     "wof:placetype":"localadmin",

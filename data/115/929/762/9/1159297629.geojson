@@ -132,6 +132,8 @@
     "no-geonorge:lokalid":"173102",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":58.470099,
+    "reversegeo:longitude":6.05266,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -154,7 +156,7 @@
         }
     ],
     "wof:id":1159297629,
-    "wof:lastmodified":1566662750,
+    "wof:lastmodified":1571184486,
     "wof:name":"Eigersund",
     "wof:parent_id":85687085,
     "wof:placetype":"localadmin",

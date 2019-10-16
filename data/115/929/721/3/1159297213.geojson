@@ -30,6 +30,8 @@
     "no-geonorge:lokalid":"172921",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":68.712215,
+    "reversegeo:longitude":16.159731,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":1159297213,
-    "wof:lastmodified":1566662925,
+    "wof:lastmodified":1571184496,
     "wof:name":"Kvaefjord",
     "wof:parent_id":85687143,
     "wof:placetype":"localadmin",

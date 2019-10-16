@@ -117,6 +117,8 @@
     "no-geonorge:lokalid":"172880",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":60.769691,
+    "reversegeo:longitude":4.725608,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -139,7 +141,7 @@
         }
     ],
     "wof:id":1159297397,
-    "wof:lastmodified":1566662734,
+    "wof:lastmodified":1571184485,
     "wof:name":"Fedje",
     "wof:parent_id":85687099,
     "wof:placetype":"localadmin",

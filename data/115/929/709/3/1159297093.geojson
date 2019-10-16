@@ -30,6 +30,8 @@
     "no-geonorge:lokalid":"172741",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":66.792163,
+    "reversegeo:longitude":13.602747,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -50,7 +52,7 @@
         }
     ],
     "wof:id":1159297093,
-    "wof:lastmodified":1566662757,
+    "wof:lastmodified":1571184486,
     "wof:name":"Meloy",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

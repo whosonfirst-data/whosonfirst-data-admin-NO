@@ -30,6 +30,8 @@
     "no-geonorge:lokalid":"173090",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":59.111946,
+    "reversegeo:longitude":5.718574,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":1159296985,
-    "wof:lastmodified":1566662916,
+    "wof:lastmodified":1571184495,
     "wof:name":"Rennesoy",
     "wof:parent_id":85687085,
     "wof:placetype":"localadmin",

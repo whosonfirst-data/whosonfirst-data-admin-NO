@@ -30,6 +30,8 @@
     "no-geonorge:lokalid":"172982",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":63.757653,
+    "reversegeo:longitude":8.757394,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -50,7 +52,7 @@
         }
     ],
     "wof:id":1159297521,
-    "wof:lastmodified":1566662731,
+    "wof:lastmodified":1571184484,
     "wof:name":"Froya",
     "wof:parent_id":85687127,
     "wof:placetype":"localadmin",

@@ -120,6 +120,8 @@
     "no-geonorge:lokalid":"172995",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":65.175143,
+    "reversegeo:longitude":12.430938,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -140,7 +142,7 @@
         }
     ],
     "wof:id":1159296909,
-    "wof:lastmodified":1566662905,
+    "wof:lastmodified":1571184494,
     "wof:name":"Bindal",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

@@ -120,6 +120,8 @@
     "no-geonorge:lokalid":"172928",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":60.794124,
+    "reversegeo:longitude":4.996683,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":1159296719,
-    "wof:lastmodified":1566662891,
+    "wof:lastmodified":1571184493,
     "wof:name":"Austrheim",
     "wof:parent_id":85687099,
     "wof:placetype":"localadmin",

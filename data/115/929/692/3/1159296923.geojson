@@ -30,6 +30,8 @@
     "no-geonorge:lokalid":"172804",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":58.774232,
+    "reversegeo:longitude":9.208828,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":1159296923,
-    "wof:lastmodified":1566662804,
+    "wof:lastmodified":1571184488,
     "wof:name":"Risor",
     "wof:parent_id":85687071,
     "wof:placetype":"localadmin",

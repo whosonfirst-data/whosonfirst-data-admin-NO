@@ -60,6 +60,8 @@
     "no-geonorge:lokalid":"172993",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":65.085889,
+    "reversegeo:longitude":11.612661,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -82,7 +84,7 @@
         }
     ],
     "wof:id":1159297431,
-    "wof:lastmodified":1566662919,
+    "wof:lastmodified":1571184495,
     "wof:name":"Leka",
     "wof:parent_id":85687133,
     "wof:placetype":"localadmin",

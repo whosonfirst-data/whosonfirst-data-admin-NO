@@ -177,6 +177,8 @@
     "no-geonorge:lokalid":"173100",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":59.441327,
+    "reversegeo:longitude":5.259839,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -199,7 +201,7 @@
         }
     ],
     "wof:id":1159296709,
-    "wof:lastmodified":1566662897,
+    "wof:lastmodified":1571184493,
     "wof:name":"Haugesund",
     "wof:parent_id":85687085,
     "wof:placetype":"localadmin",
