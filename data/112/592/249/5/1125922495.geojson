@@ -84,7 +84,7 @@
     },
     "wof:country":"NO",
     "wof:created":1497296530,
-    "wof:geomhash":"2fb17cccdb55805e623ce6ab89ddf73a",
+    "wof:geomhash":"b24b3bb0408ce6d9494cd6ae982b9e54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,13 +95,15 @@
         }
     ],
     "wof:id":1125922495,
-    "wof:lastmodified":1571269639,
+    "wof:lastmodified":1571270638,
     "wof:name":"Milde",
     "wof:parent_id":1159297617,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101751923
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000135,
-    "geom:area_square_m":824416.936396,
+    "geom:area_square_m":824416.936397,
     "geom:bbox":"5.25797661253,60.487148217,5.27571130128,60.5101383424",
     "geom:latitude":60.497669,
     "geom:longitude":5.265748,
@@ -88,7 +88,7 @@
     },
     "wof:country":"NO",
     "wof:created":1497301739,
-    "wof:geomhash":"9b5ee71f778b4b925b05db51b1458cb2",
+    "wof:geomhash":"2ff78c5087cf92af01b4e178bac9491d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,13 +99,15 @@
         }
     ],
     "wof:id":1126035123,
-    "wof:lastmodified":1571269639,
+    "wof:lastmodified":1571270640,
     "wof:name":"Salhus",
     "wof:parent_id":1159297617,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101751923
+    ],
     "wof:tags":[]
 },
   "bbox": [

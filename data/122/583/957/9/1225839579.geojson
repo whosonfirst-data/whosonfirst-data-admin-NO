@@ -46,7 +46,7 @@
         "gn:id":3253740
     },
     "wof:country":"NO",
-    "wof:geomhash":"bde1127db6defbf6e0f4c8f169fbc75b",
+    "wof:geomhash":"e29fcbe6c571e41fcc50823a910f9394",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1225839579,
-    "wof:lastmodified":1571269639,
+    "wof:lastmodified":1571270639,
     "wof:name":"Hilleren",
     "wof:parent_id":1159297617,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101751923
+    ],
     "wof:tags":[]
 },
   "bbox": [
