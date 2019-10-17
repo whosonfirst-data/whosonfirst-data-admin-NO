@@ -153,6 +153,9 @@
     "name:hye_x_preferred":[
         "\u0531\u057e\u0561\u0566"
     ],
+    "name:ido_x_preferred":[
+        "Sablo"
+    ],
     "name:iku_x_preferred":[
         "\u14ef\u1405\u154b\u1585"
     ],
@@ -347,11 +350,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85687091,
         102191581,
         1159296755,
         85633341,
-        1343934077
+        1343934077,
+        85687091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -370,7 +373,7 @@
         }
     ],
     "wof:id":1495148881,
-    "wof:lastmodified":1571089556,
+    "wof:lastmodified":1571348815,
     "wof:name":"Sand",
     "wof:parent_id":1159296755,
     "wof:placetype":"neighbourhood",

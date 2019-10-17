@@ -117,6 +117,9 @@
     "name:gla_x_preferred":[
         "Lund"
     ],
+    "name:gle_x_preferred":[
+        "Lund"
+    ],
     "name:glg_x_preferred":[
         "Lund"
     ],
@@ -266,9 +269,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85687127,
         1159297145,
-        1243423983
+        1243423983,
+        85687127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -287,7 +290,7 @@
         }
     ],
     "wof:id":1495148933,
-    "wof:lastmodified":1571089557,
+    "wof:lastmodified":1571348831,
     "wof:name":"Lund",
     "wof:parent_id":1159297145,
     "wof:placetype":"neighbourhood",
