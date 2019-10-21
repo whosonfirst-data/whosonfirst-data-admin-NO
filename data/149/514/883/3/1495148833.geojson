@@ -1,0 +1,79 @@
+{
+  "id": 1495148833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.70058,59.04009,9.70058,59.04009",
+    "geom:latitude":59.04009,
+    "geom:longitude":9.70058,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"814",
+    "gn:asciiname":"Kjellestadjordene",
+    "gn:country_code":"NO",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404352,
+    "gn:latitude":59.04009,
+    "gn:longitude":9.70058,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Kjellestadjordene",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"9.68058,59.02009,9.72058,59.06009",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Kjellestadjordene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687091,
+        102191581,
+        1159296837,
+        85633341,
+        1495124047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404352
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"21042623f1cfd87b1f774c020f1f70fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296837,
+            "locality_id":1495124047,
+            "neighbourhood_id":1495148833,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1495148833,
+    "wof:lastmodified":1571394000,
+    "wof:name":"Kjellestadjordene",
+    "wof:parent_id":1495124047,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1242648799
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.70058,
+    59.04009,
+    9.70058,
+    59.04009
+],
+  "geometry": {"coordinates":[9.70058,59.04009],"type":"Point"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 1495147817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.99914,60.08772,10.99914,60.08772",
+    "geom:latitude":60.08772,
+    "geom:longitude":10.99914,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"234.0",
+    "gn:asciiname":"Bekkeberga",
+    "gn:country_code":"NO",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537885,
+    "gn:latitude":60.08772,
+    "gn:longitude":10.99914,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Bekkeberga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"10.97914,60.06772,11.01914,60.10772",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Bekkeberga"
+    ],
+    "name:fra_x_preferred":[
+        "Bekkeberga"
+    ],
+    "name:jav_x_preferred":[
+        "Bekkeberga"
+    ],
+    "name:msa_x_preferred":[
+        "Bekkeberga"
+    ],
+    "name:nor_x_preferred":[
+        "Bekkeberga"
+    ],
+    "name:vie_x_preferred":[
+        "Bekkeberga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687095,
+        102191581,
+        1159296941,
+        85633341,
+        101815547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537885
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f4259da0d997536b2cf4d7cb7601f8f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296941,
+            "locality_id":101815547,
+            "neighbourhood_id":1495147817,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1495147817,
+    "wof:lastmodified":1571393864,
+    "wof:name":"Bekkeberga",
+    "wof:parent_id":101815547,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1242695659
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.99914,
+    60.08772,
+    10.99914,
+    60.08772
+],
+  "geometry": {"coordinates":[10.99914,60.08772],"type":"Point"}
+}

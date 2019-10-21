@@ -52,6 +52,9 @@
     "name:eus_x_preferred":[
         "Loppa"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u067e\u0627"
+    ],
     "name:fin_x_preferred":[
         "Lappea"
     ],
@@ -129,6 +132,8 @@
     "no-geonorge:lokalid":"172727",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":70.321558,
+    "reversegeo:longitude":21.73627,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -151,7 +156,7 @@
         }
     ],
     "wof:id":1159297177,
-    "wof:lastmodified":1566662927,
+    "wof:lastmodified":1571389799,
     "wof:name":"Loppa",
     "wof:parent_id":85687145,
     "wof:placetype":"localadmin",

@@ -68,8 +68,10 @@
     "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159297511,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,15 +84,15 @@
     "wof:geomhash":"b0e86910bfc53967055765dc4d139063",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297511,
             "locality_id":1125995933,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1125995933,
-    "wof:lastmodified":1566662594,
+    "wof:lastmodified":1571392948,
     "wof:name":"Ringv\u00e5l",
     "wof:parent_id":1159297511,
     "wof:placetype":"locality",

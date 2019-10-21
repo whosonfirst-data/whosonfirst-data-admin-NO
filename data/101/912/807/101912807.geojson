@@ -17,7 +17,7 @@
     "mps:latitude":63.868352,
     "mps:longitude":8.666568,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mausund"
@@ -56,8 +56,10 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":97,
     "wof:belongsto":[
+        102191581,
         1159297521,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,15 +71,15 @@
     "wof:geomhash":"dec73abdc2b749f0961c1529a90f635f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297521,
             "locality_id":101912807,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":101912807,
-    "wof:lastmodified":1566662392,
+    "wof:lastmodified":1571392945,
     "wof:name":"Mausundv\u00e6r",
     "wof:parent_id":1159297521,
     "wof:placetype":"locality",

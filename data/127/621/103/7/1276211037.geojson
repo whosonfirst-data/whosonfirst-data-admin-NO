@@ -28,14 +28,16 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:nld_x_preferred":[
         "Blokken"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297273,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -46,15 +48,15 @@
     "wof:geomhash":"ce4d20bc4f0472b628a50e4492b6c058",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297273,
             "locality_id":1276211037,
             "region_id":85687135
         }
     ],
     "wof:id":1276211037,
-    "wof:lastmodified":1566661852,
+    "wof:lastmodified":1571679264,
     "wof:name":"Blokken",
     "wof:parent_id":1159297273,
     "wof:placetype":"locality",

@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lervaag",
@@ -38,7 +38,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297087,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -49,15 +51,15 @@
     "wof:geomhash":"79f7faf30e4699f51cb1c292d3d2d71d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297087,
             "locality_id":1293868405,
             "region_id":85687135
         }
     ],
     "wof:id":1293868405,
-    "wof:lastmodified":1566661825,
+    "wof:lastmodified":1571679326,
     "wof:name":"Leirvagen",
     "wof:parent_id":1159297087,
     "wof:placetype":"locality",

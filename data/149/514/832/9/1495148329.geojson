@@ -1,0 +1,92 @@
+{
+  "id": 1495148329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.79202,58.45018,8.79202,58.45018",
+    "geom:latitude":58.45018,
+    "geom:longitude":8.79202,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"906.0",
+    "gn:asciiname":"Brattekleiv",
+    "gn:country_code":"NO",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3226906,
+    "gn:latitude":58.45018,
+    "gn:longitude":8.79202,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Brattekleiv",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"8.77202,58.43018,8.81202,58.47018",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Brattekleiv"
+    ],
+    "name:jav_x_preferred":[
+        "Brattekleiv"
+    ],
+    "name:msa_x_preferred":[
+        "Brattekleiv"
+    ],
+    "name:nor_x_preferred":[
+        "Brattekleiv"
+    ],
+    "name:und_x_variant":[
+        "Bratteklev"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687071,
+        102191581,
+        1159297607,
+        85633341,
+        101803769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3226906,
+        "wk:page":"Brattekleiv"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0b7f01c551225260fc6e6bb11b5bf7db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297607,
+            "locality_id":101803769,
+            "neighbourhood_id":1495148329,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1495148329,
+    "wof:lastmodified":1571393361,
+    "wof:name":"Brattekleiv",
+    "wof:parent_id":101803769,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226654635
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.79202,
+    58.45018,
+    8.79202,
+    58.45018
+],
+  "geometry": {"coordinates":[8.79202,58.45018],"type":"Point"}
+}

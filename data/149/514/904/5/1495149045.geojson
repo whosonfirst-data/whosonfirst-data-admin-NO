@@ -1,0 +1,76 @@
+{
+  "id": 1495149045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.7,58.43333,8.7,58.43333",
+    "geom:latitude":58.43333,
+    "geom:longitude":8.7,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"906.0",
+    "gn:asciiname":"Lunnerod",
+    "gn:country_code":"NO",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3146758,
+    "gn:latitude":58.43333,
+    "gn:longitude":8.7,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Lunner\u00f8d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"8.68,58.41333,8.72,58.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687071,
+        102191581,
+        1159297607,
+        85633341,
+        101803769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3146758
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"1972b58874a9ab3cbac50c86af210b36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297607,
+            "locality_id":101803769,
+            "neighbourhood_id":1495149045,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1495149045,
+    "wof:lastmodified":1571393562,
+    "wof:name":"Lunnerod",
+    "wof:parent_id":101803769,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310414883
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.7,
+    58.43333000000001,
+    8.7,
+    58.43333000000001
+],
+  "geometry": {"coordinates":[8.7,58.43333000000001],"type":"Point"}
+}

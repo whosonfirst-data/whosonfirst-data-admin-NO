@@ -1,0 +1,79 @@
+{
+  "id": 1495149171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.63743,58.77587,5.63743,58.77587",
+    "geom:latitude":58.77587,
+    "geom:longitude":5.63743,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1120",
+    "gn:asciiname":"Sandholen",
+    "gn:country_code":"NO",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404136,
+    "gn:latitude":58.77587,
+    "gn:longitude":5.63743,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Sandholen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.61743,58.75587,5.65743,58.79587",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Sandholen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687085,
+        102191581,
+        1159297381,
+        85633341,
+        101803831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404136
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"695878e71e8d95f587ca5984fd313a5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297381,
+            "locality_id":101803831,
+            "neighbourhood_id":1495149171,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1495149171,
+    "wof:lastmodified":1571679501,
+    "wof:name":"Sandholen",
+    "wof:parent_id":101803831,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1344031561
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.63743,
+    58.77587,
+    5.63743,
+    58.77587
+],
+  "geometry": {"coordinates":[5.63743,58.77587],"type":"Point"}
+}

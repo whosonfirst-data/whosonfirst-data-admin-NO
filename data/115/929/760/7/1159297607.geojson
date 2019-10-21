@@ -189,6 +189,8 @@
     "no-geonorge:lokalid":"172984",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":58.467485,
+    "reversegeo:longitude":8.871726,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -211,7 +213,7 @@
         }
     ],
     "wof:id":1159297607,
-    "wof:lastmodified":1566662855,
+    "wof:lastmodified":1571389342,
     "wof:name":"Arendal",
     "wof:parent_id":85687071,
     "wof:placetype":"localadmin",

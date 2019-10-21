@@ -28,11 +28,13 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297059,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"78b632bd6b6edc09e620a583a2de01c1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297059,
             "locality_id":1260074623,
             "region_id":85687135
         }
     ],
     "wof:id":1260074623,
-    "wof:lastmodified":1566662164,
+    "wof:lastmodified":1571679345,
     "wof:name":"Visthus",
     "wof:parent_id":1159297059,
     "wof:placetype":"locality",

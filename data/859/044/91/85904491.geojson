@@ -18,7 +18,7 @@
     "mps:latitude":63.407511,
     "mps:longitude":10.434536,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -64,9 +64,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        1495115971,
+        102191581,
         1159297145,
-        101751927,
-        85687127
+        85633341,
+        1495123981
     ],
     "wof:breaches":[
         85904459
@@ -79,21 +81,21 @@
     "wof:geomhash":"70b63b5447d271033a93cde6e254abe0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297145,
-            "locality_id":101751927,
+            "locality_id":1495123981,
             "neighbourhood_id":85904491,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":85904491,
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1566661662,
+    "wof:lastmodified":1571393951,
     "wof:name":"Othilienborg",
-    "wof:parent_id":101751927,
+    "wof:parent_id":1495123981,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

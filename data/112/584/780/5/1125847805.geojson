@@ -73,8 +73,10 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297259,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,15 +89,15 @@
     "wof:geomhash":"57ee60daed43c127c9bd18b989b6e5d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297259,
             "locality_id":1125847805,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1125847805,
-    "wof:lastmodified":1566662713,
+    "wof:lastmodified":1571392939,
     "wof:name":"Fillan",
     "wof:parent_id":1159297259,
     "wof:placetype":"locality",

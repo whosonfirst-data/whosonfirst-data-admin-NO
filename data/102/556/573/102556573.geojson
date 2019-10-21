@@ -79,8 +79,10 @@
         "state_id":2346388
     },
     "wof:belongsto":[
-        85633341,
-        85687145
+        85687145,
+        102191581,
+        1159297287,
+        85633341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,14 +97,18 @@
     "wof:hierarchy":[
         {
             "campus_id":102556573,
+            "continent_id":102191581,
             "country_id":85633341,
+            "localadmin_id":1159297287,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
             "region_id":85687145
         }
     ],
     "wof:id":102556573,
-    "wof:lastmodified":1566661495,
+    "wof:lastmodified":1571356050,
     "wof:name":"Honningsv\u00e5g Lufthavn Valan",
-    "wof:parent_id":85687145,
+    "wof:parent_id":1159297287,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

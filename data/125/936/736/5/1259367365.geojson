@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "Kjerringnes"
@@ -38,7 +38,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297273,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -49,15 +51,15 @@
     "wof:geomhash":"052da3a94d8455c065e502346e38f2f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297273,
             "locality_id":1259367365,
             "region_id":85687135
         }
     ],
     "wof:id":1259367365,
-    "wof:lastmodified":1566663079,
+    "wof:lastmodified":1571679349,
     "wof:name":"Kjerringnes",
     "wof:parent_id":1159297273,
     "wof:placetype":"locality",

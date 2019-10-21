@@ -1,0 +1,80 @@
+{
+  "id": 1495147807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.34496,58.89187,9.34496,58.89187",
+    "geom:latitude":58.89187,
+    "geom:longitude":9.34496,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"815.0",
+    "gn:asciiname":"Vadfoss",
+    "gn:country_code":"NO",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3133107,
+    "gn:latitude":58.89187,
+    "gn:longitude":9.34496,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Vadfoss",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"9.32496,58.87187,9.36496,58.91187",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:msa_x_preferred":[
+        "Vadfoss"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687091,
+        102191581,
+        1159297523,
+        85633341,
+        101803879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3133107,
+        "wk:page":"Vadfoss"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"00b119396d93e57d00948fc9fb9f689d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297523,
+            "locality_id":101803879,
+            "neighbourhood_id":1495147807,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1495147807,
+    "wof:lastmodified":1571393905,
+    "wof:name":"Vadfoss",
+    "wof:parent_id":101803879,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209987895
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.34496,
+    58.89187,
+    9.34496,
+    58.89187
+],
+  "geometry": {"coordinates":[9.34496,58.89187],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1495149239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.63708,59.15673,9.63708,59.15673",
+    "geom:latitude":59.15673,
+    "geom:longitude":9.63708,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"806",
+    "gn:asciiname":"Tollnes",
+    "gn:country_code":"NO",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404194,
+    "gn:latitude":59.15673,
+    "gn:longitude":9.63708,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Tollnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"9.61708,59.13673,9.65708,59.17673",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Tollnes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687091,
+        102191581,
+        1159297035,
+        85633341,
+        1125829217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404194
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"fcb75e96e9bf58f15c45cc3b7b67c6f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297035,
+            "locality_id":1125829217,
+            "neighbourhood_id":1495149239,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1495149239,
+    "wof:lastmodified":1571393456,
+    "wof:name":"Tollnes",
+    "wof:parent_id":1125829217,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327210131
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.63708,
+    59.15673,
+    9.63708,
+    59.15673
+],
+  "geometry": {"coordinates":[9.63708,59.15673],"type":"Point"}
+}

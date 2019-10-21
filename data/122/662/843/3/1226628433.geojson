@@ -28,15 +28,17 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "Gunnes"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297637,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,15 @@
     "wof:geomhash":"e7b08256be9b6ddf67225e30b4b5be73",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297637,
             "locality_id":1226628433,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1226628433,
-    "wof:lastmodified":1566663286,
+    "wof:lastmodified":1571392973,
     "wof:name":"Gunnes",
     "wof:parent_id":1159297637,
     "wof:placetype":"locality",

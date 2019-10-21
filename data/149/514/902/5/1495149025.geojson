@@ -1,0 +1,103 @@
+{
+  "id": 1495149025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.45,60.16667,5.45,60.16667",
+    "geom:latitude":60.16667,
+    "geom:longitude":5.45,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1243.0",
+    "gn:asciiname":"Lunde",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3146810,
+    "gn:latitude":60.16667,
+    "gn:longitude":5.45,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Lunde",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.43,60.14667,5.47,60.18667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Lunde"
+    ],
+    "name:dan_x_preferred":[
+        "Lunde"
+    ],
+    "name:deu_x_preferred":[
+        "Lunde"
+    ],
+    "name:fra_x_preferred":[
+        "Lunde"
+    ],
+    "name:nld_x_preferred":[
+        "Lunde"
+    ],
+    "name:nno_x_preferred":[
+        "Lunde"
+    ],
+    "name:nor_x_preferred":[
+        "Lunde"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u043d\u0434\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Lunde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687099,
+        102191581,
+        1159297561,
+        85633341,
+        101803931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3146810
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9ae4e7884743f7921b949b0371066b48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297561,
+            "locality_id":101803931,
+            "neighbourhood_id":1495149025,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1495149025,
+    "wof:lastmodified":1571393586,
+    "wof:name":"Lunde",
+    "wof:parent_id":101803931,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243260461
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.45,
+    60.16667,
+    5.45,
+    60.16667
+],
+  "geometry": {"coordinates":[5.45,60.16667],"type":"Point"}
+}

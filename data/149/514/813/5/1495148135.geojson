@@ -1,0 +1,76 @@
+{
+  "id": 1495148135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.38333,59.7,5.38333,59.7",
+    "geom:latitude":59.7,
+    "geom:longitude":5.38333,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1219.0",
+    "gn:asciiname":"Teigland",
+    "gn:country_code":"NO",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3134746,
+    "gn:latitude":59.7,
+    "gn:longitude":5.38333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Teigland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.36333,59.68,5.40333,59.72",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687099,
+        102191581,
+        1159296859,
+        85633341,
+        1175613115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3134746
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"820e5d1102e433c3299b2a136e0481c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296859,
+            "locality_id":1175613115,
+            "neighbourhood_id":1495148135,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1495148135,
+    "wof:lastmodified":1571393710,
+    "wof:name":"Teigland",
+    "wof:parent_id":1175613115,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243255375
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.38333,
+    59.7,
+    5.38333,
+    59.7
+],
+  "geometry": {"coordinates":[5.38333,59.7],"type":"Point"}
+}

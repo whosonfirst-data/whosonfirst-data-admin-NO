@@ -1,0 +1,97 @@
+{
+  "id": 1495149051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.326439,63.344352,10.326439,63.344352",
+    "geom:latitude":63.344352,
+    "geom:longitude":10.326439,
+    "gn:country":null,
+    "iso:country":"NO",
+    "lbl:bbox":"10.306439,63.324352,10.346439,63.364352",
+    "lbl:latitude":63.344352,
+    "lbl:longitude":10.326439,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Kattem"
+    ],
+    "name:nob_x_preferred":[
+        "Kattem"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kattem",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
+    "qs_pg:photos":126,
+    "qs_pg:photos_1k":26,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":126,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":230466,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":20229550,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1495115971,
+        102191581,
+        1159297145,
+        85633341,
+        1495123981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20229550,
+        "qs_pg:id":230466,
+        "wd:id":"Q11980429"
+    },
+    "wof:country":"NO",
+    "wof:created":1497292838,
+    "wof:geomhash":"eb89b41f3e641170d09ddd5c4f8ff486",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297145,
+            "locality_id":1495123981,
+            "neighbourhood_id":1495149051,
+            "region_id":1495115971
+        }
+    ],
+    "wof:id":1495149051,
+    "wof:lastmodified":1571393954,
+    "wof:name":"Kattem",
+    "wof:parent_id":1495123981,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125838735
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.326439,
+    63.344352,
+    10.326439,
+    63.344352
+],
+  "geometry": {"coordinates":[10.326439,63.344352],"type":"Point"}
+}

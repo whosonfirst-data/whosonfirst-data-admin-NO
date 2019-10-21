@@ -250,11 +250,16 @@
     "name:zho_x_preferred":[
         "\u82d4\u85d3\u690d\u7269\u95e8"
     ],
+    "name:zho_x_variant":[
+        "\u85d3\u7c7b\u690d\u7269\u95e8"
+    ],
     "no-geonorge:datauttaksdato":"20180109110339",
     "no-geonorge:kommunenummer":"0104",
     "no-geonorge:lokalid":"172985",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":59.46356,
+    "reversegeo:longitude":10.708658,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -277,7 +282,7 @@
         }
     ],
     "wof:id":1159296853,
-    "wof:lastmodified":1566662890,
+    "wof:lastmodified":1571389551,
     "wof:name":"Moss",
     "wof:parent_id":85687079,
     "wof:placetype":"localadmin",

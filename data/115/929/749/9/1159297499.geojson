@@ -186,6 +186,8 @@
     "no-geonorge:lokalid":"172865",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":62.741337,
+    "reversegeo:longitude":7.444579,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -208,7 +210,7 @@
         }
     ],
     "wof:id":1159297499,
-    "wof:lastmodified":1566662819,
+    "wof:lastmodified":1571389151,
     "wof:name":"Molde",
     "wof:parent_id":85687123,
     "wof:placetype":"localadmin",

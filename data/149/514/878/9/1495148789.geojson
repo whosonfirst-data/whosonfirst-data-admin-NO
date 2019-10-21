@@ -1,0 +1,103 @@
+{
+  "id": 1495148789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.99854,59.24647,10.99854,59.24647",
+    "geom:latitude":59.24647,
+    "geom:longitude":10.99854,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"106.0",
+    "gn:asciiname":"Hauge",
+    "gn:country_code":"NO",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3153692,
+    "gn:latitude":59.24647,
+    "gn:longitude":10.99854,
+    "gn:modification_date":"2013-07-13",
+    "gn:name":"Hauge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"10.97854,59.22647,11.01854,59.26647",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Hauge"
+    ],
+    "name:dan_x_preferred":[
+        "Hauge"
+    ],
+    "name:deu_x_preferred":[
+        "Hauge"
+    ],
+    "name:fra_x_preferred":[
+        "Hauge"
+    ],
+    "name:ita_x_preferred":[
+        "Hauge"
+    ],
+    "name:nld_x_preferred":[
+        "Hauge"
+    ],
+    "name:nor_x_preferred":[
+        "Hauge"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0443\u0433\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Hauge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687079,
+        102191581,
+        1159297385,
+        85633341,
+        1125851043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3153692
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e43235d483f909a2dadca7d05291f47e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297385,
+            "locality_id":1125851043,
+            "neighbourhood_id":1495148789,
+            "region_id":85687079
+        }
+    ],
+    "wof:id":1495148789,
+    "wof:lastmodified":1571393697,
+    "wof:name":"Hauge",
+    "wof:parent_id":1125851043,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1242656845
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.99854,
+    59.24647,
+    10.99854,
+    59.24647
+],
+  "geometry": {"coordinates":[10.99854,59.24647],"type":"Point"}
+}

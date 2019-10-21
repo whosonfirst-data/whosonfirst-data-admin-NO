@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Anes"
@@ -43,7 +43,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296877,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -54,15 +56,15 @@
     "wof:geomhash":"a478f6a997176b6d3dbb61f2ad4f4cd9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296877,
             "locality_id":1293276593,
             "region_id":85687135
         }
     ],
     "wof:id":1293276593,
-    "wof:lastmodified":1566661789,
+    "wof:lastmodified":1571679283,
     "wof:name":"Anes",
     "wof:parent_id":1159296877,
     "wof:placetype":"locality",

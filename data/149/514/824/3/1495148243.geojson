@@ -1,0 +1,102 @@
+{
+  "id": 1495148243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.40036,61.36353,5.40036,61.36353",
+    "geom:latitude":61.36353,
+    "geom:longitude":5.40036,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1429.0",
+    "gn:asciiname":"Dale",
+    "gn:country_code":"NO",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3159433,
+    "gn:latitude":61.36353,
+    "gn:longitude":5.40036,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Dale",
+    "gn:population":988,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.38036,61.34353,5.42036,61.38353",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "Dale"
+    ],
+    "name:jav_x_preferred":[
+        "Dale"
+    ],
+    "name:msa_x_preferred":[
+        "Dale"
+    ],
+    "name:nld_x_preferred":[
+        "Dale"
+    ],
+    "name:nor_x_preferred":[
+        "Dale"
+    ],
+    "name:spa_x_preferred":[
+        "Dale"
+    ],
+    "name:und_x_variant":[
+        "Fjaler",
+        "Dale i Sunnfjord"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85687113,
+        102191581,
+        1159297051,
+        85633341,
+        101804047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3159433,
+        "wk:page":"Dale%2C_Sogn_og_Fjordane"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"5a256dc71596e09ce76219d3c8280485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297051,
+            "locality_id":101804047,
+            "neighbourhood_id":1495148243,
+            "region_id":85687113
+        }
+    ],
+    "wof:id":1495148243,
+    "wof:lastmodified":1571393663,
+    "wof:name":"Dale",
+    "wof:parent_id":101804047,
+    "wof:placetype":"neighbourhood",
+    "wof:population":988,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226015097
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.40036,
+    61.36353,
+    5.40036,
+    61.36353
+],
+  "geometry": {"coordinates":[5.40036,61.36353],"type":"Point"}
+}

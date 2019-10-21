@@ -1,0 +1,76 @@
+{
+  "id": 1495148707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.72278,59.00361,5.72278,59.00361",
+    "geom:latitude":59.00361,
+    "geom:longitude":5.72278,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1103.0",
+    "gn:asciiname":"Skeie",
+    "gn:country_code":"NO",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3227727,
+    "gn:latitude":59.00361,
+    "gn:longitude":5.72278,
+    "gn:modification_date":"2010-10-15",
+    "gn:name":"Skeie",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.70278,58.98361,5.74278,59.02361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687085,
+        102191581,
+        1159297103,
+        85633341,
+        1495123971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3227727
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d7ac9888ccb23bde184fd997734b92c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297103,
+            "locality_id":1495123971,
+            "neighbourhood_id":1495148707,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1495148707,
+    "wof:lastmodified":1571679499,
+    "wof:name":"Skeie",
+    "wof:parent_id":1495123971,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293562835
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.72278,
+    59.00361,
+    5.72278,
+    59.00361
+],
+  "geometry": {"coordinates":[5.72278,59.00361],"type":"Point"}
+}

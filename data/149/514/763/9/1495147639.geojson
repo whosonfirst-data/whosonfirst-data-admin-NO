@@ -1,0 +1,79 @@
+{
+  "id": 1495147639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.46382,63.79191,11.46382,63.79191",
+    "geom:latitude":63.79191,
+    "geom:longitude":11.46382,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5038",
+    "gn:asciiname":"Ormelen",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404189,
+    "gn:latitude":63.79191,
+    "gn:longitude":11.46382,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"\u00d8rmelen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"11.44382,63.77191,11.48382,63.81191",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "\u00d8rmelen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1495115971,
+        102191581,
+        1159296801,
+        85633341,
+        101814559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404189
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4cd18374c8cf05d34b2b46f668d6fc2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296801,
+            "locality_id":101814559,
+            "neighbourhood_id":1495147639,
+            "region_id":1495115971
+        }
+    ],
+    "wof:id":1495147639,
+    "wof:lastmodified":1571393090,
+    "wof:name":"Ormelen",
+    "wof:parent_id":101814559,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343379295
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.46382,
+    63.79191,
+    11.46382,
+    63.79191
+],
+  "geometry": {"coordinates":[11.46382,63.79191],"type":"Point"}
+}

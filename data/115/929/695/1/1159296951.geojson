@@ -120,10 +120,14 @@
     "no-geonorge:lokalid":"172802",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":68.508379,
+    "reversegeo:longitude":16.834305,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        102191581,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -133,14 +137,14 @@
     "wof:geomhash":"178a3bca8c942316738deb7a8218be03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296951,
             "region_id":85687135
         }
     ],
     "wof:id":1159296951,
-    "wof:lastmodified":1566662805,
+    "wof:lastmodified":1571679194,
     "wof:name":"Evenes",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

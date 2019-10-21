@@ -1,0 +1,96 @@
+{
+  "id": 1495147927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.43423,59.94009,11.43423,59.94009",
+    "geom:latitude":59.94009,
+    "geom:longitude":11.43423,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"221.0",
+    "gn:asciiname":"Finstadbru",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3157512,
+    "gn:latitude":59.94009,
+    "gn:longitude":11.43423,
+    "gn:modification_date":"2013-07-13",
+    "gn:name":"Finstadbru",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"11.41423,59.92009,11.45423,59.96009",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Finstadbru"
+    ],
+    "name:jav_x_preferred":[
+        "Finstadbru"
+    ],
+    "name:msa_x_preferred":[
+        "Finstadbru"
+    ],
+    "name:nor_x_preferred":[
+        "Finstadbru"
+    ],
+    "name:ron_x_preferred":[
+        "Finstadbru"
+    ],
+    "name:und_x_variant":[
+        "Finnstadbru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687095,
+        102191581,
+        1159297207,
+        85633341,
+        101815559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3157512,
+        "wk:page":"Finstadbru"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"14a313984994f72956057e7a4bfa6a31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297207,
+            "locality_id":101815559,
+            "neighbourhood_id":1495147927,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1495147927,
+    "wof:lastmodified":1571393603,
+    "wof:name":"Finstadbru",
+    "wof:parent_id":101815559,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310322711
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.43423,
+    59.94009000000001,
+    11.43423,
+    59.94009000000001
+],
+  "geometry": {"coordinates":[11.43423,59.94009000000001],"type":"Point"}
+}

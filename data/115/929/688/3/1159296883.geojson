@@ -34,6 +34,8 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        102191581,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,14 +45,14 @@
     "wof:geomhash":"1fd1e784663029affdf7ab794159a021",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296883,
             "region_id":85687135
         }
     ],
     "wof:id":1159296883,
-    "wof:lastmodified":1566662783,
+    "wof:lastmodified":1571679201,
     "wof:name":"Vagan",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

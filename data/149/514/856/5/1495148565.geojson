@@ -1,0 +1,89 @@
+{
+  "id": 1495148565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.0675,58.13768,7.0675,58.13768",
+    "geom:latitude":58.13768,
+    "geom:longitude":7.0675,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1032.0",
+    "gn:asciiname":"Alleen",
+    "gn:country_code":"NO",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3163369,
+    "gn:latitude":58.13768,
+    "gn:longitude":7.0675,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Alleen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"7.0475,58.11768,7.0875,58.15768",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:fas_x_preferred":[
+        "\u0622\u0644\u06cc\u0646"
+    ],
+    "name:nld_x_preferred":[
+        "Alleen"
+    ],
+    "name:nor_x_preferred":[
+        "Alleen"
+    ],
+    "name:ron_x_preferred":[
+        "Alleen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687063,
+        102191581,
+        1159296753,
+        85633341,
+        101805103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3163369,
+        "wk:page":"Alleen"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c27c65ac961418eef7c29cc98c814e8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296753,
+            "locality_id":101805103,
+            "neighbourhood_id":1495148565,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1495148565,
+    "wof:lastmodified":1571393379,
+    "wof:name":"Alleen",
+    "wof:parent_id":101805103,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1277152235
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.0675,
+    58.13768,
+    7.0675,
+    58.13768
+],
+  "geometry": {"coordinates":[7.0675,58.13768],"type":"Point"}
+}

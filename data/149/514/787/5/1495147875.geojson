@@ -1,0 +1,82 @@
+{
+  "id": 1495147875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.24304,59.78062,10.24304,59.78062",
+    "geom:latitude":59.78062,
+    "geom:longitude":10.24304,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"626",
+    "gn:asciiname":"Hegg",
+    "gn:country_code":"NO",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404092,
+    "gn:latitude":59.78062,
+    "gn:longitude":10.24304,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Hegg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"10.22304,59.76062,10.26304,59.80062",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Hegg"
+    ],
+    "name:nor_x_variant":[
+        "Heggtoppen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687105,
+        102191581,
+        1159296937,
+        85633341,
+        101803975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404092
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d61472f67a5162e8a880a88a7d8364c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296937,
+            "locality_id":101803975,
+            "neighbourhood_id":1495147875,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1495147875,
+    "wof:lastmodified":1571393898,
+    "wof:name":"Hegg",
+    "wof:parent_id":101803975,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226248589
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.24304,
+    59.78061999999999,
+    10.24304,
+    59.78061999999999
+],
+  "geometry": {"coordinates":[10.24304,59.78061999999999],"type":"Point"}
+}

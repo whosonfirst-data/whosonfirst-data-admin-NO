@@ -19,7 +19,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:nno_x_preferred":[
@@ -58,7 +58,9 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159296809,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -72,15 +74,15 @@
     "wof:geomhash":"5235c209296e9dc79b55887c7031777e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296809,
             "locality_id":1125950567,
             "region_id":85687135
         }
     ],
     "wof:id":1125950567,
-    "wof:lastmodified":1566662515,
+    "wof:lastmodified":1571679227,
     "wof:name":"V\u00e5ge",
     "wof:parent_id":1159296809,
     "wof:placetype":"locality",

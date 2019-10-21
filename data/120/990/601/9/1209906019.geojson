@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lunden"
@@ -107,7 +107,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297007,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -118,15 +120,15 @@
     "wof:geomhash":"bf1574fa3b2fe22de66f196933feae7e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297007,
             "locality_id":1209906019,
             "region_id":85687135
         }
     ],
     "wof:id":1209906019,
-    "wof:lastmodified":1566662003,
+    "wof:lastmodified":1571679245,
     "wof:name":"Lunden",
     "wof:parent_id":1159297007,
     "wof:placetype":"locality",

@@ -28,14 +28,16 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "M\u00e6rvoll"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297039,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -46,15 +48,15 @@
     "wof:geomhash":"dcb4a6912b16a69e46d3083d1c22b198",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297039,
             "locality_id":1276785073,
             "region_id":85687135
         }
     ],
     "wof:id":1276785073,
-    "wof:lastmodified":1566661915,
+    "wof:lastmodified":1571679291,
     "wof:name":"Maervoll",
     "wof:parent_id":1159297039,
     "wof:placetype":"locality",

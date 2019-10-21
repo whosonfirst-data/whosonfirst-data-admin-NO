@@ -1,0 +1,75 @@
+{
+  "id": 1495147467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.23174,60.36005,5.23174,60.36005",
+    "geom:latitude":60.36005,
+    "geom:longitude":5.23174,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1201.0",
+    "gn:asciiname":"Hetlevik",
+    "gn:country_code":"NO",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3253736,
+    "gn:latitude":60.36005,
+    "gn:longitude":5.23174,
+    "gn:modification_date":"2013-05-24",
+    "gn:name":"Hetlevik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.21174,60.34005,5.25174,60.38005",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687099,
+        102191581,
+        1159297617,
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3253736
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ab3b73f6bbcdf9bd92b461978d6ebf85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":-1,
+            "neighbourhood_id":1495147467,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1495147467,
+    "wof:lastmodified":1571393503,
+    "wof:name":"Hetlevik",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209812353
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.23174,
+    60.36005,
+    5.23174,
+    60.36005
+],
+  "geometry": {"coordinates":[5.23174,60.36005],"type":"Point"}
+}

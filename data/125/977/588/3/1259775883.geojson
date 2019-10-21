@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dolpen",
@@ -36,8 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297637,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,15 @@
     "wof:geomhash":"24ba83e21bd0681a0fc500e4158c4d20",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297637,
             "locality_id":1259775883,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1259775883,
-    "wof:lastmodified":1566663109,
+    "wof:lastmodified":1571393017,
     "wof:name":"Dolpa",
     "wof:parent_id":1159297637,
     "wof:placetype":"locality",

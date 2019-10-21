@@ -100,8 +100,10 @@
     "src:population":"geonames",
     "wd:wordcount":276,
     "wof:belongsto":[
+        102191581,
         1159296725,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -116,18 +118,18 @@
     "wof:geomhash":"949a90cef79690b6fa724a84bb5620f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296725,
             "locality_id":101804131,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":101804131,
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1566662365,
+    "wof:lastmodified":1571393068,
     "wof:name":"Kyrks\u00e6ter\u00f8ra",
     "wof:parent_id":1159296725,
     "wof:placetype":"locality",

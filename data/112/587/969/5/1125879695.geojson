@@ -80,8 +80,10 @@
     "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159297511,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,15 +97,15 @@
     "wof:geomhash":"aa3dff570ed17131a14dd9c6d03d0186",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297511,
             "locality_id":1125879695,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1125879695,
-    "wof:lastmodified":1566662589,
+    "wof:lastmodified":1571392939,
     "wof:name":"Korsvegen",
     "wof:parent_id":1159297511,
     "wof:placetype":"locality",

@@ -121,6 +121,9 @@
     "name:lav_x_preferred":[
         "Krisj\u0101nsanna"
     ],
+    "name:lav_x_variant":[
+        "Krisj\u0101nsannas kom\u016bna"
+    ],
     "name:lim_x_preferred":[
         "Kristiansand"
     ],
@@ -228,6 +231,8 @@
     "no-geonorge:lokalid":"173043",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":58.169519,
+    "reversegeo:longitude":7.959456,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -250,7 +255,7 @@
         }
     ],
     "wof:id":1159296703,
-    "wof:lastmodified":1566662898,
+    "wof:lastmodified":1571389605,
     "wof:name":"Kristiansand",
     "wof:parent_id":85687063,
     "wof:placetype":"localadmin",

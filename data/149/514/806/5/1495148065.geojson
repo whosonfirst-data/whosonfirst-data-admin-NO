@@ -1,0 +1,79 @@
+{
+  "id": 1495148065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.39216,58.88108,9.39216,58.88108",
+    "geom:latitude":58.88108,
+    "geom:longitude":9.39216,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"815.0",
+    "gn:asciiname":"Ostlandgrenda",
+    "gn:country_code":"NO",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536613,
+    "gn:latitude":58.88108,
+    "gn:longitude":9.39216,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"\u00d8stlandgrenda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"9.37216,58.86108,9.41216,58.90108",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "\u00d8stlandgrenda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687091,
+        102191581,
+        1159297523,
+        85633341,
+        101803881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536613
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"77e86d27325a086dc53a50411432a75d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297523,
+            "locality_id":101803881,
+            "neighbourhood_id":1495148065,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1495148065,
+    "wof:lastmodified":1571393785,
+    "wof:name":"Ostlandgrenda",
+    "wof:parent_id":101803881,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310572757
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.39216,
+    58.88108,
+    9.39216,
+    58.88108
+],
+  "geometry": {"coordinates":[9.39216,58.88108],"type":"Point"}
+}

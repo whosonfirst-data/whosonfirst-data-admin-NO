@@ -1,0 +1,80 @@
+{
+  "id": 1495149301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.34554,60.31063,5.34554,60.31063",
+    "geom:latitude":60.31063,
+    "geom:longitude":5.34554,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1201.0",
+    "gn:asciiname":"Radal",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7839980,
+    "gn:latitude":60.31063,
+    "gn:longitude":5.34554,
+    "gn:modification_date":"2012-12-18",
+    "gn:name":"R\u00e5dal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.32554,60.29063,5.36554,60.33063",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "R\u00e5dal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687099,
+        102191581,
+        1159297617,
+        85633341,
+        1125806473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7839980,
+        "wk:page":"R%C3%A5dal"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ec5833d0a4443bb202096bd59214c455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":1125806473,
+            "neighbourhood_id":1495149301,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1495149301,
+    "wof:lastmodified":1571393172,
+    "wof:name":"Radal",
+    "wof:parent_id":1125806473,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209211513
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.34554,
+    60.31063,
+    5.34554,
+    60.31063
+],
+  "geometry": {"coordinates":[5.34554,60.31063],"type":"Point"}
+}

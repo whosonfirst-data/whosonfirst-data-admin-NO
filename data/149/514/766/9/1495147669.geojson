@@ -1,0 +1,76 @@
+{
+  "id": 1495147669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.52528,59.81639,5.52528,59.81639",
+    "geom:latitude":59.81639,
+    "geom:longitude":5.52528,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1221.0",
+    "gn:asciiname":"Rommetveit",
+    "gn:country_code":"NO",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3206340,
+    "gn:latitude":59.81639,
+    "gn:longitude":5.52528,
+    "gn:modification_date":"2010-10-15",
+    "gn:name":"Rommetveit",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.50528,59.79639,5.54528,59.83639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687099,
+        102191581,
+        1159297369,
+        85633341,
+        101803949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3206340
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"6398b81726bd1b70c9fc453c7d77fd84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297369,
+            "locality_id":101803949,
+            "neighbourhood_id":1495147669,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1495147669,
+    "wof:lastmodified":1571393606,
+    "wof:name":"Rommetveit",
+    "wof:parent_id":101803949,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343553015
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.52528,
+    59.81639000000001,
+    5.52528,
+    59.81639000000001
+],
+  "geometry": {"coordinates":[5.52528,59.81639000000001],"type":"Point"}
+}

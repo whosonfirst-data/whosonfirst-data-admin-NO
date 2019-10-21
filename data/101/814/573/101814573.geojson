@@ -95,7 +95,9 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296951,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -111,8 +113,8 @@
     "wof:geomhash":"ebc1ec948ee5f128878c904ae600915c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296951,
             "locality_id":101814573,
             "region_id":85687135
@@ -122,7 +124,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1566662413,
+    "wof:lastmodified":1571679369,
     "wof:name":"Bogen",
     "wof:parent_id":1159296951,
     "wof:placetype":"locality",

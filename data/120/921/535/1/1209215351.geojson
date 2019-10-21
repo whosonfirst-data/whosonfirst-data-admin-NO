@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "Eggedal,nedre"
@@ -38,7 +38,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159296793,
+        85633341,
+        85687105
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,17 @@
     "wof:geomhash":"39f67d17609cc68ec1c3c0dcdf2f0541",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209215351
+            "localadmin_id":1159296793,
+            "locality_id":1209215351,
+            "region_id":85687105
         }
     ],
     "wof:id":1209215351,
-    "wof:lastmodified":1566662089,
+    "wof:lastmodified":1571383763,
     "wof:name":"Eggedal,nedre",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296793,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

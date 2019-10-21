@@ -1,0 +1,79 @@
+{
+  "id": 1495148203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.69971,59.11523,9.69971,59.11523",
+    "geom:latitude":59.11523,
+    "geom:longitude":9.69971,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"805",
+    "gn:asciiname":"Nyhusasen",
+    "gn:country_code":"NO",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404294,
+    "gn:latitude":59.11523,
+    "gn:longitude":9.69971,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Nyhus\u00e5sen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"9.67971,59.09523,9.71971,59.13523",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Nyhus\u00e5sen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687091,
+        102191581,
+        1159296755,
+        85633341,
+        1126031233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404294
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"58c0a8db2b6ef6f5c7638f723c99d86e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296755,
+            "locality_id":1126031233,
+            "neighbourhood_id":1495148203,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1495148203,
+    "wof:lastmodified":1571393210,
+    "wof:name":"Nyhusasen",
+    "wof:parent_id":1126031233,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343834311
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.69971,
+    59.11523,
+    9.69971,
+    59.11523
+],
+  "geometry": {"coordinates":[9.69971,59.11523],"type":"Point"}
+}

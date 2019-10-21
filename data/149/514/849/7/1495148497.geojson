@@ -1,0 +1,79 @@
+{
+  "id": 1495148497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.23742,60.51147,5.23742,60.51147",
+    "geom:latitude":60.51147,
+    "geom:longitude":5.23742,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1256.0",
+    "gn:asciiname":"Jonsokgrenda",
+    "gn:country_code":"NO",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536928,
+    "gn:latitude":60.51147,
+    "gn:longitude":5.23742,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Jonsokgrenda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.21742,60.49147,5.25742,60.53147",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Jonsokgrenda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687099,
+        102191581,
+        1159297633,
+        85633341,
+        101803899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536928
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"484b8dcad55ea88d39f927a7171d8194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297633,
+            "locality_id":101803899,
+            "neighbourhood_id":1495148497,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1495148497,
+    "wof:lastmodified":1571393680,
+    "wof:name":"Jonsokgrenda",
+    "wof:parent_id":101803899,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327051247
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.23742,
+    60.51147,
+    5.23742,
+    60.51147
+],
+  "geometry": {"coordinates":[5.23742,60.51147],"type":"Point"}
+}

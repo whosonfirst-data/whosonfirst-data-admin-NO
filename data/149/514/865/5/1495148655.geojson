@@ -1,0 +1,102 @@
+{
+  "id": 1495148655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.31557,64.46366,12.31557,64.46366",
+    "geom:latitude":64.46366,
+    "geom:longitude":12.31557,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5045.0",
+    "gn:asciiname":"Medja",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3146233,
+    "gn:latitude":64.46366,
+    "gn:longitude":12.31557,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Medj\u00e5",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"12.29557,64.44366,12.33557,64.48366",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Medj\u00e5"
+    ],
+    "name:jav_x_preferred":[
+        "Medj\u00e5"
+    ],
+    "name:msa_x_preferred":[
+        "Medj\u00e5"
+    ],
+    "name:nld_x_preferred":[
+        "Grong"
+    ],
+    "name:nno_x_preferred":[
+        "Grong"
+    ],
+    "name:nor_x_preferred":[
+        "Grong"
+    ],
+    "name:und_x_variant":[
+        "Medjaa"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u9f8d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1495115971,
+        102191581,
+        1159297447,
+        85633341,
+        101814551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3146233,
+        "wk:page":"Medj%C3%A5"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"0dd02d65817d93cf7262654a8d994268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297447,
+            "locality_id":101814551,
+            "neighbourhood_id":1495148655,
+            "region_id":1495115971
+        }
+    ],
+    "wof:id":1495148655,
+    "wof:lastmodified":1571393757,
+    "wof:name":"Medja",
+    "wof:parent_id":101814551,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343953925
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.31557,
+    64.46366,
+    12.31557,
+    64.46366
+],
+  "geometry": {"coordinates":[12.31557,64.46366],"type":"Point"}
+}

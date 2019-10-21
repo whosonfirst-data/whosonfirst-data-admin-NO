@@ -1,0 +1,108 @@
+{
+  "id": 1495149195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.63333,60.78333,10.63333,60.78333",
+    "geom:latitude":60.78333,
+    "geom:longitude":10.63333,
+    "gn:country":"NO",
+    "gn:fcode":"PPL",
+    "gn:population":0,
+    "iso:country":"NO",
+    "lbl:bbox":"10.61333,60.76333,10.65333,60.80333",
+    "lbl:latitude":60.78333,
+    "lbl:longitude":10.63333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:jav_x_preferred":[
+        "Hunndalen"
+    ],
+    "name:msa_x_preferred":[
+        "Hunndalen"
+    ],
+    "name:nno_x_preferred":[
+        "Hunndalen"
+    ],
+    "name:nor_x_preferred":[
+        "Hunndalen"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3151426,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Hunndalen",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Oppland Fylke",
+    "qs_pg:photos":57,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":57,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":270787,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":860151,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Oppland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85687109,
+        102191581,
+        1159297365,
+        85633341,
+        101816241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3151426,
+        "gp:id":860151,
+        "qs_pg:id":270787
+    },
+    "wof:country":"NO",
+    "wof:created":1497294508,
+    "wof:geomhash":"fb86c8d848b492ce88491b404e6289db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297365,
+            "locality_id":101816241,
+            "neighbourhood_id":1495149195,
+            "region_id":85687109
+        }
+    ],
+    "wof:id":1495149195,
+    "wof:lastmodified":1571393894,
+    "wof:name":"Hunndalen",
+    "wof:parent_id":101816241,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125875319
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.63333,
+    60.78333,
+    10.63333,
+    60.78333
+],
+  "geometry": {"coordinates":[10.63333,60.78333],"type":"Point"}
+}

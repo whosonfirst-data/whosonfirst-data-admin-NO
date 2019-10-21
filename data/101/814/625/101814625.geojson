@@ -301,7 +301,9 @@
     "src:population":"geonames",
     "wd:wordcount":1067,
     "wof:belongsto":[
+        102191581,
         1159296833,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -319,8 +321,8 @@
     "wof:geomhash":"493047660c26edcd2315194f6aac9b9d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296833,
             "locality_id":101814625,
             "region_id":85687135
@@ -330,7 +332,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1566662415,
+    "wof:lastmodified":1571679369,
     "wof:name":"Fauske",
     "wof:parent_id":1159296833,
     "wof:placetype":"locality",

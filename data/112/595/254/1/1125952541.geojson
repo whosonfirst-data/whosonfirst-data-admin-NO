@@ -71,7 +71,9 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159297115,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -85,15 +87,15 @@
     "wof:geomhash":"24b66f4a4393baa3bda0cd849e873d30",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297115,
             "locality_id":1125952541,
             "region_id":85687135
         }
     ],
     "wof:id":1125952541,
-    "wof:lastmodified":1566662514,
+    "wof:lastmodified":1571679228,
     "wof:name":"Lonsdal",
     "wof:parent_id":1159297115,
     "wof:placetype":"locality",

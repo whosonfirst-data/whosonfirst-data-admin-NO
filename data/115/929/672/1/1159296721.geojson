@@ -102,6 +102,8 @@
     "no-geonorge:lokalid":"172755",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":62.447995,
+    "reversegeo:longitude":6.396897,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":1159296721,
-    "wof:lastmodified":1566662777,
+    "wof:lastmodified":1571388900,
     "wof:name":"Sula",
     "wof:parent_id":85687123,
     "wof:placetype":"localadmin",

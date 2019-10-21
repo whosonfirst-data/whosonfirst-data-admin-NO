@@ -1,0 +1,79 @@
+{
+  "id": 1495149133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.23488,62.74937,7.23488,62.74937",
+    "geom:latitude":62.74937,
+    "geom:longitude":7.23488,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1502",
+    "gn:asciiname":"Indre Fanbostad",
+    "gn:country_code":"NO",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9403941,
+    "gn:latitude":62.74937,
+    "gn:longitude":7.23488,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Indre Fanbostad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"7.21488,62.72937,7.25488,62.76937",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Indre Fanbostad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687123,
+        102191581,
+        1159297499,
+        85633341,
+        101804091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9403941
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e1f02f1fb600ff625e12f68232940288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297499,
+            "locality_id":101804091,
+            "neighbourhood_id":1495149133,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1495149133,
+    "wof:lastmodified":1571393500,
+    "wof:name":"Indre Fanbostad",
+    "wof:parent_id":101804091,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310492281
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.23488,
+    62.74936999999999,
+    7.23488,
+    62.74936999999999
+],
+  "geometry": {"coordinates":[7.23488,62.74936999999999],"type":"Point"}
+}

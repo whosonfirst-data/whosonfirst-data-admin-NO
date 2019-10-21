@@ -61,6 +61,8 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        102191581,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -70,14 +72,14 @@
     "wof:geomhash":"d0500f1a8cf22d6eb501ba0b4547abc7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297571,
             "region_id":85687135
         }
     ],
     "wof:id":1159297571,
-    "wof:lastmodified":1566662876,
+    "wof:lastmodified":1571679199,
     "wof:name":"Grane",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

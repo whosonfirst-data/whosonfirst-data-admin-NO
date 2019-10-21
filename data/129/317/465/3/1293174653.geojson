@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sande"
@@ -93,6 +93,9 @@
     "name:swe_x_preferred":[
         "Sande"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0434\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1293174653,
-    "wof:lastmodified":1566661810,
+    "wof:lastmodified":1571679458,
     "wof:name":"Sande",
     "wof:parent_id":1159296961,
     "wof:placetype":"locality",

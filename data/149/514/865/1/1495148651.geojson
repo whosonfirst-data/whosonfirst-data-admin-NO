@@ -1,0 +1,82 @@
+{
+  "id": 1495148651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.1176,67.51754,12.1176,67.51754",
+    "geom:latitude":67.51754,
+    "geom:longitude":12.1176,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1856.0",
+    "gn:asciiname":"Rost",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3141214,
+    "gn:latitude":67.51754,
+    "gn:longitude":12.1176,
+    "gn:modification_date":"2010-12-07",
+    "gn:name":"R\u00f8st",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"12.0976,67.49754,12.1376,67.53754",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:deu_x_preferred":[
+        "Rost"
+    ],
+    "name:swe_x_preferred":[
+        "Rost"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687135,
+        102191581,
+        1159296803,
+        85633341,
+        101814577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141214
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f57ba90f4e00a273d2076d4eaef76886",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296803,
+            "locality_id":101814577,
+            "neighbourhood_id":1495148651,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1495148651,
+    "wof:lastmodified":1571679375,
+    "wof:name":"Rost",
+    "wof:parent_id":101814577,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209611147
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.1176,
+    67.51754,
+    12.1176,
+    67.51754
+],
+  "geometry": {"coordinates":[12.1176,67.51754],"type":"Point"}
+}

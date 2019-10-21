@@ -1,0 +1,94 @@
+{
+  "id": 1495149221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.77991,58.09404,7.77991,58.09404",
+    "geom:latitude":58.09404,
+    "geom:longitude":7.77991,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1018.0",
+    "gn:asciiname":"Leire",
+    "gn:country_code":"NO",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536223,
+    "gn:latitude":58.09404,
+    "gn:longitude":7.77991,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Leire",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"7.75991,58.07404,7.79991,58.11404",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Leire"
+    ],
+    "name:cym_x_preferred":[
+        "Leire"
+    ],
+    "name:nor_x_preferred":[
+        "Leire"
+    ],
+    "name:pol_x_preferred":[
+        "Leire"
+    ],
+    "name:spa_x_preferred":[
+        "Leire"
+    ],
+    "name:swe_x_preferred":[
+        "Leire"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687063,
+        102191581,
+        1159296847,
+        85633341,
+        101805115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536223
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"57a634478f48f9407b2b9359f2764085",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296847,
+            "locality_id":101805115,
+            "neighbourhood_id":1495149221,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1495149221,
+    "wof:lastmodified":1571393472,
+    "wof:name":"Leire",
+    "wof:parent_id":101805115,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226517389
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.77991,
+    58.09404,
+    7.77991,
+    58.09404
+],
+  "geometry": {"coordinates":[7.77991,58.09404],"type":"Point"}
+}

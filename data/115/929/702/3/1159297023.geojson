@@ -30,6 +30,8 @@
     "no-geonorge:lokalid":"172936",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":61.087477,
+    "reversegeo:longitude":5.945993,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":1159297023,
-    "wof:lastmodified":1566662843,
+    "wof:lastmodified":1571389280,
     "wof:name":"Hoyanger",
     "wof:parent_id":85687113,
     "wof:placetype":"localadmin",

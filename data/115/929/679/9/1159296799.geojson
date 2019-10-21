@@ -123,6 +123,8 @@
     "no-geonorge:lokalid":"173029",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":69.246523,
+    "reversegeo:longitude":19.096485,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -145,7 +147,7 @@
         }
     ],
     "wof:id":1159296799,
-    "wof:lastmodified":1566662895,
+    "wof:lastmodified":1571389587,
     "wof:name":"Balsfjord",
     "wof:parent_id":85687143,
     "wof:placetype":"localadmin",

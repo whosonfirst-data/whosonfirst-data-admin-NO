@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vaag",
@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297149,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"7b67a6d6b92bc5f7b0c85a51ec8f84e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297149,
             "locality_id":1243347883,
             "region_id":85687135
         }
     ],
     "wof:id":1243347883,
-    "wof:lastmodified":1566663029,
+    "wof:lastmodified":1571679250,
     "wof:name":"Vag",
     "wof:parent_id":1159297149,
     "wof:placetype":"locality",

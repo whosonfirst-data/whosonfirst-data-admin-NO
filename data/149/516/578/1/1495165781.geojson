@@ -1,0 +1,61 @@
+{
+  "id": 1495165781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000035,
+    "geom:area_square_m":210684.20766,
+    "geom:bbox":"5.25668062973,60.4845706374,5.26613949488,60.4911199227",
+    "geom:latitude":60.4876,
+    "geom:longitude":5.260805,
+    "iso:country":"NO",
+    "lbl:latitude":60.487649,
+    "lbl:longitude":5.260805,
+    "mps:latitude":60.487649,
+    "mps:longitude":5.260805,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Mjoleraen"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297617,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:country":"NO",
+    "wof:geomhash":"a6dac4344133ea88bc7e504e3962691f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":1495165781,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1495165781,
+    "wof:lastmodified":1571392893,
+    "wof:name":"Mjoleraen",
+    "wof:parent_id":1159297617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101751923
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.25668062973466,
+    60.48457063744516,
+    5.26613949488336,
+    60.49111992272632
+],
+  "geometry": {"coordinates":[[[5.26613949488336,60.48709358451633],[5.26485917182512,60.48674318693621],[5.26315207441412,60.48457063744516],[5.25671430941235,60.48620594361066],[5.25685104827136,60.4866799931181],[5.25668062973466,60.4878707241284],[5.25719949359427,60.4878879915971],[5.257961,60.490528],[5.25812303194243,60.4904987426423],[5.25803413974166,60.49111992272632],[5.2624407838262,60.48954626158438],[5.26613949488336,60.48709358451633]]],"type":"Polygon"}
+}

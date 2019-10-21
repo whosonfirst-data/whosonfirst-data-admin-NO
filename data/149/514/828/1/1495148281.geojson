@@ -1,0 +1,82 @@
+{
+  "id": 1495148281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.71667,58.91667,5.71667,58.91667",
+    "geom:latitude":58.91667,
+    "geom:longitude":5.71667,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1103.0",
+    "gn:asciiname":"Jatta",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3150900,
+    "gn:latitude":58.91667,
+    "gn:longitude":5.71667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"J\u00e5tta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.69667,58.89667,5.73667,58.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Jaatta",
+        "Jaatten",
+        "J\u00e5tta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687085,
+        102191581,
+        1159297103,
+        85633341,
+        1495123971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3150900
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ef5c80abaf5cd272c2aabf2b10416301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297103,
+            "locality_id":1495123971,
+            "neighbourhood_id":1495148281,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1495148281,
+    "wof:lastmodified":1571679497,
+    "wof:name":"Jatta",
+    "wof:parent_id":1495123971,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327404763
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.71667,
+    58.91667,
+    5.71667,
+    58.91667
+],
+  "geometry": {"coordinates":[5.71667,58.91667],"type":"Point"}
+}

@@ -52,6 +52,9 @@
     "name:eus_x_preferred":[
         "Hitra"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u06cc\u062a\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "Hitra"
     ],
@@ -136,7 +139,9 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687127
+        102191581,
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordance":{},
@@ -145,16 +150,16 @@
     "wof:geomhash":"7ed608a4baf0710e86ba80a9912cf372",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297259,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1159297259,
-    "wof:lastmodified":1566662808,
+    "wof:lastmodified":1571392928,
     "wof:name":"Hitra",
-    "wof:parent_id":85687127,
+    "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-no",

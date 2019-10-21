@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jamtlien",
@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296963,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"a6aae23ae1637a04c45fbbcefef74e8a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296963,
             "locality_id":1243544323,
             "region_id":85687135
         }
     ],
     "wof:id":1243544323,
-    "wof:lastmodified":1566662961,
+    "wof:lastmodified":1571679290,
     "wof:name":"Jamtlia",
     "wof:parent_id":1159296963,
     "wof:placetype":"locality",

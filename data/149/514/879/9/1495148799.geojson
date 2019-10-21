@@ -1,0 +1,79 @@
+{
+  "id": 1495148799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.4028,59.12962,10.4028,59.12962",
+    "geom:latitude":59.12962,
+    "geom:longitude":10.4028,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"729.0",
+    "gn:asciiname":"Grimestadgrinda",
+    "gn:country_code":"NO",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536450,
+    "gn:latitude":59.12962,
+    "gn:longitude":10.4028,
+    "gn:modification_date":"2018-05-11",
+    "gn:name":"Grimestadgrinda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"10.3828,59.10962,10.4228,59.14962",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Grimestadgrinda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687073,
+        102191581,
+        1159297071,
+        85633341,
+        101815525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536450
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"680c78fceddcecb541c9a3fb5f89c12b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297071,
+            "locality_id":101815525,
+            "neighbourhood_id":1495148799,
+            "region_id":85687073
+        }
+    ],
+    "wof:id":1495148799,
+    "wof:lastmodified":1571393625,
+    "wof:name":"Grimestadgrinda",
+    "wof:parent_id":101815525,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1242651853
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4028,
+    59.12962,
+    10.4028,
+    59.12962
+],
+  "geometry": {"coordinates":[10.4028,59.12962],"type":"Point"}
+}

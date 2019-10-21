@@ -1,0 +1,99 @@
+{
+  "id": 1495148295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.01667,69.66667,19.01667,69.66667",
+    "geom:latitude":69.66667,
+    "geom:longitude":19.01667,
+    "gn:country":"NO",
+    "gn:fcode":"PPL",
+    "gn:population":0,
+    "iso:country":"NO",
+    "lbl:bbox":"18.99667,69.64667,19.03667,69.68667",
+    "lbl:latitude":69.66667,
+    "lbl:longitude":19.01667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:und_x_variant":[
+        "Tomasjord"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3134384,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Tomasjordnes",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Troms Fylke",
+    "qs_pg:photos":29,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":29,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1169015,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":865015,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Troms Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85687143,
+        102191581,
+        1159297187,
+        85633341,
+        101751929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3134384,
+        "gp:id":865015,
+        "qs_pg:id":1169015
+    },
+    "wof:country":"NO",
+    "wof:created":1497292264,
+    "wof:geomhash":"8edac4f057d2c10235e0b51342be15e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297187,
+            "locality_id":101751929,
+            "neighbourhood_id":1495148295,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1495148295,
+    "wof:lastmodified":1571393215,
+    "wof:name":"Tomasjordnes",
+    "wof:parent_id":101751929,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125825629
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.01667,
+    69.66667,
+    19.01667,
+    69.66667
+],
+  "geometry": {"coordinates":[19.01667,69.66667],"type":"Point"}
+}

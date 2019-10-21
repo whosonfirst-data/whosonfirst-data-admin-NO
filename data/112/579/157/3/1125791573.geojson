@@ -87,7 +87,9 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159297631,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -102,15 +104,15 @@
     "wof:geomhash":"6e2160adca1b9577947e0c122a87dc5b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297631,
             "locality_id":1125791573,
             "region_id":85687135
         }
     ],
     "wof:id":1125791573,
-    "wof:lastmodified":1566662699,
+    "wof:lastmodified":1571679207,
     "wof:name":"Fjelldal",
     "wof:parent_id":1159297631,
     "wof:placetype":"locality",

@@ -1,0 +1,76 @@
+{
+  "id": 1495147625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.22949,60.51197,5.22949,60.51197",
+    "geom:latitude":60.51197,
+    "geom:longitude":5.22949,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1256.0",
+    "gn:asciiname":"Vikane",
+    "gn:country_code":"NO",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3242814,
+    "gn:latitude":60.51197,
+    "gn:longitude":5.22949,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Vikane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.20949,60.49197,5.24949,60.53197",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687099,
+        102191581,
+        1159297633,
+        85633341,
+        101803899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3242814
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8862ffe5b7f74f8f1be04ae378e59658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297633,
+            "locality_id":101803899,
+            "neighbourhood_id":1495147625,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1495147625,
+    "wof:lastmodified":1571393185,
+    "wof:name":"Vikane",
+    "wof:parent_id":101803899,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259404007
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.22949,
+    60.51197,
+    5.22949,
+    60.51197
+],
+  "geometry": {"coordinates":[5.22949,60.51197],"type":"Point"}
+}

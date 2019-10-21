@@ -1,0 +1,86 @@
+{
+  "id": 1495149341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.22987,60.38926,5.22987,60.38926",
+    "geom:latitude":60.38926,
+    "geom:longitude":5.22987,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1201.0",
+    "gn:asciiname":"Kjokkelvik",
+    "gn:country_code":"NO",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3241026,
+    "gn:latitude":60.38926,
+    "gn:longitude":5.22987,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Kj\u00f8kkelvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.20987,60.36926,5.24987,60.40926",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:jav_x_preferred":[
+        "Kj\u00f8kkelvik"
+    ],
+    "name:msa_x_preferred":[
+        "Kj\u00f8kkelvik"
+    ],
+    "name:nor_x_preferred":[
+        "Kj\u00f8kkelvik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687099,
+        102191581,
+        1159297617,
+        85633341,
+        1495165769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3241026,
+        "wk:page":"Kj%C3%B8kkelvik"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"96dd1a2e0d87b955209fd3637311b450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":1495165769,
+            "neighbourhood_id":1495149341,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1495149341,
+    "wof:lastmodified":1571393600,
+    "wof:name":"Kjokkelvik",
+    "wof:parent_id":1495165769,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243551337
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.22987,
+    60.38926,
+    5.22987,
+    60.38926
+],
+  "geometry": {"coordinates":[5.22987,60.38926],"type":"Point"}
+}

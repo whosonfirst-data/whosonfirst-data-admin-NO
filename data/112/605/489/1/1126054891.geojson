@@ -81,7 +81,9 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159297181,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -96,15 +98,15 @@
     "wof:geomhash":"40f9ee5fc11d8764f37a93e9a60380ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297181,
             "locality_id":1126054891,
             "region_id":85687135
         }
     ],
     "wof:id":1126054891,
-    "wof:lastmodified":1566662528,
+    "wof:lastmodified":1571679237,
     "wof:name":"Berg",
     "wof:parent_id":1159297181,
     "wof:placetype":"locality",

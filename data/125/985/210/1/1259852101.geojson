@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09cd\u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09a1\u09be"
@@ -125,8 +125,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297521,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -136,15 +138,15 @@
     "wof:geomhash":"0ed3ac6cff4829adeee829e95e9d9931",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297521,
             "locality_id":1259852101,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1259852101,
-    "wof:lastmodified":1566663122,
+    "wof:lastmodified":1571393017,
     "wof:name":"Stranda",
     "wof:parent_id":1159297521,
     "wof:placetype":"locality",

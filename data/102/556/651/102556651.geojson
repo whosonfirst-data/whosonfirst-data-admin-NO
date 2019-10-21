@@ -11,7 +11,7 @@
     "geom:longitude":9.212222,
     "iso:country":"NO",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Notodden Airport"
@@ -57,9 +57,11 @@
         "state_id":2346400
     },
     "wof:belongsto":[
+        85687091,
+        102191581,
+        1159297293,
         85633341,
-        101803863,
-        85687091
+        101803863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,13 +76,16 @@
     "wof:hierarchy":[
         {
             "campus_id":102556651,
+            "continent_id":102191581,
             "country_id":85633341,
+            "localadmin_id":1159297293,
             "locality_id":101803863,
+            "neighbourhood_id":-1,
             "region_id":85687091
         }
     ],
     "wof:id":102556651,
-    "wof:lastmodified":1566661495,
+    "wof:lastmodified":1571356047,
     "wof:name":"Notodden Lufthavn",
     "wof:parent_id":101803863,
     "wof:placetype":"campus",

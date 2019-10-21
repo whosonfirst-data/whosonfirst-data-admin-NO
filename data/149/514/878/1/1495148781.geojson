@@ -1,0 +1,90 @@
+{
+  "id": 1495148781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.3507195,62.4542175,6.3507195,62.4542175",
+    "geom:latitude":62.454217,
+    "geom:longitude":6.35072,
+    "gn:country":null,
+    "iso:country":"NO",
+    "lbl:bbox":"6.3307195,62.4342175,6.3707195,62.4742175",
+    "lbl:latitude":62.454217,
+    "lbl:longitude":6.35072,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Eidsnes",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"M\u00f8re og Romsdal Fylke",
+    "qs_pg:photos":266,
+    "qs_pg:photos_1k":54,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":266,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1084601,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":15000921,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"M\u00f8re og Romsdal Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85687123,
+        102191581,
+        1159297219,
+        85633341,
+        101804109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15000921,
+        "qs_pg:id":1084601
+    },
+    "wof:country":"NO",
+    "wof:created":1497291700,
+    "wof:geomhash":"4ca2bf144a907e4889a0404cd6f45e17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297219,
+            "locality_id":101804109,
+            "neighbourhood_id":1495148781,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1495148781,
+    "wof:lastmodified":1571393698,
+    "wof:name":"Eidsnes",
+    "wof:parent_id":101804109,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125812071
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.3507195,
+    62.4542175,
+    6.3507195,
+    62.4542175
+],
+  "geometry": {"coordinates":[6.3507195,62.4542175],"type":"Point"}
+}

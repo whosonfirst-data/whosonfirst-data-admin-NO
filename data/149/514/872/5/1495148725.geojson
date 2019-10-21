@@ -1,0 +1,79 @@
+{
+  "id": 1495148725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.13968,62.20523,6.13968,62.20523",
+    "geom:latitude":62.20523,
+    "geom:longitude":6.13968,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1520.0",
+    "gn:asciiname":"Vallaboen",
+    "gn:country_code":"NO",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558571,
+    "gn:latitude":62.20523,
+    "gn:longitude":6.13968,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Vallab\u00f8en",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"6.11968,62.18523,6.15968,62.22523",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Vallab\u00f8en"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687123,
+        102191581,
+        1159297435,
+        85633341,
+        101804059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558571
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"15c1efa3a5c8646d3c98566a8b72a871",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297435,
+            "locality_id":101804059,
+            "neighbourhood_id":1495148725,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1495148725,
+    "wof:lastmodified":1571393283,
+    "wof:name":"Vallaboen",
+    "wof:parent_id":101804059,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293584777
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.13968,
+    62.20523000000001,
+    6.13968,
+    62.20523000000001
+],
+  "geometry": {"coordinates":[6.13968,62.20523000000001],"type":"Point"}
+}

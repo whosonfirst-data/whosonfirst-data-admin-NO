@@ -18,7 +18,7 @@
     "mps:latitude":63.289162,
     "mps:longitude":10.271596,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Melhus"
@@ -69,8 +69,10 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297511,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,18 +86,18 @@
     "wof:geomhash":"5d16363fbacd218e46593f4e9b624202",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297511,
             "locality_id":101826663,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":101826663,
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1566662358,
+    "wof:lastmodified":1571393069,
     "wof:name":"Melhus",
     "wof:parent_id":1159297511,
     "wof:placetype":"locality",

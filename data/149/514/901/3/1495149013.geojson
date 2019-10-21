@@ -1,0 +1,90 @@
+{
+  "id": 1495149013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.764884,59.26906,10.764884,59.26906",
+    "geom:latitude":59.26906,
+    "geom:longitude":10.764884,
+    "gn:country":null,
+    "iso:country":"NO",
+    "lbl:bbox":"10.744884,59.24906,10.784884,59.28906",
+    "lbl:latitude":59.26906,
+    "lbl:longitude":10.764884,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Manstad",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"\u00d8stfold Fylke",
+    "qs_pg:photos":97,
+    "qs_pg:photos_1k":20,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":97,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1119522,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":15000626,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"\u00d8stfold Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85687079,
+        102191581,
+        1159297385,
+        85633341,
+        1495124021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15000626,
+        "qs_pg:id":1119522
+    },
+    "wof:country":"NO",
+    "wof:created":1497295641,
+    "wof:geomhash":"84363abd0f99f9802ce750be5fb8ce17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297385,
+            "locality_id":1495124021,
+            "neighbourhood_id":1495149013,
+            "region_id":85687079
+        }
+    ],
+    "wof:id":1495149013,
+    "wof:lastmodified":1571393993,
+    "wof:name":"Manstad",
+    "wof:parent_id":1495124021,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125897421
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.764884,
+    59.26906,
+    10.764884,
+    59.26906
+],
+  "geometry": {"coordinates":[10.764884,59.26906],"type":"Point"}
+}

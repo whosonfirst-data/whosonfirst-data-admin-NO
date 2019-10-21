@@ -112,7 +112,9 @@
     "src:population":"geonames",
     "wd:wordcount":171,
     "wof:belongsto":[
+        102191581,
         1159296883,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -127,8 +129,8 @@
     "wof:geomhash":"254600da7a6408e6cb1db9e1f56a8a8d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296883,
             "locality_id":101872995,
             "region_id":85687135
@@ -138,7 +140,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1566662359,
+    "wof:lastmodified":1571679367,
     "wof:name":"Henningsv\u00e6r",
     "wof:parent_id":1159296883,
     "wof:placetype":"locality",

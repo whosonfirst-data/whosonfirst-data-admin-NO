@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u062f\u064a\u0642\u0629 \u0645\u0646\u0632\u0644\u064a\u0629"
@@ -50,6 +50,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u0997\u09be\u09a8"
+    ],
+    "name:bos_x_preferred":[
+        "Ba\u0161ta"
     ],
     "name:bre_x_preferred":[
         "Jardin"
@@ -341,7 +344,7 @@
         }
     ],
     "wof:id":1260385807,
-    "wof:lastmodified":1566662162,
+    "wof:lastmodified":1571384356,
     "wof:name":"Garden",
     "wof:parent_id":1159297267,
     "wof:placetype":"locality",

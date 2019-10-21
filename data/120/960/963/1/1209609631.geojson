@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bakken"
@@ -50,7 +50,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297091,
+        85633341,
+        85687099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +63,17 @@
     "wof:geomhash":"942666a831a4fa6812b0b2ffcd6f128f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209609631
+            "localadmin_id":1159297091,
+            "locality_id":1209609631,
+            "region_id":85687099
         }
     ],
     "wof:id":1209609631,
-    "wof:lastmodified":1566662053,
+    "wof:lastmodified":1571383470,
     "wof:name":"Bakken",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297091,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

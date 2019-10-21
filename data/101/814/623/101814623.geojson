@@ -489,7 +489,9 @@
     "src:population":"geonames",
     "wd:wordcount":2013,
     "wof:belongsto":[
+        102191581,
         1159297465,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -505,8 +507,8 @@
     "wof:geomhash":"5cbff21e39997fb98c3d968753aa598d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297465,
             "locality_id":101814623,
             "region_id":85687135
@@ -516,7 +518,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1566662416,
+    "wof:lastmodified":1571679369,
     "wof:name":"Bod\u00f8",
     "wof:parent_id":1159297465,
     "wof:placetype":"locality",

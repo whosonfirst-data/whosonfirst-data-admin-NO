@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Evjen",
@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296959,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"14e7f658cb962d0a6230cf0076857243",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296959,
             "locality_id":1226739449,
             "region_id":85687135
         }
     ],
     "wof:id":1226739449,
-    "wof:lastmodified":1566663208,
+    "wof:lastmodified":1571679261,
     "wof:name":"Evja",
     "wof:parent_id":1159296959,
     "wof:placetype":"locality",

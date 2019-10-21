@@ -1,0 +1,76 @@
+{
+  "id": 1495148963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.67164,59.04275,9.67164,59.04275",
+    "geom:latitude":59.04275,
+    "geom:longitude":9.67164,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"814.0",
+    "gn:asciiname":"Rugtvedtmyra",
+    "gn:country_code":"NO",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3209910,
+    "gn:latitude":59.04275,
+    "gn:longitude":9.67164,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Rugtvedtmyra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"9.65164,59.02275,9.69164,59.06275",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687091,
+        102191581,
+        1159296837,
+        85633341,
+        1495124047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3209910
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"94bdd2a691f92927cdbc7e4774146bf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296837,
+            "locality_id":1495124047,
+            "neighbourhood_id":1495148963,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1495148963,
+    "wof:lastmodified":1571394000,
+    "wof:name":"Rugtvedtmyra",
+    "wof:parent_id":1495124047,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243425835
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.67164,
+    59.04275,
+    9.67164,
+    59.04275
+],
+  "geometry": {"coordinates":[9.67164,59.04275],"type":"Point"}
+}

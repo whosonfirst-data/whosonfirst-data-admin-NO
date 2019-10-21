@@ -30,6 +30,8 @@
     "no-geonorge:lokalid":"172927",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":60.614247,
+    "reversegeo:longitude":4.825324,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":1159297547,
-    "wof:lastmodified":1566662745,
+    "wof:lastmodified":1571388732,
     "wof:name":"Oygarden",
     "wof:parent_id":85687099,
     "wof:placetype":"localadmin",

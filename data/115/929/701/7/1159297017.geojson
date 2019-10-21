@@ -211,6 +211,9 @@
     "name:ukr_x_preferred":[
         "\u0424\u043b\u043e\u0440\u0430"
     ],
+    "name:uzb_x_preferred":[
+        "Flora"
+    ],
     "name:war_x_preferred":[
         "Flora"
     ],
@@ -225,6 +228,8 @@
     "no-geonorge:lokalid":"172964",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":61.600602,
+    "reversegeo:longitude":4.85939,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -247,7 +252,7 @@
         }
     ],
     "wof:id":1159297017,
-    "wof:lastmodified":1566662733,
+    "wof:lastmodified":1571388663,
     "wof:name":"Flora",
     "wof:parent_id":85687113,
     "wof:placetype":"localadmin",

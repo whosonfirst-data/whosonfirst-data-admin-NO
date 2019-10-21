@@ -162,6 +162,8 @@
     "no-geonorge:lokalid":"173010",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":62.572998,
+    "reversegeo:longitude":6.315099,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -184,7 +186,7 @@
         }
     ],
     "wof:id":1159296865,
-    "wof:lastmodified":1566662773,
+    "wof:lastmodified":1571388879,
     "wof:name":"Haram",
     "wof:parent_id":85687123,
     "wof:placetype":"localadmin",

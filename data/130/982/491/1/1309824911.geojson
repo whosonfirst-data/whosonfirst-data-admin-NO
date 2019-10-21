@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09cd\u099f\u09cd\u09b0\u09cb\u09ab\u099c\u09cb\u09b0\u09cd\u09a1"
@@ -122,7 +122,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297039,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -133,15 +135,15 @@
     "wof:geomhash":"11d0270d291532c4ce12dff07be2fbc6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297039,
             "locality_id":1309824911,
             "region_id":85687135
         }
     ],
     "wof:id":1309824911,
-    "wof:lastmodified":1566662452,
+    "wof:lastmodified":1571679262,
     "wof:name":"Storfjord",
     "wof:parent_id":1159297039,
     "wof:placetype":"locality",

@@ -1,0 +1,89 @@
+{
+  "id": 1495148675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.222797,60.286709,5.222797,60.286709",
+    "geom:latitude":60.286709,
+    "geom:longitude":5.222797,
+    "gn:country":null,
+    "iso:country":"NO",
+    "lbl:bbox":"5.202797,60.266709,5.242797,60.306709",
+    "lbl:latitude":60.286709,
+    "lbl:longitude":5.222797,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Blomsterdalen",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Hordaland Fylke",
+    "qs_pg:photos":1481,
+    "qs_pg:photos_1k":300,
+    "qs_pg:photos_9k":7,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1481,
+    "qs_pg:photos_sr":12,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1084596,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":15000745,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Hordaland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85687099,
+        102191581,
+        1159297617,
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15000745,
+        "qs_pg:id":1084596
+    },
+    "wof:country":"NO",
+    "wof:created":1497291806,
+    "wof:geomhash":"7c160a15175a0c06744e0729ba5d33b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":-1,
+            "neighbourhood_id":1495148675,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1495148675,
+    "wof:lastmodified":1571393397,
+    "wof:name":"Blomsterdalen",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125815029
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.222797,
+    60.286709,
+    5.222797,
+    60.286709
+],
+  "geometry": {"coordinates":[5.222797,60.286709],"type":"Point"}
+}

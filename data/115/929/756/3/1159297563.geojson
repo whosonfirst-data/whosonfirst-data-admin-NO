@@ -49,6 +49,9 @@
     "name:eus_x_preferred":[
         "Porsanger"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0631\u0633\u0627\u0646\u06af\u0631"
+    ],
     "name:fin_x_preferred":[
         "Porsanki"
     ],
@@ -126,6 +129,8 @@
     "no-geonorge:lokalid":"172956",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":70.109111,
+    "reversegeo:longitude":25.509273,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -148,7 +153,7 @@
         }
     ],
     "wof:id":1159297563,
-    "wof:lastmodified":1566662857,
+    "wof:lastmodified":1571389353,
     "wof:name":"Porsanger",
     "wof:parent_id":85687145,
     "wof:placetype":"localadmin",

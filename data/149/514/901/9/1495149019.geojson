@@ -1,0 +1,121 @@
+{
+  "id": 1495149019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.1037,66.33861,14.1037,66.33861",
+    "geom:latitude":66.33861,
+    "geom:longitude":14.1037,
+    "gn:country":"NO",
+    "gn:fcode":"PPL",
+    "gn:population":0,
+    "iso:country":"NO",
+    "lbl:bbox":"14.0837,66.31861,14.1237,66.35861",
+    "lbl:latitude":66.33861,
+    "lbl:longitude":14.1037,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "B\u00e5smoen"
+    ],
+    "name:fra_x_preferred":[
+        "B\u00e5smoen"
+    ],
+    "name:jav_x_preferred":[
+        "B\u00e5smoen"
+    ],
+    "name:msa_x_preferred":[
+        "B\u00e5smoen"
+    ],
+    "name:nld_x_preferred":[
+        "B\u00e5smoen"
+    ],
+    "name:nob_x_preferred":[
+        "B\u00e5smoen"
+    ],
+    "name:ron_x_preferred":[
+        "B\u00e5smoen"
+    ],
+    "name:und_x_variant":[
+        "Bosmo"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3161982,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"B\u00e5smoen",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nordland Fylke",
+    "qs_pg:photos":74,
+    "qs_pg:photos_1k":15,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":74,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1159105,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":857021,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Nordland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85687135,
+        102191581,
+        1159296963,
+        85633341,
+        101814635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3161982,
+        "gp:id":857021,
+        "qs_pg:id":1159105,
+        "wd:id":"Q630210"
+    },
+    "wof:country":"NO",
+    "wof:created":1497290122,
+    "wof:geomhash":"b0e818da8bf86b539609d5f1a8c62d7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296963,
+            "locality_id":101814635,
+            "neighbourhood_id":1495149019,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1495149019,
+    "wof:lastmodified":1571679371,
+    "wof:name":"B\u00e5smoen",
+    "wof:parent_id":101814635,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125772639
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.1037,
+    66.33861,
+    14.1037,
+    66.33861
+],
+  "geometry": {"coordinates":[14.1037,66.33861],"type":"Point"}
+}

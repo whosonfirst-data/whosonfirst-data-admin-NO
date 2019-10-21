@@ -1,0 +1,79 @@
+{
+  "id": 1495148259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.29663,59.39856,5.29663,59.39856",
+    "geom:latitude":59.39856,
+    "geom:longitude":5.29663,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1106",
+    "gn:asciiname":"Rossabo",
+    "gn:country_code":"NO",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9403920,
+    "gn:latitude":59.39856,
+    "gn:longitude":5.29663,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Rossab\u00f8",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.27663,59.37856,5.31663,59.41856",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Rossab\u00f8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687085,
+        102191581,
+        1159296709,
+        85633341,
+        1495123957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9403920
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"14a2c2356fcc0208c2feecb8883eb3c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296709,
+            "locality_id":1495123957,
+            "neighbourhood_id":1495148259,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1495148259,
+    "wof:lastmodified":1571679500,
+    "wof:name":"Rossabo",
+    "wof:parent_id":1495123957,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293857673
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.29663,
+    59.39856,
+    5.29663,
+    59.39856
+],
+  "geometry": {"coordinates":[5.29663,59.39856],"type":"Point"}
+}

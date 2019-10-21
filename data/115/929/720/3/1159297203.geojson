@@ -52,6 +52,8 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        102191581,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -61,14 +63,14 @@
     "wof:geomhash":"c89998728f4df05ec1df31a57e1763ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297203,
             "region_id":85687135
         }
     ],
     "wof:id":1159297203,
-    "wof:lastmodified":1566662945,
+    "wof:lastmodified":1571679196,
     "wof:name":"Narvik",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

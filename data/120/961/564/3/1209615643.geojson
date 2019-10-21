@@ -28,14 +28,17 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "Landegrenda"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297107,
+        85633341,
+        85687105
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"40c7ce057cc536215edd5f51b1dce7c1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209615643
+            "localadmin_id":1159297107,
+            "locality_id":1209615643,
+            "region_id":85687105
         }
     ],
     "wof:id":1209615643,
-    "wof:lastmodified":1566662040,
+    "wof:lastmodified":1571383340,
     "wof:name":"Landegrenda",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297107,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

@@ -1,0 +1,79 @@
+{
+  "id": 1495147557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.47974,64.47018,11.47974,64.47018",
+    "geom:latitude":64.47018,
+    "geom:longitude":11.47974,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5005",
+    "gn:asciiname":"Lavika",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9403937,
+    "gn:latitude":64.47018,
+    "gn:longitude":11.47974,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Lavika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"11.45974,64.45018,11.49974,64.49018",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Lavika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1495115971,
+        102191581,
+        1159297197,
+        85633341,
+        101814549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9403937
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c9c36e2792e0fdc46dd1b33ed2586ed1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297197,
+            "locality_id":101814549,
+            "neighbourhood_id":1495147557,
+            "region_id":1495115971
+        }
+    ],
+    "wof:id":1495147557,
+    "wof:lastmodified":1571393122,
+    "wof:name":"Lavika",
+    "wof:parent_id":101814549,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310200345
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.47974,
+    64.47018,
+    11.47974,
+    64.47018
+],
+  "geometry": {"coordinates":[11.47974,64.47018],"type":"Point"}
+}

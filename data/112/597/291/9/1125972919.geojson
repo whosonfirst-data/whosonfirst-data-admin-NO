@@ -19,7 +19,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
@@ -58,7 +58,9 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159297539,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -72,15 +74,15 @@
     "wof:geomhash":"77a553dec60cf6c32e91d2a0ddab22b6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297539,
             "locality_id":1125972919,
             "region_id":85687135
         }
     ],
     "wof:id":1125972919,
-    "wof:lastmodified":1566662616,
+    "wof:lastmodified":1571679228,
     "wof:name":"Myre",
     "wof:parent_id":1159297539,
     "wof:placetype":"locality",

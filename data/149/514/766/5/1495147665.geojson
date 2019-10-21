@@ -1,0 +1,79 @@
+{
+  "id": 1495147665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.38434,59.69797,5.38434,59.69797",
+    "geom:latitude":59.69797,
+    "geom:longitude":5.38434,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1219",
+    "gn:asciiname":"Hamradalen",
+    "gn:country_code":"NO",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404364,
+    "gn:latitude":59.69797,
+    "gn:longitude":5.38434,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Hamradalen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.36434,59.67797,5.40434,59.71797",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Hamradalen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687099,
+        102191581,
+        1159296859,
+        85633341,
+        1175613115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404364
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2ba802b0f83fb4dcfd4fcbda554278c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296859,
+            "locality_id":1175613115,
+            "neighbourhood_id":1495147665,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1495147665,
+    "wof:lastmodified":1571393609,
+    "wof:name":"Hamradalen",
+    "wof:parent_id":1175613115,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326451537
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.38434,
+    59.69797,
+    5.38434,
+    59.69797
+],
+  "geometry": {"coordinates":[5.38434,59.69797],"type":"Point"}
+}

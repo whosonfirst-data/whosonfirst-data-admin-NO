@@ -1,0 +1,81 @@
+{
+  "id": 1495149119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.23333,66.31667,14.23333,66.31667",
+    "geom:latitude":66.31667,
+    "geom:longitude":14.23333,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1833.0",
+    "gn:asciiname":"Aenget",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3163557,
+    "gn:latitude":66.31667,
+    "gn:longitude":14.23333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u00c5enget",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"14.21333,66.29667,14.25333,66.33667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Aaenget",
+        "\u00c5enget"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687135,
+        102191581,
+        1159296963,
+        85633341,
+        101814635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3163557
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"ce8fb45b2f21edc76fa85c7db8c7d856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296963,
+            "locality_id":101814635,
+            "neighbourhood_id":1495149119,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1495149119,
+    "wof:lastmodified":1571679376,
+    "wof:name":"Aenget",
+    "wof:parent_id":101814635,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326914737
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.23333,
+    66.31667,
+    14.23333,
+    66.31667
+],
+  "geometry": {"coordinates":[14.23333,66.31667],"type":"Point"}
+}

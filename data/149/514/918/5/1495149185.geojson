@@ -1,0 +1,79 @@
+{
+  "id": 1495149185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.78823,58.45354,8.78823,58.45354",
+    "geom:latitude":58.45354,
+    "geom:longitude":8.78823,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"906",
+    "gn:asciiname":"Indre Bratteklev",
+    "gn:country_code":"NO",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404211,
+    "gn:latitude":58.45354,
+    "gn:longitude":8.78823,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Indre Bratteklev",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"8.76823,58.43354,8.80823,58.47354",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Indre Bratteklev"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687071,
+        102191581,
+        1159297607,
+        85633341,
+        101803769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404211
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"bd51bd85a8a771b0b6a464a080afbb09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297607,
+            "locality_id":101803769,
+            "neighbourhood_id":1495149185,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1495149185,
+    "wof:lastmodified":1571393880,
+    "wof:name":"Indre Bratteklev",
+    "wof:parent_id":101803769,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310408935
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.78823,
+    58.45354,
+    8.78823,
+    58.45354
+],
+  "geometry": {"coordinates":[8.78823,58.45354],"type":"Point"}
+}

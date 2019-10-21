@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sims\u00f6en",
@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297535,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"c06deb6ba95b97db2401592692393d38",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297535,
             "locality_id":1327019475,
             "region_id":85687135
         }
     ],
     "wof:id":1327019475,
-    "wof:lastmodified":1566661347,
+    "wof:lastmodified":1571679327,
     "wof:name":"Simsoya",
     "wof:parent_id":1159297535,
     "wof:placetype":"locality",

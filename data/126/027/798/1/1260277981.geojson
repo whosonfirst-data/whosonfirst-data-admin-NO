@@ -28,14 +28,16 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "M\u00e5stad"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297081,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -46,15 +48,15 @@
     "wof:geomhash":"ff791ff79e44f62c8c7d386bbe8f0b22",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297081,
             "locality_id":1260277981,
             "region_id":85687135
         }
     ],
     "wof:id":1260277981,
-    "wof:lastmodified":1566662181,
+    "wof:lastmodified":1571679275,
     "wof:name":"Mastad",
     "wof:parent_id":1159297081,
     "wof:placetype":"locality",

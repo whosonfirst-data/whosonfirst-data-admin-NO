@@ -1,0 +1,85 @@
+{
+  "id": 1495148721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.22065,63.9691,10.22065,63.9691",
+    "geom:latitude":63.9691,
+    "geom:longitude":10.22065,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5018.0",
+    "gn:asciiname":"Afjord",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3163607,
+    "gn:latitude":63.9691,
+    "gn:longitude":10.22065,
+    "gn:modification_date":"2018-05-11",
+    "gn:name":"\u00c5fjord",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"10.20065,63.9491,10.24065,63.9891",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "\u00c5fjord"
+    ],
+    "name:und_x_variant":[
+        "\u00c5",
+        "\u00c5 i \u00c5fjord",
+        "As",
+        "\u00c5o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1495115971,
+        102191581,
+        1159297163,
+        85633341,
+        101804129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3163607
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"df8fcd5d0eb4acf74faf8cd303f48d12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297163,
+            "locality_id":101804129,
+            "neighbourhood_id":1495148721,
+            "region_id":1495115971
+        }
+    ],
+    "wof:id":1495148721,
+    "wof:lastmodified":1571393282,
+    "wof:name":"Afjord",
+    "wof:parent_id":101804129,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1360169087
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.22065,
+    63.9691,
+    10.22065,
+    63.9691
+],
+  "geometry": {"coordinates":[10.22065,63.9691],"type":"Point"}
+}

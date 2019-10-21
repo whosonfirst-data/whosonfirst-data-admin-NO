@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "T\u00f8mmerneset"
@@ -50,7 +50,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297087,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -62,15 +64,15 @@
     "wof:geomhash":"6c57225b9644a7e2fce2c235410598f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297087,
             "locality_id":1226833559,
             "region_id":85687135
         }
     ],
     "wof:id":1226833559,
-    "wof:lastmodified":1566663272,
+    "wof:lastmodified":1571679256,
     "wof:name":"Tommerneset",
     "wof:parent_id":1159297087,
     "wof:placetype":"locality",

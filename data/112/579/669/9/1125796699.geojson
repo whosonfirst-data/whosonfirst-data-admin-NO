@@ -76,7 +76,9 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159297571,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -91,15 +93,15 @@
     "wof:geomhash":"a36e5aa30b32bcad235ff781d6f69483",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297571,
             "locality_id":1125796699,
             "region_id":85687135
         }
     ],
     "wof:id":1125796699,
-    "wof:lastmodified":1566662701,
+    "wof:lastmodified":1571679265,
     "wof:name":"Majavatn",
     "wof:parent_id":1159297571,
     "wof:placetype":"locality",

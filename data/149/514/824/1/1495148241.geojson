@@ -1,0 +1,82 @@
+{
+  "id": 1495148241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.23425,60.32237,11.23425,60.32237",
+    "geom:latitude":60.32237,
+    "geom:longitude":11.23425,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"237.0",
+    "gn:asciiname":"Vegamot",
+    "gn:country_code":"NO",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535644,
+    "gn:latitude":60.32237,
+    "gn:longitude":11.23425,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Vegamot",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"11.21425,60.30237,11.25425,60.34237",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Vegamot"
+    ],
+    "name:swe_x_preferred":[
+        "Vegamot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687095,
+        102191581,
+        1159297097,
+        85633341,
+        101815527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535644
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e5487b32f141e670c206992b14fe2573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297097,
+            "locality_id":101815527,
+            "neighbourhood_id":1495148241,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1495148241,
+    "wof:lastmodified":1571393662,
+    "wof:name":"Vegamot",
+    "wof:parent_id":101815527,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343771545
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.23425,
+    60.32236999999999,
+    11.23425,
+    60.32236999999999
+],
+  "geometry": {"coordinates":[11.23425,60.32236999999999],"type":"Point"}
+}

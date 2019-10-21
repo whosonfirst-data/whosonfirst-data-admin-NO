@@ -85,7 +85,9 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159297465,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -100,15 +102,15 @@
     "wof:geomhash":"2c880f7d0c8678712b8e6cb972a8b35d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297465,
             "locality_id":1125844871,
             "region_id":85687135
         }
     ],
     "wof:id":1125844871,
-    "wof:lastmodified":1566662711,
+    "wof:lastmodified":1571679210,
     "wof:name":"Skjerstad",
     "wof:parent_id":1159297465,
     "wof:placetype":"locality",

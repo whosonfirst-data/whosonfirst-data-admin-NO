@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u0430\u0437\u043e\u0432\u0430 \u0441\u0442\u0440\u0430\u043d\u0430"
@@ -71,7 +71,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297417,
+        85633341,
+        85687135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,14 +84,17 @@
     "wof:geomhash":"1a0c43012f2dda3630f64abc8dfe4203",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209599737
+            "localadmin_id":1159297417,
+            "locality_id":1209599737,
+            "region_id":85687135
         }
     ],
     "wof:id":1209599737,
-    "wof:lastmodified":1566662045,
+    "wof:lastmodified":1571679246,
     "wof:name":"Gasland",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297417,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

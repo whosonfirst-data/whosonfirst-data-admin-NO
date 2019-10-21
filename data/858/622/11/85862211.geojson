@@ -18,7 +18,7 @@
     "mps:latitude":60.50795,
     "mps:longitude":5.313966,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -59,10 +59,10 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687099,
         102191581,
         1159297617,
-        85633341,
-        85687099
+        85633341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +85,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1566661685,
+    "wof:lastmodified":1571380056,
     "wof:name":"M. Holdvik",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

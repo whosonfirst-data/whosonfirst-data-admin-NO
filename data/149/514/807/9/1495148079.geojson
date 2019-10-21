@@ -1,0 +1,79 @@
+{
+  "id": 1495148079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.77494,63.41861,10.77494,63.41861",
+    "geom:latitude":63.41861,
+    "geom:longitude":10.77494,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5031",
+    "gn:asciiname":"Gronberg",
+    "gn:country_code":"NO",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404252,
+    "gn:latitude":63.41861,
+    "gn:longitude":10.77494,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Gr\u00f8nberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"10.75494,63.39861,10.79494,63.43861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Gr\u00f8nberg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1495115971,
+        102191581,
+        1159296821,
+        85633341,
+        101814537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404252
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"970eadee82443c8ee3767c418fa97f79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296821,
+            "locality_id":101814537,
+            "neighbourhood_id":1495148079,
+            "region_id":1495115971
+        }
+    ],
+    "wof:id":1495148079,
+    "wof:lastmodified":1571393724,
+    "wof:name":"Gronberg",
+    "wof:parent_id":101814537,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243144627
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.77494,
+    63.41861,
+    10.77494,
+    63.41861
+],
+  "geometry": {"coordinates":[10.77494,63.41861],"type":"Point"}
+}

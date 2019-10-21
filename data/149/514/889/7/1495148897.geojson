@@ -1,0 +1,99 @@
+{
+  "id": 1495148897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.13333,66.35,14.13333,66.35",
+    "geom:latitude":66.35,
+    "geom:longitude":14.13333,
+    "gn:country":"NO",
+    "gn:fcode":"PPL",
+    "gn:population":0,
+    "iso:country":"NO",
+    "lbl:bbox":"14.11333,66.33,14.15333,66.37",
+    "lbl:latitude":66.35,
+    "lbl:longitude":14.13333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:und_x_variant":[
+        "Ytterheien"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3131158,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ytterheia",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Nordland Fylke",
+    "qs_pg:photos":12,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":12,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":910554,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":865984,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Nordland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85687135,
+        102191581,
+        1159296963,
+        85633341,
+        101814635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3131158,
+        "gp:id":865984,
+        "qs_pg:id":910554
+    },
+    "wof:country":"NO",
+    "wof:created":1497295223,
+    "wof:geomhash":"a22d2d28237f36034c92f2a92a034dc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296963,
+            "locality_id":101814635,
+            "neighbourhood_id":1495148897,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1495148897,
+    "wof:lastmodified":1571679372,
+    "wof:name":"Ytterheia",
+    "wof:parent_id":101814635,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125888859
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.13333,
+    66.35,
+    14.13333,
+    66.35
+],
+  "geometry": {"coordinates":[14.13333,66.34999999999999],"type":"Point"}
+}

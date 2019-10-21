@@ -1,0 +1,79 @@
+{
+  "id": 1495148287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.02717,59.02358,6.02717,59.02358",
+    "geom:latitude":59.02358,
+    "geom:longitude":6.02717,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1130.0",
+    "gn:asciiname":"Fjelle",
+    "gn:country_code":"NO",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9536436,
+    "gn:latitude":59.02358,
+    "gn:longitude":6.02717,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Fjelle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"6.00717,59.00358,6.04717,59.04358",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Fjelle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687085,
+        102191581,
+        1159297053,
+        85633341,
+        101803823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9536436
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a6f3dffc5b238081076e44e767a6a408",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297053,
+            "locality_id":101803823,
+            "neighbourhood_id":1495148287,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1495148287,
+    "wof:lastmodified":1571679497,
+    "wof:name":"Fjelle",
+    "wof:parent_id":101803823,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1260253423
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.02717,
+    59.02358,
+    6.02717,
+    59.02358
+],
+  "geometry": {"coordinates":[6.02717,59.02358],"type":"Point"}
+}

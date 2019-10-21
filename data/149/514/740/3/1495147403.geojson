@@ -1,0 +1,76 @@
+{
+  "id": 1495147403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.63333,59.13333,9.63333,59.13333",
+    "geom:latitude":59.13333,
+    "geom:longitude":9.63333,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"805.0",
+    "gn:asciiname":"Roligheten",
+    "gn:country_code":"NO",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141474,
+    "gn:latitude":59.13333,
+    "gn:longitude":9.63333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Roligheten",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"9.61333,59.11333,9.65333,59.15333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687091,
+        102191581,
+        1159296755,
+        85633341,
+        1126031233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141474
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"36ef160442f68dccc9dd332dce7d24a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296755,
+            "locality_id":1126031233,
+            "neighbourhood_id":1495147403,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1495147403,
+    "wof:lastmodified":1571393423,
+    "wof:name":"Roligheten",
+    "wof:parent_id":1126031233,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1309688409
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.63333,
+    59.13333000000001,
+    9.63333,
+    59.13333000000001
+],
+  "geometry": {"coordinates":[9.63333,59.13333000000001],"type":"Point"}
+}

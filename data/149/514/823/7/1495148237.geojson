@@ -1,0 +1,82 @@
+{
+  "id": 1495148237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.62229,59.13354,9.62229,59.13354",
+    "geom:latitude":59.13354,
+    "geom:longitude":9.62229,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"805",
+    "gn:asciiname":"Knarrdalstrand",
+    "gn:country_code":"NO",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404374,
+    "gn:latitude":59.13354,
+    "gn:longitude":9.62229,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Knarrdalstrand",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"9.60229,59.11354,9.64229,59.15354",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Knarrdalstrand"
+    ],
+    "name:nor_x_variant":[
+        "Knarrdalstranda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687091,
+        102191581,
+        1159296755,
+        85633341,
+        1126031233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404374
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"42a415ed6f9b1a4ac460e24a87780e7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296755,
+            "locality_id":1126031233,
+            "neighbourhood_id":1495148237,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1495148237,
+    "wof:lastmodified":1571393657,
+    "wof:name":"Knarrdalstrand",
+    "wof:parent_id":1126031233,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243327145
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.62229,
+    59.13354,
+    9.62229,
+    59.13354
+],
+  "geometry": {"coordinates":[9.62229,59.13354],"type":"Point"}
+}

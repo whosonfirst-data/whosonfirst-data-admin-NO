@@ -1,0 +1,90 @@
+{
+  "id": 1495148377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.97026,59.214782,10.97026,59.214782",
+    "geom:latitude":59.214782,
+    "geom:longitude":10.97026,
+    "gn:country":null,
+    "iso:country":"NO",
+    "lbl:bbox":"10.95026,59.194782,10.99026,59.234782",
+    "lbl:latitude":59.214782,
+    "lbl:longitude":10.97026,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Gamle Fredrikstad",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"\u00d8stfold Fylke",
+    "qs_pg:photos":249,
+    "qs_pg:photos_1k":50,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":249,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1063042,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":26343249,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"\u00d8stfold Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85687079,
+        102191581,
+        1159297385,
+        85633341,
+        1125851043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26343249,
+        "qs_pg:id":1063042
+    },
+    "wof:country":"NO",
+    "wof:created":1497303250,
+    "wof:geomhash":"2e95d3b99108e0167076c6323ff6a786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297385,
+            "locality_id":1125851043,
+            "neighbourhood_id":1495148377,
+            "region_id":85687079
+        }
+    ],
+    "wof:id":1495148377,
+    "wof:lastmodified":1571393774,
+    "wof:name":"Gamle Fredrikstad",
+    "wof:parent_id":1125851043,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126056371
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.97026,
+    59.214782,
+    10.97026,
+    59.214782
+],
+  "geometry": {"coordinates":[10.97026,59.214782],"type":"Point"}
+}

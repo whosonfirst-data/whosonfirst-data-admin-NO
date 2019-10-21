@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Stordal"
@@ -128,7 +128,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297383,
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -138,14 +141,17 @@
     "wof:geomhash":"a7dfdcf9e1e8a2d20063321b03e295f5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209095291
+            "localadmin_id":1159297383,
+            "locality_id":1209095291,
+            "region_id":1495115971
         }
     ],
     "wof:id":1209095291,
-    "wof:lastmodified":1566661973,
+    "wof:lastmodified":1571392944,
     "wof:name":"Stordal",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297383,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

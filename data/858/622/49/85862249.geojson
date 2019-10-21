@@ -17,7 +17,7 @@
     "mps:latitude":60.368391,
     "mps:longitude":5.286239,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -57,11 +57,10 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687099,
         102191581,
         1159297617,
-        85633341,
-        101751923,
-        85687099
+        85633341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +75,7 @@
             "continent_id":102191581,
             "country_id":85633341,
             "localadmin_id":1159297617,
-            "locality_id":101751923,
+            "locality_id":-1,
             "neighbourhood_id":85862249,
             "region_id":85687099
         }
@@ -85,9 +84,9 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1566661687,
+    "wof:lastmodified":1571386097,
     "wof:name":"Samdalen",
-    "wof:parent_id":101751923,
+    "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

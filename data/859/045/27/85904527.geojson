@@ -18,7 +18,7 @@
     "mps:latitude":63.395184,
     "mps:longitude":10.493589,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -57,8 +57,10 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        1495115971,
+        102191581,
         1159297145,
-        85687127
+        85633341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,19 +71,19 @@
     "wof:geomhash":"77d4a515f0868bb4ecabda6e6d937b55",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297145,
             "locality_id":-1,
             "neighbourhood_id":85904527,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":85904527,
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1566661651,
+    "wof:lastmodified":1571393074,
     "wof:name":"Stokkanhaugen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

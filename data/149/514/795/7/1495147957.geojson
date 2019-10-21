@@ -1,0 +1,78 @@
+{
+  "id": 1495147957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.33663,60.32766,5.33663,60.32766",
+    "geom:latitude":60.32766,
+    "geom:longitude":5.33663,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1201",
+    "gn:asciiname":"Hopsbukta",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404173,
+    "gn:latitude":60.32766,
+    "gn:longitude":5.33663,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Hopsbukta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.31663,60.30766,5.35663,60.34766",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Hopsbukta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687099,
+        102191581,
+        1159297617,
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404173
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9b9eb027fe1943163341085ae322fcbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":-1,
+            "neighbourhood_id":1495147957,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1495147957,
+    "wof:lastmodified":1571393595,
+    "wof:name":"Hopsbukta",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1344151607
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.33663,
+    60.32766,
+    5.33663,
+    60.32766
+],
+  "geometry": {"coordinates":[5.33663,60.32766],"type":"Point"}
+}

@@ -94,7 +94,9 @@
     "src:population":"geonames",
     "wd:wordcount":216,
     "wof:belongsto":[
+        102191581,
         1159297203,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -110,8 +112,8 @@
     "wof:geomhash":"de350382621e850099e0884b6c84e52d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297203,
             "locality_id":101814593,
             "region_id":85687135
@@ -121,7 +123,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1566662407,
+    "wof:lastmodified":1571679368,
     "wof:name":"Bjerkvik",
     "wof:parent_id":1159297203,
     "wof:placetype":"locality",

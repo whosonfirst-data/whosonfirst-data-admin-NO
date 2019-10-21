@@ -1,0 +1,79 @@
+{
+  "id": 1495148855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.38359,59.69882,5.38359,59.69882",
+    "geom:latitude":59.69882,
+    "geom:longitude":5.38359,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1219",
+    "gn:asciiname":"Vestra Mosterhamn",
+    "gn:country_code":"NO",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9403962,
+    "gn:latitude":59.69882,
+    "gn:longitude":5.38359,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Vestra Mosterhamn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.36359,59.67882,5.40359,59.71882",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Vestra Mosterhamn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687099,
+        102191581,
+        1159296859,
+        85633341,
+        1175613115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9403962
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e32d99ed4f99121075a44ba7cbaef18d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296859,
+            "locality_id":1175613115,
+            "neighbourhood_id":1495148855,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1495148855,
+    "wof:lastmodified":1571393691,
+    "wof:name":"Vestra Mosterhamn",
+    "wof:parent_id":1175613115,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1242994415
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.38359,
+    59.69882,
+    5.38359,
+    59.69882
+],
+  "geometry": {"coordinates":[5.38359,59.69882],"type":"Point"}
+}

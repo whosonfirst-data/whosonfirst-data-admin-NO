@@ -120,6 +120,8 @@
     "no-geonorge:lokalid":"173058",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":60.356531,
+    "reversegeo:longitude":5.020172,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":1159296987,
-    "wof:lastmodified":1566662914,
+    "wof:lastmodified":1571389728,
     "wof:name":"Fjell",
     "wof:parent_id":85687099,
     "wof:placetype":"localadmin",

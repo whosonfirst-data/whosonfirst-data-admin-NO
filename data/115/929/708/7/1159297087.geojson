@@ -34,6 +34,8 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        102191581,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,14 +45,14 @@
     "wof:geomhash":"7b3de8f2e11bae24a835126aa4d311fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297087,
             "region_id":85687135
         }
     ],
     "wof:id":1159297087,
-    "wof:lastmodified":1566662741,
+    "wof:lastmodified":1571679192,
     "wof:name":"Hamaroy",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

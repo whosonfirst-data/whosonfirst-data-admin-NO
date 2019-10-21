@@ -157,7 +157,9 @@
     "src:population":"geonames",
     "wd:wordcount":845,
     "wof:belongsto":[
+        102191581,
         1159297087,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -172,15 +174,15 @@
     "wof:geomhash":"9ac862982c8fe10b9939d4000f36c773",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297087,
             "locality_id":101913027,
             "region_id":85687135
         }
     ],
     "wof:id":101913027,
-    "wof:lastmodified":1566662393,
+    "wof:lastmodified":1571679334,
     "wof:name":"Hamar\u00f8y",
     "wof:parent_id":1159297087,
     "wof:placetype":"locality",

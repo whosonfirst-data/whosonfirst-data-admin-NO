@@ -134,9 +134,7 @@
     "src:lbl:centroid":"qs_pg",
     "wof:belongsto":[
         102191581,
-        1159297183,
-        85633341,
-        85687133
+        1159297183
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -150,14 +148,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159297183,
             "locality_id":1126041437,
-            "region_id":85687133
+            "region_id":-1
         }
     ],
     "wof:id":1126041437,
-    "wof:lastmodified":1561769610,
+    "wof:lastmodified":1571387139,
     "wof:name":"H\u00f8ylandet",
     "wof:parent_id":1159297183,
     "wof:placetype":"locality",

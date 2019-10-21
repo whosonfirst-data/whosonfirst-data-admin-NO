@@ -28,15 +28,17 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "Dombu"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297549,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,15 @@
     "wof:geomhash":"90374bcfe35db22d5ccb1e490e5f6035",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297549,
             "locality_id":1293866035,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1293866035,
-    "wof:lastmodified":1566661824,
+    "wof:lastmodified":1571393029,
     "wof:name":"Dombu",
     "wof:parent_id":1159297549,
     "wof:placetype":"locality",

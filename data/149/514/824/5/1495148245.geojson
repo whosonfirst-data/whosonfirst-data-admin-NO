@@ -1,0 +1,78 @@
+{
+  "id": 1495148245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.34311,60.32319,5.34311,60.32319",
+    "geom:latitude":60.32319,
+    "geom:longitude":5.34311,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1201",
+    "gn:asciiname":"Kloppedal",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404174,
+    "gn:latitude":60.32319,
+    "gn:longitude":5.34311,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Kloppedal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.32311,60.30319,5.36311,60.34319",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Kloppedal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687099,
+        102191581,
+        1159297617,
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404174
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"67dc121b8f01d60e7a7743bd2ea7b01a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":-1,
+            "neighbourhood_id":1495148245,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1495148245,
+    "wof:lastmodified":1571393664,
+    "wof:name":"Kloppedal",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327131253
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.34311,
+    60.32319,
+    5.34311,
+    60.32319
+],
+  "geometry": {"coordinates":[5.34311,60.32319],"type":"Point"}
+}

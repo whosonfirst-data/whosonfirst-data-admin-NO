@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Sand"
@@ -152,6 +152,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0531\u057e\u0561\u0566"
+    ],
+    "name:ido_x_preferred":[
+        "Sablo"
     ],
     "name:iku_x_preferred":[
         "\u14ef\u1405\u154b\u1585"
@@ -347,7 +350,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297077,
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -357,14 +363,17 @@
     "wof:geomhash":"5eb7319aa733977f13fc0e8d6ef0cdc6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209303457
+            "localadmin_id":1159297077,
+            "locality_id":1209303457,
+            "region_id":1495115971
         }
     ],
     "wof:id":1209303457,
-    "wof:lastmodified":1566661995,
+    "wof:lastmodified":1571392952,
     "wof:name":"Sand",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297077,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

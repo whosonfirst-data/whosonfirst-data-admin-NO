@@ -109,6 +109,9 @@
     "name:swe_x_preferred":[
         "Agdenes kommun"
     ],
+    "name:tur_x_preferred":[
+        "Agdenes"
+    ],
     "name:urd_x_preferred":[
         "\u0627\u06af\u062f\u0646\u0633"
     ],
@@ -130,7 +133,9 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687127
+        102191581,
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordance":{},
@@ -139,16 +144,16 @@
     "wof:geomhash":"519e9ac17a34cc8128cc2eb64735bba0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297117,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1159297117,
-    "wof:lastmodified":1566662936,
+    "wof:lastmodified":1571392926,
     "wof:name":"Agdenes",
-    "wof:parent_id":85687127,
+    "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-no",

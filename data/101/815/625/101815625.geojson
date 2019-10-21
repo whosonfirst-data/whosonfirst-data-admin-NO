@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-10-11",
     "edtf:inception":"uuuu",
     "geom:area":0.002171,
     "geom:area_square_m":13095422.207692,
@@ -18,7 +19,7 @@
     "mps:latitude":60.803596,
     "mps:longitude":11.05703,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":6.1,
     "name:ara_x_preferred":[
         "\u0647\u0627\u0645\u0627\u0631"
@@ -380,14 +381,17 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1566662403,
+    "wof:lastmodified":1571386170,
     "wof:name":"Hamar",
     "wof:parent_id":1159297089,
     "wof:placetype":"locality",
     "wof:population":30120,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-no",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1495124017,
+        1495124065
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

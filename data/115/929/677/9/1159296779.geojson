@@ -174,6 +174,8 @@
     "no-geonorge:lokalid":"172987172681",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":59.013794,
+    "reversegeo:longitude":9.965824,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -196,7 +198,7 @@
         }
     ],
     "wof:id":1159296779,
-    "wof:lastmodified":1566662901,
+    "wof:lastmodified":1571389636,
     "wof:name":"Larvik",
     "wof:parent_id":85687073,
     "wof:placetype":"localadmin",

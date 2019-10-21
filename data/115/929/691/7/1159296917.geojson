@@ -123,6 +123,8 @@
     "no-geonorge:lokalid":"172733",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":68.849391,
+    "reversegeo:longitude":17.287447,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -145,7 +147,7 @@
         }
     ],
     "wof:id":1159296917,
-    "wof:lastmodified":1566662913,
+    "wof:lastmodified":1571389715,
     "wof:name":"Ibestad",
     "wof:parent_id":85687143,
     "wof:placetype":"localadmin",

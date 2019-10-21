@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Slettvika",
@@ -39,8 +39,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297117,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +52,15 @@
     "wof:geomhash":"d0f2658e1f5f69897ca83d364a5dc102",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297117,
             "locality_id":1343533699,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1343533699,
-    "wof:lastmodified":1566661508,
+    "wof:lastmodified":1571393001,
     "wof:name":"Slettvik",
     "wof:parent_id":1159297117,
     "wof:placetype":"locality",

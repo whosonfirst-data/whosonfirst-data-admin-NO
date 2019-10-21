@@ -1,0 +1,79 @@
+{
+  "id": 1495149059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.42109,67.26913,15.42109,67.26913",
+    "geom:latitude":67.26913,
+    "geom:longitude":15.42109,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1841",
+    "gn:asciiname":"Storsteinen",
+    "gn:country_code":"NO",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404186,
+    "gn:latitude":67.26913,
+    "gn:longitude":15.42109,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Storsteinen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"15.40109,67.24913,15.44109,67.28913",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Storsteinen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687135,
+        102191581,
+        1159296833,
+        85633341,
+        101814625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404186
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"e9ead496d762e2252ff11aa511cd34bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296833,
+            "locality_id":101814625,
+            "neighbourhood_id":1495149059,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1495149059,
+    "wof:lastmodified":1571679374,
+    "wof:name":"Storsteinen",
+    "wof:parent_id":101814625,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293276725
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.42109,
+    67.26913,
+    15.42109,
+    67.26913
+],
+  "geometry": {"coordinates":[15.42109,67.26913],"type":"Point"}
+}

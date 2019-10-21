@@ -152,7 +152,9 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159297611,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -166,15 +168,15 @@
     "wof:geomhash":"e698ded8a4d7c29de7a629f0cdee9ff0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297611,
             "locality_id":1125974865,
             "region_id":85687135
         }
     ],
     "wof:id":1125974865,
-    "wof:lastmodified":1566662614,
+    "wof:lastmodified":1571679229,
     "wof:name":"Flakstad",
     "wof:parent_id":1159297611,
     "wof:placetype":"locality",

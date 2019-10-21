@@ -1,0 +1,104 @@
+{
+  "id": 1495148429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.94929,69.24491,17.94929,69.24491",
+    "geom:latitude":69.24491,
+    "geom:longitude":17.94929,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1931",
+    "gn:asciiname":"Silsand",
+    "gn:country_code":"NO",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9403965,
+    "gn:latitude":69.24491,
+    "gn:longitude":17.94929,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Silsand",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"17.92929,69.22491,17.96929,69.26491",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:dan_x_preferred":[
+        "Silsand"
+    ],
+    "name:fra_x_preferred":[
+        "Silsand"
+    ],
+    "name:msa_x_preferred":[
+        "Silsand"
+    ],
+    "name:nld_x_preferred":[
+        "Silsand"
+    ],
+    "name:nno_x_preferred":[
+        "Silsand"
+    ],
+    "name:nor_x_preferred":[
+        "Silsand"
+    ],
+    "name:ron_x_preferred":[
+        "Silsand"
+    ],
+    "name:spa_x_preferred":[
+        "Silsand"
+    ],
+    "name:swe_x_preferred":[
+        "Silsand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687143,
+        102191581,
+        1159297333,
+        85633341,
+        101814659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9403965,
+        "wk:page":"Silsand"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"68aec96b7a2213a768bf9ee2800691ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297333,
+            "locality_id":101814659,
+            "neighbourhood_id":1495148429,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":1495148429,
+    "wof:lastmodified":1571393232,
+    "wof:name":"Silsand",
+    "wof:parent_id":101814659,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259446135
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.94928999999999,
+    69.24491,
+    17.94928999999999,
+    69.24491
+],
+  "geometry": {"coordinates":[17.94928999999999,69.24491],"type":"Point"}
+}

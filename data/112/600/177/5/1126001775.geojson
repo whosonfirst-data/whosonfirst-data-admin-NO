@@ -4,22 +4,21 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"11.03333,59.25,11.03333,59.25",
-    "geom:latitude":59.25,
-    "geom:longitude":11.03333,
+    "geom:area":0.000418,
+    "geom:area_square_m":2642555.486886,
+    "geom:bbox":"10.9963943927,59.2328667204,11.0301133567,59.2610152219",
+    "geom:latitude":59.244985,
+    "geom:longitude":11.017376,
     "gn:country":"NO",
     "gn:fcode":"PPL",
     "gn:population":0,
     "iso:country":"NO",
-    "lbl:bbox":"11.01333,59.23,11.05333,59.27",
-    "lbl:latitude":59.25,
-    "lbl:longitude":11.03333,
+    "lbl:latitude":59.242829,
+    "lbl:longitude":11.021918,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
@@ -69,8 +68,12 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424910,
     "qs_pg:woe_id":865054,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl_centroid":"whosonfirst",
     "woe:adm0_id":23424910,
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"\u00d8stfold Fylke",
@@ -89,7 +92,7 @@
     },
     "wof:country":"NO",
     "wof:created":1497299688,
-    "wof:geomhash":"6adcf086a3b4eac03d5929543ef2b364",
+    "wof:geomhash":"41d09605fc174fd7f6ba5885f0d2114d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,20 +103,22 @@
         }
     ],
     "wof:id":1126001775,
-    "wof:lastmodified":1566662657,
+    "wof:lastmodified":1571388088,
     "wof:name":"Torp",
     "wof:parent_id":1159297385,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101751913
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    11.03333,
-    59.25,
-    11.03333,
-    59.25
+    10.99639439274414,
+    59.23286672038676,
+    11.0301133567222,
+    59.26101522194068
 ],
-  "geometry": {"coordinates":[11.03333,59.25],"type":"Point"}
+  "geometry": {"coordinates":[[[11.02136115633383,59.23286672038676],[10.99639439274414,59.23788109921703],[11.00147999877871,59.24083683794586],[11.00789924378334,59.24424125832552],[11.01146549100813,59.24752377035603],[11.01312973971304,59.24959037505326],[11.01645823712285,59.25189996145792],[11.01883573527271,59.25578943747469],[11.0224019824975,59.2595569441021],[11.0276324784272,59.26101522194068],[11.02920756711888,59.26056236183967],[11.027840724435,59.2499517368311],[11.0301133567222,59.249934833075],[11.03008675081,59.2490353494599],[11.028338118104,59.2490483667435],[11.0283115589438,59.2481488830789],[11.0276090409418,59.2481541039025],[11.0267525,59.2415085],[11.0263541688112,59.2410761987733],[11.0263244160001,59.2400665363558],[11.0254299594971,59.2400731720673],[11.0245478937869,59.2391158830089],[11.0245233279704,59.2382805437186],[11.0237832411576,59.2382860201241],[11.021083,59.2353555],[11.02136115633383,59.23286672038676]]],"type":"Polygon"}
 }

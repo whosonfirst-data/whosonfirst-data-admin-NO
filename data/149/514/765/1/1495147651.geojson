@@ -1,0 +1,81 @@
+{
+  "id": 1495147651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.41667,67.28333,14.41667,67.28333",
+    "geom:latitude":67.28333,
+    "geom:longitude":14.41667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1804.0",
+    "gn:asciiname":"Ronvik",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141362,
+    "gn:latitude":67.28333,
+    "gn:longitude":14.41667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"R\u00f8nvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"14.39667,67.26333,14.43667,67.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "R\u00f8nnvik",
+        "R\u00f8nvik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687135,
+        102191581,
+        1159297465,
+        85633341,
+        101814623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141362
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"31f7bcaddf7a8ed54984dcb540dc1e16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297465,
+            "locality_id":101814623,
+            "neighbourhood_id":1495147651,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1495147651,
+    "wof:lastmodified":1571679371,
+    "wof:name":"Ronvik",
+    "wof:parent_id":101814623,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326814869
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.41667,
+    67.28333,
+    14.41667,
+    67.28333
+],
+  "geometry": {"coordinates":[14.41667,67.28333000000001],"type":"Point"}
+}

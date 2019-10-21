@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "H\u00f6ydal",
@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297017,
+        85633341,
+        85687113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,17 @@
     "wof:geomhash":"37f15d8d62ebbe708bbaae5f850ab1bf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209079391
+            "localadmin_id":1159297017,
+            "locality_id":1209079391,
+            "region_id":85687113
         }
     ],
     "wof:id":1209079391,
-    "wof:lastmodified":1566661979,
+    "wof:lastmodified":1571382748,
     "wof:name":"Store Hoydal",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297017,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

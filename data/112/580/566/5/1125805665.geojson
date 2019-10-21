@@ -89,7 +89,9 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159297039,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -104,15 +106,15 @@
     "wof:geomhash":"a390e3902f5fec77e9818439cc7a9a8e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297039,
             "locality_id":1125805665,
             "region_id":85687135
         }
     ],
     "wof:id":1125805665,
-    "wof:lastmodified":1566662575,
+    "wof:lastmodified":1571679211,
     "wof:name":"Ballstad",
     "wof:parent_id":1159297039,
     "wof:placetype":"locality",

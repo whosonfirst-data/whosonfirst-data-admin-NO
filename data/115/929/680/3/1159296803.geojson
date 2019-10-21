@@ -36,10 +36,14 @@
     "no-geonorge:lokalid":"172972",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":66.930109,
+    "reversegeo:longitude":13.73441,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        102191581,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -49,14 +53,14 @@
     "wof:geomhash":"b0f6120ee01af2864633af4ab1e145df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296803,
             "region_id":85687135
         }
     ],
     "wof:id":1159296803,
-    "wof:lastmodified":1566662789,
+    "wof:lastmodified":1571679201,
     "wof:name":"Rost",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

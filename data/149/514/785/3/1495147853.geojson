@@ -1,0 +1,79 @@
+{
+  "id": 1495147853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.9001,59.21234,10.9001,59.21234",
+    "geom:latitude":59.21234,
+    "geom:longitude":10.9001,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"106.0",
+    "gn:asciiname":"Alestranda",
+    "gn:country_code":"NO",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537157,
+    "gn:latitude":59.21234,
+    "gn:longitude":10.9001,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"\u00c5lestranda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"10.8801,59.19234,10.9201,59.23234",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "\u00c5lestranda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687079,
+        102191581,
+        1159297385,
+        85633341,
+        1125805881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537157
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4bed24d27254124f526d21a8c210426a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297385,
+            "locality_id":1125805881,
+            "neighbourhood_id":1495147853,
+            "region_id":85687079
+        }
+    ],
+    "wof:id":1495147853,
+    "wof:lastmodified":1571393447,
+    "wof:name":"Alestranda",
+    "wof:parent_id":1125805881,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1193257601
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.9001,
+    59.21234000000001,
+    10.9001,
+    59.21234000000001
+],
+  "geometry": {"coordinates":[10.9001,59.21234000000001],"type":"Point"}
+}

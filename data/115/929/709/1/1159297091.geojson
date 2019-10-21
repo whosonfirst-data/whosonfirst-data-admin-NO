@@ -117,6 +117,8 @@
     "no-geonorge:lokalid":"172926",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":60.027319,
+    "reversegeo:longitude":5.237925,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -139,7 +141,7 @@
         }
     ],
     "wof:id":1159297091,
-    "wof:lastmodified":1566662756,
+    "wof:lastmodified":1571388789,
     "wof:name":"Austevoll",
     "wof:parent_id":85687099,
     "wof:placetype":"localadmin",

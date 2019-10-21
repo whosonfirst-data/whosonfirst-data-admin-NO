@@ -118,6 +118,9 @@
     "name:ile_x_preferred":[
         "Stavanger"
     ],
+    "name:ina_x_preferred":[
+        "Stavanger"
+    ],
     "name:ind_x_preferred":[
         "Stavanger"
     ],
@@ -144,6 +147,9 @@
     ],
     "name:lav_x_preferred":[
         "Stavangere"
+    ],
+    "name:lav_x_variant":[
+        "Stavangeres kom\u016bna"
     ],
     "name:lim_x_preferred":[
         "Stavanger"
@@ -264,6 +270,8 @@
     "no-geonorge:lokalid":"173091",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":58.95998,
+    "reversegeo:longitude":5.722307,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -286,7 +294,7 @@
         }
     ],
     "wof:id":1159297103,
-    "wof:lastmodified":1566662933,
+    "wof:lastmodified":1571679428,
     "wof:name":"Stavanger",
     "wof:parent_id":85687085,
     "wof:placetype":"localadmin",

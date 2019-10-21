@@ -1,0 +1,86 @@
+{
+  "id": 1495147723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.20388,59.25334,5.20388,59.25334",
+    "geom:latitude":59.25334,
+    "geom:longitude":5.20388,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1149",
+    "gn:asciiname":"Akra",
+    "gn:country_code":"NO",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9403993,
+    "gn:latitude":59.25334,
+    "gn:longitude":5.20388,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"\u00c5kra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.18388,59.23334,5.22388,59.27334",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nno_x_preferred":[
+        "\u00c5kra"
+    ],
+    "name:nor_x_preferred":[
+        "\u00c5kra"
+    ],
+    "name:por_x_preferred":[
+        "\u00c5kra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687085,
+        102191581,
+        1159297005,
+        85633341,
+        101803817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9403993,
+        "wk:page":"%C3%85kra"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"d0cfb9c9a015ef50ea7ec5e2d06cf4a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297005,
+            "locality_id":101803817,
+            "neighbourhood_id":1495147723,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1495147723,
+    "wof:lastmodified":1571679501,
+    "wof:name":"Akra",
+    "wof:parent_id":101803817,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259858319
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.20388,
+    59.25334,
+    5.20388,
+    59.25334
+],
+  "geometry": {"coordinates":[5.20388,59.25334],"type":"Point"}
+}

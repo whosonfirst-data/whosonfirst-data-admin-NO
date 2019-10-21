@@ -16,7 +16,7 @@
     "lbl:longitude":10.318334,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"NO",
@@ -43,8 +43,10 @@
     "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        1495115971,
+        102191581,
         1159297145,
-        85687127
+        85633341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,16 +58,16 @@
     "wof:geomhash":"8f9e821e7e2f88dbd31f1784a8f2c352",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297145,
             "locality_id":-1,
             "neighbourhood_id":1126089347,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1126089347,
-    "wof:lastmodified":1566662642,
+    "wof:lastmodified":1571393079,
     "wof:name":"Larsbyen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

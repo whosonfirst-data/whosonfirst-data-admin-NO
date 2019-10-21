@@ -55,6 +55,9 @@
     "name:srp_x_preferred":[
         "\u041e\u0440\u043b\u0430\u043d\u0434"
     ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u043b\u0430\u043d\u0434"
+    ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u0631\u0644\u06cc\u0646\u0688"
     ],
@@ -66,11 +69,15 @@
     "no-geonorge:lokalid":"172846",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":63.719304,
+    "reversegeo:longitude":9.641871,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687127
+        102191581,
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordance":{},
@@ -79,16 +86,16 @@
     "wof:geomhash":"52af17953e8924002825fa12b8fde9bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296835,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1159296835,
-    "wof:lastmodified":1566662901,
+    "wof:lastmodified":1571392929,
     "wof:name":"Orland",
-    "wof:parent_id":85687127,
+    "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-no",

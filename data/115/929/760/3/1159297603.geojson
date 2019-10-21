@@ -120,6 +120,8 @@
     "no-geonorge:lokalid":"172885",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":68.727853,
+    "reversegeo:longitude":17.796835,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":1159297603,
-    "wof:lastmodified":1566662856,
+    "wof:lastmodified":1571389346,
     "wof:name":"Lavangen",
     "wof:parent_id":85687143,
     "wof:placetype":"localadmin",

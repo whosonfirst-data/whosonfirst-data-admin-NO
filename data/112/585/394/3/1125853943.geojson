@@ -79,7 +79,9 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159296781,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -94,15 +96,15 @@
     "wof:geomhash":"b5672f15b4a90974b7b25c1fd6bf9223",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296781,
             "locality_id":1125853943,
             "region_id":85687135
         }
     ],
     "wof:id":1125853943,
-    "wof:lastmodified":1566662688,
+    "wof:lastmodified":1571679277,
     "wof:name":"Gladstad",
     "wof:parent_id":1159296781,
     "wof:placetype":"locality",

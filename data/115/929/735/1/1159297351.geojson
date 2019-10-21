@@ -117,6 +117,8 @@
     "no-geonorge:lokalid":"172990",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":69.295243,
+    "reversegeo:longitude":17.253931,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -139,7 +141,7 @@
         }
     ],
     "wof:id":1159297351,
-    "wof:lastmodified":1566662864,
+    "wof:lastmodified":1571389401,
     "wof:name":"Torsken",
     "wof:parent_id":85687143,
     "wof:placetype":"localadmin",

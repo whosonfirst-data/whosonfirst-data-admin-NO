@@ -1,0 +1,76 @@
+{
+  "id": 1495148765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.63784,68.14643,13.63784,68.14643",
+    "geom:latitude":68.14643,
+    "geom:longitude":13.63784,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1860.0",
+    "gn:asciiname":"Fygle",
+    "gn:country_code":"NO",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3156263,
+    "gn:latitude":68.14643,
+    "gn:longitude":13.63784,
+    "gn:modification_date":"2013-07-13",
+    "gn:name":"Fygle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"13.61784,68.12643,13.65784,68.16643",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687135,
+        102191581,
+        1159297039,
+        85633341,
+        101814609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3156263
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f6a8da6967e355f6946cc9ecaf7aeecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297039,
+            "locality_id":101814609,
+            "neighbourhood_id":1495148765,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1495148765,
+    "wof:lastmodified":1571679375,
+    "wof:name":"Fygle",
+    "wof:parent_id":101814609,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1360169201
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.63784,
+    68.14643000000001,
+    13.63784,
+    68.14643000000001
+],
+  "geometry": {"coordinates":[13.63784,68.14643000000001],"type":"Point"}
+}

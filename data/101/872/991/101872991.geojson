@@ -62,8 +62,10 @@
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        102191581,
         1159297253,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,15 +78,15 @@
     "wof:geomhash":"a2b1857683c212b6b9769383dfaa2fe3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297253,
             "locality_id":101872991,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":101872991,
-    "wof:lastmodified":1566662358,
+    "wof:lastmodified":1571393070,
     "wof:name":"Buvika/Ilhaugen",
     "wof:parent_id":1159297253,
     "wof:placetype":"locality",

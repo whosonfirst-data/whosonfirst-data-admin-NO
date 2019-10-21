@@ -85,7 +85,9 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159297273,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -100,15 +102,15 @@
     "wof:geomhash":"bd2ba0e52bad6701da3348d811c83e8f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297273,
             "locality_id":1125818177,
             "region_id":85687135
         }
     ],
     "wof:id":1125818177,
-    "wof:lastmodified":1566662551,
+    "wof:lastmodified":1571679215,
     "wof:name":"Stranda",
     "wof:parent_id":1159297273,
     "wof:placetype":"locality",

@@ -1,0 +1,79 @@
+{
+  "id": 1495147915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.7502,58.93844,5.7502,58.93844",
+    "geom:latitude":58.93844,
+    "geom:longitude":5.7502,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1103",
+    "gn:asciiname":"Kristianslyst",
+    "gn:country_code":"NO",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9403878,
+    "gn:latitude":58.93844,
+    "gn:longitude":5.7502,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Kristianslyst",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.7302,58.91844,5.7702,58.95844",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Kristianslyst"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687085,
+        102191581,
+        1159297103,
+        85633341,
+        1495123971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9403878
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"f00d84743fadf822b1a9b6de5decffac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297103,
+            "locality_id":1495123971,
+            "neighbourhood_id":1495147915,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1495147915,
+    "wof:lastmodified":1571679497,
+    "wof:name":"Kristianslyst",
+    "wof:parent_id":1495123971,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1344140303
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.7502,
+    58.93844,
+    5.7502,
+    58.93844
+],
+  "geometry": {"coordinates":[5.7502,58.93844],"type":"Point"}
+}

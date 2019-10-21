@@ -1,0 +1,91 @@
+{
+  "id": 1495148375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.63333,58.51667,8.63333,58.51667",
+    "geom:latitude":58.51667,
+    "geom:longitude":8.63333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"919.0",
+    "gn:asciiname":"Songe",
+    "gn:country_code":"NO",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3137670,
+    "gn:latitude":58.51667,
+    "gn:longitude":8.63333,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Songe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"8.61333,58.49667,8.65333,58.53667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Songe"
+    ],
+    "name:jav_x_preferred":[
+        "Songe"
+    ],
+    "name:msa_x_preferred":[
+        "Songe"
+    ],
+    "name:nno_x_preferred":[
+        "Songe"
+    ],
+    "name:nor_x_preferred":[
+        "Songe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687071,
+        102191581,
+        1159297377,
+        85633341,
+        101803767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3137670
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c65cdc843d89abae31a80d6444396335",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297377,
+            "locality_id":101803767,
+            "neighbourhood_id":1495148375,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1495148375,
+    "wof:lastmodified":1571393776,
+    "wof:name":"Songe",
+    "wof:parent_id":101803767,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226543017
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.63333,
+    58.51667,
+    8.63333,
+    58.51667
+],
+  "geometry": {"coordinates":[8.63333,58.51667],"type":"Point"}
+}

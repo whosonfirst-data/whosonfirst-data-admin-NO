@@ -1,0 +1,79 @@
+{
+  "id": 1495147795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.64008,59.69989,10.64008,59.69989",
+    "geom:latitude":59.69989,
+    "geom:longitude":10.64008,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"215.0",
+    "gn:asciiname":"Kleiva",
+    "gn:country_code":"NO",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9537250,
+    "gn:latitude":59.69989,
+    "gn:longitude":10.64008,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Kleiva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"10.62008,59.67989,10.66008,59.71989",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Kleiva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687095,
+        102191581,
+        1159297355,
+        85633341,
+        101816231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9537250
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"52869e3f3d57eb8360e2a908d910cab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297355,
+            "locality_id":101816231,
+            "neighbourhood_id":1495147795,
+            "region_id":85687095
+        }
+    ],
+    "wof:id":1495147795,
+    "wof:lastmodified":1571393496,
+    "wof:name":"Kleiva",
+    "wof:parent_id":101816231,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259501171
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.64008,
+    59.69989,
+    10.64008,
+    59.69989
+],
+  "geometry": {"coordinates":[10.64008,59.69989],"type":"Point"}
+}

@@ -1,0 +1,102 @@
+{
+  "id": 1495148393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.35998,60.465591,5.35998,60.465591",
+    "geom:latitude":60.465591,
+    "geom:longitude":5.35998,
+    "gn:country":null,
+    "iso:country":"NO",
+    "lbl:bbox":"5.33998,60.445591,5.37998,60.485591",
+    "lbl:latitude":60.465591,
+    "lbl:longitude":5.35998,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Flaktveit"
+    ],
+    "name:nld_x_preferred":[
+        "Flaktveit"
+    ],
+    "name:nno_x_preferred":[
+        "Flaktveit"
+    ],
+    "name:nob_x_preferred":[
+        "Flaktveit"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Flaktveit",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Hordaland Fylke",
+    "qs_pg:photos":65,
+    "qs_pg:photos_1k":13,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":250,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1061883,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":20229547,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Hordaland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85687099,
+        102191581,
+        1159297617,
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20229547,
+        "qs_pg:id":1061883,
+        "wd:id":"Q3433790"
+    },
+    "wof:country":"NO",
+    "wof:created":1497303129,
+    "wof:geomhash":"7b3ace7999543930e35694186fc56b94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":-1,
+            "neighbourhood_id":1495148393,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1495148393,
+    "wof:lastmodified":1571393788,
+    "wof:name":"Flaktveit",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126055479
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.35998,
+    60.465591,
+    5.35998,
+    60.465591
+],
+  "geometry": {"coordinates":[5.35998,60.465591],"type":"Point"}
+}

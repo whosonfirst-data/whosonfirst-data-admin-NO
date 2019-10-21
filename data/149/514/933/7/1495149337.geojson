@@ -1,0 +1,79 @@
+{
+  "id": 1495149337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.17939,60.32274,5.17939,60.32274",
+    "geom:latitude":60.32274,
+    "geom:longitude":5.17939,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1246",
+    "gn:asciiname":"Bjoroyna",
+    "gn:country_code":"NO",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9403953,
+    "gn:latitude":60.32274,
+    "gn:longitude":5.17939,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Bjor\u00f8yna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.15939,60.30274,5.19939,60.34274",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Bjor\u00f8yna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687099,
+        102191581,
+        1159296987,
+        85633341,
+        101911013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9403953
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"9d6785f3efe530aef0238239f561f62d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296987,
+            "locality_id":101911013,
+            "neighbourhood_id":1495149337,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1495149337,
+    "wof:lastmodified":1571393611,
+    "wof:name":"Bjoroyna",
+    "wof:parent_id":101911013,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226039459
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.17939,
+    60.32274,
+    5.17939,
+    60.32274
+],
+  "geometry": {"coordinates":[5.17939,60.32274],"type":"Point"}
+}

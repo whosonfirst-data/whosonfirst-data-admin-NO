@@ -1,0 +1,88 @@
+{
+  "id": 1495148947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.84385,62.34338,5.84385,62.34338",
+    "geom:latitude":62.34338,
+    "geom:longitude":5.84385,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ulsteinvik weather pws station",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:elevation":"11.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8468896,
+    "gn:latitude":62.34338,
+    "gn:longitude":5.84385,
+    "gn:modification_date":"2013-02-25",
+    "gn:name":"Ulsteinvik weather pws station",
+    "gn:population":5000,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.82385,62.32338,5.86385,62.36338",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:eng_x_preferred":[
+        "Ulsteinvik weather"
+    ],
+    "name:nor_x_preferred":[
+        "Ulsteinvik veret"
+    ],
+    "name:nor_x_variant":[
+        "ulsteinvik v\u00e6ret"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85687123,
+        102191581,
+        1159297271,
+        85633341,
+        101804117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8468896
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"53cf4d2a45750af37171a005f9f3ab13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297271,
+            "locality_id":101804117,
+            "neighbourhood_id":1495148947,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1495148947,
+    "wof:lastmodified":1571393383,
+    "wof:name":"Ulsteinvik weather pws station",
+    "wof:parent_id":101804117,
+    "wof:placetype":"neighbourhood",
+    "wof:population":5000,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343347085
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.84385,
+    62.34338,
+    5.84385,
+    62.34338
+],
+  "geometry": {"coordinates":[5.84385,62.34338],"type":"Point"}
+}

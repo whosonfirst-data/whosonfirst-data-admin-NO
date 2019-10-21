@@ -1,0 +1,76 @@
+{
+  "id": 1495148761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.22928,60.44008,5.22928,60.44008",
+    "geom:latitude":60.44008,
+    "geom:longitude":5.22928,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1247.0",
+    "gn:asciiname":"Sorerdal",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3241419,
+    "gn:latitude":60.44008,
+    "gn:longitude":5.22928,
+    "gn:modification_date":"2013-07-13",
+    "gn:name":"S\u00f8rerdal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.20928,60.42008,5.24928,60.46008",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687099,
+        102191581,
+        1159296789,
+        85633341,
+        101803909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3241419
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b5499dff6af59a1bda375bd21b20674e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296789,
+            "locality_id":101803909,
+            "neighbourhood_id":1495148761,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1495148761,
+    "wof:lastmodified":1571393678,
+    "wof:name":"Sorerdal",
+    "wof:parent_id":101803909,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326851741
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.22928,
+    60.44008,
+    5.22928,
+    60.44008
+],
+  "geometry": {"coordinates":[5.22928,60.44008],"type":"Point"}
+}

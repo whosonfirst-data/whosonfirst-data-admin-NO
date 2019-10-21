@@ -30,6 +30,8 @@
     "no-geonorge:lokalid":"172758",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":62.46843,
+    "reversegeo:longitude":6.353734,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":1159297219,
-    "wof:lastmodified":1566662924,
+    "wof:lastmodified":1571389786,
     "wof:name":"Alesund",
     "wof:parent_id":85687123,
     "wof:placetype":"localadmin",

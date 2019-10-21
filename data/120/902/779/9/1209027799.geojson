@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sylta"
@@ -51,7 +51,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297557,
+        85633341,
+        85687099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,14 +64,17 @@
     "wof:geomhash":"3e63d60b1d853b4491a148e700de726d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209027799
+            "localadmin_id":1159297557,
+            "locality_id":1209027799,
+            "region_id":85687099
         }
     ],
     "wof:id":1209027799,
-    "wof:lastmodified":1566662062,
+    "wof:lastmodified":1571383543,
     "wof:name":"Sylta",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297557,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

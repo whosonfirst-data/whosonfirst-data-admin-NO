@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-10-14",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +29,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Ulsteinvik weather"
@@ -63,14 +64,16 @@
         }
     ],
     "wof:id":1343347085,
-    "wof:lastmodified":1566661597,
+    "wof:lastmodified":1571356979,
     "wof:name":"Ulsteinvik weather pws station",
     "wof:parent_id":1159297271,
     "wof:placetype":"locality",
     "wof:population":5000,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-no",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1495148947
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

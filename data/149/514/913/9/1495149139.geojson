@@ -1,0 +1,79 @@
+{
+  "id": 1495149139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.3561,59.24431,10.3561,59.24431",
+    "geom:latitude":59.24431,
+    "geom:longitude":10.3561,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"710",
+    "gn:asciiname":"Robergasen",
+    "gn:country_code":"NO",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9403976,
+    "gn:latitude":59.24431,
+    "gn:longitude":10.3561,
+    "gn:modification_date":"2017-09-20",
+    "gn:name":"Roberg\u00e5sen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"10.3361,59.22431,10.3761,59.26431",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Roberg\u00e5sen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687073,
+        102191581,
+        1159297321,
+        85633341,
+        101815521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9403976
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"553586e07203c266e4756932a7f297d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297321,
+            "locality_id":101815521,
+            "neighbourhood_id":1495149139,
+            "region_id":85687073
+        }
+    ],
+    "wof:id":1495149139,
+    "wof:lastmodified":1571393498,
+    "wof:name":"Robergasen",
+    "wof:parent_id":101815521,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293162639
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3561,
+    59.24431,
+    10.3561,
+    59.24431
+],
+  "geometry": {"coordinates":[10.3561,59.24431],"type":"Point"}
+}

@@ -124,6 +124,8 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        102191581,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -133,14 +135,14 @@
     "wof:geomhash":"9dff93b1ea668b7ed250dcb304583ff8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297265,
             "region_id":85687135
         }
     ],
     "wof:id":1159297265,
-    "wof:lastmodified":1566662922,
+    "wof:lastmodified":1571679196,
     "wof:name":"Beiarn",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

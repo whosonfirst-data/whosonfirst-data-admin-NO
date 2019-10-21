@@ -1,0 +1,81 @@
+{
+  "id": 1495147763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.777,59.843,10.777,59.843",
+    "geom:latitude":59.843,
+    "geom:longitude":10.777,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"301.0",
+    "gn:asciiname":"Fiskevollen",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3259335,
+    "gn:latitude":59.843,
+    "gn:longitude":10.777,
+    "gn:modification_date":"2015-05-31",
+    "gn:name":"Fiskevollen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"10.757,59.823,10.797,59.863",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Fiskevoll",
+        "Fiskevollen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687089,
+        102191581,
+        1159297167,
+        85633341,
+        1495123997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3259335
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"05b464535d76e7c5145c029c73ef7cbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297167,
+            "locality_id":1495123997,
+            "neighbourhood_id":1495147763,
+            "region_id":85687089
+        }
+    ],
+    "wof:id":1495147763,
+    "wof:lastmodified":1571393969,
+    "wof:name":"Fiskevollen",
+    "wof:parent_id":1495123997,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293370249
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.777,
+    59.843,
+    10.777,
+    59.843
+],
+  "geometry": {"coordinates":[10.777,59.843],"type":"Point"}
+}

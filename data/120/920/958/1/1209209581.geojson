@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kvarv i Salten",
@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159296959,
+        85633341,
+        85687135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,17 @@
     "wof:geomhash":"83e4a05cbaab234b1809b7f41d4f564d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209209581
+            "localadmin_id":1159296959,
+            "locality_id":1209209581,
+            "region_id":85687135
         }
     ],
     "wof:id":1209209581,
-    "wof:lastmodified":1566662070,
+    "wof:lastmodified":1571679236,
     "wof:name":"Kvarv",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296959,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

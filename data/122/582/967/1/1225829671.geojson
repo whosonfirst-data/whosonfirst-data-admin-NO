@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Breidvik",
@@ -38,7 +38,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297631,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -49,15 +51,15 @@
     "wof:geomhash":"a95cf2656470d6e46a9fb510d823cfe9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297631,
             "locality_id":1225829671,
             "region_id":85687135
         }
     ],
     "wof:id":1225829671,
-    "wof:lastmodified":1566663301,
+    "wof:lastmodified":1571679225,
     "wof:name":"Breidvika",
     "wof:parent_id":1159297631,
     "wof:placetype":"locality",

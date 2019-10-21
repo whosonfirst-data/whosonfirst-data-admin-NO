@@ -97,7 +97,9 @@
     "src:population":"geonames",
     "wd:wordcount":181,
     "wof:belongsto":[
+        102191581,
         1159297571,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -113,8 +115,8 @@
     "wof:geomhash":"270395128aec52bfabe5ee1459a3e3fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297571,
             "locality_id":101814585,
             "region_id":85687135
@@ -124,7 +126,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1566662419,
+    "wof:lastmodified":1571679206,
     "wof:name":"Trofors",
     "wof:parent_id":1159297571,
     "wof:placetype":"locality",

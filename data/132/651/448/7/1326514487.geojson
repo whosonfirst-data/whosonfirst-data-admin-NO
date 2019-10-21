@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:jav_x_preferred":[
         "Gr\u00f8nning"
@@ -38,7 +38,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296743,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -50,15 +52,15 @@
     "wof:geomhash":"768380ae522905aefe2f53679cd63e65",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296743,
             "locality_id":1326514487,
             "region_id":85687135
         }
     ],
     "wof:id":1326514487,
-    "wof:lastmodified":1566661378,
+    "wof:lastmodified":1571679268,
     "wof:name":"Gronning",
     "wof:parent_id":1159296743,
     "wof:placetype":"locality",

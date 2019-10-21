@@ -78,7 +78,9 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159296695,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -93,15 +95,15 @@
     "wof:geomhash":"ae30e3aeac1cfde8edeaef43a92504b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296695,
             "locality_id":1125890689,
             "region_id":85687135
         }
     ],
     "wof:id":1125890689,
-    "wof:lastmodified":1566662573,
+    "wof:lastmodified":1571679344,
     "wof:name":"Bjerka",
     "wof:parent_id":1159296695,
     "wof:placetype":"locality",

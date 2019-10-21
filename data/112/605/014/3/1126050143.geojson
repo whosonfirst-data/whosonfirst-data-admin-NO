@@ -70,7 +70,9 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159296909,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -85,15 +87,15 @@
     "wof:geomhash":"a29ab414db15e68e630791b994d36255",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296909,
             "locality_id":1126050143,
             "region_id":85687135
         }
     ],
     "wof:id":1126050143,
-    "wof:lastmodified":1566662525,
+    "wof:lastmodified":1571679235,
     "wof:name":"Holm",
     "wof:parent_id":1159296909,
     "wof:placetype":"locality",

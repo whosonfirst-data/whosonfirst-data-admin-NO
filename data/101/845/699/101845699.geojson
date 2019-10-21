@@ -101,7 +101,9 @@
     "src:population":"geonames",
     "wd:wordcount":559,
     "wof:belongsto":[
+        102191581,
         1159296833,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -117,8 +119,8 @@
     "wof:geomhash":"6cc81a467df4f5276f568c90f3b4ca5d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296833,
             "locality_id":101845699,
             "region_id":85687135
@@ -128,7 +130,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1566662357,
+    "wof:lastmodified":1571679367,
     "wof:name":"Sulitjelma",
     "wof:parent_id":1159296833,
     "wof:placetype":"locality",

@@ -17,7 +17,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
@@ -56,8 +56,10 @@
     "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159297145,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,15 +71,15 @@
     "wof:geomhash":"5296a4079c2fe23bc4ba80f367156ce2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297145,
             "locality_id":1125829243,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1125829243,
-    "wof:lastmodified":1566662665,
+    "wof:lastmodified":1571392941,
     "wof:name":"Bosberg",
     "wof:parent_id":1159297145,
     "wof:placetype":"locality",

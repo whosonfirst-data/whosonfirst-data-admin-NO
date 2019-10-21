@@ -82,7 +82,9 @@
     "src:population":"geonames",
     "wd:wordcount":403,
     "wof:belongsto":[
+        102191581,
         1159297039,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -98,8 +100,8 @@
     "wof:geomhash":"dc3ce436bb1f83bf656ee4c1f974a5a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297039,
             "locality_id":101814613,
             "region_id":85687135
@@ -109,7 +111,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1566662415,
+    "wof:lastmodified":1571679336,
     "wof:name":"Gravdal",
     "wof:parent_id":1159297039,
     "wof:placetype":"locality",

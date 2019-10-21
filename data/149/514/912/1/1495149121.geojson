@@ -1,0 +1,75 @@
+{
+  "id": 1495149121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.29532,60.4238,5.29532,60.4238",
+    "geom:latitude":60.4238,
+    "geom:longitude":5.29532,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1201.0",
+    "gn:asciiname":"Biskopshavn",
+    "gn:country_code":"NO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3241121,
+    "gn:latitude":60.4238,
+    "gn:longitude":5.29532,
+    "gn:modification_date":"2013-07-13",
+    "gn:name":"Biskopshavn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.27532,60.4038,5.31532,60.4438",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687099,
+        102191581,
+        1159297617,
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3241121
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"09289aff6ec971cb95413eb2f0f2c248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":-1,
+            "neighbourhood_id":1495149121,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1495149121,
+    "wof:lastmodified":1571393431,
+    "wof:name":"Biskopshavn",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226333917
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.29532,
+    60.4238,
+    5.29532,
+    60.4238
+],
+  "geometry": {"coordinates":[5.29532,60.4238],"type":"Point"}
+}

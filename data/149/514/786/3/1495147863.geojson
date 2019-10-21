@@ -1,0 +1,76 @@
+{
+  "id": 1495147863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.19694,62.90194,8.19694,62.90194",
+    "geom:latitude":62.90194,
+    "geom:longitude":8.19694,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1560.0",
+    "gn:asciiname":"Rimstad",
+    "gn:country_code":"NO",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3141868,
+    "gn:latitude":62.90194,
+    "gn:longitude":8.19694,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Rimstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"8.17694,62.88194,8.21694,62.92194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687123,
+        102191581,
+        1159297327,
+        85633341,
+        101804087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3141868
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"8e1e7bd7914beeb37409cd66bd3e178c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297327,
+            "locality_id":101804087,
+            "neighbourhood_id":1495147863,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1495147863,
+    "wof:lastmodified":1571393872,
+    "wof:name":"Rimstad",
+    "wof:parent_id":101804087,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293086523
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.19694,
+    62.90194,
+    8.19694,
+    62.90194
+],
+  "geometry": {"coordinates":[8.19694,62.90194],"type":"Point"}
+}

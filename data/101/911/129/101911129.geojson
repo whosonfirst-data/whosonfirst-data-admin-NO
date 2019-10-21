@@ -51,8 +51,10 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297253,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,18 +70,18 @@
     "wof:geomhash":"ac0bc7e12f43f9d1d20ab0151701ff12",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297253,
             "locality_id":101911129,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":101911129,
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566662423,
+    "wof:lastmodified":1571393036,
     "wof:name":"Borsora",
     "wof:parent_id":1159297253,
     "wof:placetype":"locality",

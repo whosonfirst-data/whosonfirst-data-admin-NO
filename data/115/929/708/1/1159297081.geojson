@@ -30,10 +30,14 @@
     "no-geonorge:lokalid":"172971",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":66.90833,
+    "reversegeo:longitude":13.759638,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        102191581,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,14 +47,14 @@
     "wof:geomhash":"549d1c326cfd29dfbce7fee29a2af461",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297081,
             "region_id":85687135
         }
     ],
     "wof:id":1159297081,
-    "wof:lastmodified":1566662741,
+    "wof:lastmodified":1571679195,
     "wof:name":"Vaeroy",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

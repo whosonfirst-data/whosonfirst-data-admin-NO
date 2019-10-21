@@ -1,0 +1,76 @@
+{
+  "id": 1495147359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.00842,59.76188,10.00842,59.76188",
+    "geom:latitude":59.76188,
+    "geom:longitude":10.00842,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"625.0",
+    "gn:asciiname":"Rundtom",
+    "gn:country_code":"NO",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8739693,
+    "gn:latitude":59.76188,
+    "gn:longitude":10.00842,
+    "gn:modification_date":"2017-09-23",
+    "gn:name":"Rundtom",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"9.98842,59.74188,10.02842,59.78188",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687105,
+        102191581,
+        1159297615,
+        85633341,
+        1495124033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8739693
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"a327b9edb836b1f0f43b384fa217e3a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297615,
+            "locality_id":1495124033,
+            "neighbourhood_id":1495147359,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1495147359,
+    "wof:lastmodified":1571393998,
+    "wof:name":"Rundtom",
+    "wof:parent_id":1495124033,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310311149
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.00842,
+    59.76188000000001,
+    10.00842,
+    59.76188000000001
+],
+  "geometry": {"coordinates":[10.00842,59.76188000000001],"type":"Point"}
+}

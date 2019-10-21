@@ -1,0 +1,79 @@
+{
+  "id": 1495148771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.29994,62.46999,6.29994,62.46999",
+    "geom:latitude":62.46999,
+    "geom:longitude":6.29994,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"1504",
+    "gn:asciiname":"Lerstad",
+    "gn:country_code":"NO",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404257,
+    "gn:latitude":62.46999,
+    "gn:longitude":6.29994,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Lerstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"6.27994,62.44999,6.31994,62.48999",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Lerstad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687123,
+        102191581,
+        1159297219,
+        85633341,
+        101804109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404257
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2bed37ae9a66cc4e10f951bf66279603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297219,
+            "locality_id":101804109,
+            "neighbourhood_id":1495148771,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1495148771,
+    "wof:lastmodified":1571393645,
+    "wof:name":"Lerstad",
+    "wof:parent_id":101804109,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226439631
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.29994,
+    62.46999,
+    6.29994,
+    62.46999
+],
+  "geometry": {"coordinates":[6.29994,62.46999],"type":"Point"}
+}

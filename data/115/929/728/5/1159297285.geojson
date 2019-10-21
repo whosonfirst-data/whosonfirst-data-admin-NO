@@ -52,6 +52,9 @@
     "name:eus_x_preferred":[
         "Nesseby"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0633\u06cc\u0628\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Uuniemi"
     ],
@@ -129,6 +132,8 @@
     "no-geonorge:lokalid":"172922",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":70.181149,
+    "reversegeo:longitude":28.799207,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -151,7 +156,7 @@
         }
     ],
     "wof:id":1159297285,
-    "wof:lastmodified":1566662932,
+    "wof:lastmodified":1571389820,
     "wof:name":"Nesseby",
     "wof:parent_id":85687145,
     "wof:placetype":"localadmin",

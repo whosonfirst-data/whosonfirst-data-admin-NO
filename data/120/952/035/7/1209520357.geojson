@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Brennelv"
@@ -47,7 +47,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297563,
+        85633341,
+        85687145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +60,17 @@
     "wof:geomhash":"13e0c54da52b6f882b87c9b1f93f325d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209520357
+            "localadmin_id":1159297563,
+            "locality_id":1209520357,
+            "region_id":85687145
         }
     ],
     "wof:id":1209520357,
-    "wof:lastmodified":1566662004,
+    "wof:lastmodified":1571383000,
     "wof:name":"Brennelv",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297563,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

@@ -1,0 +1,76 @@
+{
+  "id": 1495147607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.95316,58.2594,7.95316,58.2594",
+    "geom:latitude":58.2594,
+    "geom:longitude":7.95316,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1014.0",
+    "gn:asciiname":"Askedalen",
+    "gn:country_code":"NO",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3162661,
+    "gn:latitude":58.2594,
+    "gn:longitude":7.95316,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Askedalen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"7.93316,58.2394,7.97316,58.2794",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687063,
+        102191581,
+        1159296843,
+        85633341,
+        1495123953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3162661
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"696b6575514d9027c2f38716305e64b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296843,
+            "locality_id":1495123953,
+            "neighbourhood_id":1495147607,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":1495147607,
+    "wof:lastmodified":1571393986,
+    "wof:name":"Askedalen",
+    "wof:parent_id":1495123953,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343536481
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.95316,
+    58.2594,
+    7.95316,
+    58.2594
+],
+  "geometry": {"coordinates":[7.95316,58.2594],"type":"Point"}
+}

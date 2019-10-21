@@ -70,7 +70,9 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159296963,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -85,15 +87,15 @@
     "wof:geomhash":"c45cf5a18211a12dbdcce8eabc288e7f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296963,
             "locality_id":1125922675,
             "region_id":85687135
         }
     ],
     "wof:id":1125922675,
-    "wof:lastmodified":1566662500,
+    "wof:lastmodified":1571679224,
     "wof:name":"S\u00f8rfjorden",
     "wof:parent_id":1159296963,
     "wof:placetype":"locality",

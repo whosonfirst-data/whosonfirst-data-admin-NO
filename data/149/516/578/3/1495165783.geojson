@@ -1,0 +1,61 @@
+{
+  "id": 1495165783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000111,
+    "geom:area_square_m":675664.271068,
+    "geom:bbox":"5.26315463816,60.4786473618,5.2831634729,60.4880679134",
+    "geom:latitude":60.483839,
+    "geom:longitude":5.273708,
+    "iso:country":"NO",
+    "lbl:latitude":60.483979,
+    "lbl:longitude":5.273717,
+    "mps:latitude":60.483979,
+    "mps:longitude":5.273717,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Toppe"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297617,
+        85633341,
+        85687099
+    ],
+    "wof:breaches":[],
+    "wof:country":"NO",
+    "wof:geomhash":"4a2464aef9cdbc6edb708b4e04fad870",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":1495165783,
+            "region_id":85687099
+        }
+    ],
+    "wof:id":1495165783,
+    "wof:lastmodified":1571392893,
+    "wof:name":"Toppe",
+    "wof:parent_id":1159297617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101751923
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.26315463815973,
+    60.47864736180729,
+    5.28316347290075,
+    60.48806791336074
+],
+  "geometry": {"coordinates":[[[5.26485917182512,60.48674318693621],[5.26613949488336,60.48709358451633],[5.26605710743864,60.48714821700674],[5.27185459866193,60.48806791336074],[5.27471740320925,60.4875678937289],[5.27852724888163,60.4876942196299],[5.2786429370363,60.4868821089522],[5.279107,60.486801],[5.28086778624072,60.4832617642422],[5.28097633592375,60.4832653599689],[5.28102057068611,60.482954662699],[5.28316347290075,60.47864736180729],[5.27197207770427,60.48050547658761],[5.26315463815973,60.484573900214],[5.26485917182512,60.48674318693621]]],"type":"Polygon"}
+}

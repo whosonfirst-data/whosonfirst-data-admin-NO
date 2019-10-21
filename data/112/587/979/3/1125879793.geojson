@@ -19,7 +19,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:und_x_variant":[
@@ -52,8 +52,10 @@
     "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159296767,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,15 +68,15 @@
     "wof:geomhash":"f100cba94c382f7a0cf5695d99ae56ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296767,
             "locality_id":1125879793,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1125879793,
-    "wof:lastmodified":1566662586,
+    "wof:lastmodified":1571392993,
     "wof:name":"Kvernviken",
     "wof:parent_id":1159296767,
     "wof:placetype":"locality",

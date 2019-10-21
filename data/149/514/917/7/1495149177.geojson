@@ -1,0 +1,79 @@
+{
+  "id": 1495149177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.07475,59.02848,10.07475,59.02848",
+    "geom:latitude":59.02848,
+    "geom:longitude":10.07475,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"712",
+    "gn:asciiname":"Rekkevik",
+    "gn:country_code":"NO",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404385,
+    "gn:latitude":59.02848,
+    "gn:longitude":10.07475,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Rekkevik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"10.05475,59.00848,10.09475,59.04848",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Rekkevik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687073,
+        102191581,
+        1159296779,
+        85633341,
+        101803799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404385
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"4f2eb43e4633ee2cee68f188a3631a5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296779,
+            "locality_id":101803799,
+            "neighbourhood_id":1495149177,
+            "region_id":85687073
+        }
+    ],
+    "wof:id":1495149177,
+    "wof:lastmodified":1571393917,
+    "wof:name":"Rekkevik",
+    "wof:parent_id":101803799,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1344032267
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.07475,
+    59.02848,
+    10.07475,
+    59.02848
+],
+  "geometry": {"coordinates":[10.07475,59.02848],"type":"Point"}
+}

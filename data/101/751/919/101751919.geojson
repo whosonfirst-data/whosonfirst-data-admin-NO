@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-10-11",
     "edtf:inception":"uuuu",
     "geom:area":0.011407,
     "geom:area_square_m":72347236.918763,
@@ -17,7 +18,7 @@
     "mps:latitude":59.149426,
     "mps:longitude":9.648761,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0428\u044b\u0435\u043d"
@@ -263,12 +264,17 @@
         }
     ],
     "wof:id":101751919,
-    "wof:lastmodified":1566662396,
+    "wof:lastmodified":1571386109,
     "wof:name":"Porsgrunn/Skien",
     "wof:parent_id":1159296755,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1495124047,
+        1125829217,
+        1126031233,
+        1125946349
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

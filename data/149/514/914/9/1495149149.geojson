@@ -1,0 +1,79 @@
+{
+  "id": 1495149149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.15512,66.33952,14.15512,66.33952",
+    "geom:latitude":66.33952,
+    "geom:longitude":14.15512,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1833",
+    "gn:asciiname":"Granneset",
+    "gn:country_code":"NO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404276,
+    "gn:latitude":66.33952,
+    "gn:longitude":14.15512,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Granneset",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"14.13512,66.31952,14.17512,66.35952",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Granneset"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687135,
+        102191581,
+        1159296963,
+        85633341,
+        101814635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404276
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"c6b949791b70137c610b9f597fb5c13e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296963,
+            "locality_id":101814635,
+            "neighbourhood_id":1495149149,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1495149149,
+    "wof:lastmodified":1571679373,
+    "wof:name":"Granneset",
+    "wof:parent_id":101814635,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276645879
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.15512,
+    66.33952,
+    14.15512,
+    66.33952
+],
+  "geometry": {"coordinates":[14.15512,66.33951999999999],"type":"Point"}
+}

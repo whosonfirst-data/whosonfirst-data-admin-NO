@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-10-11",
     "edtf:inception":"uuuu",
     "geom:area":0.000399,
     "geom:area_square_m":2556496.840486,
@@ -17,7 +18,7 @@
     "mps:latitude":58.785375,
     "mps:longitude":5.714258,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kvernaland"
@@ -74,7 +75,6 @@
     "wof:belongsto":[
         102191581,
         1159297381,
-        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -89,19 +89,21 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159297381,
             "locality_id":101803829,
             "region_id":85687085
         }
     ],
     "wof:id":101803829,
-    "wof:lastmodified":1566662374,
+    "wof:lastmodified":1571385970,
     "wof:name":"Kvernaland",
     "wof:parent_id":1159297381,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1495123891
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

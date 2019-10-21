@@ -82,7 +82,9 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297081,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -101,15 +103,15 @@
     "wof:geomhash":"a00706b849872de7cb65ef9a70716aa1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297081,
             "locality_id":1125847711,
             "region_id":85687135
         }
     ],
     "wof:id":1125847711,
-    "wof:lastmodified":1566662709,
+    "wof:lastmodified":1571679213,
     "wof:name":"S\u00f8rland",
     "wof:parent_id":1159297081,
     "wof:placetype":"locality",

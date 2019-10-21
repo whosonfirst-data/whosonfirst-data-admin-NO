@@ -149,8 +149,10 @@
     "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159297247,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -163,15 +165,15 @@
     "wof:geomhash":"cee3635da5dea8da32730b2e2fed90dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297247,
             "locality_id":1125766789,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1125766789,
-    "wof:lastmodified":1566662681,
+    "wof:lastmodified":1571392933,
     "wof:name":"Tydal",
     "wof:parent_id":1159297247,
     "wof:placetype":"locality",

@@ -1,0 +1,79 @@
+{
+  "id": 1495148041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.67054,59.65189,9.67054,59.65189",
+    "geom:latitude":59.65189,
+    "geom:longitude":9.67054,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"604",
+    "gn:asciiname":"Gamlegrendasen",
+    "gn:country_code":"NO",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404452,
+    "gn:latitude":59.65189,
+    "gn:longitude":9.67054,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Gamlegrend\u00e5sen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"9.65054,59.63189,9.69054,59.67189",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Gamlegrend\u00e5sen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687105,
+        102191581,
+        1159297255,
+        85633341,
+        101803981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404452
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"86d4d56037582274902afda00ef4cb17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297255,
+            "locality_id":101803981,
+            "neighbourhood_id":1495148041,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1495148041,
+    "wof:lastmodified":1571393353,
+    "wof:name":"Gamlegrendasen",
+    "wof:parent_id":101803981,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310501983
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.67054,
+    59.65189,
+    9.67054,
+    59.65189
+],
+  "geometry": {"coordinates":[9.67054,59.65189],"type":"Point"}
+}

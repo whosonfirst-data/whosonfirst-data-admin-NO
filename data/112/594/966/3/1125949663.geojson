@@ -76,7 +76,9 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159297039,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -91,15 +93,15 @@
     "wof:geomhash":"49d2c82251c10731d7a5b522fc211b94",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297039,
             "locality_id":1125949663,
             "region_id":85687135
         }
     ],
     "wof:id":1125949663,
-    "wof:lastmodified":1566662480,
+    "wof:lastmodified":1571679226,
     "wof:name":"Valberg",
     "wof:parent_id":1159297039,
     "wof:placetype":"locality",

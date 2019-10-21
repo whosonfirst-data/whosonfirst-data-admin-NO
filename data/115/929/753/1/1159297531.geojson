@@ -126,6 +126,8 @@
     "no-geonorge:lokalid":"173035",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":58.655009,
+    "reversegeo:longitude":9.016081,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":1159297531,
-    "wof:lastmodified":1566662749,
+    "wof:lastmodified":1571388754,
     "wof:name":"Tvedestrand",
     "wof:parent_id":85687071,
     "wof:placetype":"localadmin",

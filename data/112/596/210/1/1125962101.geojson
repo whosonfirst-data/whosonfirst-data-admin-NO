@@ -76,8 +76,10 @@
     "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159297117,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,15 +93,15 @@
     "wof:geomhash":"90b0101f9008cf2f43e619eea6a9d816",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297117,
             "locality_id":1125962101,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1125962101,
-    "wof:lastmodified":1566662618,
+    "wof:lastmodified":1571392948,
     "wof:name":"Selbekken",
     "wof:parent_id":1159297117,
     "wof:placetype":"locality",

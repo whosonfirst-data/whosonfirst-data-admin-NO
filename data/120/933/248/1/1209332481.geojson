@@ -28,14 +28,17 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "\u00d8stskogen"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297355,
+        85633341,
+        85687095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"0cf47cf33d64a26a44dfc5943d58cd77",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209332481
+            "localadmin_id":1159297355,
+            "locality_id":1209332481,
+            "region_id":85687095
         }
     ],
     "wof:id":1209332481,
-    "wof:lastmodified":1566662064,
+    "wof:lastmodified":1571383566,
     "wof:name":"Ostskogen",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297355,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

@@ -70,8 +70,10 @@
     "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159297275,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,15 +87,15 @@
     "wof:geomhash":"c02f1aa2d58afc6394cafd88279bfb83",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297275,
             "locality_id":1126019401,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1126019401,
-    "wof:lastmodified":1566662646,
+    "wof:lastmodified":1571393067,
     "wof:name":"S\u00e6tervik",
     "wof:parent_id":1159297275,
     "wof:placetype":"locality",

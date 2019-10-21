@@ -1,0 +1,135 @@
+{
+  "id": 1495147499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.16667,59.26667,11.16667,59.26667",
+    "geom:latitude":59.26667,
+    "geom:longitude":11.16667,
+    "gn:country":"NO",
+    "gn:fcode":"PPL",
+    "gn:population":0,
+    "iso:country":"NO",
+    "lbl:bbox":"11.14667,59.24667,11.18667,59.28667",
+    "lbl:latitude":59.26667,
+    "lbl:longitude":11.16667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Borgen"
+    ],
+    "name:ces_x_preferred":[
+        "Borgen"
+    ],
+    "name:dan_x_preferred":[
+        "Borgen"
+    ],
+    "name:deu_x_preferred":[
+        "Borgen"
+    ],
+    "name:fra_x_preferred":[
+        "Borgen"
+    ],
+    "name:ita_x_preferred":[
+        "Borgen"
+    ],
+    "name:nld_x_preferred":[
+        "Borgen"
+    ],
+    "name:nno_x_preferred":[
+        "Borgen"
+    ],
+    "name:nor_x_preferred":[
+        "Borgen"
+    ],
+    "name:por_x_preferred":[
+        "Borgen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u0433\u0435\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Borgen"
+    ],
+    "name:swe_x_preferred":[
+        "Borgen"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":"NO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3160664,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Borgen",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"\u00d8stfold Fylke",
+    "qs_pg:photos":70,
+    "qs_pg:photos_1k":14,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":70,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1274413,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":857396,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"\u00d8stfold Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85687079,
+        102191581,
+        1159297543,
+        85633341,
+        1125837795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3160664,
+        "gp:id":857396,
+        "qs_pg:id":1274413
+    },
+    "wof:country":"NO",
+    "wof:created":1497298237,
+    "wof:geomhash":"76f797e9001f7ee575549a51d1887a80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297543,
+            "locality_id":1125837795,
+            "neighbourhood_id":1495147499,
+            "region_id":85687079
+        }
+    ],
+    "wof:id":1495147499,
+    "wof:lastmodified":1571393452,
+    "wof:name":"Borgen",
+    "wof:parent_id":1125837795,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125972825
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.16667,
+    59.26667,
+    11.16667,
+    59.26667
+],
+  "geometry": {"coordinates":[11.16667,59.26667],"type":"Point"}
+}

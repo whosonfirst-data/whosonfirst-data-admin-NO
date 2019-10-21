@@ -1,0 +1,79 @@
+{
+  "id": 1495148075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.40728,67.28652,14.40728,67.28652",
+    "geom:latitude":67.28652,
+    "geom:longitude":14.40728,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1804",
+    "gn:asciiname":"Reinsletta",
+    "gn:country_code":"NO",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404223,
+    "gn:latitude":67.28652,
+    "gn:longitude":14.40728,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Reinsletta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"14.38728,67.26652,14.42728,67.30652",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Reinsletta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687135,
+        102191581,
+        1159297465,
+        85633341,
+        101814623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404223
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"02f0aeecbeb8703e9272c9ffd570a905",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297465,
+            "locality_id":101814623,
+            "neighbourhood_id":1495148075,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1495148075,
+    "wof:lastmodified":1571679375,
+    "wof:name":"Reinsletta",
+    "wof:parent_id":101814623,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259673387
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.40728,
+    67.28652,
+    14.40728,
+    67.28652
+],
+  "geometry": {"coordinates":[14.40728,67.28652],"type":"Point"}
+}

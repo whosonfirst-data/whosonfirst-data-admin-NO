@@ -1,0 +1,80 @@
+{
+  "id": 1495149123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.68832,60.05089,10.68832,60.05089",
+    "geom:latitude":60.05089,
+    "geom:longitude":10.68832,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"301.0",
+    "gn:asciiname":"Bjornholt",
+    "gn:cc2":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3161242,
+    "gn:latitude":60.05089,
+    "gn:longitude":10.68832,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Bj\u00f8rnholt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"10.66832,60.03089,10.70832,60.07089",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Bjornhalt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687089,
+        102191581,
+        1159297167,
+        85633341,
+        1495123997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3161242
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"60a9cda29dc081105045456a1ce5b4c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297167,
+            "locality_id":1495123997,
+            "neighbourhood_id":1495149123,
+            "region_id":85687089
+        }
+    ],
+    "wof:id":1495149123,
+    "wof:lastmodified":1571393969,
+    "wof:name":"Bjornholt",
+    "wof:parent_id":1495123997,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243434567
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.68832,
+    60.05089,
+    10.68832,
+    60.05089
+],
+  "geometry": {"coordinates":[10.68832,60.05089],"type":"Point"}
+}

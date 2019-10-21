@@ -1,0 +1,108 @@
+{
+  "id": 1495147845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.682452,58.952775,5.682452,58.952775",
+    "geom:latitude":58.952775,
+    "geom:longitude":5.682452,
+    "gn:country":null,
+    "iso:country":"NO",
+    "lbl:bbox":"5.662452,58.932775,5.702452,58.972775",
+    "lbl:latitude":58.952775,
+    "lbl:longitude":5.682452,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Rag"
+    ],
+    "name:deu_x_preferred":[
+        "Rag"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30b0"
+    ],
+    "name:nld_x_preferred":[
+        "Rag"
+    ],
+    "name:spa_x_preferred":[
+        "Rag"
+    ],
+    "name:swe_x_preferred":[
+        "Rag"
+    ],
+    "qs_pg:aaroncc":"NO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Rag",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"Rogaland Fylke",
+    "qs_pg:photos":103,
+    "qs_pg:photos_1k":21,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":103,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1187049,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":22659489,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"Rogaland Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85687085,
+        102191581,
+        1159297103,
+        85633341,
+        1495123971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22659489,
+        "qs_pg:id":1187049
+    },
+    "wof:country":"NO",
+    "wof:created":1497299000,
+    "wof:geomhash":"d671433e48d4fbb2b59b8acbc18fe3c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297103,
+            "locality_id":1495123971,
+            "neighbourhood_id":1495147845,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1495147845,
+    "wof:lastmodified":1571679498,
+    "wof:name":"Rag",
+    "wof:parent_id":1495123971,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125989695
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.682452,
+    58.952775,
+    5.682452,
+    58.952775
+],
+  "geometry": {"coordinates":[5.682452,58.952775],"type":"Point"}
+}

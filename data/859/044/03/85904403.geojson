@@ -18,7 +18,7 @@
     "mps:latitude":63.423488,
     "mps:longitude":10.425677,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -57,9 +57,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        1495115971,
+        102191581,
         1159297145,
-        101751927,
-        85687127
+        85633341,
+        1495123981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,21 +72,21 @@
     "wof:geomhash":"cc494ad690e50e556dba0f9b5255a215",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297145,
-            "locality_id":101751927,
+            "locality_id":1495123981,
             "neighbourhood_id":85904403,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":85904403,
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1566661659,
+    "wof:lastmodified":1571393948,
     "wof:name":"Blussuvoll",
-    "wof:parent_id":101751927,
+    "wof:parent_id":1495123981,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

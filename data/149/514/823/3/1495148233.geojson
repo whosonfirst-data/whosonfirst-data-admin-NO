@@ -1,0 +1,88 @@
+{
+  "id": 1495148233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.03333,63.23333,11.03333,63.23333",
+    "geom:latitude":63.23333,
+    "geom:longitude":11.03333,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5032.0",
+    "gn:asciiname":"Nesta",
+    "gn:country_code":"NO",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3144636,
+    "gn:latitude":63.23333,
+    "gn:longitude":11.03333,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Nesta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"11.01333,63.21333,11.05333,63.25333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:deu_x_preferred":[
+        "Nesta"
+    ],
+    "name:ita_x_preferred":[
+        "Nesta"
+    ],
+    "name:nor_x_preferred":[
+        "Nesta"
+    ],
+    "name:vie_x_preferred":[
+        "Nesta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1495115971,
+        102191581,
+        1159296977,
+        85633341,
+        101911317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3144636
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"eb748e7016863ed9389f10c12f8f9f28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296977,
+            "locality_id":101911317,
+            "neighbourhood_id":1495148233,
+            "region_id":1495115971
+        }
+    ],
+    "wof:id":1495148233,
+    "wof:lastmodified":1571393659,
+    "wof:name":"Nesta",
+    "wof:parent_id":101911317,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226014409
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.03333,
+    63.23333,
+    11.03333,
+    63.23333
+],
+  "geometry": {"coordinates":[11.03333,63.23333],"type":"Point"}
+}

@@ -130,6 +130,8 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        102191581,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -139,14 +141,14 @@
     "wof:geomhash":"90d4c3ccbf293c94ef8095c99a9b7fad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296833,
             "region_id":85687135
         }
     ],
     "wof:id":1159296833,
-    "wof:lastmodified":1566662901,
+    "wof:lastmodified":1571679193,
     "wof:name":"Fauske",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

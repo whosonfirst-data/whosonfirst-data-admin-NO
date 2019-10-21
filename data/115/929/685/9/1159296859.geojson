@@ -30,6 +30,8 @@
     "no-geonorge:lokalid":"173098",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":59.779265,
+    "reversegeo:longitude":5.225422,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":1159296859,
-    "wof:lastmodified":1566662889,
+    "wof:lastmodified":1571389545,
     "wof:name":"Bomlo",
     "wof:parent_id":85687099,
     "wof:placetype":"localadmin",

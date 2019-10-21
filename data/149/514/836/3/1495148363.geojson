@@ -1,0 +1,79 @@
+{
+  "id": 1495148363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.76049,58.47519,8.76049,58.47519",
+    "geom:latitude":58.47519,
+    "geom:longitude":8.76049,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"906",
+    "gn:asciiname":"Steinsas",
+    "gn:country_code":"NO",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404210,
+    "gn:latitude":58.47519,
+    "gn:longitude":8.76049,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Steins\u00e5s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"8.74049,58.45519,8.78049,58.49519",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Steins\u00e5s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687071,
+        102191581,
+        1159297607,
+        85633341,
+        101803769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404210
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"81dba3310ff87219d48c89023c8792a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297607,
+            "locality_id":101803769,
+            "neighbourhood_id":1495148363,
+            "region_id":85687071
+        }
+    ],
+    "wof:id":1495148363,
+    "wof:lastmodified":1571393740,
+    "wof:name":"Steinsas",
+    "wof:parent_id":101803769,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310609705
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.76049,
+    58.47519000000001,
+    8.76049,
+    58.47519000000001
+],
+  "geometry": {"coordinates":[8.76049,58.47519000000001],"type":"Point"}
+}

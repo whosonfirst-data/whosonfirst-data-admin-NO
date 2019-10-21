@@ -19,7 +19,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:nor_x_preferred":[
@@ -55,8 +55,10 @@
     "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159296821,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,15 +71,15 @@
     "wof:geomhash":"c40fb41a87a9676546ad58086ff6e293",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296821,
             "locality_id":1125858557,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1125858557,
-    "wof:lastmodified":1566662691,
+    "wof:lastmodified":1571392940,
     "wof:name":"Midtsand",
     "wof:parent_id":1159296821,
     "wof:placetype":"locality",

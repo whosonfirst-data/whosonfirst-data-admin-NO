@@ -11,7 +11,7 @@
     "geom:longitude":14.6692,
     "iso:country":"NO",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Svolvaer / Helle"
@@ -78,8 +78,10 @@
         "state_id":2346392
     },
     "wof:belongsto":[
-        85633341,
-        85687135
+        85687135,
+        102191581,
+        1159296883,
+        85633341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,14 +96,18 @@
     "wof:hierarchy":[
         {
             "campus_id":102556613,
+            "continent_id":102191581,
             "country_id":85633341,
+            "localadmin_id":1159296883,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
             "region_id":85687135
         }
     ],
     "wof:id":102556613,
-    "wof:lastmodified":1566661495,
+    "wof:lastmodified":1571679370,
     "wof:name":"Svolv\u00e6r Lufthavn",
-    "wof:parent_id":85687135,
+    "wof:parent_id":1159296883,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

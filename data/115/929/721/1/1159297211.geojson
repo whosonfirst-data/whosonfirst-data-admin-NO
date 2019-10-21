@@ -120,6 +120,8 @@
     "no-geonorge:lokalid":"173093",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":58.35936,
+    "reversegeo:longitude":6.303959,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":1159297211,
-    "wof:lastmodified":1566662925,
+    "wof:lastmodified":1571679428,
     "wof:name":"Sokndal",
     "wof:parent_id":85687085,
     "wof:placetype":"localadmin",

@@ -77,7 +77,9 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159297115,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -92,15 +94,15 @@
     "wof:geomhash":"e6ed434fd6f2990b22b525728d759d5f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297115,
             "locality_id":1126034807,
             "region_id":85687135
         }
     ],
     "wof:id":1126034807,
-    "wof:lastmodified":1566662541,
+    "wof:lastmodified":1571679269,
     "wof:name":"Rokland",
     "wof:parent_id":1159297115,
     "wof:placetype":"locality",

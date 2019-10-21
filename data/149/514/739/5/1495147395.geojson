@@ -1,0 +1,79 @@
+{
+  "id": 1495147395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.42646,67.26744,15.42646,67.26744",
+    "geom:latitude":67.26744,
+    "geom:longitude":15.42646,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"1841",
+    "gn:asciiname":"Follgota",
+    "gn:country_code":"NO",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404187,
+    "gn:latitude":67.26744,
+    "gn:longitude":15.42646,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Follg\u00f8ta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"15.40646,67.24744,15.44646,67.28744",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Follg\u00f8ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687135,
+        102191581,
+        1159296833,
+        85633341,
+        101814625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404187
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"b93153c1b7a016db49ec207c2457b51a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296833,
+            "locality_id":101814625,
+            "neighbourhood_id":1495147395,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":1495147395,
+    "wof:lastmodified":1571679371,
+    "wof:name":"Follgota",
+    "wof:parent_id":101814625,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343751623
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.42646,
+    67.26744000000001,
+    15.42646,
+    67.26744000000001
+],
+  "geometry": {"coordinates":[15.42646,67.26744000000001],"type":"Point"}
+}

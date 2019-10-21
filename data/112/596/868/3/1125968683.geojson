@@ -164,7 +164,9 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159296781,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -178,15 +180,15 @@
     "wof:geomhash":"79768838c4fdacfe64df663cf78ce0af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296781,
             "locality_id":1125968683,
             "region_id":85687135
         }
     ],
     "wof:id":1125968683,
-    "wof:lastmodified":1566662619,
+    "wof:lastmodified":1571679230,
     "wof:name":"Vega",
     "wof:parent_id":1159296781,
     "wof:placetype":"locality",

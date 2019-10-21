@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-10-14",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "S\u00f8rlia"
@@ -36,9 +37,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159296907,
-        85633341,
-        85687133
+        1159296907
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,19 +48,21 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159296907,
             "locality_id":1193002157,
-            "region_id":85687133
+            "region_id":-1
         }
     ],
     "wof:id":1193002157,
-    "wof:lastmodified":1566662114,
+    "wof:lastmodified":1571383973,
     "wof:name":"Sorlia",
     "wof:parent_id":1159296907,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1495147613
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

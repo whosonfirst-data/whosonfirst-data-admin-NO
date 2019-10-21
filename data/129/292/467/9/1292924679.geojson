@@ -28,10 +28,13 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kvine"
+    ],
+    "name:ces_x_preferred":[
+        "Kvina"
     ],
     "name:chv_x_preferred":[
         "\u041a\u0432\u0438\u043d\u0430"
@@ -62,7 +65,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297347,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -73,15 +78,15 @@
     "wof:geomhash":"5a4c56985f159e2d63ffcc29a521bd03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297347,
             "locality_id":1292924679,
             "region_id":85687135
         }
     ],
     "wof:id":1292924679,
-    "wof:lastmodified":1566661719,
+    "wof:lastmodified":1571679335,
     "wof:name":"Kvina",
     "wof:parent_id":1159297347,
     "wof:placetype":"locality",

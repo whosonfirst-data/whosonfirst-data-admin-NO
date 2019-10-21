@@ -367,6 +367,8 @@
     "qs:level":"adm1",
     "qs:source":"EuroGlobalMap",
     "qs:type":"Fylke",
+    "reversegeo:latitude":66.663236,
+    "reversegeo:longitude":14.630864,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -386,7 +388,10 @@
     "statoids:type":"county",
     "unlc:subdivision":"NO-18",
     "wd:wordcount":4258,
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633341
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "fips:code":"NO09",
@@ -401,8 +406,8 @@
     "wof:geomhash":"74a8c749a5003c565d78af1a5a0f695d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "region_id":85687135
         }
     ],
@@ -416,9 +421,9 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1566661679,
+    "wof:lastmodified":1571679377,
     "wof:name":"Nordland",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633341,
     "wof:placetype":"region",
     "wof:placetype_local":"county",
     "wof:population":237561,

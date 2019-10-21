@@ -71,7 +71,9 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":230,
     "wof:belongsto":[
+        102191581,
         1159296883,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -84,15 +86,15 @@
     "wof:geomhash":"c98c76d97bf776fd5e4645494e9b7edf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296883,
             "locality_id":101911319,
             "region_id":85687135
         }
     ],
     "wof:id":101911319,
-    "wof:lastmodified":1566662425,
+    "wof:lastmodified":1571679334,
     "wof:name":"Skrova",
     "wof:parent_id":1159296883,
     "wof:placetype":"locality",

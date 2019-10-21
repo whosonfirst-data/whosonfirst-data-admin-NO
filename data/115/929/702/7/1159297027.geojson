@@ -120,6 +120,8 @@
     "no-geonorge:lokalid":"173095",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":59.237968,
+    "reversegeo:longitude":5.244655,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":1159297027,
-    "wof:lastmodified":1566662842,
+    "wof:lastmodified":1571679432,
     "wof:name":"Utsira",
     "wof:parent_id":85687085,
     "wof:placetype":"localadmin",

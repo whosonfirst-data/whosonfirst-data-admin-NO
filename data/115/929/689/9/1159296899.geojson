@@ -52,6 +52,9 @@
     "name:eus_x_preferred":[
         "Hasvik"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0633\u0648\u06cc\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Hasvik"
     ],
@@ -135,6 +138,8 @@
     "no-geonorge:lokalid":"173015",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":70.625756,
+    "reversegeo:longitude":22.309429,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -157,7 +162,7 @@
         }
     ],
     "wof:id":1159296899,
-    "wof:lastmodified":1566662783,
+    "wof:lastmodified":1571388943,
     "wof:name":"Hasvik",
     "wof:parent_id":85687145,
     "wof:placetype":"localadmin",

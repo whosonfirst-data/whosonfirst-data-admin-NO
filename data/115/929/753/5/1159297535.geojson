@@ -123,10 +123,14 @@
     "no-geonorge:lokalid":"172889",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":66.078392,
+    "reversegeo:longitude":13.022939,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        102191581,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -136,14 +140,14 @@
     "wof:geomhash":"ba7907a00458e44b5b259f21dfdf21cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297535,
             "region_id":85687135
         }
     ],
     "wof:id":1159297535,
-    "wof:lastmodified":1566662749,
+    "wof:lastmodified":1571679199,
     "wof:name":"Leirfjord",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

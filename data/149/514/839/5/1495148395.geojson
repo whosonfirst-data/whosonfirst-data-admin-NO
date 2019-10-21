@@ -1,0 +1,79 @@
+{
+  "id": 1495148395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.6229,58.7699,5.6229,58.7699",
+    "geom:latitude":58.7699,
+    "geom:longitude":5.6229,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1120",
+    "gn:asciiname":"Haugabakka",
+    "gn:country_code":"NO",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404135,
+    "gn:latitude":58.7699,
+    "gn:longitude":5.6229,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Haugabakka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"5.6029,58.7499,5.6429,58.7899",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Haugabakka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687085,
+        102191581,
+        1159297381,
+        85633341,
+        101803831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404135
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"3b0e7d05a718b68e771b3d669a42dc74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297381,
+            "locality_id":101803831,
+            "neighbourhood_id":1495148395,
+            "region_id":85687085
+        }
+    ],
+    "wof:id":1495148395,
+    "wof:lastmodified":1571679500,
+    "wof:name":"Haugabakka",
+    "wof:parent_id":101803831,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343233153
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.6229,
+    58.7699,
+    5.6229,
+    58.7699
+],
+  "geometry": {"coordinates":[5.6229,58.7699],"type":"Point"}
+}

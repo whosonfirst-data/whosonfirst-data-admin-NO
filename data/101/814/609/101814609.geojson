@@ -107,7 +107,9 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":422,
     "wof:belongsto":[
+        102191581,
         1159297039,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -123,8 +125,8 @@
     "wof:geomhash":"d4586f0831ac5768de5abfa247f63abb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297039,
             "locality_id":101814609,
             "region_id":85687135
@@ -134,7 +136,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1566662418,
+    "wof:lastmodified":1571679369,
     "wof:name":"Leknes",
     "wof:parent_id":1159297039,
     "wof:placetype":"locality",

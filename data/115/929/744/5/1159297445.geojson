@@ -30,10 +30,14 @@
     "no-geonorge:lokalid":"172833",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":65.425562,
+    "reversegeo:longitude":12.51736,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        102191581,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,14 +47,14 @@
     "wof:geomhash":"22c9220997d7e5804848a862b7030a62",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297445,
             "region_id":85687135
         }
     ],
     "wof:id":1159297445,
-    "wof:lastmodified":1566662918,
+    "wof:lastmodified":1571679198,
     "wof:name":"Bronnoy",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

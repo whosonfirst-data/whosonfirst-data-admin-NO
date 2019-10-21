@@ -111,6 +111,8 @@
     "no-geonorge:lokalid":"172769",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":62.143854,
+    "reversegeo:longitude":5.211817,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -133,7 +135,7 @@
         }
     ],
     "wof:id":1159296915,
-    "wof:lastmodified":1566662914,
+    "wof:lastmodified":1571389724,
     "wof:name":"Selje",
     "wof:parent_id":85687113,
     "wof:placetype":"localadmin",

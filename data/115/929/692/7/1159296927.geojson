@@ -144,6 +144,8 @@
     "no-geonorge:lokalid":"172979",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":62.766175,
+    "reversegeo:longitude":6.448082,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -166,7 +168,7 @@
         }
     ],
     "wof:id":1159296927,
-    "wof:lastmodified":1566662804,
+    "wof:lastmodified":1571389063,
     "wof:name":"Sandoy",
     "wof:parent_id":85687123,
     "wof:placetype":"localadmin",

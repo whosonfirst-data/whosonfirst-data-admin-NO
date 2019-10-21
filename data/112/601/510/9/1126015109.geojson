@@ -76,7 +76,9 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297203,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -90,15 +92,15 @@
     "wof:geomhash":"42e7a6ccc91283d34ede3c70943f53eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297203,
             "locality_id":1126015109,
             "region_id":85687135
         }
     ],
     "wof:id":1126015109,
-    "wof:lastmodified":1566662645,
+    "wof:lastmodified":1571679232,
     "wof:name":"Nordre H\u00e5kvika",
     "wof:parent_id":1159297203,
     "wof:placetype":"locality",

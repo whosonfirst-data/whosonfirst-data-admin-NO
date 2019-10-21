@@ -4,22 +4,21 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"11.0,59.23333,11.0,59.23333",
-    "geom:latitude":59.23333,
-    "geom:longitude":11.0,
+    "geom:area":0.000438,
+    "geom:area_square_m":2772172.562797,
+    "geom:bbox":"10.9812712645,59.2187009466,11.0225376491,59.2378810992",
+    "geom:latitude":59.228784,
+    "geom:longitude":11.003857,
     "gn:country":"NO",
     "gn:fcode":"PPL",
     "gn:population":0,
     "iso:country":"NO",
-    "lbl:bbox":"10.98,59.21333,11.02,59.25333",
     "lbl:latitude":59.23333,
     "lbl:longitude":11.0,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:jav_x_preferred":[
@@ -54,7 +53,11 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424910,
     "qs_pg:woe_id":863559,
-    "src:geom":"qs_pg",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424910,
     "woe:name_adm0":"Norge",
@@ -74,7 +77,7 @@
     },
     "wof:country":"NO",
     "wof:created":1497296456,
-    "wof:geomhash":"f9f7402a5d5c1f70157c28283e6f9670",
+    "wof:geomhash":"2b7fd0e8fcfe816343b1469fa6f2c944",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,20 +88,22 @@
         }
     ],
     "wof:id":1125920239,
-    "wof:lastmodified":1566662497,
+    "wof:lastmodified":1571386873,
     "wof:name":"Sellebakk",
     "wof:parent_id":1159297385,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101751913
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    11.0,
-    59.23333,
-    11.0,
-    59.23333
+    10.98127126450488,
+    59.21870094658124,
+    11.0225376490965,
+    59.23788109921703
 ],
-  "geometry": {"coordinates":[11.0,59.23333],"type":"Point"}
+  "geometry": {"coordinates":[[[10.99639439274414,59.23788109921703],[11.02136115633383,59.23286672038676],[11.0216586778093,59.2302046728524],[11.0225376490965,59.2301981745055],[11.0224320975595,59.2266002650348],[11.0206845878072,59.2266131844215],[11.0206582489794,59.2257137075008],[11.0197589119997,59.2257203449237],[11.0188825718748,59.2247614462324],[11.0188582003458,59.2239276508068],[11.0181254974839,59.2239330491053],[11.01334386473878,59.21870094658124],[11.01312973971304,59.21882149015186],[11.01051449174819,59.22186312973091],[11.00457074637353,59.22307970965925],[10.99957800025882,59.2234446751802],[10.9948230039591,59.22222810826351],[10.98127126450488,59.22526944423394],[10.98673951024956,59.22891868959717],[10.99197000617926,59.23402697740232],[10.99624950284901,59.23779688965154],[10.99639439274414,59.23788109921703]]],"type":"Polygon"}
 }

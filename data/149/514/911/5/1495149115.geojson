@@ -1,0 +1,92 @@
+{
+  "id": 1495149115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.46395,59.76035,10.46395,59.76035",
+    "geom:latitude":59.76035,
+    "geom:longitude":10.46395,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"627",
+    "gn:asciiname":"Bodalen",
+    "gn:country_code":"NO",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404117,
+    "gn:latitude":59.76035,
+    "gn:longitude":10.46395,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"B\u00f8dalen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"10.44395,59.74035,10.48395,59.78035",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:jav_x_preferred":[
+        "B\u00f8dalen"
+    ],
+    "name:msa_x_preferred":[
+        "B\u00f8dalen"
+    ],
+    "name:nno_x_preferred":[
+        "B\u00f8dalen"
+    ],
+    "name:nor_x_preferred":[
+        "B\u00f8dalen"
+    ],
+    "name:swe_x_preferred":[
+        "B\u00f8dalen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687105,
+        102191581,
+        1159297215,
+        85633341,
+        1125946481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404117,
+        "wk:page":"B%C3%B8dalen%2C_Buskerud"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"bf8a2ad16a0df69ea0b51449d9cb83bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297215,
+            "locality_id":1125946481,
+            "neighbourhood_id":1495149115,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":1495149115,
+    "wof:lastmodified":1571393834,
+    "wof:name":"Bodalen",
+    "wof:parent_id":1125946481,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243387603
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.46395,
+    59.76035,
+    10.46395,
+    59.76035
+],
+  "geometry": {"coordinates":[10.46395,59.76035],"type":"Point"}
+}

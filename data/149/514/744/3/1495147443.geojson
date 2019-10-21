@@ -1,0 +1,79 @@
+{
+  "id": 1495147443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.63912,59.88089,8.63912,59.88089",
+    "geom:latitude":59.88089,
+    "geom:longitude":8.63912,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"826",
+    "gn:asciiname":"Bjorkhaug",
+    "gn:country_code":"NO",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404463,
+    "gn:latitude":59.88089,
+    "gn:longitude":8.63912,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Bj\u00f8rkhaug",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"8.61912,59.86089,8.65912,59.90089",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:nor_x_preferred":[
+        "Bj\u00f8rkhaug"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687091,
+        102191581,
+        1159297269,
+        85633341,
+        101803861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9404463
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"302fba13fa8df53fb2914e062ccdcedc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297269,
+            "locality_id":101803861,
+            "neighbourhood_id":1495147443,
+            "region_id":85687091
+        }
+    ],
+    "wof:id":1495147443,
+    "wof:lastmodified":1571393837,
+    "wof:name":"Bjorkhaug",
+    "wof:parent_id":101803861,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343725609
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.63912,
+    59.88089,
+    8.63912,
+    59.88089
+],
+  "geometry": {"coordinates":[8.63912,59.88089],"type":"Point"}
+}

@@ -155,8 +155,10 @@
     "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159297367,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -169,15 +171,15 @@
     "wof:geomhash":"c9412fb6fbcc9d23d0b644087da9d309",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297367,
             "locality_id":1125827441,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1125827441,
-    "wof:lastmodified":1566662673,
+    "wof:lastmodified":1571392937,
     "wof:name":"Bjugn",
     "wof:parent_id":1159297367,
     "wof:placetype":"locality",

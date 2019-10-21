@@ -120,13 +120,15 @@
     "no-geonorge:lokalid":"172992",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":64.897483,
+    "reversegeo:longitude":10.868789,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633341,
-        85687133
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordance":{},
@@ -138,13 +140,13 @@
             "continent_id":102191581,
             "country_id":85633341,
             "localadmin_id":1159296895,
-            "region_id":85687133
+            "region_id":1495115971
         }
     ],
     "wof:id":1159296895,
-    "wof:lastmodified":1566662785,
+    "wof:lastmodified":1571392928,
     "wof:name":"Vikna",
-    "wof:parent_id":85687133,
+    "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-no",

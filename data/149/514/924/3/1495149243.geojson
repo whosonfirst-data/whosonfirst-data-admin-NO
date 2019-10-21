@@ -1,0 +1,84 @@
+{
+  "id": 1495149243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.29617,63.87163,11.29617,63.87163",
+    "geom:latitude":63.87163,
+    "geom:longitude":11.29617,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5053.0",
+    "gn:asciiname":"Straumen",
+    "gn:country_code":"NO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3135728,
+    "gn:latitude":63.87163,
+    "gn:longitude":11.29617,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Straumen",
+    "gn:population":1147,
+    "gn:timezone":"Europe/Oslo",
+    "iso:country":"NO",
+    "lbl:bbox":"11.27617,63.85163,11.31617,63.89163",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
+        "Str\u00f6mmen",
+        "Straumen"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        1495115971,
+        102191581,
+        1159296757,
+        85633341,
+        101814557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3135728,
+        "wk:page":"Straumen%2C_Nord-Tr%C3%B8ndelag"
+    },
+    "wof:country":"NO",
+    "wof:geomhash":"2e88b7701c40064323592ae22dfd86f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296757,
+            "locality_id":101814557,
+            "neighbourhood_id":1495149243,
+            "region_id":1495115971
+        }
+    ],
+    "wof:id":1495149243,
+    "wof:lastmodified":1571393442,
+    "wof:name":"Straumen",
+    "wof:parent_id":101814557,
+    "wof:placetype":"neighbourhood",
+    "wof:population":1147,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310389071
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.29617,
+    63.87163,
+    11.29617,
+    63.87163
+],
+  "geometry": {"coordinates":[11.29617,63.87163],"type":"Point"}
+}

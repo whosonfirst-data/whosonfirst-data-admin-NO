@@ -151,6 +151,9 @@
     "name:swe_x_preferred":[
         "Haugesunds kommun"
     ],
+    "name:szl_x_preferred":[
+        "Haugesund"
+    ],
     "name:tha_x_preferred":[
         "\u0e40\u0e2e\u0e32\u0e40\u0e01\u0e2d\u0e0b\u0e38\u0e19\u0e14\u0e4c"
     ],
@@ -177,6 +180,8 @@
     "no-geonorge:lokalid":"173100",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":59.441327,
+    "reversegeo:longitude":5.259839,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -199,7 +204,7 @@
         }
     ],
     "wof:id":1159296709,
-    "wof:lastmodified":1566662897,
+    "wof:lastmodified":1571679431,
     "wof:name":"Haugesund",
     "wof:parent_id":85687085,
     "wof:placetype":"localadmin",

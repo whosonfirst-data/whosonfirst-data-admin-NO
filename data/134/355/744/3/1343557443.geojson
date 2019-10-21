@@ -28,14 +28,16 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "Kontorsletta"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296963,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -46,15 +48,15 @@
     "wof:geomhash":"7ef892eee1db7c04d82d0620d1a8cd47",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296963,
             "locality_id":1343557443,
             "region_id":85687135
         }
     ],
     "wof:id":1343557443,
-    "wof:lastmodified":1566661516,
+    "wof:lastmodified":1571679361,
     "wof:name":"Kontorsletta",
     "wof:parent_id":1159296963,
     "wof:placetype":"locality",

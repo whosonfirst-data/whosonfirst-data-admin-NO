@@ -30,10 +30,14 @@
     "no-geonorge:lokalid":"172969",
     "no-geonorge:navnerom":"http://skjema.geonorge.no/SOSI/produktspesifikasjon/AdmEnheter/4.1",
     "no-geonorge:versjonid":"4.1",
+    "reversegeo:latitude":66.414218,
+    "reversegeo:longitude":13.080501,
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        102191581,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,14 +47,14 @@
     "wof:geomhash":"02093aad0c614c5a8fd680a04e46f517",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297619,
             "region_id":85687135
         }
     ],
     "wof:id":1159297619,
-    "wof:lastmodified":1566662879,
+    "wof:lastmodified":1571679201,
     "wof:name":"Traena",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

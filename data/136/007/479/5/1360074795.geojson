@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041e\u0441\u0430"
@@ -83,7 +83,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297093,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -94,15 +96,15 @@
     "wof:geomhash":"b503a6cf9e533cdd241a1d39cbe97e89",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297093,
             "locality_id":1360074795,
             "region_id":85687135
         }
     ],
     "wof:id":1360074795,
-    "wof:lastmodified":1566662318,
+    "wof:lastmodified":1571679211,
     "wof:name":"Osa",
     "wof:parent_id":1159297093,
     "wof:placetype":"locality",
