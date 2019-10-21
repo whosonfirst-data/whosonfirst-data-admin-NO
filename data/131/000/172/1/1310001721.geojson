@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297273,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"7e21036ea9804986a0a8e8142b7791f4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297273,
             "locality_id":1310001721,
             "region_id":85687135
         }
     ],
     "wof:id":1310001721,
-    "wof:lastmodified":1571384920,
+    "wof:lastmodified":1571679339,
     "wof:name":"Riddarset",
     "wof:parent_id":1159297273,
     "wof:placetype":"locality",

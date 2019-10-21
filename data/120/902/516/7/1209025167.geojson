@@ -44,7 +44,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296877,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -56,15 +58,15 @@
     "wof:geomhash":"87a65a0445c5d21f97984bc5740f059f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296877,
             "locality_id":1209025167,
             "region_id":85687135
         }
     ],
     "wof:id":1209025167,
-    "wof:lastmodified":1571383539,
+    "wof:lastmodified":1571679220,
     "wof:name":"Drevja",
     "wof:parent_id":1159296877,
     "wof:placetype":"locality",

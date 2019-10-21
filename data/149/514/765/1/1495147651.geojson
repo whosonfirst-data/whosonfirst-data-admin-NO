@@ -38,7 +38,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         85687135,
+        102191581,
         1159297465,
+        85633341,
         101814623
     ],
     "wof:breaches":[],
@@ -49,8 +51,8 @@
     "wof:geomhash":"31f7bcaddf7a8ed54984dcb540dc1e16",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297465,
             "locality_id":101814623,
             "neighbourhood_id":1495147651,
@@ -58,7 +60,7 @@
         }
     ],
     "wof:id":1495147651,
-    "wof:lastmodified":1571393168,
+    "wof:lastmodified":1571679371,
     "wof:name":"Ronvik",
     "wof:parent_id":101814623,
     "wof:placetype":"neighbourhood",

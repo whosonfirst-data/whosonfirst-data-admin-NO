@@ -43,7 +43,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297149,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -54,15 +56,15 @@
     "wof:geomhash":"4ced87ed6ff3f925a2bf11a06ff7cd64",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297149,
             "locality_id":1326626367,
             "region_id":85687135
         }
     ],
     "wof:id":1326626367,
-    "wof:lastmodified":1571355787,
+    "wof:lastmodified":1571679280,
     "wof:name":"Skeid",
     "wof:parent_id":1159297149,
     "wof:placetype":"locality",

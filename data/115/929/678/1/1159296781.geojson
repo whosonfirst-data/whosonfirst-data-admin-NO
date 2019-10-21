@@ -228,6 +228,8 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        102191581,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -237,14 +239,14 @@
     "wof:geomhash":"5f0d954c2f75acd89ac7228018b9d681",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296781,
             "region_id":85687135
         }
     ],
     "wof:id":1159296781,
-    "wof:lastmodified":1571389578,
+    "wof:lastmodified":1571679192,
     "wof:name":"Vega",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297361,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"e40b28c2a99386dc60194a3c515173f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297361,
             "locality_id":1309795651,
             "region_id":85687135
         }
     ],
     "wof:id":1309795651,
-    "wof:lastmodified":1571386486,
+    "wof:lastmodified":1571679336,
     "wof:name":"Kvannkjosen",
     "wof:parent_id":1159297361,
     "wof:placetype":"locality",

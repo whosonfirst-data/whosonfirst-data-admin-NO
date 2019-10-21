@@ -33,7 +33,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         85687135,
+        102191581,
         1159297039,
+        85633341,
         101814611
     ],
     "wof:breaches":[],
@@ -44,8 +46,8 @@
     "wof:geomhash":"9bb921b457c2c406d4e0bccce4c6f4cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297039,
             "locality_id":101814611,
             "neighbourhood_id":1495147555,
@@ -53,7 +55,7 @@
         }
     ],
     "wof:id":1495147555,
-    "wof:lastmodified":1571393124,
+    "wof:lastmodified":1571679370,
     "wof:name":"Svarholt",
     "wof:parent_id":101814611,
     "wof:placetype":"neighbourhood",

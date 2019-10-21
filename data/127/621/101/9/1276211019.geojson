@@ -41,7 +41,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296769,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -53,15 +55,15 @@
     "wof:geomhash":"ccfde830bcbbcf5d2c7924fd997df26d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296769,
             "locality_id":1276211019,
             "region_id":85687135
         }
     ],
     "wof:id":1276211019,
-    "wof:lastmodified":1571381560,
+    "wof:lastmodified":1571679335,
     "wof:name":"Langenes",
     "wof:parent_id":1159296769,
     "wof:placetype":"locality",

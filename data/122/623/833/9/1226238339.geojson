@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296833,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"d5343feec954a7fc9aa84ef08ad5b10a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296833,
             "locality_id":1226238339,
             "region_id":85687135
         }
     ],
     "wof:id":1226238339,
-    "wof:lastmodified":1571392479,
+    "wof:lastmodified":1571679258,
     "wof:name":"Stokkland",
     "wof:parent_id":1159296833,
     "wof:placetype":"locality",

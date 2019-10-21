@@ -92,7 +92,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297417,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -103,15 +105,15 @@
     "wof:geomhash":"fbcc7a324e91c66a7a2fca73aa31062e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297417,
             "locality_id":1260272831,
             "region_id":85687135
         }
     ],
     "wof:id":1260272831,
-    "wof:lastmodified":1571384533,
+    "wof:lastmodified":1571679352,
     "wof:name":"Sund",
     "wof:parent_id":1159297417,
     "wof:placetype":"locality",

@@ -39,7 +39,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         85687135,
+        102191581,
         1159297465,
+        85633341,
         101814623
     ],
     "wof:breaches":[],
@@ -51,8 +53,8 @@
     "wof:geomhash":"a38ac60e9d974a90c553460b74ee1da7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297465,
             "locality_id":101814623,
             "neighbourhood_id":1495147577,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1495147577,
-    "wof:lastmodified":1571393579,
+    "wof:lastmodified":1571679374,
     "wof:name":"Morkved",
     "wof:parent_id":101814623,
     "wof:placetype":"neighbourhood",

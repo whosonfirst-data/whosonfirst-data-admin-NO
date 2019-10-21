@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296877,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"6fc14ed45dc6f11f6f997edadb6cb1cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296877,
             "locality_id":1259467421,
             "region_id":85687135
         }
     ],
     "wof:id":1259467421,
-    "wof:lastmodified":1571391320,
+    "wof:lastmodified":1571679343,
     "wof:name":"Aufles",
     "wof:parent_id":1159296877,
     "wof:placetype":"locality",

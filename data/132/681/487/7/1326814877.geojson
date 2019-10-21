@@ -35,7 +35,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297087,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -46,15 +48,15 @@
     "wof:geomhash":"401a4e62bb6a09a27ae2e03c4db22d54",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297087,
             "locality_id":1326814877,
             "region_id":85687135
         }
     ],
     "wof:id":1326814877,
-    "wof:lastmodified":1571354910,
+    "wof:lastmodified":1571679327,
     "wof:name":"Hakonhals",
     "wof:parent_id":1159297087,
     "wof:placetype":"locality",

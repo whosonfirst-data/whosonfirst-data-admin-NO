@@ -34,6 +34,7 @@
     "wof:belongsto":[
         102191581,
         1159296961,
+        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -45,14 +46,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":-1,
+            "country_id":85633341,
             "localadmin_id":1159296961,
             "locality_id":1326813659,
             "region_id":85687085
         }
     ],
     "wof:id":1326813659,
-    "wof:lastmodified":1571379049,
+    "wof:lastmodified":1571679474,
     "wof:name":"Nesvik",
     "wof:parent_id":1159296961,
     "wof:placetype":"locality",

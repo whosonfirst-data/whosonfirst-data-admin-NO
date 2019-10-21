@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297417,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"ee946fb95be93f115341daf0707d385f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297417,
             "locality_id":1209399401,
             "region_id":85687135
         }
     ],
     "wof:id":1209399401,
-    "wof:lastmodified":1571382865,
+    "wof:lastmodified":1571679367,
     "wof:name":"Guvag",
     "wof:parent_id":1159297417,
     "wof:placetype":"locality",

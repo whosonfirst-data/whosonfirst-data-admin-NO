@@ -38,7 +38,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297465,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -49,15 +51,15 @@
     "wof:geomhash":"fb1a874d200dedb914af2992259a7c9b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297465,
             "locality_id":1209705357,
             "region_id":85687135
         }
     ],
     "wof:id":1209705357,
-    "wof:lastmodified":1571383081,
+    "wof:lastmodified":1571679244,
     "wof:name":"Loding,vestre",
     "wof:parent_id":1159297465,
     "wof:placetype":"locality",

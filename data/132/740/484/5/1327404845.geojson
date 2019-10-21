@@ -59,6 +59,7 @@
     "wof:belongsto":[
         102191581,
         1159296707,
+        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -70,14 +71,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":-1,
+            "country_id":85633341,
             "localadmin_id":1159296707,
             "locality_id":1327404845,
             "region_id":85687085
         }
     ],
     "wof:id":1327404845,
-    "wof:lastmodified":1571379025,
+    "wof:lastmodified":1571679472,
     "wof:name":"Haugland",
     "wof:parent_id":1159296707,
     "wof:placetype":"locality",

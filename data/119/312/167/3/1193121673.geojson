@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297115,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"da5f881fc4c307e65e99c4a69fee3424",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297115,
             "locality_id":1193121673,
             "region_id":85687135
         }
     ],
     "wof:id":1193121673,
-    "wof:lastmodified":1571384045,
+    "wof:lastmodified":1571679220,
     "wof:name":"Storalmenningen",
     "wof:parent_id":1159297115,
     "wof:placetype":"locality",

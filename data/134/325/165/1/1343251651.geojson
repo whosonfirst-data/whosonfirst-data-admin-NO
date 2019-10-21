@@ -35,7 +35,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296959,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -46,15 +48,15 @@
     "wof:geomhash":"ee6dd208e9f1ec3d48493f720dba63d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296959,
             "locality_id":1343251651,
             "region_id":85687135
         }
     ],
     "wof:id":1343251651,
-    "wof:lastmodified":1571356778,
+    "wof:lastmodified":1571679268,
     "wof:name":"Skveiren",
     "wof:parent_id":1159296959,
     "wof:placetype":"locality",

@@ -33,7 +33,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         85687135,
+        102191581,
         1159297273,
+        85633341,
         101814591
     ],
     "wof:breaches":[],
@@ -44,8 +46,8 @@
     "wof:geomhash":"eac904f44839390c3468457626e29af4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297273,
             "locality_id":101814591,
             "neighbourhood_id":1495148001,
@@ -53,7 +55,7 @@
         }
     ],
     "wof:id":1495148001,
-    "wof:lastmodified":1571393721,
+    "wof:lastmodified":1571679375,
     "wof:name":"Lamarka",
     "wof:parent_id":101814591,
     "wof:placetype":"neighbourhood",

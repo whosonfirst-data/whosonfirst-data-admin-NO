@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296959,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"f068806998342906281b60f374894f74",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296959,
             "locality_id":1326614521,
             "region_id":85687135
         }
     ],
     "wof:id":1326614521,
-    "wof:lastmodified":1571355154,
+    "wof:lastmodified":1571679281,
     "wof:name":"Oyrnes",
     "wof:parent_id":1159296959,
     "wof:placetype":"locality",

@@ -108,7 +108,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296909,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -119,15 +121,15 @@
     "wof:geomhash":"0112b1b9b71fee1bc7aef7e289bf19ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296909,
             "locality_id":1360275087,
             "region_id":85687135
         }
     ],
     "wof:id":1360275087,
-    "wof:lastmodified":1571385660,
+    "wof:lastmodified":1571679211,
     "wof:name":"Hall",
     "wof:parent_id":1159296909,
     "wof:placetype":"locality",

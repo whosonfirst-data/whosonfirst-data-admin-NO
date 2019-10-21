@@ -41,6 +41,7 @@
         85687085,
         102191581,
         1159297501,
+        85633341,
         101803825
     ],
     "wof:breaches":[],
@@ -52,7 +53,7 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":-1,
+            "country_id":85633341,
             "localadmin_id":1159297501,
             "locality_id":101803825,
             "neighbourhood_id":1495148137,
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1495148137,
-    "wof:lastmodified":1571393707,
+    "wof:lastmodified":1571679500,
     "wof:name":"Snode",
     "wof:parent_id":101803825,
     "wof:placetype":"neighbourhood",

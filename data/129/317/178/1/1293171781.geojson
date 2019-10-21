@@ -131,6 +131,7 @@
     "wof:belongsto":[
         102191581,
         1159297063,
+        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -142,14 +143,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":-1,
+            "country_id":85633341,
             "localadmin_id":1159297063,
             "locality_id":1293171781,
             "region_id":85687085
         }
     ],
     "wof:id":1293171781,
-    "wof:lastmodified":1571381159,
+    "wof:lastmodified":1571679484,
     "wof:name":"Eide",
     "wof:parent_id":1159297063,
     "wof:placetype":"locality",

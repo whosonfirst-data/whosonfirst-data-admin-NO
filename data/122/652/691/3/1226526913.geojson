@@ -35,7 +35,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297115,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -46,15 +48,15 @@
     "wof:geomhash":"9d147766cc8ba58213bcadb5e075ebc8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297115,
             "locality_id":1226526913,
             "region_id":85687135
         }
     ],
     "wof:id":1226526913,
-    "wof:lastmodified":1571392605,
+    "wof:lastmodified":1571679259,
     "wof:name":"Yttersetsa",
     "wof:parent_id":1159297115,
     "wof:placetype":"locality",

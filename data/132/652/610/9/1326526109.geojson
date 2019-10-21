@@ -72,7 +72,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297465,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -83,15 +85,15 @@
     "wof:geomhash":"dac4c763320c8a3248977ab3626043e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297465,
             "locality_id":1326526109,
             "region_id":85687135
         }
     ],
     "wof:id":1326526109,
-    "wof:lastmodified":1571355714,
+    "wof:lastmodified":1571679268,
     "wof:name":"Breivik",
     "wof:parent_id":1159297465,
     "wof:placetype":"locality",

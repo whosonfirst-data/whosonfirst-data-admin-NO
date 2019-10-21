@@ -78,7 +78,9 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":151,
     "wof:belongsto":[
+        102191581,
         1159296803,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -91,15 +93,15 @@
     "wof:geomhash":"88c3da8a50eb21a599d69105bd7d8e47",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296803,
             "locality_id":101814577,
             "region_id":85687135
         }
     ],
     "wof:id":101814577,
-    "wof:lastmodified":1571386290,
+    "wof:lastmodified":1571679206,
     "wof:name":"R\u00f8stlandet",
     "wof:parent_id":1159296803,
     "wof:placetype":"locality",

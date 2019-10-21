@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297445,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"7a299707343b812ca6d6358d3433dee9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297445,
             "locality_id":1209709979,
             "region_id":85687135
         }
     ],
     "wof:id":1209709979,
-    "wof:lastmodified":1571383081,
+    "wof:lastmodified":1571679246,
     "wof:name":"Kraknes",
     "wof:parent_id":1159297445,
     "wof:placetype":"locality",

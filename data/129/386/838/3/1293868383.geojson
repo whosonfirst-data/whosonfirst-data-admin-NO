@@ -38,7 +38,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297039,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -49,15 +51,15 @@
     "wof:geomhash":"814f45d26d24ee94f0173961d31b4857",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297039,
             "locality_id":1293868383,
             "region_id":85687135
         }
     ],
     "wof:id":1293868383,
-    "wof:lastmodified":1571381302,
+    "wof:lastmodified":1571679325,
     "wof:name":"Limstranden",
     "wof:parent_id":1159297039,
     "wof:placetype":"locality",

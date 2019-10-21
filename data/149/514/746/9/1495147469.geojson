@@ -36,7 +36,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         85687135,
+        102191581,
         1159297465,
+        85633341,
         101814619
     ],
     "wof:breaches":[],
@@ -47,8 +49,8 @@
     "wof:geomhash":"2e5230b1d64f480761843630c4fc55c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297465,
             "locality_id":101814619,
             "neighbourhood_id":1495147469,
@@ -56,7 +58,7 @@
         }
     ],
     "wof:id":1495147469,
-    "wof:lastmodified":1571393502,
+    "wof:lastmodified":1571679373,
     "wof:name":"Storvollen",
     "wof:parent_id":101814619,
     "wof:placetype":"neighbourhood",

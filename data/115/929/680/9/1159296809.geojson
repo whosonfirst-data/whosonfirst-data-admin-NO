@@ -36,6 +36,8 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        102191581,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -45,14 +47,14 @@
     "wof:geomhash":"c4a44973e71fc2856f1179f1d8af575b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296809,
             "region_id":85687135
         }
     ],
     "wof:id":1159296809,
-    "wof:lastmodified":1571388959,
+    "wof:lastmodified":1571679193,
     "wof:name":"Rodoy",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

@@ -42,7 +42,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         85687135,
+        102191581,
         1159297109,
+        85633341,
         101814617
     ],
     "wof:breaches":[],
@@ -53,8 +55,8 @@
     "wof:geomhash":"b149a3a81bfea4512c439316f9729d61",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297109,
             "locality_id":101814617,
             "neighbourhood_id":1495147511,
@@ -62,7 +64,7 @@
         }
     ],
     "wof:id":1495147511,
-    "wof:lastmodified":1571393554,
+    "wof:lastmodified":1571679374,
     "wof:name":"Oaffi",
     "wof:parent_id":101814617,
     "wof:placetype":"neighbourhood",

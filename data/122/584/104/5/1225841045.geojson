@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297093,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"a321a7be6e3989556dbc2dab4d34ccd3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297093,
             "locality_id":1225841045,
             "region_id":85687135
         }
     ],
     "wof:id":1225841045,
-    "wof:lastmodified":1571392827,
+    "wof:lastmodified":1571679226,
     "wof:name":"Gjerset",
     "wof:parent_id":1159297093,
     "wof:placetype":"locality",

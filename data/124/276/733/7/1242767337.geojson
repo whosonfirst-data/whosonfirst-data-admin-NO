@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297417,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"c8c533ce653a3e9da4eecc345a7e8399",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297417,
             "locality_id":1242767337,
             "region_id":85687135
         }
     ],
     "wof:id":1242767337,
-    "wof:lastmodified":1571390773,
+    "wof:lastmodified":1571679262,
     "wof:name":"Soberg",
     "wof:parent_id":1159297417,
     "wof:placetype":"locality",

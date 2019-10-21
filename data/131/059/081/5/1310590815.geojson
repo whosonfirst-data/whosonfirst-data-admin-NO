@@ -44,7 +44,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297229,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -56,15 +58,15 @@
     "wof:geomhash":"993e236471cdc055bb2ec14f39fa0996",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297229,
             "locality_id":1310590815,
             "region_id":85687135
         }
     ],
     "wof:id":1310590815,
-    "wof:lastmodified":1571385310,
+    "wof:lastmodified":1571679286,
     "wof:name":"Kobbvika",
     "wof:parent_id":1159297229,
     "wof:placetype":"locality",

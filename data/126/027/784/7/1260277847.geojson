@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297417,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"8c749dd8c1a818f57215f48c2ff5e094",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297417,
             "locality_id":1260277847,
             "region_id":85687135
         }
     ],
     "wof:id":1260277847,
-    "wof:lastmodified":1571384527,
+    "wof:lastmodified":1571679269,
     "wof:name":"Mokland",
     "wof:parent_id":1159297417,
     "wof:placetype":"locality",

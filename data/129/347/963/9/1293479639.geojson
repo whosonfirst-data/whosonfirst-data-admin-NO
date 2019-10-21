@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297465,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"7ebfc0e1e255dab8eb44a7ffe65c5b27",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297465,
             "locality_id":1293479639,
             "region_id":85687135
         }
     ],
     "wof:id":1293479639,
-    "wof:lastmodified":1571380524,
+    "wof:lastmodified":1571679319,
     "wof:name":"Gillesvag",
     "wof:parent_id":1159297465,
     "wof:placetype":"locality",

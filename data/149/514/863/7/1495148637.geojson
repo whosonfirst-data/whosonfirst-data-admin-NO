@@ -45,7 +45,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         85687135,
+        102191581,
         1159296963,
+        85633341,
         101814635
     ],
     "wof:breaches":[],
@@ -56,8 +58,8 @@
     "wof:geomhash":"5f8d58f3c200ae0a37da91773d55277b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296963,
             "locality_id":101814635,
             "neighbourhood_id":1495148637,
@@ -65,7 +67,7 @@
         }
     ],
     "wof:id":1495148637,
-    "wof:lastmodified":1571393822,
+    "wof:lastmodified":1571679376,
     "wof:name":"Enge",
     "wof:parent_id":101814635,
     "wof:placetype":"neighbourhood",

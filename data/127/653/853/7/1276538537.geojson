@@ -35,7 +35,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297535,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -46,15 +48,15 @@
     "wof:geomhash":"00f166b0cc97b23fd6d340dd9b9fab34",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297535,
             "locality_id":1276538537,
             "region_id":85687135
         }
     ],
     "wof:id":1276538537,
-    "wof:lastmodified":1571382590,
+    "wof:lastmodified":1571679298,
     "wof:name":"Lokas",
     "wof:parent_id":1159297535,
     "wof:placetype":"locality",

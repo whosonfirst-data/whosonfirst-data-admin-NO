@@ -161,7 +161,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         85687135,
+        102191581,
         1159296951,
+        85633341,
         101814573
     ],
     "wof:breaches":[],
@@ -176,8 +178,8 @@
     "wof:geomhash":"053204bb7984b53072c5058b8d349827",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296951,
             "locality_id":101814573,
             "neighbourhood_id":1495149283,
@@ -185,7 +187,7 @@
         }
     ],
     "wof:id":1495149283,
-    "wof:lastmodified":1571393930,
+    "wof:lastmodified":1571679377,
     "wof:name":"Evenes",
     "wof:parent_id":101814573,
     "wof:placetype":"neighbourhood",

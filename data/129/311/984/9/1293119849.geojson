@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297445,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"669733b38618fb86a477f110eb6ad4b6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297445,
             "locality_id":1293119849,
             "region_id":85687135
         }
     ],
     "wof:id":1293119849,
-    "wof:lastmodified":1571380976,
+    "wof:lastmodified":1571679274,
     "wof:name":"Skille",
     "wof:parent_id":1159297445,
     "wof:placetype":"locality",

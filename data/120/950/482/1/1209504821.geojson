@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296963,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"d41d7c538b3c30892f906e725262d425",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296963,
             "locality_id":1209504821,
             "region_id":85687135
         }
     ],
     "wof:id":1209504821,
-    "wof:lastmodified":1571383281,
+    "wof:lastmodified":1571679243,
     "wof:name":"Purkneset",
     "wof:parent_id":1159296963,
     "wof:placetype":"locality",

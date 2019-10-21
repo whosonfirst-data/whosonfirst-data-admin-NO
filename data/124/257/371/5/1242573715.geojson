@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297093,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"f0d4ed04ffa1746b8f08b4289707e1a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297093,
             "locality_id":1242573715,
             "region_id":85687135
         }
     ],
     "wof:id":1242573715,
-    "wof:lastmodified":1571390212,
+    "wof:lastmodified":1571679348,
     "wof:name":"Gronoya",
     "wof:parent_id":1159297093,
     "wof:placetype":"locality",

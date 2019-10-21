@@ -96,7 +96,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297229,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -107,15 +109,15 @@
     "wof:geomhash":"294b47bac1497c42c30985e311835d8e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297229,
             "locality_id":1243063687,
             "region_id":85687135
         }
     ],
     "wof:id":1243063687,
-    "wof:lastmodified":1571390053,
+    "wof:lastmodified":1571679248,
     "wof:name":"Rana",
     "wof:parent_id":1159297229,
     "wof:placetype":"locality",

@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297087,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"937b8ef7f38d0c7d357a5e009d98a5cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297087,
             "locality_id":1326825977,
             "region_id":85687135
         }
     ],
     "wof:id":1326825977,
-    "wof:lastmodified":1571355558,
+    "wof:lastmodified":1571679324,
     "wof:name":"Hellevik",
     "wof:parent_id":1159297087,
     "wof:placetype":"locality",

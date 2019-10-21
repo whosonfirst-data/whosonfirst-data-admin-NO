@@ -122,7 +122,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297039,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -133,15 +135,15 @@
     "wof:geomhash":"11d0270d291532c4ce12dff07be2fbc6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297039,
             "locality_id":1309824911,
             "region_id":85687135
         }
     ],
     "wof:id":1309824911,
-    "wof:lastmodified":1571386531,
+    "wof:lastmodified":1571679262,
     "wof:name":"Storfjord",
     "wof:parent_id":1159297039,
     "wof:placetype":"locality",

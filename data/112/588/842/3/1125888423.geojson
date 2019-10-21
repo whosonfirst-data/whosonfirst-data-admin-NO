@@ -44,7 +44,9 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159297539,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -57,15 +59,15 @@
     "wof:geomhash":"b0a1b7bb8240e7aaad5389ae441cf2c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297539,
             "locality_id":1125888423,
             "region_id":85687135
         }
     ],
     "wof:id":1125888423,
-    "wof:lastmodified":1571387353,
+    "wof:lastmodified":1571679220,
     "wof:name":"S\u00f8r-Nordmela",
     "wof:parent_id":1159297539,
     "wof:placetype":"locality",

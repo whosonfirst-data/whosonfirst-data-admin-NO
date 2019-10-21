@@ -44,7 +44,9 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159297273,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -57,15 +59,15 @@
     "wof:geomhash":"afad4db265b7929c55d997e07fb8e86c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297273,
             "locality_id":1126038409,
             "region_id":85687135
         }
     ],
     "wof:id":1126038409,
-    "wof:lastmodified":1571387204,
+    "wof:lastmodified":1571679239,
     "wof:name":"Maurnes",
     "wof:parent_id":1159297273,
     "wof:placetype":"locality",

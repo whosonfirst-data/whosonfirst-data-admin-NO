@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297235,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"1f57561efe143633e9c9f6aa5103e72e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297235,
             "locality_id":1326619843,
             "region_id":85687135
         }
     ],
     "wof:id":1326619843,
-    "wof:lastmodified":1571355160,
+    "wof:lastmodified":1571679280,
     "wof:name":"Forsland",
     "wof:parent_id":1159297235,
     "wof:placetype":"locality",

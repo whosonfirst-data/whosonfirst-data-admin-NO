@@ -35,7 +35,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297093,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -46,15 +48,15 @@
     "wof:geomhash":"42e4e9008d9fa8b69a4b726d9e8bc1db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297093,
             "locality_id":1276328899,
             "region_id":85687135
         }
     ],
     "wof:id":1276328899,
-    "wof:lastmodified":1571381846,
+    "wof:lastmodified":1571679286,
     "wof:name":"Nerstranda",
     "wof:parent_id":1159297093,
     "wof:placetype":"locality",

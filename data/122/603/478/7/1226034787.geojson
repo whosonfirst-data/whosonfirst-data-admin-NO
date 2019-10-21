@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297007,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"bfbd5ed235cead7b160276799a8f4209",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297007,
             "locality_id":1226034787,
             "region_id":85687135
         }
     ],
     "wof:id":1226034787,
-    "wof:lastmodified":1571392195,
+    "wof:lastmodified":1571679248,
     "wof:name":"Austbo",
     "wof:parent_id":1159297007,
     "wof:placetype":"locality",

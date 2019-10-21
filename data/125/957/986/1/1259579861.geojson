@@ -36,7 +36,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297203,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -47,15 +49,15 @@
     "wof:geomhash":"d7172d82629ee949fab8ad68c7747699",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297203,
             "locality_id":1259579861,
             "region_id":85687135
         }
     ],
     "wof:id":1259579861,
-    "wof:lastmodified":1571391452,
+    "wof:lastmodified":1571679359,
     "wof:name":"Kongsbakk",
     "wof:parent_id":1159297203,
     "wof:placetype":"locality",

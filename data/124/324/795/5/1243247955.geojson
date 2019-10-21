@@ -35,7 +35,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297203,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -46,15 +48,15 @@
     "wof:geomhash":"5b3022db67a7fd0e2eb1d80fec529994",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297203,
             "locality_id":1243247955,
             "region_id":85687135
         }
     ],
     "wof:id":1243247955,
-    "wof:lastmodified":1571390392,
+    "wof:lastmodified":1571679278,
     "wof:name":"Laukvik",
     "wof:parent_id":1159297203,
     "wof:placetype":"locality",

@@ -37,7 +37,9 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297039,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -50,15 +52,15 @@
     "wof:geomhash":"5b93a772fdff7b5d28b1cfe1fb0b31dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297039,
             "locality_id":1125847757,
             "region_id":85687135
         }
     ],
     "wof:id":1125847757,
-    "wof:lastmodified":1571388490,
+    "wof:lastmodified":1571679213,
     "wof:name":"Evjen",
     "wof:parent_id":1159297039,
     "wof:placetype":"locality",

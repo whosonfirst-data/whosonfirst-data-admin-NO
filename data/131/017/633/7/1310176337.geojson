@@ -62,6 +62,7 @@
     "wof:belongsto":[
         102191581,
         1159297509,
+        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -73,14 +74,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":-1,
+            "country_id":85633341,
             "localadmin_id":1159297509,
             "locality_id":1310176337,
             "region_id":85687085
         }
     ],
     "wof:id":1310176337,
-    "wof:lastmodified":1571385173,
+    "wof:lastmodified":1571679486,
     "wof:name":"Tornes",
     "wof:parent_id":1159297509,
     "wof:placetype":"locality",

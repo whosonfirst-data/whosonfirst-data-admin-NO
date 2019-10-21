@@ -56,7 +56,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         85687135,
+        102191581,
         1159296877,
+        85633341,
         101814645
     ],
     "wof:breaches":[],
@@ -67,8 +69,8 @@
     "wof:geomhash":"592baa6e10a3ecf656b9ae3ae5591c26",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296877,
             "locality_id":101814645,
             "neighbourhood_id":1495148115,
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":1495148115,
-    "wof:lastmodified":1571393226,
+    "wof:lastmodified":1571679372,
     "wof:name":"Oya",
     "wof:parent_id":101814645,
     "wof:placetype":"neighbourhood",

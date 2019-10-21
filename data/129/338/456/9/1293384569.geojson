@@ -41,7 +41,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296695,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -52,15 +54,15 @@
     "wof:geomhash":"439fdf923510f67da75bde0b287b6754",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296695,
             "locality_id":1293384569,
             "region_id":85687135
         }
     ],
     "wof:id":1293384569,
-    "wof:lastmodified":1571380118,
+    "wof:lastmodified":1571679297,
     "wof:name":"Finneid",
     "wof:parent_id":1159296695,
     "wof:placetype":"locality",

@@ -56,7 +56,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297181,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -67,15 +69,15 @@
     "wof:geomhash":"7f41a48cc097b2ab7677af8f29411268",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297181,
             "locality_id":1226126921,
             "region_id":85687135
         }
     ],
     "wof:id":1226126921,
-    "wof:lastmodified":1571392520,
+    "wof:lastmodified":1571679260,
     "wof:name":"Malm",
     "wof:parent_id":1159297181,
     "wof:placetype":"locality",

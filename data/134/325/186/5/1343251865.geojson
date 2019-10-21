@@ -35,7 +35,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297611,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -46,15 +48,15 @@
     "wof:geomhash":"30abacac3517eea361f6fcddb64b707f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297611,
             "locality_id":1343251865,
             "region_id":85687135
         }
     ],
     "wof:id":1343251865,
-    "wof:lastmodified":1571356773,
+    "wof:lastmodified":1571679272,
     "wof:name":"Skjenfjorden",
     "wof:parent_id":1159297611,
     "wof:placetype":"locality",

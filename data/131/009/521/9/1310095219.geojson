@@ -47,7 +47,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297039,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -58,15 +60,15 @@
     "wof:geomhash":"208416dfc75f2f1d887f6748ffe91afb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297039,
             "locality_id":1310095219,
             "region_id":85687135
         }
     ],
     "wof:id":1310095219,
-    "wof:lastmodified":1571384933,
+    "wof:lastmodified":1571679338,
     "wof:name":"Holand",
     "wof:parent_id":1159297039,
     "wof:placetype":"locality",

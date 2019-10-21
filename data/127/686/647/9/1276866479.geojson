@@ -35,7 +35,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297059,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -46,15 +48,15 @@
     "wof:geomhash":"5353b605fe06c4090be5f0d421814141",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297059,
             "locality_id":1276866479,
             "region_id":85687135
         }
     ],
     "wof:id":1276866479,
-    "wof:lastmodified":1571381447,
+    "wof:lastmodified":1571679315,
     "wof:name":"Aursletta",
     "wof:parent_id":1159297059,
     "wof:placetype":"locality",

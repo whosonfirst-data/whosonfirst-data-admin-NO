@@ -48,7 +48,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296963,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -60,15 +62,15 @@
     "wof:geomhash":"86948cbeb560739c841c18a7007216ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296963,
             "locality_id":1327118907,
             "region_id":85687135
         }
     ],
     "wof:id":1327118907,
-    "wof:lastmodified":1571355995,
+    "wof:lastmodified":1571679330,
     "wof:name":"Myklebustad",
     "wof:parent_id":1159296963,
     "wof:placetype":"locality",

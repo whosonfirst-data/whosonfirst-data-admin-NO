@@ -50,7 +50,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297465,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -61,15 +63,15 @@
     "wof:geomhash":"10ca3a81f6e7a09bf29f92540ed1448f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297465,
             "locality_id":1343646229,
             "region_id":85687135
         }
     ],
     "wof:id":1343646229,
-    "wof:lastmodified":1571356257,
+    "wof:lastmodified":1571679310,
     "wof:name":"Nordfjord",
     "wof:parent_id":1159297465,
     "wof:placetype":"locality",

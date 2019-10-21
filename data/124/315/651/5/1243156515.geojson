@@ -35,7 +35,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297343,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -46,15 +48,15 @@
     "wof:geomhash":"1763ecc2191bb9addf8d52b041247250",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297343,
             "locality_id":1243156515,
             "region_id":85687135
         }
     ],
     "wof:id":1243156515,
-    "wof:lastmodified":1571390430,
+    "wof:lastmodified":1571679278,
     "wof:name":"Abornes",
     "wof:parent_id":1159297343,
     "wof:placetype":"locality",

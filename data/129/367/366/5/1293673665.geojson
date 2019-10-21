@@ -215,7 +215,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297347,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -226,15 +228,15 @@
     "wof:geomhash":"4d647122a3dbe86576b28364141414d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297347,
             "locality_id":1293673665,
             "region_id":85687135
         }
     ],
     "wof:id":1293673665,
-    "wof:lastmodified":1571380751,
+    "wof:lastmodified":1571679324,
     "wof:name":"Hagen",
     "wof:parent_id":1159297347,
     "wof:placetype":"locality",

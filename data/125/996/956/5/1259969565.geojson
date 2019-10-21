@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296963,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"a61bc4d4da6850312764702e39577523",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296963,
             "locality_id":1259969565,
             "region_id":85687135
         }
     ],
     "wof:id":1259969565,
-    "wof:lastmodified":1571391118,
+    "wof:lastmodified":1571679313,
     "wof:name":"Nevermoen",
     "wof:parent_id":1159296963,
     "wof:placetype":"locality",

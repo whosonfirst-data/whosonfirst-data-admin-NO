@@ -116,7 +116,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297115,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -127,15 +129,15 @@
     "wof:geomhash":"171b7bc25236a1a53c13f11393bec76b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297115,
             "locality_id":1209025319,
             "region_id":85687135
         }
     ],
     "wof:id":1209025319,
-    "wof:lastmodified":1571383543,
+    "wof:lastmodified":1571679221,
     "wof:name":"Vik",
     "wof:parent_id":1159297115,
     "wof:placetype":"locality",

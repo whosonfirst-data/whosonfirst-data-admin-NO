@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297087,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"1770a6a57d65f01121543a55c8b9166f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297087,
             "locality_id":1209710051,
             "region_id":85687135
         }
     ],
     "wof:id":1209710051,
-    "wof:lastmodified":1571383248,
+    "wof:lastmodified":1571679240,
     "wof:name":"Buvag",
     "wof:parent_id":1159297087,
     "wof:placetype":"locality",

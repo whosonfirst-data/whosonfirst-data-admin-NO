@@ -54,7 +54,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         85687135,
+        102191581,
         1159296963,
+        85633341,
         101814635
     ],
     "wof:breaches":[],
@@ -66,8 +68,8 @@
     "wof:geomhash":"c553b93c527d2771d3f88477a0135f2a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296963,
             "locality_id":101814635,
             "neighbourhood_id":1495147691,
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1495147691,
-    "wof:lastmodified":1571393550,
+    "wof:lastmodified":1571679374,
     "wof:name":"Selfors",
     "wof:parent_id":101814635,
     "wof:placetype":"neighbourhood",

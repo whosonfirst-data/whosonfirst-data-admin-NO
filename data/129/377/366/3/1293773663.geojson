@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297181,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"91760424d922b5d65340cd8bd5787187",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297181,
             "locality_id":1293773663,
             "region_id":85687135
         }
     ],
     "wof:id":1293773663,
-    "wof:lastmodified":1571380393,
+    "wof:lastmodified":1571679311,
     "wof:name":"Kvitle",
     "wof:parent_id":1159297181,
     "wof:placetype":"locality",

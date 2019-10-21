@@ -55,6 +55,7 @@
     "wof:belongsto":[
         102191581,
         1159296945,
+        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -66,14 +67,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":-1,
+            "country_id":85633341,
             "localadmin_id":1159296945,
             "locality_id":1293857671,
             "region_id":85687085
         }
     ],
     "wof:id":1293857671,
-    "wof:lastmodified":1571380468,
+    "wof:lastmodified":1571679475,
     "wof:name":"Landal",
     "wof:parent_id":1159296945,
     "wof:placetype":"locality",

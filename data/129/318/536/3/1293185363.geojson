@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297611,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"6e825988d8e31214d79bfbda1cfa3b06",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297611,
             "locality_id":1293185363,
             "region_id":85687135
         }
     ],
     "wof:id":1293185363,
-    "wof:lastmodified":1571380939,
+    "wof:lastmodified":1571679268,
     "wof:name":"Andopen",
     "wof:parent_id":1159297611,
     "wof:placetype":"locality",

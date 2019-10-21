@@ -41,7 +41,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297109,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -52,15 +54,15 @@
     "wof:geomhash":"8fddc8571c67feacd43ea55e8a406aeb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297109,
             "locality_id":1293119749,
             "region_id":85687135
         }
     ],
     "wof:id":1293119749,
-    "wof:lastmodified":1571380987,
+    "wof:lastmodified":1571679353,
     "wof:name":"Doaresgaddi",
     "wof:parent_id":1159297109,
     "wof:placetype":"locality",

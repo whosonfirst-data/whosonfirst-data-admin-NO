@@ -33,7 +33,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         85687135,
+        102191581,
         1159297465,
+        85633341,
         101814623
     ],
     "wof:breaches":[],
@@ -44,8 +46,8 @@
     "wof:geomhash":"9072203c2b3e3a33586cdd0b2332430f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297465,
             "locality_id":101814623,
             "neighbourhood_id":1495149187,
@@ -53,7 +55,7 @@
         }
     ],
     "wof:id":1495149187,
-    "wof:lastmodified":1571393879,
+    "wof:lastmodified":1571679376,
     "wof:name":"Hernes",
     "wof:parent_id":101814623,
     "wof:placetype":"neighbourhood",

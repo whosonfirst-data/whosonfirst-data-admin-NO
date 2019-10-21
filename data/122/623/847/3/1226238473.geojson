@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296809,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"5bfe70ba90419a4cde8f4f112510d2ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296809,
             "locality_id":1226238473,
             "region_id":85687135
         }
     ],
     "wof:id":1226238473,
-    "wof:lastmodified":1571392491,
+    "wof:lastmodified":1571679258,
     "wof:name":"Storseloya",
     "wof:parent_id":1159296809,
     "wof:placetype":"locality",

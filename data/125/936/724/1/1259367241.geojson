@@ -102,7 +102,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296997,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -113,15 +115,15 @@
     "wof:geomhash":"2557a956c08efd5514cff626f5f59957",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296997,
             "locality_id":1259367241,
             "region_id":85687135
         }
     ],
     "wof:id":1259367241,
-    "wof:lastmodified":1571391041,
+    "wof:lastmodified":1571679346,
     "wof:name":"Sandvika",
     "wof:parent_id":1159296997,
     "wof:placetype":"locality",

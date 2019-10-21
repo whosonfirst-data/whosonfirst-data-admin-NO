@@ -51,7 +51,9 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159297087,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -65,15 +67,15 @@
     "wof:geomhash":"bee3c404dc42df81e234b278ade20f66",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297087,
             "locality_id":1125938627,
             "region_id":85687135
         }
     ],
     "wof:id":1125938627,
-    "wof:lastmodified":1571386842,
+    "wof:lastmodified":1571679227,
     "wof:name":"Stromsnes",
     "wof:parent_id":1159297087,
     "wof:placetype":"locality",

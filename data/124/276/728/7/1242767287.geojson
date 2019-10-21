@@ -35,7 +35,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297093,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -46,15 +48,15 @@
     "wof:geomhash":"f8857b4a0082f8b7de1e83015dff5acc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297093,
             "locality_id":1242767287,
             "region_id":85687135
         }
     ],
     "wof:id":1242767287,
-    "wof:lastmodified":1571390789,
+    "wof:lastmodified":1571679269,
     "wof:name":"Korsneset",
     "wof:parent_id":1159297093,
     "wof:placetype":"locality",

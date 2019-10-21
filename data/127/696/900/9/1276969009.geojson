@@ -104,7 +104,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297265,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -115,15 +117,15 @@
     "wof:geomhash":"9cab1226d8c9c314daea214a9525b021",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297265,
             "locality_id":1276969009,
             "region_id":85687135
         }
     ],
     "wof:id":1276969009,
-    "wof:lastmodified":1571382483,
+    "wof:lastmodified":1571679317,
     "wof:name":"Nes",
     "wof:parent_id":1159297265,
     "wof:placetype":"locality",

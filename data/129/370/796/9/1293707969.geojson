@@ -38,7 +38,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297361,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -49,15 +51,15 @@
     "wof:geomhash":"55dd5b8440e578ebfc626d24f7479268",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297361,
             "locality_id":1293707969,
             "region_id":85687135
         }
     ],
     "wof:id":1293707969,
-    "wof:lastmodified":1571380432,
+    "wof:lastmodified":1571679314,
     "wof:name":"Husjorda",
     "wof:parent_id":1159297361,
     "wof:placetype":"locality",

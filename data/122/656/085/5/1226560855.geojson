@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297361,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"f7e6e5ae7df0b482624273bb3da9d51f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297361,
             "locality_id":1226560855,
             "region_id":85687135
         }
     ],
     "wof:id":1226560855,
-    "wof:lastmodified":1571392164,
+    "wof:lastmodified":1571679253,
     "wof:name":"Sommarset",
     "wof:parent_id":1159297361,
     "wof:placetype":"locality",

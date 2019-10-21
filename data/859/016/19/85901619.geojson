@@ -69,7 +69,9 @@
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85687135,
+        102191581,
         1159297203,
+        85633341,
         101814601
     ],
     "wof:breaches":[],
@@ -82,8 +84,8 @@
     "wof:geomhash":"5250db0005a7038bd1781c350392072d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297203,
             "locality_id":101814601,
             "neighbourhood_id":85901619,
@@ -94,7 +96,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571357414,
+    "wof:lastmodified":1571679370,
     "wof:name":"Oskarsborg",
     "wof:parent_id":101814601,
     "wof:placetype":"neighbourhood",

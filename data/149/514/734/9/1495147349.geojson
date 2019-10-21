@@ -36,7 +36,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         85687135,
+        102191581,
         1159297445,
+        85633341,
         101814647
     ],
     "wof:breaches":[],
@@ -47,8 +49,8 @@
     "wof:geomhash":"79e393fe798ca12dcd5d48b2238b0604",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297445,
             "locality_id":101814647,
             "neighbourhood_id":1495147349,
@@ -56,7 +58,7 @@
         }
     ],
     "wof:id":1495147349,
-    "wof:lastmodified":1571393515,
+    "wof:lastmodified":1571679373,
     "wof:name":"Salhus",
     "wof:parent_id":101814647,
     "wof:placetype":"neighbourhood",

@@ -45,7 +45,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296883,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -57,15 +59,15 @@
     "wof:geomhash":"c36d67fc7a66072f3acd8aee2f7843c3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296883,
             "locality_id":1276650937,
             "region_id":85687135
         }
     ],
     "wof:id":1276650937,
-    "wof:lastmodified":1571382547,
+    "wof:lastmodified":1571679361,
     "wof:name":"Straumnes",
     "wof:parent_id":1159296883,
     "wof:placetype":"locality",

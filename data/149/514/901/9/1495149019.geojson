@@ -74,7 +74,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         85687135,
+        102191581,
         1159296963,
+        85633341,
         101814635
     ],
     "wof:breaches":[],
@@ -89,8 +91,8 @@
     "wof:geomhash":"b0e818da8bf86b539609d5f1a8c62d7b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296963,
             "locality_id":101814635,
             "neighbourhood_id":1495149019,
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":1495149019,
-    "wof:lastmodified":1571393142,
+    "wof:lastmodified":1571679371,
     "wof:name":"B\u00e5smoen",
     "wof:parent_id":101814635,
     "wof:placetype":"neighbourhood",

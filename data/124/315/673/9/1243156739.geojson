@@ -35,7 +35,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297619,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -46,15 +48,15 @@
     "wof:geomhash":"13befdb99f483e3f688cb8986958eafa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297619,
             "locality_id":1243156739,
             "region_id":85687135
         }
     ],
     "wof:id":1243156739,
-    "wof:lastmodified":1571390425,
+    "wof:lastmodified":1571679275,
     "wof:name":"Olderstad",
     "wof:parent_id":1159297619,
     "wof:placetype":"locality",

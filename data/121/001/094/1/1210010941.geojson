@@ -41,7 +41,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296963,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -53,15 +55,15 @@
     "wof:geomhash":"3388d7198a4089ffe2422074e34d0328",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296963,
             "locality_id":1210010941,
             "region_id":85687135
         }
     ],
     "wof:id":1210010941,
-    "wof:lastmodified":1571383940,
+    "wof:lastmodified":1571679205,
     "wof:name":"Flostrand",
     "wof:parent_id":1159296963,
     "wof:placetype":"locality",

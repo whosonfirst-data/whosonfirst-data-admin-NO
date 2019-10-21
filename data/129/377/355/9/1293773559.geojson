@@ -39,7 +39,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296959,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -50,15 +52,15 @@
     "wof:geomhash":"63c10cf4998270be272407313cf34a21",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296959,
             "locality_id":1293773559,
             "region_id":85687135
         }
     ],
     "wof:id":1293773559,
-    "wof:lastmodified":1571380379,
+    "wof:lastmodified":1571679312,
     "wof:name":"Engan",
     "wof:parent_id":1159296959,
     "wof:placetype":"locality",

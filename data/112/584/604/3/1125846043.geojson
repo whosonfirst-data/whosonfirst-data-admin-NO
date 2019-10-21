@@ -44,7 +44,9 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159297343,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -57,15 +59,15 @@
     "wof:geomhash":"fa17bae390988a064d8b542bfcdf2dbc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297343,
             "locality_id":1125846043,
             "region_id":85687135
         }
     ],
     "wof:id":1125846043,
-    "wof:lastmodified":1571388462,
+    "wof:lastmodified":1571679212,
     "wof:name":"Lillegrenda",
     "wof:parent_id":1159297343,
     "wof:placetype":"locality",

@@ -132,6 +132,8 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        102191581,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -141,14 +143,14 @@
     "wof:geomhash":"6e0185c588f8d0223fdff80765b64a62",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297153,
             "region_id":85687135
         }
     ],
     "wof:id":1159297153,
-    "wof:lastmodified":1571389170,
+    "wof:lastmodified":1571679202,
     "wof:name":"Moskenes",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

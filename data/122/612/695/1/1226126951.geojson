@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297115,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"71ae83c414eaeb2be1c2ca1371ddc9f0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297115,
             "locality_id":1226126951,
             "region_id":85687135
         }
     ],
     "wof:id":1226126951,
-    "wof:lastmodified":1571392521,
+    "wof:lastmodified":1571679260,
     "wof:name":"Vassbotn",
     "wof:parent_id":1159297115,
     "wof:placetype":"locality",

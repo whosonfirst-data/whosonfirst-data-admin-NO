@@ -33,7 +33,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         85687135,
+        102191581,
         1159297039,
+        85633341,
         101814609
     ],
     "wof:breaches":[],
@@ -44,8 +46,8 @@
     "wof:geomhash":"f6a8da6967e355f6946cc9ecaf7aeecc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297039,
             "locality_id":101814609,
             "neighbourhood_id":1495148765,
@@ -53,7 +55,7 @@
         }
     ],
     "wof:id":1495148765,
-    "wof:lastmodified":1571393679,
+    "wof:lastmodified":1571679375,
     "wof:name":"Fygle",
     "wof:parent_id":101814609,
     "wof:placetype":"neighbourhood",

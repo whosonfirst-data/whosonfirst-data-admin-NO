@@ -36,7 +36,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297539,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -47,15 +49,15 @@
     "wof:geomhash":"d4ae9c27846b17851f1a8e5565969c4b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297539,
             "locality_id":1225928305,
             "region_id":85687135
         }
     ],
     "wof:id":1225928305,
-    "wof:lastmodified":1571391841,
+    "wof:lastmodified":1571679239,
     "wof:name":"Forfjord",
     "wof:parent_id":1159297539,
     "wof:placetype":"locality",

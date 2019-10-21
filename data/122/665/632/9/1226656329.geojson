@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296883,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"1d6d09518ef2efc8e8b67d8754b56788",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296883,
             "locality_id":1226656329,
             "region_id":85687135
         }
     ],
     "wof:id":1226656329,
-    "wof:lastmodified":1571392729,
+    "wof:lastmodified":1571679257,
     "wof:name":"Gimsoysand",
     "wof:parent_id":1159296883,
     "wof:placetype":"locality",

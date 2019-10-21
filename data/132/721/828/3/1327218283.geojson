@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297235,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"f25f1047070f7743c8ee6c1ef4a05f1a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297235,
             "locality_id":1327218283,
             "region_id":85687135
         }
     ],
     "wof:id":1327218283,
-    "wof:lastmodified":1571355889,
+    "wof:lastmodified":1571679363,
     "wof:name":"Herset",
     "wof:parent_id":1159297235,
     "wof:placetype":"locality",

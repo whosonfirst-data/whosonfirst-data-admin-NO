@@ -38,7 +38,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297631,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -49,15 +51,15 @@
     "wof:geomhash":"34ddabf33e80092f0098bdcbcc6fb6d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297631,
             "locality_id":1293276675,
             "region_id":85687135
         }
     ],
     "wof:id":1293276675,
-    "wof:lastmodified":1571380950,
+    "wof:lastmodified":1571679284,
     "wof:name":"Oldervika",
     "wof:parent_id":1159297631,
     "wof:placetype":"locality",

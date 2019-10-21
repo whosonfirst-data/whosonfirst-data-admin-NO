@@ -89,7 +89,9 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159296695,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -104,15 +106,15 @@
     "wof:geomhash":"a3649db7d619f1846674f56bbe3541e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296695,
             "locality_id":1125764903,
             "region_id":85687135
         }
     ],
     "wof:id":1125764903,
-    "wof:lastmodified":1571388250,
+    "wof:lastmodified":1571679204,
     "wof:name":"Korgen",
     "wof:parent_id":1159296695,
     "wof:placetype":"locality",

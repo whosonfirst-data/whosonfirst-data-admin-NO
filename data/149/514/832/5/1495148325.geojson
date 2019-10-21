@@ -45,7 +45,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         85687135,
+        102191581,
         1159297465,
+        85633341,
         101814623
     ],
     "wof:breaches":[],
@@ -58,8 +60,8 @@
     "wof:geomhash":"3e7801b23d268205f429e22ca75fb073",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297465,
             "locality_id":101814623,
             "neighbourhood_id":1495148325,
@@ -67,7 +69,7 @@
         }
     ],
     "wof:id":1495148325,
-    "wof:lastmodified":1571393365,
+    "wof:lastmodified":1571679373,
     "wof:name":"Hunstad",
     "wof:parent_id":101814623,
     "wof:placetype":"neighbourhood",

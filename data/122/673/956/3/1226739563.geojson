@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297265,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"40c215103d31a8442bbf45daceff4aab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297265,
             "locality_id":1226739563,
             "region_id":85687135
         }
     ],
     "wof:id":1226739563,
-    "wof:lastmodified":1571392034,
+    "wof:lastmodified":1571679261,
     "wof:name":"Hogforssletta",
     "wof:parent_id":1159297265,
     "wof:placetype":"locality",

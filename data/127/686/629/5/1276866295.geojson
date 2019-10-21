@@ -35,7 +35,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297331,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -46,15 +48,15 @@
     "wof:geomhash":"5937e9f1eba4073e2203fb39415e08f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297331,
             "locality_id":1276866295,
             "region_id":85687135
         }
     ],
     "wof:id":1276866295,
-    "wof:lastmodified":1571381421,
+    "wof:lastmodified":1571679314,
     "wof:name":"Brunsvik",
     "wof:parent_id":1159297331,
     "wof:placetype":"locality",

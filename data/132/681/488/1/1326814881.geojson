@@ -41,7 +41,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296781,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -52,15 +54,15 @@
     "wof:geomhash":"f2c409ef3bbdb95801e352a971d8af98",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296781,
             "locality_id":1326814881,
             "region_id":85687135
         }
     ],
     "wof:id":1326814881,
-    "wof:lastmodified":1571354902,
+    "wof:lastmodified":1571679328,
     "wof:name":"Bo",
     "wof:parent_id":1159296781,
     "wof:placetype":"locality",

@@ -59,7 +59,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297535,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -70,15 +72,15 @@
     "wof:geomhash":"04369c513e79d308ffcb6f49ac365e50",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297535,
             "locality_id":1293384611,
             "region_id":85687135
         }
     ],
     "wof:id":1293384611,
-    "wof:lastmodified":1571380122,
+    "wof:lastmodified":1571679333,
     "wof:name":"Nyland",
     "wof:parent_id":1159297535,
     "wof:placetype":"locality",

@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296695,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"50bdf6de11ed12bbef8e95cdaaca5203",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296695,
             "locality_id":1343450739,
             "region_id":85687135
         }
     ],
     "wof:id":1343450739,
-    "wof:lastmodified":1571357176,
+    "wof:lastmodified":1571679288,
     "wof:name":"Neverli",
     "wof:parent_id":1159296695,
     "wof:placetype":"locality",

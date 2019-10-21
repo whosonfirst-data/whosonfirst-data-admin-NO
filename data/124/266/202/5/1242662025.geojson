@@ -80,7 +80,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297343,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -91,15 +93,15 @@
     "wof:geomhash":"cffb401d3da4f397bdeb6667760fef1a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297343,
             "locality_id":1242662025,
             "region_id":85687135
         }
     ],
     "wof:id":1242662025,
-    "wof:lastmodified":1571390244,
+    "wof:lastmodified":1571679349,
     "wof:name":"Leirvik",
     "wof:parent_id":1159297343,
     "wof:placetype":"locality",

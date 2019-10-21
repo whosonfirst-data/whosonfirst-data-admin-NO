@@ -56,7 +56,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297115,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -67,15 +69,15 @@
     "wof:geomhash":"fc3993f79fe511ad71b68d85f96548dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297115,
             "locality_id":1242567473,
             "region_id":85687135
         }
     ],
     "wof:id":1242567473,
-    "wof:lastmodified":1571390344,
+    "wof:lastmodified":1571679341,
     "wof:name":"Nordnes",
     "wof:parent_id":1159297115,
     "wof:placetype":"locality",

@@ -55,7 +55,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296877,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -66,15 +68,15 @@
     "wof:geomhash":"c484d2e2bb4755882d78d31d9a198b1b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296877,
             "locality_id":1309895455,
             "region_id":85687135
         }
     ],
     "wof:id":1309895455,
-    "wof:lastmodified":1571386667,
+    "wof:lastmodified":1571679344,
     "wof:name":"Husvik",
     "wof:parent_id":1159296877,
     "wof:placetype":"locality",

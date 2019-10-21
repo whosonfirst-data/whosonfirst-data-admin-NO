@@ -53,7 +53,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297347,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -64,15 +66,15 @@
     "wof:geomhash":"09ff581b2ef558a9281e9f102d90447f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297347,
             "locality_id":1310389753,
             "region_id":85687135
         }
     ],
     "wof:id":1310389753,
-    "wof:lastmodified":1571384891,
+    "wof:lastmodified":1571679296,
     "wof:name":"Haugland",
     "wof:parent_id":1159297347,
     "wof:placetype":"locality",

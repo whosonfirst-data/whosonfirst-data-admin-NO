@@ -38,7 +38,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296963,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -49,15 +51,15 @@
     "wof:geomhash":"20dc1dc7ffb61d1213811e027712aa8c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296963,
             "locality_id":1293878137,
             "region_id":85687135
         }
     ],
     "wof:id":1293878137,
-    "wof:lastmodified":1571381058,
+    "wof:lastmodified":1571679332,
     "wof:name":"Yttralenninga",
     "wof:parent_id":1159296963,
     "wof:placetype":"locality",

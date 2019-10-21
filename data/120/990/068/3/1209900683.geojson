@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296877,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"50cdf87eeca70dc8ef3a3c7da809108e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296877,
             "locality_id":1209900683,
             "region_id":85687135
         }
     ],
     "wof:id":1209900683,
-    "wof:lastmodified":1571382988,
+    "wof:lastmodified":1571679241,
     "wof:name":"Sornes",
     "wof:parent_id":1159296877,
     "wof:placetype":"locality",

@@ -44,7 +44,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297417,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -55,15 +57,15 @@
     "wof:geomhash":"1bd4183a618545c5772922ca5fa7ce61",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297417,
             "locality_id":1209906005,
             "region_id":85687135
         }
     ],
     "wof:id":1209906005,
-    "wof:lastmodified":1571382991,
+    "wof:lastmodified":1571679245,
     "wof:name":"Hole",
     "wof:parent_id":1159297417,
     "wof:placetype":"locality",

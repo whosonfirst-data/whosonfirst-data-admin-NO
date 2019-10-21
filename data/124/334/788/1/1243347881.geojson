@@ -100,7 +100,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296833,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -111,15 +113,15 @@
     "wof:geomhash":"3bebaaa58c302a64d157c744ea9ff490",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296833,
             "locality_id":1243347881,
             "region_id":85687135
         }
     ],
     "wof:id":1243347881,
-    "wof:lastmodified":1571390620,
+    "wof:lastmodified":1571679250,
     "wof:name":"Laksa",
     "wof:parent_id":1159296833,
     "wof:placetype":"locality",

@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297115,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"ec9c65ddc46f45abe9338c556ca316bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297115,
             "locality_id":1209299007,
             "region_id":85687135
         }
     ],
     "wof:id":1209299007,
-    "wof:lastmodified":1571383572,
+    "wof:lastmodified":1571679235,
     "wof:name":"Storjord",
     "wof:parent_id":1159297115,
     "wof:placetype":"locality",

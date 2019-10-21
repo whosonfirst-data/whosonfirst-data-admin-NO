@@ -35,7 +35,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297039,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -46,15 +48,15 @@
     "wof:geomhash":"92bd9811b88261b4628c2c79c6c51a8a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297039,
             "locality_id":1343550893,
             "region_id":85687135
         }
     ],
     "wof:id":1343550893,
-    "wof:lastmodified":1571356212,
+    "wof:lastmodified":1571679318,
     "wof:name":"Skrivarneset",
     "wof:parent_id":1159297039,
     "wof:placetype":"locality",

@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297059,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"8944c89506783d6591e55ad6466a080d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297059,
             "locality_id":1310289567,
             "region_id":85687135
         }
     ],
     "wof:id":1310289567,
-    "wof:lastmodified":1571385203,
+    "wof:lastmodified":1571679292,
     "wof:name":"Hestun",
     "wof:parent_id":1159297059,
     "wof:placetype":"locality",

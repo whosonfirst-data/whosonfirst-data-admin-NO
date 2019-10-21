@@ -35,7 +35,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296963,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -46,15 +48,15 @@
     "wof:geomhash":"ff9eebb210201aeb5597e8421a678cd2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296963,
             "locality_id":1242573809,
             "region_id":85687135
         }
     ],
     "wof:id":1242573809,
-    "wof:lastmodified":1571390222,
+    "wof:lastmodified":1571679216,
     "wof:name":"Illgruben",
     "wof:parent_id":1159296963,
     "wof:placetype":"locality",

@@ -35,7 +35,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297331,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -46,15 +48,15 @@
     "wof:geomhash":"d58e84300abe04f6fa2339be9e322001",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297331,
             "locality_id":1243548997,
             "region_id":85687135
         }
     ],
     "wof:id":1243548997,
-    "wof:lastmodified":1571390002,
+    "wof:lastmodified":1571679250,
     "wof:name":"Inneroya",
     "wof:parent_id":1159297331,
     "wof:placetype":"locality",

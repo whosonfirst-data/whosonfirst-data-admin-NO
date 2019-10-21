@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296769,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"78c14737ce5f770fe1ed70bb60d674bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296769,
             "locality_id":1343746463,
             "region_id":85687135
         }
     ],
     "wof:id":1343746463,
-    "wof:lastmodified":1571357211,
+    "wof:lastmodified":1571679321,
     "wof:name":"Steinland",
     "wof:parent_id":1159296769,
     "wof:placetype":"locality",

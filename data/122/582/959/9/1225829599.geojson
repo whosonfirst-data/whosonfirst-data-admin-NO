@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297445,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"e4306fd4cd9fdef5bd44c005571993a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297445,
             "locality_id":1225829599,
             "region_id":85687135
         }
     ],
     "wof:id":1225829599,
-    "wof:lastmodified":1571392815,
+    "wof:lastmodified":1571679225,
     "wof:name":"Vedal",
     "wof:parent_id":1159297445,
     "wof:placetype":"locality",

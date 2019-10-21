@@ -36,7 +36,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         85687135,
+        102191581,
         1159296833,
+        85633341,
         101814625
     ],
     "wof:breaches":[],
@@ -47,8 +49,8 @@
     "wof:geomhash":"b93153c1b7a016db49ec207c2457b51a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296833,
             "locality_id":101814625,
             "neighbourhood_id":1495147395,
@@ -56,7 +58,7 @@
         }
     ],
     "wof:id":1495147395,
-    "wof:lastmodified":1571393133,
+    "wof:lastmodified":1571679371,
     "wof:name":"Follgota",
     "wof:parent_id":101814625,
     "wof:placetype":"neighbourhood",

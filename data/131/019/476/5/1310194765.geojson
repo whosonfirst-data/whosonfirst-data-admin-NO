@@ -38,7 +38,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297059,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -49,15 +51,15 @@
     "wof:geomhash":"2c38a0434371cd03b7d77582b3b1f32a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297059,
             "locality_id":1310194765,
             "region_id":85687135
         }
     ],
     "wof:id":1310194765,
-    "wof:lastmodified":1571385236,
+    "wof:lastmodified":1571679354,
     "wof:name":"Kilvagjen",
     "wof:parent_id":1159297059,
     "wof:placetype":"locality",

@@ -73,7 +73,9 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297347,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -87,15 +89,15 @@
     "wof:geomhash":"6d8e1680544ff6aedcc0d40eed6f484e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297347,
             "locality_id":1125784265,
             "region_id":85687135
         }
     ],
     "wof:id":1125784265,
-    "wof:lastmodified":1571388369,
+    "wof:lastmodified":1571679359,
     "wof:name":"Lovund",
     "wof:parent_id":1159297347,
     "wof:placetype":"locality",

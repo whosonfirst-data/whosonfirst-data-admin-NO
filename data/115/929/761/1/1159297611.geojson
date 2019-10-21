@@ -123,6 +123,8 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        102191581,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -132,14 +134,14 @@
     "wof:geomhash":"f6366c1f3f9d6dec586fb68b1c07c813",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297611,
             "region_id":85687135
         }
     ],
     "wof:id":1159297611,
-    "wof:lastmodified":1571389493,
+    "wof:lastmodified":1571679202,
     "wof:name":"Flakstad",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

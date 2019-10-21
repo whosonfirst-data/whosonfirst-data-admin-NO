@@ -56,7 +56,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297149,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -67,15 +69,15 @@
     "wof:geomhash":"891f9c036f3037efa2046818084c9428",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297149,
             "locality_id":1343379985,
             "region_id":85687135
         }
     ],
     "wof:id":1343379985,
-    "wof:lastmodified":1571356161,
+    "wof:lastmodified":1571679279,
     "wof:name":"Hov",
     "wof:parent_id":1159297149,
     "wof:placetype":"locality",

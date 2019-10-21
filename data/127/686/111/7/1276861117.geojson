@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297445,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"6c86ea7128e181911bf347dea78e8dbc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297445,
             "locality_id":1276861117,
             "region_id":85687135
         }
     ],
     "wof:id":1276861117,
-    "wof:lastmodified":1571381432,
+    "wof:lastmodified":1571679295,
     "wof:name":"Litle Torgnes",
     "wof:parent_id":1159297445,
     "wof:placetype":"locality",

@@ -118,7 +118,9 @@
     "src:population":"geonames",
     "wof:belongsto":[
         85687135,
+        102191581,
         1159297153,
+        85633341,
         101814569
     ],
     "wof:breaches":[],
@@ -130,8 +132,8 @@
     "wof:geomhash":"217500928e352a537a50851cb96a390c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297153,
             "locality_id":101814569,
             "neighbourhood_id":1495148515,
@@ -139,7 +141,7 @@
         }
     ],
     "wof:id":1495148515,
-    "wof:lastmodified":1571393369,
+    "wof:lastmodified":1571679373,
     "wof:name":"Reine",
     "wof:parent_id":101814569,
     "wof:placetype":"neighbourhood",

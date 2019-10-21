@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297265,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"5f7bcb17998b1e6ca4a09b8b95144479",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297265,
             "locality_id":1193002711,
             "region_id":85687135
         }
     ],
     "wof:id":1193002711,
-    "wof:lastmodified":1571383974,
+    "wof:lastmodified":1571679220,
     "wof:name":"Troalia",
     "wof:parent_id":1159297265,
     "wof:placetype":"locality",

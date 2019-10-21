@@ -35,7 +35,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297039,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -46,15 +48,15 @@
     "wof:geomhash":"a08e7221e3f9ef8b4daa7554ed891190",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297039,
             "locality_id":1259477657,
             "region_id":85687135
         }
     ],
     "wof:id":1259477657,
-    "wof:lastmodified":1571391354,
+    "wof:lastmodified":1571679341,
     "wof:name":"Hattan",
     "wof:parent_id":1159297039,
     "wof:placetype":"locality",

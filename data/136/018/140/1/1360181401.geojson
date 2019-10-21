@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297331,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"8d520db9b62e50f6aae11dcee7b1cb68",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297331,
             "locality_id":1360181401,
             "region_id":85687135
         }
     ],
     "wof:id":1360181401,
-    "wof:lastmodified":1571385679,
+    "wof:lastmodified":1571679207,
     "wof:name":"Dragneset",
     "wof:parent_id":1159297331,
     "wof:placetype":"locality",

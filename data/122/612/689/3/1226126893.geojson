@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297465,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"e24e81cf6845b96dab0ff39e4b141a05",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297465,
             "locality_id":1226126893,
             "region_id":85687135
         }
     ],
     "wof:id":1226126893,
-    "wof:lastmodified":1571392516,
+    "wof:lastmodified":1571679260,
     "wof:name":"Bodogard",
     "wof:parent_id":1159297465,
     "wof:placetype":"locality",

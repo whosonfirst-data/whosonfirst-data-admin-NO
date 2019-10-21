@@ -42,7 +42,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296743,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -53,15 +55,15 @@
     "wof:geomhash":"5292329c8a034d297d9b78ccd15ea3bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296743,
             "locality_id":1225829677,
             "region_id":85687135
         }
     ],
     "wof:id":1225829677,
-    "wof:lastmodified":1571392815,
+    "wof:lastmodified":1571679334,
     "wof:name":"Stora",
     "wof:parent_id":1159296743,
     "wof:placetype":"locality",

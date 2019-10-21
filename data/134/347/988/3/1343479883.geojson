@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297087,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"d599254331412db8ea59d73cf6fd5a8c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297087,
             "locality_id":1343479883,
             "region_id":85687135
         }
     ],
     "wof:id":1343479883,
-    "wof:lastmodified":1571356737,
+    "wof:lastmodified":1571679296,
     "wof:name":"Loding",
     "wof:parent_id":1159297087,
     "wof:placetype":"locality",

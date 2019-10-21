@@ -49,7 +49,9 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159297039,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -63,15 +65,15 @@
     "wof:geomhash":"39934fc38516e0d7a5f79d1e72ba33ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297039,
             "locality_id":1125997413,
             "region_id":85687135
         }
     ],
     "wof:id":1125997413,
-    "wof:lastmodified":1571387640,
+    "wof:lastmodified":1571679270,
     "wof:name":"Eggum",
     "wof:parent_id":1159297039,
     "wof:placetype":"locality",

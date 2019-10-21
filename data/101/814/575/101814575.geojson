@@ -178,7 +178,9 @@
     "src:population":"geonames",
     "wd:wordcount":803,
     "wof:belongsto":[
+        102191581,
         1159297229,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -193,8 +195,8 @@
     "wof:geomhash":"6441f3642cb2276ff720cbaea732a404",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297229,
             "locality_id":101814575,
             "region_id":85687135
@@ -204,7 +206,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571386235,
+    "wof:lastmodified":1571679342,
     "wof:name":"Ballangen",
     "wof:parent_id":1159297229,
     "wof:placetype":"locality",

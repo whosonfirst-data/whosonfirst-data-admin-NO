@@ -38,7 +38,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297087,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -49,15 +51,15 @@
     "wof:geomhash":"ac39961c61d56d20418d37ca270ef35b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297087,
             "locality_id":1276975923,
             "region_id":85687135
         }
     ],
     "wof:id":1276975923,
-    "wof:lastmodified":1571382355,
+    "wof:lastmodified":1571679304,
     "wof:name":"Bjornvagen",
     "wof:parent_id":1159297087,
     "wof:placetype":"locality",

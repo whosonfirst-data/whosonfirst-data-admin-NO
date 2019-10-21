@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297539,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"f5efada6d174620f4824db29e9acc9e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297539,
             "locality_id":1225834817,
             "region_id":85687135
         }
     ],
     "wof:id":1225834817,
-    "wof:lastmodified":1571392863,
+    "wof:lastmodified":1571679229,
     "wof:name":"Lovik",
     "wof:parent_id":1159297539,
     "wof:placetype":"locality",

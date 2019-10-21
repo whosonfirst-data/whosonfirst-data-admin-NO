@@ -38,7 +38,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297087,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -49,15 +51,15 @@
     "wof:geomhash":"7d25d293396b167eaa5a4f6bf158d88e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297087,
             "locality_id":1344153289,
             "region_id":85687135
         }
     ],
     "wof:id":1344153289,
-    "wof:lastmodified":1571356378,
+    "wof:lastmodified":1571679366,
     "wof:name":"Sommarsel",
     "wof:parent_id":1159297087,
     "wof:placetype":"locality",

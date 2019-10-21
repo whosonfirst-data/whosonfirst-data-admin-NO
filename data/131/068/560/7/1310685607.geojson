@@ -92,7 +92,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297235,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -103,15 +105,15 @@
     "wof:geomhash":"6ffbfd02ff812671a85e6bc94162281b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297235,
             "locality_id":1310685607,
             "region_id":85687135
         }
     ],
     "wof:id":1310685607,
-    "wof:lastmodified":1571385354,
+    "wof:lastmodified":1571679302,
     "wof:name":"Obo",
     "wof:parent_id":1159297235,
     "wof:placetype":"locality",

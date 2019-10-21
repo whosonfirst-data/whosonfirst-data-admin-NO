@@ -37,6 +37,7 @@
     "wof:belongsto":[
         102191581,
         1159297113,
+        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -49,14 +50,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":-1,
+            "country_id":85633341,
             "localadmin_id":1159297113,
             "locality_id":101803845,
             "region_id":85687085
         }
     ],
     "wof:id":101803845,
-    "wof:lastmodified":1571385971,
+    "wof:lastmodified":1571679434,
     "wof:name":"F\u00f8rdesfjorden",
     "wof:parent_id":1159297113,
     "wof:placetype":"locality",

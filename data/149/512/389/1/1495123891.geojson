@@ -28,6 +28,7 @@
     "wof:belongsto":[
         102191581,
         1159297381,
+        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -36,14 +37,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":-1,
+            "country_id":85633341,
             "localadmin_id":1159297381,
             "locality_id":1495123891,
             "region_id":85687085
         }
     ],
     "wof:id":1495123891,
-    "wof:lastmodified":1571394001,
+    "wof:lastmodified":1571679495,
     "wof:name":"Orstad",
     "wof:parent_id":1159297381,
     "wof:placetype":"locality",

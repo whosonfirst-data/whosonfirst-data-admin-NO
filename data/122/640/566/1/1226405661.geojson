@@ -31,7 +31,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297273,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -42,15 +44,15 @@
     "wof:geomhash":"a3625b13642fe29aa9f3fb2b4d172f77",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297273,
             "locality_id":1226405661,
             "region_id":85687135
         }
     ],
     "wof:id":1226405661,
-    "wof:lastmodified":1571392451,
+    "wof:lastmodified":1571679257,
     "wof:name":"Roykenes",
     "wof:parent_id":1159297273,
     "wof:placetype":"locality",

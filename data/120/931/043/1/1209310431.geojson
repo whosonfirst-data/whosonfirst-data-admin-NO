@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297611,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"097ed0efa674bda6c04d0684b5c70943",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297611,
             "locality_id":1209310431,
             "region_id":85687135
         }
     ],
     "wof:id":1209310431,
-    "wof:lastmodified":1571382719,
+    "wof:lastmodified":1571679261,
     "wof:name":"Kvalvik",
     "wof:parent_id":1159297611,
     "wof:placetype":"locality",

@@ -269,7 +269,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297007,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -280,15 +282,15 @@
     "wof:geomhash":"ccec3b6107f6c264e66a7be7cbb14e68",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297007,
             "locality_id":1209905923,
             "region_id":85687135
         }
     ],
     "wof:id":1209905923,
-    "wof:lastmodified":1571382964,
+    "wof:lastmodified":1571679245,
     "wof:name":"Lund",
     "wof:parent_id":1159297007,
     "wof:placetype":"locality",

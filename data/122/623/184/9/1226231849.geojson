@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297087,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"8b03eb258762ce6f1d893bd4c81b81ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297087,
             "locality_id":1226231849,
             "region_id":85687135
         }
     ],
     "wof:id":1226231849,
-    "wof:lastmodified":1571392501,
+    "wof:lastmodified":1571679251,
     "wof:name":"Hellandsasen",
     "wof:parent_id":1159297087,
     "wof:placetype":"locality",

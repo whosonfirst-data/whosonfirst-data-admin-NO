@@ -91,6 +91,7 @@
     "wof:belongsto":[
         102191581,
         1159296919,
+        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -102,14 +103,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":-1,
+            "country_id":85633341,
             "localadmin_id":1159296919,
             "locality_id":1276840991,
             "region_id":85687085
         }
     ],
     "wof:id":1276840991,
-    "wof:lastmodified":1571382246,
+    "wof:lastmodified":1571679465,
     "wof:name":"Strand",
     "wof:parent_id":1159296919,
     "wof:placetype":"locality",

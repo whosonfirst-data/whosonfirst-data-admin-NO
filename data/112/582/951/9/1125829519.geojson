@@ -44,7 +44,9 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159296963,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -57,15 +59,15 @@
     "wof:geomhash":"bad895a896bf81830116cfda457c5cfb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296963,
             "locality_id":1125829519,
             "region_id":85687135
         }
     ],
     "wof:id":1125829519,
-    "wof:lastmodified":1571388178,
+    "wof:lastmodified":1571679218,
     "wof:name":"Stodi",
     "wof:parent_id":1159296963,
     "wof:placetype":"locality",

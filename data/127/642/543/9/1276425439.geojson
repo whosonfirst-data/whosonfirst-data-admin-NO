@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296963,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"42eeca1e323c2bb643a07605ab5a8399",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296963,
             "locality_id":1276425439,
             "region_id":85687135
         }
     ],
     "wof:id":1276425439,
-    "wof:lastmodified":1571381598,
+    "wof:lastmodified":1571679351,
     "wof:name":"Almlia",
     "wof:parent_id":1159296963,
     "wof:placetype":"locality",

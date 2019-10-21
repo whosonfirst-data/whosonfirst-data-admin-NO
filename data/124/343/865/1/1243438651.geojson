@@ -66,7 +66,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296743,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -77,15 +79,15 @@
     "wof:geomhash":"965d4f91677f7be99d8d545270f50b00",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296743,
             "locality_id":1243438651,
             "region_id":85687135
         }
     ],
     "wof:id":1243438651,
-    "wof:lastmodified":1571391028,
+    "wof:lastmodified":1571679283,
     "wof:name":"Hauknes",
     "wof:parent_id":1159296743,
     "wof:placetype":"locality",

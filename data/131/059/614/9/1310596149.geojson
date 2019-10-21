@@ -50,7 +50,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296909,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -61,15 +63,15 @@
     "wof:geomhash":"c8f8b8615cbc77cc8c9074f451267d83",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296909,
             "locality_id":1310596149,
             "region_id":85687135
         }
     ],
     "wof:id":1310596149,
-    "wof:lastmodified":1571385309,
+    "wof:lastmodified":1571679300,
     "wof:name":"Reppen",
     "wof:parent_id":1159296909,
     "wof:placetype":"locality",

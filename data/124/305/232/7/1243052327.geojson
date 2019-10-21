@@ -35,7 +35,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296695,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -46,15 +48,15 @@
     "wof:geomhash":"9e8ade55824190bfab76b26df610da03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296695,
             "locality_id":1243052327,
             "region_id":85687135
         }
     ],
     "wof:id":1243052327,
-    "wof:lastmodified":1571390671,
+    "wof:lastmodified":1571679247,
     "wof:name":"Svartmarka",
     "wof:parent_id":1159296695,
     "wof:placetype":"locality",

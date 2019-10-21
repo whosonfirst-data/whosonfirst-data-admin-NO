@@ -38,7 +38,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297087,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -49,15 +51,15 @@
     "wof:geomhash":"4fdaf03e200d757469d598127d2077fb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297087,
             "locality_id":1276975861,
             "region_id":85687135
         }
     ],
     "wof:id":1276975861,
-    "wof:lastmodified":1571382365,
+    "wof:lastmodified":1571679313,
     "wof:name":"Skilvassbakk",
     "wof:parent_id":1159297087,
     "wof:placetype":"locality",

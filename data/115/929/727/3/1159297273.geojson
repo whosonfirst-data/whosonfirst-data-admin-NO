@@ -139,6 +139,8 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        102191581,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -148,14 +150,14 @@
     "wof:geomhash":"32d40fa190729c5abd60ce30ac65a09f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297273,
             "region_id":85687135
         }
     ],
     "wof:id":1159297273,
-    "wof:lastmodified":1571389927,
+    "wof:lastmodified":1571679197,
     "wof:name":"Sortland",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

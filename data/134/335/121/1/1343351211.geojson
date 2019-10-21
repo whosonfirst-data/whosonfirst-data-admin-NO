@@ -44,7 +44,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297445,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -56,15 +58,15 @@
     "wof:geomhash":"abc18a44c671faa487333f3eee754266",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297445,
             "locality_id":1343351211,
             "region_id":85687135
         }
     ],
     "wof:id":1343351211,
-    "wof:lastmodified":1571356896,
+    "wof:lastmodified":1571679367,
     "wof:name":"Traelnes",
     "wof:parent_id":1159297445,
     "wof:placetype":"locality",

@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296883,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"148a7b18d6ba91779306596d6c07ac9c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296883,
             "locality_id":1344041947,
             "region_id":85687135
         }
     ],
     "wof:id":1344041947,
-    "wof:lastmodified":1571357135,
+    "wof:lastmodified":1571679306,
     "wof:name":"Vestpollen",
     "wof:parent_id":1159296883,
     "wof:placetype":"locality",

@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296743,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"0dde6811256e2630a6e5febd4a2283fb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296743,
             "locality_id":1310001879,
             "region_id":85687135
         }
     ],
     "wof:id":1310001879,
-    "wof:lastmodified":1571384916,
+    "wof:lastmodified":1571679344,
     "wof:name":"Budalen",
     "wof:parent_id":1159296743,
     "wof:placetype":"locality",

@@ -33,7 +33,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         85687135,
+        102191581,
         1159296803,
+        85633341,
         101814577
     ],
     "wof:breaches":[],
@@ -45,8 +47,8 @@
     "wof:geomhash":"e19ad00e8e81efd289614b885704de04",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296803,
             "locality_id":101814577,
             "neighbourhood_id":1495149267,
@@ -54,7 +56,7 @@
         }
     ],
     "wof:id":1495149267,
-    "wof:lastmodified":1571393882,
+    "wof:lastmodified":1571679376,
     "wof:name":"Grav",
     "wof:parent_id":101814577,
     "wof:placetype":"neighbourhood",

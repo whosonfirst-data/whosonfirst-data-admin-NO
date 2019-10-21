@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297039,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"3f5464dba8fdc6a93a842fd742c77031",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297039,
             "locality_id":1326614611,
             "region_id":85687135
         }
     ],
     "wof:id":1326614611,
-    "wof:lastmodified":1571355169,
+    "wof:lastmodified":1571679282,
     "wof:name":"Oppdol",
     "wof:parent_id":1159297039,
     "wof:placetype":"locality",

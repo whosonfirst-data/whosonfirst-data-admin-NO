@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297039,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"c22506680e8a3e12797896de42cde9cf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297039,
             "locality_id":1326519863,
             "region_id":85687135
         }
     ],
     "wof:id":1326519863,
-    "wof:lastmodified":1571355024,
+    "wof:lastmodified":1571679280,
     "wof:name":"Skifjorden",
     "wof:parent_id":1159297039,
     "wof:placetype":"locality",

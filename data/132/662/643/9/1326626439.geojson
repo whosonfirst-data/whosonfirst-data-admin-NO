@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296997,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"c80976362439ca58b9003e8c636b2d94",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296997,
             "locality_id":1326626439,
             "region_id":85687135
         }
     ],
     "wof:id":1326626439,
-    "wof:lastmodified":1571355780,
+    "wof:lastmodified":1571679287,
     "wof:name":"Kringla",
     "wof:parent_id":1159296997,
     "wof:placetype":"locality",

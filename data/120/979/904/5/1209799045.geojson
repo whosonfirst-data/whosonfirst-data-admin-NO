@@ -39,6 +39,7 @@
     "wof:belongsto":[
         102191581,
         1159297357,
+        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -50,14 +51,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":-1,
+            "country_id":85633341,
             "localadmin_id":1159297357,
             "locality_id":1209799045,
             "region_id":85687085
         }
     ],
     "wof:id":1209799045,
-    "wof:lastmodified":1571383119,
+    "wof:lastmodified":1571679450,
     "wof:name":"Ytre Bo",
     "wof:parent_id":1159297357,
     "wof:placetype":"locality",

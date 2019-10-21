@@ -122,7 +122,9 @@
     "wd:longitude":12.633333,
     "wd:wordcount":282,
     "wof:belongsto":[
+        102191581,
         1159297007,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -138,8 +140,8 @@
     "wof:geomhash":"10cab5495ffca9710f891281e13d0011",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297007,
             "locality_id":101814643,
             "region_id":85687135
@@ -149,7 +151,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571386212,
+    "wof:lastmodified":1571679265,
     "wof:name":"Sandnessj\u00f8en",
     "wof:parent_id":1159297007,
     "wof:placetype":"locality",

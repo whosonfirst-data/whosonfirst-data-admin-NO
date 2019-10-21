@@ -38,7 +38,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297343,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -49,15 +51,15 @@
     "wof:geomhash":"8a4fe6ae5518c7787d3c63b2cc2885aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297343,
             "locality_id":1242762141,
             "region_id":85687135
         }
     ],
     "wof:id":1242762141,
-    "wof:lastmodified":1571390781,
+    "wof:lastmodified":1571679263,
     "wof:name":"Hopen",
     "wof:parent_id":1159297343,
     "wof:placetype":"locality",

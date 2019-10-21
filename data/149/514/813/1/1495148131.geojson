@@ -36,7 +36,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         85687135,
+        102191581,
         1159296877,
+        85633341,
         101814645
     ],
     "wof:breaches":[],
@@ -47,8 +49,8 @@
     "wof:geomhash":"a1820ac34a6814f11cf6a16f1653bdff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296877,
             "locality_id":101814645,
             "neighbourhood_id":1495148131,
@@ -56,7 +58,7 @@
         }
     ],
     "wof:id":1495148131,
-    "wof:lastmodified":1571393709,
+    "wof:lastmodified":1571679375,
     "wof:name":"Dalenget",
     "wof:parent_id":101814645,
     "wof:placetype":"neighbourhood",

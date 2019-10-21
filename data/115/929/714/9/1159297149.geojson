@@ -81,6 +81,8 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        102191581,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -90,14 +92,14 @@
     "wof:geomhash":"ce181fea0071c03a3276b5f4c27e9d7a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297149,
             "region_id":85687135
         }
     ],
     "wof:id":1159297149,
-    "wof:lastmodified":1571389116,
+    "wof:lastmodified":1571679201,
     "wof:name":"Donna",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

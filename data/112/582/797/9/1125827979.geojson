@@ -44,7 +44,9 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159297465,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -57,15 +59,15 @@
     "wof:geomhash":"593ff0ff54faf105f63528cf053da347",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297465,
             "locality_id":1125827979,
             "region_id":85687135
         }
     ],
     "wof:id":1125827979,
-    "wof:lastmodified":1571388100,
+    "wof:lastmodified":1571679213,
     "wof:name":"Geitvagen",
     "wof:parent_id":1159297465,
     "wof:placetype":"locality",

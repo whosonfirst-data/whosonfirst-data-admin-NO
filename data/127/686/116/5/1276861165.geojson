@@ -35,7 +35,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297203,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -46,15 +48,15 @@
     "wof:geomhash":"fe2c6e5db0da03aa0d50b0cf30daa260",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297203,
             "locality_id":1276861165,
             "region_id":85687135
         }
     ],
     "wof:id":1276861165,
-    "wof:lastmodified":1571381428,
+    "wof:lastmodified":1571679296,
     "wof:name":"Sor-Skjomen",
     "wof:parent_id":1159297203,
     "wof:placetype":"locality",

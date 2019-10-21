@@ -49,7 +49,9 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159297331,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -63,15 +65,15 @@
     "wof:geomhash":"c6b5dddce21bb925293c472fb0351c10",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297331,
             "locality_id":1125881603,
             "region_id":85687135
         }
     ],
     "wof:id":1125881603,
-    "wof:lastmodified":1571387348,
+    "wof:lastmodified":1571679351,
     "wof:name":"Her\u00f8yholmen",
     "wof:parent_id":1159297331,
     "wof:placetype":"locality",

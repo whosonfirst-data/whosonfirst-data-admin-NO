@@ -36,6 +36,8 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        102191581,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -45,14 +47,14 @@
     "wof:geomhash":"84303ddfc7df753d9cd4ff72ddd791a1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297331,
             "region_id":85687135
         }
     ],
     "wof:id":1159297331,
-    "wof:lastmodified":1571389315,
+    "wof:lastmodified":1571679197,
     "wof:name":"Heroy",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

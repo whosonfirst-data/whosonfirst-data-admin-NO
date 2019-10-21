@@ -36,7 +36,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296951,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -47,15 +49,15 @@
     "wof:geomhash":"4916293ceb28f5c4ef550fbf8f564a2c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296951,
             "locality_id":1327252475,
             "region_id":85687135
         }
     ],
     "wof:id":1327252475,
-    "wof:lastmodified":1571355248,
+    "wof:lastmodified":1571679316,
     "wof:name":"Forra",
     "wof:parent_id":1159296951,
     "wof:placetype":"locality",

@@ -35,7 +35,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296951,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -46,15 +48,15 @@
     "wof:geomhash":"fbf000245c83bd4f529fd32cf66f88dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296951,
             "locality_id":1260375109,
             "region_id":85687135
         }
     ],
     "wof:id":1260375109,
-    "wof:lastmodified":1571384460,
+    "wof:lastmodified":1571679266,
     "wof:name":"Varivuolli",
     "wof:parent_id":1159296951,
     "wof:placetype":"locality",

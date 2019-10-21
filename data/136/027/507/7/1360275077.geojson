@@ -36,7 +36,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297203,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -47,15 +49,15 @@
     "wof:geomhash":"ae5369d61432ae53916d5655681d995d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297203,
             "locality_id":1360275077,
             "region_id":85687135
         }
     ],
     "wof:id":1360275077,
-    "wof:lastmodified":1571385664,
+    "wof:lastmodified":1571679211,
     "wof:name":"Nygard",
     "wof:parent_id":1159297203,
     "wof:placetype":"locality",

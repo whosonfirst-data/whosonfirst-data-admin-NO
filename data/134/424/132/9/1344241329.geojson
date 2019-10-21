@@ -38,7 +38,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297203,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -49,15 +51,15 @@
     "wof:geomhash":"e57f795cfd7e4146c5572e76282f2991",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297203,
             "locality_id":1344241329,
             "region_id":85687135
         }
     ],
     "wof:id":1344241329,
-    "wof:lastmodified":1571356406,
+    "wof:lastmodified":1571679303,
     "wof:name":"Oyjorda",
     "wof:parent_id":1159297203,
     "wof:placetype":"locality",

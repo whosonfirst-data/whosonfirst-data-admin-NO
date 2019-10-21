@@ -136,6 +136,8 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        102191581,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -145,14 +147,14 @@
     "wof:geomhash":"0c24da3e1bb9e3cadb3e99ebac3fe7df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297109,
             "region_id":85687135
         }
     ],
     "wof:id":1159297109,
-    "wof:lastmodified":1571389824,
+    "wof:lastmodified":1571679195,
     "wof:name":"Tysfjord",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

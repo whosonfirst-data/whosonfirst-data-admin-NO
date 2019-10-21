@@ -62,7 +62,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297093,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -73,15 +75,15 @@
     "wof:geomhash":"26d40c4b12d39eefbd0684d84ad53f00",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297093,
             "locality_id":1225940785,
             "region_id":85687135
         }
     ],
     "wof:id":1225940785,
-    "wof:lastmodified":1571391792,
+    "wof:lastmodified":1571679239,
     "wof:name":"Fore",
     "wof:parent_id":1159297093,
     "wof:placetype":"locality",

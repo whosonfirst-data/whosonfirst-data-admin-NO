@@ -165,7 +165,9 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":461,
     "wof:belongsto":[
+        102191581,
         1159297409,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -180,8 +182,8 @@
     "wof:geomhash":"d62e4f6fe92e41cab436ea9ac0c5ab02",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297409,
             "locality_id":101814583,
             "region_id":85687135
@@ -191,7 +193,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571386290,
+    "wof:lastmodified":1571679370,
     "wof:name":"Hattfjelldal",
     "wof:parent_id":1159297409,
     "wof:placetype":"locality",

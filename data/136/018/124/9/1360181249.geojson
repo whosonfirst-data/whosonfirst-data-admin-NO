@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296877,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"6b17b9bf87d723bca692c4ba849ea7ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296877,
             "locality_id":1360181249,
             "region_id":85687135
         }
     ],
     "wof:id":1360181249,
-    "wof:lastmodified":1571385677,
+    "wof:lastmodified":1571679207,
     "wof:name":"Holandsvika",
     "wof:parent_id":1159296877,
     "wof:placetype":"locality",

@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297087,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"e9a78cb5a2c9b66f8edcd4ff799334d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297087,
             "locality_id":1310590859,
             "region_id":85687135
         }
     ],
     "wof:id":1310590859,
-    "wof:lastmodified":1571385298,
+    "wof:lastmodified":1571679289,
     "wof:name":"Brennvik",
     "wof:parent_id":1159297087,
     "wof:placetype":"locality",

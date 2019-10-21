@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297331,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"6ee40b5cbd3059233ec62537d0fe5be1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297331,
             "locality_id":1226739511,
             "region_id":85687135
         }
     ],
     "wof:id":1226739511,
-    "wof:lastmodified":1571392035,
+    "wof:lastmodified":1571679261,
     "wof:name":"Nyheim",
     "wof:parent_id":1159297331,
     "wof:placetype":"locality",

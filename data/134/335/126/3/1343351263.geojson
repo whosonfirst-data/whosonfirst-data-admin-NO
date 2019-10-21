@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296959,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"ab07aa89905db995f8ee98a658bd6553",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296959,
             "locality_id":1343351263,
             "region_id":85687135
         }
     ],
     "wof:id":1343351263,
-    "wof:lastmodified":1571356896,
+    "wof:lastmodified":1571679277,
     "wof:name":"Leirfjordgard",
     "wof:parent_id":1159296959,
     "wof:placetype":"locality",

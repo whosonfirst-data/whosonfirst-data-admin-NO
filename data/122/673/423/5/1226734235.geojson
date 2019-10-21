@@ -38,7 +38,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296769,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -49,15 +51,15 @@
     "wof:geomhash":"c839716e6d96f8cd109fcd34f2d3296b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296769,
             "locality_id":1226734235,
             "region_id":85687135
         }
     ],
     "wof:id":1226734235,
-    "wof:lastmodified":1571392027,
+    "wof:lastmodified":1571679256,
     "wof:name":"Skoltenes",
     "wof:parent_id":1159296769,
     "wof:placetype":"locality",

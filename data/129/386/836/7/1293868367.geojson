@@ -36,7 +36,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296695,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -47,15 +49,15 @@
     "wof:geomhash":"0e09481d5b882980f4d07ed5fcabfb89",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296695,
             "locality_id":1293868367,
             "region_id":85687135
         }
     ],
     "wof:id":1293868367,
-    "wof:lastmodified":1571381302,
+    "wof:lastmodified":1571679325,
     "wof:name":"Olderneset",
     "wof:parent_id":1159296695,
     "wof:placetype":"locality",

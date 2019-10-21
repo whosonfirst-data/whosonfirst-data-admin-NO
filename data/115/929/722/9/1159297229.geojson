@@ -130,6 +130,8 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        102191581,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -139,14 +141,14 @@
     "wof:geomhash":"9cc7340cff2697746e50772794f9defe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297229,
             "region_id":85687135
         }
     ],
     "wof:id":1159297229,
-    "wof:lastmodified":1571389077,
+    "wof:lastmodified":1571679196,
     "wof:name":"Ballangen",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

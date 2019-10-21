@@ -34,6 +34,7 @@
     "wof:belongsto":[
         102191581,
         1159296919,
+        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -45,14 +46,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":-1,
+            "country_id":85633341,
             "localadmin_id":1159296919,
             "locality_id":1293867489,
             "region_id":85687085
         }
     ],
     "wof:id":1293867489,
-    "wof:lastmodified":1571381285,
+    "wof:lastmodified":1571679473,
     "wof:name":"Sjurseikje",
     "wof:parent_id":1159296919,
     "wof:placetype":"locality",

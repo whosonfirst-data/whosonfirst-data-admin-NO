@@ -38,7 +38,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296809,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -49,15 +51,15 @@
     "wof:geomhash":"12a9d2beb9e63824a2b406cc349a8544",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296809,
             "locality_id":1326614523,
             "region_id":85687135
         }
     ],
     "wof:id":1326614523,
-    "wof:lastmodified":1571355155,
+    "wof:lastmodified":1571679278,
     "wof:name":"Myken",
     "wof:parent_id":1159296809,
     "wof:placetype":"locality",

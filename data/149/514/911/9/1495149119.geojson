@@ -38,7 +38,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         85687135,
+        102191581,
         1159296963,
+        85633341,
         101814635
     ],
     "wof:breaches":[],
@@ -49,8 +51,8 @@
     "wof:geomhash":"ce8fb45b2f21edc76fa85c7db8c7d856",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296963,
             "locality_id":101814635,
             "neighbourhood_id":1495149119,
@@ -58,7 +60,7 @@
         }
     ],
     "wof:id":1495149119,
-    "wof:lastmodified":1571393830,
+    "wof:lastmodified":1571679376,
     "wof:name":"Aenget",
     "wof:parent_id":101814635,
     "wof:placetype":"neighbourhood",

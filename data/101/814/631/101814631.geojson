@@ -80,7 +80,9 @@
     "src:population":"geonames",
     "wd:wordcount":283,
     "wof:belongsto":[
+        102191581,
         1159297093,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -95,15 +97,15 @@
     "wof:geomhash":"64c64fbfc8596eb07a0a6d0555bf71bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297093,
             "locality_id":101814631,
             "region_id":85687135
         }
     ],
     "wof:id":101814631,
-    "wof:lastmodified":1571386279,
+    "wof:lastmodified":1571679206,
     "wof:name":"Glomfjord",
     "wof:parent_id":1159297093,
     "wof:placetype":"locality",

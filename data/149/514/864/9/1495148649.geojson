@@ -51,7 +51,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         85687135,
+        102191581,
         1159297445,
+        85633341,
         101814647
     ],
     "wof:breaches":[],
@@ -62,8 +64,8 @@
     "wof:geomhash":"96e907d1c5623d25e9c123e64b2e4e3b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297445,
             "locality_id":101814647,
             "neighbourhood_id":1495148649,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1495148649,
-    "wof:lastmodified":1571393816,
+    "wof:lastmodified":1571679376,
     "wof:name":"Tautra",
     "wof:parent_id":101814647,
     "wof:placetype":"neighbourhood",

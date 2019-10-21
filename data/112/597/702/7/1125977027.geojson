@@ -67,7 +67,9 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159297417,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -81,15 +83,15 @@
     "wof:geomhash":"40348bb3c5df5abcd1e7844349f4d3ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297417,
             "locality_id":1125977027,
             "region_id":85687135
         }
     ],
     "wof:id":1125977027,
-    "wof:lastmodified":1571387740,
+    "wof:lastmodified":1571679230,
     "wof:name":"Straumsnes",
     "wof:parent_id":1159297417,
     "wof:placetype":"locality",

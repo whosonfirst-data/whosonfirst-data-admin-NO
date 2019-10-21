@@ -48,7 +48,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297273,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -59,15 +61,15 @@
     "wof:geomhash":"79c9146233296fd936377a052b4b7692",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297273,
             "locality_id":1293289127,
             "region_id":85687135
         }
     ],
     "wof:id":1293289127,
-    "wof:lastmodified":1571381107,
+    "wof:lastmodified":1571679289,
     "wof:name":"Bremnes",
     "wof:parent_id":1159297273,
     "wof:placetype":"locality",

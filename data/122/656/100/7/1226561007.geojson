@@ -38,7 +38,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296769,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -49,15 +51,15 @@
     "wof:geomhash":"163918b62ad0d8623d4bef411722001d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296769,
             "locality_id":1226561007,
             "region_id":85687135
         }
     ],
     "wof:id":1226561007,
-    "wof:lastmodified":1571392171,
+    "wof:lastmodified":1571679253,
     "wof:name":"Ramsvika",
     "wof:parent_id":1159296769,
     "wof:placetype":"locality",

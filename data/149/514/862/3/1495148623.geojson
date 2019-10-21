@@ -135,7 +135,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         85687135,
+        102191581,
         1159297115,
+        85633341,
         101814627
     ],
     "wof:breaches":[],
@@ -148,8 +150,8 @@
     "wof:geomhash":"ee85f9e04d0333d68451bbafcfa6c0a3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297115,
             "locality_id":101814627,
             "neighbourhood_id":1495148623,
@@ -157,7 +159,7 @@
         }
     ],
     "wof:id":1495148623,
-    "wof:lastmodified":1571393753,
+    "wof:lastmodified":1571679375,
     "wof:name":"Saltdal",
     "wof:parent_id":101814627,
     "wof:placetype":"neighbourhood",

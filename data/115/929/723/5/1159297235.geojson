@@ -130,6 +130,8 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        102191581,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -139,14 +141,14 @@
     "wof:geomhash":"eadb3527dde8e31b52ec082fdf737b38",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297235,
             "region_id":85687135
         }
     ],
     "wof:id":1159297235,
-    "wof:lastmodified":1571389209,
+    "wof:lastmodified":1571679201,
     "wof:name":"Nesna",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

@@ -55,7 +55,9 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159296883,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -69,15 +71,15 @@
     "wof:geomhash":"803eab57097039e190960db2f71c0363",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296883,
             "locality_id":1125939967,
             "region_id":85687135
         }
     ],
     "wof:id":1125939967,
-    "wof:lastmodified":1571386790,
+    "wof:lastmodified":1571679203,
     "wof:name":"Hopen",
     "wof:parent_id":1159296883,
     "wof:placetype":"locality",

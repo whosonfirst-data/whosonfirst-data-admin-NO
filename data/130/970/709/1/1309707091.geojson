@@ -67,7 +67,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297059,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -78,15 +80,15 @@
     "wof:geomhash":"e360fcf2657a04544b9353159bd49b96",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297059,
             "locality_id":1309707091,
             "region_id":85687135
         }
     ],
     "wof:id":1309707091,
-    "wof:lastmodified":1571386449,
+    "wof:lastmodified":1571679338,
     "wof:name":"Andalen",
     "wof:parent_id":1159297059,
     "wof:placetype":"locality",

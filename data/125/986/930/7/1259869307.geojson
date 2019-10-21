@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297273,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"29dfaa7f7c2b86b21cd15fa0e11f807f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297273,
             "locality_id":1259869307,
             "region_id":85687135
         }
     ],
     "wof:id":1259869307,
-    "wof:lastmodified":1571391770,
+    "wof:lastmodified":1571679309,
     "wof:name":"Hognfjord",
     "wof:parent_id":1159297273,
     "wof:placetype":"locality",

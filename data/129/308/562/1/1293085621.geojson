@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296743,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"2e2277f09cdfbf8f52c1e18d7cc955a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296743,
             "locality_id":1293085621,
             "region_id":85687135
         }
     ],
     "wof:id":1293085621,
-    "wof:lastmodified":1571380246,
+    "wof:lastmodified":1571679356,
     "wof:name":"Kvalsoy",
     "wof:parent_id":1159296743,
     "wof:placetype":"locality",

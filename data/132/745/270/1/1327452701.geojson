@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296959,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"67cc9ccd103324223a035be05e834a01",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296959,
             "locality_id":1327452701,
             "region_id":85687135
         }
     ],
     "wof:id":1327452701,
-    "wof:lastmodified":1571355953,
+    "wof:lastmodified":1571679365,
     "wof:name":"Sorfjordskardet",
     "wof:parent_id":1159296959,
     "wof:placetype":"locality",

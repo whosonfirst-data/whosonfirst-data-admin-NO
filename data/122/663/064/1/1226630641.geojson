@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297235,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"a33cab8df30372612a554e0c4ef5051c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297235,
             "locality_id":1226630641,
             "region_id":85687135
         }
     ],
     "wof:id":1226630641,
-    "wof:lastmodified":1571392641,
+    "wof:lastmodified":1571679252,
     "wof:name":"Reksa",
     "wof:parent_id":1159297235,
     "wof:placetype":"locality",

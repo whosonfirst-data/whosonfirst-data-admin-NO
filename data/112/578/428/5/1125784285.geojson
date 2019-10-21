@@ -73,7 +73,9 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297535,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -87,15 +89,15 @@
     "wof:geomhash":"0f96867f8f8b9a15cd395c23ccdc0767",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297535,
             "locality_id":1125784285,
             "region_id":85687135
         }
     ],
     "wof:id":1125784285,
-    "wof:lastmodified":1571388372,
+    "wof:lastmodified":1571679210,
     "wof:name":"Leland",
     "wof:parent_id":1159297535,
     "wof:placetype":"locality",

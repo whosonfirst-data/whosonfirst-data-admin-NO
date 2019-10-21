@@ -41,7 +41,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297571,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -53,15 +55,15 @@
     "wof:geomhash":"bf0b0701fba1a76dfdd9a73051118ca6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297571,
             "locality_id":1225940843,
             "region_id":85687135
         }
     ],
     "wof:id":1225940843,
-    "wof:lastmodified":1571391791,
+    "wof:lastmodified":1571679239,
     "wof:name":"Leiren",
     "wof:parent_id":1159297571,
     "wof:placetype":"locality",

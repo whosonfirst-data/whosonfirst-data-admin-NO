@@ -38,7 +38,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296743,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -49,15 +51,15 @@
     "wof:geomhash":"dc74a536f25841a606254640a1015f76",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296743,
             "locality_id":1327128625,
             "region_id":85687135
         }
     ],
     "wof:id":1327128625,
-    "wof:lastmodified":1571355350,
+    "wof:lastmodified":1571679332,
     "wof:name":"Vassvika",
     "wof:parent_id":1159296743,
     "wof:placetype":"locality",

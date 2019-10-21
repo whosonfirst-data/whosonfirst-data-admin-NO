@@ -45,7 +45,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297361,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -56,15 +58,15 @@
     "wof:geomhash":"5c4fcac15a57ad859b9caad933ce8451",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297361,
             "locality_id":1326920077,
             "region_id":85687135
         }
     ],
     "wof:id":1326920077,
-    "wof:lastmodified":1571355121,
+    "wof:lastmodified":1571679321,
     "wof:name":"Bukta",
     "wof:parent_id":1159297361,
     "wof:placetype":"locality",

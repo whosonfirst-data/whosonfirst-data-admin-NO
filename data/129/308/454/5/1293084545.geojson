@@ -39,6 +39,7 @@
     "wof:belongsto":[
         102191581,
         1159296707,
+        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -50,14 +51,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":-1,
+            "country_id":85633341,
             "localadmin_id":1159296707,
             "locality_id":1293084545,
             "region_id":85687085
         }
     ],
     "wof:id":1293084545,
-    "wof:lastmodified":1571380245,
+    "wof:lastmodified":1571679482,
     "wof:name":"Eikjeland",
     "wof:parent_id":1159296707,
     "wof:placetype":"locality",

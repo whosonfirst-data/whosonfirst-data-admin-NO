@@ -34,6 +34,7 @@
     "wof:belongsto":[
         102191581,
         1159296709,
+        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -45,14 +46,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":-1,
+            "country_id":85633341,
             "localadmin_id":1159296709,
             "locality_id":1277046373,
             "region_id":85687085
         }
     ],
     "wof:id":1277046373,
-    "wof:lastmodified":1571382028,
+    "wof:lastmodified":1571679465,
     "wof:name":"Halseid",
     "wof:parent_id":1159296709,
     "wof:placetype":"locality",

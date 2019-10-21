@@ -39,7 +39,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         85687135,
+        102191581,
         1159296803,
+        85633341,
         101814577
     ],
     "wof:breaches":[],
@@ -50,8 +52,8 @@
     "wof:geomhash":"f57ba90f4e00a273d2076d4eaef76886",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296803,
             "locality_id":101814577,
             "neighbourhood_id":1495148651,
@@ -59,7 +61,7 @@
         }
     ],
     "wof:id":1495148651,
-    "wof:lastmodified":1571393757,
+    "wof:lastmodified":1571679375,
     "wof:name":"Rost",
     "wof:parent_id":101814577,
     "wof:placetype":"neighbourhood",

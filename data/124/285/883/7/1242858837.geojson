@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296695,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"7b7f936ee5331f60478e229af4329e8c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296695,
             "locality_id":1242858837,
             "region_id":85687135
         }
     ],
     "wof:id":1242858837,
-    "wof:lastmodified":1571390806,
+    "wof:lastmodified":1571679241,
     "wof:name":"Hemnesbruket",
     "wof:parent_id":1159296695,
     "wof:placetype":"locality",

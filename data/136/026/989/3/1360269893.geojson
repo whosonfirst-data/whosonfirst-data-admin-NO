@@ -35,7 +35,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297093,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -46,15 +48,15 @@
     "wof:geomhash":"8306766da7d0cb81a37c8224335ae84e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297093,
             "locality_id":1360269893,
             "region_id":85687135
         }
     ],
     "wof:id":1360269893,
-    "wof:lastmodified":1571385795,
+    "wof:lastmodified":1571679219,
     "wof:name":"Sorsjoen",
     "wof:parent_id":1159297093,
     "wof:placetype":"locality",

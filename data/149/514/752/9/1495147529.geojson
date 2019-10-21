@@ -69,7 +69,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         85687135,
+        102191581,
         1159297039,
+        85633341,
         101814611
     ],
     "wof:breaches":[],
@@ -80,8 +82,8 @@
     "wof:geomhash":"9f0d17a3604f226ac1d1e4a101267c3d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297039,
             "locality_id":101814611,
             "neighbourhood_id":1495147529,
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":1495147529,
-    "wof:lastmodified":1571393109,
+    "wof:lastmodified":1571679370,
     "wof:name":"Helle",
     "wof:parent_id":101814611,
     "wof:placetype":"neighbourhood",

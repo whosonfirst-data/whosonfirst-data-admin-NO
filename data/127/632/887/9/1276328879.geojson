@@ -71,7 +71,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297109,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -82,15 +84,15 @@
     "wof:geomhash":"ddcbba5011de438a8b440245ff71f3f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297109,
             "locality_id":1276328879,
             "region_id":85687135
         }
     ],
     "wof:id":1276328879,
-    "wof:lastmodified":1571381850,
+    "wof:lastmodified":1571679288,
     "wof:name":"Helland",
     "wof:parent_id":1159297109,
     "wof:placetype":"locality",

@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296877,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"7c0a08f86dfd332254576dd576d345d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296877,
             "locality_id":1276221659,
             "region_id":85687135
         }
     ],
     "wof:id":1276221659,
-    "wof:lastmodified":1571382078,
+    "wof:lastmodified":1571679337,
     "wof:name":"Sandbukta",
     "wof:parent_id":1159296877,
     "wof:placetype":"locality",

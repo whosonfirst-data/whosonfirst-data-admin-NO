@@ -34,6 +34,7 @@
     "wof:belongsto":[
         102191581,
         1159297249,
+        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -45,14 +46,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":-1,
+            "country_id":85633341,
             "localadmin_id":1159297249,
             "locality_id":1326509085,
             "region_id":85687085
         }
     ],
     "wof:id":1326509085,
-    "wof:lastmodified":1571379552,
+    "wof:lastmodified":1571679460,
     "wof:name":"Soland",
     "wof:parent_id":1159297249,
     "wof:placetype":"locality",

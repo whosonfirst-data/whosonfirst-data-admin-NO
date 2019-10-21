@@ -38,7 +38,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296963,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -49,15 +51,15 @@
     "wof:geomhash":"2d83215e0bcd0ae243c0b70dc74e2e24",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296963,
             "locality_id":1309825027,
             "region_id":85687135
         }
     ],
     "wof:id":1309825027,
-    "wof:lastmodified":1571386523,
+    "wof:lastmodified":1571679336,
     "wof:name":"Reinforsheia",
     "wof:parent_id":1159296963,
     "wof:placetype":"locality",

@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296963,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"6a02e7f6012751fd1cad19d82fe53fc5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296963,
             "locality_id":1242773637,
             "region_id":85687135
         }
     ],
     "wof:id":1242773637,
-    "wof:lastmodified":1571390731,
+    "wof:lastmodified":1571679234,
     "wof:name":"Dalosen",
     "wof:parent_id":1159296963,
     "wof:placetype":"locality",

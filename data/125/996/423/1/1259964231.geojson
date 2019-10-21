@@ -80,7 +80,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297039,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -91,15 +93,15 @@
     "wof:geomhash":"8789a2d9ecebd96a3ba01454b363244b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297039,
             "locality_id":1259964231,
             "region_id":85687135
         }
     ],
     "wof:id":1259964231,
-    "wof:lastmodified":1571391111,
+    "wof:lastmodified":1571679311,
     "wof:name":"Rise",
     "wof:parent_id":1159297039,
     "wof:placetype":"locality",

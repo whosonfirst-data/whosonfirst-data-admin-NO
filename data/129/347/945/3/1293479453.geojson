@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296909,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"cba144607c165dac9c28f04fd953fcca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296909,
             "locality_id":1293479453,
             "region_id":85687135
         }
     ],
     "wof:id":1293479453,
-    "wof:lastmodified":1571380545,
+    "wof:lastmodified":1571679319,
     "wof:name":"Kalvika",
     "wof:parent_id":1159296909,
     "wof:placetype":"locality",

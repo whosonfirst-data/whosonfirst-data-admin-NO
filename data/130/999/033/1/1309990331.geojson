@@ -185,7 +185,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297235,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -196,15 +198,15 @@
     "wof:geomhash":"f26c8abe32eb9503b3b88bc93d1c1e7a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297235,
             "locality_id":1309990331,
             "region_id":85687135
         }
     ],
     "wof:id":1309990331,
-    "wof:lastmodified":1571386414,
+    "wof:lastmodified":1571679274,
     "wof:name":"Sandnes",
     "wof:parent_id":1159297235,
     "wof:placetype":"locality",

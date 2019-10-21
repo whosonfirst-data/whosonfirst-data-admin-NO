@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296769,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"36809eb486c808684c66214d3c16d633",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296769,
             "locality_id":1210006415,
             "region_id":85687135
         }
     ],
     "wof:id":1210006415,
-    "wof:lastmodified":1571383903,
+    "wof:lastmodified":1571679212,
     "wof:name":"Naversbor",
     "wof:parent_id":1159296769,
     "wof:placetype":"locality",

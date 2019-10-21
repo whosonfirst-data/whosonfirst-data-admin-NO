@@ -86,6 +86,7 @@
     "wof:belongsto":[
         102191581,
         1159296829,
+        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -101,14 +102,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":-1,
+            "country_id":85633341,
             "localadmin_id":1159296829,
             "locality_id":1126025863,
             "region_id":85687085
         }
     ],
     "wof:id":1126025863,
-    "wof:lastmodified":1571387062,
+    "wof:lastmodified":1571679446,
     "wof:name":"Judaberg",
     "wof:parent_id":1159296829,
     "wof:placetype":"locality",

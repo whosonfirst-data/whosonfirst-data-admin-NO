@@ -37,6 +37,7 @@
     "wof:belongsto":[
         102191581,
         1159296819,
+        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -48,14 +49,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":-1,
+            "country_id":85633341,
             "localadmin_id":1159296819,
             "locality_id":1193107981,
             "region_id":85687085
         }
     ],
     "wof:id":1193107981,
-    "wof:lastmodified":1571384215,
+    "wof:lastmodified":1571679440,
     "wof:name":"Leitet",
     "wof:parent_id":1159296819,
     "wof:placetype":"locality",

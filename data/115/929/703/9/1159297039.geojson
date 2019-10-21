@@ -34,6 +34,8 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        102191581,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,14 +45,14 @@
     "wof:geomhash":"ff0ce0aeda17772199e6c3049fc7e55a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297039,
             "region_id":85687135
         }
     ],
     "wof:id":1159297039,
-    "wof:lastmodified":1571389410,
+    "wof:lastmodified":1571679201,
     "wof:name":"Vestvagoy",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

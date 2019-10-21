@@ -34,6 +34,7 @@
     "wof:belongsto":[
         102191581,
         1159297509,
+        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -45,14 +46,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":-1,
+            "country_id":85633341,
             "localadmin_id":1159297509,
             "locality_id":1209298031,
             "region_id":85687085
         }
     ],
     "wof:id":1209298031,
-    "wof:lastmodified":1571383579,
+    "wof:lastmodified":1571679447,
     "wof:name":"Vormestrand",
     "wof:parent_id":1159297509,
     "wof:placetype":"locality",

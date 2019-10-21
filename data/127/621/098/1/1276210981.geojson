@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296963,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"f943b556486e5c7664185fb32a5e346a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296963,
             "locality_id":1276210981,
             "region_id":85687135
         }
     ],
     "wof:id":1276210981,
-    "wof:lastmodified":1571381550,
+    "wof:lastmodified":1571679335,
     "wof:name":"Storsteinlia",
     "wof:parent_id":1159296963,
     "wof:placetype":"locality",

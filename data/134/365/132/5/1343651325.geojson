@@ -38,7 +38,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296769,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -49,15 +51,15 @@
     "wof:geomhash":"d94fff083b0174b27263f3f15ce7def7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296769,
             "locality_id":1343651325,
             "region_id":85687135
         }
     ],
     "wof:id":1343651325,
-    "wof:lastmodified":1571356073,
+    "wof:lastmodified":1571679320,
     "wof:name":"Raudsand",
     "wof:parent_id":1159296769,
     "wof:placetype":"locality",

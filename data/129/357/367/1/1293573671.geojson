@@ -116,7 +116,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297039,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -127,15 +129,15 @@
     "wof:geomhash":"6e6e75dc7ad18d39c7958d4a8ce45e90",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297039,
             "locality_id":1293573671,
             "region_id":85687135
         }
     ],
     "wof:id":1293573671,
-    "wof:lastmodified":1571380671,
+    "wof:lastmodified":1571679322,
     "wof:name":"Horn",
     "wof:parent_id":1159297039,
     "wof:placetype":"locality",

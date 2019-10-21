@@ -38,7 +38,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297203,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -49,15 +51,15 @@
     "wof:geomhash":"856a7e19587c0073ff6dfb1fffed917f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297203,
             "locality_id":1226034629,
             "region_id":85687135
         }
     ],
     "wof:id":1226034629,
-    "wof:lastmodified":1571392197,
+    "wof:lastmodified":1571679248,
     "wof:name":"Sondre Hakvik",
     "wof:parent_id":1159297203,
     "wof:placetype":"locality",

@@ -44,7 +44,9 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159297229,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -57,15 +59,15 @@
     "wof:geomhash":"b51f5b9f04d16a6ad6be3e892dbed930",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297229,
             "locality_id":1125959851,
             "region_id":85687135
         }
     ],
     "wof:id":1125959851,
-    "wof:lastmodified":1571386985,
+    "wof:lastmodified":1571679232,
     "wof:name":"Hamn",
     "wof:parent_id":1159297229,
     "wof:placetype":"locality",

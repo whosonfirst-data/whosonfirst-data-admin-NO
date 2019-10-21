@@ -42,7 +42,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296909,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -53,15 +55,15 @@
     "wof:geomhash":"eafb1e5591778645fe0e2f4e109e6570",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296909,
             "locality_id":1209511111,
             "region_id":85687135
         }
     ],
     "wof:id":1209511111,
-    "wof:lastmodified":1571383521,
+    "wof:lastmodified":1571679367,
     "wof:name":"Kolsvik",
     "wof:parent_id":1159296909,
     "wof:placetype":"locality",

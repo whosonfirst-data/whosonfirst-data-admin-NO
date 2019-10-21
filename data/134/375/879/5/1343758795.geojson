@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297149,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"2b98631b817e718394fb1a92cb7a2cb6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297149,
             "locality_id":1343758795,
             "region_id":85687135
         }
     ],
     "wof:id":1343758795,
-    "wof:lastmodified":1571357253,
+    "wof:lastmodified":1571679323,
     "wof:name":"Breidstrand",
     "wof:parent_id":1159297149,
     "wof:placetype":"locality",

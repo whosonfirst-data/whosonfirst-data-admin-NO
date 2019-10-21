@@ -82,7 +82,9 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159296769,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -97,15 +99,15 @@
     "wof:geomhash":"bb73324e3b9ef08092f0f8a4c34917db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296769,
             "locality_id":1125793747,
             "region_id":85687135
         }
     ],
     "wof:id":1125793747,
-    "wof:lastmodified":1571388447,
+    "wof:lastmodified":1571679352,
     "wof:name":"Elvenes",
     "wof:parent_id":1159296769,
     "wof:placetype":"locality",

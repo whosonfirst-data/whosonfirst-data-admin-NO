@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297331,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"664c80910e0200456e4ba7c8248d9599",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297331,
             "locality_id":1209905841,
             "region_id":85687135
         }
     ],
     "wof:id":1209905841,
-    "wof:lastmodified":1571382994,
+    "wof:lastmodified":1571679244,
     "wof:name":"Husvaer",
     "wof:parent_id":1159297331,
     "wof:placetype":"locality",

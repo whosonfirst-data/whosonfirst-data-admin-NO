@@ -141,7 +141,9 @@
     "src:population":"geonames",
     "wd:wordcount":1211,
     "wof:belongsto":[
+        102191581,
         1159296877,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -157,8 +159,8 @@
     "wof:geomhash":"e79bffca809b1c2a4c3cfd0fd7cde40d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296877,
             "locality_id":101814645,
             "region_id":85687135
@@ -168,7 +170,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571386217,
+    "wof:lastmodified":1571679368,
     "wof:name":"Mosj\u00f8en",
     "wof:parent_id":1159296877,
     "wof:placetype":"locality",

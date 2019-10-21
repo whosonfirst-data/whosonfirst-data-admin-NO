@@ -92,7 +92,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296997,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -103,15 +105,15 @@
     "wof:geomhash":"a4d9658a3839056022a00f990e8eeaf6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296997,
             "locality_id":1209705347,
             "region_id":85687135
         }
     ],
     "wof:id":1209705347,
-    "wof:lastmodified":1571383079,
+    "wof:lastmodified":1571679244,
     "wof:name":"Valle",
     "wof:parent_id":1159296997,
     "wof:placetype":"locality",

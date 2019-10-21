@@ -35,7 +35,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297343,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -46,15 +48,15 @@
     "wof:geomhash":"1ff66c0e528c30d98cd011e6800e5369",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297343,
             "locality_id":1209101925,
             "region_id":85687135
         }
     ],
     "wof:id":1209101925,
-    "wof:lastmodified":1571383809,
+    "wof:lastmodified":1571679367,
     "wof:name":"Indregarden",
     "wof:parent_id":1159297343,
     "wof:placetype":"locality",

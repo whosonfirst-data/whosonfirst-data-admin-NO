@@ -38,7 +38,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297343,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -49,15 +51,15 @@
     "wof:geomhash":"67bc1a2e9bb68c249a38ed83b9f82cdc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297343,
             "locality_id":1243063869,
             "region_id":85687135
         }
     ],
     "wof:id":1243063869,
-    "wof:lastmodified":1571390064,
+    "wof:lastmodified":1571679248,
     "wof:name":"Slattvik",
     "wof:parent_id":1159297343,
     "wof:placetype":"locality",

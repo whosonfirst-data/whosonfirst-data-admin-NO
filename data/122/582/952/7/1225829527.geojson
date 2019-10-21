@@ -44,7 +44,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297109,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -55,15 +57,15 @@
     "wof:geomhash":"9049f1750df6ada8c1d7015107670b68",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297109,
             "locality_id":1225829527,
             "region_id":85687135
         }
     ],
     "wof:id":1225829527,
-    "wof:lastmodified":1571392806,
+    "wof:lastmodified":1571679225,
     "wof:name":"Musken,ytre",
     "wof:parent_id":1159297109,
     "wof:placetype":"locality",

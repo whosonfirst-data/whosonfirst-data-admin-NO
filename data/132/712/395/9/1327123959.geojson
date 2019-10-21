@@ -318,7 +318,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296769,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -329,15 +331,15 @@
     "wof:geomhash":"1852207913f136d2873ad3d473fbb4e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296769,
             "locality_id":1327123959,
             "region_id":85687135
         }
     ],
     "wof:id":1327123959,
-    "wof:lastmodified":1571355335,
+    "wof:lastmodified":1571679364,
     "wof:name":"Tuva",
     "wof:parent_id":1159296769,
     "wof:placetype":"locality",

@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296877,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"3ae0be9c64f80b898b14deb4c81a5870",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296877,
             "locality_id":1276323641,
             "region_id":85687135
         }
     ],
     "wof:id":1276323641,
-    "wof:lastmodified":1571381845,
+    "wof:lastmodified":1571679345,
     "wof:name":"Hellfjellbygda",
     "wof:parent_id":1159296877,
     "wof:placetype":"locality",

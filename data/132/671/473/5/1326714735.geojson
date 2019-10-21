@@ -39,7 +39,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297445,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -50,15 +52,15 @@
     "wof:geomhash":"0b4de8efc8c867fc24bf7518b783945c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297445,
             "locality_id":1326714735,
             "region_id":85687135
         }
     ],
     "wof:id":1326714735,
-    "wof:lastmodified":1571355610,
+    "wof:lastmodified":1571679295,
     "wof:name":"Aunet",
     "wof:parent_id":1159297445,
     "wof:placetype":"locality",

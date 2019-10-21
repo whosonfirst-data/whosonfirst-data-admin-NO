@@ -38,7 +38,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296963,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -49,15 +51,15 @@
     "wof:geomhash":"c5370b34088ff18a2f199cf4dd7b77a1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296963,
             "locality_id":1226635637,
             "region_id":85687135
         }
     ],
     "wof:id":1226635637,
-    "wof:lastmodified":1571392645,
+    "wof:lastmodified":1571679257,
     "wof:name":"Andfiskaa",
     "wof:parent_id":1159296963,
     "wof:placetype":"locality",

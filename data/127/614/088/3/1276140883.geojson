@@ -44,7 +44,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296743,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -56,15 +58,15 @@
     "wof:geomhash":"4cbf1d01107ffdba56ef87da3d8b3c69",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296743,
             "locality_id":1276140883,
             "region_id":85687135
         }
     ],
     "wof:id":1276140883,
-    "wof:lastmodified":1571382047,
+    "wof:lastmodified":1571679270,
     "wof:name":"Grytting",
     "wof:parent_id":1159296743,
     "wof:placetype":"locality",

@@ -38,7 +38,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297039,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -49,15 +51,15 @@
     "wof:geomhash":"ebb2d7163a1e15014e7a82b0b169eebf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297039,
             "locality_id":1360282155,
             "region_id":85687135
         }
     ],
     "wof:id":1360282155,
-    "wof:lastmodified":1571385753,
+    "wof:lastmodified":1571679208,
     "wof:name":"Bergsdalen",
     "wof:parent_id":1159297039,
     "wof:placetype":"locality",

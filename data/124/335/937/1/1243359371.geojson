@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296997,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"22e41dcbaeb1c1c2e5eedc06a2f48a6c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296997,
             "locality_id":1243359371,
             "region_id":85687135
         }
     ],
     "wof:id":1243359371,
-    "wof:lastmodified":1571390572,
+    "wof:lastmodified":1571679283,
     "wof:name":"Oterstranda",
     "wof:parent_id":1159296997,
     "wof:placetype":"locality",

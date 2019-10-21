@@ -35,7 +35,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297203,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -46,15 +48,15 @@
     "wof:geomhash":"14cbd6a334401dd450ee32b62a25114a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297203,
             "locality_id":1292924715,
             "region_id":85687135
         }
     ],
     "wof:id":1292924715,
-    "wof:lastmodified":1571380323,
+    "wof:lastmodified":1571679269,
     "wof:name":"Emmenes",
     "wof:parent_id":1159297203,
     "wof:placetype":"locality",

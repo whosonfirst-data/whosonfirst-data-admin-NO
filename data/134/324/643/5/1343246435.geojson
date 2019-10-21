@@ -38,7 +38,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297109,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -49,15 +51,15 @@
     "wof:geomhash":"15f0afd1b028a0d4ce4dc6b6dfff9a7f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297109,
             "locality_id":1343246435,
             "region_id":85687135
         }
     ],
     "wof:id":1343246435,
-    "wof:lastmodified":1571356596,
+    "wof:lastmodified":1571679346,
     "wof:name":"Diksna",
     "wof:parent_id":1159297109,
     "wof:placetype":"locality",

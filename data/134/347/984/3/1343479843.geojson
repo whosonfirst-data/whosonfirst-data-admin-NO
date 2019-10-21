@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296877,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"d321dd8ecd1a4516e930037fed5e763d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296877,
             "locality_id":1343479843,
             "region_id":85687135
         }
     ],
     "wof:id":1343479843,
-    "wof:lastmodified":1571356725,
+    "wof:lastmodified":1571679295,
     "wof:name":"Bjornaa",
     "wof:parent_id":1159296877,
     "wof:placetype":"locality",

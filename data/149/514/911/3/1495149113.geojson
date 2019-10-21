@@ -36,7 +36,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         85687135,
+        102191581,
         1159296695,
+        85633341,
         101814639
     ],
     "wof:breaches":[],
@@ -47,8 +49,8 @@
     "wof:geomhash":"09d1a9205ac6656c2152168e86fa3b27",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296695,
             "locality_id":101814639,
             "neighbourhood_id":1495149113,
@@ -56,7 +58,7 @@
         }
     ],
     "wof:id":1495149113,
-    "wof:lastmodified":1571393833,
+    "wof:lastmodified":1571679376,
     "wof:name":"Juvika",
     "wof:parent_id":101814639,
     "wof:placetype":"neighbourhood",

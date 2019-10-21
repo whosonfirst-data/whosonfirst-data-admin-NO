@@ -36,6 +36,8 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        102191581,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -45,14 +47,14 @@
     "wof:geomhash":"764b8e1c35bd0129ba15b983f7e8ec1e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297347,
             "region_id":85687135
         }
     ],
     "wof:id":1159297347,
-    "wof:lastmodified":1571389293,
+    "wof:lastmodified":1571679200,
     "wof:name":"Luroy",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297115,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"c68906f62a618d15abbcfe072b1128f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297115,
             "locality_id":1242957679,
             "region_id":85687135
         }
     ],
     "wof:id":1242957679,
-    "wof:lastmodified":1571390281,
+    "wof:lastmodified":1571679269,
     "wof:name":"Botnvatnet",
     "wof:parent_id":1159297115,
     "wof:placetype":"locality",

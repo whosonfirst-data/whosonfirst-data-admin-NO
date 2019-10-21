@@ -138,6 +138,8 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        102191581,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -147,14 +149,14 @@
     "wof:geomhash":"36f0937a8b7be7acb38a69d37924c9e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297007,
             "region_id":85687135
         }
     ],
     "wof:id":1159297007,
-    "wof:lastmodified":1571388853,
+    "wof:lastmodified":1571679200,
     "wof:name":"Alstahaug",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

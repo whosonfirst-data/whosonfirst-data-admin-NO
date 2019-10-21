@@ -125,7 +125,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297109,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -136,15 +138,15 @@
     "wof:geomhash":"ed0d24657ea27fa7c7c3a5dd2aa027c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297109,
             "locality_id":1225840903,
             "region_id":85687135
         }
     ],
     "wof:id":1225840903,
-    "wof:lastmodified":1571392838,
+    "wof:lastmodified":1571679355,
     "wof:name":"Stranda",
     "wof:parent_id":1159297109,
     "wof:placetype":"locality",

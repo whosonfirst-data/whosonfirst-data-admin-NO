@@ -46,6 +46,7 @@
     "wof:belongsto":[
         102191581,
         1159297249,
+        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -58,14 +59,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":-1,
+            "country_id":85633341,
             "localadmin_id":1159297249,
             "locality_id":1226116185,
             "region_id":85687085
         }
     ],
     "wof:id":1226116185,
-    "wof:lastmodified":1571392075,
+    "wof:lastmodified":1571679454,
     "wof:name":"Saudasjoen",
     "wof:parent_id":1159297249,
     "wof:placetype":"locality",

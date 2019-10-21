@@ -49,7 +49,9 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159296809,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -63,15 +65,15 @@
     "wof:geomhash":"d0641c99fa7fab1c7cc89bea37660ba9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296809,
             "locality_id":1125817931,
             "region_id":85687135
         }
     ],
     "wof:id":1125817931,
-    "wof:lastmodified":1571387305,
+    "wof:lastmodified":1571679214,
     "wof:name":"Jektvik",
     "wof:parent_id":1159296809,
     "wof:placetype":"locality",

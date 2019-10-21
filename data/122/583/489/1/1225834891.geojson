@@ -38,7 +38,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296883,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -49,15 +51,15 @@
     "wof:geomhash":"1e68eb836c74bb93ea91a485e2b19061",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296883,
             "locality_id":1225834891,
             "region_id":85687135
         }
     ],
     "wof:id":1225834891,
-    "wof:lastmodified":1571392868,
+    "wof:lastmodified":1571679344,
     "wof:name":"Ulvagen",
     "wof:parent_id":1159296883,
     "wof:placetype":"locality",

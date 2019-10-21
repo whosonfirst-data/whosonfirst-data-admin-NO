@@ -35,7 +35,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297039,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -46,15 +48,15 @@
     "wof:geomhash":"027f385a03d7408aa36dcd9a7cb632b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297039,
             "locality_id":1293384455,
             "region_id":85687135
         }
     ],
     "wof:id":1293384455,
-    "wof:lastmodified":1571380116,
+    "wof:lastmodified":1571679290,
     "wof:name":"Finnstad",
     "wof:parent_id":1159297039,
     "wof:placetype":"locality",

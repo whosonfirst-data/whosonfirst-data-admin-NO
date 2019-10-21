@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296695,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"c5eb0db8dd1462bcbe4f37cc7e25a7a5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296695,
             "locality_id":1326925225,
             "region_id":85687135
         }
     ],
     "wof:id":1326925225,
-    "wof:lastmodified":1571355139,
+    "wof:lastmodified":1571679328,
     "wof:name":"Store Bjerka",
     "wof:parent_id":1159296695,
     "wof:placetype":"locality",

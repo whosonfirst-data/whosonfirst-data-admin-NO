@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297093,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"9ebd5d3de9e4a974306de267334ce24b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297093,
             "locality_id":1242773711,
             "region_id":85687135
         }
     ],
     "wof:id":1242773711,
-    "wof:lastmodified":1571390738,
+    "wof:lastmodified":1571679235,
     "wof:name":"Reindalsvik",
     "wof:parent_id":1159297093,
     "wof:placetype":"locality",

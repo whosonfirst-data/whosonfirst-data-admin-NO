@@ -38,7 +38,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         85687135,
+        102191581,
         1159296769,
+        85633341,
         101814589
     ],
     "wof:breaches":[],
@@ -49,8 +51,8 @@
     "wof:geomhash":"b58e3083e15c4cec2d770b344e52b1c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296769,
             "locality_id":101814589,
             "neighbourhood_id":1495147655,
@@ -58,7 +60,7 @@
         }
     ],
     "wof:id":1495147655,
-    "wof:lastmodified":1571393169,
+    "wof:lastmodified":1571679371,
     "wof:name":"Eriksrud",
     "wof:parent_id":101814589,
     "wof:placetype":"neighbourhood",

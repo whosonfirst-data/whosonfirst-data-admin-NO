@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297265,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"acfd243f79436505e704e7b3818dd830",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297265,
             "locality_id":1193008007,
             "region_id":85687135
         }
     ],
     "wof:id":1193008007,
-    "wof:lastmodified":1571383977,
+    "wof:lastmodified":1571679222,
     "wof:name":"Kvael",
     "wof:parent_id":1159297265,
     "wof:placetype":"locality",

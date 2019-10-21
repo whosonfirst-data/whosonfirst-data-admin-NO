@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297181,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"4d696cf5134cc050cd73df0ac3806c77",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297181,
             "locality_id":1242667307,
             "region_id":85687135
         }
     ],
     "wof:id":1242667307,
-    "wof:lastmodified":1571390238,
+    "wof:lastmodified":1571679266,
     "wof:name":"Somnes",
     "wof:parent_id":1159297181,
     "wof:placetype":"locality",

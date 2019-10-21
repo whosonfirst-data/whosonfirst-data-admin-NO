@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297409,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"f8778063a82304c7eeea60946e8daf32",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297409,
             "locality_id":1260267523,
             "region_id":85687135
         }
     ],
     "wof:id":1260267523,
-    "wof:lastmodified":1571384635,
+    "wof:lastmodified":1571679355,
     "wof:name":"Mjolkarlia",
     "wof:parent_id":1159297409,
     "wof:placetype":"locality",

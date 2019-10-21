@@ -328,6 +328,8 @@
     "qs:level":"adm1",
     "qs:source":"EuroGlobalMap",
     "qs:type":"Fylke",
+    "reversegeo:latitude":58.680999,
+    "reversegeo:longitude":6.053919,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -348,7 +350,8 @@
     "unlc:subdivision":"NO-11",
     "wd:wordcount":695,
     "wof:belongsto":[
-        102191581
+        102191581,
+        85633341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -365,7 +368,7 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":-1,
+            "country_id":85633341,
             "region_id":85687085
         }
     ],
@@ -379,9 +382,9 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1571379562,
+    "wof:lastmodified":1571679502,
     "wof:name":"Rogaland",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633341,
     "wof:placetype":"region",
     "wof:placetype_local":"county",
     "wof:population":380913,

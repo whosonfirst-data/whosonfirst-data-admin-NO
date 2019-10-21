@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297539,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"81ece7cf6ce37bcdd2fd9bd04871dfb5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297539,
             "locality_id":1310089925,
             "region_id":85687135
         }
     ],
     "wof:id":1310089925,
-    "wof:lastmodified":1571384983,
+    "wof:lastmodified":1571679284,
     "wof:name":"Leitet",
     "wof:parent_id":1159297539,
     "wof:placetype":"locality",

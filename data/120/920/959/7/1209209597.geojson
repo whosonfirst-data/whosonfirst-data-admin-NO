@@ -55,7 +55,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296781,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -66,15 +68,15 @@
     "wof:geomhash":"c9e371256933db0e596dcdbfa9a8cff2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296781,
             "locality_id":1209209597,
             "region_id":85687135
         }
     ],
     "wof:id":1209209597,
-    "wof:lastmodified":1571383612,
+    "wof:lastmodified":1571679236,
     "wof:name":"Ylvingen",
     "wof:parent_id":1159296781,
     "wof:placetype":"locality",

@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296963,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"6c9fa313f5ed64ee3961f5c22647e269",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296963,
             "locality_id":1326720341,
             "region_id":85687135
         }
     ],
     "wof:id":1326720341,
-    "wof:lastmodified":1571354859,
+    "wof:lastmodified":1571679287,
     "wof:name":"Torrbekkmoen",
     "wof:parent_id":1159296963,
     "wof:placetype":"locality",

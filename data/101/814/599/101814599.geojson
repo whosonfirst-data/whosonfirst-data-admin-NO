@@ -100,7 +100,9 @@
     "src:population":"geonames",
     "wd:wordcount":224,
     "wof:belongsto":[
+        102191581,
         1159296743,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -115,8 +117,8 @@
     "wof:geomhash":"6fbfcde6e14a4811ed73227a337d4074",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296743,
             "locality_id":101814599,
             "region_id":85687135
@@ -126,7 +128,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571386247,
+    "wof:lastmodified":1571679369,
     "wof:name":"Melbu",
     "wof:parent_id":1159296743,
     "wof:placetype":"locality",

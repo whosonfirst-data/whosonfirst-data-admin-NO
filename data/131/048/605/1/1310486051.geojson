@@ -35,7 +35,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297153,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -46,15 +48,15 @@
     "wof:geomhash":"4b6cf46dfd7bc99bf9aaa684716b7b35",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297153,
             "locality_id":1310486051,
             "region_id":85687135
         }
     ],
     "wof:id":1310486051,
-    "wof:lastmodified":1571384761,
+    "wof:lastmodified":1571679290,
     "wof:name":"Vindstad",
     "wof:parent_id":1159297153,
     "wof:placetype":"locality",

@@ -33,7 +33,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         85687135,
+        102191581,
         1159296963,
+        85633341,
         101814635
     ],
     "wof:breaches":[],
@@ -44,8 +46,8 @@
     "wof:geomhash":"6cdb584e4f529202a619de933bd36502",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296963,
             "locality_id":101814635,
             "neighbourhood_id":1495148305,
@@ -53,7 +55,7 @@
         }
     ],
     "wof:id":1495148305,
-    "wof:lastmodified":1571393782,
+    "wof:lastmodified":1571679376,
     "wof:name":"Revlen",
     "wof:parent_id":101814635,
     "wof:placetype":"neighbourhood",

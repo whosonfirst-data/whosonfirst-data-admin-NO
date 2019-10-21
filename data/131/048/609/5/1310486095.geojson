@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297229,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"018e9393bc1b58a086aecf275e622d03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297229,
             "locality_id":1310486095,
             "region_id":85687135
         }
     ],
     "wof:id":1310486095,
-    "wof:lastmodified":1571384772,
+    "wof:lastmodified":1571679290,
     "wof:name":"Kjelde",
     "wof:parent_id":1159297229,
     "wof:placetype":"locality",

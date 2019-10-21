@@ -90,7 +90,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         85687135,
+        102191581,
         1159296951,
+        85633341,
         101814573
     ],
     "wof:breaches":[],
@@ -101,8 +103,8 @@
     "wof:geomhash":"d03e0d81b831dfc52919ebf36541eccc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296951,
             "locality_id":101814573,
             "neighbourhood_id":1495148385,
@@ -110,7 +112,7 @@
         }
     ],
     "wof:id":1495148385,
-    "wof:lastmodified":1571393732,
+    "wof:lastmodified":1571679375,
     "wof:name":"Strand",
     "wof:parent_id":101814573,
     "wof:placetype":"neighbourhood",

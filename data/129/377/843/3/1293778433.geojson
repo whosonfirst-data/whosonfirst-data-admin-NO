@@ -149,7 +149,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297235,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -160,15 +162,15 @@
     "wof:geomhash":"abcffe18d38d2e4616479e82129ed53d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297235,
             "locality_id":1293778433,
             "region_id":85687135
         }
     ],
     "wof:id":1293778433,
-    "wof:lastmodified":1571380384,
+    "wof:lastmodified":1571679311,
     "wof:name":"Halland",
     "wof:parent_id":1159297235,
     "wof:placetype":"locality",

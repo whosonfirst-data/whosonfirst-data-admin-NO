@@ -35,7 +35,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297039,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -47,15 +49,15 @@
     "wof:geomhash":"29b1751e373b8657215bf82e2d63793b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297039,
             "locality_id":1310089969,
             "region_id":85687135
         }
     ],
     "wof:id":1310089969,
-    "wof:lastmodified":1571384973,
+    "wof:lastmodified":1571679291,
     "wof:name":"Hol",
     "wof:parent_id":1159297039,
     "wof:placetype":"locality",

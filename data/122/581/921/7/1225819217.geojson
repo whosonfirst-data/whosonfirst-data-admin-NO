@@ -34,6 +34,7 @@
     "wof:belongsto":[
         102191581,
         1159297063,
+        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -45,14 +46,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":-1,
+            "country_id":85633341,
             "localadmin_id":1159297063,
             "locality_id":1225819217,
             "region_id":85687085
         }
     ],
     "wof:id":1225819217,
-    "wof:lastmodified":1571392305,
+    "wof:lastmodified":1571679442,
     "wof:name":"Ollestad",
     "wof:parent_id":1159297063,
     "wof:placetype":"locality",

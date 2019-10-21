@@ -71,7 +71,9 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":109,
     "wof:belongsto":[
+        102191581,
         1159297619,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -88,15 +90,15 @@
     "wof:geomhash":"8ea33d771b9d9f0cad5cc40cab2e1cc4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297619,
             "locality_id":101814581,
             "region_id":85687135
         }
     ],
     "wof:id":101814581,
-    "wof:lastmodified":1571386234,
+    "wof:lastmodified":1571679344,
     "wof:name":"Hus\u00f8y",
     "wof:parent_id":1159297619,
     "wof:placetype":"locality",

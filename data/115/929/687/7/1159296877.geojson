@@ -130,6 +130,8 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        102191581,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -139,14 +141,14 @@
     "wof:geomhash":"c22f8aaac5e5369e8638d7a055f69e01",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296877,
             "region_id":85687135
         }
     ],
     "wof:id":1159296877,
-    "wof:lastmodified":1571389004,
+    "wof:lastmodified":1571679193,
     "wof:name":"Vefsn",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

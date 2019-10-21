@@ -160,6 +160,7 @@
     "wof:belongsto":[
         102191581,
         1159297401,
+        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -174,14 +175,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":-1,
+            "country_id":85633341,
             "localadmin_id":1159297401,
             "locality_id":1125965705,
             "region_id":85687085
         }
     ],
     "wof:id":1125965705,
-    "wof:lastmodified":1571387838,
+    "wof:lastmodified":1571679443,
     "wof:name":"Gjesdal",
     "wof:parent_id":1159297401,
     "wof:placetype":"locality",

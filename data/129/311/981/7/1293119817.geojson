@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297115,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"28ed0a6623c556d34ede81361602361c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297115,
             "locality_id":1293119817,
             "region_id":85687135
         }
     ],
     "wof:id":1293119817,
-    "wof:lastmodified":1571380991,
+    "wof:lastmodified":1571679355,
     "wof:name":"Evenesdal",
     "wof:parent_id":1159297115,
     "wof:placetype":"locality",

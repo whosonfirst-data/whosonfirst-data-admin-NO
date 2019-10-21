@@ -38,7 +38,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297331,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -50,15 +52,15 @@
     "wof:geomhash":"6d5c4be245fc3f724d74a5464ea06a08",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297331,
             "locality_id":1259869319,
             "region_id":85687135
         }
     ],
     "wof:id":1259869319,
-    "wof:lastmodified":1571391768,
+    "wof:lastmodified":1571679307,
     "wof:name":"Gaasvaer",
     "wof:parent_id":1159297331,
     "wof:placetype":"locality",

@@ -167,7 +167,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297417,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -178,15 +180,15 @@
     "wof:geomhash":"a01adf3600b9a8a9458e376ac507eb2f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297417,
             "locality_id":1309824841,
             "region_id":85687135
         }
     ],
     "wof:id":1309824841,
-    "wof:lastmodified":1571386527,
+    "wof:lastmodified":1571679271,
     "wof:name":"Grimstad",
     "wof:parent_id":1159297417,
     "wof:placetype":"locality",

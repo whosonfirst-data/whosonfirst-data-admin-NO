@@ -342,7 +342,9 @@
     "wd:population":18787,
     "wd:wordcount":3087,
     "wof:belongsto":[
+        102191581,
         1159297203,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -358,8 +360,8 @@
     "wof:geomhash":"a02d24fa5b3baf86f09565b3b9aae0e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297203,
             "locality_id":101814601,
             "region_id":85687135
@@ -369,7 +371,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571386274,
+    "wof:lastmodified":1571679350,
     "wof:name":"Narvik",
     "wof:parent_id":1159297203,
     "wof:placetype":"locality",

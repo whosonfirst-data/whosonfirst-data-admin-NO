@@ -79,7 +79,9 @@
     },
     "wof:belongsto":[
         85687135,
-        1159296883
+        102191581,
+        1159296883,
+        85633341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,8 +96,8 @@
     "wof:hierarchy":[
         {
             "campus_id":102556613,
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296883,
             "locality_id":-1,
             "neighbourhood_id":-1,
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":102556613,
-    "wof:lastmodified":1571356052,
+    "wof:lastmodified":1571679370,
     "wof:name":"Svolv\u00e6r Lufthavn",
     "wof:parent_id":1159296883,
     "wof:placetype":"campus",

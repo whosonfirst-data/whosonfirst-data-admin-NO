@@ -41,7 +41,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297343,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -52,15 +54,15 @@
     "wof:geomhash":"7aece70f74eead1308dde726553ea3d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297343,
             "locality_id":1243052431,
             "region_id":85687135
         }
     ],
     "wof:id":1243052431,
-    "wof:lastmodified":1571390668,
+    "wof:lastmodified":1571679247,
     "wof:name":"Helldal",
     "wof:parent_id":1159297343,
     "wof:placetype":"locality",

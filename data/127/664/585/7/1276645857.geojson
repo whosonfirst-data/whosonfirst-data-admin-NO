@@ -104,7 +104,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297273,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -115,15 +117,15 @@
     "wof:geomhash":"660272d80b3cf2bb0947d4ac808e2594",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297273,
             "locality_id":1276645857,
             "region_id":85687135
         }
     ],
     "wof:id":1276645857,
-    "wof:lastmodified":1571382350,
+    "wof:lastmodified":1571679301,
     "wof:name":"Holm",
     "wof:parent_id":1159297273,
     "wof:placetype":"locality",

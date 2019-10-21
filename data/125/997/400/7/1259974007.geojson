@@ -42,7 +42,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297059,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -53,15 +55,15 @@
     "wof:geomhash":"89e63657cc418e963e59312db6048e4f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297059,
             "locality_id":1259974007,
             "region_id":85687135
         }
     ],
     "wof:id":1259974007,
-    "wof:lastmodified":1571391182,
+    "wof:lastmodified":1571679314,
     "wof:name":"Hoyholm",
     "wof:parent_id":1159297059,
     "wof:placetype":"locality",

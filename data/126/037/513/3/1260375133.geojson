@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296743,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"b6aaafe798c9a8c0d8a0a64fefa46373",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296743,
             "locality_id":1260375133,
             "region_id":85687135
         }
     ],
     "wof:id":1260375133,
-    "wof:lastmodified":1571384474,
+    "wof:lastmodified":1571679268,
     "wof:name":"Bitterstad",
     "wof:parent_id":1159296743,
     "wof:placetype":"locality",

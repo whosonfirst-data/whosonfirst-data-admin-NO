@@ -65,7 +65,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297347,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -76,15 +78,15 @@
     "wof:geomhash":"5a4c56985f159e2d63ffcc29a521bd03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297347,
             "locality_id":1292924679,
             "region_id":85687135
         }
     ],
     "wof:id":1292924679,
-    "wof:lastmodified":1571380334,
+    "wof:lastmodified":1571679335,
     "wof:name":"Kvina",
     "wof:parent_id":1159297347,
     "wof:placetype":"locality",

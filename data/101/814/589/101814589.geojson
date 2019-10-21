@@ -90,7 +90,9 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296769,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -106,8 +108,8 @@
     "wof:geomhash":"a6d85a0e50224e72af09720209605b57",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296769,
             "locality_id":101814589,
             "region_id":85687135
@@ -117,7 +119,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571386241,
+    "wof:lastmodified":1571679368,
     "wof:name":"Myre",
     "wof:parent_id":1159296769,
     "wof:placetype":"locality",

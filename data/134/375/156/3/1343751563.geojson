@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297331,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"6e1fba682b219929f7b15a50776287be",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297331,
             "locality_id":1343751563,
             "region_id":85687135
         }
     ],
     "wof:id":1343751563,
-    "wof:lastmodified":1571357241,
+    "wof:lastmodified":1571679366,
     "wof:name":"Masvaer",
     "wof:parent_id":1159297331,
     "wof:placetype":"locality",

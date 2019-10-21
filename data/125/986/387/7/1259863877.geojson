@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297149,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"ac50320ead287d1d00cb866c3e63ec57",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297149,
             "locality_id":1259863877,
             "region_id":85687135
         }
     ],
     "wof:id":1259863877,
-    "wof:lastmodified":1571391784,
+    "wof:lastmodified":1571679359,
     "wof:name":"Torsvikvagen",
     "wof:parent_id":1159297149,
     "wof:placetype":"locality",

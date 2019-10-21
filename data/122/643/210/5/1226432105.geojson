@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296909,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"dd5ea9654185d58f35c56a2932afff4a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296909,
             "locality_id":1226432105,
             "region_id":85687135
         }
     ],
     "wof:id":1226432105,
-    "wof:lastmodified":1571391907,
+    "wof:lastmodified":1571679254,
     "wof:name":"Asaunet",
     "wof:parent_id":1159296909,
     "wof:placetype":"locality",

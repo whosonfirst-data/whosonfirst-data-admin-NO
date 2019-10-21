@@ -79,7 +79,9 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297203,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -93,15 +95,15 @@
     "wof:geomhash":"0b40a42c2470b26b87aff92235c4308b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297203,
             "locality_id":1125847771,
             "region_id":85687135
         }
     ],
     "wof:id":1125847771,
-    "wof:lastmodified":1571388474,
+    "wof:lastmodified":1571679213,
     "wof:name":"Bj\u00f8rkvang",
     "wof:parent_id":1159297203,
     "wof:placetype":"locality",

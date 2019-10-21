@@ -68,7 +68,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296695,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -79,15 +81,15 @@
     "wof:geomhash":"4639f1299ea8e5aaf4735d17c514dddd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296695,
             "locality_id":1343450615,
             "region_id":85687135
         }
     ],
     "wof:id":1343450615,
-    "wof:lastmodified":1571357179,
+    "wof:lastmodified":1571679279,
     "wof:name":"Valla",
     "wof:parent_id":1159296695,
     "wof:placetype":"locality",

@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296963,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"8774032d833acd5b86ecceae7b79b57d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296963,
             "locality_id":1310401435,
             "region_id":85687135
         }
     ],
     "wof:id":1310401435,
-    "wof:lastmodified":1571384836,
+    "wof:lastmodified":1571679293,
     "wof:name":"Fuglstad",
     "wof:parent_id":1159296963,
     "wof:placetype":"locality",

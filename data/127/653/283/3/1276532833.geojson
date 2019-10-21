@@ -39,7 +39,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297535,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -50,15 +52,15 @@
     "wof:geomhash":"dec64a437a7eb15266fe5b8448a8e9c3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297535,
             "locality_id":1276532833,
             "region_id":85687135
         }
     ],
     "wof:id":1276532833,
-    "wof:lastmodified":1571382580,
+    "wof:lastmodified":1571679299,
     "wof:name":"Litle Fagervika",
     "wof:parent_id":1159297535,
     "wof:placetype":"locality",

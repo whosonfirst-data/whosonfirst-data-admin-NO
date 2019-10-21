@@ -50,7 +50,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297109,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -61,15 +63,15 @@
     "wof:geomhash":"d88689caab1676ab36706550eeb66a0f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297109,
             "locality_id":1209411065,
             "region_id":85687135
         }
     ],
     "wof:id":1209411065,
-    "wof:lastmodified":1571383145,
+    "wof:lastmodified":1571679238,
     "wof:name":"Storvika",
     "wof:parent_id":1159297109,
     "wof:placetype":"locality",

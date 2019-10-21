@@ -34,6 +34,7 @@
     "wof:belongsto":[
         102191581,
         1159297005,
+        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -45,14 +46,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":-1,
+            "country_id":85633341,
             "localadmin_id":1159297005,
             "locality_id":1260374041,
             "region_id":85687085
         }
     ],
     "wof:id":1260374041,
-    "wof:lastmodified":1571384473,
+    "wof:lastmodified":1571679457,
     "wof:name":"Snik",
     "wof:parent_id":1159297005,
     "wof:placetype":"locality",

@@ -48,7 +48,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297093,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -59,15 +61,15 @@
     "wof:geomhash":"54166969b9a34af67d16903e568c5cf8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297093,
             "locality_id":1327024397,
             "region_id":85687135
         }
     ],
     "wof:id":1327024397,
-    "wof:lastmodified":1571355428,
+    "wof:lastmodified":1571679363,
     "wof:name":"Spildra",
     "wof:parent_id":1159297093,
     "wof:placetype":"locality",

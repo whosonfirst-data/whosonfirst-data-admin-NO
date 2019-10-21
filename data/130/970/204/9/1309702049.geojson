@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296781,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"1e51832b6ba2f2c75941f1bf9c4010c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296781,
             "locality_id":1309702049,
             "region_id":85687135
         }
     ],
     "wof:id":1309702049,
-    "wof:lastmodified":1571386454,
+    "wof:lastmodified":1571679271,
     "wof:name":"Brandsvika",
     "wof:parent_id":1159296781,
     "wof:placetype":"locality",

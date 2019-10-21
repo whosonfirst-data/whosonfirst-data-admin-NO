@@ -50,7 +50,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         85687135,
+        102191581,
         1159297465,
+        85633341,
         101814623
     ],
     "wof:breaches":[],
@@ -64,8 +66,8 @@
     "wof:geomhash":"7219e469cda4c605dac8510b1e086f92",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297465,
             "locality_id":101814623,
             "neighbourhood_id":1495148741,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1495148741,
-    "wof:lastmodified":1571393243,
+    "wof:lastmodified":1571679372,
     "wof:name":"Jensvoll",
     "wof:parent_id":101814623,
     "wof:placetype":"neighbourhood",

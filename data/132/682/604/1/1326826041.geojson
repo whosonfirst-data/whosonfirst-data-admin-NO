@@ -41,7 +41,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296909,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -52,15 +54,15 @@
     "wof:geomhash":"0c869c366ccce4675d52ee64c2991098",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296909,
             "locality_id":1326826041,
             "region_id":85687135
         }
     ],
     "wof:id":1326826041,
-    "wof:lastmodified":1571355549,
+    "wof:lastmodified":1571679324,
     "wof:name":"Abjora",
     "wof:parent_id":1159296909,
     "wof:placetype":"locality",

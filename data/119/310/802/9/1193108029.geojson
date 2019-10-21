@@ -34,6 +34,7 @@
     "wof:belongsto":[
         102191581,
         1159297629,
+        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -45,14 +46,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":-1,
+            "country_id":85633341,
             "localadmin_id":1159297629,
             "locality_id":1193108029,
             "region_id":85687085
         }
     ],
     "wof:id":1193108029,
-    "wof:lastmodified":1571384219,
+    "wof:lastmodified":1571679440,
     "wof:name":"Eikjelandsdalen",
     "wof:parent_id":1159297629,
     "wof:placetype":"locality",

@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296963,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"b282a72f5699ec771f95069630eb1dda",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296963,
             "locality_id":1293384431,
             "region_id":85687135
         }
     ],
     "wof:id":1293384431,
-    "wof:lastmodified":1571380113,
+    "wof:lastmodified":1571679290,
     "wof:name":"Sletten",
     "wof:parent_id":1159296963,
     "wof:placetype":"locality",

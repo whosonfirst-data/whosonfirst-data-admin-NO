@@ -73,7 +73,9 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159297611,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -88,15 +90,15 @@
     "wof:geomhash":"f71cb3fafcd24e3a0842de636a28770c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297611,
             "locality_id":1125878815,
             "region_id":85687135
         }
     ],
     "wof:id":1125878815,
-    "wof:lastmodified":1571387528,
+    "wof:lastmodified":1571679212,
     "wof:name":"Ramberg",
     "wof:parent_id":1159297611,
     "wof:placetype":"locality",

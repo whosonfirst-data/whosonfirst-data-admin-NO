@@ -39,7 +39,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297539,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -50,15 +52,15 @@
     "wof:geomhash":"ee15d8553b75c63a9c37b9b595a86f14",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297539,
             "locality_id":1193121755,
             "region_id":85687135
         }
     ],
     "wof:id":1193121755,
-    "wof:lastmodified":1571384058,
+    "wof:lastmodified":1571679342,
     "wof:name":"Sormela",
     "wof:parent_id":1159297539,
     "wof:placetype":"locality",

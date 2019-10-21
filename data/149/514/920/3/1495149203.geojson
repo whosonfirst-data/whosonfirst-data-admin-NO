@@ -36,7 +36,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         85687135,
+        102191581,
         1159296769,
+        85633341,
         101814589
     ],
     "wof:breaches":[],
@@ -47,8 +49,8 @@
     "wof:geomhash":"8c6f31998b6030e8dccd0e843878f2e5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296769,
             "locality_id":101814589,
             "neighbourhood_id":1495149203,
@@ -56,7 +58,7 @@
         }
     ],
     "wof:id":1495149203,
-    "wof:lastmodified":1571393856,
+    "wof:lastmodified":1571679376,
     "wof:name":"Svartbakken",
     "wof:parent_id":101814589,
     "wof:placetype":"neighbourhood",

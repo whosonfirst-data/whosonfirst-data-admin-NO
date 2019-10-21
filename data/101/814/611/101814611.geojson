@@ -100,7 +100,9 @@
     "src:population":"geonames",
     "wd:wordcount":513,
     "wof:belongsto":[
+        102191581,
         1159297039,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -116,8 +118,8 @@
     "wof:geomhash":"b57296d6d17bef89d451918ca96583e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297039,
             "locality_id":101814611,
             "region_id":85687135
@@ -127,7 +129,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571386222,
+    "wof:lastmodified":1571679335,
     "wof:name":"Stamsund",
     "wof:parent_id":1159297039,
     "wof:placetype":"locality",

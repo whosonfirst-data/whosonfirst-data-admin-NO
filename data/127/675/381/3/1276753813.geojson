@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297535,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"ecc3923fe1719e302b658163c7acd448",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297535,
             "locality_id":1276753813,
             "region_id":85687135
         }
     ],
     "wof:id":1276753813,
-    "wof:lastmodified":1571381492,
+    "wof:lastmodified":1571679290,
     "wof:name":"Ekren",
     "wof:parent_id":1159297535,
     "wof:placetype":"locality",

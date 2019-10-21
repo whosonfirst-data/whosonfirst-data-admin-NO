@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297087,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"79b0c7527a8ef1c2bbd4a54c4648ed36",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297087,
             "locality_id":1209599853,
             "region_id":85687135
         }
     ],
     "wof:id":1209599853,
-    "wof:lastmodified":1571383384,
+    "wof:lastmodified":1571679245,
     "wof:name":"Hamsund",
     "wof:parent_id":1159297087,
     "wof:placetype":"locality",

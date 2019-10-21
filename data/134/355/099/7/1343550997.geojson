@@ -44,7 +44,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296877,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -55,15 +57,15 @@
     "wof:geomhash":"c9ce16e4548f0839e4a45214f6a4c2ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296877,
             "locality_id":1343550997,
             "region_id":85687135
         }
     ],
     "wof:id":1343550997,
-    "wof:lastmodified":1571356206,
+    "wof:lastmodified":1571679317,
     "wof:name":"Luktvatnet",
     "wof:parent_id":1159296877,
     "wof:placetype":"locality",

@@ -128,7 +128,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297343,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -139,15 +141,15 @@
     "wof:geomhash":"61935e9d98b4ec77f74c0e10245e7394",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297343,
             "locality_id":1260177965,
             "region_id":85687135
         }
     ],
     "wof:id":1260177965,
-    "wof:lastmodified":1571384580,
+    "wof:lastmodified":1571679273,
     "wof:name":"Berg",
     "wof:parent_id":1159297343,
     "wof:placetype":"locality",

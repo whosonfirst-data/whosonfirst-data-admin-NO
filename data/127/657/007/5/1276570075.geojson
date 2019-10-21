@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296695,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"775a6cd8d6efc227604082a408cf3952",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296695,
             "locality_id":1276570075,
             "region_id":85687135
         }
     ],
     "wof:id":1276570075,
-    "wof:lastmodified":1571381921,
+    "wof:lastmodified":1571679339,
     "wof:name":"Nedre Leira",
     "wof:parent_id":1159296695,
     "wof:placetype":"locality",

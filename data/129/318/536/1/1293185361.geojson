@@ -38,7 +38,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297417,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -49,15 +51,15 @@
     "wof:geomhash":"838ed8817985c1453e935aa3f7983e47",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297417,
             "locality_id":1293185361,
             "region_id":85687135
         }
     ],
     "wof:id":1293185361,
-    "wof:lastmodified":1571380938,
+    "wof:lastmodified":1571679268,
     "wof:name":"Steine",
     "wof:parent_id":1159297417,
     "wof:placetype":"locality",

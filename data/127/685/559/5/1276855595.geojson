@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296963,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"910596b3368b247e4d358fcb950ac70a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296963,
             "locality_id":1276855595,
             "region_id":85687135
         }
     ],
     "wof:id":1276855595,
-    "wof:lastmodified":1571382094,
+    "wof:lastmodified":1571679317,
     "wof:name":"Stien",
     "wof:parent_id":1159296963,
     "wof:placetype":"locality",

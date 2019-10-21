@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297087,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"81a0f181a0fee6657600ac1d6a96548b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297087,
             "locality_id":1310496019,
             "region_id":85687135
         }
     ],
     "wof:id":1310496019,
-    "wof:lastmodified":1571384828,
+    "wof:lastmodified":1571679298,
     "wof:name":"Hamnes",
     "wof:parent_id":1159297087,
     "wof:placetype":"locality",

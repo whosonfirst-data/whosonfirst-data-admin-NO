@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297539,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"3153e8d6cdc168dacb16ead394552144",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297539,
             "locality_id":1293773681,
             "region_id":85687135
         }
     ],
     "wof:id":1293773681,
-    "wof:lastmodified":1571380393,
+    "wof:lastmodified":1571679310,
     "wof:name":"Oygarden",
     "wof:parent_id":1159297539,
     "wof:placetype":"locality",

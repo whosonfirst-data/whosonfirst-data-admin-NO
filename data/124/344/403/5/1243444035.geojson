@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296963,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"00e824cf4b80093bf6b4eb61060fc9a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296963,
             "locality_id":1243444035,
             "region_id":85687135
         }
     ],
     "wof:id":1243444035,
-    "wof:lastmodified":1571391010,
+    "wof:lastmodified":1571679284,
     "wof:name":"Bjornvassdalen",
     "wof:parent_id":1159296963,
     "wof:placetype":"locality",

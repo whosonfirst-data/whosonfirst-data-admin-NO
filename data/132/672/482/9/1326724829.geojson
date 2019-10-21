@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296997,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"85cd3887f380cb0b19b7cad2a947efac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296997,
             "locality_id":1326724829,
             "region_id":85687135
         }
     ],
     "wof:id":1326724829,
-    "wof:lastmodified":1571354840,
+    "wof:lastmodified":1571679291,
     "wof:name":"Skavolldalen",
     "wof:parent_id":1159296997,
     "wof:placetype":"locality",

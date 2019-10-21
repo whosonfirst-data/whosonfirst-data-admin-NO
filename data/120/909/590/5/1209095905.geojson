@@ -35,7 +35,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297149,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -46,15 +48,15 @@
     "wof:geomhash":"1260b0548a8c23b491867ffd18c6e6d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297149,
             "locality_id":1209095905,
             "region_id":85687135
         }
     ],
     "wof:id":1209095905,
-    "wof:lastmodified":1571382690,
+    "wof:lastmodified":1571679223,
     "wof:name":"Kulvikja",
     "wof:parent_id":1159297149,
     "wof:placetype":"locality",

@@ -52,7 +52,9 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159297535,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -66,15 +68,15 @@
     "wof:geomhash":"f135b67ed54ee7c91ea589dc47dec6aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297535,
             "locality_id":1125817917,
             "region_id":85687135
         }
     ],
     "wof:id":1125817917,
-    "wof:lastmodified":1571387271,
+    "wof:lastmodified":1571679214,
     "wof:name":"Indre Leines",
     "wof:parent_id":1159297535,
     "wof:placetype":"locality",

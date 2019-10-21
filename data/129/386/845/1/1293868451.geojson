@@ -63,7 +63,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297087,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -75,15 +77,15 @@
     "wof:geomhash":"8ad02cbb53a55daf286d150b6b7a10ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297087,
             "locality_id":1293868451,
             "region_id":85687135
         }
     ],
     "wof:id":1293868451,
-    "wof:lastmodified":1571381274,
+    "wof:lastmodified":1571679326,
     "wof:name":"Skutvika",
     "wof:parent_id":1159297087,
     "wof:placetype":"locality",

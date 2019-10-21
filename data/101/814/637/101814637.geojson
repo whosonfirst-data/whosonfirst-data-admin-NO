@@ -76,7 +76,9 @@
     "src:population":"geonames",
     "wd:wordcount":124,
     "wof:belongsto":[
+        102191581,
         1159296963,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -92,8 +94,8 @@
     "wof:geomhash":"f29f192ef7d6abdae3deade57a3059c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296963,
             "locality_id":101814637,
             "region_id":85687135
@@ -103,7 +105,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571386273,
+    "wof:lastmodified":1571679369,
     "wof:name":"Hauknes",
     "wof:parent_id":1159296963,
     "wof:placetype":"locality",

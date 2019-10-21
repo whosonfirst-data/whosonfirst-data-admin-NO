@@ -129,7 +129,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296883,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -140,15 +142,15 @@
     "wof:geomhash":"b7188c030f354b1f2b2ff3a833a2624b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296883,
             "locality_id":1276651165,
             "region_id":85687135
         }
     ],
     "wof:id":1276651165,
-    "wof:lastmodified":1571382536,
+    "wof:lastmodified":1571679294,
     "wof:name":"Vinje",
     "wof:parent_id":1159296883,
     "wof:placetype":"locality",

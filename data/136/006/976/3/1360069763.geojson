@@ -41,7 +41,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297465,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -52,15 +54,15 @@
     "wof:geomhash":"2b9d4ab2180a37c44fb3deaf5ab4e4ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297465,
             "locality_id":1360069763,
             "region_id":85687135
         }
     ],
     "wof:id":1360069763,
-    "wof:lastmodified":1571385624,
+    "wof:lastmodified":1571679219,
     "wof:name":"Reitan",
     "wof:parent_id":1159297465,
     "wof:placetype":"locality",

@@ -37,6 +37,7 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
+        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -47,13 +48,13 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":-1,
+            "country_id":85633341,
             "localadmin_id":1159296985,
             "region_id":85687085
         }
     ],
     "wof:id":1159296985,
-    "wof:lastmodified":1571389734,
+    "wof:lastmodified":1571679433,
     "wof:name":"Rennesoy",
     "wof:parent_id":85687085,
     "wof:placetype":"localadmin",

@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296743,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"1376bf7c991fc21372bd6bc5fa3cda8d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296743,
             "locality_id":1209511067,
             "region_id":85687135
         }
     ],
     "wof:id":1209511067,
-    "wof:lastmodified":1571383525,
+    "wof:lastmodified":1571679242,
     "wof:name":"Ingelsfjord",
     "wof:parent_id":1159296743,
     "wof:placetype":"locality",

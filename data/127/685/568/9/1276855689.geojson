@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296833,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"f6956db6df1f300debbac4a12b14f9be",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296833,
             "locality_id":1276855689,
             "region_id":85687135
         }
     ],
     "wof:id":1276855689,
-    "wof:lastmodified":1571382095,
+    "wof:lastmodified":1571679315,
     "wof:name":"Vollan",
     "wof:parent_id":1159296833,
     "wof:placetype":"locality",

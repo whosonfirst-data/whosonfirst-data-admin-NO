@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296809,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"23c2eb3fa33f06e685de719c76afab78",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296809,
             "locality_id":1276640359,
             "region_id":85687135
         }
     ],
     "wof:id":1276640359,
-    "wof:lastmodified":1571382346,
+    "wof:lastmodified":1571679298,
     "wof:name":"AEsvik",
     "wof:parent_id":1159296809,
     "wof:placetype":"locality",

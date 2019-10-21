@@ -47,7 +47,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297203,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -58,15 +60,15 @@
     "wof:geomhash":"b6827d3254c3365fd3e94c40ecd60a46",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297203,
             "locality_id":1209204335,
             "region_id":85687135
         }
     ],
     "wof:id":1209204335,
-    "wof:lastmodified":1571383620,
+    "wof:lastmodified":1571679234,
     "wof:name":"Medby",
     "wof:parent_id":1159297203,
     "wof:placetype":"locality",

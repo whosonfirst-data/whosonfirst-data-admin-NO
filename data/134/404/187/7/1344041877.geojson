@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297539,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"8c01b5dbba424c05aecef4f3d5dff7d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297539,
             "locality_id":1344041877,
             "region_id":85687135
         }
     ],
     "wof:id":1344041877,
-    "wof:lastmodified":1571357140,
+    "wof:lastmodified":1571679302,
     "wof:name":"Store Sandnes",
     "wof:parent_id":1159297539,
     "wof:placetype":"locality",

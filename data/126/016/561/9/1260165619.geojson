@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297149,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"e0613d193a83badfdb7a9d8a840284a5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297149,
             "locality_id":1260165619,
             "region_id":85687135
         }
     ],
     "wof:id":1260165619,
-    "wof:lastmodified":1571384550,
+    "wof:lastmodified":1571679267,
     "wof:name":"Skard",
     "wof:parent_id":1159297149,
     "wof:placetype":"locality",

@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297115,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"346367d6fecd22424a490bca2d728ebc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297115,
             "locality_id":1193262861,
             "region_id":85687135
         }
     ],
     "wof:id":1193262861,
-    "wof:lastmodified":1571384235,
+    "wof:lastmodified":1571679232,
     "wof:name":"Dverset",
     "wof:parent_id":1159297115,
     "wof:placetype":"locality",

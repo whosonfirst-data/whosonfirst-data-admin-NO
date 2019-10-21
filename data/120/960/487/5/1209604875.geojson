@@ -41,7 +41,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297109,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -52,15 +54,15 @@
     "wof:geomhash":"1310fd13a52e881a51ea2ee071cc33f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297109,
             "locality_id":1209604875,
             "region_id":85687135
         }
     ],
     "wof:id":1209604875,
-    "wof:lastmodified":1571383484,
+    "wof:lastmodified":1571679243,
     "wof:name":"Avki",
     "wof:parent_id":1159297109,
     "wof:placetype":"locality",

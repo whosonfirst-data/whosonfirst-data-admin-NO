@@ -34,6 +34,8 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        102191581,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,14 +45,14 @@
     "wof:geomhash":"212c2993062f7e35b136169c26444074",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296959,
             "region_id":85687135
         }
     ],
     "wof:id":1159296959,
-    "wof:lastmodified":1571389070,
+    "wof:lastmodified":1571679194,
     "wof:name":"Sorfold",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

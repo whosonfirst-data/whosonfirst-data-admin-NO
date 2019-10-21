@@ -82,7 +82,9 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297007,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -96,15 +98,15 @@
     "wof:geomhash":"4521fb26c49f5b0c94fd765b4cf8d9ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297007,
             "locality_id":1126005999,
             "region_id":85687135
         }
     ],
     "wof:id":1126005999,
-    "wof:lastmodified":1571388063,
+    "wof:lastmodified":1571679233,
     "wof:name":"Tj\u00f8tta",
     "wof:parent_id":1159297007,
     "wof:placetype":"locality",

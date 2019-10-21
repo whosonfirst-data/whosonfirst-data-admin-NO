@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297343,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"53ea670abd86cfb216e2f6be0613fa70",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297343,
             "locality_id":1209599915,
             "region_id":85687135
         }
     ],
     "wof:id":1209599915,
-    "wof:lastmodified":1571383363,
+    "wof:lastmodified":1571679246,
     "wof:name":"Mjelde",
     "wof:parent_id":1159297343,
     "wof:placetype":"locality",

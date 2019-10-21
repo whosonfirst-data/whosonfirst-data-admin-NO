@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296963,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"f4e887a1eb5ab3935adb07b05164d4af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296963,
             "locality_id":1276323497,
             "region_id":85687135
         }
     ],
     "wof:id":1276323497,
-    "wof:lastmodified":1571381855,
+    "wof:lastmodified":1571679341,
     "wof:name":"Ramnaa",
     "wof:parent_id":1159296963,
     "wof:placetype":"locality",

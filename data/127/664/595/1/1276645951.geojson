@@ -56,7 +56,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296833,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -67,15 +69,15 @@
     "wof:geomhash":"1c1be54efdf6a7bc00aebff3c5e805d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296833,
             "locality_id":1276645951,
             "region_id":85687135
         }
     ],
     "wof:id":1276645951,
-    "wof:lastmodified":1571382322,
+    "wof:lastmodified":1571679301,
     "wof:name":"Furulund",
     "wof:parent_id":1159296833,
     "wof:placetype":"locality",

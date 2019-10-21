@@ -33,7 +33,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         85687135,
+        102191581,
         1159297619,
+        85633341,
         101814581
     ],
     "wof:breaches":[],
@@ -44,8 +46,8 @@
     "wof:geomhash":"5d71f17d11a5dae47d6eddf568171fa0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297619,
             "locality_id":101814581,
             "neighbourhood_id":1495148539,
@@ -53,7 +55,7 @@
         }
     ],
     "wof:id":1495148539,
-    "wof:lastmodified":1571393765,
+    "wof:lastmodified":1571679375,
     "wof:name":"Husoya",
     "wof:parent_id":101814581,
     "wof:placetype":"neighbourhood",

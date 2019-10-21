@@ -83,7 +83,9 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159297273,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -98,15 +100,15 @@
     "wof:geomhash":"8fcca340353b8a334236b673171cac21",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297273,
             "locality_id":1125988527,
             "region_id":85687135
         }
     ],
     "wof:id":1125988527,
-    "wof:lastmodified":1571387953,
+    "wof:lastmodified":1571679231,
     "wof:name":"Sigerfjord",
     "wof:parent_id":1159297273,
     "wof:placetype":"locality",

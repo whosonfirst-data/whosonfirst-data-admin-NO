@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296769,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"e22aa4be23ca1e757b0b5ebe5720c9b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296769,
             "locality_id":1226438425,
             "region_id":85687135
         }
     ],
     "wof:id":1226438425,
-    "wof:lastmodified":1571391905,
+    "wof:lastmodified":1571679257,
     "wof:name":"Seljeholet",
     "wof:parent_id":1159296769,
     "wof:placetype":"locality",

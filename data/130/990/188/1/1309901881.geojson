@@ -41,7 +41,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297539,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -53,15 +55,15 @@
     "wof:geomhash":"8138b3e6c6b1cd49903a9f62b3083199",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297539,
             "locality_id":1309901881,
             "region_id":85687135
         }
     ],
     "wof:id":1309901881,
-    "wof:lastmodified":1571386379,
+    "wof:lastmodified":1571679336,
     "wof:name":"Fiskenes",
     "wof:parent_id":1159297539,
     "wof:placetype":"locality",

@@ -38,7 +38,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         85687135,
+        102191581,
         1159296963,
+        85633341,
         101814637
     ],
     "wof:breaches":[],
@@ -49,8 +51,8 @@
     "wof:geomhash":"22a0f5de1e8996f729040f8fde45c382",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296963,
             "locality_id":101814637,
             "neighbourhood_id":1495148087,
@@ -58,7 +60,7 @@
         }
     ],
     "wof:id":1495148087,
-    "wof:lastmodified":1571393777,
+    "wof:lastmodified":1571679376,
     "wof:name":"Bjornbaervika",
     "wof:parent_id":101814637,
     "wof:placetype":"neighbourhood",

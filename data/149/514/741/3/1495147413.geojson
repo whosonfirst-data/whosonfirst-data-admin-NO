@@ -168,7 +168,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         85687135,
+        102191581,
         1159296883,
+        85633341,
         101814605
     ],
     "wof:breaches":[],
@@ -182,8 +184,8 @@
     "wof:geomhash":"7ee47b83980b937be6c9e04d152bc81a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296883,
             "locality_id":101814605,
             "neighbourhood_id":1495147413,
@@ -191,7 +193,7 @@
         }
     ],
     "wof:id":1495147413,
-    "wof:lastmodified":1571393514,
+    "wof:lastmodified":1571679373,
     "wof:name":"V\u00e5gan",
     "wof:parent_id":101814605,
     "wof:placetype":"neighbourhood",

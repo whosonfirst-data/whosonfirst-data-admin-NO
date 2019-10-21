@@ -38,7 +38,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297115,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -49,15 +51,15 @@
     "wof:geomhash":"e757649d9ebd530ac4c478a3da5e8644",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297115,
             "locality_id":1293090719,
             "region_id":85687135
         }
     ],
     "wof:id":1293090719,
-    "wof:lastmodified":1571380159,
+    "wof:lastmodified":1571679343,
     "wof:name":"Bergholnes",
     "wof:parent_id":1159297115,
     "wof:placetype":"locality",

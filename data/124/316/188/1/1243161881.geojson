@@ -41,7 +41,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297265,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -52,15 +54,15 @@
     "wof:geomhash":"29c274cb83b92c6acc24ef4e17b3028a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297265,
             "locality_id":1243161881,
             "region_id":85687135
         }
     ],
     "wof:id":1243161881,
-    "wof:lastmodified":1571390914,
+    "wof:lastmodified":1571679280,
     "wof:name":"Trones",
     "wof:parent_id":1159297265,
     "wof:placetype":"locality",

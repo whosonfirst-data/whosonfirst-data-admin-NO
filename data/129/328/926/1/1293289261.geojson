@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297445,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"453093b5024740f84cd6f974f570e890",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297445,
             "locality_id":1293289261,
             "region_id":85687135
         }
     ],
     "wof:id":1293289261,
-    "wof:lastmodified":1571381134,
+    "wof:lastmodified":1571679289,
     "wof:name":"Mossem",
     "wof:parent_id":1159297445,
     "wof:placetype":"locality",

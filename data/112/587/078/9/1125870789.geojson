@@ -89,7 +89,9 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159296997,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -104,15 +106,15 @@
     "wof:geomhash":"5a4a01426b295b066418c1e4bfff487d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296997,
             "locality_id":1125870789,
             "region_id":85687135
         }
     ],
     "wof:id":1125870789,
-    "wof:lastmodified":1571387530,
+    "wof:lastmodified":1571679339,
     "wof:name":"Inndyr",
     "wof:parent_id":1159296997,
     "wof:placetype":"locality",

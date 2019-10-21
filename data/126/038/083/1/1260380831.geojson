@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297093,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"976e2d3f05f2dfa1acb14b99908be5ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297093,
             "locality_id":1260380831,
             "region_id":85687135
         }
     ],
     "wof:id":1260380831,
-    "wof:lastmodified":1571384343,
+    "wof:lastmodified":1571679354,
     "wof:name":"Tvenningen",
     "wof:parent_id":1159297093,
     "wof:placetype":"locality",

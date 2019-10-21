@@ -34,7 +34,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297343,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -45,15 +47,15 @@
     "wof:geomhash":"e462ec79cba750ae5d06ab8d8063653a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297343,
             "locality_id":1259346039,
             "region_id":85687135
         }
     ],
     "wof:id":1259346039,
-    "wof:lastmodified":1571391656,
+    "wof:lastmodified":1571679356,
     "wof:name":"Myrland",
     "wof:parent_id":1159297343,
     "wof:placetype":"locality",

@@ -117,7 +117,9 @@
     "wd:longitude":16.118056,
     "wd:wordcount":690,
     "wof:belongsto":[
+        102191581,
         1159297539,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -133,8 +135,8 @@
     "wof:geomhash":"6841724e40e7e082155bb0e05b7d396a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297539,
             "locality_id":101814587,
             "region_id":85687135
@@ -144,7 +146,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571386242,
+    "wof:lastmodified":1571679368,
     "wof:name":"Andenes",
     "wof:parent_id":1159297539,
     "wof:placetype":"locality",

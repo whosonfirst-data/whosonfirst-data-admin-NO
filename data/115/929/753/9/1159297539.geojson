@@ -36,6 +36,8 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        102191581,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -45,14 +47,14 @@
     "wof:geomhash":"cdd02495d73722cf648b3a154028ec96",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297539,
             "region_id":85687135
         }
     ],
     "wof:id":1159297539,
-    "wof:lastmodified":1571388748,
+    "wof:lastmodified":1571679199,
     "wof:name":"Andoy",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

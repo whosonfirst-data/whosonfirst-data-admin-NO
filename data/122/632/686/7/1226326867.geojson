@@ -38,7 +38,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297265,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -49,15 +51,15 @@
     "wof:geomhash":"08082b10a0225fa4e9cdd5f9c355a567",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297265,
             "locality_id":1226326867,
             "region_id":85687135
         }
     ],
     "wof:id":1226326867,
-    "wof:lastmodified":1571392220,
+    "wof:lastmodified":1571679259,
     "wof:name":"Storjorda",
     "wof:parent_id":1159297265,
     "wof:placetype":"locality",

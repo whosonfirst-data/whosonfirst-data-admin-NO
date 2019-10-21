@@ -35,7 +35,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297115,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -46,15 +48,15 @@
     "wof:geomhash":"26ed174b96e6fcaf16472ab167758601",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297115,
             "locality_id":1327218131,
             "region_id":85687135
         }
     ],
     "wof:id":1327218131,
-    "wof:lastmodified":1571355900,
+    "wof:lastmodified":1571679331,
     "wof:name":"Oksengarden",
     "wof:parent_id":1159297115,
     "wof:placetype":"locality",

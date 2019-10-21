@@ -35,7 +35,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297417,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -46,15 +48,15 @@
     "wof:geomhash":"c6c4ee35ffdebe79d53ab67b7b7111db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297417,
             "locality_id":1260177803,
             "region_id":85687135
         }
     ],
     "wof:id":1260177803,
-    "wof:lastmodified":1571384606,
+    "wof:lastmodified":1571679353,
     "wof:name":"Malnes",
     "wof:parent_id":1159297417,
     "wof:placetype":"locality",

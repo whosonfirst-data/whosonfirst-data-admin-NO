@@ -35,7 +35,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297465,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -46,15 +48,15 @@
     "wof:geomhash":"8454a708a691380160b54d5e5a45f989",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297465,
             "locality_id":1343545617,
             "region_id":85687135
         }
     ],
     "wof:id":1343545617,
-    "wof:lastmodified":1571356119,
+    "wof:lastmodified":1571679301,
     "wof:name":"Ryet",
     "wof:parent_id":1159297465,
     "wof:placetype":"locality",

@@ -35,7 +35,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297347,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -46,15 +48,15 @@
     "wof:geomhash":"345678013c04751c1d8d0bd380a1af1c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297347,
             "locality_id":1209504943,
             "region_id":85687135
         }
     ],
     "wof:id":1209504943,
-    "wof:lastmodified":1571383306,
+    "wof:lastmodified":1571679244,
     "wof:name":"Sleneset",
     "wof:parent_id":1159297347,
     "wof:placetype":"locality",

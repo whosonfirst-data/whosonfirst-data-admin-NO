@@ -39,6 +39,7 @@
     "wof:belongsto":[
         102191581,
         1159297601,
+        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -50,14 +51,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":-1,
+            "country_id":85633341,
             "localadmin_id":1159297601,
             "locality_id":1327317191,
             "region_id":85687085
         }
     ],
     "wof:id":1327317191,
-    "wof:lastmodified":1571379059,
+    "wof:lastmodified":1571679476,
     "wof:name":"Skjeveland",
     "wof:parent_id":1159297601,
     "wof:placetype":"locality",

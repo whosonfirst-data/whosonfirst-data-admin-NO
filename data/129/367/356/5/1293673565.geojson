@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297343,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -43,15 +45,15 @@
     "wof:geomhash":"2da8195c64e1c75208069dd0ba79b315",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297343,
             "locality_id":1293673565,
             "region_id":85687135
         }
     ],
     "wof:id":1293673565,
-    "wof:lastmodified":1571380756,
+    "wof:lastmodified":1571679324,
     "wof:name":"Marhaug",
     "wof:parent_id":1159297343,
     "wof:placetype":"locality",

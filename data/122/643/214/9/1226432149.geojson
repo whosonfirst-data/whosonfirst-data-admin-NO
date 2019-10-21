@@ -39,7 +39,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297417,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -50,15 +52,15 @@
     "wof:geomhash":"a088f68c3aa1ac94ea13ecade7ca4ec4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297417,
             "locality_id":1226432149,
             "region_id":85687135
         }
     ],
     "wof:id":1226432149,
-    "wof:lastmodified":1571391917,
+    "wof:lastmodified":1571679254,
     "wof:name":"Skarvagen",
     "wof:parent_id":1159297417,
     "wof:placetype":"locality",

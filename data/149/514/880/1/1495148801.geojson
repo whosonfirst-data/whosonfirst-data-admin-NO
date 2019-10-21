@@ -36,7 +36,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         85687135,
+        102191581,
         1159296877,
+        85633341,
         101814645
     ],
     "wof:breaches":[],
@@ -47,8 +49,8 @@
     "wof:geomhash":"f8e1c242e0dee68b9fc73e2c91ac5ab3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296877,
             "locality_id":101814645,
             "neighbourhood_id":1495148801,
@@ -56,7 +58,7 @@
         }
     ],
     "wof:id":1495148801,
-    "wof:lastmodified":1571393247,
+    "wof:lastmodified":1571679372,
     "wof:name":"Olderskog",
     "wof:parent_id":101814645,
     "wof:placetype":"neighbourhood",

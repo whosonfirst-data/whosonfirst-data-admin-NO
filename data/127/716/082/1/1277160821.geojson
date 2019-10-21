@@ -34,6 +34,7 @@
     "wof:belongsto":[
         102191581,
         1159297629,
+        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -45,14 +46,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":-1,
+            "country_id":85633341,
             "localadmin_id":1159297629,
             "locality_id":1277160821,
             "region_id":85687085
         }
     ],
     "wof:id":1277160821,
-    "wof:lastmodified":1571382651,
+    "wof:lastmodified":1571679468,
     "wof:name":"Sleveland",
     "wof:parent_id":1159297629,
     "wof:placetype":"locality",

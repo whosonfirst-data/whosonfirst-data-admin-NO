@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297571,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -48,15 +50,15 @@
     "wof:geomhash":"5265d0a8704281e7b6e690984fa6b816",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297571,
             "locality_id":1259668091,
             "region_id":85687135
         }
     ],
     "wof:id":1259668091,
-    "wof:lastmodified":1571391515,
+    "wof:lastmodified":1571679352,
     "wof:name":"Fallmoen",
     "wof:parent_id":1159297571,
     "wof:placetype":"locality",

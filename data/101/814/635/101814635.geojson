@@ -264,7 +264,9 @@
     "src:population":"geonames",
     "wd:wordcount":2056,
     "wof:belongsto":[
+        102191581,
         1159296963,
+        85633341,
         85687135
     ],
     "wof:breaches":[],
@@ -283,8 +285,8 @@
     "wof:geomhash":"9f6d03ff1f389a9b292b2576000d42ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296963,
             "locality_id":101814635,
             "region_id":85687135
@@ -294,7 +296,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571386227,
+    "wof:lastmodified":1571679368,
     "wof:name":"Mo i Rana",
     "wof:parent_id":1159296963,
     "wof:placetype":"locality",
