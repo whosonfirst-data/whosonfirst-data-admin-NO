@@ -233,8 +233,10 @@
     "src:population":"geonames",
     "wd:wordcount":1434,
     "wof:belongsto":[
+        102191581,
         1159297133,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -249,18 +251,18 @@
     "wof:geomhash":"07e2b14d4349199ef343fe109596c36e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297133,
             "locality_id":101814535,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":101814535,
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571077320,
+    "wof:lastmodified":1571393067,
     "wof:name":"R\u00f8ros",
     "wof:parent_id":1159297133,
     "wof:placetype":"locality",

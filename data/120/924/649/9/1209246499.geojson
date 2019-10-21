@@ -38,7 +38,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297143,
+        85633341,
+        85687145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,17 @@
     "wof:geomhash":"c4a9aa4965a9b870aede4ec5678c4903",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209246499
+            "localadmin_id":1159297143,
+            "locality_id":1209246499,
+            "region_id":85687145
         }
     ],
     "wof:id":1209246499,
-    "wof:lastmodified":1571077226,
+    "wof:lastmodified":1571383181,
     "wof:name":"Hamnnes",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297143,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

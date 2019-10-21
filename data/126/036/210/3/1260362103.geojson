@@ -37,8 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296767,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,15 @@
     "wof:geomhash":"fd9a688321e1912263a54253b0c9efef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296767,
             "locality_id":1260362103,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1260362103,
-    "wof:lastmodified":1571077267,
+    "wof:lastmodified":1571392977,
     "wof:name":"Fageras",
     "wof:parent_id":1159296767,
     "wof:placetype":"locality",

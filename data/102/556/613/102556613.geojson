@@ -78,8 +78,8 @@
         "state_id":2346392
     },
     "wof:belongsto":[
-        85633341,
-        85687135
+        85687135,
+        1159296883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,14 +94,18 @@
     "wof:hierarchy":[
         {
             "campus_id":102556613,
-            "country_id":85633341,
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296883,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
             "region_id":85687135
         }
     ],
     "wof:id":102556613,
-    "wof:lastmodified":1571077104,
+    "wof:lastmodified":1571356052,
     "wof:name":"Svolv\u00e6r Lufthavn",
-    "wof:parent_id":85687135,
+    "wof:parent_id":1159296883,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

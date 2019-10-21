@@ -38,7 +38,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297573,
+        85633341,
+        85687109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,17 @@
     "wof:geomhash":"50fe097503e9278e3a0b3d3b04d885f7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209596503
+            "localadmin_id":1159297573,
+            "locality_id":1209596503,
+            "region_id":85687109
         }
     ],
     "wof:id":1209596503,
-    "wof:lastmodified":1571077231,
+    "wof:lastmodified":1571383378,
     "wof:name":"Rudningsgrende",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297573,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

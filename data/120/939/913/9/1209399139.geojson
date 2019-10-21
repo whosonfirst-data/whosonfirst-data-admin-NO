@@ -35,7 +35,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        1159297115,
+        85687135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,17 @@
     "wof:geomhash":"c3012b0a16ca3bb9e2f8ee81c88ea841",
     "wof:hierarchy":[
         {
-            "country_id":85633341,
-            "locality_id":1209399139
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297115,
+            "locality_id":1209399139,
+            "region_id":85687135
         }
     ],
     "wof:id":1209399139,
-    "wof:lastmodified":1571077219,
+    "wof:lastmodified":1571382868,
     "wof:name":"Innersetsa",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297115,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

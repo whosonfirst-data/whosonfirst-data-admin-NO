@@ -25,16 +25,28 @@
     "src:geom":"whosonfirst",
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1159296709,
+        85687085
+    ],
     "wof:breaches":[],
     "wof:country":"NO",
     "wof:created":1570830014,
     "wof:geomhash":"9e444ffbf3af7fe33ca8a3e78fa5094e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "localadmin_id":1159296709,
+            "locality_id":1495123957,
+            "region_id":85687085
+        }
+    ],
     "wof:id":1495123957,
-    "wof:lastmodified":1571184853,
+    "wof:lastmodified":1571393984,
     "wof:name":"Haugesund",
-    "wof:parent_id":-1,
+    "wof:parent_id":1159296709,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

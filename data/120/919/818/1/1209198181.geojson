@@ -56,7 +56,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159296907,
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,14 +70,17 @@
     "wof:geomhash":"b8dab638c87b8fa719041aafdc21456e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209198181
+            "localadmin_id":1159296907,
+            "locality_id":1209198181,
+            "region_id":1495115971
         }
     ],
     "wof:id":1209198181,
-    "wof:lastmodified":1571077245,
+    "wof:lastmodified":1571393050,
     "wof:name":"Maere",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296907,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

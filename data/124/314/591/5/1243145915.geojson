@@ -64,7 +64,6 @@
     "wof:belongsto":[
         102191581,
         1159296961,
-        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -76,14 +75,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159296961,
             "locality_id":1243145915,
             "region_id":85687085
         }
     ],
     "wof:id":1243145915,
-    "wof:lastmodified":1571077412,
+    "wof:lastmodified":1571390479,
     "wof:name":"Foss",
     "wof:parent_id":1159296961,
     "wof:placetype":"locality",

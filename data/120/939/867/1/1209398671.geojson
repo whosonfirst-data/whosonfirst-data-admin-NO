@@ -53,7 +53,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159296801,
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,14 +66,17 @@
     "wof:geomhash":"f3504ad9b70f3ede55d17f0eef4b9cd5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209398671
+            "localadmin_id":1159296801,
+            "locality_id":1209398671,
+            "region_id":1495115971
         }
     ],
     "wof:id":1209398671,
-    "wof:lastmodified":1571077219,
+    "wof:lastmodified":1571392958,
     "wof:name":"Lyng",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296801,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

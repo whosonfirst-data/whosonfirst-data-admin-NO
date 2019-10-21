@@ -38,7 +38,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297063,
+        85687085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +51,17 @@
     "wof:geomhash":"0673f1de4c4a29bfa88f651637e94bc4",
     "wof:hierarchy":[
         {
-            "country_id":85633341,
-            "locality_id":1209385993
+            "continent_id":102191581,
+            "country_id":-1,
+            "localadmin_id":1159297063,
+            "locality_id":1209385993,
+            "region_id":85687085
         }
     ],
     "wof:id":1209385993,
-    "wof:lastmodified":1571077216,
+    "wof:lastmodified":1571382732,
     "wof:name":"Heskestad",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297063,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

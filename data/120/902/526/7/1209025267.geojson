@@ -37,7 +37,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        1159297571,
+        85687135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,17 @@
     "wof:geomhash":"d89f14399409f119f2c3d055f90c2b7d",
     "wof:hierarchy":[
         {
-            "country_id":85633341,
-            "locality_id":1209025267
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297571,
+            "locality_id":1209025267,
+            "region_id":85687135
         }
     ],
     "wof:id":1209025267,
-    "wof:lastmodified":1571077238,
+    "wof:lastmodified":1571383538,
     "wof:name":"Austervefsn",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297571,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

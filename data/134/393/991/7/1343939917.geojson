@@ -32,8 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296717,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +45,15 @@
     "wof:geomhash":"abf5bdb982986d07998ac3af24f0dd54",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296717,
             "locality_id":1343939917,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1343939917,
-    "wof:lastmodified":1571077128,
+    "wof:lastmodified":1571393024,
     "wof:name":"Buset",
     "wof:parent_id":1159296717,
     "wof:placetype":"locality",

@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297595,
+        85633341,
+        85687143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"52087dd1fc3cbbe6972d6a876674a501",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209072515
+            "localadmin_id":1159297595,
+            "locality_id":1209072515,
+            "region_id":85687143
         }
     ],
     "wof:id":1209072515,
-    "wof:lastmodified":1571077216,
+    "wof:lastmodified":1571382757,
     "wof:name":"Molnevika",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297595,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

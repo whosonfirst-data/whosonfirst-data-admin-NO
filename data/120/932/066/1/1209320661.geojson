@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297513,
+        85633341,
+        85687105
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"3624bf7e18953cf2f6a1bb9f00e29c64",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209320661
+            "localadmin_id":1159297513,
+            "locality_id":1209320661,
+            "region_id":85687105
         }
     ],
     "wof:id":1209320661,
-    "wof:lastmodified":1571077233,
+    "wof:lastmodified":1571383404,
     "wof:name":"Gamlesnyta",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297513,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

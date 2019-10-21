@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159296807,
+        85633341,
+        85687117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,17 @@
     "wof:geomhash":"18b5e742ef5315c858a35d34f79e140e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209128219
+            "localadmin_id":1159296807,
+            "locality_id":1209128219,
+            "region_id":85687117
         }
     ],
     "wof:id":1209128219,
-    "wof:lastmodified":1571077226,
+    "wof:lastmodified":1571383166,
     "wof:name":"Kjerkhus",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296807,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

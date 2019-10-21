@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297169,
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"c7dbdb7a91e3154ac4f23b16b523bbc1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209498871
+            "localadmin_id":1159297169,
+            "locality_id":1209498871,
+            "region_id":1495115971
         }
     ],
     "wof:id":1209498871,
-    "wof:lastmodified":1571077228,
+    "wof:lastmodified":1571392961,
     "wof:name":"Laugen",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297169,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

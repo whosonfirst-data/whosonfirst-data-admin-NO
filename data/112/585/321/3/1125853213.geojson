@@ -79,7 +79,6 @@
     "wof:belongsto":[
         102191581,
         1159297211,
-        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -95,14 +94,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159297211,
             "locality_id":1125853213,
             "region_id":85687085
         }
     ],
     "wof:id":1125853213,
-    "wof:lastmodified":1566662692,
+    "wof:lastmodified":1571388345,
     "wof:name":"Hauge",
     "wof:parent_id":1159297211,
     "wof:placetype":"locality",

@@ -38,8 +38,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1159297145,
-        85687127
+        102191581,
+        1159297145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +49,15 @@
     "wof:geomhash":"bec41a212297281046d4ec89abcceef6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":-1,
             "localadmin_id":1159297145,
             "locality_id":1259852137,
-            "region_id":85687127
+            "region_id":-1
         }
     ],
     "wof:id":1259852137,
-    "wof:lastmodified":1571089524,
+    "wof:lastmodified":1571391383,
     "wof:name":"Persaunet",
     "wof:parent_id":1159297145,
     "wof:placetype":"locality",

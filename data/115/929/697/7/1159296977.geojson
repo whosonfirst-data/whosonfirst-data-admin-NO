@@ -121,7 +121,9 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687127
+        102191581,
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordance":{},
@@ -130,16 +132,16 @@
     "wof:geomhash":"b9a9c89311e2c70fb37857912ef00085",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296977,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1159296977,
-    "wof:lastmodified":1566662909,
+    "wof:lastmodified":1571392920,
     "wof:name":"Selbu",
-    "wof:parent_id":85687127,
+    "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-no",

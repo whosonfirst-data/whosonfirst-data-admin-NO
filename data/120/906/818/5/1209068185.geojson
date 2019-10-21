@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297193,
+        85633341,
+        85687073
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"f273605038da0176223d1c22c257baff",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209068185
+            "localadmin_id":1159297193,
+            "locality_id":1209068185,
+            "region_id":85687073
         }
     ],
     "wof:id":1209068185,
-    "wof:lastmodified":1571077219,
+    "wof:lastmodified":1571382879,
     "wof:name":"Hagenes",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297193,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

@@ -83,7 +83,6 @@
     "wof:belongsto":[
         102191581,
         1159297005,
-        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -98,14 +97,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159297005,
             "locality_id":101803817,
             "region_id":85687085
         }
     ],
     "wof:id":101803817,
-    "wof:lastmodified":1566662375,
+    "wof:lastmodified":1571385975,
     "wof:name":"\u00c5krehamn/Vedav\u00e5gen",
     "wof:parent_id":1159297005,
     "wof:placetype":"locality",

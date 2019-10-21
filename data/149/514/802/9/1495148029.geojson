@@ -35,8 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209377425,
-        85633341
+        85687063,
+        102191581,
+        1159296703,
+        85633341,
+        101751911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +49,18 @@
     "wof:geomhash":"47c92d9bb9f7adfd8584aa8074e7d1b2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209377425,
-            "neighbourhood_id":1495148029
+            "localadmin_id":1159296703,
+            "locality_id":101751911,
+            "neighbourhood_id":1495148029,
+            "region_id":85687063
         }
     ],
     "wof:id":1495148029,
-    "wof:lastmodified":1571089532,
+    "wof:lastmodified":1571393409,
     "wof:name":"Fidjane",
-    "wof:parent_id":85633341,
+    "wof:parent_id":101751911,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

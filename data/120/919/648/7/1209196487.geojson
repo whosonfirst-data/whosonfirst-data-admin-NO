@@ -36,7 +36,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,17 @@
     "wof:geomhash":"8d492614f207bc838153e20a2e7e65fe",
     "wof:hierarchy":[
         {
-            "country_id":85633341,
-            "locality_id":1209196487
+            "continent_id":102191581,
+            "country_id":-1,
+            "localadmin_id":1159297145,
+            "locality_id":1209196487,
+            "region_id":-1
         }
     ],
     "wof:id":1209196487,
-    "wof:lastmodified":1571089567,
+    "wof:lastmodified":1571383746,
     "wof:name":"Kolstad",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297145,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[

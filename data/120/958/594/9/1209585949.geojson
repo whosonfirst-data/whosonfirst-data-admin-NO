@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159296749,
+        85633341,
+        85687113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"6d8cd49905cbf5d5abf7f5c7e8d4366f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209585949
+            "localadmin_id":1159296749,
+            "locality_id":1209585949,
+            "region_id":85687113
         }
     ],
     "wof:id":1209585949,
-    "wof:lastmodified":1571077235,
+    "wof:lastmodified":1571383431,
     "wof:name":"Ofredal",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296749,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

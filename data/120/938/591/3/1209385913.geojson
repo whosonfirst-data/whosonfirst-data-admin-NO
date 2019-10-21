@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297113,
+        85687085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +44,17 @@
     "wof:geomhash":"f175a56d37fd40c75cbad0701ef75ebd",
     "wof:hierarchy":[
         {
-            "country_id":85633341,
-            "locality_id":1209385913
+            "continent_id":102191581,
+            "country_id":-1,
+            "localadmin_id":1159297113,
+            "locality_id":1209385913,
+            "region_id":85687085
         }
     ],
     "wof:id":1209385913,
-    "wof:lastmodified":1571077216,
+    "wof:lastmodified":1571382738,
     "wof:name":"Espevik",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297113,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

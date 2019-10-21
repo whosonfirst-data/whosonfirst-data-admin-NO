@@ -37,8 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296977,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,15 @@
     "wof:geomhash":"406f11ad0693e4bec48d011023e29b3d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296977,
             "locality_id":1277058487,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1277058487,
-    "wof:lastmodified":1571077196,
+    "wof:lastmodified":1571393011,
     "wof:name":"Kolvik",
     "wof:parent_id":1159296977,
     "wof:placetype":"locality",

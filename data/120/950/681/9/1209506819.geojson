@@ -38,7 +38,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297091,
+        85633341,
+        85687099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,17 @@
     "wof:geomhash":"60f625ac61ec3840a5d56acf7780c3af",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209506819
+            "localadmin_id":1159297091,
+            "locality_id":1209506819,
+            "region_id":85687099
         }
     ],
     "wof:id":1209506819,
-    "wof:lastmodified":1571077229,
+    "wof:lastmodified":1571383281,
     "wof:name":"Dronen",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297091,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

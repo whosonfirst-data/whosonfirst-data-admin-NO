@@ -523,7 +523,6 @@
     "wof:belongsto":[
         102191581,
         1159297103,
-        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -539,7 +538,7 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159297103,
             "locality_id":101751915,
             "region_id":85687085
@@ -549,7 +548,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1570837861,
+    "wof:lastmodified":1571386094,
     "wof:name":"Stavanger",
     "wof:parent_id":1159297103,
     "wof:placetype":"locality",

@@ -55,8 +55,10 @@
     "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159296767,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,15 +71,15 @@
     "wof:geomhash":"09b738252f0ebd3e9f5ac67d9a340804",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296767,
             "locality_id":1125818007,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1125818007,
-    "wof:lastmodified":1571077349,
+    "wof:lastmodified":1571392940,
     "wof:name":"Kvithylla",
     "wof:parent_id":1159296767,
     "wof:placetype":"locality",

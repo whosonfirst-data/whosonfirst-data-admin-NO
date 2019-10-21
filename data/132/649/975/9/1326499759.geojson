@@ -32,8 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296983,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +45,15 @@
     "wof:geomhash":"741ada0307e54b95ca123c6d2121e796",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296983,
             "locality_id":1326499759,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1326499759,
-    "wof:lastmodified":1571077092,
+    "wof:lastmodified":1571393053,
     "wof:name":"Engesvollen",
     "wof:parent_id":1159296983,
     "wof:placetype":"locality",

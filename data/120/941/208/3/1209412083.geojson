@@ -45,7 +45,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159296739,
+        85633341,
+        85687123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +59,17 @@
     "wof:geomhash":"f30be932337eca2c9a07996d6dd3a8c2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209412083
+            "localadmin_id":1159296739,
+            "locality_id":1209412083,
+            "region_id":85687123
         }
     ],
     "wof:id":1209412083,
-    "wof:lastmodified":1571089541,
+    "wof:lastmodified":1571383155,
     "wof:name":"Aure",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296739,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[

@@ -33,8 +33,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1159296767,
-        85687127
+        102191581,
+        1159296767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +44,15 @@
     "wof:geomhash":"fca823d006baa67c3cb653c823707060",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":-1,
             "localadmin_id":1159296767,
             "locality_id":1193007237,
-            "region_id":85687127
+            "region_id":-1
         }
     ],
     "wof:id":1193007237,
-    "wof:lastmodified":1571089520,
+    "wof:lastmodified":1571383968,
     "wof:name":"Ronningen",
     "wof:parent_id":1159296767,
     "wof:placetype":"locality",

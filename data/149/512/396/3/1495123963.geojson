@@ -25,16 +25,28 @@
     "src:geom":"whosonfirst",
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1159297381,
+        85687085
+    ],
     "wof:breaches":[],
     "wof:country":"NO",
     "wof:created":1570830016,
     "wof:geomhash":"0a974abc0320505c070a3f32e838e914",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "localadmin_id":1159297381,
+            "locality_id":1495123963,
+            "region_id":85687085
+        }
+    ],
     "wof:id":1495123963,
-    "wof:lastmodified":1571184853,
+    "wof:lastmodified":1571393946,
     "wof:name":"K\u00e5sen",
-    "wof:parent_id":-1,
+    "wof:parent_id":1159297381,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

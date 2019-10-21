@@ -45,7 +45,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159296869,
+        85633341,
+        85687079
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +58,17 @@
     "wof:geomhash":"df34a8b547b826c77b2fb0757df496a5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209592075
+            "localadmin_id":1159296869,
+            "locality_id":1209592075,
+            "region_id":85687079
         }
     ],
     "wof:id":1209592075,
-    "wof:lastmodified":1571089551,
+    "wof:lastmodified":1571383391,
     "wof:name":"Vaterland",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296869,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[

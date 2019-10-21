@@ -197,8 +197,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296725,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -208,15 +210,15 @@
     "wof:geomhash":"e4934183c01709d90dd360830740e8cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296725,
             "locality_id":1310274565,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1310274565,
-    "wof:lastmodified":1571077290,
+    "wof:lastmodified":1571393054,
     "wof:name":"Saga",
     "wof:parent_id":1159296725,
     "wof:placetype":"locality",

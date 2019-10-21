@@ -39,8 +39,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297145,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +52,15 @@
     "wof:geomhash":"08b909a4d7ec3f446a578e6f9a6f0a32",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297145,
             "locality_id":1343331313,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1343331313,
-    "wof:lastmodified":1571077130,
+    "wof:lastmodified":1571392987,
     "wof:name":"Klefstadhaugen",
     "wof:parent_id":1159297145,
     "wof:placetype":"locality",

@@ -21,15 +21,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1159297617,
+        85633341,
+        85687099
+    ],
     "wof:breaches":[],
     "wof:country":"NO",
     "wof:geomhash":"b314ea233ba899d032f04ee21920d6d5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":1495165747,
+            "region_id":85687099
+        }
+    ],
     "wof:id":1495165747,
-    "wof:lastmodified":1571270638,
+    "wof:lastmodified":1571392888,
     "wof:name":"Blomsterdalen",
-    "wof:parent_id":-1,
+    "wof:parent_id":1159297617,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

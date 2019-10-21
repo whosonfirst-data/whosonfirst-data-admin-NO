@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297333,
+        85633341,
+        85687143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,17 @@
     "wof:geomhash":"c741f5729c4b64f0f0588627df724374",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209481513
+            "localadmin_id":1159297333,
+            "locality_id":1209481513,
+            "region_id":85687143
         }
     ],
     "wof:id":1209481513,
-    "wof:lastmodified":1571077223,
+    "wof:lastmodified":1571383021,
     "wof:name":"Gronlia",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297333,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

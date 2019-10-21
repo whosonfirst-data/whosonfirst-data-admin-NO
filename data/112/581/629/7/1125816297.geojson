@@ -83,8 +83,8 @@
     "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1159297145,
-        85687127
+        102191581,
+        1159297145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,15 +98,15 @@
     "wof:geomhash":"99402c411758cd5ec45bd9b8132d5df0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":-1,
             "localadmin_id":1159297145,
             "locality_id":1125816297,
-            "region_id":85687127
+            "region_id":-1
         }
     ],
     "wof:id":1125816297,
-    "wof:lastmodified":1571089551,
+    "wof:lastmodified":1571387284,
     "wof:name":"Heimdal",
     "wof:parent_id":1159297145,
     "wof:placetype":"locality",

@@ -36,8 +36,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1159297145,
-        85687127
+        102191581,
+        1159297145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +47,15 @@
     "wof:geomhash":"45943082dea3e9f305a576a620c55319",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":-1,
             "localadmin_id":1159297145,
             "locality_id":1293261837,
-            "region_id":85687127
+            "region_id":-1
         }
     ],
     "wof:id":1293261837,
-    "wof:lastmodified":1571089513,
+    "wof:lastmodified":1571381233,
     "wof:name":"Hospitalslokkan",
     "wof:parent_id":1159297145,
     "wof:placetype":"locality",

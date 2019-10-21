@@ -129,7 +129,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        1159296883,
+        85687135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -139,14 +140,17 @@
     "wof:geomhash":"9f1803c787c46ea17f7acdca3083c7a1",
     "wof:hierarchy":[
         {
-            "country_id":85633341,
-            "locality_id":1209095929
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296883,
+            "locality_id":1209095929,
+            "region_id":85687135
         }
     ],
     "wof:id":1209095929,
-    "wof:lastmodified":1571089519,
+    "wof:lastmodified":1571382669,
     "wof:name":"Osan",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296883,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[

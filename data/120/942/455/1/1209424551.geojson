@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297097,
+        85633341,
+        85687095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"b7b476afcc39fccefb2f49c51ef0e944",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209424551
+            "localadmin_id":1159297097,
+            "locality_id":1209424551,
+            "region_id":85687095
         }
     ],
     "wof:id":1209424551,
-    "wof:lastmodified":1571077245,
+    "wof:lastmodified":1571383723,
     "wof:name":"Sagmoen",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297097,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

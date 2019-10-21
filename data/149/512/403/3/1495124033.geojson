@@ -25,16 +25,29 @@
     "src:geom":"whosonfirst",
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1159297615,
+        85633341,
+        85687105
+    ],
     "wof:breaches":[],
     "wof:country":"NO",
     "wof:created":1570830034,
     "wof:geomhash":"502334123f4c130c528ef3a4e3bf2a28",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297615,
+            "locality_id":1495124033,
+            "region_id":85687105
+        }
+    ],
     "wof:id":1495124033,
-    "wof:lastmodified":1571184854,
+    "wof:lastmodified":1571393998,
     "wof:name":"Krokstadelva",
-    "wof:parent_id":-1,
+    "wof:parent_id":1159297615,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

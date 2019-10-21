@@ -45,8 +45,8 @@
     "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1159297145,
-        85687127
+        102191581,
+        1159297145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,15 +58,15 @@
     "wof:geomhash":"2e291d264648fd0b154de01dfc947e21",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":-1,
             "localadmin_id":1159297145,
             "locality_id":1125822763,
-            "region_id":85687127
+            "region_id":-1
         }
     ],
     "wof:id":1125822763,
-    "wof:lastmodified":1571089540,
+    "wof:lastmodified":1571388189,
     "wof:name":"Jakobsli",
     "wof:parent_id":1159297145,
     "wof:placetype":"locality",

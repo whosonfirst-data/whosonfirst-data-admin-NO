@@ -38,8 +38,7 @@
         85687085,
         102191581,
         1159297005,
-        85633341,
-        1343841297
+        101803817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +49,17 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159297005,
-            "locality_id":1343841297,
+            "locality_id":101803817,
             "neighbourhood_id":1495148297,
             "region_id":85687085
         }
     ],
     "wof:id":1495148297,
-    "wof:lastmodified":1571089540,
+    "wof:lastmodified":1571393212,
     "wof:name":"Sevlandsvik",
-    "wof:parent_id":1159297005,
+    "wof:parent_id":101803817,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

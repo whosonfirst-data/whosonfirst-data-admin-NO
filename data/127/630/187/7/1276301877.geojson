@@ -32,8 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297511,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +45,15 @@
     "wof:geomhash":"4b6894da67048d0e01d17405c03023b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297511,
             "locality_id":1276301877,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1276301877,
-    "wof:lastmodified":1571077208,
+    "wof:lastmodified":1571392979,
     "wof:name":"Krokstadgrenda",
     "wof:parent_id":1159297511,
     "wof:placetype":"locality",

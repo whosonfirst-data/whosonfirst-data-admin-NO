@@ -135,7 +135,6 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        85633341,
         85675539
     ],
     "wof:breaches":[],
@@ -150,13 +149,13 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "locality_id":1125845365,
             "region_id":85675539
         }
     ],
     "wof:id":1125845365,
-    "wof:lastmodified":1566662710,
+    "wof:lastmodified":1571388479,
     "wof:name":"Pyramiden",
     "wof:parent_id":85675539,
     "wof:placetype":"locality",

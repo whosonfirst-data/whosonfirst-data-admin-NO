@@ -70,7 +70,6 @@
     "wof:belongsto":[
         102191581,
         1159297063,
-        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -82,14 +81,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159297063,
             "locality_id":1360064243,
             "region_id":85687085
         }
     ],
     "wof:id":1360064243,
-    "wof:lastmodified":1571077309,
+    "wof:lastmodified":1571385618,
     "wof:name":"Skaland",
     "wof:parent_id":1159297063,
     "wof:placetype":"locality",

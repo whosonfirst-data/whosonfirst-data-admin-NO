@@ -59,9 +59,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85687127,
+        1495115971,
+        102191581,
         1159297253,
-        1260153221
+        85633341,
+        101911129
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,18 +74,18 @@
     "wof:geomhash":"d63a478781164ba055136595b71b545c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297253,
-            "locality_id":1260153221,
+            "locality_id":101911129,
             "neighbourhood_id":1495148173,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1495148173,
-    "wof:lastmodified":1571089536,
+    "wof:lastmodified":1571393266,
     "wof:name":"Borsa",
-    "wof:parent_id":1159297253,
+    "wof:parent_id":101911129,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

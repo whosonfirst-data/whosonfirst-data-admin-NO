@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297051,
+        85633341,
+        85687113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"233537b001ca1ccd52058ab5838499e0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209598337
+            "localadmin_id":1159297051,
+            "locality_id":1209598337,
+            "region_id":85687113
         }
     ],
     "wof:id":1209598337,
-    "wof:lastmodified":1571077231,
+    "wof:lastmodified":1571383377,
     "wof:name":"Sagevik",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297051,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

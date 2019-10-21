@@ -38,9 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85687127,
+        1495115971,
+        102191581,
         1159297145,
-        1310683325
+        85633341,
+        1495123981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,18 +52,18 @@
     "wof:geomhash":"0d1d1f11b27a2c86deac0889d214ff61",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297145,
-            "locality_id":1310683325,
+            "locality_id":1495123981,
             "neighbourhood_id":1495148123,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1495148123,
-    "wof:lastmodified":1571089535,
+    "wof:lastmodified":1571393954,
     "wof:name":"Risvollen",
-    "wof:parent_id":1159297145,
+    "wof:parent_id":1495123981,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

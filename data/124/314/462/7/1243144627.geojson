@@ -36,8 +36,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1159296821,
-        85687127
+        102191581,
+        1159296821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +47,15 @@
     "wof:geomhash":"970eadee82443c8ee3767c418fa97f79",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":-1,
             "localadmin_id":1159296821,
             "locality_id":1243144627,
-            "region_id":85687127
+            "region_id":-1
         }
     ],
     "wof:id":1243144627,
-    "wof:lastmodified":1571089534,
+    "wof:lastmodified":1571390472,
     "wof:name":"Gronberg",
     "wof:parent_id":1159296821,
     "wof:placetype":"locality",

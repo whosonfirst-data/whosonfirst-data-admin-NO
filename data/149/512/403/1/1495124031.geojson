@@ -25,16 +25,29 @@
     "src:geom":"whosonfirst",
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1159297615,
+        85633341,
+        85687105
+    ],
     "wof:breaches":[],
     "wof:country":"NO",
     "wof:created":1570830033,
     "wof:geomhash":"086d72e104f9c615df8a88729875227c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297615,
+            "locality_id":1495124031,
+            "region_id":85687105
+        }
+    ],
     "wof:id":1495124031,
-    "wof:lastmodified":1571184854,
+    "wof:lastmodified":1571393997,
     "wof:name":"Solbergmoen",
-    "wof:parent_id":-1,
+    "wof:parent_id":1159297615,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

@@ -37,7 +37,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        1159297265,
+        85687135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,17 @@
     "wof:geomhash":"e96e61c415239ea1ee68494f1366fc7d",
     "wof:hierarchy":[
         {
-            "country_id":85633341,
-            "locality_id":1209399317
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297265,
+            "locality_id":1209399317,
+            "region_id":85687135
         }
     ],
     "wof:id":1209399317,
-    "wof:lastmodified":1571077219,
+    "wof:lastmodified":1571382851,
     "wof:name":"Soloy",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297265,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

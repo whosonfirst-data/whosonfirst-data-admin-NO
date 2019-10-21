@@ -45,8 +45,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1159296977,
-        85687127
+        102191581,
+        1159296977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +56,15 @@
     "wof:geomhash":"eb748e7016863ed9389f10c12f8f9f28",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":-1,
             "localadmin_id":1159296977,
             "locality_id":1226014409,
-            "region_id":85687127
+            "region_id":-1
         }
     ],
     "wof:id":1226014409,
-    "wof:lastmodified":1571089538,
+    "wof:lastmodified":1571392684,
     "wof:name":"Nesta",
     "wof:parent_id":1159296977,
     "wof:placetype":"locality",

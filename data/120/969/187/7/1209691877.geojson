@@ -40,7 +40,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297199,
+        85633341,
+        85687143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +53,17 @@
     "wof:geomhash":"fb084d24988889eab996f46b5f1d9c80",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209691877
+            "localadmin_id":1159297199,
+            "locality_id":1209691877,
+            "region_id":85687143
         }
     ],
     "wof:id":1209691877,
-    "wof:lastmodified":1571077237,
+    "wof:lastmodified":1571383494,
     "wof:name":"Lanasoren",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297199,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

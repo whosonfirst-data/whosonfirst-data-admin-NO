@@ -35,8 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296717,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,15 @@
     "wof:geomhash":"5235575b62d75fff4b54ef70253b5a42",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296717,
             "locality_id":1209885693,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1209885693,
-    "wof:lastmodified":1571077249,
+    "wof:lastmodified":1571392960,
     "wof:name":"Singsasaunet",
     "wof:parent_id":1159296717,
     "wof:placetype":"locality",

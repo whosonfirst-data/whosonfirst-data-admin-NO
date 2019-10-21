@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159296733,
+        85633341,
+        85687071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"025440eac2648d089752a144cfe28172",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209109451
+            "localadmin_id":1159296733,
+            "locality_id":1209109451,
+            "region_id":85687071
         }
     ],
     "wof:id":1209109451,
-    "wof:lastmodified":1571077249,
+    "wof:lastmodified":1571383826,
     "wof:name":"Syrtveit",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296733,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

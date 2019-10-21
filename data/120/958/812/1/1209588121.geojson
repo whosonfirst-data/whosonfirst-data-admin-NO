@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297637,
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,17 @@
     "wof:geomhash":"5685771f65085e00ad68e6f09ab09f72",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209588121
+            "localadmin_id":1159297637,
+            "locality_id":1209588121,
+            "region_id":1495115971
         }
     ],
     "wof:id":1209588121,
-    "wof:lastmodified":1571077236,
+    "wof:lastmodified":1571392958,
     "wof:name":"Litle Lokken",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297637,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

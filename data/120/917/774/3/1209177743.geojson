@@ -41,7 +41,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297225,
+        85633341,
+        85687091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +54,17 @@
     "wof:geomhash":"b6a3217c40b0064259a3b4d00e26da0a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209177743
+            "localadmin_id":1159297225,
+            "locality_id":1209177743,
+            "region_id":85687091
         }
     ],
     "wof:id":1209177743,
-    "wof:lastmodified":1571077247,
+    "wof:lastmodified":1571383779,
     "wof:name":"Botn",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297225,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

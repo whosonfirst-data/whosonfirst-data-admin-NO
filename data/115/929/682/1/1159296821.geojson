@@ -130,7 +130,9 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687127
+        102191581,
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordance":{},
@@ -139,16 +141,16 @@
     "wof:geomhash":"06ef0ab71a27662b5f3773b8df19b1cf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296821,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1159296821,
-    "wof:lastmodified":1566662888,
+    "wof:lastmodified":1571392918,
     "wof:name":"Malvik",
-    "wof:parent_id":85687127,
+    "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-no",

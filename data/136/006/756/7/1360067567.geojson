@@ -60,8 +60,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297395,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,15 +73,15 @@
     "wof:geomhash":"647a0fbcf3887bbd1269eb3f7a85eeb2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297395,
             "locality_id":1360067567,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1360067567,
-    "wof:lastmodified":1571077309,
+    "wof:lastmodified":1571392937,
     "wof:name":"Vika",
     "wof:parent_id":1159297395,
     "wof:placetype":"locality",

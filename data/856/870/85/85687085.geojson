@@ -348,8 +348,7 @@
     "unlc:subdivision":"NO-11",
     "wd:wordcount":695,
     "wof:belongsto":[
-        102191581,
-        85633341
+        102191581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -366,7 +365,7 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "region_id":85687085
         }
     ],
@@ -380,9 +379,9 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1566661678,
+    "wof:lastmodified":1571379562,
     "wof:name":"Rogaland",
-    "wof:parent_id":85633341,
+    "wof:parent_id":-1,
     "wof:placetype":"region",
     "wof:placetype_local":"county",
     "wof:population":380913,

@@ -86,8 +86,10 @@
     "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159297367,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,15 +103,15 @@
     "wof:geomhash":"e43adbe8f4138ad101e9ece2e9539fd4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297367,
             "locality_id":1125920517,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1125920517,
-    "wof:lastmodified":1566662506,
+    "wof:lastmodified":1571392944,
     "wof:name":"Lysesund",
     "wof:parent_id":1159297367,
     "wof:placetype":"locality",

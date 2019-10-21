@@ -32,8 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297117,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +45,15 @@
     "wof:geomhash":"9e6908e5a51d9650a9e4d527a8e07e6b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297117,
             "locality_id":1242955263,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1242955263,
-    "wof:lastmodified":1571077404,
+    "wof:lastmodified":1571392977,
     "wof:name":"Singstad",
     "wof:parent_id":1159297117,
     "wof:placetype":"locality",

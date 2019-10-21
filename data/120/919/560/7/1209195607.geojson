@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159296841,
+        85633341,
+        85687109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,17 @@
     "wof:geomhash":"d5a5ed637de5b114ebae746e3780c489",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209195607
+            "localadmin_id":1159296841,
+            "locality_id":1209195607,
+            "region_id":85687109
         }
     ],
     "wof:id":1209195607,
-    "wof:lastmodified":1571077245,
+    "wof:lastmodified":1571383730,
     "wof:name":"Bilitt",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296841,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

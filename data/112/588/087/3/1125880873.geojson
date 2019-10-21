@@ -186,9 +186,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159296711,
-        85633341,
-        85687133
+        1159296711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -203,14 +201,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159296711,
             "locality_id":1125880873,
-            "region_id":85687133
+            "region_id":-1
         }
     ],
     "wof:id":1125880873,
-    "wof:lastmodified":1571089556,
+    "wof:lastmodified":1571387383,
     "wof:name":"Stj\u00f8rdal",
     "wof:parent_id":1159296711,
     "wof:placetype":"locality",

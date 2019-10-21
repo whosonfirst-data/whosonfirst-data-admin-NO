@@ -53,8 +53,10 @@
     "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159297117,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,15 +68,15 @@
     "wof:geomhash":"081939aca7e09958e6e4b0d06df0d1d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297117,
             "locality_id":1125914719,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1125914719,
-    "wof:lastmodified":1571077361,
+    "wof:lastmodified":1571392947,
     "wof:name":"Reitan",
     "wof:parent_id":1159297117,
     "wof:placetype":"locality",

@@ -25,16 +25,29 @@
     "src:geom":"whosonfirst",
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1159297495,
+        85633341,
+        85687095
+    ],
     "wof:breaches":[],
     "wof:country":"NO",
     "wof:created":1570830040,
     "wof:geomhash":"876e451273c05e972f9ece699ad90f61",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297495,
+            "locality_id":1495124059,
+            "region_id":85687095
+        }
+    ],
     "wof:id":1495124059,
-    "wof:lastmodified":1571184853,
+    "wof:lastmodified":1571393989,
     "wof:name":"Skedsmokorset",
-    "wof:parent_id":-1,
+    "wof:parent_id":1159297495,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

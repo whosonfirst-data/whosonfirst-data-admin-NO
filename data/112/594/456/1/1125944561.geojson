@@ -69,7 +69,6 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        85633341,
         85675539
     ],
     "wof:breaches":[],
@@ -83,13 +82,13 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "locality_id":1125944561,
             "region_id":85675539
         }
     ],
     "wof:id":1125944561,
-    "wof:lastmodified":1571077337,
+    "wof:lastmodified":1571386770,
     "wof:name":"Svea",
     "wof:parent_id":85675539,
     "wof:placetype":"locality",

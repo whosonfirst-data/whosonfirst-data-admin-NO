@@ -87,7 +87,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297527,
+        85633341,
+        85687099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,14 +100,17 @@
     "wof:geomhash":"229b1fea4102b71b78d18281d72e41e4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209409403
+            "localadmin_id":1159297527,
+            "locality_id":1209409403,
+            "region_id":85687099
         }
     ],
     "wof:id":1209409403,
-    "wof:lastmodified":1571077227,
+    "wof:lastmodified":1571383197,
     "wof:name":"Osa",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297527,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

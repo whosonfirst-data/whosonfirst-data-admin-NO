@@ -38,8 +38,7 @@
         85687085,
         102191581,
         1159297063,
-        85633341,
-        1327317239
+        101803855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +49,17 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159297063,
-            "locality_id":1327317239,
+            "locality_id":101803855,
             "neighbourhood_id":1495147483,
             "region_id":85687085
         }
     ],
     "wof:id":1495147483,
-    "wof:lastmodified":1571089516,
+    "wof:lastmodified":1571393469,
     "wof:name":"Leidingshaugen",
-    "wof:parent_id":1159297063,
+    "wof:parent_id":101803855,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

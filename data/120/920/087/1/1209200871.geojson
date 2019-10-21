@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297385,
+        85633341,
+        85687079
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"62e3dba6699640b8aeb8c7d733ae81f6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209200871
+            "localadmin_id":1159297385,
+            "locality_id":1209200871,
+            "region_id":85687079
         }
     ],
     "wof:id":1209200871,
-    "wof:lastmodified":1571077241,
+    "wof:lastmodified":1571383617,
     "wof:name":"Toremyr",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297385,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

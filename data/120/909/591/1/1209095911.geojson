@@ -32,7 +32,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        1159297535,
+        85687135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,17 @@
     "wof:geomhash":"fec0b4a5745b17f42950daad9c55e8a5",
     "wof:hierarchy":[
         {
-            "country_id":85633341,
-            "locality_id":1209095911
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297535,
+            "locality_id":1209095911,
+            "region_id":85687135
         }
     ],
     "wof:id":1209095911,
-    "wof:lastmodified":1571077215,
+    "wof:lastmodified":1571382694,
     "wof:name":"Bergsnev",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297535,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

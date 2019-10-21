@@ -42,8 +42,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1159297145,
-        85687127
+        102191581,
+        1159297145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +53,15 @@
     "wof:geomhash":"3d493c8bfca02c57055f9c176fa09700",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":-1,
             "localadmin_id":1159297145,
             "locality_id":1293372091,
-            "region_id":85687127
+            "region_id":-1
         }
     ],
     "wof:id":1293372091,
-    "wof:lastmodified":1571089526,
+    "wof:lastmodified":1571380225,
     "wof:name":"Selsbakk",
     "wof:parent_id":1159297145,
     "wof:placetype":"locality",

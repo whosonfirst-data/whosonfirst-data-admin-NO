@@ -39,7 +39,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        1159297347,
+        85687135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,17 @@
     "wof:geomhash":"f652691e8e34baba4933bc5ba66bb46d",
     "wof:hierarchy":[
         {
-            "country_id":85633341,
-            "locality_id":1209090727
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297347,
+            "locality_id":1209090727,
+            "region_id":85687135
         }
     ],
     "wof:id":1209090727,
-    "wof:lastmodified":1571077215,
+    "wof:lastmodified":1571382699,
     "wof:name":"Konsvikosen",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297347,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

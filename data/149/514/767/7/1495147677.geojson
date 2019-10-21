@@ -71,8 +71,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209381011,
-        85633341
+        85687143,
+        102191581,
+        1159297187,
+        85633341,
+        101751929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,15 +85,18 @@
     "wof:geomhash":"9e2e77147ab71597e3449e93820be11f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209381011,
-            "neighbourhood_id":1495147677
+            "localadmin_id":1159297187,
+            "locality_id":101751929,
+            "neighbourhood_id":1495147677,
+            "region_id":85687143
         }
     ],
     "wof:id":1495147677,
-    "wof:lastmodified":1571089522,
+    "wof:lastmodified":1571393518,
     "wof:name":"Storsteinnes",
-    "wof:parent_id":85633341,
+    "wof:parent_id":101751929,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

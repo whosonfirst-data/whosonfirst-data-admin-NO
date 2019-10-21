@@ -51,8 +51,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297163,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,15 +64,15 @@
     "wof:geomhash":"8a5761e35b63161bdd1f8da6cb0bb749",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297163,
             "locality_id":1209788243,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1209788243,
-    "wof:lastmodified":1571077227,
+    "wof:lastmodified":1571392961,
     "wof:name":"Hosen",
     "wof:parent_id":1159297163,
     "wof:placetype":"locality",

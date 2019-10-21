@@ -75,7 +75,9 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687127
+        102191581,
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordance":{},
@@ -84,16 +86,16 @@
     "wof:geomhash":"52af17953e8924002825fa12b8fde9bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296835,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1159296835,
-    "wof:lastmodified":1571348108,
+    "wof:lastmodified":1571392929,
     "wof:name":"Orland",
-    "wof:parent_id":85687127,
+    "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-no",

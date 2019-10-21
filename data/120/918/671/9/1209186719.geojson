@@ -129,7 +129,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159296725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -139,14 +140,17 @@
     "wof:geomhash":"8701a2c33c1f6574d109fc8bee258ba8",
     "wof:hierarchy":[
         {
-            "country_id":85633341,
-            "locality_id":1209186719
+            "continent_id":102191581,
+            "country_id":-1,
+            "localadmin_id":1159296725,
+            "locality_id":1209186719,
+            "region_id":-1
         }
     ],
     "wof:id":1209186719,
-    "wof:lastmodified":1571089563,
+    "wof:lastmodified":1571383656,
     "wof:name":"Stoa",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296725,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[

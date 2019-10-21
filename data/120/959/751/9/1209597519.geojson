@@ -59,7 +59,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297163
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,14 +70,17 @@
     "wof:geomhash":"0970b8551b8c6799946b4b345f57313f",
     "wof:hierarchy":[
         {
-            "country_id":85633341,
-            "locality_id":1209597519
+            "continent_id":102191581,
+            "country_id":-1,
+            "localadmin_id":1159297163,
+            "locality_id":1209597519,
+            "region_id":-1
         }
     ],
     "wof:id":1209597519,
-    "wof:lastmodified":1571089551,
+    "wof:lastmodified":1571383384,
     "wof:name":"Arnes",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297163,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[

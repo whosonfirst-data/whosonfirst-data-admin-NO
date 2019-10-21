@@ -38,8 +38,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297021,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,15 @@
     "wof:geomhash":"4970dcb3ca974d8bdb4d8b07310b0b6e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297021,
             "locality_id":1259952469,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1259952469,
-    "wof:lastmodified":1571077447,
+    "wof:lastmodified":1571393062,
     "wof:name":"Holsaetra",
     "wof:parent_id":1159297021,
     "wof:placetype":"locality",

@@ -57,7 +57,6 @@
     "wof:belongsto":[
         102191581,
         1159297381,
-        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -72,14 +71,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159297381,
             "locality_id":1126041673,
             "region_id":85687085
         }
     ],
     "wof:id":1126041673,
-    "wof:lastmodified":1571347732,
+    "wof:lastmodified":1571387114,
     "wof:name":"Orre",
     "wof:parent_id":1159297381,
     "wof:placetype":"locality",

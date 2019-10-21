@@ -36,8 +36,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1159296821,
-        85687127
+        102191581,
+        1159296821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +47,15 @@
     "wof:geomhash":"1ea62d8d26af56d466961cb2b02c2d43",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":-1,
             "localadmin_id":1159296821,
             "locality_id":1259952429,
-            "region_id":85687127
+            "region_id":-1
         }
     ],
     "wof:id":1259952429,
-    "wof:lastmodified":1571089529,
+    "wof:lastmodified":1571391469,
     "wof:name":"Saksvik",
     "wof:parent_id":1159296821,
     "wof:placetype":"locality",

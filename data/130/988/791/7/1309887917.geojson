@@ -39,8 +39,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1159297145,
-        85687127
+        102191581,
+        1159297145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +51,15 @@
     "wof:geomhash":"e61df36688d8c3f904f480fa6995d820",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":-1,
             "localadmin_id":1159297145,
             "locality_id":1309887917,
-            "region_id":85687127
+            "region_id":-1
         }
     ],
     "wof:id":1309887917,
-    "wof:lastmodified":1571089520,
+    "wof:lastmodified":1571386684,
     "wof:name":"Leangen",
     "wof:parent_id":1159297145,
     "wof:placetype":"locality",

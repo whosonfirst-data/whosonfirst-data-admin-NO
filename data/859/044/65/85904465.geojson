@@ -61,9 +61,11 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":25,
     "wof:belongsto":[
+        1495115971,
+        102191581,
         1159297145,
-        101751927,
-        85687127
+        85633341,
+        1495123981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,21 +76,21 @@
     "wof:geomhash":"260f01c79472432e9940f174e7a22255",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297145,
-            "locality_id":101751927,
+            "locality_id":1495123981,
             "neighbourhood_id":85904465,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":85904465,
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1566661662,
+    "wof:lastmodified":1571393950,
     "wof:name":"Marinen",
-    "wof:parent_id":101751927,
+    "wof:parent_id":1495123981,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

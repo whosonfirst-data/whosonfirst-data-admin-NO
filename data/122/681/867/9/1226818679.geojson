@@ -36,8 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296717,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,15 @@
     "wof:geomhash":"59d005fb5da4b9942398b88d058a2c6b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296717,
             "locality_id":1226818679,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1226818679,
-    "wof:lastmodified":1571077463,
+    "wof:lastmodified":1571392973,
     "wof:name":"Dragset",
     "wof:parent_id":1159296717,
     "wof:placetype":"locality",

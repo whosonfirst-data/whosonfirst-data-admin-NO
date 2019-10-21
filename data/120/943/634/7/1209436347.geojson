@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297617,
+        85633341,
+        85687099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"2992b41fd322c7e55d2be739e766309e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209436347
+            "localadmin_id":1159297617,
+            "locality_id":1209436347,
+            "region_id":85687099
         }
     ],
     "wof:id":1209436347,
-    "wof:lastmodified":1571077250,
+    "wof:lastmodified":1571383853,
     "wof:name":"Anntveit",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297617,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

@@ -48,8 +48,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297133,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,15 +62,15 @@
     "wof:geomhash":"5508103d1ed8a9d2de7b6e5b613e259d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297133,
             "locality_id":1344039757,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1344039757,
-    "wof:lastmodified":1571077134,
+    "wof:lastmodified":1571393066,
     "wof:name":"Glamos",
     "wof:parent_id":1159297133,
     "wof:placetype":"locality",

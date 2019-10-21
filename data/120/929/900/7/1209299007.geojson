@@ -32,7 +32,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        1159297115,
+        85687135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,17 @@
     "wof:geomhash":"ec9c65ddc46f45abe9338c556ca316bd",
     "wof:hierarchy":[
         {
-            "country_id":85633341,
-            "locality_id":1209299007
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297115,
+            "locality_id":1209299007,
+            "region_id":85687135
         }
     ],
     "wof:id":1209299007,
-    "wof:lastmodified":1571077239,
+    "wof:lastmodified":1571383572,
     "wof:name":"Storjord",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297115,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

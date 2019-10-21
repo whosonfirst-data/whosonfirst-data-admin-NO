@@ -36,15 +36,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1159297617,
+        85633341,
+        85687099
+    ],
     "wof:breaches":[],
     "wof:country":"NO",
     "wof:geomhash":"f468cd8958b586431c63d78b37308ca4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":1495165759,
+            "region_id":85687099
+        }
+    ],
     "wof:id":1495165759,
-    "wof:lastmodified":1571348764,
+    "wof:lastmodified":1571392884,
     "wof:name":"Straume",
-    "wof:parent_id":-1,
+    "wof:parent_id":1159297617,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

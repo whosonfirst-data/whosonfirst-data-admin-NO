@@ -35,8 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297521,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,15 @@
     "wof:geomhash":"436680e01919c5cac31b4cba4bff69d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297521,
             "locality_id":1260252041,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1260252041,
-    "wof:lastmodified":1571077264,
+    "wof:lastmodified":1571393041,
     "wof:name":"Rabben",
     "wof:parent_id":1159297521,
     "wof:placetype":"locality",

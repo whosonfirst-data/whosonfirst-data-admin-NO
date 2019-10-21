@@ -35,8 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209477635,
-        85633341
+        85687063,
+        102191581,
+        1159296703,
+        85633341,
+        101751911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +49,18 @@
     "wof:geomhash":"e7f5519ff0bb8859bbb2dbf5d5f62f37",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209477635,
-            "neighbourhood_id":1495148449
+            "localadmin_id":1159296703,
+            "locality_id":101751911,
+            "neighbourhood_id":1495148449,
+            "region_id":85687063
         }
     ],
     "wof:id":1495148449,
-    "wof:lastmodified":1571089544,
+    "wof:lastmodified":1571393309,
     "wof:name":"Voie",
-    "wof:parent_id":85633341,
+    "wof:parent_id":101751911,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

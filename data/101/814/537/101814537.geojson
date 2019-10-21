@@ -101,8 +101,10 @@
     "src:population":"geonames",
     "wd:wordcount":164,
     "wof:belongsto":[
+        102191581,
         1159296821,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -117,18 +119,18 @@
     "wof:geomhash":"7a41e3123e93b9ea45a7f07d6bc91b1f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296821,
             "locality_id":101814537,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":101814537,
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1566662413,
+    "wof:lastmodified":1571393069,
     "wof:name":"Hommelvik",
     "wof:parent_id":1159296821,
     "wof:placetype":"locality",

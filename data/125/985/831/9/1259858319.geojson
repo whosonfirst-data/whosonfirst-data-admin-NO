@@ -44,7 +44,6 @@
     "wof:belongsto":[
         102191581,
         1159297005,
-        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -57,14 +56,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159297005,
             "locality_id":1259858319,
             "region_id":85687085
         }
     ],
     "wof:id":1259858319,
-    "wof:lastmodified":1571089524,
+    "wof:lastmodified":1571391385,
     "wof:name":"Akra",
     "wof:parent_id":1159297005,
     "wof:placetype":"locality",

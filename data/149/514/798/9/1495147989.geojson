@@ -35,8 +35,7 @@
         85687099,
         102191581,
         1159297617,
-        85633341,
-        1193272593
+        85633341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +48,15 @@
             "continent_id":102191581,
             "country_id":85633341,
             "localadmin_id":1159297617,
-            "locality_id":1193272593,
+            "locality_id":-1,
             "neighbourhood_id":1495147989,
             "region_id":85687099
         }
     ],
     "wof:id":1495147989,
-    "wof:lastmodified":1571089531,
+    "wof:lastmodified":1571393150,
     "wof:name":"Nettsun",
-    "wof:parent_id":1159297617,
+    "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

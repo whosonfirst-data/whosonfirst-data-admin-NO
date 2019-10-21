@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159296873,
+        85633341,
+        85687099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"bab23ce5b6e94a08cb2a518fda22dcd3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209609709
+            "localadmin_id":1159296873,
+            "locality_id":1209609709,
+            "region_id":85687099
         }
     ],
     "wof:id":1209609709,
-    "wof:lastmodified":1571077236,
+    "wof:lastmodified":1571383479,
     "wof:name":"Klyve",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296873,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

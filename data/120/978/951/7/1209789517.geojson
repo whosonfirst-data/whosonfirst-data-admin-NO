@@ -39,7 +39,6 @@
     "wof:belongsto":[
         102191581,
         1159297211,
-        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -51,14 +50,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159297211,
             "locality_id":1209789517,
             "region_id":85687085
         }
     ],
     "wof:id":1209789517,
-    "wof:lastmodified":1571077227,
+    "wof:lastmodified":1571383209,
     "wof:name":"Nesvag",
     "wof:parent_id":1159297211,
     "wof:placetype":"locality",

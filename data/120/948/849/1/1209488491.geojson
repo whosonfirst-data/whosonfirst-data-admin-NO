@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159296967,
+        85633341,
+        85687113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"bdd215a6bcb284d6782612709523118a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209488491
+            "localadmin_id":1159296967,
+            "locality_id":1209488491,
+            "region_id":85687113
         }
     ],
     "wof:id":1209488491,
-    "wof:lastmodified":1571077223,
+    "wof:lastmodified":1571383039,
     "wof:name":"Hopland",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296967,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

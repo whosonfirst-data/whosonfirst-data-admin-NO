@@ -60,7 +60,6 @@
     "wof:belongsto":[
         102191581,
         1159297113,
-        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -75,14 +74,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159297113,
             "locality_id":1125953863,
             "region_id":85687085
         }
     ],
     "wof:id":1125953863,
-    "wof:lastmodified":1571077343,
+    "wof:lastmodified":1571387026,
     "wof:name":"Sl\u00e5ttevik",
     "wof:parent_id":1159297113,
     "wof:placetype":"locality",

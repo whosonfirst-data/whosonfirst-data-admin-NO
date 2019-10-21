@@ -22,15 +22,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1159297185,
+        85633341,
+        85687095
+    ],
     "wof:breaches":[],
     "wof:country":"NO",
     "wof:geomhash":"9d29650f6cb86a24a727d78f0d73ff37",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297185,
+            "locality_id":1495157487,
+            "region_id":85687095
+        }
+    ],
     "wof:id":1495157487,
-    "wof:lastmodified":1571181180,
+    "wof:lastmodified":1571394005,
     "wof:name":"Lovenstad",
-    "wof:parent_id":-1,
+    "wof:parent_id":1159297185,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

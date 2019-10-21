@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297469,
+        85633341,
+        85687117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"fb5f65415c53a57d55c2504573a4bda3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209407287
+            "localadmin_id":1159297469,
+            "locality_id":1209407287,
+            "region_id":85687117
         }
     ],
     "wof:id":1209407287,
-    "wof:lastmodified":1571077227,
+    "wof:lastmodified":1571383203,
     "wof:name":"Moberget",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297469,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

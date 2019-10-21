@@ -38,8 +38,7 @@
         85687085,
         102191581,
         1159297381,
-        85633341,
-        1343233153
+        101803831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +49,17 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159297381,
-            "locality_id":1343233153,
+            "locality_id":101803831,
             "neighbourhood_id":1495148395,
             "region_id":85687085
         }
     ],
     "wof:id":1495148395,
-    "wof:lastmodified":1571089543,
+    "wof:lastmodified":1571393789,
     "wof:name":"Haugabakka",
-    "wof:parent_id":1159297381,
+    "wof:parent_id":101803831,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

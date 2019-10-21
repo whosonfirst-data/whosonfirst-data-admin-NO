@@ -73,7 +73,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297491,
+        85633341,
+        85687123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,14 +86,17 @@
     "wof:geomhash":"cfe455145d9adf20e22972254e8ad5ba",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209535805
+            "localadmin_id":1159297491,
+            "locality_id":1209535805,
+            "region_id":85687123
         }
     ],
     "wof:id":1209535805,
-    "wof:lastmodified":1571077217,
+    "wof:lastmodified":1571382770,
     "wof:name":"Hals",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297491,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

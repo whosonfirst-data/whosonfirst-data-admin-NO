@@ -32,7 +32,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159296961,
+        85687085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +44,17 @@
     "wof:geomhash":"17cc055dcec36b87da11b893fe2df77a",
     "wof:hierarchy":[
         {
-            "country_id":85633341,
-            "locality_id":1209298015
+            "continent_id":102191581,
+            "country_id":-1,
+            "localadmin_id":1159296961,
+            "locality_id":1209298015,
+            "region_id":85687085
         }
     ],
     "wof:id":1209298015,
-    "wof:lastmodified":1571077240,
+    "wof:lastmodified":1571383595,
     "wof:name":"Breidland",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296961,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

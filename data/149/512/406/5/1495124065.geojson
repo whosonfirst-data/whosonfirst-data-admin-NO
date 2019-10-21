@@ -25,16 +25,29 @@
     "src:geom":"whosonfirst",
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1159297089,
+        85633341,
+        85687117
+    ],
     "wof:breaches":[],
     "wof:country":"NO",
     "wof:created":1570830043,
     "wof:geomhash":"1ae43347ac2025deea80a1f66e48053c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297089,
+            "locality_id":1495124065,
+            "region_id":85687117
+        }
+    ],
     "wof:id":1495124065,
-    "wof:lastmodified":1571184853,
+    "wof:lastmodified":1571393983,
     "wof:name":"Ridabu",
-    "wof:parent_id":-1,
+    "wof:parent_id":1159297089,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

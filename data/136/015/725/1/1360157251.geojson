@@ -36,8 +36,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1159297145,
-        85687127
+        102191581,
+        1159297145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +47,15 @@
     "wof:geomhash":"cf221dfca3f565cda8a62c418759b0f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":-1,
             "localadmin_id":1159297145,
             "locality_id":1360157251,
-            "region_id":85687127
+            "region_id":-1
         }
     ],
     "wof:id":1360157251,
-    "wof:lastmodified":1571089543,
+    "wof:lastmodified":1571385512,
     "wof:name":"Kystad",
     "wof:parent_id":1159297145,
     "wof:placetype":"locality",

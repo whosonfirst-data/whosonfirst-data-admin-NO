@@ -42,7 +42,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159296915,
+        85633341,
+        85687113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"816c233a12e2df1b12b0888acaa73e44",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209588823
+            "localadmin_id":1159296915,
+            "locality_id":1209588823,
+            "region_id":85687113
         }
     ],
     "wof:id":1209588823,
-    "wof:lastmodified":1571077236,
+    "wof:lastmodified":1571383463,
     "wof:name":"Hoddevik",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296915,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

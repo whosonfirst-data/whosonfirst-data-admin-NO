@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159296791,
+        85633341,
+        85687143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,17 @@
     "wof:geomhash":"c8b663d0257a40cc3d0adf6850e4011e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209177501
+            "localadmin_id":1159296791,
+            "locality_id":1209177501,
+            "region_id":85687143
         }
     ],
     "wof:id":1209177501,
-    "wof:lastmodified":1571077247,
+    "wof:lastmodified":1571383777,
     "wof:name":"Tennevika",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

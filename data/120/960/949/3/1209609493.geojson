@@ -44,7 +44,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297567,
+        85633341,
+        85687099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +57,17 @@
     "wof:geomhash":"db88163738bcd760a98042c92edb6fbc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209609493
+            "localadmin_id":1159297567,
+            "locality_id":1209609493,
+            "region_id":85687099
         }
     ],
     "wof:id":1209609493,
-    "wof:lastmodified":1571077236,
+    "wof:lastmodified":1571383481,
     "wof:name":"Hamre",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297567,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

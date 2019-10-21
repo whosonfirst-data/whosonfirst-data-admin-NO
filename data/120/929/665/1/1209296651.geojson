@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297259,
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"a43edcb4ed3c4564b455a5d8be7370d8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209296651
+            "localadmin_id":1159297259,
+            "locality_id":1209296651,
+            "region_id":1495115971
         }
     ],
     "wof:id":1209296651,
-    "wof:lastmodified":1571077240,
+    "wof:lastmodified":1571392953,
     "wof:name":"Lyngvik",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297259,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

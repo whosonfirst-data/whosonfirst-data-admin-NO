@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159296931,
+        85633341,
+        85687095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"52434742c8b66f7feec804d318127d13",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209332337
+            "localadmin_id":1159296931,
+            "locality_id":1209332337,
+            "region_id":85687095
         }
     ],
     "wof:id":1209332337,
-    "wof:lastmodified":1571344959,
+    "wof:lastmodified":1571383558,
     "wof:name":"Bondibraten",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296931,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

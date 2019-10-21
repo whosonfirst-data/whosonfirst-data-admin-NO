@@ -177,7 +177,6 @@
     "wof:belongsto":[
         102191581,
         1159296707,
-        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -193,14 +192,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159296707,
             "locality_id":1125879551,
             "region_id":85687085
         }
     ],
     "wof:id":1125879551,
-    "wof:lastmodified":1566662583,
+    "wof:lastmodified":1571387517,
     "wof:name":"Time",
     "wof:parent_id":1159296707,
     "wof:placetype":"locality",

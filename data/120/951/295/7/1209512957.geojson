@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297037,
+        85633341,
+        85687117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,17 @@
     "wof:geomhash":"3387e72c3bc24211d08c199119def0b6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209512957
+            "localadmin_id":1159297037,
+            "locality_id":1209512957,
+            "region_id":85687117
         }
     ],
     "wof:id":1209512957,
-    "wof:lastmodified":1571077238,
+    "wof:lastmodified":1571383518,
     "wof:name":"Floberg",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297037,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

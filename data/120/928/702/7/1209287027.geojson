@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297521,
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,17 @@
     "wof:geomhash":"6da20e309e65bbfbf3386b52d22cd1a1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209287027
+            "localadmin_id":1159297521,
+            "locality_id":1209287027,
+            "region_id":1495115971
         }
     ],
     "wof:id":1209287027,
-    "wof:lastmodified":1571077247,
+    "wof:lastmodified":1571392954,
     "wof:name":"Husvika",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297521,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

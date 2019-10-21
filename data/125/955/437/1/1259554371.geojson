@@ -47,7 +47,6 @@
     "wof:belongsto":[
         102191581,
         1159297053,
-        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -60,14 +59,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159297053,
             "locality_id":1259554371,
             "region_id":85687085
         }
     ],
     "wof:id":1259554371,
-    "wof:lastmodified":1571077438,
+    "wof:lastmodified":1571391234,
     "wof:name":"Fiska",
     "wof:parent_id":1159297053,
     "wof:placetype":"locality",

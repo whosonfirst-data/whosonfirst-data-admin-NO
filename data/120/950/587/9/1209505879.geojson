@@ -54,7 +54,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297435,
+        85633341,
+        85687123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,14 +67,17 @@
     "wof:geomhash":"5693c62e2016ceaa01aa63a7fee70086",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209505879
+            "localadmin_id":1159297435,
+            "locality_id":1209505879,
+            "region_id":85687123
         }
     ],
     "wof:id":1209505879,
-    "wof:lastmodified":1571089547,
+    "wof:lastmodified":1571383292,
     "wof:name":"Velle",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297435,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[

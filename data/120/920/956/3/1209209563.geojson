@@ -37,7 +37,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        1159297417,
+        85687135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,17 @@
     "wof:geomhash":"3e10611b16417a22e2ddcd12ae544b40",
     "wof:hierarchy":[
         {
-            "country_id":85633341,
-            "locality_id":1209209563
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297417,
+            "locality_id":1209209563,
+            "region_id":85687135
         }
     ],
     "wof:id":1209209563,
-    "wof:lastmodified":1571077241,
+    "wof:lastmodified":1571383615,
     "wof:name":"Marsund",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297417,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

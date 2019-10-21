@@ -37,8 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296835,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,15 @@
     "wof:geomhash":"fc640d0889a21a05f91a820fa1ff9831",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296835,
             "locality_id":1259556115,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1259556115,
-    "wof:lastmodified":1571077438,
+    "wof:lastmodified":1571393043,
     "wof:name":"Rostad",
     "wof:parent_id":1159296835,
     "wof:placetype":"locality",

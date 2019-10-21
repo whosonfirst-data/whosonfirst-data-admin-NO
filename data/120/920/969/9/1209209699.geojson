@@ -35,7 +35,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        1159297181,
+        85687135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,17 @@
     "wof:geomhash":"b8847a1fbecb28a2dc847b0776e5a1b8",
     "wof:hierarchy":[
         {
-            "country_id":85633341,
-            "locality_id":1209209699
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297181,
+            "locality_id":1209209699,
+            "region_id":85687135
         }
     ],
     "wof:id":1209209699,
-    "wof:lastmodified":1571077241,
+    "wof:lastmodified":1571383616,
     "wof:name":"Saltneset",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297181,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

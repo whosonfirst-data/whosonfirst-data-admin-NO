@@ -35,8 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209484907,
-        85633341
+        1495115971,
+        102191581,
+        1159297133,
+        85633341,
+        101814535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +49,18 @@
     "wof:geomhash":"cc0fab2b37cbad824ba4ee347d9edb88",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209484907,
-            "neighbourhood_id":1495148143
+            "localadmin_id":1159297133,
+            "locality_id":101814535,
+            "neighbourhood_id":1495148143,
+            "region_id":1495115971
         }
     ],
     "wof:id":1495148143,
-    "wof:lastmodified":1571089535,
+    "wof:lastmodified":1571393706,
     "wof:name":"Sjobakken",
-    "wof:parent_id":85633341,
+    "wof:parent_id":101814535,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

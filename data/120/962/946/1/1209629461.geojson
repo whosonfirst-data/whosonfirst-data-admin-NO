@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159296943,
+        85633341,
+        85687095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"5dd46f5a51a4a36f090484ab62ed4bfc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209629461
+            "localadmin_id":1159296943,
+            "locality_id":1209629461,
+            "region_id":85687095
         }
     ],
     "wof:id":1209629461,
-    "wof:lastmodified":1571077218,
+    "wof:lastmodified":1571382843,
     "wof:name":"Ingierasen",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296943,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

@@ -35,9 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85687127,
+        1495115971,
+        102191581,
         1159297395,
-        1344129253
+        85633341,
+        101804133
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +49,18 @@
     "wof:geomhash":"efd8e8804534e9054a3e730773ec1658",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297395,
-            "locality_id":1344129253,
+            "locality_id":101804133,
             "neighbourhood_id":1495148043,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1495148043,
-    "wof:lastmodified":1571089533,
+    "wof:lastmodified":1571393353,
     "wof:name":"Grova",
-    "wof:parent_id":1159297395,
+    "wof:parent_id":101804133,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

@@ -32,8 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297423,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +45,15 @@
     "wof:geomhash":"a9d9dc30a1e86c38a129661123840848",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297423,
             "locality_id":1276961007,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1276961007,
-    "wof:lastmodified":1571077210,
+    "wof:lastmodified":1571393001,
     "wof:name":"Straum",
     "wof:parent_id":1159297423,
     "wof:placetype":"locality",

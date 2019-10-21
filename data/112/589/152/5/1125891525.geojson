@@ -281,8 +281,10 @@
     "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159296983,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -296,15 +298,15 @@
     "wof:geomhash":"5ab93f443e09b40522444a7daf00ded6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296983,
             "locality_id":1125891525,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1125891525,
-    "wof:lastmodified":1566662572,
+    "wof:lastmodified":1571392943,
     "wof:name":"\u00c5len",
     "wof:parent_id":1159296983,
     "wof:placetype":"locality",

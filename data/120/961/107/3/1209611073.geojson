@@ -35,7 +35,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        1159296951,
+        85687135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,17 @@
     "wof:geomhash":"9f130921bfe8129d2da89ce25fe630b3",
     "wof:hierarchy":[
         {
-            "country_id":85633341,
-            "locality_id":1209611073
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296951,
+            "locality_id":1209611073,
+            "region_id":85687135
         }
     ],
     "wof:id":1209611073,
-    "wof:lastmodified":1571077230,
+    "wof:lastmodified":1571383341,
     "wof:name":"Njargagieddi",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296951,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

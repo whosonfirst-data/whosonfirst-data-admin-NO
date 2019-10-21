@@ -36,8 +36,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1159296717,
-        85687127
+        102191581,
+        1159296717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +47,15 @@
     "wof:geomhash":"d1b57e921803517ff692536e1db39590",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":-1,
             "localadmin_id":1159296717,
             "locality_id":1243245649,
-            "region_id":85687127
+            "region_id":-1
         }
     ],
     "wof:id":1243245649,
-    "wof:lastmodified":1571089529,
+    "wof:lastmodified":1571390389,
     "wof:name":"Nordstuu",
     "wof:parent_id":1159296717,
     "wof:placetype":"locality",

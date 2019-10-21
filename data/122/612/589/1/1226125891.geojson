@@ -52,7 +52,6 @@
     "wof:belongsto":[
         102191581,
         1159296953,
-        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -64,14 +63,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159296953,
             "locality_id":1226125891,
             "region_id":85687085
         }
     ],
     "wof:id":1226125891,
-    "wof:lastmodified":1571077488,
+    "wof:lastmodified":1571392525,
     "wof:name":"Kro",
     "wof:parent_id":1159296953,
     "wof:placetype":"locality",

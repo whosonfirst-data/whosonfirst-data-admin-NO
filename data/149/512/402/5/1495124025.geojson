@@ -25,16 +25,29 @@
     "src:geom":"whosonfirst",
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1159297257,
+        85633341,
+        85687079
+    ],
     "wof:breaches":[],
     "wof:country":"NO",
     "wof:created":1570830032,
     "wof:geomhash":"9ef61c62b61e31bfd0d176b6b8b0f837",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297257,
+            "locality_id":1495124025,
+            "region_id":85687079
+        }
+    ],
     "wof:id":1495124025,
-    "wof:lastmodified":1571184854,
+    "wof:lastmodified":1571393996,
     "wof:name":"Saltnes",
-    "wof:parent_id":-1,
+    "wof:parent_id":1159297257,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

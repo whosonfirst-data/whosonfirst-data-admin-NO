@@ -34,7 +34,6 @@
     "wof:belongsto":[
         102191581,
         1159296961,
-        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -46,14 +45,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159296961,
             "locality_id":1276849711,
             "region_id":85687085
         }
     ],
     "wof:id":1276849711,
-    "wof:lastmodified":1571077203,
+    "wof:lastmodified":1571382248,
     "wof:name":"Steinsland",
     "wof:parent_id":1159296961,
     "wof:placetype":"locality",

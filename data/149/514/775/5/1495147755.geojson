@@ -56,9 +56,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85687127,
+        1495115971,
+        102191581,
         1159296977,
-        1209986049
+        85633341,
+        101911317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,18 +71,18 @@
     "wof:geomhash":"dfa5da5b142db6cd26687f52ea32fbff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296977,
-            "locality_id":1209986049,
+            "locality_id":101911317,
             "neighbourhood_id":1495147755,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1495147755,
-    "wof:lastmodified":1571089525,
+    "wof:lastmodified":1571393861,
     "wof:name":"Mebonden",
-    "wof:parent_id":1159296977,
+    "wof:parent_id":101911317,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

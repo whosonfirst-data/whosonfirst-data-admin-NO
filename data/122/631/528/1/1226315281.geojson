@@ -49,8 +49,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1159297145,
-        85687127
+        102191581,
+        1159297145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,15 +61,15 @@
     "wof:geomhash":"78df85bfbead4a17701c6cd09aa41797",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":-1,
             "localadmin_id":1159297145,
             "locality_id":1226315281,
-            "region_id":85687127
+            "region_id":-1
         }
     ],
     "wof:id":1226315281,
-    "wof:lastmodified":1571089543,
+    "wof:lastmodified":1571392774,
     "wof:name":"Moholt",
     "wof:parent_id":1159297145,
     "wof:placetype":"locality",

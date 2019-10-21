@@ -184,11 +184,11 @@
     "woe:name_adm1":"Nord-Tr\u00f8ndelag Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85687133,
+        1495115971,
         102191581,
         1159296711,
         85633341,
-        1125880873
+        101839461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -205,15 +205,15 @@
             "continent_id":102191581,
             "country_id":85633341,
             "localadmin_id":1159296711,
-            "locality_id":1125880873,
+            "locality_id":101839461,
             "neighbourhood_id":1495148885,
-            "region_id":85687133
+            "region_id":1495115971
         }
     ],
     "wof:id":1495148885,
-    "wof:lastmodified":1571089556,
+    "wof:lastmodified":1571393309,
     "wof:name":"Stj\u00f8rdal",
-    "wof:parent_id":1159296711,
+    "wof:parent_id":101839461,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

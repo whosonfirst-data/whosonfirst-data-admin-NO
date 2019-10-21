@@ -35,8 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209323595,
-        85633341
+        85687071,
+        102191581,
+        1159296923,
+        85633341,
+        101803759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +49,18 @@
     "wof:geomhash":"8cabfb0bad6f3aa9b461b242d3738c3b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209323595,
-            "neighbourhood_id":1495148723
+            "localadmin_id":1159296923,
+            "locality_id":101803759,
+            "neighbourhood_id":1495148723,
+            "region_id":85687071
         }
     ],
     "wof:id":1495148723,
-    "wof:lastmodified":1571089552,
+    "wof:lastmodified":1571393282,
     "wof:name":"Krana",
-    "wof:parent_id":85633341,
+    "wof:parent_id":101803759,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

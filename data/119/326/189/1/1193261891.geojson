@@ -39,7 +39,6 @@
     "wof:belongsto":[
         102191581,
         1159296829,
-        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -51,14 +50,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159296829,
             "locality_id":1193261891,
             "region_id":85687085
         }
     ],
     "wof:id":1193261891,
-    "wof:lastmodified":1571077261,
+    "wof:lastmodified":1571384240,
     "wof:name":"Nord Vignes",
     "wof:parent_id":1159296829,
     "wof:placetype":"locality",

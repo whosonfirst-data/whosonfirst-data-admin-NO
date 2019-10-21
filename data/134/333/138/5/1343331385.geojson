@@ -37,8 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297145,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,15 @@
     "wof:geomhash":"911ae6990431c378fb80e5c92446261e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297145,
             "locality_id":1343331385,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1343331385,
-    "wof:lastmodified":1571077130,
+    "wof:lastmodified":1571392994,
     "wof:name":"Tommerdalen",
     "wof:parent_id":1159297145,
     "wof:placetype":"locality",

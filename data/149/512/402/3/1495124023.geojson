@@ -25,16 +25,28 @@
     "src:geom":"whosonfirst",
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1159297357,
+        85687085
+    ],
     "wof:breaches":[],
     "wof:country":"NO",
     "wof:created":1570830031,
     "wof:geomhash":"aece400b7a38120c74171e13b95f7dfb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "localadmin_id":1159297357,
+            "locality_id":1495124023,
+            "region_id":85687085
+        }
+    ],
     "wof:id":1495124023,
-    "wof:lastmodified":1571184854,
+    "wof:lastmodified":1571393994,
     "wof:name":"Endrest\u00f8",
-    "wof:parent_id":-1,
+    "wof:parent_id":1159297357,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297297,
+        85633341,
+        85687117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"e92dc839ed7c4ff6fe3e94d096b8f541",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209312205
+            "localadmin_id":1159297297,
+            "locality_id":1209312205,
+            "region_id":85687117
         }
     ],
     "wof:id":1209312205,
-    "wof:lastmodified":1571077215,
+    "wof:lastmodified":1571382708,
     "wof:name":"Bjonnkuvvollan",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297297,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

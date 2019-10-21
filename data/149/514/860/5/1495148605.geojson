@@ -147,11 +147,11 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
+        1495115971,
         102191581,
         1159297125,
         85633341,
-        1343251101,
-        85687133
+        101814563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -165,15 +165,15 @@
             "continent_id":102191581,
             "country_id":85633341,
             "localadmin_id":1159297125,
-            "locality_id":1343251101,
+            "locality_id":101814563,
             "neighbourhood_id":1495148605,
-            "region_id":85687133
+            "region_id":1495115971
         }
     ],
     "wof:id":1495148605,
-    "wof:lastmodified":1571348829,
+    "wof:lastmodified":1571393383,
     "wof:name":"Levanger",
-    "wof:parent_id":1159297125,
+    "wof:parent_id":101814563,
     "wof:placetype":"neighbourhood",
     "wof:population":8411,
     "wof:population_rank":5,

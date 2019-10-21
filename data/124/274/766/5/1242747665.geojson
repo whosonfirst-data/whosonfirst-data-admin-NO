@@ -37,8 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297021,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,15 @@
     "wof:geomhash":"40a3ca803d347c1617bd6c1824abdfef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297021,
             "locality_id":1242747665,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1242747665,
-    "wof:lastmodified":1571077399,
+    "wof:lastmodified":1571392983,
     "wof:name":"Mjoa-grenda",
     "wof:parent_id":1159297021,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000809,
-    "geom:area_square_m":5005885.596865,
+    "geom:area_square_m":5005885.596866,
     "geom:bbox":"10.8998065395,59.9426405571,10.9513894422,59.9718704003",
     "geom:latitude":59.956302,
     "geom:longitude":10.922678,
@@ -80,11 +80,11 @@
     "wd:longitude":10.916667,
     "wd:wordcount":186,
     "wof:belongsto":[
+        85687089,
         102191581,
         1159297167,
         85633341,
-        101751917,
-        85687089
+        1495123997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,13 +95,13 @@
         "wk:page":"H\u00f8ybr\u00e5ten"
     },
     "wof:country":"NO",
-    "wof:geomhash":"1e4afbba2bfb11fca5550491a0ed0067",
+    "wof:geomhash":"9fc3cdb834cccaf6226f85b7e4a5ed7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633341,
             "localadmin_id":1159297167,
-            "locality_id":101751917,
+            "locality_id":1495123997,
             "neighbourhood_id":85901583,
             "region_id":85687089
         }
@@ -110,9 +110,9 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571178451,
+    "wof:lastmodified":1571393966,
     "wof:name":"H\u00f8ybr\u00e5ten",
-    "wof:parent_id":101751917,
+    "wof:parent_id":1495123997,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

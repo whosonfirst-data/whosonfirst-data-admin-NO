@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159296819,
+        85687085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +49,17 @@
     "wof:geomhash":"6b85015a52304558dc5f611bb4181343",
     "wof:hierarchy":[
         {
-            "country_id":85633341,
-            "locality_id":1209293429
+            "continent_id":102191581,
+            "country_id":-1,
+            "localadmin_id":1159296819,
+            "locality_id":1209293429,
+            "region_id":85687085
         }
     ],
     "wof:id":1209293429,
-    "wof:lastmodified":1571077240,
+    "wof:lastmodified":1571383596,
     "wof:name":"Gjestaland",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296819,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

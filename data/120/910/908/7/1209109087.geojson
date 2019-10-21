@@ -50,7 +50,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297279,
+        85633341,
+        85687071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,14 +64,17 @@
     "wof:geomhash":"b8562f90301de39aeef9f0c930221492",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209109087
+            "localadmin_id":1159297279,
+            "locality_id":1209109087,
+            "region_id":85687071
         }
     ],
     "wof:id":1209109087,
-    "wof:lastmodified":1571077248,
+    "wof:lastmodified":1571383811,
     "wof:name":"Dolemo",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297279,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

@@ -35,8 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297549,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,15 @@
     "wof:geomhash":"7aa796e930d8c6999f378c1a02c8dea5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297549,
             "locality_id":1343231701,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1343231701,
-    "wof:lastmodified":1571077120,
+    "wof:lastmodified":1571392980,
     "wof:name":"Resell",
     "wof:parent_id":1159297549,
     "wof:placetype":"locality",

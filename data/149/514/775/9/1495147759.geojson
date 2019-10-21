@@ -76,11 +76,11 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85687133,
+        1495115971,
         102191581,
         1159296711,
         85633341,
-        1343645389
+        101839459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,15 +94,15 @@
             "continent_id":102191581,
             "country_id":85633341,
             "localadmin_id":1159296711,
-            "locality_id":1343645389,
+            "locality_id":101839459,
             "neighbourhood_id":1495147759,
-            "region_id":85687133
+            "region_id":1495115971
         }
     ],
     "wof:id":1495147759,
-    "wof:lastmodified":1571089525,
+    "wof:lastmodified":1571393857,
     "wof:name":"Hell",
-    "wof:parent_id":1159296711,
+    "wof:parent_id":101839459,
     "wof:placetype":"neighbourhood",
     "wof:population":968,
     "wof:population_rank":2,

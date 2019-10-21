@@ -77,7 +77,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297459,
+        85633341,
+        85687113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,14 +90,17 @@
     "wof:geomhash":"2c0e94653040a9615d670ea0a9518268",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209187393
+            "localadmin_id":1159297459,
+            "locality_id":1209187393,
+            "region_id":85687113
         }
     ],
     "wof:id":1209187393,
-    "wof:lastmodified":1571077242,
+    "wof:lastmodified":1571383643,
     "wof:name":"Nyborg",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297459,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

@@ -25,16 +25,29 @@
     "src:geom":"whosonfirst",
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1159296843,
+        85633341,
+        85687063
+    ],
     "wof:breaches":[],
     "wof:country":"NO",
     "wof:created":1570830008,
     "wof:geomhash":"cad8a836fb5216833b360a1be14dd23b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296843,
+            "locality_id":1495123953,
+            "region_id":85687063
+        }
+    ],
     "wof:id":1495123953,
-    "wof:lastmodified":1571184853,
+    "wof:lastmodified":1571393987,
     "wof:name":"Vennesla",
-    "wof:parent_id":-1,
+    "wof:parent_id":1159296843,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

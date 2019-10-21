@@ -25,16 +25,28 @@
     "src:geom":"whosonfirst",
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1159296707,
+        85687085
+    ],
     "wof:breaches":[],
     "wof:country":"NO",
     "wof:created":1570830015,
     "wof:geomhash":"0b564eccaa5514889c75195da924f2af",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "localadmin_id":1159296707,
+            "locality_id":1495123961,
+            "region_id":85687085
+        }
+    ],
     "wof:id":1495123961,
-    "wof:lastmodified":1571184853,
+    "wof:lastmodified":1571393944,
     "wof:name":"Bryne",
-    "wof:parent_id":-1,
+    "wof:parent_id":1159296707,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

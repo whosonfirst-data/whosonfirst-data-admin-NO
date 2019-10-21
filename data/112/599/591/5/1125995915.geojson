@@ -45,8 +45,8 @@
     "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1159297145,
-        85687127
+        102191581,
+        1159297145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,15 +58,15 @@
     "wof:geomhash":"925bd697f37fdb45470d8964c64207e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":-1,
             "localadmin_id":1159297145,
             "locality_id":1125995915,
-            "region_id":85687127
+            "region_id":-1
         }
     ],
     "wof:id":1125995915,
-    "wof:lastmodified":1571089568,
+    "wof:lastmodified":1571387645,
     "wof:name":"Sjetnemarka",
     "wof:parent_id":1159297145,
     "wof:placetype":"locality",

@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297637,
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"a214c04bd6ff1723a3ed594f23b94524",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209487785
+            "localadmin_id":1159297637,
+            "locality_id":1209487785,
+            "region_id":1495115971
         }
     ],
     "wof:id":1209487785,
-    "wof:lastmodified":1571077223,
+    "wof:lastmodified":1571392960,
     "wof:name":"Herrem",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297637,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

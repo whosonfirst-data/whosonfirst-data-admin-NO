@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159296913,
+        85633341,
+        85687095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"f66374129a4ef3fab014203daefe379c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209328745
+            "localadmin_id":1159296913,
+            "locality_id":1209328745,
+            "region_id":85687095
         }
     ],
     "wof:id":1209328745,
-    "wof:lastmodified":1571089551,
+    "wof:lastmodified":1571383401,
     "wof:name":"Vitasen",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296913,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[

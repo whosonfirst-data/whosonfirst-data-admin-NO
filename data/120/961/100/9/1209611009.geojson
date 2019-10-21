@@ -32,7 +32,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        1159296963,
+        85687135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,17 @@
     "wof:geomhash":"e41606d9fe602a4670356a7ec1577384",
     "wof:hierarchy":[
         {
-            "country_id":85633341,
-            "locality_id":1209611009
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296963,
+            "locality_id":1209611009,
+            "region_id":85687135
         }
     ],
     "wof:id":1209611009,
-    "wof:lastmodified":1571077230,
+    "wof:lastmodified":1571383340,
     "wof:name":"Kvalnes",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296963,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

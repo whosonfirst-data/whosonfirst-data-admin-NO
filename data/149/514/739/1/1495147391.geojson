@@ -40,8 +40,7 @@
         85687099,
         102191581,
         1159297617,
-        85633341,
-        1259901301
+        85633341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +53,15 @@
             "continent_id":102191581,
             "country_id":85633341,
             "localadmin_id":1159297617,
-            "locality_id":1259901301,
+            "locality_id":-1,
             "neighbourhood_id":1495147391,
             "region_id":85687099
         }
     ],
     "wof:id":1495147391,
-    "wof:lastmodified":1571089512,
+    "wof:lastmodified":1571393131,
     "wof:name":"Skeie",
-    "wof:parent_id":1159297617,
+    "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

@@ -37,8 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209097833,
-        85633341
+        85687099,
+        102191581,
+        1159296789,
+        85633341,
+        101803909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +51,18 @@
     "wof:geomhash":"a73a424ce9a0190636f99b08072dc6c5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209097833,
-            "neighbourhood_id":1495147595
+            "localadmin_id":1159296789,
+            "locality_id":101803909,
+            "neighbourhood_id":1495147595,
+            "region_id":85687099
         }
     ],
     "wof:id":1495147595,
-    "wof:lastmodified":1571089520,
+    "wof:lastmodified":1571393618,
     "wof:name":"Bastaneset",
-    "wof:parent_id":85633341,
+    "wof:parent_id":101803909,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

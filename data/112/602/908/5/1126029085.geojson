@@ -78,8 +78,10 @@
     "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159297253,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,15 +95,15 @@
     "wof:geomhash":"0ee4413ca3041d03a7a63cde57819d95",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297253,
             "locality_id":1126029085,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1126029085,
-    "wof:lastmodified":1566662520,
+    "wof:lastmodified":1571392953,
     "wof:name":"Eggkleiva",
     "wof:parent_id":1159297253,
     "wof:placetype":"locality",

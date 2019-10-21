@@ -25,15 +25,27 @@
     "src:geom":"whosonfirst",
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1159297381,
+        85687085
+    ],
     "wof:breaches":[],
     "wof:country":"NO",
     "wof:geomhash":"a63eae42b3f9baec46552768a37fb914",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "localadmin_id":1159297381,
+            "locality_id":1495123891,
+            "region_id":85687085
+        }
+    ],
     "wof:id":1495123891,
-    "wof:lastmodified":1571184854,
+    "wof:lastmodified":1571394001,
     "wof:name":"Orstad",
-    "wof:parent_id":-1,
+    "wof:parent_id":1159297381,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

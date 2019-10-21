@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297183,
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"3f5a3179e26b50a2a4660560f3267574",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209298209
+            "localadmin_id":1159297183,
+            "locality_id":1209298209,
+            "region_id":1495115971
         }
     ],
     "wof:id":1209298209,
-    "wof:lastmodified":1571077240,
+    "wof:lastmodified":1571393059,
     "wof:name":"Grungstad",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297183,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

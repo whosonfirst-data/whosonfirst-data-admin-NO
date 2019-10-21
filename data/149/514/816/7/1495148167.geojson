@@ -42,8 +42,7 @@
         85687099,
         102191581,
         1159297617,
-        85633341,
-        1259604579
+        85633341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +55,15 @@
             "continent_id":102191581,
             "country_id":85633341,
             "localadmin_id":1159297617,
-            "locality_id":1259604579,
+            "locality_id":-1,
             "neighbourhood_id":1495148167,
             "region_id":85687099
         }
     ],
     "wof:id":1495148167,
-    "wof:lastmodified":1571089536,
+    "wof:lastmodified":1571393218,
     "wof:name":"Astveit",
-    "wof:parent_id":1159297617,
+    "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

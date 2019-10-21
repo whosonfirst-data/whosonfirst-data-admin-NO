@@ -39,7 +39,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297501,
+        85687085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +51,17 @@
     "wof:geomhash":"79de574156c82b0d610aac685a6b8350",
     "wof:hierarchy":[
         {
-            "country_id":85633341,
-            "locality_id":1209486265
+            "continent_id":102191581,
+            "country_id":-1,
+            "localadmin_id":1159297501,
+            "locality_id":1209486265,
+            "region_id":85687085
         }
     ],
     "wof:id":1209486265,
-    "wof:lastmodified":1571089535,
+    "wof:lastmodified":1571383025,
     "wof:name":"Snode",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297501,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[

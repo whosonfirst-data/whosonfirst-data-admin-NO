@@ -39,9 +39,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        1159296757,
-        85633341,
-        85687133
+        1159296757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +51,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159296757,
             "locality_id":1310389071,
-            "region_id":85687133
+            "region_id":-1
         }
     ],
     "wof:id":1310389071,
-    "wof:lastmodified":1571089566,
+    "wof:lastmodified":1571384867,
     "wof:name":"Straumen",
     "wof:parent_id":1159296757,
     "wof:placetype":"locality",

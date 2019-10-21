@@ -38,8 +38,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296977,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,15 @@
     "wof:geomhash":"2563bee29fc8c54ef3a5ee040527432f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296977,
             "locality_id":1226731919,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1226731919,
-    "wof:lastmodified":1571077469,
+    "wof:lastmodified":1571392966,
     "wof:name":"Solem",
     "wof:parent_id":1159296977,
     "wof:placetype":"locality",

@@ -67,8 +67,10 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297259,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,15 +83,15 @@
     "wof:geomhash":"b719e56c8775bc3d13d33f878c2772b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297259,
             "locality_id":1126003701,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1126003701,
-    "wof:lastmodified":1566662653,
+    "wof:lastmodified":1571392951,
     "wof:name":"Hestvika",
     "wof:parent_id":1159297259,
     "wof:placetype":"locality",

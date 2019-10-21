@@ -44,7 +44,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297437,
+        85633341,
+        85687099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +57,17 @@
     "wof:geomhash":"b6c09e6e53f975e633d2ce07bbef5ef6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209306235
+            "localadmin_id":1159297437,
+            "locality_id":1209306235,
+            "region_id":85687099
         }
     ],
     "wof:id":1209306235,
-    "wof:lastmodified":1571077220,
+    "wof:lastmodified":1571382902,
     "wof:name":"Brekka",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297437,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

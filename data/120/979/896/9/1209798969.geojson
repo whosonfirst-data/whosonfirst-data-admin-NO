@@ -39,7 +39,6 @@
     "wof:belongsto":[
         102191581,
         1159297401,
-        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -51,14 +50,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159297401,
             "locality_id":1209798969,
             "region_id":85687085
         }
     ],
     "wof:id":1209798969,
-    "wof:lastmodified":1571077225,
+    "wof:lastmodified":1571383129,
     "wof:name":"Oltesvik",
     "wof:parent_id":1159297401,
     "wof:placetype":"locality",

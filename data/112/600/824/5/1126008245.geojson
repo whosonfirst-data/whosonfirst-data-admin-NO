@@ -80,8 +80,10 @@
     "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159297511,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,15 +97,15 @@
     "wof:geomhash":"84bf073746075ac1a225e769e54fe2e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297511,
             "locality_id":1126008245,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1126008245,
-    "wof:lastmodified":1566662655,
+    "wof:lastmodified":1571392952,
     "wof:name":"Lundamo",
     "wof:parent_id":1159297511,
     "wof:placetype":"locality",

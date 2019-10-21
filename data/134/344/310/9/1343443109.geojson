@@ -39,8 +39,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297247,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +53,15 @@
     "wof:geomhash":"5a7f6989262fe128b2791f0f8e4f3286",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297247,
             "locality_id":1343443109,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1343443109,
-    "wof:lastmodified":1571077139,
+    "wof:lastmodified":1571392999,
     "wof:name":"Gressli",
     "wof:parent_id":1159297247,
     "wof:placetype":"locality",

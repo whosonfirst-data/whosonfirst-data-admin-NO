@@ -66,8 +66,10 @@
         "state_id":2346399
     },
     "wof:belongsto":[
-        85633341,
-        85687127
+        1495115971,
+        102191581,
+        1159296835,
+        85633341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,14 +84,18 @@
     "wof:hierarchy":[
         {
             "campus_id":102556667,
+            "continent_id":102191581,
             "country_id":85633341,
-            "region_id":85687127
+            "localadmin_id":1159296835,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":1495115971
         }
     ],
     "wof:id":102556667,
-    "wof:lastmodified":1571077104,
+    "wof:lastmodified":1571393071,
     "wof:name":"\u00d8rland Lufthavn",
-    "wof:parent_id":85687127,
+    "wof:parent_id":1159296835,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

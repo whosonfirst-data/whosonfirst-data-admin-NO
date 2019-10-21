@@ -25,16 +25,29 @@
     "src:geom":"whosonfirst",
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1159296837,
+        85633341,
+        85687091
+    ],
     "wof:breaches":[],
     "wof:country":"NO",
     "wof:created":1570830037,
     "wof:geomhash":"4432df47418a2715b3e059856d9f9770",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296837,
+            "locality_id":1495124047,
+            "region_id":85687091
+        }
+    ],
     "wof:id":1495124047,
-    "wof:lastmodified":1571184854,
+    "wof:lastmodified":1571394001,
     "wof:name":"Stathelle",
-    "wof:parent_id":-1,
+    "wof:parent_id":1159296837,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

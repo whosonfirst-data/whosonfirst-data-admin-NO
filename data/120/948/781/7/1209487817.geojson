@@ -42,7 +42,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297259,
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +56,17 @@
     "wof:geomhash":"f523f3f32a78abf50fbf91829fa28e8b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209487817
+            "localadmin_id":1159297259,
+            "locality_id":1209487817,
+            "region_id":1495115971
         }
     ],
     "wof:id":1209487817,
-    "wof:lastmodified":1571077223,
+    "wof:lastmodified":1571392960,
     "wof:name":"Ulvan",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297259,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

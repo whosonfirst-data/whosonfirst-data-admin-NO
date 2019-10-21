@@ -59,8 +59,7 @@
         85687085,
         102191581,
         1159297401,
-        85633341,
-        1310485093
+        1125946169
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,17 +70,17 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159297401,
-            "locality_id":1310485093,
+            "locality_id":1125946169,
             "neighbourhood_id":1495149079,
             "region_id":85687085
         }
     ],
     "wof:id":1495149079,
-    "wof:lastmodified":1571089561,
+    "wof:lastmodified":1571393113,
     "wof:name":"Holmen",
-    "wof:parent_id":1159297401,
+    "wof:parent_id":1125946169,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

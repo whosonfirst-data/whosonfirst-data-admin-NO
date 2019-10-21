@@ -45,7 +45,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297609,
+        85633341,
+        85687091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +59,17 @@
     "wof:geomhash":"db359efb42bfa0d596d45094fa461e38",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209177809
+            "localadmin_id":1159297609,
+            "locality_id":1209177809,
+            "region_id":85687091
         }
     ],
     "wof:id":1209177809,
-    "wof:lastmodified":1571077247,
+    "wof:lastmodified":1571383779,
     "wof:name":"Ovre Byrte",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297609,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

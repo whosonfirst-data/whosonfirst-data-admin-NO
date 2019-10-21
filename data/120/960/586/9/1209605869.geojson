@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297121,
+        85633341,
+        85687123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"8bda72f9c2c126888ad01148286bab8c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209605869
+            "localadmin_id":1159297121,
+            "locality_id":1209605869,
+            "region_id":85687123
         }
     ],
     "wof:id":1209605869,
-    "wof:lastmodified":1571077236,
+    "wof:lastmodified":1571383480,
     "wof:name":"Bellabakkan",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297121,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

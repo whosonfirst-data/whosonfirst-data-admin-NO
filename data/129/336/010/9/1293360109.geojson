@@ -48,8 +48,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297259,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,15 +61,15 @@
     "wof:geomhash":"bcaaaa9892a12d69c16d1b8ea32091a5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297259,
             "locality_id":1293360109,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1293360109,
-    "wof:lastmodified":1571077148,
+    "wof:lastmodified":1571392996,
     "wof:name":"Hestnes",
     "wof:parent_id":1159297259,
     "wof:placetype":"locality",

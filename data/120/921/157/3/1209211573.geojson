@@ -31,7 +31,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159296919,
+        85687085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +43,17 @@
     "wof:geomhash":"6559d713ae416b2509ecdc5c69f25a77",
     "wof:hierarchy":[
         {
-            "country_id":85633341,
-            "locality_id":1209211573
+            "continent_id":102191581,
+            "country_id":-1,
+            "localadmin_id":1159296919,
+            "locality_id":1209211573,
+            "region_id":85687085
         }
     ],
     "wof:id":1209211573,
-    "wof:lastmodified":1571077246,
+    "wof:lastmodified":1571383756,
     "wof:name":"Toredalen",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296919,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

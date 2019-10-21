@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297491,
+        85633341,
+        85687123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"93bf8bcd7c9db1bb6d31dc8ce330890c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209412231
+            "localadmin_id":1159297491,
+            "locality_id":1209412231,
+            "region_id":85687123
         }
     ],
     "wof:id":1209412231,
-    "wof:lastmodified":1571077226,
+    "wof:lastmodified":1571383151,
     "wof:name":"Torsetnes",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297491,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

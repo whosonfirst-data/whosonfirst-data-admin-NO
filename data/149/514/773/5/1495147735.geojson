@@ -77,8 +77,7 @@
         85687085,
         102191581,
         1159296819,
-        85633341,
-        1259850513
+        1126043661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,17 +88,17 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159296819,
-            "locality_id":1259850513,
+            "locality_id":1126043661,
             "neighbourhood_id":1495147735,
             "region_id":85687085
         }
     ],
     "wof:id":1495147735,
-    "wof:lastmodified":1571089524,
+    "wof:lastmodified":1571393890,
     "wof:name":"Hana",
-    "wof:parent_id":1159296819,
+    "wof:parent_id":1126043661,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

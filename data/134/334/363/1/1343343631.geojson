@@ -35,8 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296767,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,15 @@
     "wof:geomhash":"082e826b3b928773638c6978871001e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296767,
             "locality_id":1343343631,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1343343631,
-    "wof:lastmodified":1571077129,
+    "wof:lastmodified":1571392988,
     "wof:name":"Staurset",
     "wof:parent_id":1159296767,
     "wof:placetype":"locality",

@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159296943,
+        85633341,
+        85687095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"bfcbd6ec5faf451e6d36918363b2281a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209428797
+            "localadmin_id":1159296943,
+            "locality_id":1209428797,
+            "region_id":85687095
         }
     ],
     "wof:id":1209428797,
-    "wof:lastmodified":1571077245,
+    "wof:lastmodified":1571383726,
     "wof:name":"Hellerasten",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296943,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

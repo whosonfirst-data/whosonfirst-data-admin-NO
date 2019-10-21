@@ -38,7 +38,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159296835,
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,17 @@
     "wof:geomhash":"352199039dbf864932aad14b779737be",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209585379
+            "localadmin_id":1159296835,
+            "locality_id":1209585379,
+            "region_id":1495115971
         }
     ],
     "wof:id":1209585379,
-    "wof:lastmodified":1571077235,
+    "wof:lastmodified":1571392958,
     "wof:name":"Royne",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296835,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

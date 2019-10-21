@@ -103,7 +103,6 @@
     "wof:belongsto":[
         102191581,
         1159296919,
-        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -119,14 +118,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159296919,
             "locality_id":1126017959,
             "region_id":85687085
         }
     ],
     "wof:id":1126017959,
-    "wof:lastmodified":1566662647,
+    "wof:lastmodified":1571388001,
     "wof:name":"\u00d8len",
     "wof:parent_id":1159296919,
     "wof:placetype":"locality",

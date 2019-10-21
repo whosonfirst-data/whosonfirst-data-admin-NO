@@ -37,7 +37,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        1159297361,
+        85687135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,17 @@
     "wof:geomhash":"db6a853bd00a39dddcc3135c667537a7",
     "wof:hierarchy":[
         {
-            "country_id":85633341,
-            "locality_id":1209198929
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297361,
+            "locality_id":1209198929,
+            "region_id":85687135
         }
     ],
     "wof:id":1209198929,
-    "wof:lastmodified":1571077246,
+    "wof:lastmodified":1571383738,
     "wof:name":"Sneisa",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

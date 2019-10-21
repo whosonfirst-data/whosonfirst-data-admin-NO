@@ -36,8 +36,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1159297145,
-        85687127
+        102191581,
+        1159297145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +47,15 @@
     "wof:geomhash":"fbe1f5ecb5a9e8ff8c3bc5275dead7a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":-1,
             "localadmin_id":1159297145,
             "locality_id":1309875353,
-            "region_id":85687127
+            "region_id":-1
         }
     ],
     "wof:id":1309875353,
-    "wof:lastmodified":1571089517,
+    "wof:lastmodified":1571386617,
     "wof:name":"Trampa",
     "wof:parent_id":1159297145,
     "wof:placetype":"locality",

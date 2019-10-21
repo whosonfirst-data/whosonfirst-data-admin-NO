@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159296889,
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,17 @@
     "wof:geomhash":"d3a1c48d175586a68eba1e1cc776ff36",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209504091
+            "localadmin_id":1159296889,
+            "locality_id":1209504091,
+            "region_id":1495115971
         }
     ],
     "wof:id":1209504091,
-    "wof:lastmodified":1571077229,
+    "wof:lastmodified":1571393070,
     "wof:name":"Frosendal",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296889,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

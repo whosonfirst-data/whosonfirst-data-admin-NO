@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297141,
+        85633341,
+        85687079
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"04e7bb07f36eee932e7146de023897bd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209394337
+            "localadmin_id":1159297141,
+            "locality_id":1209394337,
+            "region_id":85687079
         }
     ],
     "wof:id":1209394337,
-    "wof:lastmodified":1571077219,
+    "wof:lastmodified":1571382874,
     "wof:name":"Vidnes",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297141,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

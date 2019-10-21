@@ -36,8 +36,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1159297145,
-        85687127
+        102191581,
+        1159297145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +47,15 @@
     "wof:geomhash":"a7c67348206d94503f37fc4c202a2447",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":-1,
             "localadmin_id":1159297145,
             "locality_id":1309684699,
-            "region_id":85687127
+            "region_id":-1
         }
     ],
     "wof:id":1309684699,
-    "wof:lastmodified":1571089513,
+    "wof:lastmodified":1571386562,
     "wof:name":"Hoiset",
     "wof:parent_id":1159297145,
     "wof:placetype":"locality",

@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297373,
+        85633341,
+        85687105
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"dea0a01d09d6e3360ec4b11a9291c777",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209247635
+            "localadmin_id":1159297373,
+            "locality_id":1209247635,
+            "region_id":85687105
         }
     ],
     "wof:id":1209247635,
-    "wof:lastmodified":1571077226,
+    "wof:lastmodified":1571383178,
     "wof:name":"Sjauset",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297373,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

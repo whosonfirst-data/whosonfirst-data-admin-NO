@@ -35,8 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209487819,
-        85633341
+        1495115971,
+        102191581,
+        1159297163,
+        85633341,
+        101804129
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +49,18 @@
     "wof:geomhash":"c880bf402edcc11ab9dbc7d8ac3bbc48",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209487819,
-            "neighbourhood_id":1495148165
+            "localadmin_id":1159297163,
+            "locality_id":101804129,
+            "neighbourhood_id":1495148165,
+            "region_id":1495115971
         }
     ],
     "wof:id":1495148165,
-    "wof:lastmodified":1571089536,
+    "wof:lastmodified":1571393221,
     "wof:name":"Vassneset",
-    "wof:parent_id":85633341,
+    "wof:parent_id":101804129,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

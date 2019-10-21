@@ -38,7 +38,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297459,
+        85633341,
+        85687113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,17 @@
     "wof:geomhash":"128ddae76488641487a67ddd6561e26f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209284729
+            "localadmin_id":1159297459,
+            "locality_id":1209284729,
+            "region_id":85687113
         }
     ],
     "wof:id":1209284729,
-    "wof:lastmodified":1571077248,
+    "wof:lastmodified":1571383795,
     "wof:name":"Blalia",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297459,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

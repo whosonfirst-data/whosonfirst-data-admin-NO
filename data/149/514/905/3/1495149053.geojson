@@ -32,8 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209206217,
-        85633341
+        85687099,
+        102191581,
+        1159297617,
+        85633341,
+        1225839579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +46,18 @@
     "wof:geomhash":"40cf9888c2396ccdca964ca70efa133a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209206217,
-            "neighbourhood_id":1495149053
+            "localadmin_id":1159297617,
+            "locality_id":1225839579,
+            "neighbourhood_id":1495149053,
+            "region_id":85687099
         }
     ],
     "wof:id":1495149053,
-    "wof:lastmodified":1571089561,
+    "wof:lastmodified":1571393575,
     "wof:name":"Skardet",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1225839579,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

@@ -35,8 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297549,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,15 @@
     "wof:geomhash":"3ea418ee2de6b6941ee604aab7019609",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297549,
             "locality_id":1327012115,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1327012115,
-    "wof:lastmodified":1571077067,
+    "wof:lastmodified":1571393066,
     "wof:name":"Vollagrenda",
     "wof:parent_id":1159297549,
     "wof:placetype":"locality",

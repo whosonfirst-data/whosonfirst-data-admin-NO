@@ -37,7 +37,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        1159297445,
+        85687135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,17 @@
     "wof:geomhash":"866e247c6acb3732c6e95f2b1ff4e1f9",
     "wof:hierarchy":[
         {
-            "country_id":85633341,
-            "locality_id":1209304199
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297445,
+            "locality_id":1209304199,
+            "region_id":85687135
         }
     ],
     "wof:id":1209304199,
-    "wof:lastmodified":1571077220,
+    "wof:lastmodified":1571382901,
     "wof:name":"Saeterlandet",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297445,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

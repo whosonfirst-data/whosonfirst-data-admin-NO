@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297395,
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"26e923ba1521762c246b0b1f2429fe68",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209075809
+            "localadmin_id":1159297395,
+            "locality_id":1209075809,
+            "region_id":1495115971
         }
     ],
     "wof:id":1209075809,
-    "wof:lastmodified":1571077216,
+    "wof:lastmodified":1571392944,
     "wof:name":"Oyum",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297395,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

@@ -75,9 +75,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        1495115971,
+        102191581,
         1159297145,
-        101751927,
-        85687127
+        85633341,
+        1495123981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,21 +90,21 @@
     "wof:geomhash":"9451abce192606d2167ed10acfb2b166",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297145,
-            "locality_id":101751927,
+            "locality_id":1495123981,
             "neighbourhood_id":85904495,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":85904495,
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571077142,
+    "wof:lastmodified":1571393951,
     "wof:name":"Oya",
-    "wof:parent_id":101751927,
+    "wof:parent_id":1495123981,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

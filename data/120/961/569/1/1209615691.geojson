@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297345,
+        85633341,
+        85687105
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"0ccf5351160c21ef5e4ec51f67c8244c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209615691
+            "localadmin_id":1159297345,
+            "locality_id":1209615691,
+            "region_id":85687105
         }
     ],
     "wof:id":1209615691,
-    "wof:lastmodified":1571077230,
+    "wof:lastmodified":1571383329,
     "wof:name":"Losmoen",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297345,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

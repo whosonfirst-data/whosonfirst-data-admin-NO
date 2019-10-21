@@ -35,8 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297145,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,15 @@
     "wof:geomhash":"2576e0292ff525185a0922c7877e9533",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297145,
             "locality_id":1293183007,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1293183007,
-    "wof:lastmodified":1571077169,
+    "wof:lastmodified":1571393047,
     "wof:name":"Gaustadgrenda",
     "wof:parent_id":1159297145,
     "wof:placetype":"locality",

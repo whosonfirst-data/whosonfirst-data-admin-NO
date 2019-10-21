@@ -25,16 +25,29 @@
     "src:geom":"whosonfirst",
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1159297495,
+        85633341,
+        85687095
+    ],
     "wof:breaches":[],
     "wof:country":"NO",
     "wof:created":1570830039,
     "wof:geomhash":"4d0e4af00a9d60140b85f8d5bd270991",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297495,
+            "locality_id":1495124057,
+            "region_id":85687095
+        }
+    ],
     "wof:id":1495124057,
-    "wof:lastmodified":1571184853,
+    "wof:lastmodified":1571393991,
     "wof:name":"Varde\u00e5sen",
-    "wof:parent_id":-1,
+    "wof:parent_id":1159297495,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

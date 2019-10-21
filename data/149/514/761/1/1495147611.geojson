@@ -44,9 +44,11 @@
     "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85687127,
+        1495115971,
+        102191581,
         1159297395,
-        1125962765
+        85633341,
+        101804133
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,18 +60,18 @@
     "wof:geomhash":"dc601fe08543c73741dfd115d83d0614",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297395,
-            "locality_id":1125962765,
+            "locality_id":101804133,
             "neighbourhood_id":1495147611,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1495147611,
-    "wof:lastmodified":1571089520,
+    "wof:lastmodified":1571393591,
     "wof:name":"B\u00e5rdshaug",
-    "wof:parent_id":1159297395,
+    "wof:parent_id":101804133,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

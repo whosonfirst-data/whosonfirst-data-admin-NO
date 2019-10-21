@@ -54,7 +54,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        1159297631,
+        85687135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,14 +65,17 @@
     "wof:geomhash":"6e15e816ac4cc3acff130a08d309072c",
     "wof:hierarchy":[
         {
-            "country_id":85633341,
-            "locality_id":1209504867
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297631,
+            "locality_id":1209504867,
+            "region_id":85687135
         }
     ],
     "wof:id":1209504867,
-    "wof:lastmodified":1571077229,
+    "wof:lastmodified":1571383302,
     "wof:name":"Tofte",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297631,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

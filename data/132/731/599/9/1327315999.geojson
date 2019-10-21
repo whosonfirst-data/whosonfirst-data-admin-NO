@@ -41,8 +41,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297259,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +55,15 @@
     "wof:geomhash":"e15f37f7d09c9d45feca3f25d8f66f54",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297259,
             "locality_id":1327315999,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1327315999,
-    "wof:lastmodified":1571077069,
+    "wof:lastmodified":1571393032,
     "wof:name":"Sandstad",
     "wof:parent_id":1159297259,
     "wof:placetype":"locality",

@@ -59,8 +59,7 @@
         85687085,
         102191581,
         1159297509,
-        85633341,
-        1226225491
+        101803805
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,17 +70,17 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159297509,
-            "locality_id":1226225491,
+            "locality_id":101803805,
             "neighbourhood_id":1495147659,
             "region_id":85687085
         }
     ],
     "wof:id":1495147659,
-    "wof:lastmodified":1571089522,
+    "wof:lastmodified":1571393166,
     "wof:name":"Asen",
-    "wof:parent_id":1159297509,
+    "wof:parent_id":101803805,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

@@ -67,9 +67,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297169,
-        85633341,
-        85687133
+        1159297169
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,14 +78,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159297169,
             "locality_id":1293777753,
-            "region_id":85687133
+            "region_id":-1
         }
     ],
     "wof:id":1293777753,
-    "wof:lastmodified":1571089536,
+    "wof:lastmodified":1571380408,
     "wof:name":"Kolvereid",
     "wof:parent_id":1159297169,
     "wof:placetype":"locality",

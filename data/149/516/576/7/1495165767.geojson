@@ -21,15 +21,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1159297617,
+        85633341,
+        85687099
+    ],
     "wof:breaches":[],
     "wof:country":"NO",
     "wof:geomhash":"6f9d1752f01feddbb43eb30ceabaf822",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297617,
+            "locality_id":1495165767,
+            "region_id":85687099
+        }
+    ],
     "wof:id":1495165767,
-    "wof:lastmodified":1571270639,
+    "wof:lastmodified":1571392891,
     "wof:name":"Fredheim",
-    "wof:parent_id":-1,
+    "wof:parent_id":1159297617,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297383,
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"c5b76d30724d7590966223b0820614ac",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209403729
+            "localadmin_id":1159297383,
+            "locality_id":1209403729,
+            "region_id":1495115971
         }
     ],
     "wof:id":1209403729,
-    "wof:lastmodified":1571077227,
+    "wof:lastmodified":1571393039,
     "wof:name":"Kvarme",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297383,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

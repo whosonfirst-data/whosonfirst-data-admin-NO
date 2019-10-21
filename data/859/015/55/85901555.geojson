@@ -77,11 +77,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":55,
     "wof:belongsto":[
+        85687089,
         102191581,
         1159297167,
         85633341,
-        101751917,
-        85687089
+        1495123997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,13 +92,13 @@
         "wk:page":"Bekkelaget"
     },
     "wof:country":"NO",
-    "wof:geomhash":"58468c1899a863ca3ba8e7e3ea98f7a0",
+    "wof:geomhash":"2b046ca9e468248022c9f082227b474d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633341,
             "localadmin_id":1159297167,
-            "locality_id":101751917,
+            "locality_id":1495123997,
             "neighbourhood_id":85901555,
             "region_id":85687089
         }
@@ -107,9 +107,9 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571178451,
+    "wof:lastmodified":1571393962,
     "wof:name":"Bekkelaget",
-    "wof:parent_id":101751917,
+    "wof:parent_id":1495123997,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
@@ -117,7 +117,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    10.733205232974559,
+    10.73320523297456,
     59.85550432444997,
     10.80025209497518,
     59.88893689680008

@@ -37,7 +37,6 @@
     "wof:belongsto":[
         102191581,
         1159297103,
-        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -49,14 +48,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159297103,
             "locality_id":1343928833,
             "region_id":85687085
         }
     ],
     "wof:id":1343928833,
-    "wof:lastmodified":1571077125,
+    "wof:lastmodified":1571379561,
     "wof:name":"Kalvoy",
     "wof:parent_id":1159297103,
     "wof:placetype":"locality",

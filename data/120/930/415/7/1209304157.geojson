@@ -37,7 +37,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        1159296769,
+        85687135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,17 @@
     "wof:geomhash":"36b17a8b237bb962563cd03a23a84d7e",
     "wof:hierarchy":[
         {
-            "country_id":85633341,
-            "locality_id":1209304157
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296769,
+            "locality_id":1209304157,
+            "region_id":85687135
         }
     ],
     "wof:id":1209304157,
-    "wof:lastmodified":1571077220,
+    "wof:lastmodified":1571382891,
     "wof:name":"Sandset",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296769,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

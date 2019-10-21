@@ -76,8 +76,10 @@
     "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159296821,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,15 +93,15 @@
     "wof:geomhash":"5f8c922468f31a34dc8cd8921bc4d072",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296821,
             "locality_id":1125877245,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1125877245,
-    "wof:lastmodified":1571077354,
+    "wof:lastmodified":1571393071,
     "wof:name":"Vikhammer",
     "wof:parent_id":1159296821,
     "wof:placetype":"locality",

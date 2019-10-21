@@ -49,7 +49,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297487,
+        85633341,
+        85687123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +63,17 @@
     "wof:geomhash":"33f675da1bc7759b0c2014f9c9a32e01",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209299929
+            "localadmin_id":1159297487,
+            "locality_id":1209299929,
+            "region_id":85687123
         }
     ],
     "wof:id":1209299929,
-    "wof:lastmodified":1571077240,
+    "wof:lastmodified":1571383586,
     "wof:name":"Fyrde",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297487,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

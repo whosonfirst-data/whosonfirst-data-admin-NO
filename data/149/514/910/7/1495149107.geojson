@@ -35,8 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209277951,
-        85633341
+        85687091,
+        102191581,
+        1159296755,
+        85633341,
+        1126031233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +49,18 @@
     "wof:geomhash":"21463db9a33faf17994fd6bf8a2cdaa4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209277951,
-            "neighbourhood_id":1495149107
+            "localadmin_id":1159296755,
+            "locality_id":1126031233,
+            "neighbourhood_id":1495149107,
+            "region_id":85687091
         }
     ],
     "wof:id":1495149107,
-    "wof:lastmodified":1571089562,
+    "wof:lastmodified":1571393935,
     "wof:name":"Klevstrand",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1126031233,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

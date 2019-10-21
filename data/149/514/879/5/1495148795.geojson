@@ -77,9 +77,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85687127,
+        1495115971,
+        102191581,
         1159296977,
-        1326712465
+        85633341,
+        101911317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,18 +91,18 @@
     "wof:geomhash":"eb748e7016863ed9389f10c12f8f9f28",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296977,
-            "locality_id":1326712465,
+            "locality_id":101911317,
             "neighbourhood_id":1495148795,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1495148795,
-    "wof:lastmodified":1571089554,
+    "wof:lastmodified":1571393631,
     "wof:name":"Belle",
-    "wof:parent_id":1159296977,
+    "wof:parent_id":101911317,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

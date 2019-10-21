@@ -25,16 +25,29 @@
     "src:geom":"whosonfirst",
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1159297001,
+        85633341,
+        85687105
+    ],
     "wof:breaches":[],
     "wof:country":"NO",
     "wof:created":1570830018,
     "wof:geomhash":"a7a86f135e66c8ab6126ab4f5a2bd2cc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297001,
+            "locality_id":1495123973,
+            "region_id":85687105
+        }
+    ],
     "wof:id":1495123973,
-    "wof:lastmodified":1571184853,
+    "wof:lastmodified":1571393977,
     "wof:name":"Drammen",
-    "wof:parent_id":-1,
+    "wof:parent_id":1159297001,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

@@ -36,8 +36,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1159297145,
-        85687127
+        102191581,
+        1159297145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +47,15 @@
     "wof:geomhash":"dc6fc08ea0a4f0e6743ae65fdf957533",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":-1,
             "localadmin_id":1159297145,
             "locality_id":1225916683,
-            "region_id":85687127
+            "region_id":-1
         }
     ],
     "wof:id":1225916683,
-    "wof:lastmodified":1571089518,
+    "wof:lastmodified":1571392334,
     "wof:name":"Vullum",
     "wof:parent_id":1159297145,
     "wof:placetype":"locality",

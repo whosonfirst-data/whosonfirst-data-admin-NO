@@ -41,7 +41,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297625,
+        85633341,
+        85687143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"428f733c1d678ff5298ebeee6fffe1f9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209481419
+            "localadmin_id":1159297625,
+            "locality_id":1209481419,
+            "region_id":85687143
         }
     ],
     "wof:id":1209481419,
-    "wof:lastmodified":1571077223,
+    "wof:lastmodified":1571383049,
     "wof:name":"Finnsaeter",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297625,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

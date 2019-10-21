@@ -330,7 +330,6 @@
     "wof:belongsto":[
         102191581,
         1159296709,
-        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -347,7 +346,7 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159296709,
             "locality_id":101803807,
             "region_id":85687085
@@ -357,7 +356,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1570837866,
+    "wof:lastmodified":1571386034,
     "wof:name":"Haugesund",
     "wof:parent_id":1159296709,
     "wof:placetype":"locality",

@@ -172,11 +172,10 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":644,
     "wof:belongsto":[
+        85687099,
         102191581,
         1159297617,
-        85633341,
-        101751923,
-        85687099
+        85633341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -191,7 +190,7 @@
             "continent_id":102191581,
             "country_id":85633341,
             "localadmin_id":1159297617,
-            "locality_id":101751923,
+            "locality_id":-1,
             "neighbourhood_id":85862155,
             "region_id":85687099
         }
@@ -200,9 +199,9 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571077144,
+    "wof:lastmodified":1571386098,
     "wof:name":"Bryggen",
-    "wof:parent_id":101751923,
+    "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

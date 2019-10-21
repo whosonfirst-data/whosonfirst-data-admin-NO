@@ -25,15 +25,28 @@
     "src:geom":"whosonfirst",
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1159296775,
+        85633341,
+        85687143
+    ],
     "wof:breaches":[],
     "wof:country":"NO",
     "wof:geomhash":"3d482eda8fb986bb2d0381b0d73c63cd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296775,
+            "locality_id":1495123895,
+            "region_id":85687143
+        }
+    ],
     "wof:id":1495123895,
-    "wof:lastmodified":1571184854,
+    "wof:lastmodified":1571394002,
     "wof:name":"Bardufoss",
-    "wof:parent_id":-1,
+    "wof:parent_id":1159296775,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

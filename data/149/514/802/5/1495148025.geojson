@@ -56,8 +56,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209378535,
-        85633341
+        85687091,
+        102191581,
+        1159297035,
+        85633341,
+        1125829217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,15 +70,18 @@
     "wof:geomhash":"85a258c132ff28d3550d38154b194018",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209378535,
-            "neighbourhood_id":1495148025
+            "localadmin_id":1159297035,
+            "locality_id":1125829217,
+            "neighbourhood_id":1495148025,
+            "region_id":85687091
         }
     ],
     "wof:id":1495148025,
-    "wof:lastmodified":1571089532,
+    "wof:lastmodified":1571393412,
     "wof:name":"Bole",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1125829217,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

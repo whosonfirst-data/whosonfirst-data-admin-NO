@@ -36,8 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297521,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,15 @@
     "wof:geomhash":"7377f4f40634fc6b582e2723c9f5819e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297521,
             "locality_id":1243436473,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1243436473,
-    "wof:lastmodified":1571077431,
+    "wof:lastmodified":1571392992,
     "wof:name":"Neset",
     "wof:parent_id":1159297521,
     "wof:placetype":"locality",

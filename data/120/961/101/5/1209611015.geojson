@@ -41,7 +41,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        1159297109,
+        85687135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,17 @@
     "wof:geomhash":"5644ffcd8d014c0eab683dd87343bde4",
     "wof:hierarchy":[
         {
-            "country_id":85633341,
-            "locality_id":1209611015
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297109,
+            "locality_id":1209611015,
+            "region_id":85687135
         }
     ],
     "wof:id":1209611015,
-    "wof:lastmodified":1571077230,
+    "wof:lastmodified":1571383346,
     "wof:name":"Gielkka",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297109,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

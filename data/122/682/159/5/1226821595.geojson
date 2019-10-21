@@ -35,8 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296717,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,15 @@
     "wof:geomhash":"47d1883079a34286fcc2088dd752dedf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296717,
             "locality_id":1226821595,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1226821595,
-    "wof:lastmodified":1571077483,
+    "wof:lastmodified":1571393067,
     "wof:name":"Folstadgrenda",
     "wof:parent_id":1159296717,
     "wof:placetype":"locality",

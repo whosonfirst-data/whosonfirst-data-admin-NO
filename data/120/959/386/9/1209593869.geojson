@@ -38,7 +38,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159296701,
+        85633341,
+        85687109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,17 @@
     "wof:geomhash":"4e64b6285d8cfd2bce07e185381db347",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209593869
+            "localadmin_id":1159296701,
+            "locality_id":1209593869,
+            "region_id":85687109
         }
     ],
     "wof:id":1209593869,
-    "wof:lastmodified":1571077232,
+    "wof:lastmodified":1571383395,
     "wof:name":"Guldbringen",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296701,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

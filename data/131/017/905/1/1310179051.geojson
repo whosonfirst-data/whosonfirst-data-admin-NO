@@ -61,7 +61,6 @@
     "wof:belongsto":[
         102191581,
         1159297103,
-        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -73,14 +72,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159297103,
             "locality_id":1310179051,
             "region_id":85687085
         }
     ],
     "wof:id":1310179051,
-    "wof:lastmodified":1571077294,
+    "wof:lastmodified":1571385184,
     "wof:name":"Lunde",
     "wof:parent_id":1159297103,
     "wof:placetype":"locality",

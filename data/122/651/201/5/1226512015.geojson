@@ -39,8 +39,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1159297133,
-        85687127
+        102191581,
+        1159297133
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +50,15 @@
     "wof:geomhash":"3e70977c3b392d7f3d65b5d0a6450cdb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":-1,
             "localadmin_id":1159297133,
             "locality_id":1226512015,
-            "region_id":85687127
+            "region_id":-1
         }
     ],
     "wof:id":1226512015,
-    "wof:lastmodified":1571089566,
+    "wof:lastmodified":1571392159,
     "wof:name":"Haugan",
     "wof:parent_id":1159297133,
     "wof:placetype":"locality",

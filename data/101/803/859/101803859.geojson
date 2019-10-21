@@ -98,7 +98,6 @@
     "wof:belongsto":[
         102191581,
         1159297601,
-        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -115,7 +114,7 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159297601,
             "locality_id":101803859,
             "region_id":85687085
@@ -125,7 +124,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1566662376,
+    "wof:lastmodified":1571385982,
     "wof:name":"Vikes\u00e5",
     "wof:parent_id":1159297601,
     "wof:placetype":"locality",

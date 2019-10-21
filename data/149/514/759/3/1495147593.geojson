@@ -40,8 +40,7 @@
         85687085,
         102191581,
         1159297501,
-        85633341,
-        1259466545
+        1125846345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +51,17 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159297501,
-            "locality_id":1259466545,
+            "locality_id":1125846345,
             "neighbourhood_id":1495147593,
             "region_id":85687085
         }
     ],
     "wof:id":1495147593,
-    "wof:lastmodified":1571089520,
+    "wof:lastmodified":1571393617,
     "wof:name":"Grannes",
-    "wof:parent_id":1159297501,
+    "wof:parent_id":1125846345,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

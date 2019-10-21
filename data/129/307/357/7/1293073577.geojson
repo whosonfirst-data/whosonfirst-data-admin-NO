@@ -50,8 +50,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297145,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,15 +64,15 @@
     "wof:geomhash":"e06d9f837105fef32b2e2d6f00e20ee9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297145,
             "locality_id":1293073577,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1293073577,
-    "wof:lastmodified":1571077146,
+    "wof:lastmodified":1571393052,
     "wof:name":"Lade",
     "wof:parent_id":1159297145,
     "wof:placetype":"locality",

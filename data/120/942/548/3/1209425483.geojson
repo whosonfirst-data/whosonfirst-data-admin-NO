@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159296949,
+        85633341,
+        85687099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"d5880ce9a1c0adba330306f40840a02f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209425483
+            "localadmin_id":1159296949,
+            "locality_id":1209425483,
+            "region_id":85687099
         }
     ],
     "wof:id":1209425483,
-    "wof:lastmodified":1571077245,
+    "wof:lastmodified":1571383729,
     "wof:name":"Fjelberg",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296949,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

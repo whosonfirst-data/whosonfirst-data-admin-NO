@@ -35,8 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297423,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,15 @@
     "wof:geomhash":"c3eea778049410c75af6e33ba8c76a81",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297423,
             "locality_id":1259755717,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1259755717,
-    "wof:lastmodified":1571077458,
+    "wof:lastmodified":1571393051,
     "wof:name":"Utro",
     "wof:parent_id":1159297423,
     "wof:placetype":"locality",

@@ -37,8 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297133,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,15 @@
     "wof:geomhash":"705f03e56ccead76332f13d6f91b4b7f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297133,
             "locality_id":1192990799,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1192990799,
-    "wof:lastmodified":1571077259,
+    "wof:lastmodified":1571392974,
     "wof:name":"Bekkos",
     "wof:parent_id":1159297133,
     "wof:placetype":"locality",

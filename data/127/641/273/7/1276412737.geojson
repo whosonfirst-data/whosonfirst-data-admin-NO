@@ -92,8 +92,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297521,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,15 +105,15 @@
     "wof:geomhash":"e069a9516d2bb534ecabee3abe6de938",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297521,
             "locality_id":1276412737,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1276412737,
-    "wof:lastmodified":1571077202,
+    "wof:lastmodified":1571393045,
     "wof:name":"Halten",
     "wof:parent_id":1159297521,
     "wof:placetype":"locality",

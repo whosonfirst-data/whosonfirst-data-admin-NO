@@ -766,7 +766,12 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1159297167,
+        85633341,
+        85687089
+    ],
     "wof:breaches":[],
     "wof:capital_of":85633341,
     "wof:concordances":{
@@ -786,12 +791,20 @@
     "wof:country":"NO",
     "wof:created":1570830024,
     "wof:geomhash":"d41768c1902cfb2410a2bbd0eaf4f621",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297167,
+            "locality_id":1495123997,
+            "region_id":85687089
+        }
+    ],
     "wof:id":1495123997,
-    "wof:lastmodified":1571075662,
+    "wof:lastmodified":1571393971,
     "wof:megacity":1,
     "wof:name":"Oslo",
-    "wof:parent_id":-1,
+    "wof:parent_id":1159297167,
     "wof:placetype":"locality",
     "wof:population":580000,
     "wof:population_rank":11,

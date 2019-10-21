@@ -35,7 +35,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        1159296963,
+        85687135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,17 @@
     "wof:geomhash":"3f9d4dbb7ea6949ce8564b9a8d6a2cd6",
     "wof:hierarchy":[
         {
-            "country_id":85633341,
-            "locality_id":1209510961
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296963,
+            "locality_id":1209510961,
+            "region_id":85687135
         }
     ],
     "wof:id":1209510961,
-    "wof:lastmodified":1571077238,
+    "wof:lastmodified":1571383515,
     "wof:name":"Gjerdvollen",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296963,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

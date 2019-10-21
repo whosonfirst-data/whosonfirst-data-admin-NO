@@ -25,16 +25,29 @@
     "src:geom":"whosonfirst",
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1159296969,
+        85633341,
+        85687095
+    ],
     "wof:breaches":[],
     "wof:country":"NO",
     "wof:created":1570830041,
     "wof:geomhash":"75c37df6786b1d239f44c860b6c3eb66",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296969,
+            "locality_id":1495124061,
+            "region_id":85687095
+        }
+    ],
     "wof:id":1495124061,
-    "wof:lastmodified":1571184853,
+    "wof:lastmodified":1571393981,
     "wof:name":"Slattum",
-    "wof:parent_id":-1,
+    "wof:parent_id":1159296969,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

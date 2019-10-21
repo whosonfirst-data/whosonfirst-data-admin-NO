@@ -25,16 +25,29 @@
     "src:geom":"whosonfirst",
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1159297385,
+        85633341,
+        85687079
+    ],
     "wof:breaches":[],
     "wof:country":"NO",
     "wof:created":1570830031,
     "wof:geomhash":"675888c922d75f65c79bab6d083e9bb5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297385,
+            "locality_id":1495124021,
+            "region_id":85687079
+        }
+    ],
     "wof:id":1495124021,
-    "wof:lastmodified":1571184853,
+    "wof:lastmodified":1571393993,
     "wof:name":"Lervik",
-    "wof:parent_id":-1,
+    "wof:parent_id":1159297385,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

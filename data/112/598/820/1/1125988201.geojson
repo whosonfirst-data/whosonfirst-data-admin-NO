@@ -54,7 +54,6 @@
     "wof:belongsto":[
         102191581,
         1159297005,
-        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -69,14 +68,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159297005,
             "locality_id":1125988201,
             "region_id":85687085
         }
     ],
     "wof:id":1125988201,
-    "wof:lastmodified":1571077362,
+    "wof:lastmodified":1571387919,
     "wof:name":"Kvalav\u00e5g",
     "wof:parent_id":1159297005,
     "wof:placetype":"locality",

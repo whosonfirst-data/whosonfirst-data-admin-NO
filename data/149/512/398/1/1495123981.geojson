@@ -25,16 +25,29 @@
     "src:geom":"whosonfirst",
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1159297145,
+        85633341,
+        1495115971
+    ],
     "wof:breaches":[],
     "wof:country":"NO",
     "wof:created":1570830020,
     "wof:geomhash":"a90f3395e53df26f9f4853c2964e0786",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297145,
+            "locality_id":1495123981,
+            "region_id":1495115971
+        }
+    ],
     "wof:id":1495123981,
-    "wof:lastmodified":1571184853,
+    "wof:lastmodified":1571393956,
     "wof:name":"Trondheim",
-    "wof:parent_id":-1,
+    "wof:parent_id":1159297145,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

@@ -87,7 +87,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297385,
+        85633341,
+        85687079
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,14 +100,17 @@
     "wof:geomhash":"a4b67b4b6f89234cdf5297b92b899de6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209695257
+            "localadmin_id":1159297385,
+            "locality_id":1209695257,
+            "region_id":85687079
         }
     ],
     "wof:id":1209695257,
-    "wof:lastmodified":1571089556,
+    "wof:lastmodified":1571383509,
     "wof:name":"Rod",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297385,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[

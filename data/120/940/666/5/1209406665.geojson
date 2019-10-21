@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159296949,
+        85633341,
+        85687099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"1c7143cb9572400a746b6ce2553742ce",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209406665
+            "localadmin_id":1159296949,
+            "locality_id":1209406665,
+            "region_id":85687099
         }
     ],
     "wof:id":1209406665,
-    "wof:lastmodified":1571077227,
+    "wof:lastmodified":1571383194,
     "wof:name":"Bondhus",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296949,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

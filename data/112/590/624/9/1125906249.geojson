@@ -58,7 +58,6 @@
     "wof:belongsto":[
         102191581,
         1159297103,
-        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -73,14 +72,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159297103,
             "locality_id":1125906249,
             "region_id":85687085
         }
     ],
     "wof:id":1125906249,
-    "wof:lastmodified":1571089512,
+    "wof:lastmodified":1571387692,
     "wof:name":"Finn\u00e5s",
     "wof:parent_id":1159297103,
     "wof:placetype":"locality",

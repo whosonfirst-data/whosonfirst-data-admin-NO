@@ -46,9 +46,9 @@
     "wof:belongsto":[
         85687073,
         102191581,
-        1159297321,
+        1159297071,
         85633341,
-        1125877751
+        101815519
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,16 +62,16 @@
         {
             "continent_id":102191581,
             "country_id":85633341,
-            "localadmin_id":1159297321,
-            "locality_id":1125877751,
+            "localadmin_id":1159297071,
+            "locality_id":101815519,
             "neighbourhood_id":1495149241,
             "region_id":85687073
         }
     ],
     "wof:id":1495149241,
-    "wof:lastmodified":1571089566,
+    "wof:lastmodified":1571393440,
     "wof:name":"Teige",
-    "wof:parent_id":1159297321,
+    "wof:parent_id":101815519,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

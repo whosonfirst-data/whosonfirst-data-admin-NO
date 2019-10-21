@@ -50,8 +50,7 @@
         85687085,
         102191581,
         1159297103,
-        85633341,
-        1343928805
+        1495123971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,17 +62,17 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159297103,
-            "locality_id":1343928805,
+            "locality_id":1495123971,
             "neighbourhood_id":1495148677,
             "region_id":85687085
         }
     ],
     "wof:id":1495148677,
-    "wof:lastmodified":1571089550,
+    "wof:lastmodified":1571393973,
     "wof:name":"Storhaug",
-    "wof:parent_id":1159297103,
+    "wof:parent_id":1495123971,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

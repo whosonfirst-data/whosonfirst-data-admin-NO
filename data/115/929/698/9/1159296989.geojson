@@ -121,7 +121,9 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687127
+        102191581,
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordance":{},
@@ -130,16 +132,16 @@
     "wof:geomhash":"602a1e480a81804c847b4e96fa8ed16c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296989,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1159296989,
-    "wof:lastmodified":1566662914,
+    "wof:lastmodified":1571392928,
     "wof:name":"Snillfjord",
-    "wof:parent_id":85687127,
+    "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-no",

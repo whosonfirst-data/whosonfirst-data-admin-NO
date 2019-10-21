@@ -41,8 +41,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209027813,
-        85633341
+        85687099,
+        102191581,
+        1159296789,
+        85633341,
+        101803909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +55,18 @@
     "wof:geomhash":"d30a7d6b26f56102568b14482edc8bd2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209027813,
-            "neighbourhood_id":1495148955
+            "localadmin_id":1159296789,
+            "locality_id":101803909,
+            "neighbourhood_id":1495148955,
+            "region_id":85687099
         }
     ],
     "wof:id":1495148955,
-    "wof:lastmodified":1571089558,
+    "wof:lastmodified":1571393329,
     "wof:name":"Lavik",
-    "wof:parent_id":85633341,
+    "wof:parent_id":101803909,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

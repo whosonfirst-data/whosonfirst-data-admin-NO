@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297187,
+        85633341,
+        85687143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"84c0b959b5f807a358a5772dc09f55e3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209682031
+            "localadmin_id":1159297187,
+            "locality_id":1209682031,
+            "region_id":85687143
         }
     ],
     "wof:id":1209682031,
-    "wof:lastmodified":1571077230,
+    "wof:lastmodified":1571383317,
     "wof:name":"Nordbotn",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297187,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

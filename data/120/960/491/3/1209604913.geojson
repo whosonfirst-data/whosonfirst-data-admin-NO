@@ -37,7 +37,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        1159297535,
+        85687135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,17 @@
     "wof:geomhash":"922faa1d1024386b1e54c9ec9b70d987",
     "wof:hierarchy":[
         {
-            "country_id":85633341,
-            "locality_id":1209604913
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297535,
+            "locality_id":1209604913,
+            "region_id":85687135
         }
     ],
     "wof:id":1209604913,
-    "wof:lastmodified":1571077236,
+    "wof:lastmodified":1571383476,
     "wof:name":"Sorlia",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297535,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

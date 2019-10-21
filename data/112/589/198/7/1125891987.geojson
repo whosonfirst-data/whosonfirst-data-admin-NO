@@ -44,8 +44,7 @@
     "woe:name_adm1":"Jan Mayen",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        102191581,
-        85633341
+        102191581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +57,13 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "locality_id":1125891987,
             "region_id":-1
         }
     ],
     "wof:id":1125891987,
-    "wof:lastmodified":1571077351,
+    "wof:lastmodified":1571387431,
     "wof:name":"Sor-Jan",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

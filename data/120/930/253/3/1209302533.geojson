@@ -53,7 +53,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297365,
+        85633341,
+        85687109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,14 +66,17 @@
     "wof:geomhash":"b0d4b6e3286092590621c477c810a7ee",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209302533
+            "localadmin_id":1159297365,
+            "locality_id":1209302533,
+            "region_id":85687109
         }
     ],
     "wof:id":1209302533,
-    "wof:lastmodified":1571077220,
+    "wof:lastmodified":1571382905,
     "wof:name":"Korsvegen",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297365,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

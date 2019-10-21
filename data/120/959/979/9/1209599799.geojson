@@ -35,7 +35,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        1159297203,
+        85687135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,17 @@
     "wof:geomhash":"699f383b33f4c3e2cb03562c2ea35115",
     "wof:hierarchy":[
         {
-            "country_id":85633341,
-            "locality_id":1209599799
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297203,
+            "locality_id":1209599799,
+            "region_id":85687135
         }
     ],
     "wof:id":1209599799,
-    "wof:lastmodified":1571077232,
+    "wof:lastmodified":1571383379,
     "wof:name":"Prestjord",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297203,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

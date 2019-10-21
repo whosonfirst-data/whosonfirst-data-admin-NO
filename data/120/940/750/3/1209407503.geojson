@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297575,
+        85633341,
+        85687117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"db64855f3c5fe778867e26419f022264",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209407503
+            "localadmin_id":1159297575,
+            "locality_id":1209407503,
+            "region_id":85687117
         }
     ],
     "wof:id":1209407503,
-    "wof:lastmodified":1571077227,
+    "wof:lastmodified":1571383198,
     "wof:name":"Vellingroa",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297575,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

@@ -34,7 +34,6 @@
     "wof:belongsto":[
         102191581,
         1159297063,
-        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -46,14 +45,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159297063,
             "locality_id":1293263251,
             "region_id":85687085
         }
     ],
     "wof:id":1293263251,
-    "wof:lastmodified":1571077177,
+    "wof:lastmodified":1571381223,
     "wof:name":"Hellesmork",
     "wof:parent_id":1159297063,
     "wof:placetype":"locality",

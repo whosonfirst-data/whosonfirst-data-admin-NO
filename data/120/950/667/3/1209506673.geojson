@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159296789,
+        85633341,
+        85687099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"e2176d264fefd725c0a7ef09dec8e64a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209506673
+            "localadmin_id":1159296789,
+            "locality_id":1209506673,
+            "region_id":85687099
         }
     ],
     "wof:id":1209506673,
-    "wof:lastmodified":1571077229,
+    "wof:lastmodified":1571383286,
     "wof:name":"Frommereid",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296789,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

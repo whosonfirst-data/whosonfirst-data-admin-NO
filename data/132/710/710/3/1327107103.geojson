@@ -35,8 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297117,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,15 @@
     "wof:geomhash":"200fe06fc11a467e7d1632e7e7e672f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297117,
             "locality_id":1327107103,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1327107103,
-    "wof:lastmodified":1571077101,
+    "wof:lastmodified":1571393065,
     "wof:name":"Molnbukt",
     "wof:parent_id":1159297117,
     "wof:placetype":"locality",

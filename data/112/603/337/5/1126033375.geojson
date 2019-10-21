@@ -81,8 +81,10 @@
     "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159296717,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,15 +98,15 @@
     "wof:geomhash":"7388e0ca3aa082954a2f402ed77c05f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296717,
             "locality_id":1126033375,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1126033375,
-    "wof:lastmodified":1566662536,
+    "wof:lastmodified":1571392955,
     "wof:name":"Soknedal",
     "wof:parent_id":1159296717,
     "wof:placetype":"locality",

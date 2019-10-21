@@ -49,7 +49,6 @@
     "wof:belongsto":[
         102191581,
         1159296953,
-        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -62,14 +61,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159296953,
             "locality_id":1260053819,
             "region_id":85687085
         }
     ],
     "wof:id":1260053819,
-    "wof:lastmodified":1571077277,
+    "wof:lastmodified":1571384716,
     "wof:name":"Foresvik",
     "wof:parent_id":1159296953,
     "wof:placetype":"locality",

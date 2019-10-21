@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159296713,
+        85633341,
+        85687079
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"a0ef90a7f22fb1d7ae17553d96314b28",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209391225
+            "localadmin_id":1159296713,
+            "locality_id":1209391225,
+            "region_id":85687079
         }
     ],
     "wof:id":1209391225,
-    "wof:lastmodified":1571077219,
+    "wof:lastmodified":1571382876,
     "wof:name":"Orebakke",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296713,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

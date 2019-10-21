@@ -44,8 +44,10 @@
     "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159297259,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,15 +59,15 @@
     "wof:geomhash":"64af33d2fa54f21bbef4a6c0b0cb154c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297259,
             "locality_id":1125914687,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1125914687,
-    "wof:lastmodified":1571077362,
+    "wof:lastmodified":1571392947,
     "wof:name":"Kvernhusvika",
     "wof:parent_id":1159297259,
     "wof:placetype":"locality",

@@ -37,7 +37,6 @@
     "wof:belongsto":[
         102191581,
         1159297103,
-        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -49,14 +48,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159297103,
             "locality_id":1226225607,
             "region_id":85687085
         }
     ],
     "wof:id":1226225607,
-    "wof:lastmodified":1571077482,
+    "wof:lastmodified":1571392383,
     "wof:name":"Sjohagen",
     "wof:parent_id":1159297103,
     "wof:placetype":"locality",

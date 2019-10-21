@@ -51,8 +51,8 @@
     "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1159297145,
-        85687127
+        102191581,
+        1159297145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,15 +65,15 @@
     "wof:geomhash":"eb89b41f3e641170d09ddd5c4f8ff486",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":-1,
             "localadmin_id":1159297145,
             "locality_id":1125838735,
-            "region_id":85687127
+            "region_id":-1
         }
     ],
     "wof:id":1125838735,
-    "wof:lastmodified":1571089561,
+    "wof:lastmodified":1571388586,
     "wof:name":"Kattem",
     "wof:parent_id":1159297145,
     "wof:placetype":"locality",

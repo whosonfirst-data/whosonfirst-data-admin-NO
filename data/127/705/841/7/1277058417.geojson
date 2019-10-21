@@ -35,8 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159296717,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,15 @@
     "wof:geomhash":"1a6f22a971d58e6f0ac49776e8747b40",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296717,
             "locality_id":1277058417,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1277058417,
-    "wof:lastmodified":1571077196,
+    "wof:lastmodified":1571393002,
     "wof:name":"Reitstoa",
     "wof:parent_id":1159296717,
     "wof:placetype":"locality",

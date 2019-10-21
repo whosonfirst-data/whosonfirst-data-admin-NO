@@ -32,8 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209581959,
-        85633341
+        85687143,
+        102191581,
+        1159297451,
+        85633341,
+        101814671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +46,18 @@
     "wof:geomhash":"ee1b2cd0414aadeb9242f7e0953a45d9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209581959,
-            "neighbourhood_id":1495148791
+            "localadmin_id":1159297451,
+            "locality_id":101814671,
+            "neighbourhood_id":1495148791,
+            "region_id":85687143
         }
     ],
     "wof:id":1495148791,
-    "wof:lastmodified":1571089554,
+    "wof:lastmodified":1571393627,
     "wof:name":"Kleiva",
-    "wof:parent_id":85633341,
+    "wof:parent_id":101814671,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

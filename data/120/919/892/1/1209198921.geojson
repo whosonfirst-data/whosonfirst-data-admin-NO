@@ -45,7 +45,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        1159296997,
+        85687135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,17 @@
     "wof:geomhash":"23a6ae094f287a4c1efa1af19d1c49c6",
     "wof:hierarchy":[
         {
-            "country_id":85633341,
-            "locality_id":1209198921
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296997,
+            "locality_id":1209198921,
+            "region_id":85687135
         }
     ],
     "wof:id":1209198921,
-    "wof:lastmodified":1571077246,
+    "wof:lastmodified":1571383738,
     "wof:name":"Lekanger",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296997,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

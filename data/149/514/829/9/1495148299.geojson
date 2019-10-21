@@ -68,9 +68,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85687127,
+        1495115971,
+        102191581,
         1159296725,
-        1226628469
+        85633341,
+        101804131
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,18 +82,18 @@
     "wof:geomhash":"8e1595d6daff91c3557b94765406d54e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159296725,
-            "locality_id":1226628469,
+            "locality_id":101804131,
             "neighbourhood_id":1495148299,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1495148299,
-    "wof:lastmodified":1571089540,
+    "wof:lastmodified":1571393211,
     "wof:name":"Haugen",
-    "wof:parent_id":1159296725,
+    "wof:parent_id":101804131,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

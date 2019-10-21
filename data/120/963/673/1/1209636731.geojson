@@ -50,7 +50,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159296949,
+        85633341,
+        85687099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +63,17 @@
     "wof:geomhash":"86701420a8fe51731d002e34749673de",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209636731
+            "localadmin_id":1159296949,
+            "locality_id":1209636731,
+            "region_id":85687099
         }
     ],
     "wof:id":1209636731,
-    "wof:lastmodified":1571077221,
+    "wof:lastmodified":1571382949,
     "wof:name":"Oye",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296949,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

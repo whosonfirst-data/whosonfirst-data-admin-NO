@@ -39,8 +39,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1159296821,
-        85687127
+        102191581,
+        1159296821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +50,15 @@
     "wof:geomhash":"68be9d68ef861bc178e7b338a0309fe7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":-1,
             "localadmin_id":1159296821,
             "locality_id":1276412743,
-            "region_id":85687127
+            "region_id":-1
         }
     ],
     "wof:id":1276412743,
-    "wof:lastmodified":1571076297,
+    "wof:lastmodified":1571382206,
     "wof:name":"Vikhamar",
     "wof:parent_id":1159296821,
     "wof:placetype":"locality",

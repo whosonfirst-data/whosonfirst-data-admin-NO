@@ -33,8 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209194611,
-        85633341
+        85687089,
+        102191581,
+        1159297167,
+        85633341,
+        1495123997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +47,18 @@
     "wof:geomhash":"9d7496fa0638285407ed1f5ecffc7da9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209194611,
-            "neighbourhood_id":1495149293
+            "localadmin_id":1159297167,
+            "locality_id":1495123997,
+            "neighbourhood_id":1495149293,
+            "region_id":85687089
         }
     ],
     "wof:id":1495149293,
-    "wof:lastmodified":1571089567,
+    "wof:lastmodified":1571393970,
     "wof:name":"Jarbakken",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1495123997,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

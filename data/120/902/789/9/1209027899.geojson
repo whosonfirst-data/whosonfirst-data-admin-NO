@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297025,
+        85633341,
+        85687099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"adc25bc1636ee72cc9b8271c94ed9b92",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209027899
+            "localadmin_id":1159297025,
+            "locality_id":1209027899,
+            "region_id":85687099
         }
     ],
     "wof:id":1209027899,
-    "wof:lastmodified":1571077239,
+    "wof:lastmodified":1571383550,
     "wof:name":"Hjartaker",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297025,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

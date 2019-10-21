@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001354,
-    "geom:area_square_m":8378056.999206,
+    "geom:area_square_m":8378056.999205,
     "geom:bbox":"10.6115474379,59.9522597743,10.6787109375,59.9911279436",
     "geom:latitude":59.969684,
     "geom:longitude":10.64291,
@@ -162,11 +162,11 @@
     "wd:longitude":10.666667,
     "wd:wordcount":295,
     "wof:belongsto":[
+        85687089,
         102191581,
         1159297167,
         85633341,
-        101751917,
-        85687089
+        1495123997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -177,13 +177,13 @@
         "wk:page":"Holmenkollen"
     },
     "wof:country":"NO",
-    "wof:geomhash":"fe5fdd719aba5e75c1d3fdd64d4074b4",
+    "wof:geomhash":"8498db6a25da7d9aad8dc320ba75ccbd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633341,
             "localadmin_id":1159297167,
-            "locality_id":101751917,
+            "locality_id":1495123997,
             "neighbourhood_id":85901581,
             "region_id":85687089
         }
@@ -192,9 +192,9 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571178450,
+    "wof:lastmodified":1571393962,
     "wof:name":"Holmenkollen",
-    "wof:parent_id":101751917,
+    "wof:parent_id":1495123997,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
@@ -202,7 +202,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    10.611547437939441,
+    10.61154743793944,
     59.95225977425038,
     10.67871093750011,
     59.99112794355018

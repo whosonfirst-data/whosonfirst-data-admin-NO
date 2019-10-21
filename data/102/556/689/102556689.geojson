@@ -79,8 +79,9 @@
         "state_id":2346397
     },
     "wof:belongsto":[
-        85633341,
-        85687085
+        85687085,
+        102191581,
+        1159297005
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,14 +96,18 @@
     "wof:hierarchy":[
         {
             "campus_id":102556689,
-            "country_id":85633341,
+            "continent_id":102191581,
+            "country_id":-1,
+            "localadmin_id":1159297005,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
             "region_id":85687085
         }
     ],
     "wof:id":102556689,
-    "wof:lastmodified":1566661495,
+    "wof:lastmodified":1571379262,
     "wof:name":"Haugesund Lufthavn Karm\u00f8y",
-    "wof:parent_id":85687085,
+    "wof:parent_id":1159297005,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

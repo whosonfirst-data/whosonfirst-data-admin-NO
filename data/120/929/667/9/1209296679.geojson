@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297511,
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"6110f88255f832da2fa1ef97f3508710",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209296679
+            "localadmin_id":1159297511,
+            "locality_id":1209296679,
+            "region_id":1495115971
         }
     ],
     "wof:id":1209296679,
-    "wof:lastmodified":1571077240,
+    "wof:lastmodified":1571392953,
     "wof:name":"Fla",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297511,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

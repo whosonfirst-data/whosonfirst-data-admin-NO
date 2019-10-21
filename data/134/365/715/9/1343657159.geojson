@@ -36,8 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297637,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,15 @@
     "wof:geomhash":"8fe3217fe120ef4ba2f3f914df1ec965",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297637,
             "locality_id":1343657159,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1343657159,
-    "wof:lastmodified":1571077105,
+    "wof:lastmodified":1571393023,
     "wof:name":"Smedhaugen",
     "wof:parent_id":1159297637,
     "wof:placetype":"locality",

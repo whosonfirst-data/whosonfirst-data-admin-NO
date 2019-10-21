@@ -132,7 +132,9 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687127
+        102191581,
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordance":{},
@@ -141,16 +143,16 @@
     "wof:geomhash":"2cc4c57fee68b73cff28d979fa9b4c6f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297367,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1159297367,
-    "wof:lastmodified":1571184486,
+    "wof:lastmodified":1571392923,
     "wof:name":"Bjugn",
-    "wof:parent_id":85687127,
+    "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-no",

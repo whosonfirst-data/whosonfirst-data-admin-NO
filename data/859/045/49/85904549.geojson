@@ -60,8 +60,10 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        1495115971,
+        102191581,
         1159297145,
-        85687127
+        85633341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,19 +74,19 @@
     "wof:geomhash":"8a4f9cedebfdb97338eea8044101f45e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297145,
             "locality_id":-1,
             "neighbourhood_id":85904549,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":85904549,
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571077142,
+    "wof:lastmodified":1571393074,
     "wof:name":"Vaddan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

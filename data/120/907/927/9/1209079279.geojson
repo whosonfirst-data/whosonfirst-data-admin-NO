@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297283,
+        85633341,
+        85687113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"51fa35a66caafa8fce45488fc876b27f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209079279
+            "localadmin_id":1159297283,
+            "locality_id":1209079279,
+            "region_id":85687113
         }
     ],
     "wof:id":1209079279,
-    "wof:lastmodified":1571077217,
+    "wof:lastmodified":1571382768,
     "wof:name":"Marifjora",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297283,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

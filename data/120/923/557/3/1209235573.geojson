@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297557,
+        85633341,
+        85687099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"adeaa07723eda9db59acb338b4404b87",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209235573
+            "localadmin_id":1159297557,
+            "locality_id":1209235573,
+            "region_id":85687099
         }
     ],
     "wof:id":1209235573,
-    "wof:lastmodified":1571077227,
+    "wof:lastmodified":1571383183,
     "wof:name":"Utsylta",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297557,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

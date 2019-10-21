@@ -74,8 +74,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297395,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,15 +87,15 @@
     "wof:geomhash":"2a9a060288b2d0cb68f7da64e32ad5ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297395,
             "locality_id":1326502641,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1326502641,
-    "wof:lastmodified":1571077081,
+    "wof:lastmodified":1571392986,
     "wof:name":"Brennan",
     "wof:parent_id":1159297395,
     "wof:placetype":"locality",

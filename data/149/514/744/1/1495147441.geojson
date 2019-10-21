@@ -51,8 +51,7 @@
         85687085,
         102191581,
         1159297103,
-        85633341,
-        1293757373
+        1495123971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,17 +63,17 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159297103,
-            "locality_id":1293757373,
+            "locality_id":1495123971,
             "neighbourhood_id":1495147441,
             "region_id":85687085
         }
     ],
     "wof:id":1495147441,
-    "wof:lastmodified":1571089514,
+    "wof:lastmodified":1571393974,
     "wof:name":"Buoy",
-    "wof:parent_id":1159297103,
+    "wof:parent_id":1495123971,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

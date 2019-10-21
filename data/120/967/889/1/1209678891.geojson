@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159296791,
+        85633341,
+        85687143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"3a16e0224e5fe63a66203aaf2e420e4f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209678891
+            "localadmin_id":1159296791,
+            "locality_id":1209678891,
+            "region_id":85687143
         }
     ],
     "wof:id":1209678891,
-    "wof:lastmodified":1571077234,
+    "wof:lastmodified":1571383419,
     "wof:name":"Forneset",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

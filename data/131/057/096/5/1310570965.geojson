@@ -54,8 +54,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1159297133,
-        85687127
+        102191581,
+        1159297133
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,15 +65,15 @@
     "wof:geomhash":"373cef07ce7b9b51d88ab1f24ff94ebb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":-1,
             "localadmin_id":1159297133,
             "locality_id":1310570965,
-            "region_id":85687127
+            "region_id":-1
         }
     ],
     "wof:id":1310570965,
-    "wof:lastmodified":1571089534,
+    "wof:lastmodified":1571385330,
     "wof:name":"Oya",
     "wof:parent_id":1159297133,
     "wof:placetype":"locality",

@@ -39,8 +39,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297163,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +52,15 @@
     "wof:geomhash":"70bcb7aa55e6468856f09206f3ff88de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297163,
             "locality_id":1343543273,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1343543273,
-    "wof:lastmodified":1571077107,
+    "wof:lastmodified":1571393005,
     "wof:name":"Arbogen",
     "wof:parent_id":1159297163,
     "wof:placetype":"locality",

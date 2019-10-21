@@ -38,9 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85687127,
+        1495115971,
+        102191581,
         1159297021,
-        1276301911
+        85633341,
+        101804135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,18 +52,18 @@
     "wof:geomhash":"4df24ccbc0fe1386b3ef34182e21d8ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297021,
-            "locality_id":1276301911,
+            "locality_id":101804135,
             "neighbourhood_id":1495149289,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1495149289,
-    "wof:lastmodified":1571089567,
+    "wof:lastmodified":1571393926,
     "wof:name":"Aunegrenda",
-    "wof:parent_id":1159297021,
+    "wof:parent_id":101804135,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

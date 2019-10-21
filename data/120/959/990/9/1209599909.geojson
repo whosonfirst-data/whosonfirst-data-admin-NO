@@ -32,7 +32,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        1159297007,
+        85687135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,17 @@
     "wof:geomhash":"e6720e7915468044d41b6e7e9f3c781d",
     "wof:hierarchy":[
         {
-            "country_id":85633341,
-            "locality_id":1209599909
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297007,
+            "locality_id":1209599909,
+            "region_id":85687135
         }
     ],
     "wof:id":1209599909,
-    "wof:lastmodified":1571077231,
+    "wof:lastmodified":1571383366,
     "wof:name":"Tro",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

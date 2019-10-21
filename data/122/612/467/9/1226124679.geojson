@@ -35,8 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297367,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,15 @@
     "wof:geomhash":"14b64e5193d0a5d6197109a7f94c64a2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297367,
             "locality_id":1226124679,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1226124679,
-    "wof:lastmodified":1571077488,
+    "wof:lastmodified":1571393058,
     "wof:name":"Melem",
     "wof:parent_id":1159297367,
     "wof:placetype":"locality",

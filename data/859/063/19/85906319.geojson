@@ -79,11 +79,11 @@
     "wd:longitude":10.794969,
     "wd:wordcount":1126,
     "wof:belongsto":[
+        85687089,
         102191581,
         1159297167,
         85633341,
-        101751917,
-        85687089
+        1495123997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,13 +92,13 @@
         "wd:id":"Q1770350"
     },
     "wof:country":"NO",
-    "wof:geomhash":"7d77da99445749f446e1d0b4bcbc70cc",
+    "wof:geomhash":"2e73beec0d7519647711941542511ba5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633341,
             "localadmin_id":1159297167,
-            "locality_id":101751917,
+            "locality_id":1495123997,
             "neighbourhood_id":85906319,
             "region_id":85687089
         }
@@ -107,9 +107,9 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571178450,
+    "wof:lastmodified":1571393964,
     "wof:name":"Holmlia",
-    "wof:parent_id":101751917,
+    "wof:parent_id":1495123997,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
@@ -117,7 +117,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    10.771125082056319,
+    10.77112508205632,
     59.82297909932103,
     10.8236509481107,
     59.84616861368978

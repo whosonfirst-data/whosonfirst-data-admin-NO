@@ -38,7 +38,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        1159296959,
+        85687135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,17 @@
     "wof:geomhash":"13c6b5863bf782b174c2da72ba280342",
     "wof:hierarchy":[
         {
-            "country_id":85633341,
-            "locality_id":1209611185
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296959,
+            "locality_id":1209611185,
+            "region_id":85687135
         }
     ],
     "wof:id":1209611185,
-    "wof:lastmodified":1571077230,
+    "wof:lastmodified":1571383335,
     "wof:name":"Styrkesnes",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296959,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

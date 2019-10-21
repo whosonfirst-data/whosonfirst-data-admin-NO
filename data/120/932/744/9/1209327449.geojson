@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159296731,
+        85633341,
+        85687071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,17 @@
     "wof:geomhash":"8284da2651c92699027d753c0285b34c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209327449
+            "localadmin_id":1159296731,
+            "locality_id":1209327449,
+            "region_id":85687071
         }
     ],
     "wof:id":1209327449,
-    "wof:lastmodified":1571077233,
+    "wof:lastmodified":1571383405,
     "wof:name":"Vedstol",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159296731,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

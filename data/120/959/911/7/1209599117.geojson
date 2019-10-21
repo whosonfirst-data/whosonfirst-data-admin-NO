@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297159,
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"691ca8281e4f413e9b11ba8fd153ea41",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209599117
+            "localadmin_id":1159297159,
+            "locality_id":1209599117,
+            "region_id":1495115971
         }
     ],
     "wof:id":1209599117,
-    "wof:lastmodified":1571077232,
+    "wof:lastmodified":1571392961,
     "wof:name":"Kvernvik",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297159,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

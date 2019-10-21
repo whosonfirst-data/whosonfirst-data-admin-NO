@@ -38,7 +38,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297439,
+        85633341,
+        85687145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,17 @@
     "wof:geomhash":"de0ad8482ade3556b15c8e45bcaa2083",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209638023
+            "localadmin_id":1159297439,
+            "locality_id":1209638023,
+            "region_id":85687145
         }
     ],
     "wof:id":1209638023,
-    "wof:lastmodified":1571077221,
+    "wof:lastmodified":1571382950,
     "wof:name":"Revsneshamn",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297439,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

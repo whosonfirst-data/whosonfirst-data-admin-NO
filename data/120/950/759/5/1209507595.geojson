@@ -44,7 +44,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        102191581,
+        1159297463,
+        85633341,
+        85687117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +57,17 @@
     "wof:geomhash":"98fee27445e58a1e646b39dcc84a98ba",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":1209507595
+            "localadmin_id":1159297463,
+            "locality_id":1209507595,
+            "region_id":85687117
         }
     ],
     "wof:id":1209507595,
-    "wof:lastmodified":1571077229,
+    "wof:lastmodified":1571383298,
     "wof:name":"Vangen",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297463,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

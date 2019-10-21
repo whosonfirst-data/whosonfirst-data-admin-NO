@@ -39,7 +39,6 @@
     "wof:belongsto":[
         102191581,
         1159296961,
-        85633341,
         85687085
     ],
     "wof:breaches":[],
@@ -51,14 +50,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159296961,
             "locality_id":1276951903,
             "region_id":85687085
         }
     ],
     "wof:id":1276951903,
-    "wof:lastmodified":1571077194,
+    "wof:lastmodified":1571381909,
     "wof:name":"Asland",
     "wof:parent_id":1159296961,
     "wof:placetype":"locality",

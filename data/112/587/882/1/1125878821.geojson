@@ -64,8 +64,10 @@
     "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        102191581,
         1159297163,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,15 +81,15 @@
     "wof:geomhash":"a61fc37b86aed1ac25b045bcacff79b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297163,
             "locality_id":1125878821,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1125878821,
-    "wof:lastmodified":1566662590,
+    "wof:lastmodified":1571392936,
     "wof:name":"Refsnes",
     "wof:parent_id":1159297163,
     "wof:placetype":"locality",

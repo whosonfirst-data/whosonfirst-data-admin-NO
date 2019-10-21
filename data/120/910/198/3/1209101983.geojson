@@ -125,7 +125,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633341
+        1159297417,
+        85687135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -135,14 +136,17 @@
     "wof:geomhash":"cc1a9c57f320be9671367098d2e2b040",
     "wof:hierarchy":[
         {
-            "country_id":85633341,
-            "locality_id":1209101983
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297417,
+            "locality_id":1209101983,
+            "region_id":85687135
         }
     ],
     "wof:id":1209101983,
-    "wof:lastmodified":1571077248,
+    "wof:lastmodified":1571383816,
     "wof:name":"Rygge",
-    "wof:parent_id":85633341,
+    "wof:parent_id":1159297417,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

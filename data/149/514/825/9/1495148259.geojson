@@ -38,8 +38,7 @@
         85687085,
         102191581,
         1159296709,
-        85633341,
-        1293857673
+        1495123957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +49,17 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
+            "country_id":-1,
             "localadmin_id":1159296709,
-            "locality_id":1293857673,
+            "locality_id":1495123957,
             "neighbourhood_id":1495148259,
             "region_id":85687085
         }
     ],
     "wof:id":1495148259,
-    "wof:lastmodified":1571089539,
+    "wof:lastmodified":1571393984,
     "wof:name":"Rossabo",
-    "wof:parent_id":1159296709,
+    "wof:parent_id":1495123957,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

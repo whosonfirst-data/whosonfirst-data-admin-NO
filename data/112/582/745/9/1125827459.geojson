@@ -92,8 +92,8 @@
     "woe:name_adm1":"S\u00f8r-Tr\u00f8ndelag Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1159297395,
-        85687127
+        102191581,
+        1159297395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,15 +107,15 @@
     "wof:geomhash":"598d4edd97df747f60abfd78f9151b2c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":-1,
             "localadmin_id":1159297395,
             "locality_id":1125827459,
-            "region_id":85687127
+            "region_id":-1
         }
     ],
     "wof:id":1125827459,
-    "wof:lastmodified":1571089543,
+    "wof:lastmodified":1571388229,
     "wof:name":"Orkanger",
     "wof:parent_id":1159297395,
     "wof:placetype":"locality",

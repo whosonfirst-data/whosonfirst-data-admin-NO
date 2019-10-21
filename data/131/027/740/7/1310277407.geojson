@@ -36,8 +36,8 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1159297021,
-        85687127
+        102191581,
+        1159297021
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +47,15 @@
     "wof:geomhash":"24dcbcf240bbbd5d261724c2b4d80287",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":-1,
             "localadmin_id":1159297021,
             "locality_id":1310277407,
-            "region_id":85687127
+            "region_id":-1
         }
     ],
     "wof:id":1310277407,
-    "wof:lastmodified":1571089519,
+    "wof:lastmodified":1571385085,
     "wof:name":"Aune",
     "wof:parent_id":1159297021,
     "wof:placetype":"locality",

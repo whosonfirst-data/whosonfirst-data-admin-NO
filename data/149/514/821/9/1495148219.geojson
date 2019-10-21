@@ -350,11 +350,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85687073,
         102191581,
         1159297457,
         85633341,
-        1260145127,
-        85687073
+        101815503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -367,15 +367,15 @@
             "continent_id":102191581,
             "country_id":85633341,
             "localadmin_id":1159297457,
-            "locality_id":1260145127,
+            "locality_id":101815503,
             "neighbourhood_id":1495148219,
             "region_id":85687073
         }
     ],
     "wof:id":1495148219,
-    "wof:lastmodified":1571348806,
+    "wof:lastmodified":1571393267,
     "wof:name":"Sand",
-    "wof:parent_id":1159297457,
+    "wof:parent_id":101815503,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

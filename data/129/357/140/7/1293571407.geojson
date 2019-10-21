@@ -180,8 +180,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191581,
         1159297637,
-        85687127
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -191,15 +193,15 @@
     "wof:geomhash":"cbcd8aec341cd6a391304261c0dfabb8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297637,
             "locality_id":1293571407,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":1293571407,
-    "wof:lastmodified":1571077163,
+    "wof:lastmodified":1571393062,
     "wof:name":"Harstad",
     "wof:parent_id":1159297637,
     "wof:placetype":"locality",
