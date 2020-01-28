@@ -2,8 +2,10 @@
   "id": 1527947265,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"2020-01-01",
+    "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"2020-01-01",
     "geom:area":2.544347,
     "geom:bbox":"6.376589,57.959392,9.366059,59.672687",
     "geom:latitude":58.697659,
@@ -37,13 +39,16 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580233176,
+    "wof:lastmodified":1580233996,
     "wof:name":"Agder",
     "wof:parent_id":-1,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85687071,
+        85687063
+    ],
     "wof:tags":[]
 },
   "bbox": [

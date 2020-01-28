@@ -2,8 +2,10 @@
   "id": 1527947263,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"2020-01-01",
+    "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"2020-01-01",
     "geom:area":8.759567,
     "geom:bbox":"7.34253,59.840785,12.870849,62.696928",
     "geom:latitude":61.445034,
@@ -37,13 +39,16 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580233177,
+    "wof:lastmodified":1580233998,
     "wof:name":"Innlandet",
     "wof:parent_id":-1,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85687109,
+        85687117
+    ],
     "wof:tags":[]
 },
   "bbox": [

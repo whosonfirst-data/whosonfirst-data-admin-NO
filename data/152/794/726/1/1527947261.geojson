@@ -2,8 +2,10 @@
   "id": 1527947261,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"2020-01-01",
+    "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"2020-01-01",
     "geom:area":5.600218,
     "geom:bbox":"4.500477,59.475421,8.322053,62.215687",
     "geom:latitude":60.923062,
@@ -37,13 +39,16 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580233179,
+    "wof:lastmodified":1580233974,
     "wof:name":"Vestland",
     "wof:parent_id":-1,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85687113,
+        85687099
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -2,8 +2,10 @@
   "id": 1527947267,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"2020-01-01",
+    "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"2020-01-01",
     "geom:area":2.765805,
     "geom:bbox":"7.096287,58.770254,10.595857,60.188272",
     "geom:latitude":59.492971,
@@ -37,13 +39,16 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580233175,
+    "wof:lastmodified":1580233993,
     "wof:name":"Vestfold og Telemark",
     "wof:parent_id":-1,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85687073,
+        85687091
+    ],
     "wof:tags":[]
 },
   "bbox": [
