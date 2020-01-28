@@ -6,7 +6,6 @@
     "edtf:inception":"uuuu",
     "geom:area":7.660351,
     "geom:area_square_m":58282886095.107658,
-    "reversegeo:geometry":"1495115971-alt-quattroshapes-reversegeo.geojson",
     "geom:bbox":"8.13936,62.255727,14.325986,65.39453",
     "geom:latitude":63.75203,
     "geom:longitude":11.364486,
@@ -248,11 +247,11 @@
     "name:war_x_preferred":[
         "Tr\u00f8ndelag"
     ],
+    "reversegeo:geometry":"1495115971-alt-quattroshapes-reversegeo.geojson",
     "src:geom":"no-geonorge",
     "src:geom_alt":[
         "whosonfirst"
     ],
-    "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wof:belongsto":[
@@ -285,7 +284,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1580235762,
+    "wof:lastmodified":1580239586,
     "wof:name":"Tr\u00f8ndelag",
     "wof:parent_id":85633341,
     "wof:placetype":"region",
