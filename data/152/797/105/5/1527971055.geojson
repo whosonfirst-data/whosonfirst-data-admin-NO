@@ -23,9 +23,13 @@
     "name:nob_x_preferred":[
         "Valle"
     ],
+    "no-geonorge:kommunenum":4221,
     "src:geom":"no-geonorge",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "no-geonorge:kommunenum":4221
+    },
     "wof:country":"NO",
     "wof:geomhash":"0ad2584faa7874c396303b84e85dd19b",
     "wof:hierarchy":[],
@@ -39,7 +43,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580432027,
+    "wof:lastmodified":1580434029,
     "wof:name":"Valle",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

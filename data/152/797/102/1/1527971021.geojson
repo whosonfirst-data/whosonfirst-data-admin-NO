@@ -23,9 +23,13 @@
     "name:nob_x_preferred":[
         "Asker"
     ],
+    "no-geonorge:kommunenum":3025,
     "src:geom":"no-geonorge",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "no-geonorge:kommunenum":3025
+    },
     "wof:country":"NO",
     "wof:geomhash":"6090758f17d64231c53b85cee5b78b07",
     "wof:hierarchy":[],
@@ -39,7 +43,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580432025,
+    "wof:lastmodified":1580434027,
     "wof:name":"Asker",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

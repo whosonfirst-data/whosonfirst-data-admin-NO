@@ -23,9 +23,13 @@
     "name:nob_x_preferred":[
         "Kristiansand"
     ],
+    "no-geonorge:kommunenum":4204,
     "src:geom":"no-geonorge",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "no-geonorge:kommunenum":4204
+    },
     "wof:country":"NO",
     "wof:geomhash":"91fabe908896b2309a87ef36cf5266e1",
     "wof:hierarchy":[],
@@ -39,7 +43,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580432028,
+    "wof:lastmodified":1580434030,
     "wof:name":"Kristiansand",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

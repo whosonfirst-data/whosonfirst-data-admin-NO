@@ -23,9 +23,13 @@
     "name:nob_x_preferred":[
         "Senja"
     ],
+    "no-geonorge:kommunenum":5421,
     "src:geom":"no-geonorge",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "no-geonorge:kommunenum":5421
+    },
     "wof:country":"NO",
     "wof:geomhash":"a7b75c5adafa646d9e723e4d36af50b2",
     "wof:hierarchy":[],
@@ -39,7 +43,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580432030,
+    "wof:lastmodified":1580434032,
     "wof:name":"Senja",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

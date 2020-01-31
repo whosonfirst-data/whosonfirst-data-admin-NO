@@ -23,9 +23,13 @@
     "name:nob_x_preferred":[
         "N\u00e6r\u00f8ysund"
     ],
+    "no-geonorge:kommunenum":5060,
     "src:geom":"no-geonorge",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "no-geonorge:kommunenum":5060
+    },
     "wof:country":"NO",
     "wof:geomhash":"dabda953de9451781d23c0807da16450",
     "wof:hierarchy":[],
@@ -39,7 +43,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580432034,
+    "wof:lastmodified":1580434035,
     "wof:name":"N\u00e6r\u00f8ysund",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

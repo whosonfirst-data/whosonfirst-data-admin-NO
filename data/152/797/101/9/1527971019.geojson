@@ -23,9 +23,13 @@
     "name:nob_x_preferred":[
         "Lillestr\u00f8m"
     ],
+    "no-geonorge:kommunenum":3030,
     "src:geom":"no-geonorge",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "no-geonorge:kommunenum":3030
+    },
     "wof:country":"NO",
     "wof:geomhash":"b0615c750b5454bb1c221c3228e537d7",
     "wof:hierarchy":[],
@@ -39,7 +43,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580432025,
+    "wof:lastmodified":1580434026,
     "wof:name":"Lillestr\u00f8m",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

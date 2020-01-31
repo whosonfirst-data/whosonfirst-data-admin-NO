@@ -23,9 +23,13 @@
     "name:nob_x_preferred":[
         "Narvik"
     ],
+    "no-geonorge:kommunenum":1806,
     "src:geom":"no-geonorge",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "no-geonorge:kommunenum":1806
+    },
     "wof:country":"NO",
     "wof:geomhash":"d12623d8e29cb314595ce712c345a8cd",
     "wof:hierarchy":[],
@@ -39,7 +43,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580432030,
+    "wof:lastmodified":1580434031,
     "wof:name":"Narvik",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

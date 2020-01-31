@@ -23,9 +23,13 @@
     "name:nob_x_preferred":[
         "Sunnfjord"
     ],
+    "no-geonorge:kommunenum":4647,
     "src:geom":"no-geonorge",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "no-geonorge:kommunenum":4647
+    },
     "wof:country":"NO",
     "wof:geomhash":"e4313f8dbe68f69221d69377cea2d9e8",
     "wof:hierarchy":[],
@@ -39,7 +43,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580432025,
+    "wof:lastmodified":1580434027,
     "wof:name":"Sunnfjord",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

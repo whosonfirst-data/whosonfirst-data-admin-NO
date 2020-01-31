@@ -23,9 +23,13 @@
     "name:nob_x_preferred":[
         "Bykle"
     ],
+    "no-geonorge:kommunenum":4222,
     "src:geom":"no-geonorge",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "no-geonorge:kommunenum":4222
+    },
     "wof:country":"NO",
     "wof:geomhash":"cc29942f706253f4c26018f6fbb04faa",
     "wof:hierarchy":[],
@@ -39,7 +43,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580432027,
+    "wof:lastmodified":1580434029,
     "wof:name":"Bykle",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

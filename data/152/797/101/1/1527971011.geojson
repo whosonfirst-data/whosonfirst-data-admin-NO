@@ -23,9 +23,13 @@
     "name:nob_x_preferred":[
         "Trondheim"
     ],
+    "no-geonorge:kommunenum":5001,
     "src:geom":"no-geonorge",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "no-geonorge:kommunenum":5001
+    },
     "wof:country":"NO",
     "wof:geomhash":"c2ecd73de36151b899a3b67bf75baf77",
     "wof:hierarchy":[],
@@ -39,7 +43,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580432024,
+    "wof:lastmodified":1580434025,
     "wof:name":"Trondheim",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

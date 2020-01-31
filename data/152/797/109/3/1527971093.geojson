@@ -23,9 +23,13 @@
     "name:nob_x_preferred":[
         "Molde"
     ],
+    "no-geonorge:kommunenum":1506,
     "src:geom":"no-geonorge",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "no-geonorge:kommunenum":1506
+    },
     "wof:country":"NO",
     "wof:geomhash":"c3cd7fe2b7bf58ab1dd97937f75232d3",
     "wof:hierarchy":[],
@@ -39,7 +43,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580432031,
+    "wof:lastmodified":1580434032,
     "wof:name":"Molde",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

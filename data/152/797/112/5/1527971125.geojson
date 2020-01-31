@@ -23,9 +23,13 @@
     "name:nob_x_preferred":[
         "Hitra"
     ],
+    "no-geonorge:kommunenum":5056,
     "src:geom":"no-geonorge",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "no-geonorge:kommunenum":5056
+    },
     "wof:country":"NO",
     "wof:geomhash":"9f244910d49d112af58daaaffe5255d1",
     "wof:hierarchy":[],
@@ -39,7 +43,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580432035,
+    "wof:lastmodified":1580434036,
     "wof:name":"Hitra",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

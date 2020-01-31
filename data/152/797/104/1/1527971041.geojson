@@ -23,9 +23,13 @@
     "name:nob_x_preferred":[
         "Sogndal"
     ],
+    "no-geonorge:kommunenum":4640,
     "src:geom":"no-geonorge",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "no-geonorge:kommunenum":4640
+    },
     "wof:country":"NO",
     "wof:geomhash":"3a14fe223c1b23020037f22f48dccc65",
     "wof:hierarchy":[],
@@ -39,7 +43,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580432026,
+    "wof:lastmodified":1580434028,
     "wof:name":"Sogndal",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

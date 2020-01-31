@@ -23,9 +23,13 @@
     "name:nob_x_preferred":[
         "Austrheim"
     ],
+    "no-geonorge:kommunenum":4632,
     "src:geom":"no-geonorge",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "no-geonorge:kommunenum":4632
+    },
     "wof:country":"NO",
     "wof:geomhash":"52f6a8995d28c4f770ef27c298fbfba9",
     "wof:hierarchy":[],
@@ -39,7 +43,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580432026,
+    "wof:lastmodified":1580434027,
     "wof:name":"Austrheim",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

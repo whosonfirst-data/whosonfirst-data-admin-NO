@@ -23,9 +23,13 @@
     "name:nob_x_preferred":[
         "Fedje"
     ],
+    "no-geonorge:kommunenum":4633,
     "src:geom":"no-geonorge",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "no-geonorge:kommunenum":4633
+    },
     "wof:country":"NO",
     "wof:geomhash":"3789b92e136160f276686590172c46e0",
     "wof:hierarchy":[],
@@ -39,7 +43,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580432026,
+    "wof:lastmodified":1580434028,
     "wof:name":"Fedje",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

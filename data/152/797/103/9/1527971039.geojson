@@ -23,9 +23,13 @@
     "name:nob_x_preferred":[
         "Askvoll"
     ],
+    "no-geonorge:kommunenum":4645,
     "src:geom":"no-geonorge",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "no-geonorge:kommunenum":4645
+    },
     "wof:country":"NO",
     "wof:geomhash":"2ea171ee7c8b0103a96e9e4ddcf3d55d",
     "wof:hierarchy":[],
@@ -39,7 +43,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580432026,
+    "wof:lastmodified":1580434028,
     "wof:name":"Askvoll",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -23,9 +23,13 @@
     "name:nob_x_preferred":[
         "Volda"
     ],
+    "no-geonorge:kommunenum":1577,
     "src:geom":"no-geonorge",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "no-geonorge:kommunenum":1577
+    },
     "wof:country":"NO",
     "wof:geomhash":"b7d8d10ecfa4c722bc0155a5c8448bd5",
     "wof:hierarchy":[],
@@ -39,7 +43,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580432032,
+    "wof:lastmodified":1580434033,
     "wof:name":"Volda",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

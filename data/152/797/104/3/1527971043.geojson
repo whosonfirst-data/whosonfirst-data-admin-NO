@@ -23,9 +23,13 @@
     "name:nob_x_preferred":[
         "Ullensvang"
     ],
+    "no-geonorge:kommunenum":4618,
     "src:geom":"no-geonorge",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "no-geonorge:kommunenum":4618
+    },
     "wof:country":"NO",
     "wof:geomhash":"e3053ddb1f9aa0f1d861df40a7fb93b4",
     "wof:hierarchy":[],
@@ -39,7 +43,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580432026,
+    "wof:lastmodified":1580434028,
     "wof:name":"Ullensvang",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

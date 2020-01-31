@@ -23,9 +23,13 @@
     "name:nob_x_preferred":[
         "Hammerfest"
     ],
+    "no-geonorge:kommunenum":5406,
     "src:geom":"no-geonorge",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "no-geonorge:kommunenum":5406
+    },
     "wof:country":"NO",
     "wof:geomhash":"d3a70516c960fbb66d89aab3122e0394",
     "wof:hierarchy":[],
@@ -39,7 +43,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580432031,
+    "wof:lastmodified":1580434033,
     "wof:name":"Hammerfest",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

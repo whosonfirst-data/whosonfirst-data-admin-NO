@@ -23,9 +23,13 @@
     "name:nob_x_preferred":[
         "Heim"
     ],
+    "no-geonorge:kommunenum":5055,
     "src:geom":"no-geonorge",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "no-geonorge:kommunenum":5055
+    },
     "wof:country":"NO",
     "wof:geomhash":"b46b32d948dd083faab5641be8ffa6fd",
     "wof:hierarchy":[],
@@ -39,7 +43,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580432035,
+    "wof:lastmodified":1580434037,
     "wof:name":"Heim",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

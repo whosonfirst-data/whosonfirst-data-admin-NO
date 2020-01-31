@@ -23,9 +23,13 @@
     "name:nob_x_preferred":[
         "Rauma"
     ],
+    "no-geonorge:kommunenum":1539,
     "src:geom":"no-geonorge",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "no-geonorge:kommunenum":1539
+    },
     "wof:country":"NO",
     "wof:geomhash":"8a795b18f1a86537927fb45426627d8a",
     "wof:hierarchy":[],
@@ -39,7 +43,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580432029,
+    "wof:lastmodified":1580434031,
     "wof:name":"Rauma",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

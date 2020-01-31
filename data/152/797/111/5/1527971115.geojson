@@ -23,9 +23,13 @@
     "name:nob_x_preferred":[
         "Strand"
     ],
+    "no-geonorge:kommunenum":1130,
     "src:geom":"no-geonorge",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "no-geonorge:kommunenum":1130
+    },
     "wof:country":"NO",
     "wof:geomhash":"da6dea693337c11057ce1a2b85fccc65",
     "wof:hierarchy":[],
@@ -39,7 +43,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580432033,
+    "wof:lastmodified":1580434035,
     "wof:name":"Strand",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

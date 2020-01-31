@@ -23,9 +23,13 @@
     "name:nob_x_preferred":[
         "Sauda"
     ],
+    "no-geonorge:kommunenum":1135,
     "src:geom":"no-geonorge",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "no-geonorge:kommunenum":1135
+    },
     "wof:country":"NO",
     "wof:geomhash":"6b38de1dfa182360b8485ea8148fbfcd",
     "wof:hierarchy":[],
@@ -39,7 +43,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580432033,
+    "wof:lastmodified":1580434035,
     "wof:name":"Sauda",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

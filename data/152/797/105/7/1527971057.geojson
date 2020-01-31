@@ -23,9 +23,13 @@
     "name:nob_x_preferred":[
         "Birkenes"
     ],
+    "no-geonorge:kommunenum":4216,
     "src:geom":"no-geonorge",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "no-geonorge:kommunenum":4216
+    },
     "wof:country":"NO",
     "wof:geomhash":"58da9aee6b6fdbd55d8243c55b6efac9",
     "wof:hierarchy":[],
@@ -39,7 +43,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580432027,
+    "wof:lastmodified":1580434029,
     "wof:name":"Birkenes",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

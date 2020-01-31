@@ -23,9 +23,13 @@
     "name:nob_x_preferred":[
         "Sandnes"
     ],
+    "no-geonorge:kommunenum":1108,
     "src:geom":"no-geonorge",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "no-geonorge:kommunenum":1108
+    },
     "wof:country":"NO",
     "wof:geomhash":"51ee3d052d9845b9c31dbf2d967fc63a",
     "wof:hierarchy":[],
@@ -39,7 +43,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580432036,
+    "wof:lastmodified":1580434038,
     "wof:name":"Sandnes",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

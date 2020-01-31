@@ -23,9 +23,13 @@
     "name:nob_x_preferred":[
         "H\u00f8yanger"
     ],
+    "no-geonorge:kommunenum":4638,
     "src:geom":"no-geonorge",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "no-geonorge:kommunenum":4638
+    },
     "wof:country":"NO",
     "wof:geomhash":"ed633f74378d41cc52115ff233a69a6f",
     "wof:hierarchy":[],
@@ -39,7 +43,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580432026,
+    "wof:lastmodified":1580434027,
     "wof:name":"H\u00f8yanger",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

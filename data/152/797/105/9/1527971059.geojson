@@ -23,9 +23,13 @@
     "name:nob_x_preferred":[
         "Sirdal"
     ],
+    "no-geonorge:kommunenum":4228,
     "src:geom":"no-geonorge",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "no-geonorge:kommunenum":4228
+    },
     "wof:country":"NO",
     "wof:geomhash":"cc890274b79db442d7c75efd22f7b483",
     "wof:hierarchy":[],
@@ -39,7 +43,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580432027,
+    "wof:lastmodified":1580434029,
     "wof:name":"Sirdal",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

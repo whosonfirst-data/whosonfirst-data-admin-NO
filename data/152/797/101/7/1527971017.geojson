@@ -23,9 +23,13 @@
     "name:nob_x_preferred":[
         "Nordre Follo"
     ],
+    "no-geonorge:kommunenum":3020,
     "src:geom":"no-geonorge",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "no-geonorge:kommunenum":3020
+    },
     "wof:country":"NO",
     "wof:geomhash":"91373914f6032044f3e1d34a86978c3d",
     "wof:hierarchy":[],
@@ -39,7 +43,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580432024,
+    "wof:lastmodified":1580434026,
     "wof:name":"Nordre Follo",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -23,9 +23,13 @@
     "name:nob_x_preferred":[
         "Lindesnes"
     ],
+    "no-geonorge:kommunenum":4205,
     "src:geom":"no-geonorge",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "no-geonorge:kommunenum":4205
+    },
     "wof:country":"NO",
     "wof:geomhash":"1bc7fbe58a8ff2591f55637b88a7a8f0",
     "wof:hierarchy":[],
@@ -39,7 +43,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580432028,
+    "wof:lastmodified":1580434030,
     "wof:name":"Lindesnes",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",
