@@ -2,8 +2,10 @@
   "id": 1527971041,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"2020-01-01",
+    "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"2020-01-01",
     "geom:area":0.210616,
     "geom:bbox":"6.251984,61.105753,7.395491,61.570247",
     "geom:latitude":61.293447,
@@ -37,13 +39,17 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580422915,
+    "wof:lastmodified":1580429750,
     "wof:name":"Sogndal",
     "wof:parent_id":-1,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1159296861,
+        1159297555,
+        1159297581
+    ],
     "wof:tags":[]
 },
   "bbox": [

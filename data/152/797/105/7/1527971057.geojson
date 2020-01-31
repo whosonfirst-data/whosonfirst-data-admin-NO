@@ -2,8 +2,10 @@
   "id": 1527971057,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"2020-01-01",
+    "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"2020-01-01",
     "geom:area":0.097992,
     "geom:bbox":"7.931311,58.241875,8.444985,58.637223",
     "geom:latitude":58.447009,
@@ -37,13 +39,15 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580422916,
+    "wof:lastmodified":1580429750,
     "wof:name":"Birkenes",
     "wof:parent_id":-1,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1159297559
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -2,8 +2,10 @@
   "id": 1527971015,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"2020-01-01",
+    "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"2020-01-01",
     "geom:area":0.396656,
     "geom:bbox":"10.740795,64.097881,12.216854,64.835035",
     "geom:latitude":64.462763,
@@ -37,13 +39,17 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580422913,
+    "wof:lastmodified":1580429735,
     "wof:name":"Namsos",
     "wof:parent_id":-1,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1159296897,
+        1159297159,
+        1159297197
+    ],
     "wof:tags":[]
 },
   "bbox": [

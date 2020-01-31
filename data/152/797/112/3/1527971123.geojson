@@ -2,8 +2,10 @@
   "id": 1527971123,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"2020-01-01",
+    "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"2020-01-01",
     "geom:area":0.340663,
     "geom:bbox":"9.176648,62.890431,10.013851,63.646679",
     "geom:latitude":63.268499,
@@ -37,13 +39,18 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580422922,
+    "wof:lastmodified":1580429749,
     "wof:name":"Orkland",
     "wof:parent_id":-1,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1159296989,
+        1159297117,
+        1159297395,
+        1159297549
+    ],
     "wof:tags":[]
 },
   "bbox": [

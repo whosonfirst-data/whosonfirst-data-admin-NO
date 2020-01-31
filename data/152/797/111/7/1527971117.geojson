@@ -2,8 +2,10 @@
   "id": 1527971117,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"2020-01-01",
+    "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"2020-01-01",
     "geom:area":0.087148,
     "geom:bbox":"6.178095,59.562604,6.693511,59.844574",
     "geom:latitude":59.703404,
@@ -37,13 +39,15 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580422921,
+    "wof:lastmodified":1580429737,
     "wof:name":"Sauda",
     "wof:parent_id":-1,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1159297249
+    ],
     "wof:tags":[]
 },
   "bbox": [

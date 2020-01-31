@@ -2,8 +2,10 @@
   "id": 1527971055,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"2020-01-01",
+    "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"2020-01-01",
     "geom:area":0.198565,
     "geom:bbox":"6.996384,58.939356,7.821009,59.398819",
     "geom:latitude":59.164737,
@@ -37,13 +39,15 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580422916,
+    "wof:lastmodified":1580429714,
     "wof:name":"Valle",
     "wof:parent_id":-1,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1159296773
+    ],
     "wof:tags":[]
 },
   "bbox": [

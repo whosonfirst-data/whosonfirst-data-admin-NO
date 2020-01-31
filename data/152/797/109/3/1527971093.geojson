@@ -2,8 +2,10 @@
   "id": 1527971093,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"2020-01-01",
+    "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"2020-01-01",
     "geom:area":0.262994,
     "geom:bbox":"6.514603,62.331744,8.731647,62.871439",
     "geom:latitude":62.638252,
@@ -37,13 +39,17 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580422919,
+    "wof:lastmodified":1580429747,
     "wof:name":"Molde",
     "wof:parent_id":-1,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1159296783,
+        1159297323,
+        1159297499
+    ],
     "wof:tags":[]
 },
   "bbox": [

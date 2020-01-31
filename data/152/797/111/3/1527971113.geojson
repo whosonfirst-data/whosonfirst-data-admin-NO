@@ -2,8 +2,10 @@
   "id": 1527971113,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"2020-01-01",
+    "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"2020-01-01",
     "geom:area":0.125864,
     "geom:bbox":"10.771332,59.450145,11.551,59.770266",
     "geom:latitude":59.596542,
@@ -37,13 +39,19 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580422921,
+    "wof:lastmodified":1580429748,
     "wof:name":"Indre \u00d8stfold",
     "wof:parent_id":-1,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1159296727,
+        1159296863,
+        1159296995,
+        1159297261,
+        1159297525
+    ],
     "wof:tags":[]
 },
   "bbox": [

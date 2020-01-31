@@ -2,8 +2,10 @@
   "id": 1527971045,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"2020-01-01",
+    "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"2020-01-01",
     "geom:area":0.083818,
     "geom:bbox":"5.298895,60.033603,5.961294,60.353616",
     "geom:latitude":60.217309,
@@ -37,13 +39,16 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580422916,
+    "wof:lastmodified":1580429750,
     "wof:name":"Bj\u00f8rnafjorden",
     "wof:parent_id":-1,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1159297025,
+        1159297561
+    ],
     "wof:tags":[]
 },
   "bbox": [
