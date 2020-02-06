@@ -11,9 +11,9 @@
     "geom:latitude":59.117825,
     "geom:longitude":5.807797,
     "iso:country":"NO",
-    "lbl:latitude":58.963096,
+    "lbl:latitude":58.963097,
     "lbl:longitude":5.694527,
-    "mps:latitude":58.963096,
+    "mps:latitude":58.963097,
     "mps:longitude":5.694527,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -24,7 +24,10 @@
         "Stavanger"
     ],
     "no-geonorge:kommunenum":1103,
+    "reversegeo:latitude":58.963097,
+    "reversegeo:longitude":5.694527,
     "src:geom":"no-geonorge",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +46,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580434038,
+    "wof:lastmodified":1581015547,
     "wof:name":"Stavanger",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

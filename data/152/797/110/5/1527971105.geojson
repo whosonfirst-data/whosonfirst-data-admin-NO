@@ -11,10 +11,10 @@
     "geom:latitude":62.053852,
     "geom:longitude":6.276137,
     "iso:country":"NO",
-    "lbl:latitude":62.028914,
-    "lbl:longitude":6.498211,
-    "mps:latitude":62.028914,
-    "mps:longitude":6.498211,
+    "lbl:latitude":62.028916,
+    "lbl:longitude":6.498197,
+    "mps:latitude":62.028916,
+    "mps:longitude":6.498197,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:nno_x_preferred":[
@@ -24,7 +24,10 @@
         "Volda"
     ],
     "no-geonorge:kommunenum":1577,
+    "reversegeo:latitude":62.028916,
+    "reversegeo:longitude":6.498197,
     "src:geom":"no-geonorge",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +46,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580434033,
+    "wof:lastmodified":1581015535,
     "wof:name":"Volda",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

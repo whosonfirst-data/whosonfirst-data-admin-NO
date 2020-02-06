@@ -12,9 +12,9 @@
     "geom:longitude":5.925408,
     "iso:country":"NO",
     "lbl:latitude":61.225557,
-    "lbl:longitude":5.951563,
+    "lbl:longitude":5.951564,
     "mps:latitude":61.225557,
-    "mps:longitude":5.951563,
+    "mps:longitude":5.951564,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:nno_x_preferred":[
@@ -24,7 +24,10 @@
         "H\u00f8yanger"
     ],
     "no-geonorge:kommunenum":4638,
+    "reversegeo:latitude":61.225557,
+    "reversegeo:longitude":5.951564,
     "src:geom":"no-geonorge",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +46,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580434027,
+    "wof:lastmodified":1581015530,
     "wof:name":"H\u00f8yanger",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

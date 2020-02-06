@@ -11,9 +11,9 @@
     "geom:latitude":62.227436,
     "geom:longitude":6.340985,
     "iso:country":"NO",
-    "lbl:latitude":62.236977,
+    "lbl:latitude":62.236976,
     "lbl:longitude":6.27745,
-    "mps:latitude":62.236977,
+    "mps:latitude":62.236976,
     "mps:longitude":6.27745,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -24,7 +24,10 @@
         "\u00d8rsta"
     ],
     "no-geonorge:kommunenum":1520,
+    "reversegeo:latitude":62.236976,
+    "reversegeo:longitude":6.27745,
     "src:geom":"no-geonorge",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +46,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580434032,
+    "wof:lastmodified":1581015545,
     "wof:name":"\u00d8rsta",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

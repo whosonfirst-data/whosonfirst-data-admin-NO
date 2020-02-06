@@ -12,9 +12,9 @@
     "geom:longitude":9.842153,
     "iso:country":"NO",
     "lbl:latitude":63.81303,
-    "lbl:longitude":9.930124,
+    "lbl:longitude":9.93013,
     "mps:latitude":63.81303,
-    "mps:longitude":9.930124,
+    "mps:longitude":9.93013,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:nno_x_preferred":[
@@ -24,7 +24,10 @@
         "\u00d8rland"
     ],
     "no-geonorge:kommunenum":5057,
+    "reversegeo:latitude":63.81303,
+    "reversegeo:longitude":9.93013,
     "src:geom":"no-geonorge",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +46,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580434037,
+    "wof:lastmodified":1581015548,
     "wof:name":"\u00d8rland",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

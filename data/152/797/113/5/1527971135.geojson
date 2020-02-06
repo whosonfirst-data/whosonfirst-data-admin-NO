@@ -24,7 +24,10 @@
         "Sandnes"
     ],
     "no-geonorge:kommunenum":1108,
+    "reversegeo:latitude":58.960475,
+    "reversegeo:longitude":6.432189,
     "src:geom":"no-geonorge",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +46,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580434038,
+    "wof:lastmodified":1581015549,
     "wof:name":"Sandnes",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

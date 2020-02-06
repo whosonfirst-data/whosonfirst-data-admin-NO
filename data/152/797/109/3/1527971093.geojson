@@ -11,10 +11,10 @@
     "geom:latitude":62.638252,
     "geom:longitude":7.901644,
     "iso:country":"NO",
-    "lbl:latitude":62.678196,
-    "lbl:longitude":7.97798,
-    "mps:latitude":62.678196,
-    "mps:longitude":7.97798,
+    "lbl:latitude":62.678197,
+    "lbl:longitude":7.977979,
+    "mps:latitude":62.678197,
+    "mps:longitude":7.977979,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:nno_x_preferred":[
@@ -24,7 +24,10 @@
         "Molde"
     ],
     "no-geonorge:kommunenum":1506,
+    "reversegeo:latitude":62.678197,
+    "reversegeo:longitude":7.977979,
     "src:geom":"no-geonorge",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +46,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580434032,
+    "wof:lastmodified":1581015537,
     "wof:name":"Molde",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

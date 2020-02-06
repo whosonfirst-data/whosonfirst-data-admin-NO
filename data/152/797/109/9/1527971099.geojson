@@ -11,9 +11,9 @@
     "geom:latitude":62.886233,
     "geom:longitude":7.225327,
     "iso:country":"NO",
-    "lbl:latitude":62.885881,
+    "lbl:latitude":62.885882,
     "lbl:longitude":7.287899,
-    "mps:latitude":62.885881,
+    "mps:latitude":62.885882,
     "mps:longitude":7.287899,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -24,7 +24,10 @@
         "Hustadvika"
     ],
     "no-geonorge:kommunenum":1579,
+    "reversegeo:latitude":62.885882,
+    "reversegeo:longitude":7.287899,
     "src:geom":"no-geonorge",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +46,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580434033,
+    "wof:lastmodified":1581015536,
     "wof:name":"Hustadvika",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

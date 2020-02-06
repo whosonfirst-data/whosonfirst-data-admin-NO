@@ -11,10 +11,10 @@
     "geom:latitude":63.541067,
     "geom:longitude":8.786927,
     "iso:country":"NO",
-    "lbl:latitude":63.561125,
-    "lbl:longitude":8.815247,
-    "mps:latitude":63.561125,
-    "mps:longitude":8.815247,
+    "lbl:latitude":63.561126,
+    "lbl:longitude":8.815243,
+    "mps:latitude":63.561126,
+    "mps:longitude":8.815243,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:nno_x_preferred":[
@@ -24,7 +24,10 @@
         "Hitra"
     ],
     "no-geonorge:kommunenum":5056,
+    "reversegeo:latitude":63.561126,
+    "reversegeo:longitude":8.815243,
     "src:geom":"no-geonorge",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +46,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580434036,
+    "wof:lastmodified":1581015546,
     "wof:name":"Hitra",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

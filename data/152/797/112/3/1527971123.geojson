@@ -11,10 +11,10 @@
     "geom:latitude":63.268499,
     "geom:longitude":9.646338,
     "iso:country":"NO",
-    "lbl:latitude":63.254354,
-    "lbl:longitude":9.641207,
-    "mps:latitude":63.254354,
-    "mps:longitude":9.641207,
+    "lbl:latitude":63.254355,
+    "lbl:longitude":9.641208,
+    "mps:latitude":63.254355,
+    "mps:longitude":9.641208,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:nno_x_preferred":[
@@ -24,7 +24,10 @@
         "Orkland"
     ],
     "no-geonorge:kommunenum":5059,
+    "reversegeo:latitude":63.254355,
+    "reversegeo:longitude":9.641208,
     "src:geom":"no-geonorge",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +46,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580434036,
+    "wof:lastmodified":1581015546,
     "wof:name":"Orkland",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -11,9 +11,9 @@
     "geom:latitude":61.67051,
     "geom:longitude":5.32276,
     "iso:country":"NO",
-    "lbl:latitude":61.649106,
+    "lbl:latitude":61.649105,
     "lbl:longitude":5.536866,
-    "mps:latitude":61.649106,
+    "mps:latitude":61.649105,
     "mps:longitude":5.536866,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -24,7 +24,10 @@
         "Kinn"
     ],
     "no-geonorge:kommunenum":4602,
+    "reversegeo:latitude":61.649105,
+    "reversegeo:longitude":5.536866,
     "src:geom":"no-geonorge",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +46,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580434025,
+    "wof:lastmodified":1581015538,
     "wof:name":"Kinn",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -12,9 +12,9 @@
     "geom:longitude":10.879524,
     "iso:country":"NO",
     "lbl:latitude":59.751284,
-    "lbl:longitude":10.881541,
+    "lbl:longitude":10.88154,
     "mps:latitude":59.751284,
-    "mps:longitude":10.881541,
+    "mps:longitude":10.88154,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:nno_x_preferred":[
@@ -24,7 +24,10 @@
         "Nordre Follo"
     ],
     "no-geonorge:kommunenum":3020,
+    "reversegeo:latitude":59.751284,
+    "reversegeo:longitude":10.88154,
     "src:geom":"no-geonorge",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +46,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580434026,
+    "wof:lastmodified":1581015543,
     "wof:name":"Nordre Follo",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

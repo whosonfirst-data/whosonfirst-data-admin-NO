@@ -11,9 +11,9 @@
     "geom:latitude":60.783104,
     "geom:longitude":4.931579,
     "iso:country":"NO",
-    "lbl:latitude":60.763519,
+    "lbl:latitude":60.763518,
     "lbl:longitude":4.927734,
-    "mps:latitude":60.763519,
+    "mps:latitude":60.763518,
     "mps:longitude":4.927734,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -24,7 +24,10 @@
         "Austrheim"
     ],
     "no-geonorge:kommunenum":4632,
+    "reversegeo:latitude":60.763518,
+    "reversegeo:longitude":4.927734,
     "src:geom":"no-geonorge",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +46,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580434027,
+    "wof:lastmodified":1581015529,
     "wof:name":"Austrheim",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

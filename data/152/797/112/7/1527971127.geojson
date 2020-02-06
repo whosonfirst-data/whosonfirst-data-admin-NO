@@ -11,10 +11,10 @@
     "geom:latitude":63.227552,
     "geom:longitude":8.894492,
     "iso:country":"NO",
-    "lbl:latitude":63.29233,
-    "lbl:longitude":8.992864,
-    "mps:latitude":63.29233,
-    "mps:longitude":8.992864,
+    "lbl:latitude":63.292326,
+    "lbl:longitude":8.992848,
+    "mps:latitude":63.292326,
+    "mps:longitude":8.992848,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:nno_x_preferred":[
@@ -24,7 +24,10 @@
         "Heim"
     ],
     "no-geonorge:kommunenum":5055,
+    "reversegeo:latitude":63.292326,
+    "reversegeo:longitude":8.992848,
     "src:geom":"no-geonorge",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +46,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580434037,
+    "wof:lastmodified":1581015545,
     "wof:name":"Heim",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

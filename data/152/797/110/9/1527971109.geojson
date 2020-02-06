@@ -11,9 +11,9 @@
     "geom:latitude":59.714377,
     "geom:longitude":10.149764,
     "iso:country":"NO",
-    "lbl:latitude":59.73613,
+    "lbl:latitude":59.736131,
     "lbl:longitude":10.087713,
-    "mps:latitude":59.73613,
+    "mps:latitude":59.736131,
     "mps:longitude":10.087713,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -24,7 +24,10 @@
         "Drammen"
     ],
     "no-geonorge:kommunenum":3005,
+    "reversegeo:latitude":59.736131,
+    "reversegeo:longitude":10.087713,
     "src:geom":"no-geonorge",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +46,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580434034,
+    "wof:lastmodified":1581015534,
     "wof:name":"Drammen",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

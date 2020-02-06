@@ -24,7 +24,10 @@
         "Narvik"
     ],
     "no-geonorge:kommunenum":1806,
+    "reversegeo:latitude":68.213677,
+    "reversegeo:longitude":17.770129,
     "src:geom":"no-geonorge",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +46,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580434031,
+    "wof:lastmodified":1581015545,
     "wof:name":"Narvik",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

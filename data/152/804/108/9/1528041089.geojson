@@ -9,10 +9,10 @@
     "geom:latitude":61.977119,
     "geom:longitude":5.758742,
     "iso:country":"NO",
-    "lbl:latitude":61.952505,
-    "lbl:longitude":5.938824,
-    "mps:latitude":61.952505,
-    "mps:longitude":5.938824,
+    "lbl:latitude":61.9525,
+    "lbl:longitude":5.938851,
+    "mps:latitude":61.9525,
+    "mps:longitude":5.938851,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:nno_x_preferred":[
@@ -21,7 +21,10 @@
     "name:nob_x_preferred":[
         "Stad"
     ],
+    "reversegeo:latitude":61.9525,
+    "reversegeo:longitude":5.938851,
     "src:geom":"no-geonorge",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:country":"NO",
@@ -37,7 +40,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580860770,
+    "wof:lastmodified":1581015549,
     "wof:name":"Stad",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

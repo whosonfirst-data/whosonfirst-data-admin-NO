@@ -11,9 +11,9 @@
     "geom:latitude":61.469852,
     "geom:longitude":6.113438,
     "iso:country":"NO",
-    "lbl:latitude":61.464368,
+    "lbl:latitude":61.464367,
     "lbl:longitude":6.113428,
-    "mps:latitude":61.464368,
+    "mps:latitude":61.464367,
     "mps:longitude":6.113428,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -24,7 +24,10 @@
         "Sunnfjord"
     ],
     "no-geonorge:kommunenum":4647,
+    "reversegeo:latitude":61.464367,
+    "reversegeo:longitude":6.113428,
     "src:geom":"no-geonorge",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +46,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580434027,
+    "wof:lastmodified":1581015530,
     "wof:name":"Sunnfjord",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

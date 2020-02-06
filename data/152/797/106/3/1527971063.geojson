@@ -12,9 +12,9 @@
     "geom:longitude":7.858314,
     "iso:country":"NO",
     "lbl:latitude":58.158665,
-    "lbl:longitude":7.850228,
+    "lbl:longitude":7.85023,
     "mps:latitude":58.158665,
-    "mps:longitude":7.850228,
+    "mps:longitude":7.85023,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:nno_x_preferred":[
@@ -24,7 +24,10 @@
         "Kristiansand"
     ],
     "no-geonorge:kommunenum":4204,
+    "reversegeo:latitude":58.158665,
+    "reversegeo:longitude":7.85023,
     "src:geom":"no-geonorge",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +46,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580434030,
+    "wof:lastmodified":1581015541,
     "wof:name":"Kristiansand",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

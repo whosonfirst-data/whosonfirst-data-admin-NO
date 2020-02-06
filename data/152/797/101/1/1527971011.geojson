@@ -24,7 +24,10 @@
         "Trondheim"
     ],
     "no-geonorge:kommunenum":5001,
+    "reversegeo:latitude":63.32818,
+    "reversegeo:longitude":10.510522,
     "src:geom":"no-geonorge",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +46,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580434025,
+    "wof:lastmodified":1581015543,
     "wof:name":"Trondheim",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

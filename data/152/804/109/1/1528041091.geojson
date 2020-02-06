@@ -9,10 +9,10 @@
     "geom:latitude":60.686851,
     "geom:longitude":6.469228,
     "iso:country":"NO",
-    "lbl:latitude":60.684296,
-    "lbl:longitude":6.525392,
-    "mps:latitude":60.684296,
-    "mps:longitude":6.525392,
+    "lbl:latitude":60.690286,
+    "lbl:longitude":6.508113,
+    "mps:latitude":60.690286,
+    "mps:longitude":6.508113,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:nno_x_preferred":[
@@ -21,7 +21,10 @@
     "name:nob_x_preferred":[
         "Voss"
     ],
+    "reversegeo:latitude":60.690286,
+    "reversegeo:longitude":6.508113,
     "src:geom":"no-geonorge",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:country":"NO",
@@ -37,7 +40,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580860770,
+    "wof:lastmodified":1581015549,
     "wof:name":"Voss",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",
