@@ -38,12 +38,7 @@
         "Nordskard"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159297199,
-        85633341,
-        85687143
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3144182
@@ -52,17 +47,16 @@
     "wof:geomhash":"76872005470303b3c510d25382f6b34f",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297199,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1260258649,
-            "region_id":85687143
+            "region_id":-1
         }
     ],
     "wof:id":1260258649,
-    "wof:lastmodified":1571384333,
+    "wof:lastmodified":1581021203,
     "wof:name":"Nordskard",
-    "wof:parent_id":1159297199,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

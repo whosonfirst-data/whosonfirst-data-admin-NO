@@ -28,14 +28,25 @@
     "reversegeo:longitude":10.272586,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633341,
+        1527947267
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "no-geonorge:kommunenum":3803
     },
     "wof:country":"NO",
     "wof:geomhash":"30fe1e195a95244739413526bc965cf1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1527971073,
+            "region_id":1527947267
+        }
+    ],
     "wof:id":1527971073,
     "wof:lang_x_official":[
         "nob",
@@ -46,9 +57,9 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581015539,
+    "wof:lastmodified":1581019584,
     "wof:name":"T\u00f8nsberg",
-    "wof:parent_id":-1,
+    "wof:parent_id":1527947267,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

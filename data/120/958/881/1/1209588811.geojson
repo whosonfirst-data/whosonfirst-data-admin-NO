@@ -97,12 +97,7 @@
         "\u0421\u0430\u043d\u0434\u0435"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159296915,
-        85633341,
-        85687113
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3140395
@@ -111,17 +106,16 @@
     "wof:geomhash":"e9c0ce1bd704f293b3b251656a811af9",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159296915,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1209588811,
-            "region_id":85687113
+            "region_id":-1
         }
     ],
     "wof:id":1209588811,
-    "wof:lastmodified":1571383438,
+    "wof:lastmodified":1581020964,
     "wof:name":"Sande",
-    "wof:parent_id":1159296915,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

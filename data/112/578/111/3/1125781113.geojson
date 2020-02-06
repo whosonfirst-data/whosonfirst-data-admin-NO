@@ -67,10 +67,7 @@
     "woe:name_adm1":"Finnmark Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        102191581,
-        1159297563,
-        85633341,
-        85687145
+        102191581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,16 +81,15 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297563,
+            "country_id":-1,
             "locality_id":1125781113,
-            "region_id":85687145
+            "region_id":-1
         }
     ],
     "wof:id":1125781113,
-    "wof:lastmodified":1571388362,
+    "wof:lastmodified":1581021357,
     "wof:name":"Indre Billefjord",
-    "wof:parent_id":1159297563,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

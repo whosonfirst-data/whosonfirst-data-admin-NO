@@ -43,12 +43,7 @@
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"Sogn og Fjordane Fylke",
     "woe:placetype":"Town",
-    "wof:belongsto":[
-        102191581,
-        1159297283,
-        85633341,
-        85687113
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":15000807,
@@ -59,17 +54,16 @@
     "wof:geomhash":"dd2715f7f95a4e28f948431a68aedd44",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297283,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1125936447,
-            "region_id":85687113
+            "region_id":-1
         }
     ],
     "wof:id":1125936447,
-    "wof:lastmodified":1571386797,
+    "wof:lastmodified":1581020946,
     "wof:name":"H\u00f8yheimsvik",
-    "wof:parent_id":1159297283,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

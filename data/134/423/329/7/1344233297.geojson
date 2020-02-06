@@ -31,12 +31,7 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159296755,
-        85633341,
-        85687091
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3210206
@@ -45,17 +40,16 @@
     "wof:geomhash":"f4b8532c4251f9411cfe6bdaf1feebbe",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159296755,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1344233297,
-            "region_id":85687091
+            "region_id":-1
         }
     ],
     "wof:id":1344233297,
-    "wof:lastmodified":1571356446,
+    "wof:lastmodified":1581020532,
     "wof:name":"Risoysund",
-    "wof:parent_id":1159296755,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

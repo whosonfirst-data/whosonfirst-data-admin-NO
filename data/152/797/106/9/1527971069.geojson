@@ -28,14 +28,25 @@
     "reversegeo:longitude":9.206776,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633341,
+        1527947267
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "no-geonorge:kommunenum":3817
     },
     "wof:country":"NO",
     "wof:geomhash":"fab6024515571216b9ea457d4880456a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1527971069,
+            "region_id":1527947267
+        }
+    ],
     "wof:id":1527971069,
     "wof:lang_x_official":[
         "nob",
@@ -46,9 +57,9 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581015540,
+    "wof:lastmodified":1581019589,
     "wof:name":"Midt-Telemark",
-    "wof:parent_id":-1,
+    "wof:parent_id":1527947267,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

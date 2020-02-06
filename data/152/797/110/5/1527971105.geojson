@@ -28,14 +28,25 @@
     "reversegeo:longitude":6.498197,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633341,
+        85687123
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "no-geonorge:kommunenum":1577
     },
     "wof:country":"NO",
     "wof:geomhash":"b7d8d10ecfa4c722bc0155a5c8448bd5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1527971105,
+            "region_id":85687123
+        }
+    ],
     "wof:id":1527971105,
     "wof:lang_x_official":[
         "nob",
@@ -46,9 +57,9 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581015535,
+    "wof:lastmodified":1581018464,
     "wof:name":"Volda",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687123,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

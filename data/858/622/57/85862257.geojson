@@ -69,10 +69,7 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687099,
-        102191581,
-        1159297617,
-        85633341
+        102191581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,18 +81,17 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297617,
+            "country_id":-1,
             "locality_id":-1,
             "neighbourhood_id":85862257,
-            "region_id":85687099
+            "region_id":-1
         }
     ],
     "wof:id":85862257,
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571386097,
+    "wof:lastmodified":1581020771,
     "wof:name":"Storevarden",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

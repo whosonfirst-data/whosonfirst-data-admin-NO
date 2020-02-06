@@ -31,12 +31,7 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159296887,
-        85633341,
-        85687113
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3147784
@@ -45,17 +40,16 @@
     "wof:geomhash":"bf70447028ae2e7ee324c2361a71008a",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159296887,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1276624905,
-            "region_id":85687113
+            "region_id":-1
         }
     ],
     "wof:id":1276624905,
-    "wof:lastmodified":1571382472,
+    "wof:lastmodified":1581020911,
     "wof:name":"Leknessund",
-    "wof:parent_id":1159296887,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

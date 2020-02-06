@@ -28,14 +28,25 @@
     "reversegeo:longitude":16.341186,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633341,
+        85687135
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "no-geonorge:kommunenum":1875
     },
     "wof:country":"NO",
     "wof:geomhash":"57e94dafbc0d2848fbdc2acbf4b667d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1527971107,
+            "region_id":85687135
+        }
+    ],
     "wof:id":1527971107,
     "wof:lang_x_official":[
         "nob",
@@ -46,9 +57,9 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581015535,
+    "wof:lastmodified":1581028485,
     "wof:name":"Hamar\u00f8y",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687135,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

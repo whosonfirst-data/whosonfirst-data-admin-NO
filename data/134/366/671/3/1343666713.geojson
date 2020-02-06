@@ -36,12 +36,7 @@
         "G\u00e5snes"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159297565,
-        85633341,
-        85687145
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":779886
@@ -50,17 +45,16 @@
     "wof:geomhash":"193b8a6265e952980290fae796400c7c",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297565,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1343666713,
-            "region_id":85687145
+            "region_id":-1
         }
     ],
     "wof:id":1343666713,
-    "wof:lastmodified":1571356842,
+    "wof:lastmodified":1581021406,
     "wof:name":"Gasnes",
-    "wof:parent_id":1159297565,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

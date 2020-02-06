@@ -60,12 +60,7 @@
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"Troms Fylke",
     "woe:placetype":"Town",
-    "wof:belongsto":[
-        102191581,
-        1159297451,
-        85633341,
-        85687143
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3158374,
@@ -78,17 +73,16 @@
     "wof:geomhash":"9d01a95718860000139749a479dfc761",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297451,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1125951137,
-            "region_id":85687143
+            "region_id":-1
         }
     ],
     "wof:id":1125951137,
-    "wof:lastmodified":1571387023,
+    "wof:lastmodified":1581021193,
     "wof:name":"Elgsnes",
-    "wof:parent_id":1159297451,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

@@ -28,14 +28,25 @@
     "reversegeo:longitude":10.714657,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633341,
+        1527947269
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "no-geonorge:kommunenum":3002
     },
     "wof:country":"NO",
     "wof:geomhash":"be8b93f744d8f1426402a997cfe8d631",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1527971111,
+            "region_id":1527947269
+        }
+    ],
     "wof:id":1527971111,
     "wof:lang_x_official":[
         "nob",
@@ -46,9 +57,9 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581015533,
+    "wof:lastmodified":1581020061,
     "wof:name":"Moss",
-    "wof:parent_id":-1,
+    "wof:parent_id":1527947269,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

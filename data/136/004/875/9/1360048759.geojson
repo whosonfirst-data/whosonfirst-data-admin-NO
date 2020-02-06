@@ -37,12 +37,7 @@
         "Vollstad"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159297451,
-        85633341,
-        85687143
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3131377
@@ -51,17 +46,16 @@
     "wof:geomhash":"4f73dfa5661b68d1da28fe6f76ad28d9",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297451,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1360048759,
-            "region_id":85687143
+            "region_id":-1
         }
     ],
     "wof:id":1360048759,
-    "wof:lastmodified":1571385807,
+    "wof:lastmodified":1581021275,
     "wof:name":"Vollstad",
-    "wof:parent_id":1159297451,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

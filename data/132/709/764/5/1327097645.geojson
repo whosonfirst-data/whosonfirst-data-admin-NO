@@ -37,12 +37,7 @@
         "Grunnfjorden"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159297483,
-        85633341,
-        85687143
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":779794
@@ -51,17 +46,16 @@
     "wof:geomhash":"83395e0bf3738e5b0f2e9ba50b2ec2fa",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297483,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1327097645,
-            "region_id":85687143
+            "region_id":-1
         }
     ],
     "wof:id":1327097645,
-    "wof:lastmodified":1571354766,
+    "wof:lastmodified":1581021209,
     "wof:name":"Grunnfjorden",
-    "wof:parent_id":1159297483,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

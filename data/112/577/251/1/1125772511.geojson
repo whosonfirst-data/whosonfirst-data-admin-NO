@@ -53,9 +53,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159296825,
-        85633341,
-        85687145
+        85633341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,15 +68,14 @@
         {
             "continent_id":102191581,
             "country_id":85633341,
-            "localadmin_id":1159296825,
             "locality_id":1125772511,
-            "region_id":85687145
+            "region_id":-1
         }
     ],
     "wof:id":1125772511,
-    "wof:lastmodified":1571388530,
+    "wof:lastmodified":1581021360,
     "wof:name":"Akkarfjord",
-    "wof:parent_id":1159296825,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

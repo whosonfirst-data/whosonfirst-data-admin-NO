@@ -24,11 +24,20 @@
         "Vestfold og Telemark"
     ],
     "src:geom":"no-geonorge",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633341
+    ],
     "wof:breaches":[],
     "wof:country":"NO",
     "wof:geomhash":"242ee88b1b5ec4b045c49aa249de23aa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "region_id":1527947267
+        }
+    ],
     "wof:id":1527947267,
     "wof:lang_x_official":[
         "nob",
@@ -39,9 +48,9 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580239616,
+    "wof:lastmodified":1581019709,
     "wof:name":"Vestfold og Telemark",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633341,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

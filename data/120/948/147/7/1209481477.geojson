@@ -40,12 +40,7 @@
         "Nav\u0101r\u0101n"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159296775,
-        85633341,
-        85687143
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3144930
@@ -54,17 +49,16 @@
     "wof:geomhash":"27e01608652554d76ab27a87a5b8b099",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159296775,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1209481477,
-            "region_id":85687143
+            "region_id":-1
         }
     ],
     "wof:id":1209481477,
-    "wof:lastmodified":1571383054,
+    "wof:lastmodified":1581021238,
     "wof:name":"Navaran",
-    "wof:parent_id":1159296775,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

@@ -70,10 +70,7 @@
     "woe:name_adm1":"Aust-Agder Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        102191581,
-        1159297607,
-        85633341,
-        85687071
+        102191581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,16 +85,15 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297607,
+            "country_id":-1,
             "locality_id":1125788799,
-            "region_id":85687071
+            "region_id":-1
         }
     ],
     "wof:id":1125788799,
-    "wof:lastmodified":1571388370,
+    "wof:lastmodified":1581020406,
     "wof:name":"Narest\u00f8",
-    "wof:parent_id":1159297607,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

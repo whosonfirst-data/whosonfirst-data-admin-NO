@@ -55,10 +55,7 @@
     "woe:name_adm1":"Telemark Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        102191581,
-        1159297523,
-        85633341,
-        85687091
+        102191581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,16 +69,15 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297523,
+            "country_id":-1,
             "locality_id":1125988593,
-            "region_id":85687091
+            "region_id":-1
         }
     ],
     "wof:id":1125988593,
-    "wof:lastmodified":1571387928,
+    "wof:lastmodified":1581020539,
     "wof:name":"Skarbu",
-    "wof:parent_id":1159297523,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

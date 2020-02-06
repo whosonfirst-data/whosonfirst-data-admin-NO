@@ -28,14 +28,25 @@
     "reversegeo:longitude":6.748347,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633341,
+        85687123
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "no-geonorge:kommunenum":1507
     },
     "wof:country":"NO",
     "wof:geomhash":"c7a4434a8325d82c2ec25ef39f8591dc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1527971091,
+            "region_id":85687123
+        }
+    ],
     "wof:id":1527971091,
     "wof:lang_x_official":[
         "nob",
@@ -46,9 +57,9 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581015536,
+    "wof:lastmodified":1581022544,
     "wof:name":"\u00c5lesund",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687123,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

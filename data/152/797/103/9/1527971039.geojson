@@ -28,14 +28,25 @@
     "reversegeo:longitude":5.270608,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633341,
+        1527947261
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "no-geonorge:kommunenum":4645
     },
     "wof:country":"NO",
     "wof:geomhash":"2ea171ee7c8b0103a96e9e4ddcf3d55d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1527971039,
+            "region_id":1527947261
+        }
+    ],
     "wof:id":1527971039,
     "wof:lang_x_official":[
         "nob",
@@ -46,9 +57,9 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581015528,
+    "wof:lastmodified":1581018452,
     "wof:name":"Askvoll",
-    "wof:parent_id":-1,
+    "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

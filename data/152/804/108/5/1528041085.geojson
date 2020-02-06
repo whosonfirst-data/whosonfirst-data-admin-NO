@@ -25,11 +25,22 @@
     "reversegeo:longitude":11.61326,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633341,
+        1527947269
+    ],
     "wof:breaches":[],
     "wof:country":"NO",
     "wof:geomhash":"b5f6878115814a5732921ddd2a0ddf28",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1528041085,
+            "region_id":1527947269
+        }
+    ],
     "wof:id":1528041085,
     "wof:lang_x_official":[
         "nob",
@@ -40,9 +51,9 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581015550,
+    "wof:lastmodified":1581020056,
     "wof:name":"Aurskog-H\u00f8land",
-    "wof:parent_id":-1,
+    "wof:parent_id":1527947269,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

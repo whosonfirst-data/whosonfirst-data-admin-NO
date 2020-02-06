@@ -44,10 +44,7 @@
     "woe:name_adm1":"Buskerud Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        102191581,
-        1159297355,
-        85633341,
-        85687095
+        102191581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,16 +57,15 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297355,
+            "country_id":-1,
             "locality_id":1125977023,
-            "region_id":85687095
+            "region_id":-1
         }
     ],
     "wof:id":1125977023,
-    "wof:lastmodified":1571387741,
+    "wof:lastmodified":1581020590,
     "wof:name":"R\u00f8nningen",
-    "wof:parent_id":1159297355,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

@@ -79,12 +79,7 @@
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"Sogn og Fjordane Fylke",
     "woe:placetype":"Town",
-    "wof:belongsto":[
-        102191581,
-        1159297195,
-        85633341,
-        85687113
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3150534,
@@ -97,17 +92,16 @@
     "wof:geomhash":"f667c1e34e3a4f946726f49d9be7af16",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297195,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1125913913,
-            "region_id":85687113
+            "region_id":-1
         }
     ],
     "wof:id":1125913913,
-    "wof:lastmodified":1571387842,
+    "wof:lastmodified":1581020947,
     "wof:name":"Kalv\u00e5g",
-    "wof:parent_id":1159297195,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:population":353,
     "wof:population_rank":2,

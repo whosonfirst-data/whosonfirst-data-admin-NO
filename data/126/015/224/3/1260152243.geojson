@@ -58,12 +58,7 @@
         "Lunde"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159296755,
-        85633341,
-        85687091
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3146812
@@ -72,17 +67,16 @@
     "wof:geomhash":"561777cf62ab35e18a74e4230bf85ae3",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159296755,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1260152243,
-            "region_id":85687091
+            "region_id":-1
         }
     ],
     "wof:id":1260152243,
-    "wof:lastmodified":1571384285,
+    "wof:lastmodified":1581020536,
     "wof:name":"Lunde",
-    "wof:parent_id":1159296755,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

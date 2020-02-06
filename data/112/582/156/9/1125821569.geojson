@@ -85,12 +85,7 @@
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"Akershus Fylke",
     "woe:placetype":"Town",
-    "wof:belongsto":[
-        102191581,
-        1159297221,
-        85633341,
-        85687095
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26343260,
@@ -102,17 +97,16 @@
     "wof:geomhash":"801be65585ff5577cadc9cdbdd771f5d",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297221,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1125821569,
-            "region_id":85687095
+            "region_id":-1
         }
     ],
     "wof:id":1125821569,
-    "wof:lastmodified":1571388130,
+    "wof:lastmodified":1581020579,
     "wof:name":"Nesoddtangen",
-    "wof:parent_id":1159297221,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

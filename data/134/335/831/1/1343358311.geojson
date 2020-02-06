@@ -31,12 +31,7 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159297565,
-        85633341,
-        85687145
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":780259
@@ -45,17 +40,16 @@
     "wof:geomhash":"60e7c0998b025a8b01cdc84db559be27",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297565,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1343358311,
-            "region_id":85687145
+            "region_id":-1
         }
     ],
     "wof:id":1343358311,
-    "wof:lastmodified":1571356903,
+    "wof:lastmodified":1581021363,
     "wof:name":"Eidnes",
-    "wof:parent_id":1159297565,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

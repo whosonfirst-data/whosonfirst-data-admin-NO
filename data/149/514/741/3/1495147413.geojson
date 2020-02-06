@@ -167,10 +167,7 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85687135,
         102191581,
-        1159296883,
-        85633341,
         101814605
     ],
     "wof:breaches":[],
@@ -185,15 +182,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159296883,
+            "country_id":-1,
             "locality_id":101814605,
             "neighbourhood_id":1495147413,
-            "region_id":85687135
+            "region_id":-1
         }
     ],
     "wof:id":1495147413,
-    "wof:lastmodified":1571679373,
+    "wof:lastmodified":1581028688,
     "wof:name":"V\u00e5gan",
     "wof:parent_id":101814605,
     "wof:placetype":"neighbourhood",

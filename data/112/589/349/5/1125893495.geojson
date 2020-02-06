@@ -76,12 +76,7 @@
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"Telemark Fylke",
     "woe:placetype":"Town",
-    "wof:belongsto":[
-        102191581,
-        1159297523,
-        85633341,
-        85687091
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3150332,
@@ -94,17 +89,16 @@
     "wof:geomhash":"efb4b0935fc13ac2c4cac23db8ce93a8",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297523,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1125893495,
-            "region_id":85687091
+            "region_id":-1
         }
     ],
     "wof:id":1125893495,
-    "wof:lastmodified":1571387428,
+    "wof:lastmodified":1581020534,
     "wof:name":"Kil",
-    "wof:parent_id":1159297523,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:population":901,
     "wof:population_rank":2,

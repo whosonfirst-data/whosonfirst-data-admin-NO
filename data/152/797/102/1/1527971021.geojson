@@ -28,14 +28,25 @@
     "reversegeo:longitude":10.423541,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633341,
+        1527947269
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "no-geonorge:kommunenum":3025
     },
     "wof:country":"NO",
     "wof:geomhash":"6090758f17d64231c53b85cee5b78b07",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1527971021,
+            "region_id":1527947269
+        }
+    ],
     "wof:id":1527971021,
     "wof:lang_x_official":[
         "nob",
@@ -46,9 +57,9 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581015529,
+    "wof:lastmodified":1581020054,
     "wof:name":"Asker",
-    "wof:parent_id":-1,
+    "wof:parent_id":1527947269,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

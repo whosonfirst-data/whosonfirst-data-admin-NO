@@ -36,12 +36,7 @@
         "Finndal"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159296837,
-        85633341,
-        85687091
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3157635
@@ -50,17 +45,16 @@
     "wof:geomhash":"982c05f3b106b54a0970db863d1dba4d",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159296837,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1310381641,
-            "region_id":85687091
+            "region_id":-1
         }
     ],
     "wof:id":1310381641,
-    "wof:lastmodified":1571384885,
+    "wof:lastmodified":1581020554,
     "wof:name":"Finndal",
-    "wof:parent_id":1159296837,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

@@ -36,12 +36,7 @@
         "Torgauten"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159297385,
-        85633341,
-        85687079
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3134287
@@ -50,17 +45,16 @@
     "wof:geomhash":"24f27a1e1feacf1d2ac6b679f8c3d0fd",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297385,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1293366677,
-            "region_id":85687079
+            "region_id":-1
         }
     ],
     "wof:id":1293366677,
-    "wof:lastmodified":1571380140,
+    "wof:lastmodified":1581020505,
     "wof:name":"Torgauten",
-    "wof:parent_id":1159297385,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

@@ -25,11 +25,22 @@
     "reversegeo:longitude":6.508113,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633341,
+        1527947261
+    ],
     "wof:breaches":[],
     "wof:country":"NO",
     "wof:geomhash":"b349046c0b69f84bad84239f0fb6e23c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1528041091,
+            "region_id":1527947261
+        }
+    ],
     "wof:id":1528041091,
     "wof:lang_x_official":[
         "nob",
@@ -40,9 +51,9 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581015549,
+    "wof:lastmodified":1581018441,
     "wof:name":"Voss",
-    "wof:parent_id":-1,
+    "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

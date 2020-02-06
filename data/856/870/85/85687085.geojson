@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "reversegeo:geometry":"85687085-alt-quattroshapes-reversegeo.geojson",
     "edtf:inception":"uuuu",
     "geom:area":1.4682,
     "geom:area_square_m":16444356344.073559,
@@ -329,6 +328,7 @@
     "qs:level":"adm1",
     "qs:source":"EuroGlobalMap",
     "qs:type":"Fylke",
+    "reversegeo:geometry":"85687085-alt-quattroshapes-reversegeo.geojson",
     "reversegeo:latitude":58.680999,
     "reversegeo:longitude":6.053919,
     "src:geom":"no-geonorge",
@@ -385,7 +385,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1580235752,
+    "wof:lastmodified":1581021985,
     "wof:name":"Rogaland",
     "wof:parent_id":85633341,
     "wof:placetype":"region",

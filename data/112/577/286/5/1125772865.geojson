@@ -63,12 +63,7 @@
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"Vestfold Fylke",
     "woe:placetype":"Town",
-    "wof:belongsto":[
-        102191581,
-        1159296779,
-        85633341,
-        85687073
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3150083,
@@ -80,17 +75,16 @@
     "wof:geomhash":"6b8bbd666d18dcc56fb63ee67ccc180a",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159296779,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1125772865,
-            "region_id":85687073
+            "region_id":-1
         }
     ],
     "wof:id":1125772865,
-    "wof:lastmodified":1571388522,
+    "wof:lastmodified":1581020443,
     "wof:name":"Kjerringvik",
-    "wof:parent_id":1159296779,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

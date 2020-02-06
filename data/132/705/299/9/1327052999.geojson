@@ -38,10 +38,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191581,
-        1159296893,
-        85633341,
-        85687145
+        102191581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,16 +49,15 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159296893,
+            "country_id":-1,
             "locality_id":1327052999,
-            "region_id":85687145
+            "region_id":-1
         }
     ],
     "wof:id":1327052999,
-    "wof:lastmodified":1571355417,
+    "wof:lastmodified":1581021414,
     "wof:name":"Raudmyr",
-    "wof:parent_id":1159296893,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

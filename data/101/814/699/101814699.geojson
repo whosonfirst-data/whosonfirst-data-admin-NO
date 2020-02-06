@@ -192,9 +192,7 @@
     "wd:wordcount":972,
     "wof:belongsto":[
         102191581,
-        1159297303,
-        85633341,
-        85687145
+        85633341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -210,18 +208,17 @@
         {
             "continent_id":102191581,
             "country_id":85633341,
-            "localadmin_id":1159297303,
             "locality_id":101814699,
-            "region_id":85687145
+            "region_id":-1
         }
     ],
     "wof:id":101814699,
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571386269,
+    "wof:lastmodified":1581017469,
     "wof:name":"B\u00e5tsfjord",
-    "wof:parent_id":1159297303,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:population":2166,
     "wof:population_rank":4,

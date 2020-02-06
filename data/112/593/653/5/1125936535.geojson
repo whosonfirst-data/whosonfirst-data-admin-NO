@@ -43,12 +43,7 @@
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"Troms Fylke",
     "woe:placetype":"Town",
-    "wof:belongsto":[
-        102191581,
-        1159297307,
-        85633341,
-        85687143
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":15000866,
@@ -59,17 +54,16 @@
     "wof:geomhash":"3bdbb840d411da97558719c498115c8e",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297307,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1125936535,
-            "region_id":85687143
+            "region_id":-1
         }
     ],
     "wof:id":1125936535,
-    "wof:lastmodified":1571386851,
+    "wof:lastmodified":1581021283,
     "wof:name":"J\u00f8kelfjord",
-    "wof:parent_id":1159297307,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

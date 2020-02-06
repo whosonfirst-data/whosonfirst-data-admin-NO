@@ -60,12 +60,7 @@
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"Finnmark Fylke",
     "woe:placetype":"Town",
-    "wof:belongsto":[
-        102191581,
-        1159297127,
-        85633341,
-        85687145
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":779208,
@@ -77,17 +72,16 @@
     "wof:geomhash":"797cc79ab52fbab97dcc65290d692f22",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297127,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1125910343,
-            "region_id":85687145
+            "region_id":-1
         }
     ],
     "wof:id":1125910343,
-    "wof:lastmodified":1571387896,
+    "wof:lastmodified":1581021397,
     "wof:name":"Komagv\u00e6r",
-    "wof:parent_id":1159297127,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

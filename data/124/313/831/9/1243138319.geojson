@@ -38,12 +38,7 @@
         "Kvalshausen"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159297199,
-        85633341,
-        85687143
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3149045
@@ -52,17 +47,16 @@
     "wof:geomhash":"65bc4712c9eb42f805f7505854a14ee4",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297199,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1243138319,
-            "region_id":85687143
+            "region_id":-1
         }
     ],
     "wof:id":1243138319,
-    "wof:lastmodified":1571390458,
+    "wof:lastmodified":1581021258,
     "wof:name":"Kvalshausen",
-    "wof:parent_id":1159297199,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

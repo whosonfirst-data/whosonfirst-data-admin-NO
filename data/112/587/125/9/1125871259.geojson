@@ -51,12 +51,7 @@
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"Hordaland Fylke",
     "woe:placetype":"Town",
-    "wof:belongsto":[
-        102191581,
-        1159296745,
-        85633341,
-        85687099
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3158516,
@@ -68,17 +63,16 @@
     "wof:geomhash":"9613026ae5aa987071d374129e2bc9d5",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159296745,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1125871259,
-            "region_id":85687099
+            "region_id":-1
         }
     ],
     "wof:id":1125871259,
-    "wof:lastmodified":1571387595,
+    "wof:lastmodified":1581020755,
     "wof:name":"Eiknes",
-    "wof:parent_id":1159296745,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

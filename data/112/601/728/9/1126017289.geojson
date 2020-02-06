@@ -157,12 +157,7 @@
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"Troms Fylke",
     "woe:placetype":"Town",
-    "wof:belongsto":[
-        102191581,
-        1159297625,
-        85633341,
-        85687143
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3161791,
@@ -175,17 +170,16 @@
     "wof:geomhash":"d4a0ad3397d742c89d538fcda83b2f8f",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297625,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1126017289,
-            "region_id":85687143
+            "region_id":-1
         }
     ],
     "wof:id":1126017289,
-    "wof:lastmodified":1571388016,
+    "wof:lastmodified":1581021273,
     "wof:name":"Berg",
-    "wof:parent_id":1159297625,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

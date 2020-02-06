@@ -121,12 +121,7 @@
         "Osen"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159297429,
-        85633341,
-        85687099
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3143265
@@ -135,17 +130,16 @@
     "wof:geomhash":"03bcee4d3991727646c882ca5e2d4c20",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297429,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1209836749,
-            "region_id":85687099
+            "region_id":-1
         }
     ],
     "wof:id":1209836749,
-    "wof:lastmodified":1571383066,
+    "wof:lastmodified":1581020714,
     "wof:name":"Osen",
-    "wof:parent_id":1159297429,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

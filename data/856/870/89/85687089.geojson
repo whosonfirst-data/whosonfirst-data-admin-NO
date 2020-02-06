@@ -4,7 +4,6 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "reversegeo:geometry":"85687089-alt-quattroshapes-reversegeo.geojson",
     "geom:area":0.072969,
     "geom:area_square_m":478040235.016649,
     "geom:bbox":"10.489165,59.809311,10.951389,60.135106",
@@ -676,6 +675,7 @@
     "qs:level":"adm1",
     "qs:source":"EuroGlobalMap",
     "qs:type":"Fylke",
+    "reversegeo:geometry":"85687089-alt-quattroshapes-reversegeo.geojson",
     "src:geom":"no-geonorge",
     "src:geom_alt":[
         "quattroshapes"
@@ -730,7 +730,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1580235761,
+    "wof:lastmodified":1581022318,
     "wof:name":"Oslo",
     "wof:parent_id":85633341,
     "wof:placetype":"region",

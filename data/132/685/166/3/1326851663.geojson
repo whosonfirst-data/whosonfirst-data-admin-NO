@@ -31,12 +31,7 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159297223,
-        85633341,
-        85687099
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3158401
@@ -45,17 +40,16 @@
     "wof:geomhash":"91b69d1207ae12e91092a0f37a5fca95",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297223,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1326851663,
-            "region_id":85687099
+            "region_id":-1
         }
     ],
     "wof:id":1326851663,
-    "wof:lastmodified":1571355586,
+    "wof:lastmodified":1581020735,
     "wof:name":"Eldholm",
-    "wof:parent_id":1159297223,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

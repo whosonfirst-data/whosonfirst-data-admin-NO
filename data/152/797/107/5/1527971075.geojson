@@ -28,14 +28,25 @@
     "reversegeo:longitude":10.139644,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633341,
+        1527947267
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "no-geonorge:kommunenum":3802
     },
     "wof:country":"NO",
     "wof:geomhash":"4ace941f462134f4ce5a1df08a45a520",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1527971075,
+            "region_id":1527947267
+        }
+    ],
     "wof:id":1527971075,
     "wof:lang_x_official":[
         "nob",
@@ -46,9 +57,9 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581015540,
+    "wof:lastmodified":1581019581,
     "wof:name":"Holmestrand",
-    "wof:parent_id":-1,
+    "wof:parent_id":1527947267,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

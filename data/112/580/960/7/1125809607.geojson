@@ -48,12 +48,7 @@
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"Finnmark Fylke",
     "woe:placetype":"Town",
-    "wof:belongsto":[
-        102191581,
-        1159297287,
-        85633341,
-        85687145
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":777861,
@@ -65,17 +60,16 @@
     "wof:geomhash":"4071d3e5b1dc766d10b85be07ddb1dcd",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297287,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1125809607,
-            "region_id":85687145
+            "region_id":-1
         }
     ],
     "wof:id":1125809607,
-    "wof:lastmodified":1571387475,
+    "wof:lastmodified":1581021377,
     "wof:name":"Sardnes",
-    "wof:parent_id":1159297287,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

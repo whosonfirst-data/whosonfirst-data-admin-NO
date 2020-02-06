@@ -28,14 +28,25 @@
     "reversegeo:longitude":6.113428,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633341,
+        1527947261
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "no-geonorge:kommunenum":4647
     },
     "wof:country":"NO",
     "wof:geomhash":"e4313f8dbe68f69221d69377cea2d9e8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1527971023,
+            "region_id":1527947261
+        }
+    ],
     "wof:id":1527971023,
     "wof:lang_x_official":[
         "nob",
@@ -46,9 +57,9 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581015530,
+    "wof:lastmodified":1581018450,
     "wof:name":"Sunnfjord",
-    "wof:parent_id":-1,
+    "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

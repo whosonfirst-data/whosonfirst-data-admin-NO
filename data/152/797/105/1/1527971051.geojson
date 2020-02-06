@@ -28,14 +28,25 @@
     "reversegeo:longitude":7.714967,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633341,
+        1527947265
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "no-geonorge:kommunenum":4219
     },
     "wof:country":"NO",
     "wof:geomhash":"328e58981c1b0ad71abb6036341da423",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1527971051,
+            "region_id":1527947265
+        }
+    ],
     "wof:id":1527971051,
     "wof:lang_x_official":[
         "nob",
@@ -46,9 +57,9 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581015530,
+    "wof:lastmodified":1581019356,
     "wof:name":"Evje og Hornnes",
-    "wof:parent_id":-1,
+    "wof:parent_id":1527947265,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

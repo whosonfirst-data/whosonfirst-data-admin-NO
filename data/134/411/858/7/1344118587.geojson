@@ -36,12 +36,7 @@
         "V\u00e6rv\u00e5gen"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159296779,
-        85633341,
-        85687073
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3133070
@@ -50,17 +45,16 @@
     "wof:geomhash":"e960f32c7ce4a65c752d93681a01b473",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159296779,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1344118587,
-            "region_id":85687073
+            "region_id":-1
         }
     ],
     "wof:id":1344118587,
-    "wof:lastmodified":1571357052,
+    "wof:lastmodified":1581020446,
     "wof:name":"Vaervagen",
-    "wof:parent_id":1159296779,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

@@ -43,12 +43,7 @@
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"Finnmark Fylke",
     "woe:placetype":"Town",
-    "wof:belongsto":[
-        102191581,
-        1159297303,
-        85633341,
-        85687145
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":861623,
@@ -59,17 +54,16 @@
     "wof:geomhash":"d4fa922324d2af5d5babc652650a1739",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297303,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1125842055,
-            "region_id":85687145
+            "region_id":-1
         }
     ],
     "wof:id":1125842055,
-    "wof:lastmodified":1571388467,
+    "wof:lastmodified":1581021353,
     "wof:name":"Makkaur",
-    "wof:parent_id":1159297303,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

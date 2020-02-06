@@ -28,14 +28,25 @@
     "reversegeo:longitude":6.845969,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633341,
+        1527947261
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "no-geonorge:kommunenum":4640
     },
     "wof:country":"NO",
     "wof:geomhash":"3a14fe223c1b23020037f22f48dccc65",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1527971041,
+            "region_id":1527947261
+        }
+    ],
     "wof:id":1527971041,
     "wof:lang_x_official":[
         "nob",
@@ -46,9 +57,9 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581015527,
+    "wof:lastmodified":1581018454,
     "wof:name":"Sogndal",
-    "wof:parent_id":-1,
+    "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

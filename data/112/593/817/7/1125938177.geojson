@@ -83,9 +83,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297075,
-        85633341,
-        85687071
+        85633341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,15 +99,14 @@
         {
             "continent_id":102191581,
             "country_id":85633341,
-            "localadmin_id":1159297075,
             "locality_id":1125938177,
-            "region_id":85687071
+            "region_id":-1
         }
     ],
     "wof:id":1125938177,
-    "wof:lastmodified":1571386799,
+    "wof:lastmodified":1581020408,
     "wof:name":"Jordtveit",
-    "wof:parent_id":1159297075,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:population":653,
     "wof:population_rank":2,

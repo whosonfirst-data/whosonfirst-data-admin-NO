@@ -24,11 +24,20 @@
         "Viken"
     ],
     "src:geom":"no-geonorge",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633341
+    ],
     "wof:breaches":[],
     "wof:country":"NO",
     "wof:geomhash":"e55c103d30cbe1156212e9a27e6dbb65",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "region_id":1527947269
+        }
+    ],
     "wof:id":1527947269,
     "wof:lang_x_official":[
         "nob",
@@ -39,9 +48,9 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1580239621,
+    "wof:lastmodified":1581020326,
     "wof:name":"Viken",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633341,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

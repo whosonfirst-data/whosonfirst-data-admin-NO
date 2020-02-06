@@ -78,12 +78,7 @@
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"\u00d8stfold Fylke",
     "woe:placetype":"Town",
-    "wof:belongsto":[
-        102191581,
-        1159297385,
-        85633341,
-        85687079
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3142870,
@@ -96,17 +91,16 @@
     "wof:geomhash":"65acbd45bbabfbac0393423dfff3b650",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297385,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1126003643,
-            "region_id":85687079
+            "region_id":-1
         }
     ],
     "wof:id":1126003643,
-    "wof:lastmodified":1571388025,
+    "wof:lastmodified":1581020507,
     "wof:name":"\u00d8ydnekilen",
-    "wof:parent_id":1159297385,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

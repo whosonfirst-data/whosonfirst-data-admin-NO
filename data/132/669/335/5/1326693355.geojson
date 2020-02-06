@@ -31,12 +31,7 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159297213,
-        85633341,
-        85687143
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3156117
@@ -45,17 +40,16 @@
     "wof:geomhash":"8c675478bbbb3ed01f03ce6cc062b610",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297213,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1326693355,
-            "region_id":85687143
+            "region_id":-1
         }
     ],
     "wof:id":1326693355,
-    "wof:lastmodified":1571355034,
+    "wof:lastmodified":1581021242,
     "wof:name":"Gapoy",
-    "wof:parent_id":1159297213,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

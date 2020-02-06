@@ -25,11 +25,22 @@
     "reversegeo:longitude":11.675914,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633341,
+        1495115971
+    ],
     "wof:breaches":[],
     "wof:country":"NO",
     "wof:geomhash":"6e62aa874f70bb6e05f4ee63a8f10368",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1528041083,
+            "region_id":1495115971
+        }
+    ],
     "wof:id":1528041083,
     "wof:lang_x_official":[
         "nob",
@@ -40,9 +51,9 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581015549,
+    "wof:lastmodified":1581021521,
     "wof:name":"Steinkjer",
-    "wof:parent_id":-1,
+    "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
