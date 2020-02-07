@@ -43,12 +43,7 @@
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"Finnmark Fylke",
     "woe:placetype":"Town",
-    "wof:belongsto":[
-        102191581,
-        1159296825,
-        85633341,
-        85687145
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":15000750,
@@ -59,17 +54,16 @@
     "wof:geomhash":"4ec51d4a1f0fa5a2fd962fbc41f1de62",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159296825,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1125929039,
-            "region_id":85687145
+            "region_id":-1
         }
     ],
     "wof:id":1125929039,
-    "wof:lastmodified":1571386913,
+    "wof:lastmodified":1581021381,
     "wof:name":"H\u00f8nseby",
-    "wof:parent_id":1159296825,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

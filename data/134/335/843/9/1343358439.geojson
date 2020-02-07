@@ -37,12 +37,7 @@
         "Gohppi"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159297285,
-        85633341,
-        85687145
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9537599
@@ -51,17 +46,16 @@
     "wof:geomhash":"3e478f816a3c4d0c5ebca7f1ccd032f0",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297285,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1343358439,
-            "region_id":85687145
+            "region_id":-1
         }
     ],
     "wof:id":1343358439,
-    "wof:lastmodified":1571356890,
+    "wof:lastmodified":1581021374,
     "wof:name":"Klubbvik",
-    "wof:parent_id":1159297285,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

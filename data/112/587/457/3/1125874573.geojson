@@ -43,12 +43,7 @@
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"Hordaland Fylke",
     "woe:placetype":"Town",
-    "wof:belongsto":[
-        102191581,
-        1159297617,
-        85633341,
-        85687099
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20100187,
@@ -59,17 +54,16 @@
     "wof:geomhash":"7843736e693f20eed6a5ddf1fd5340b2",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297617,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1125874573,
-            "region_id":85687099
+            "region_id":-1
         }
     ],
     "wof:id":1125874573,
-    "wof:lastmodified":1571387585,
+    "wof:lastmodified":1581020680,
     "wof:name":"Kvarvenveien",
-    "wof:parent_id":1159297617,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

@@ -36,12 +36,7 @@
         "H\u00e5lsund"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159297025,
-        85633341,
-        85687099
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3154118
@@ -50,17 +45,16 @@
     "wof:geomhash":"265951ec4f54ee6612df5be854c856be",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297025,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1243546243,
-            "region_id":85687099
+            "region_id":-1
         }
     ],
     "wof:id":1243546243,
-    "wof:lastmodified":1571389998,
+    "wof:lastmodified":1581020713,
     "wof:name":"Halsund",
-    "wof:parent_id":1159297025,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

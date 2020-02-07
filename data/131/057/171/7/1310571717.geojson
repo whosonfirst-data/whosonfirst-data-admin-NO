@@ -31,12 +31,7 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159297051,
-        85633341,
-        85687113
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3162843
@@ -45,17 +40,16 @@
     "wof:geomhash":"c23ffab0b3ecc1881ab29ba2b3bfd700",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297051,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1310571717,
-            "region_id":85687113
+            "region_id":-1
         }
     ],
     "wof:id":1310571717,
-    "wof:lastmodified":1571385353,
+    "wof:lastmodified":1581020914,
     "wof:name":"Arstein",
-    "wof:parent_id":1159297051,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

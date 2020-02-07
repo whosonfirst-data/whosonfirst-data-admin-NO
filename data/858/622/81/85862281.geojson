@@ -58,12 +58,7 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
-    "wof:belongsto":[
-        85687099,
-        102191581,
-        1159297251,
-        85633341
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20100620,
@@ -73,19 +68,18 @@
     "wof:geomhash":"207bf43525d2f06cdbf97d3500a73b6e",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297251,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":-1,
             "neighbourhood_id":85862281,
-            "region_id":85687099
+            "region_id":-1
         }
     ],
     "wof:id":85862281,
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571380060,
+    "wof:lastmodified":1581020770,
     "wof:name":"Yt. Holdvik",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

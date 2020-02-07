@@ -56,12 +56,7 @@
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"Hordaland Fylke",
     "woe:placetype":"Town",
-    "wof:belongsto":[
-        102191581,
-        1159297267,
-        85633341,
-        85687099
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3158152,
@@ -73,17 +68,16 @@
     "wof:geomhash":"665f484eb0170cca0ba3cb2e9e47438f",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297267,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1125802419,
-            "region_id":85687099
+            "region_id":-1
         }
     ],
     "wof:id":1125802419,
-    "wof:lastmodified":1571387483,
+    "wof:lastmodified":1581020675,
     "wof:name":"Erdal",
-    "wof:parent_id":1159297267,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

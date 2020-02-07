@@ -34,12 +34,7 @@
         "Totlandssj\u00f8en"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159296859,
-        85633341,
-        85687099
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9404363
@@ -48,17 +43,16 @@
     "wof:geomhash":"30ceb166aa391e6c897425533c0b06e5",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159296859,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1326727207,
-            "region_id":85687099
+            "region_id":-1
         }
     ],
     "wof:id":1326727207,
-    "wof:lastmodified":1571354870,
+    "wof:lastmodified":1581020705,
     "wof:name":"Totlandssjoen",
-    "wof:parent_id":1159296859,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

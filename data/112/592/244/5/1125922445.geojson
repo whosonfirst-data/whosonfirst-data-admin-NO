@@ -79,10 +79,7 @@
     "woe:name_adm1":"Finnmark Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        102191581,
-        1159297427,
-        85633341,
-        85687145
+        102191581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,16 +94,15 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297427,
+            "country_id":-1,
             "locality_id":1125922445,
-            "region_id":85687145
+            "region_id":-1
         }
     ],
     "wof:id":1125922445,
-    "wof:lastmodified":1571386884,
+    "wof:lastmodified":1581021372,
     "wof:name":"Kongsfjord",
-    "wof:parent_id":1159297427,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

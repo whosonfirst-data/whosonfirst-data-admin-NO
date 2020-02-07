@@ -37,10 +37,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191581,
-        1159297315,
-        85633341,
-        85687063
+        102191581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,16 +48,15 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297315,
+            "country_id":-1,
             "locality_id":1260045491,
-            "region_id":85687063
+            "region_id":-1
         }
     ],
     "wof:id":1260045491,
-    "wof:lastmodified":1571384666,
+    "wof:lastmodified":1581020346,
     "wof:name":"Kvafjord",
-    "wof:parent_id":1159297315,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

@@ -49,10 +49,7 @@
     "woe:name_adm1":"Sogn og Fjordane Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        102191581,
-        1159297017,
-        85633341,
-        85687113
+        102191581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,16 +63,15 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297017,
+            "country_id":-1,
             "locality_id":1125945547,
-            "region_id":85687113
+            "region_id":-1
         }
     ],
     "wof:id":1125945547,
-    "wof:lastmodified":1571386755,
+    "wof:lastmodified":1581020944,
     "wof:name":"Stadlandet",
-    "wof:parent_id":1159297017,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

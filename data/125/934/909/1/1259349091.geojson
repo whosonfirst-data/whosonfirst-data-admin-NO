@@ -55,12 +55,7 @@
         "Straumen"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159297359,
-        85633341,
-        85687143
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":777348
@@ -69,17 +64,16 @@
     "wof:geomhash":"0d26863547e12ed3dd50e77f77a5a779",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297359,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1259349091,
-            "region_id":85687143
+            "region_id":-1
         }
     ],
     "wof:id":1259349091,
-    "wof:lastmodified":1571391652,
+    "wof:lastmodified":1581021214,
     "wof:name":"Straumen",
-    "wof:parent_id":1159297359,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

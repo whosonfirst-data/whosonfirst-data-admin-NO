@@ -131,10 +131,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191581,
-        1159297577,
-        85633341,
-        85687113
+        102191581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -145,16 +142,15 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297577,
+            "country_id":-1,
             "locality_id":1225917427,
-            "region_id":85687113
+            "region_id":-1
         }
     ],
     "wof:id":1225917427,
-    "wof:lastmodified":1571392341,
+    "wof:lastmodified":1581021004,
     "wof:name":"Oppdal",
-    "wof:parent_id":1159297577,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

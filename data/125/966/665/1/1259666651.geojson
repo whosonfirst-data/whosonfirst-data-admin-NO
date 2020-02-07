@@ -38,12 +38,7 @@
         "Espeset"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159297017,
-        85633341,
-        85687113
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3158031
@@ -52,17 +47,16 @@
     "wof:geomhash":"376b120195e095a965c250c8cc9d22e1",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297017,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1259666651,
-            "region_id":85687113
+            "region_id":-1
         }
     ],
     "wof:id":1259666651,
-    "wof:lastmodified":1571391516,
+    "wof:lastmodified":1581021007,
     "wof:name":"Espeset",
-    "wof:parent_id":1159297017,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

@@ -46,12 +46,7 @@
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"Troms Fylke",
     "woe:placetype":"Town",
-    "wof:belongsto":[
-        102191581,
-        1159297187,
-        85633341,
-        85687143
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3151467,
@@ -63,17 +58,16 @@
     "wof:geomhash":"d60e5c15c1a5aeab53ad1004df2c0a88",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297187,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1126006089,
-            "region_id":85687143
+            "region_id":-1
         }
     ],
     "wof:id":1126006089,
-    "wof:lastmodified":1571388080,
+    "wof:lastmodified":1581021219,
     "wof:name":"Hundbergan",
-    "wof:parent_id":1159297187,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

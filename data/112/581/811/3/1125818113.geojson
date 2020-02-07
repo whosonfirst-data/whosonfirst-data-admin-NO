@@ -75,12 +75,7 @@
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"Hordaland Fylke",
     "woe:placetype":"Town",
-    "wof:belongsto":[
-        102191581,
-        1159296789,
-        85633341,
-        85687099
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3142441,
@@ -93,17 +88,16 @@
     "wof:geomhash":"844f94cf8c6683eb46c47bebeb66746d",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159296789,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1125818113,
-            "region_id":85687099
+            "region_id":-1
         }
     ],
     "wof:id":1125818113,
-    "wof:lastmodified":1571387280,
+    "wof:lastmodified":1581020742,
     "wof:name":"Rams\u00f8y",
-    "wof:parent_id":1159296789,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

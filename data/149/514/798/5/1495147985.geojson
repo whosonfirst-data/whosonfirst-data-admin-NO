@@ -32,10 +32,7 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85687135,
         102191581,
-        1159296883,
-        85633341,
         101814605
     ],
     "wof:breaches":[],
@@ -47,15 +44,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159296883,
+            "country_id":-1,
             "locality_id":101814605,
             "neighbourhood_id":1495147985,
-            "region_id":85687135
+            "region_id":-1
         }
     ],
     "wof:id":1495147985,
-    "wof:lastmodified":1571679371,
+    "wof:lastmodified":1581028688,
     "wof:name":"Svolvaer (Lofoten)",
     "wof:parent_id":101814605,
     "wof:placetype":"neighbourhood",

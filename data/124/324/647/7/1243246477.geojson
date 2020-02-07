@@ -169,12 +169,7 @@
         "\u7f8e\u5c3c\u65af"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159297555,
-        85633341,
-        85687113
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3146033
@@ -183,17 +178,16 @@
     "wof:geomhash":"93f1a05a78214e5cba1146b3f5137712",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297555,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1243246477,
-            "region_id":85687113
+            "region_id":-1
         }
     ],
     "wof:id":1243246477,
-    "wof:lastmodified":1571390393,
+    "wof:lastmodified":1581020972,
     "wof:name":"Menes",
-    "wof:parent_id":1159297555,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

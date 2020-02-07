@@ -73,12 +73,7 @@
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"Sogn og Fjordane Fylke",
     "woe:placetype":"Town",
-    "wof:belongsto":[
-        102191581,
-        1159297325,
-        85633341,
-        85687113
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3137148,
@@ -91,17 +86,16 @@
     "wof:geomhash":"148b3e31adbedc53de8be15d1e9c5490",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297325,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1126059117,
-            "region_id":85687113
+            "region_id":-1
         }
     ],
     "wof:id":1126059117,
-    "wof:lastmodified":1571387108,
+    "wof:lastmodified":1581020945,
     "wof:name":"St\u00e5rheim",
-    "wof:parent_id":1159297325,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

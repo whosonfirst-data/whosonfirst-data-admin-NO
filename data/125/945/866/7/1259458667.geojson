@@ -36,12 +36,7 @@
         "Storneshamn"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159297593,
-        85633341,
-        85687143
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":777387
@@ -50,17 +45,16 @@
     "wof:geomhash":"3aa0baf923b654ed9a65951f4fcc1298",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297593,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1259458667,
-            "region_id":85687143
+            "region_id":-1
         }
     ],
     "wof:id":1259458667,
-    "wof:lastmodified":1571391710,
+    "wof:lastmodified":1581021266,
     "wof:name":"Storneshamn",
-    "wof:parent_id":1159297593,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

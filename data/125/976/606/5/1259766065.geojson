@@ -36,12 +36,7 @@
         "Stupseid"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159297313,
-        85633341,
-        85687113
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3135571
@@ -50,17 +45,16 @@
     "wof:geomhash":"2525d8a1b5c90d06199ac03939a398e1",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297313,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1259766065,
-            "region_id":85687113
+            "region_id":-1
         }
     ],
     "wof:id":1259766065,
-    "wof:lastmodified":1571391413,
+    "wof:lastmodified":1581020991,
     "wof:name":"Stupseid",
-    "wof:parent_id":1159297313,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

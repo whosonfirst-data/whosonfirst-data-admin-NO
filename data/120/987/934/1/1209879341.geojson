@@ -52,12 +52,7 @@
         "Engen\u00e6s"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159297483,
-        85633341,
-        85687143
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":780225
@@ -66,17 +61,16 @@
     "wof:geomhash":"be659daadcb5c38711e2d62ff1fe73cd",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297483,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1209879341,
-            "region_id":85687143
+            "region_id":-1
         }
     ],
     "wof:id":1209879341,
-    "wof:lastmodified":1571383663,
+    "wof:lastmodified":1581021259,
     "wof:name":"Engenes",
-    "wof:parent_id":1159297483,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

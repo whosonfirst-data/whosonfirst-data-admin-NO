@@ -43,12 +43,7 @@
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"Hordaland Fylke",
     "woe:placetype":"Town",
-    "wof:belongsto":[
-        102191581,
-        1159296859,
-        85633341,
-        85687099
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":857461,
@@ -59,17 +54,16 @@
     "wof:geomhash":"8d278388d4c154ce380fb42ddc73a961",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159296859,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1125827473,
-            "region_id":85687099
+            "region_id":-1
         }
     ],
     "wof:id":1125827473,
-    "wof:lastmodified":1571388149,
+    "wof:lastmodified":1581020751,
     "wof:name":"Brandasund",
-    "wof:parent_id":1159296859,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

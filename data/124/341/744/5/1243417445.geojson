@@ -124,12 +124,7 @@
         "\u62c9\u65fa\u6069"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159297187,
-        85633341,
-        85687143
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3147990
@@ -138,17 +133,16 @@
     "wof:geomhash":"c4e1ab28d354f503c7ae2b12fc4a0c2b",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297187,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1243417445,
-            "region_id":85687143
+            "region_id":-1
         }
     ],
     "wof:id":1243417445,
-    "wof:lastmodified":1571390380,
+    "wof:lastmodified":1581021261,
     "wof:name":"Lavangen",
-    "wof:parent_id":1159297187,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

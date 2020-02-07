@@ -37,12 +37,7 @@
         "Nerg\u00e5rdshamn"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159297451,
-        85633341,
-        85687143
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3144808
@@ -51,17 +46,16 @@
     "wof:geomhash":"2795e5d7f711eea226eb4c7b74560f35",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297451,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1343627693,
-            "region_id":85687143
+            "region_id":-1
         }
     ],
     "wof:id":1343627693,
-    "wof:lastmodified":1571356104,
+    "wof:lastmodified":1581021172,
     "wof:name":"Nergardshamn",
-    "wof:parent_id":1159297451,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

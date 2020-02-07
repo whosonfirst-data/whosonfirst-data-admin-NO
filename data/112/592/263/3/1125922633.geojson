@@ -51,12 +51,7 @@
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"Vest-Agder Fylke",
     "woe:placetype":"Town",
-    "wof:belongsto":[
-        102191581,
-        1159297379,
-        85633341,
-        85687063
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3140090,
@@ -68,17 +63,16 @@
     "wof:geomhash":"c0e147b0d7cf206c952f86c718c6b838",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297379,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1125922633,
-            "region_id":85687063
+            "region_id":-1
         }
     ],
     "wof:id":1125922633,
-    "wof:lastmodified":1571386941,
+    "wof:lastmodified":1581020360,
     "wof:name":"S\u00e5num",
-    "wof:parent_id":1159297379,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

@@ -37,10 +37,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191581,
-        1159296999,
-        85633341,
-        85687099
+        102191581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,16 +48,15 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159296999,
+            "country_id":-1,
             "locality_id":1209335963,
-            "region_id":85687099
+            "region_id":-1
         }
     ],
     "wof:id":1209335963,
-    "wof:lastmodified":1571383566,
+    "wof:lastmodified":1581020698,
     "wof:name":"Ystanes",
-    "wof:parent_id":1159296999,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

@@ -42,12 +42,7 @@
         "Havr\u00e5"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159297251,
-        85633341,
-        85687099
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3153432,
@@ -57,17 +52,16 @@
     "wof:geomhash":"0517f11304ecfe5ef79f7bcc774196cc",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297251,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1293411115,
-            "region_id":85687099
+            "region_id":-1
         }
     ],
     "wof:id":1293411115,
-    "wof:lastmodified":1571380371,
+    "wof:lastmodified":1581020722,
     "wof:name":"Havra",
-    "wof:parent_id":1159297251,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

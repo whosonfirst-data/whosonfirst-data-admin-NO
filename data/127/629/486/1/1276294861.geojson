@@ -40,12 +40,7 @@
         "Enga"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159297333,
-        85633341,
-        85687143
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3158247
@@ -54,17 +49,16 @@
     "wof:geomhash":"90449d1f2880cc833d1b0d508029cdfc",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297333,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1276294861,
-            "region_id":85687143
+            "region_id":-1
         }
     ],
     "wof:id":1276294861,
-    "wof:lastmodified":1571381712,
+    "wof:lastmodified":1581021182,
     "wof:name":"Enga",
-    "wof:parent_id":1159297333,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

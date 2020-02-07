@@ -34,12 +34,7 @@
         "Gamle Hellesund"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159297591,
-        85633341,
-        85687071
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9537598
@@ -48,17 +43,16 @@
     "wof:geomhash":"ad4c4a2e2a3dfe8b7c34318a73c74b46",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297591,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1310710857,
-            "region_id":85687071
+            "region_id":-1
         }
     ],
     "wof:id":1310710857,
-    "wof:lastmodified":1571384803,
+    "wof:lastmodified":1581020403,
     "wof:name":"Gamle Hellesund",
-    "wof:parent_id":1159297591,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

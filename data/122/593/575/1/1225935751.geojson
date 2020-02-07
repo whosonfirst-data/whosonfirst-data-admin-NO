@@ -34,12 +34,7 @@
         "Skor"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159297267,
-        85633341,
-        85687099
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3138615
@@ -48,17 +43,16 @@
     "wof:geomhash":"71c319a551a3b437db08eb150a94774d",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297267,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1225935751,
-            "region_id":85687099
+            "region_id":-1
         }
     ],
     "wof:id":1225935751,
-    "wof:lastmodified":1571391815,
+    "wof:lastmodified":1581020656,
     "wof:name":"Skor",
-    "wof:parent_id":1159297267,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

@@ -33,9 +33,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297223,
-        85633341,
-        85687099
+        85633341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +45,14 @@
         {
             "continent_id":102191581,
             "country_id":85633341,
-            "localadmin_id":1159297223,
             "locality_id":1343653271,
-            "region_id":85687099
+            "region_id":-1
         }
     ],
     "wof:id":1343653271,
-    "wof:lastmodified":1571356090,
+    "wof:lastmodified":1581020664,
     "wof:name":"Gripne",
-    "wof:parent_id":1159297223,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

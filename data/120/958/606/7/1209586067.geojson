@@ -34,12 +34,7 @@
         "Kolgrov"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159296887,
-        85633341,
-        85687113
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3149629,
@@ -49,17 +44,16 @@
     "wof:geomhash":"ed037ed37ae15de8bc55430dc3fd8391",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159296887,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1209586067,
-            "region_id":85687113
+            "region_id":-1
         }
     ],
     "wof:id":1209586067,
-    "wof:lastmodified":1571383464,
+    "wof:lastmodified":1581021026,
     "wof:name":"Kolgrov",
-    "wof:parent_id":1159296887,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

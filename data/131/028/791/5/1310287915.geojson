@@ -36,12 +36,7 @@
         "Kvanhovden"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159297017,
-        85633341,
-        85687113
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3148963
@@ -50,17 +45,16 @@
     "wof:geomhash":"7c37be8bb9719242d481ea63b2061377",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297017,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1310287915,
-            "region_id":85687113
+            "region_id":-1
         }
     ],
     "wof:id":1310287915,
-    "wof:lastmodified":1571385193,
+    "wof:lastmodified":1581021023,
     "wof:name":"Kvanhovden",
-    "wof:parent_id":1159297017,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

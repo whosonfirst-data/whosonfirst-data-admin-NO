@@ -31,12 +31,7 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159296861,
-        85633341,
-        85687113
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3144543
@@ -45,17 +40,16 @@
     "wof:geomhash":"117fc83de08eba6109f5d8b52a53fb46",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159296861,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1327012697,
-            "region_id":85687113
+            "region_id":-1
         }
     ],
     "wof:id":1327012697,
-    "wof:lastmodified":1571354703,
+    "wof:lastmodified":1581021044,
     "wof:name":"Njos",
-    "wof:parent_id":1159296861,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

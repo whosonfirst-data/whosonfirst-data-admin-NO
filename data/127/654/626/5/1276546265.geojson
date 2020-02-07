@@ -43,12 +43,7 @@
         "Stappugied\u2019di"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159296751,
-        85633341,
-        85687145
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":777505
@@ -57,17 +52,16 @@
     "wof:geomhash":"bfc3b1f0d0f05173722a4ac65be251e2",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159296751,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1276546265,
-            "region_id":85687145
+            "region_id":-1
         }
     ],
     "wof:id":1276546265,
-    "wof:lastmodified":1571382606,
+    "wof:lastmodified":1581021370,
     "wof:name":"Stappugied'di",
-    "wof:parent_id":1159296751,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

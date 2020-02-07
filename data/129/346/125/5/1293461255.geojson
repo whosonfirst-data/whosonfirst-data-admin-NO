@@ -46,12 +46,7 @@
         "Kruk"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159296837,
-        85633341,
-        85687091
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3210068
@@ -60,17 +55,16 @@
     "wof:geomhash":"1d60cfb47b5e50449170f67e477b979d",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159296837,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1293461255,
-            "region_id":85687091
+            "region_id":-1
         }
     ],
     "wof:id":1293461255,
-    "wof:lastmodified":1571380367,
+    "wof:lastmodified":1581020549,
     "wof:name":"Kruk",
-    "wof:parent_id":1159296837,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

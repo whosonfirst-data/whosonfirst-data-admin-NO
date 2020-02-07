@@ -36,12 +36,7 @@
         "Valvikja"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159297017,
-        85633341,
-        85687113
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3132789
@@ -50,17 +45,16 @@
     "wof:geomhash":"4107966e5999dba70549a75821b4f56f",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297017,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1293360629,
-            "region_id":85687113
+            "region_id":-1
         }
     ],
     "wof:id":1293360629,
-    "wof:lastmodified":1571380137,
+    "wof:lastmodified":1581020998,
     "wof:name":"Valvikja",
-    "wof:parent_id":1159297017,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

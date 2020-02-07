@@ -31,12 +31,7 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159297325,
-        85633341,
-        85687113
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3145115
@@ -45,17 +40,16 @@
     "wof:geomhash":"f46388e2ce2642ac8736681c3d17617f",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297325,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1327307207,
-            "region_id":85687113
+            "region_id":-1
         }
     ],
     "wof:id":1327307207,
-    "wof:lastmodified":1571354764,
+    "wof:lastmodified":1581021048,
     "wof:name":"Myrol",
-    "wof:parent_id":1159297325,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

@@ -64,12 +64,7 @@
         "\u0413\u0456\u043b\u044c"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159297157,
-        85633341,
-        85687113
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3155853
@@ -78,17 +73,16 @@
     "wof:geomhash":"f38e0e3a87d323891b4959be4b2cd924",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297157,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1327204275,
-            "region_id":85687113
+            "region_id":-1
         }
     ],
     "wof:id":1327204275,
-    "wof:lastmodified":1571356032,
+    "wof:lastmodified":1581021045,
     "wof:name":"Gil",
-    "wof:parent_id":1159297157,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

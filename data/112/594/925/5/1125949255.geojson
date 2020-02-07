@@ -43,12 +43,7 @@
     "woe:name_adm0":"Norge",
     "woe:name_adm1":"Akershus Fylke",
     "woe:placetype":"Town",
-    "wof:belongsto":[
-        102191581,
-        1159297009,
-        85633341,
-        85687095
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20099918,
@@ -59,17 +54,16 @@
     "wof:geomhash":"511b07ac2e27915fe84e30f0c75f993d",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297009,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1125949255,
-            "region_id":85687095
+            "region_id":-1
         }
     ],
     "wof:id":1125949255,
-    "wof:lastmodified":1571386746,
+    "wof:lastmodified":1581020593,
     "wof:name":"Bj\u00f8rnemyrdalen",
-    "wof:parent_id":1159297009,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

@@ -31,12 +31,7 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159297187,
-        85633341,
-        85687143
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3154245
@@ -45,17 +40,16 @@
     "wof:geomhash":"bc1a58c8432d002f52a01e4c2be9188b",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297187,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1259358901,
-            "region_id":85687143
+            "region_id":-1
         }
     ],
     "wof:id":1259358901,
-    "wof:lastmodified":1571391539,
+    "wof:lastmodified":1581021204,
     "wof:name":"Hakoy",
-    "wof:parent_id":1159297187,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

@@ -43,12 +43,7 @@
         "Kalvanes"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159297091,
-        85633341,
-        85687099
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3150530
@@ -57,17 +52,16 @@
     "wof:geomhash":"37bd0705a54f2085541a9a09e38c7cac",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297091,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1193128967,
-            "region_id":85687099
+            "region_id":-1
         }
     ],
     "wof:id":1193128967,
-    "wof:lastmodified":1571384065,
+    "wof:lastmodified":1581020700,
     "wof:name":"Kalvanes",
-    "wof:parent_id":1159297091,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

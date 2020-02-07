@@ -45,12 +45,7 @@
         "Fors\u00e5"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159297319,
-        85633341,
-        85687143
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3156728
@@ -59,17 +54,16 @@
     "wof:geomhash":"b75f9794d3fa87248e88c6af7bac8271",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297319,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1327496565,
-            "region_id":85687143
+            "region_id":-1
         }
     ],
     "wof:id":1327496565,
-    "wof:lastmodified":1571355305,
+    "wof:lastmodified":1581021299,
     "wof:name":"Forsa",
-    "wof:parent_id":1159297319,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

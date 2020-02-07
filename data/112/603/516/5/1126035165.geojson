@@ -52,10 +52,7 @@
     "woe:name_adm1":"Hordaland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        102191581,
-        1159297135,
-        85633341,
-        85687099
+        102191581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,16 +66,15 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297135,
+            "country_id":-1,
             "locality_id":1126035165,
-            "region_id":85687099
+            "region_id":-1
         }
     ],
     "wof:id":1126035165,
-    "wof:lastmodified":1571387193,
+    "wof:lastmodified":1581020752,
     "wof:name":"S\u00f8rvingo",
-    "wof:parent_id":1159297135,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],

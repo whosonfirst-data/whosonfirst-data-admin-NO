@@ -31,12 +31,7 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        1159297313,
-        85633341,
-        85687113
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3149989
@@ -45,17 +40,16 @@
     "wof:geomhash":"5125be3c09b10437be883e8b227b26c2",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297313,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1327000305,
-            "region_id":85687113
+            "region_id":-1
         }
     ],
     "wof:id":1327000305,
-    "wof:lastmodified":1571354817,
+    "wof:lastmodified":1581020929,
     "wof:name":"Kjorrvik",
-    "wof:parent_id":1159297313,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
