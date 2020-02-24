@@ -75,11 +75,11 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":468,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        1495123997
+        1495123997,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,6 +90,9 @@
         "wk:page":"Ullev\u00e5l Hageby"
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"eee657167094db5d503569465311e7e2",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571393960,
+    "wof:lastmodified":1582313540,
     "wof:name":"Ullev\u00e5l Haveby",
     "wof:parent_id":1495123997,
     "wof:placetype":"neighbourhood",

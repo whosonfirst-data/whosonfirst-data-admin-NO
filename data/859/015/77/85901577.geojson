@@ -93,11 +93,11 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":35,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        1495123997
+        1495123997,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,6 +106,9 @@
         "qs_pg:id":406325
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e6f4d090ab6eea4f9f3ee9b9004510f4",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571393958,
+    "wof:lastmodified":1582313537,
     "wof:name":"Hasle",
     "wof:parent_id":1495123997,
     "wof:placetype":"neighbourhood",

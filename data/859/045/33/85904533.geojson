@@ -74,11 +74,11 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":880,
     "wof:belongsto":[
-        1495115971,
         102191581,
         1527971011,
         85633341,
-        1495123981
+        1495123981,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,6 +87,10 @@
         "wd:id":"Q18342461"
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"6fa2a84a97d1c90e39135dabd63c0931",
     "wof:hierarchy":[
         {
@@ -102,7 +106,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1581021740,
+    "wof:lastmodified":1582313538,
     "wof:name":"Sverresborg",
     "wof:parent_id":1495123981,
     "wof:placetype":"neighbourhood",

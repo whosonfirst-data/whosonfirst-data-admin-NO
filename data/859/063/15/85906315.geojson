@@ -93,11 +93,11 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":328,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        1495123997
+        1495123997,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,6 +106,9 @@
         "wd:id":"Q4578878"
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4e8292a76e60f39d9fe6f76d1c2dce12",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571393964,
+    "wof:lastmodified":1582313538,
     "wof:name":"Ammerud",
     "wof:parent_id":1495123997,
     "wof:placetype":"neighbourhood",

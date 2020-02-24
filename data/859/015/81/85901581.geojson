@@ -162,11 +162,11 @@
     "wd:longitude":10.666667,
     "wd:wordcount":295,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        1495123997
+        1495123997,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -177,6 +177,10 @@
         "wk:page":"Holmenkollen"
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"8498db6a25da7d9aad8dc320ba75ccbd",
     "wof:hierarchy":[
         {
@@ -192,7 +196,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571393962,
+    "wof:lastmodified":1582313537,
     "wof:name":"Holmenkollen",
     "wof:parent_id":1495123997,
     "wof:placetype":"neighbourhood",

@@ -60,11 +60,11 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        1495123997
+        1495123997,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,6 +73,9 @@
         "qs_pg:id":1080933
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c1d555e5cf1ab6955d08f7e4ef8fd2a9",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571393965,
+    "wof:lastmodified":1582313539,
     "wof:name":"Lysebu",
     "wof:parent_id":1495123997,
     "wof:placetype":"neighbourhood",

@@ -56,10 +56,10 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1527947261,
         102191581,
         1159297617,
-        85633341
+        85633341,
+        1527947261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,6 +67,10 @@
         "qs_pg:id":1256980
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a5f443ad2c007e4f8f4e9211612f6c81",
     "wof:hierarchy":[
         {
@@ -82,7 +86,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1581018750,
+    "wof:lastmodified":1582313570,
     "wof:name":"Storetveit",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

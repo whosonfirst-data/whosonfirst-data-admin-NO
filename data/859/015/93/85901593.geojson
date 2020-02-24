@@ -71,11 +71,11 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":73,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        1495123997
+        1495123997,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,6 +86,9 @@
         "wk:page":"Korsvoll"
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"867b4563e97edb42454f0da968e9e536",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571393966,
+    "wof:lastmodified":1582313537,
     "wof:name":"Korsvoll",
     "wof:parent_id":1495123997,
     "wof:placetype":"neighbourhood",

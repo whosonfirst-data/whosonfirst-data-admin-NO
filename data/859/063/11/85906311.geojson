@@ -66,11 +66,11 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":156,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        1495123997
+        1495123997,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,6 +79,9 @@
         "wd:id":"Q7827191"
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0f7cc21c47a556a23bde25ac4331e5e4",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571393964,
+    "wof:lastmodified":1582313538,
     "wof:name":"Torshov",
     "wof:parent_id":1495123997,
     "wof:placetype":"neighbourhood",

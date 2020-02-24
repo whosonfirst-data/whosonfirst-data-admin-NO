@@ -139,11 +139,11 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":20,
     "wof:belongsto":[
-        1495115971,
         102191581,
         1527971011,
         85633341,
-        1495123981
+        1495123981,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -151,6 +151,10 @@
         "qs_pg:id":229862
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0f246f4e66ecc37261da87939d626d9b",
     "wof:hierarchy":[
         {
@@ -166,7 +170,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1581021748,
+    "wof:lastmodified":1582313539,
     "wof:name":"Ugla",
     "wof:parent_id":1495123981,
     "wof:placetype":"neighbourhood",

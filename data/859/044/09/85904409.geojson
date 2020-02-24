@@ -56,17 +56,20 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1495115971,
         102191581,
         1527971011,
         85633341,
-        1495123981
+        1495123981,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20099946
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0efceb17bceb79afe336424de4ec1fc4",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1581021738,
+    "wof:lastmodified":1582313540,
     "wof:name":"Bromstad",
     "wof:parent_id":1495123981,
     "wof:placetype":"neighbourhood",

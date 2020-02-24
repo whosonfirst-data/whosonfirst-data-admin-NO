@@ -104,10 +104,10 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1151,
     "wof:belongsto":[
-        1527947261,
         102191581,
         1159297617,
-        85633341
+        85633341,
+        1527947261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -115,6 +115,9 @@
         "wd:id":"Q650821"
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"92d67054ff55438374f5c3fc6e8710b4",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1581018734,
+    "wof:lastmodified":1582313570,
     "wof:name":"Lono",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

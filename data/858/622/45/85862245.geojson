@@ -56,11 +56,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1527947261,
         102191581,
         1159297617,
         85633341,
-        1360178997
+        1360178997,
+        1527947261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,6 +68,10 @@
         "qs_pg:id":229855
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"f042d1c09287b5e62853791c60ffcbb4",
     "wof:hierarchy":[
         {
@@ -83,7 +87,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1581018751,
+    "wof:lastmodified":1582313570,
     "wof:name":"Orrtuflaten",
     "wof:parent_id":1360178997,
     "wof:placetype":"neighbourhood",

@@ -80,11 +80,11 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":101,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        1495123997
+        1495123997,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,6 +93,9 @@
         "wd:id":"Q1769586"
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b2a1a97ca471602802f1a4623ef2b713",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571393961,
+    "wof:lastmodified":1582313537,
     "wof:name":"Lambertseter",
     "wof:parent_id":1495123997,
     "wof:placetype":"neighbourhood",

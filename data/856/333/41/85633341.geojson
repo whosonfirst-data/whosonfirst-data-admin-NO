@@ -1205,6 +1205,11 @@
     },
     "wof:country":"NO",
     "wof:country_alpha3":"NOR",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6",
+        "quattroshapes"
+    ],
     "wof:geomhash":"fb3bd971c78e1684c0093448a7a2fbd4",
     "wof:hierarchy":[
         {
@@ -1222,7 +1227,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1571688701,
+    "wof:lastmodified":1582313545,
     "wof:name":"Norway",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

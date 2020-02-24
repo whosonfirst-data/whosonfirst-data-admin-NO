@@ -79,11 +79,11 @@
     "wd:longitude":10.794969,
     "wd:wordcount":1126,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        1495123997
+        1495123997,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,6 +92,10 @@
         "wd:id":"Q1770350"
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2e73beec0d7519647711941542511ba5",
     "wof:hierarchy":[
         {
@@ -107,7 +111,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571393964,
+    "wof:lastmodified":1582313538,
     "wof:name":"Holmlia",
     "wof:parent_id":1495123997,
     "wof:placetype":"neighbourhood",

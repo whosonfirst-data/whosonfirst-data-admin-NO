@@ -110,11 +110,11 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":867,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        1495123997
+        1495123997,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,6 +125,9 @@
         "wk:page":"St. Hanshaugen"
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"56220e5386c94694e38d1c3bdb78e61a",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571393961,
+    "wof:lastmodified":1582313538,
     "wof:name":"St. Hanshaugen",
     "wof:parent_id":1495123997,
     "wof:placetype":"neighbourhood",
