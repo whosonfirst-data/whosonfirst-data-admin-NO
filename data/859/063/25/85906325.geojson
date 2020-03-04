@@ -64,11 +64,11 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":57,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        1495123997
+        1495123997,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,6 +77,9 @@
         "qs_pg:id":223949
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ec5d112679ee7adc66d2f24daf5bcf17",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571393964,
+    "wof:lastmodified":1582313538,
     "wof:name":"Haugerud",
     "wof:parent_id":1495123997,
     "wof:placetype":"neighbourhood",

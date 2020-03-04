@@ -96,11 +96,11 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":289,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        1495123997
+        1495123997,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,6 +111,9 @@
         "wk:page":"Gr\u00f8nland"
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8a2232e961a860dec2b543aba0b1d543",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571393963,
+    "wof:lastmodified":1582313538,
     "wof:name":"Gronland",
     "wof:parent_id":1495123997,
     "wof:placetype":"neighbourhood",

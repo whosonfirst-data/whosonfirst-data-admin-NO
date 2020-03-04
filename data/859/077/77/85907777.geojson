@@ -100,11 +100,11 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":535,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        1495123997
+        1495123997,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -115,6 +115,9 @@
         "wk:page":"Aker Brygge"
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e4114d27a23d24c7b5ec041f31510fc9",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571393964,
+    "wof:lastmodified":1582313538,
     "wof:name":"Aker Brygge",
     "wof:parent_id":1495123997,
     "wof:placetype":"neighbourhood",

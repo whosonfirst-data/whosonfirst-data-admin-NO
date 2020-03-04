@@ -61,11 +61,11 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":25,
     "wof:belongsto":[
-        1495115971,
         102191581,
         1527971011,
         85633341,
-        1495123981
+        1495123981,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,6 +73,10 @@
         "qs_pg:id":1120812
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"260f01c79472432e9940f174e7a22255",
     "wof:hierarchy":[
         {
@@ -88,7 +92,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1581021743,
+    "wof:lastmodified":1582313540,
     "wof:name":"Marinen",
     "wof:parent_id":1495123981,
     "wof:placetype":"neighbourhood",

@@ -102,11 +102,11 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":101,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        1495123997
+        1495123997,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -117,6 +117,9 @@
         "wk:page":"Lambertseter"
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0e7791afa55d5ca21283c1b2fb203a5e",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571393962,
+    "wof:lastmodified":1582313537,
     "wof:name":"Lamberts\u00e6ter",
     "wof:parent_id":1495123997,
     "wof:placetype":"neighbourhood",

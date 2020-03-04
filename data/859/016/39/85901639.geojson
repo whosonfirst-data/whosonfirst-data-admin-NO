@@ -168,11 +168,11 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":1666,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        1495123997
+        1495123997,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -181,6 +181,9 @@
         "wd:id":"Q1139389"
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"11459ff5dc4c6a90938079ae6f491759",
     "wof:hierarchy":[
         {
@@ -196,7 +199,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571393958,
+    "wof:lastmodified":1582313539,
     "wof:name":"Dal",
     "wof:parent_id":1495123997,
     "wof:placetype":"neighbourhood",

@@ -68,11 +68,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687135,
         102191581,
         1527971083,
         85633341,
-        101814601
+        101814601,
+        85687135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,6 +81,10 @@
         "qs_pg:id":314467
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5250db0005a7038bd1781c350392072d",
     "wof:hierarchy":[
         {
@@ -96,7 +100,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1581028688,
+    "wof:lastmodified":1582313539,
     "wof:name":"Oskarsborg",
     "wof:parent_id":101814601,
     "wof:placetype":"neighbourhood",

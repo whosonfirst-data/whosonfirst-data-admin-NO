@@ -172,10 +172,10 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":644,
     "wof:belongsto":[
-        1527947261,
         102191581,
         1159297617,
-        85633341
+        85633341,
+        1527947261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -184,6 +184,10 @@
         "wd:id":"Q153430"
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"b58df6e175f54340f5cde01f56488a98",
     "wof:hierarchy":[
         {
@@ -199,7 +203,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1581018749,
+    "wof:lastmodified":1582313569,
     "wof:name":"Bryggen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -84,11 +84,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":79,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        1495123997
+        1495123997,
+        85687089
     ],
     "wof:breaches":[
         85901637
@@ -101,6 +101,10 @@
         "wk:page":"R\u00f8a"
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"28a61197952db7d948c34c237ead352d",
     "wof:hierarchy":[
         {
@@ -116,7 +120,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571393967,
+    "wof:lastmodified":1582313540,
     "wof:name":"R\u00f8a",
     "wof:parent_id":1495123997,
     "wof:placetype":"neighbourhood",

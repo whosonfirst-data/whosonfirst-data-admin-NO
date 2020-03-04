@@ -134,11 +134,11 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1090,
     "wof:belongsto":[
-        1527947267,
         102191581,
         1159296755,
         85633341,
-        1126031233
+        1126031233,
+        1527947267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -148,6 +148,10 @@
         "wd:id":"Q1435524"
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c74eac6f73a499cd892165e46aeb28cc",
     "wof:hierarchy":[
         {
@@ -163,7 +167,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1581019700,
+    "wof:lastmodified":1582313537,
     "wof:name":"Folkvang",
     "wof:parent_id":1126031233,
     "wof:placetype":"neighbourhood",

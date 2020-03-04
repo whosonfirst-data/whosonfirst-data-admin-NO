@@ -66,11 +66,11 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":36,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        1495123997
+        1495123997,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,6 +81,9 @@
         "wk:page":"Bryn, Oslo"
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"72cae6233e4577e6367bae0e74174192",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571393966,
+    "wof:lastmodified":1582313537,
     "wof:name":"Bryn",
     "wof:parent_id":1495123997,
     "wof:placetype":"neighbourhood",

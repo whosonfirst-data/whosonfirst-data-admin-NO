@@ -77,10 +77,10 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":211,
     "wof:belongsto":[
-        1527947261,
         102191581,
         1159297617,
-        85633341
+        85633341,
+        1527947261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,6 +89,10 @@
         "qs_pg:id":1080936
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dd9e1b3dbda8cf3d135c14d32d6fca4e",
     "wof:hierarchy":[
         {
@@ -104,7 +108,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1581018736,
+    "wof:lastmodified":1582313569,
     "wof:name":"Solheim",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

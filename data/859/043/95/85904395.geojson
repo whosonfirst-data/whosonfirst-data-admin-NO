@@ -117,11 +117,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1495115971,
         102191581,
         1527971011,
         85633341,
-        1495123981
+        1495123981,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -129,6 +129,10 @@
         "qs_pg:id":1256446
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"74f14fffad7a0d550c40187b2602694b",
     "wof:hierarchy":[
         {
@@ -144,7 +148,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1581021746,
+    "wof:lastmodified":1582313541,
     "wof:name":"Bergheim",
     "wof:parent_id":1495123981,
     "wof:placetype":"neighbourhood",

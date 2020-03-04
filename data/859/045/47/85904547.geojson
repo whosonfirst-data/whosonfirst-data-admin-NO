@@ -84,16 +84,19 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1495115971,
         102191581,
         1527971011,
-        85633341
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20100574
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fc4ef743a8e41013151272e3ceb23ae7",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1581021747,
+    "wof:lastmodified":1582313539,
     "wof:name":"Utleira",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

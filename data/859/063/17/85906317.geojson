@@ -74,11 +74,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":112,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        1495123997
+        1495123997,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,6 +87,10 @@
         "wd:id":"Q5365401"
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"60bcc7af9cebd362a75c31364c3baddb",
     "wof:hierarchy":[
         {
@@ -102,7 +106,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571393967,
+    "wof:lastmodified":1582313538,
     "wof:name":"Ellingsrud",
     "wof:parent_id":1495123997,
     "wof:placetype":"neighbourhood",

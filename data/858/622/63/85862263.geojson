@@ -63,10 +63,10 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":72,
     "wof:belongsto":[
-        1527947261,
         102191581,
         1159297617,
-        85633341
+        85633341,
+        1527947261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,6 +75,10 @@
         "wd:id":"Q7659803"
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"16c324f84119d67df88948099e125d06",
     "wof:hierarchy":[
         {
@@ -90,7 +94,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1581018739,
+    "wof:lastmodified":1582313570,
     "wof:name":"Sydnes",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

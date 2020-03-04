@@ -59,10 +59,10 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1527947261,
         102191581,
         1159297617,
-        85633341
+        85633341,
+        1527947261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,6 +70,10 @@
         "qs_pg:id":1087373
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f3daa1b19912c5422650402d79872f60",
     "wof:hierarchy":[
         {
@@ -85,7 +89,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1581018739,
+    "wof:lastmodified":1582313569,
     "wof:name":"Kollasen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

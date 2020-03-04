@@ -57,11 +57,11 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        1495123997
+        1495123997,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,6 +69,9 @@
         "qs_pg:id":1090273
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7873e7334dcb0c31f5d6c62d97fbf290",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571393959,
+    "wof:lastmodified":1582313539,
     "wof:name":"Ostmarkkapellet",
     "wof:parent_id":1495123997,
     "wof:placetype":"neighbourhood",

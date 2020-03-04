@@ -79,11 +79,11 @@
     "wd:longitude":10.683861,
     "wd:wordcount":69,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        1495123997
+        1495123997,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,6 +92,10 @@
         "wd:id":"Q6514682"
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8675f1ce5e6344ed81ee42e47b0d2fbb",
     "wof:hierarchy":[
         {
@@ -107,7 +111,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571393967,
+    "wof:lastmodified":1582313539,
     "wof:name":"Sk\u00f8yen",
     "wof:parent_id":1495123997,
     "wof:placetype":"neighbourhood",

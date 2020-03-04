@@ -93,11 +93,11 @@
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        1495123997
+        1495123997,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,6 +106,10 @@
         "qs_pg:id":1083379
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"72516482112ab3f5c6626fd4a2a55cf3",
     "wof:hierarchy":[
         {
@@ -121,7 +125,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571393962,
+    "wof:lastmodified":1582313537,
     "wof:name":"Kongshamn",
     "wof:parent_id":1495123997,
     "wof:placetype":"neighbourhood",

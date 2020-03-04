@@ -65,11 +65,11 @@
     "wd:longitude":10.841667,
     "wd:wordcount":79,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        1495123997
+        1495123997,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,6 +78,9 @@
         "wd:id":"Q3954812"
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"67bda171d30aaf95a97d8548a49ff719",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571393965,
+    "wof:lastmodified":1582313540,
     "wof:name":"Bogerud",
     "wof:parent_id":1495123997,
     "wof:placetype":"neighbourhood",

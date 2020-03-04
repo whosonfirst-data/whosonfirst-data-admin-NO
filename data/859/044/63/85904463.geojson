@@ -78,17 +78,20 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":529,
     "wof:belongsto":[
-        1495115971,
         102191581,
         1527971011,
         85633341,
-        1495123981
+        1495123981,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20100237
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"92a3a036dd9789cf6dd4cc8dd4a117f2",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1581021748,
+    "wof:lastmodified":1582313541,
     "wof:name":"Marienborg",
     "wof:parent_id":1495123981,
     "wof:placetype":"neighbourhood",

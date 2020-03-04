@@ -78,10 +78,10 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1527947261,
         102191581,
         1159297617,
-        85633341
+        85633341,
+        1527947261
     ],
     "wof:breaches":[
         85800701
@@ -93,6 +93,10 @@
         "wd:id":"Q7417025"
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"387389b6240e9b097a45a686d3c426e1",
     "wof:hierarchy":[
         {
@@ -108,7 +112,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1581018734,
+    "wof:lastmodified":1582313569,
     "wof:name":"Sandviken",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

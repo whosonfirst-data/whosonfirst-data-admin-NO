@@ -73,11 +73,11 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":145,
     "wof:belongsto":[
-        1495115971,
         102191581,
         1527971011,
         85633341,
-        1495123981
+        1495123981,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,6 +86,10 @@
         "wd:id":"Q4583716"
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e0e64398a93bb439663fca9c4b7f00af",
     "wof:hierarchy":[
         {
@@ -101,7 +105,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1581021747,
+    "wof:lastmodified":1582313541,
     "wof:name":"Kalvskinnet",
     "wof:parent_id":1495123981,
     "wof:placetype":"neighbourhood",

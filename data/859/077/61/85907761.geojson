@@ -105,11 +105,11 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":188,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        1495123997
+        1495123997,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -117,6 +117,9 @@
         "qs_pg:id":350623
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"605b8216333d491cbdc7f51c39f0a6fe",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571393963,
+    "wof:lastmodified":1582313538,
     "wof:name":"Ila",
     "wof:parent_id":1495123997,
     "wof:placetype":"neighbourhood",

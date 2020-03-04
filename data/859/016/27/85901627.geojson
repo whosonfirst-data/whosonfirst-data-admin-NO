@@ -661,11 +661,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":117,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        1495123997
+        1495123997,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -676,6 +676,10 @@
         "wk:page":"Roms\u00e5s"
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"0fd64ed4d90ac58d44cf23736e859c33",
     "wof:hierarchy":[
         {
@@ -691,7 +695,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571393967,
+    "wof:lastmodified":1582313539,
     "wof:name":"Roms\u00e5s",
     "wof:parent_id":1495123997,
     "wof:placetype":"neighbourhood",

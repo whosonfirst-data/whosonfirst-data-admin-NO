@@ -57,11 +57,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1495115971,
         102191581,
         1527971011,
         85633341,
-        1495123981
+        1495123981,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,6 +69,10 @@
         "qs_pg:id":484846
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d5729f1ef7b153f6565c6f28d6ce6252",
     "wof:hierarchy":[
         {
@@ -84,7 +88,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1581021740,
+    "wof:lastmodified":1582313540,
     "wof:name":"Dalsenget",
     "wof:parent_id":1495123981,
     "wof:placetype":"neighbourhood",

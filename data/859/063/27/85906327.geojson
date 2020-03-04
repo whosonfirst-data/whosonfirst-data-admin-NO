@@ -95,11 +95,11 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        1495123997
+        1495123997,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,6 +107,9 @@
         "qs_pg:id":225428
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b19dac3b5b8469ad3dc12e68ea9905b3",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571393961,
+    "wof:lastmodified":1582313538,
     "wof:name":"Ris",
     "wof:parent_id":1495123997,
     "wof:placetype":"neighbourhood",

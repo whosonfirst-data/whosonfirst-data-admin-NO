@@ -99,11 +99,11 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":489,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        1495123997
+        1495123997,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,6 +114,9 @@
         "wk:page":"T\u00f8yen"
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4e0dc4604b8beaf1888b6aaab288a75d",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1571393960,
+    "wof:lastmodified":1582313539,
     "wof:name":"T\u00f8yen",
     "wof:parent_id":1495123997,
     "wof:placetype":"neighbourhood",

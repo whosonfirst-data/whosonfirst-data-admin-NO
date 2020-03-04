@@ -57,11 +57,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1495115971,
         102191581,
         1527971011,
         85633341,
-        1495123981
+        1495123981,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,6 +69,10 @@
         "qs_pg:id":247215
     },
     "wof:country":"NO",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fb5775d65a3df52155be61fa01934bfc",
     "wof:hierarchy":[
         {
@@ -84,7 +88,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1581021742,
+    "wof:lastmodified":1582313541,
     "wof:name":"Mollenberg",
     "wof:parent_id":1495123981,
     "wof:placetype":"neighbourhood",
