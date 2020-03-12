@@ -35,7 +35,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":578312,
         "no-geonorge:kommunenum":1108
+    },
+    "wof:concordances_alt":{
+        "digitalenvoy:metro_code":[
+            578091
+        ]
     },
     "wof:country":"NO",
     "wof:geomhash":"51ee3d052d9845b9c31dbf2d967fc63a",
@@ -57,7 +63,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581019363,
+    "wof:lastmodified":1584030629,
     "wof:name":"Sandnes",
     "wof:parent_id":85687085,
     "wof:placetype":"localadmin",

@@ -35,7 +35,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":578090,
         "no-geonorge:kommunenum":4647
+    },
+    "wof:concordances_alt":{
+        "digitalenvoy:metro_code":[
+            578103,
+            578162,
+            578238
+        ]
     },
     "wof:country":"NO",
     "wof:geomhash":"e4313f8dbe68f69221d69377cea2d9e8",
@@ -57,7 +65,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581018450,
+    "wof:lastmodified":1584030618,
     "wof:name":"Sunnfjord",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",

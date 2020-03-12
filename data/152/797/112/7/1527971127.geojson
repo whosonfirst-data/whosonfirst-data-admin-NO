@@ -35,7 +35,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":578136,
         "no-geonorge:kommunenum":5055
+    },
+    "wof:concordances_alt":{
+        "digitalenvoy:metro_code":[
+            578126
+        ]
     },
     "wof:country":"NO",
     "wof:geomhash":"b46b32d948dd083faab5641be8ffa6fd",
@@ -57,7 +63,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581021533,
+    "wof:lastmodified":1584030627,
     "wof:name":"Heim",
     "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",

@@ -35,7 +35,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":578046,
         "no-geonorge:kommunenum":3817
+    },
+    "wof:concordances_alt":{
+        "digitalenvoy:metro_code":[
+            578316
+        ]
     },
     "wof:country":"NO",
     "wof:geomhash":"fab6024515571216b9ea457d4880456a",
@@ -57,7 +63,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581019589,
+    "wof:lastmodified":1584030624,
     "wof:name":"Midt-Telemark",
     "wof:parent_id":1527947267,
     "wof:placetype":"localadmin",

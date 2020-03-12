@@ -35,7 +35,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":578229,
         "no-geonorge:kommunenum":1506
+    },
+    "wof:concordances_alt":{
+        "digitalenvoy:metro_code":[
+            578245,
+            578225
+        ]
     },
     "wof:country":"NO",
     "wof:geomhash":"c3cd7fe2b7bf58ab1dd97937f75232d3",
@@ -57,7 +64,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581018788,
+    "wof:lastmodified":1584030622,
     "wof:name":"Molde",
     "wof:parent_id":85687123,
     "wof:placetype":"localadmin",

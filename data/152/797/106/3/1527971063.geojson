@@ -35,7 +35,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":578173,
         "no-geonorge:kommunenum":4204
+    },
+    "wof:concordances_alt":{
+        "digitalenvoy:metro_code":[
+            578343,
+            578337
+        ]
     },
     "wof:country":"NO",
     "wof:geomhash":"91fabe908896b2309a87ef36cf5266e1",
@@ -57,7 +64,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581019360,
+    "wof:lastmodified":1584030625,
     "wof:name":"Kristiansand",
     "wof:parent_id":1527947265,
     "wof:placetype":"localadmin",

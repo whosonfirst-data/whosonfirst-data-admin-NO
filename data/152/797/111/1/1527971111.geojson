@@ -35,7 +35,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":578231,
         "no-geonorge:kommunenum":3002
+    },
+    "wof:concordances_alt":{
+        "digitalenvoy:metro_code":[
+            578305
+        ]
     },
     "wof:country":"NO",
     "wof:geomhash":"be8b93f744d8f1426402a997cfe8d631",
@@ -57,7 +63,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581020061,
+    "wof:lastmodified":1584030620,
     "wof:name":"Moss",
     "wof:parent_id":1527947269,
     "wof:placetype":"localadmin",

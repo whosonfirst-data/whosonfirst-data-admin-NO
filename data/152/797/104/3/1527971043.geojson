@@ -35,7 +35,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":578397,
         "no-geonorge:kommunenum":4618
+    },
+    "wof:concordances_alt":{
+        "digitalenvoy:metro_code":[
+            578259,
+            578163
+        ]
     },
     "wof:country":"NO",
     "wof:geomhash":"e3053ddb1f9aa0f1d861df40a7fb93b4",
@@ -57,7 +64,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581018458,
+    "wof:lastmodified":1584030617,
     "wof:name":"Ullensvang",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",

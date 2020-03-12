@@ -113,7 +113,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":578366,
         "no-geonorge:kommunenum":1531
+    },
+    "wof:concordances_alt":{
+        "digitalenvoy:metro_code":[
+            578313
+        ]
     },
     "wof:country":"NO",
     "wof:created":1524595738,
@@ -136,7 +142,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581015566,
+    "wof:lastmodified":1584030642,
     "wof:name":"Sula",
     "wof:parent_id":85687123,
     "wof:placetype":"localadmin",

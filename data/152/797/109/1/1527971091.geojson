@@ -35,7 +35,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":578004,
         "no-geonorge:kommunenum":1507
+    },
+    "wof:concordances_alt":{
+        "digitalenvoy:metro_code":[
+            578313,
+            578265,
+            578130
+        ]
     },
     "wof:country":"NO",
     "wof:geomhash":"c7a4434a8325d82c2ec25ef39f8591dc",
@@ -57,7 +65,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581022544,
+    "wof:lastmodified":1584030622,
     "wof:name":"\u00c5lesund",
     "wof:parent_id":85687123,
     "wof:placetype":"localadmin",

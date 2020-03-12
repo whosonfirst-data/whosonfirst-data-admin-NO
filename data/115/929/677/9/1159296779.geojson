@@ -188,7 +188,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":578186,
         "no-geonorge:kommunenum":3805
+    },
+    "wof:concordances_alt":{
+        "digitalenvoy:metro_code":[
+            578185
+        ]
     },
     "wof:country":"NO",
     "wof:created":1524595757,
@@ -211,7 +217,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581019582,
+    "wof:lastmodified":1584030675,
     "wof:name":"Larvik",
     "wof:parent_id":1527947267,
     "wof:placetype":"localadmin",

@@ -35,7 +35,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":578018,
         "no-geonorge:kommunenum":3014
+    },
+    "wof:concordances_alt":{
+        "digitalenvoy:metro_code":[
+            578352,
+            578064,
+            578144,
+            578386
+        ]
     },
     "wof:country":"NO",
     "wof:geomhash":"f05d94d12e1aaac851615efca7873274",
@@ -57,7 +66,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581020058,
+    "wof:lastmodified":1584030620,
     "wof:name":"Indre \u00d8stfold",
     "wof:parent_id":1527947269,
     "wof:placetype":"localadmin",

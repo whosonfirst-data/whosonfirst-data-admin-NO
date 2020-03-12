@@ -35,7 +35,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":578045,
         "no-geonorge:kommunenum":5057
+    },
+    "wof:concordances_alt":{
+        "digitalenvoy:metro_code":[
+            578264
+        ]
     },
     "wof:country":"NO",
     "wof:geomhash":"6a38749db66ffda26f9413233407ed78",
@@ -57,7 +63,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581021523,
+    "wof:lastmodified":1584030629,
     "wof:name":"\u00d8rland",
     "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",

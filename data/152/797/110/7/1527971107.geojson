@@ -35,7 +35,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":578393,
         "no-geonorge:kommunenum":1875
+    },
+    "wof:concordances_alt":{
+        "digitalenvoy:metro_code":[
+            578128
+        ]
     },
     "wof:country":"NO",
     "wof:geomhash":"57e94dafbc0d2848fbdc2acbf4b667d6",
@@ -57,7 +63,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581028485,
+    "wof:lastmodified":1584030621,
     "wof:name":"Hamar\u00f8y",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

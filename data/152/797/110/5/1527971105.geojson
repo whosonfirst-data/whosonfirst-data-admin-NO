@@ -35,7 +35,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":578430,
         "no-geonorge:kommunenum":1577
+    },
+    "wof:concordances_alt":{
+        "digitalenvoy:metro_code":[
+            578150
+        ]
     },
     "wof:country":"NO",
     "wof:geomhash":"b7d8d10ecfa4c722bc0155a5c8448bd5",
@@ -57,7 +63,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581018464,
+    "wof:lastmodified":1584030621,
     "wof:name":"Volda",
     "wof:parent_id":85687123,
     "wof:placetype":"localadmin",

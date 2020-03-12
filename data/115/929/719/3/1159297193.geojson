@@ -182,7 +182,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":578311,
         "no-geonorge:kommunenum":3804
+    },
+    "wof:concordances_alt":{
+        "digitalenvoy:metro_code":[
+            578358,
+            578010
+        ]
     },
     "wof:country":"NO",
     "wof:created":1524595921,
@@ -205,7 +212,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581019591,
+    "wof:lastmodified":1584030681,
     "wof:name":"Sandefjord",
     "wof:parent_id":1527947267,
     "wof:placetype":"localadmin",
