@@ -68,7 +68,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":578192,
         "no-geonorge:kommunenum":5054
+    },
+    "wof:concordances_alt":{
+        "digitalenvoy:metro_code":[
+            578296
+        ]
     },
     "wof:country":"NO",
     "wof:created":1524595755,
@@ -91,7 +97,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581015608,
+    "wof:lastmodified":1584030672,
     "wof:name":"Indre Fosen",
     "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",

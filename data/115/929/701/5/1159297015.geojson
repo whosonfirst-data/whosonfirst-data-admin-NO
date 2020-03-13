@@ -134,7 +134,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":578313,
         "no-geonorge:kommunenum":1517
+    },
+    "wof:concordances_alt":{
+        "digitalenvoy:metro_code":[
+            578131
+        ]
     },
     "wof:country":"NO",
     "wof:created":1524595845,
@@ -157,7 +163,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581015553,
+    "wof:lastmodified":1584030632,
     "wof:name":"Hareid",
     "wof:parent_id":85687123,
     "wof:placetype":"localadmin",

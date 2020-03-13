@@ -35,7 +35,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":578022,
         "no-geonorge:kommunenum":4225
+    },
+    "wof:concordances_alt":{
+        "digitalenvoy:metro_code":[
+            578211
+        ]
     },
     "wof:country":"NO",
     "wof:geomhash":"b5ded7e7efc2dabde55446ee43eef5c9",
@@ -57,7 +63,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581019357,
+    "wof:lastmodified":1584030624,
     "wof:name":"Lyngdal",
     "wof:parent_id":1527947265,
     "wof:placetype":"localadmin",

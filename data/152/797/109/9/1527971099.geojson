@@ -35,7 +35,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":578093,
         "no-geonorge:kommunenum":1579
+    },
+    "wof:concordances_alt":{
+        "digitalenvoy:metro_code":[
+            578062
+        ]
     },
     "wof:country":"NO",
     "wof:geomhash":"05e504f8a1eecf561071520d587c0ebe",
@@ -57,7 +63,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581022551,
+    "wof:lastmodified":1584030622,
     "wof:name":"Hustadvika",
     "wof:parent_id":85687123,
     "wof:placetype":"localadmin",

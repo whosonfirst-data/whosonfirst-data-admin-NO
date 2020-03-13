@@ -110,7 +110,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":578327,
         "no-geonorge:kommunenum":3034
+    },
+    "wof:concordances_alt":{
+        "digitalenvoy:metro_code":[
+            578240,
+            578350
+        ]
     },
     "wof:country":"NO",
     "wof:created":1524596002,
@@ -133,7 +140,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581020103,
+    "wof:lastmodified":1584030661,
     "wof:name":"Nes",
     "wof:parent_id":1527947269,
     "wof:placetype":"localadmin",

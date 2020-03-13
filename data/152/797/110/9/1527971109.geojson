@@ -35,7 +35,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":578058,
         "no-geonorge:kommunenum":3005
+    },
+    "wof:concordances_alt":{
+        "digitalenvoy:metro_code":[
+            578239,
+            578372
+        ]
     },
     "wof:country":"NO",
     "wof:geomhash":"fd7cc02aea5d33a52a75ddd4e0450171",
@@ -57,7 +64,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581020062,
+    "wof:lastmodified":1584030621,
     "wof:name":"Drammen",
     "wof:parent_id":1527947269,
     "wof:placetype":"localadmin",

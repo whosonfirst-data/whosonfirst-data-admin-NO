@@ -35,7 +35,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":578385,
         "no-geonorge:kommunenum":5421
+    },
+    "wof:concordances_alt":{
+        "digitalenvoy:metro_code":[
+            578193,
+            578383,
+            578038
+        ]
     },
     "wof:country":"NO",
     "wof:geomhash":"a7b75c5adafa646d9e723e4d36af50b2",
@@ -57,7 +65,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581017250,
+    "wof:lastmodified":1584030627,
     "wof:name":"Senja",
     "wof:parent_id":1527947259,
     "wof:placetype":"localadmin",

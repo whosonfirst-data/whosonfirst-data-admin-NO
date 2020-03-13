@@ -35,7 +35,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":578378,
         "no-geonorge:kommunenum":5412
+    },
+    "wof:concordances_alt":{
+        "digitalenvoy:metro_code":[
+            578324
+        ]
     },
     "wof:country":"NO",
     "wof:geomhash":"9d399679e65d11a89a703cd87f1e6422",
@@ -57,7 +63,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581017255,
+    "wof:lastmodified":1584030622,
     "wof:name":"Tjeldsund",
     "wof:parent_id":1527947259,
     "wof:placetype":"localadmin",

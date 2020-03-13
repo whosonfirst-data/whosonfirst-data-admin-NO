@@ -35,7 +35,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":578388,
         "no-geonorge:kommunenum":5001
+    },
+    "wof:concordances_alt":{
+        "digitalenvoy:metro_code":[
+            578168
+        ]
     },
     "wof:country":"NO",
     "wof:geomhash":"c2ecd73de36151b899a3b67bf75baf77",
@@ -57,7 +63,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581021516,
+    "wof:lastmodified":1584030626,
     "wof:name":"Trondheim",
     "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",

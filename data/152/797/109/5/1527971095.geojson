@@ -35,7 +35,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":578129,
         "no-geonorge:kommunenum":5406
+    },
+    "wof:concordances_alt":{
+        "digitalenvoy:metro_code":[
+            578178
+        ]
     },
     "wof:country":"NO",
     "wof:geomhash":"d3a70516c960fbb66d89aab3122e0394",
@@ -57,7 +63,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581017258,
+    "wof:lastmodified":1584030623,
     "wof:name":"Hammerfest",
     "wof:parent_id":1527947259,
     "wof:placetype":"localadmin",

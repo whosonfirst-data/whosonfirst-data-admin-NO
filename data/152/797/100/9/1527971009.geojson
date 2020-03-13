@@ -35,7 +35,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":578406,
         "no-geonorge:kommunenum":4602
+    },
+    "wof:concordances_alt":{
+        "digitalenvoy:metro_code":[
+            578088
+        ]
     },
     "wof:country":"NO",
     "wof:geomhash":"63d95f11035e87c1baa7aa392ab3d97c",
@@ -57,7 +63,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581018442,
+    "wof:lastmodified":1584030623,
     "wof:name":"Kinn",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",

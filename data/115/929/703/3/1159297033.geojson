@@ -140,7 +140,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":578251,
         "no-geonorge:kommunenum":3436
+    },
+    "wof:concordances_alt":{
+        "digitalenvoy:metro_code":[
+            578346
+        ]
     },
     "wof:country":"NO",
     "wof:created":1524595850,
@@ -163,7 +169,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581018807,
+    "wof:lastmodified":1584030668,
     "wof:name":"Nord-Fron",
     "wof:parent_id":1527947263,
     "wof:placetype":"localadmin",

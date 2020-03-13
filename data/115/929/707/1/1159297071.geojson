@@ -44,7 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":578258,
         "no-geonorge:kommunenum":3811
+    },
+    "wof:concordances_alt":{
+        "digitalenvoy:metro_code":[
+            578379
+        ]
     },
     "wof:country":"NO",
     "wof:created":1524595862,
@@ -67,7 +73,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581019594,
+    "wof:lastmodified":1584030639,
     "wof:name":"F\u00e6rder",
     "wof:parent_id":1527947267,
     "wof:placetype":"localadmin",

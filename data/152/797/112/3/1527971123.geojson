@@ -35,7 +35,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":578263,
         "no-geonorge:kommunenum":5059
+    },
+    "wof:concordances_alt":{
+        "digitalenvoy:metro_code":[
+            578002,
+            578221,
+            578335
+        ]
     },
     "wof:country":"NO",
     "wof:geomhash":"987bd27dec21e3eb2354c7cc7a37c08d",
@@ -57,7 +65,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581021528,
+    "wof:lastmodified":1584030628,
     "wof:name":"Orkland",
     "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",

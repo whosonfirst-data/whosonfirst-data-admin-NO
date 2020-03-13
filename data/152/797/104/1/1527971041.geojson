@@ -35,7 +35,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":578336,
         "no-geonorge:kommunenum":4640
+    },
+    "wof:concordances_alt":{
+        "digitalenvoy:metro_code":[
+            578189,
+            578031
+        ]
     },
     "wof:country":"NO",
     "wof:geomhash":"3a14fe223c1b23020037f22f48dccc65",
@@ -57,7 +64,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581018454,
+    "wof:lastmodified":1584030617,
     "wof:name":"Sogndal",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",

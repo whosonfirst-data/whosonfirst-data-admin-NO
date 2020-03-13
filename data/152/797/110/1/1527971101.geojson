@@ -35,7 +35,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":578250,
         "no-geonorge:kommunenum":1578
+    },
+    "wof:concordances_alt":{
+        "digitalenvoy:metro_code":[
+            578360
+        ]
     },
     "wof:country":"NO",
     "wof:geomhash":"9328247a6755248f6b1246e0e0cc3412",
@@ -57,7 +63,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581018785,
+    "wof:lastmodified":1584030621,
     "wof:name":"Fjord",
     "wof:parent_id":85687123,
     "wof:placetype":"localadmin",

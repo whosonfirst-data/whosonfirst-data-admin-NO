@@ -35,7 +35,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":578215,
         "no-geonorge:kommunenum":4205
+    },
+    "wof:concordances_alt":{
+        "digitalenvoy:metro_code":[
+            578217,
+            578201
+        ]
     },
     "wof:country":"NO",
     "wof:geomhash":"1bc7fbe58a8ff2591f55637b88a7a8f0",
@@ -57,7 +64,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581019364,
+    "wof:lastmodified":1584030625,
     "wof:name":"Lindesnes",
     "wof:parent_id":1527947265,
     "wof:placetype":"localadmin",

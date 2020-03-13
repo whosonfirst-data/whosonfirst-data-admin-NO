@@ -35,7 +35,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":578237,
         "no-geonorge:kommunenum":1806
+    },
+    "wof:concordances_alt":{
+        "digitalenvoy:metro_code":[
+            578032
+        ]
     },
     "wof:country":"NO",
     "wof:geomhash":"d12623d8e29cb314595ce712c345a8cd",
@@ -57,7 +63,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581017253,
+    "wof:lastmodified":1584030627,
     "wof:name":"Narvik",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

@@ -35,7 +35,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":578382,
         "no-geonorge:kommunenum":3803
+    },
+    "wof:concordances_alt":{
+        "digitalenvoy:metro_code":[
+            578287
+        ]
     },
     "wof:country":"NO",
     "wof:geomhash":"30fe1e195a95244739413526bc965cf1",
@@ -57,7 +63,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1581019584,
+    "wof:lastmodified":1584030624,
     "wof:name":"T\u00f8nsberg",
     "wof:parent_id":1527947267,
     "wof:placetype":"localadmin",
