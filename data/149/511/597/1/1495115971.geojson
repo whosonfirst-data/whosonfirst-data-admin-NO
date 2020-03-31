@@ -19,6 +19,12 @@
     "label:eng_x_preferred_shortcode":[
         "TR"
     ],
+    "label:nor_x_preferred_longname":[
+        "Tr\u00f8ndelag fylke"
+    ],
+    "label:nor_x_preferred_placetype":[
+        "fylke"
+    ],
     "lbl:latitude":63.130713,
     "lbl:longitude":11.433955,
     "lbl:min_zoom":8.0,
@@ -279,15 +285,17 @@
     ],
     "wof:id":1495115971,
     "wof:lang_x_official":[
+        "nor",
         "nob",
         "nno"
     ],
     "wof:lang_x_spoken":[
+        "nor",
         "nob",
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1582313638,
+    "wof:lastmodified":1585695479,
     "wof:name":"Tr\u00f8ndelag",
     "wof:parent_id":85633341,
     "wof:placetype":"region",

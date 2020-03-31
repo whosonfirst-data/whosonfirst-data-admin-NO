@@ -11,6 +11,18 @@
     "geom:latitude":61.445034,
     "geom:longitude":10.42603,
     "iso:country":"NO",
+    "label:eng_x_preferred_longname":[
+        "Innlandet County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:nor_x_preferred_longname":[
+        "Innlandet fylke"
+    ],
+    "label:nor_x_preferred_placetype":[
+        "fylke"
+    ],
     "lbl:latitude":61.499768,
     "lbl:longitude":10.468031,
     "mps:latitude":61.499768,
@@ -40,15 +52,17 @@
     ],
     "wof:id":1527947263,
     "wof:lang_x_official":[
+        "nor",
+        "nob",
+        "nno"
+    ],
+    "wof:lang_x_spoken":[
+        "nor",
         "nob",
         "nno",
         "sme"
     ],
-    "wof:lang_x_spoken":[
-        "nob",
-        "nno"
-    ],
-    "wof:lastmodified":1581019057,
+    "wof:lastmodified":1585695476,
     "wof:name":"Innlandet",
     "wof:parent_id":85633341,
     "wof:placetype":"region",
