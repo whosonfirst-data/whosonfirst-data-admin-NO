@@ -11,6 +11,18 @@
     "geom:latitude":59.492971,
     "geom:longitude":8.718596,
     "iso:country":"NO",
+    "label:eng_x_preferred_longname":[
+        "Vestfold and Telemark County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:nor_x_preferred_longname":[
+        "Vestfold og Telemark fylke"
+    ],
+    "label:nor_x_preferred_placetype":[
+        "fylke"
+    ],
     "lbl:latitude":59.546564,
     "lbl:longitude":8.536491,
     "mps:latitude":59.546564,
@@ -40,15 +52,17 @@
     ],
     "wof:id":1527947267,
     "wof:lang_x_official":[
+        "nor",
+        "nob",
+        "nno"
+    ],
+    "wof:lang_x_spoken":[
+        "nor",
         "nob",
         "nno",
         "sme"
     ],
-    "wof:lang_x_spoken":[
-        "nob",
-        "nno"
-    ],
-    "wof:lastmodified":1581019709,
+    "wof:lastmodified":1585695472,
     "wof:name":"Vestfold og Telemark",
     "wof:parent_id":85633341,
     "wof:placetype":"region",

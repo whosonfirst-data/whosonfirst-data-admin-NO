@@ -11,6 +11,18 @@
     "geom:latitude":60.923062,
     "geom:longitude":6.424921,
     "iso:country":"NO",
+    "label:eng_x_preferred_longname":[
+        "Vestland County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:nor_x_preferred_longname":[
+        "Vestland fylke"
+    ],
+    "label:nor_x_preferred_placetype":[
+        "fylke"
+    ],
     "lbl:latitude":60.71471,
     "lbl:longitude":6.380577,
     "mps:latitude":60.71471,
@@ -40,15 +52,17 @@
     ],
     "wof:id":1527947261,
     "wof:lang_x_official":[
+        "nor",
+        "nob",
+        "nno"
+    ],
+    "wof:lang_x_spoken":[
+        "nor",
         "nob",
         "nno",
         "sme"
     ],
-    "wof:lang_x_spoken":[
-        "nob",
-        "nno"
-    ],
-    "wof:lastmodified":1581018763,
+    "wof:lastmodified":1585695473,
     "wof:name":"Vestland",
     "wof:parent_id":85633341,
     "wof:placetype":"region",

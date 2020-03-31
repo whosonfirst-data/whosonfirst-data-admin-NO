@@ -19,6 +19,12 @@
     "label:eng_x_preferred_shortcode":[
         "OS"
     ],
+    "label:nor_x_preferred_longname":[
+        "Oslo fylke"
+    ],
+    "label:nor_x_preferred_placetype":[
+        "fylke"
+    ],
     "lbl:latitude":60.015898,
     "lbl:longitude":10.704386,
     "lbl:min_zoom":8.0,
@@ -392,6 +398,9 @@
         "Oslo"
     ],
     "name:nor_x_preferred":[
+        "Oslo"
+    ],
+    "name:nor_x_variant":[
         "Oslo Fylke"
     ],
     "name:nov_x_preferred":[
@@ -725,15 +734,17 @@
     ],
     "wof:id":85687089,
     "wof:lang_x_official":[
+        "nor",
         "nob",
         "nno"
     ],
     "wof:lang_x_spoken":[
+        "nor",
         "nob",
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1582313550,
+    "wof:lastmodified":1585695455,
     "wof:name":"Oslo",
     "wof:parent_id":85633341,
     "wof:placetype":"region",

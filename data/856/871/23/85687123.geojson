@@ -11,13 +11,19 @@
     "geom:longitude":7.572172,
     "iso:country":"NO",
     "label:eng_x_preferred_longname":[
-        "M\u00f8re og Romsdal County"
+        "M\u00f8re and Romsdal County"
     ],
     "label:eng_x_preferred_placetype":[
         "county"
     ],
     "label:eng_x_preferred_shortcode":[
         "MR"
+    ],
+    "label:nor_x_preferred_longname":[
+        "M\u00f8re og Romsdal fylke"
+    ],
+    "label:nor_x_preferred_placetype":[
+        "fylke"
     ],
     "lbl:latitude":62.460157,
     "lbl:longitude":7.959662,
@@ -74,6 +80,9 @@
         "M\u00f8re og Romsdal"
     ],
     "name:eng_x_preferred":[
+        "M\u00f8re and Romsdal"
+    ],
+    "name:eng_x_variant":[
         "M\u00f8re og Romsdal"
     ],
     "name:epo_x_preferred":[
@@ -359,15 +368,17 @@
     ],
     "wof:id":85687123,
     "wof:lang_x_official":[
+        "nor",
         "nob",
         "nno"
     ],
     "wof:lang_x_spoken":[
+        "nor",
         "nob",
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1582313566,
+    "wof:lastmodified":1585695464,
     "wof:name":"M\u00f8re og Romsdal",
     "wof:parent_id":85633341,
     "wof:placetype":"region",

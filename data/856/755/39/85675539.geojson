@@ -23,6 +23,9 @@
     "label:eng_x_preferred_shortcode":[
         "SV"
     ],
+    "label:nor_x_preferred_longname":[
+        "Svalbard"
+    ],
     "lbl:latitude":78.778238,
     "lbl:longitude":18.080645,
     "lbl:min_zoom":8.0,
@@ -399,15 +402,17 @@
     ],
     "wof:id":85675539,
     "wof:lang_x_official":[
+        "nor",
         "nob",
         "nno"
     ],
     "wof:lang_x_spoken":[
+        "nor",
         "nob",
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1583797429,
+    "wof:lastmodified":1585695455,
     "wof:name":"Svalbard",
     "wof:parent_id":-1,
     "wof:placetype":"region",
