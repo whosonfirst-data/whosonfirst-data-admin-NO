@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":60.309075,
-    "geom:area_square_m":320756409301.011658,
+    "geom:area_square_m":320756398324.991333,
     "geom:bbox":"4.640778,57.979527,31.133167,71.183746",
     "geom:latitude":64.457246,
     "geom:longitude":14.088938,
@@ -75,6 +75,9 @@
     "name:ary_x_preferred":[
         "\u0627\u0644\u0646\u0648\u0631\u06a4\u064a\u062c"
     ],
+    "name:ary_x_variant":[
+        "\u0646\u0648\u0631\u06a4\u064a\u062c"
+    ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u0646\u0631\u0648\u064a\u062c"
     ],
@@ -107,6 +110,9 @@
     ],
     "name:bam_x_variant":[
         "N\u0254riw\u025bzi"
+    ],
+    "name:ban_x_preferred":[
+        "Norwegia"
     ],
     "name:bar_x_preferred":[
         "Norwegn"
@@ -216,6 +222,12 @@
     "name:dan_x_preferred":[
         "Norge"
     ],
+    "name:deu_at_x_preferred":[
+        "Norwegen"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Norwegen"
+    ],
     "name:deu_x_colloquial":[
         "Koenigreich Norwegen",
         "Konigreich Norwegen"
@@ -249,6 +261,12 @@
     ],
     "name:eml_x_preferred":[
         "Nurv\u00e9gia"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Norway"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Norway"
     ],
     "name:eng_x_preferred":[
         "Norway"
@@ -323,6 +341,9 @@
     ],
     "name:gan_x_preferred":[
         "\u632a\u5a01"
+    ],
+    "name:gcr_x_preferred":[
+        "Norv\u00e8j"
     ],
     "name:gla_x_preferred":[
         "Nirribhidh"
@@ -500,6 +521,9 @@
     ],
     "name:kbp_x_preferred":[
         "N\u0254\u0254r\u0269v\u025b\u025bz\u0269"
+    ],
+    "name:kea_x_preferred":[
+        "Noruega"
     ],
     "name:khm_x_preferred":[
         "\u1794\u17d2\u179a\u1791\u17c1\u179f\u1793\u17d0\u179a\u179c\u17c1"
@@ -795,6 +819,9 @@
     "name:pol_x_preferred":[
         "Norwegia"
     ],
+    "name:por_br_x_preferred":[
+        "Noruega"
+    ],
     "name:por_x_preferred":[
         "Noruega"
     ],
@@ -859,6 +886,9 @@
     "name:sje_x_preferred":[
         "Vuodna"
     ],
+    "name:sju_x_preferred":[
+        "N\u00fcrjje"
+    ],
     "name:slk_x_preferred":[
         "N\u00f3rsko"
     ],
@@ -892,6 +922,9 @@
     "name:sna_x_preferred":[
         "Norway"
     ],
+    "name:snd_x_preferred":[
+        "\u0646\u0627\u0631\u0648\u064a"
+    ],
     "name:som_x_preferred":[
         "Norway"
     ],
@@ -915,6 +948,12 @@
     ],
     "name:srn_x_preferred":[
         "Norvegikondre"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u041d\u043e\u0440\u0432\u0435\u0448\u043a\u0430"
+    ],
+    "name:srp_el_x_preferred":[
+        "Norve\u0161ka"
     ],
     "name:srp_x_preferred":[
         "\u041d\u043e\u0440\u0432\u0435\u0448\u043a\u0430"
@@ -940,6 +979,9 @@
     "name:szl_x_preferred":[
         "Norwygijo"
     ],
+    "name:szy_x_preferred":[
+        "Norway"
+    ],
     "name:tah_x_preferred":[
         "Noruvetia"
     ],
@@ -954,6 +996,9 @@
     ],
     "name:tat_x_preferred":[
         "\u041d\u043e\u0440\u0432\u0435\u0433\u0438\u044f"
+    ],
+    "name:tat_x_variant":[
+        "\u041d\u0430\u0440\u0432\u0438\u0433\u0438\u044f"
     ],
     "name:tel_x_preferred":[
         "\u0c28\u0c3e\u0c30\u0c4d\u0c35\u0c47"
@@ -981,6 +1026,9 @@
     ],
     "name:tir_x_preferred":[
         "\u1296\u122d\u12cc"
+    ],
+    "name:tir_x_variant":[
+        "\u1296\u122d\u12c8\u12ed"
     ],
     "name:ton_x_preferred":[
         "Noau\u0113"
@@ -1230,7 +1278,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1585695743,
+    "wof:lastmodified":1587429062,
     "wof:name":"Norway",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
