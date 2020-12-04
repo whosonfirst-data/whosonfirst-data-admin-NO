@@ -7,6 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
     "geom:area":5.600218,
+    "geom:area_square_m":33651274395.250408,
     "geom:bbox":"4.500477,59.475421,8.322053,62.215687",
     "geom:latitude":60.923062,
     "geom:longitude":6.424921,
@@ -41,6 +42,9 @@
         85633341
     ],
     "wof:breaches":[],
+    "wof:capital":[
+        1495165801
+    ],
     "wof:country":"NO",
     "wof:geomhash":"ea49d567674fe9bde6041a84aaefddeb",
     "wof:hierarchy":[
@@ -62,7 +66,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1585695473,
+    "wof:lastmodified":1607124808,
     "wof:name":"Vestland",
     "wof:parent_id":85633341,
     "wof:placetype":"region",

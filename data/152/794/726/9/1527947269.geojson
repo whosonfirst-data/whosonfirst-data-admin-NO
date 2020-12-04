@@ -7,6 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
     "geom:area":3.963324,
+    "geom:area_square_m":24441560007.486256,
     "geom:bbox":"7.438842,58.876895,11.946004,61.09172",
     "geom:latitude":60.082684,
     "geom:longitude":9.910491,
@@ -41,6 +42,10 @@
         85633341
     ],
     "wof:breaches":[],
+    "wof:capital":[
+        1495123973,
+        1125837795
+    ],
     "wof:country":"NO",
     "wof:geomhash":"e55c103d30cbe1156212e9a27e6dbb65",
     "wof:hierarchy":[
@@ -62,7 +67,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1585695470,
+    "wof:lastmodified":1607124816,
     "wof:name":"Viken",
     "wof:parent_id":85633341,
     "wof:placetype":"region",
