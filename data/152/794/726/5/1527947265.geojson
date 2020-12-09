@@ -7,6 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
     "geom:area":2.544347,
+    "geom:area_square_m":16345515710.490788,
     "geom:bbox":"6.376589,57.959392,9.366059,59.672687",
     "geom:latitude":58.697659,
     "geom:longitude":7.624011,
@@ -41,6 +42,9 @@
         85633341
     ],
     "wof:breaches":[],
+    "wof:capital":[
+        101751911
+    ],
     "wof:country":"NO",
     "wof:geomhash":"836c9b695eedefa16a9b175dfbbd604b",
     "wof:hierarchy":[
@@ -62,7 +66,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1585695477,
+    "wof:lastmodified":1607462722,
     "wof:name":"Agder",
     "wof:parent_id":85633341,
     "wof:placetype":"region",

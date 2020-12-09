@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072969,
-    "geom:area_square_m":478040235.016649,
+    "geom:area_square_m":451394820.849382,
     "geom:bbox":"10.489165,59.809311,10.951389,60.135106",
     "geom:latitude":59.981202,
     "geom:longitude":10.739271,
@@ -711,6 +711,9 @@
         85633341
     ],
     "wof:breaches":[],
+    "wof:capital":[
+        1495123997
+    ],
     "wof:concordances":{
         "fips:code":"NO12",
         "gn:id":3143242,
@@ -744,7 +747,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1585695455,
+    "wof:lastmodified":1607462699,
     "wof:name":"Oslo",
     "wof:parent_id":85633341,
     "wof:placetype":"region",

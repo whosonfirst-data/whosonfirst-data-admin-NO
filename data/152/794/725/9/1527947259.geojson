@@ -7,6 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
     "geom:area":17.330036,
+    "geom:area_square_m":74268086400.508881,
     "geom:bbox":"15.592542,68.356014,31.168147,71.185515",
     "geom:latitude":69.720513,
     "geom:longitude":23.67876,
@@ -41,6 +42,9 @@
         85633341
     ],
     "wof:breaches":[],
+    "wof:capital":[
+        101751929
+    ],
     "wof:country":"NO",
     "wof:geomhash":"ee281b4aefa56bcbe69084e7346d0a21",
     "wof:hierarchy":[
@@ -62,7 +66,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1585695467,
+    "wof:lastmodified":1607462714,
     "wof:name":"Troms og Finnmark",
     "wof:parent_id":85633341,
     "wof:placetype":"region",

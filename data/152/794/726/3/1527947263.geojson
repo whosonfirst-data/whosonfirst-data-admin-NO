@@ -7,6 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
     "geom:area":8.759567,
+    "geom:area_square_m":51771107123.111816,
     "geom:bbox":"7.34253,59.840785,12.870849,62.696928",
     "geom:latitude":61.445034,
     "geom:longitude":10.42603,
@@ -41,6 +42,9 @@
         85633341
     ],
     "wof:breaches":[],
+    "wof:capital":[
+        1495124017
+    ],
     "wof:country":"NO",
     "wof:geomhash":"292c052a784ff4040a40796ff721c867",
     "wof:hierarchy":[
@@ -62,7 +66,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1585695476,
+    "wof:lastmodified":1607462721,
     "wof:name":"Innlandet",
     "wof:parent_id":85633341,
     "wof:placetype":"region",
