@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Skjelnan"
+    ],
+    "name:eng_x_variant":[
+        "Skilnan"
+    ],
     "name:und_x_variant":[
         "Skilman"
     ],
@@ -53,8 +59,8 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297187,
         85633341,
+        1159297187,
         1527947259
     ],
     "wof:breaches":[],
@@ -76,8 +82,8 @@
         }
     ],
     "wof:id":1125935569,
-    "wof:lastmodified":1581017382,
-    "wof:name":"Skilnan",
+    "wof:lastmodified":1614816123,
+    "wof:name":"Skjelnan",
     "wof:parent_id":1159297187,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
