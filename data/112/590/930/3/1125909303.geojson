@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Finnjord"
+    ],
+    "name:eng_x_variant":[
+        "Finnjorda"
+    ],
     "name:nor_x_preferred":[
         "Finnfjord"
     ],
@@ -52,8 +58,8 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1527971089,
         85633341,
+        1527971089,
         1527947259
     ],
     "wof:breaches":[],
@@ -75,8 +81,8 @@
         }
     ],
     "wof:id":1125909303,
-    "wof:lastmodified":1581017498,
-    "wof:name":"Finnjorda",
+    "wof:lastmodified":1617907538,
+    "wof:name":"Finnjord",
     "wof:parent_id":1527971089,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
