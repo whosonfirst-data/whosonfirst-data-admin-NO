@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Teveldalen"
+    ],
+    "name:eng_x_variant":[
+        "Tevedalen"
+    ],
     "name:nor_x_preferred":[
         "Teveldalen"
     ],
@@ -59,8 +65,8 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297383,
         85633341,
+        1159297383,
         1495115971
     ],
     "wof:breaches":[],
@@ -82,8 +88,8 @@
         }
     ],
     "wof:id":1126028051,
-    "wof:lastmodified":1571392952,
-    "wof:name":"Tevedalen",
+    "wof:lastmodified":1617998019,
+    "wof:name":"Teveldalen",
     "wof:parent_id":1159297383,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
