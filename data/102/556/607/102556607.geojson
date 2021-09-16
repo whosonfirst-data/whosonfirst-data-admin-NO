@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"6.10583333333,61.83,6.10583333333,61.83",
+    "geom:bbox":"6.105833,61.83,6.105833,61.83",
     "geom:latitude":61.83,
     "geom:longitude":6.105833,
     "iso:country":"NO",
@@ -24,6 +24,10 @@
     ],
     "name:eng_x_preferred":[
         "Sandane Airport"
+    ],
+    "name:eng_x_variant":[
+        "SDN",
+        "ENSD"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0646\u062f\u0627 \u0633\u0646\u062f\u0646"
@@ -76,10 +80,10 @@
         "state_id":2346398
     },
     "wof:belongsto":[
-        1527947261,
         102191581,
         1159296787,
-        85633341
+        85633341,
+        1527947261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +94,7 @@
         "wd:id":"Q1703540"
     },
     "wof:country":"NO",
-    "wof:geomhash":"ed795c6bc433666b77a9f83aff01e492",
+    "wof:geomhash":"d36af90b54dca9ccff7f4a02afab16ba",
     "wof:hierarchy":[
         {
             "campus_id":102556607,
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":102556607,
-    "wof:lastmodified":1581018728,
+    "wof:lastmodified":1631743691,
     "wof:name":"Sandane lufthamn Anda",
     "wof:parent_id":1159296787,
     "wof:placetype":"campus",
@@ -115,10 +119,10 @@
     ]
 },
   "bbox": [
-    6.1058333333333,
+    6.105833,
     61.83,
-    6.1058333333333,
+    6.105833,
     61.83
 ],
-  "geometry": {"coordinates":[6.1058333333333,61.83],"type":"Point"}
+  "geometry": {"coordinates":[6.105833,61.83],"type":"Point"}
 }

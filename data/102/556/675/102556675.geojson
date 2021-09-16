@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"7.2625,62.7447222222,7.2625,62.7447222222",
+    "geom:bbox":"7.2625,62.744722,7.2625,62.744722",
     "geom:latitude":62.744722,
     "geom:longitude":7.2625,
     "iso:country":"NO",
@@ -24,6 +24,10 @@
     ],
     "name:eng_x_preferred":[
         "Molde Airport"
+    ],
+    "name:eng_x_variant":[
+        "MOL",
+        "ENML"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0631\u0648 \u0645\u0648\u0644\u062f\u0647"
@@ -87,11 +91,11 @@
         "state_id":2346391
     },
     "wof:belongsto":[
-        85687123,
         102191581,
         1527971093,
         85633341,
-        101804091
+        101804091,
+        85687123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,7 +106,7 @@
         "wd:id":"Q1618505"
     },
     "wof:country":"NO",
-    "wof:geomhash":"745cc6d1cf73395e29a00ec92bf284cf",
+    "wof:geomhash":"781ac55ef9fdd446aec0a5999fbb5fc0",
     "wof:hierarchy":[
         {
             "campus_id":102556675,
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":102556675,
-    "wof:lastmodified":1581022618,
+    "wof:lastmodified":1631743691,
     "wof:name":"Molde Lufthavn \u00c5r\u00f8",
     "wof:parent_id":101804091,
     "wof:placetype":"campus",
@@ -128,9 +132,9 @@
 },
   "bbox": [
     7.2625,
-    62.744722222222,
+    62.744722,
     7.2625,
-    62.744722222222
+    62.744722
 ],
-  "geometry": {"coordinates":[7.2625,62.744722222222],"type":"Point"}
+  "geometry": {"coordinates":[7.2625,62.744722],"type":"Point"}
 }

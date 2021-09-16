@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"24.9738888889,70.0666666667,24.9738888889,70.0666666667",
+    "geom:bbox":"24.973889,70.066667,24.973889,70.066667",
     "geom:latitude":70.066667,
     "geom:longitude":24.973889,
     "iso:country":"NO",
@@ -24,6 +24,10 @@
     ],
     "name:eng_x_preferred":[
         "Lakselv Airport"
+    ],
+    "name:eng_x_variant":[
+        "LKL",
+        "ENNA"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u06a9\u0633\u0644\u0648 \u0628\u0627\u0646\u0627\u06a9"
@@ -79,10 +83,10 @@
         "state_id":2346388
     },
     "wof:belongsto":[
-        1527947259,
         102191581,
         1159297563,
-        85633341
+        85633341,
+        1527947259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +97,7 @@
         "wd:id":"Q2763148"
     },
     "wof:country":"NO",
-    "wof:geomhash":"7851426e40c4bb38a138e1b2a40472b2",
+    "wof:geomhash":"865d4a62d4d1f2c5437e8a6bf4625612",
     "wof:hierarchy":[
         {
             "campus_id":102556679,
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":102556679,
-    "wof:lastmodified":1581017530,
+    "wof:lastmodified":1631743691,
     "wof:name":"Lakselv Lufthavn Banak",
     "wof:parent_id":1159297563,
     "wof:placetype":"campus",
@@ -118,10 +122,10 @@
     ]
 },
   "bbox": [
-    24.973888888889,
-    70.066666666667,
-    24.973888888889,
-    70.066666666667
+    24.973889,
+    70.066667,
+    24.973889,
+    70.066667
 ],
-  "geometry": {"coordinates":[24.973888888889,70.066666666667],"type":"Point"}
+  "geometry": {"coordinates":[24.973889,70.066667],"type":"Point"}
 }

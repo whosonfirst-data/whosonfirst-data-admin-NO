@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"9.60388888889,63.6991666667,9.60388888889,63.6991666667",
+    "geom:bbox":"9.603889,63.699167,9.603889,63.699167",
     "geom:latitude":63.699167,
     "geom:longitude":9.603889,
     "iso:country":"NO",
@@ -24,6 +24,10 @@
     ],
     "name:eng_x_preferred":[
         "\u00d8rland Airport"
+    ],
+    "name:eng_x_variant":[
+        "OLA",
+        "ENOL"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0648\u0631\u0644\u0646\u062f"
@@ -66,10 +70,10 @@
         "state_id":2346399
     },
     "wof:belongsto":[
-        1495115971,
         102191581,
         1527971133,
-        85633341
+        85633341,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,7 +84,7 @@
         "wd:id":"Q2096315"
     },
     "wof:country":"NO",
-    "wof:geomhash":"41e08c41ef4f036355d5289ebb08751f",
+    "wof:geomhash":"7e9dfe152b3ebd4ff378e5b516930c35",
     "wof:hierarchy":[
         {
             "campus_id":102556667,
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":102556667,
-    "wof:lastmodified":1581021732,
+    "wof:lastmodified":1631743691,
     "wof:name":"\u00d8rland Lufthavn",
     "wof:parent_id":1527971133,
     "wof:placetype":"campus",
@@ -105,10 +109,10 @@
     ]
 },
   "bbox": [
-    9.6038888888889,
-    63.699166666667,
-    9.6038888888889,
-    63.699166666667
+    9.603889,
+    63.699167,
+    9.603889,
+    63.699167
 ],
-  "geometry": {"coordinates":[9.6038888888889,63.699166666667],"type":"Point"}
+  "geometry": {"coordinates":[9.603889,63.699167],"type":"Point"}
 }

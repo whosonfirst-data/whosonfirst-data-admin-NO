@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"5.75694444444,61.3911111111,5.75694444444,61.3911111111",
+    "geom:bbox":"5.756944,61.391111,5.756944,61.391111",
     "geom:latitude":61.391111,
     "geom:longitude":5.756944,
     "iso:country":"NO",
@@ -24,6 +24,10 @@
     ],
     "name:eng_x_preferred":[
         "F\u00f8rde Airport"
+    ],
+    "name:eng_x_variant":[
+        "FDE",
+        "ENBL"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0641\u0631\u0648\u062f\u0647\u060c \u0628\u0631\u06cc\u0646\u06af\u0644\u0646\u062f"
@@ -79,10 +83,10 @@
         "state_id":2346398
     },
     "wof:belongsto":[
-        1527947261,
         102191581,
         1527971023,
-        85633341
+        85633341,
+        1527947261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +97,7 @@
         "wd:id":"Q2673196"
     },
     "wof:country":"NO",
-    "wof:geomhash":"38c1138ed00607358bc2acf678e6fd89",
+    "wof:geomhash":"47c68058084e9dc58c28458086574aa8",
     "wof:hierarchy":[
         {
             "campus_id":102556597,
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":102556597,
-    "wof:lastmodified":1581018728,
+    "wof:lastmodified":1631743691,
     "wof:name":"F\u00f8rde lufthamn Bringeland",
     "wof:parent_id":1527971023,
     "wof:placetype":"campus",
@@ -118,10 +122,10 @@
     ]
 },
   "bbox": [
-    5.7569444444444,
-    61.391111111111,
-    5.7569444444444,
-    61.391111111111
+    5.756944,
+    61.391111,
+    5.756944,
+    61.391111
 ],
-  "geometry": {"coordinates":[5.7569444444444,61.391111111111],"type":"Point"}
+  "geometry": {"coordinates":[5.756944,61.391111],"type":"Point"}
 }

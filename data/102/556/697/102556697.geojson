@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"9.56694444444,59.185,9.56694444444,59.185",
+    "geom:bbox":"9.566944,59.185,9.566944,59.185",
     "geom:latitude":59.185,
     "geom:longitude":9.566944,
     "iso:country":"NO",
@@ -24,6 +24,10 @@
     ],
     "name:eng_x_preferred":[
         "Skien Airport"
+    ],
+    "name:eng_x_variant":[
+        "SKE",
+        "ENSN"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0633\u062a\u0631\u062c\u06cc\u0646 \u0627\u0633\u06a9\u06cc\u0646"
@@ -67,10 +71,10 @@
         "state_id":2346400
     },
     "wof:belongsto":[
-        1527947267,
         102191581,
         1159297035,
-        85633341
+        85633341,
+        1527947267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,7 +85,7 @@
         "wd:id":"Q1432887"
     },
     "wof:country":"NO",
-    "wof:geomhash":"d9d0547efcf4b9abc7b4e9090821d9af",
+    "wof:geomhash":"4ca68f8446e9b8cc1769355823a09c3e",
     "wof:hierarchy":[
         {
             "campus_id":102556697,
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":102556697,
-    "wof:lastmodified":1581019693,
+    "wof:lastmodified":1631743691,
     "wof:name":"Skien Lufthavn Geiteryggen",
     "wof:parent_id":1159297035,
     "wof:placetype":"campus",
@@ -106,10 +110,10 @@
     ]
 },
   "bbox": [
-    9.5669444444444,
+    9.566944,
     59.185,
-    9.5669444444444,
+    9.566944,
     59.185
 ],
-  "geometry": {"coordinates":[9.5669444444444,59.185],"type":"Point"}
+  "geometry": {"coordinates":[9.566944,59.185],"type":"Point"}
 }
