@@ -31,15 +31,15 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
-        "Hatlane,indre"
+        "Hatlane"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85687123,
         102191581,
-        1527971091,
         85633341,
-        101804109
+        1527971091,
+        101804109,
+        85687123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,8 +58,8 @@
         }
     ],
     "wof:id":1495147877,
-    "wof:lastmodified":1581022622,
-    "wof:name":"Hatlane,indre",
+    "wof:lastmodified":1633103608,
+    "wof:name":"Hatlane",
     "wof:parent_id":101804109,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
