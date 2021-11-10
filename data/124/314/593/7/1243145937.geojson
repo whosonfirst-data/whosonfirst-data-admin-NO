@@ -37,11 +37,20 @@
     "name:azb_x_preferred":[
         "\u0647\u0627\u0645\u0627\u0631"
     ],
+    "name:ben_x_preferred":[
+        "\u09b9\u09cd\u09af\u09be\u09ae\u09be\u09b0"
+    ],
     "name:ceb_x_preferred":[
         "Hamar"
     ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03ac\u03bc\u03b1\u03c1"
+    ],
     "name:est_x_preferred":[
         "Hamar"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u092e\u093e\u0930"
     ],
     "name:isl_x_preferred":[
         "Hamar"
@@ -73,7 +82,7 @@
         "gn:id":3154085
     },
     "wof:country":"NO",
-    "wof:geomhash":"868b6f8017adf102b9d54aa7db494cba",
+    "wof:geomhash":"f35ed6a13a2471d50f5aaefeb11fa14f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
         }
     ],
     "wof:id":1243145937,
-    "wof:lastmodified":1581021964,
+    "wof:lastmodified":1636494786,
     "wof:name":"Hamar",
     "wof:parent_id":1527971135,
     "wof:placetype":"locality",
@@ -95,9 +104,9 @@
 },
   "bbox": [
     5.96667,
-    58.93333000000001,
+    58.93333,
     5.96667,
-    58.93333000000001
+    58.93333
 ],
-  "geometry": {"coordinates":[5.96667,58.93333000000001],"type":"Point"}
+  "geometry": {"coordinates":[5.96667,58.93333],"type":"Point"}
 }

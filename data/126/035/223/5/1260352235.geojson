@@ -33,6 +33,12 @@
     "name:dan_x_preferred":[
         "Bo"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648"
+    ],
+    "name:hun_x_preferred":[
+        "Bo"
+    ],
     "name:hye_x_preferred":[
         "\u0532\u0578"
     ],
@@ -51,7 +57,7 @@
         "gn:id":3160896
     },
     "wof:country":"NO",
-    "wof:geomhash":"a0e14dbe2e9a729c4816849151d56982",
+    "wof:geomhash":"e233a2180aa8e2f09141fc2b627eb038",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1260352235,
-    "wof:lastmodified":1581017358,
+    "wof:lastmodified":1636494771,
     "wof:name":"Bo",
     "wof:parent_id":1527971097,
     "wof:placetype":"locality",
@@ -72,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.63332999999999,
+    16.63333,
     68.56667,
-    16.63332999999999,
+    16.63333,
     68.56667
 ],
-  "geometry": {"coordinates":[16.63332999999999,68.56667],"type":"Point"}
+  "geometry": {"coordinates":[16.63333,68.56667],"type":"Point"}
 }

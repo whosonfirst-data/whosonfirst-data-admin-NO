@@ -51,6 +51,12 @@
     "name:frr_x_preferred":[
         "Obo"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d1\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Obo"
+    ],
     "name:ita_x_preferred":[
         "Obo"
     ],
@@ -102,7 +108,7 @@
         "gn:id":3143835
     },
     "wof:country":"NO",
-    "wof:geomhash":"6ffbfd02ff812671a85e6bc94162281b",
+    "wof:geomhash":"15d7ff7cb98a9e238e810f5e219c36e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":1310685607,
-    "wof:lastmodified":1571679302,
+    "wof:lastmodified":1636494772,
     "wof:name":"Obo",
     "wof:parent_id":1159297235,
     "wof:placetype":"locality",
@@ -124,9 +130,9 @@
 },
   "bbox": [
     13.11667,
-    66.26666999999999,
+    66.26667,
     13.11667,
-    66.26666999999999
+    66.26667
 ],
-  "geometry": {"coordinates":[13.11667,66.26666999999999],"type":"Point"}
+  "geometry": {"coordinates":[13.11667,66.26667],"type":"Point"}
 }

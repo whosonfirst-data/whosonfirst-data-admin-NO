@@ -33,6 +33,12 @@
     "name:dan_x_preferred":[
         "Bo"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648"
+    ],
+    "name:hun_x_preferred":[
+        "Bo"
+    ],
     "name:hye_x_preferred":[
         "\u0532\u0578"
     ],
@@ -46,11 +52,11 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        1527947267,
         102191581,
         1527971069,
         85633341,
-        101803867
+        101803867,
+        1527947267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1495147535,
-    "wof:lastmodified":1581019697,
+    "wof:lastmodified":1636494789,
     "wof:name":"Bo",
     "wof:parent_id":101803867,
     "wof:placetype":"neighbourhood",

@@ -49,6 +49,9 @@
         "Fossbergom"
     ],
     "name:nld_x_preferred":[
+        "Lom"
+    ],
+    "name:nld_x_variant":[
         "Fossbergom"
     ],
     "name:nno_x_preferred":[
@@ -57,11 +60,35 @@
     "name:nor_x_preferred":[
         "Fossbergom"
     ],
+    "name:pol_x_preferred":[
+        "Lom"
+    ],
+    "name:por_x_preferred":[
+        "Lom"
+    ],
     "name:ron_x_preferred":[
         "Fossbergom"
     ],
+    "name:rus_x_preferred":[
+        "\u0440\u0435\u043a\u0430 \u041b\u043e\u043c"
+    ],
     "name:spa_x_preferred":[
         "Fossbergom"
+    ],
+    "name:tur_x_preferred":[
+        "Lom"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u0645"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Lom"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6d1b\u59c6\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6d1b\u59c6\u6cb3"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +103,7 @@
         "wk:page":"Fossbergom"
     },
     "wof:country":"NO",
-    "wof:geomhash":"4ed5a2305db9ef9d44a47021478f67e7",
+    "wof:geomhash":"0f24c0600c599543aa8c4d1d0684a32f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +114,7 @@
         }
     ],
     "wof:id":1293871901,
-    "wof:lastmodified":1581019007,
+    "wof:lastmodified":1636494767,
     "wof:name":"Lom",
     "wof:parent_id":1159297573,
     "wof:placetype":"locality",
@@ -98,9 +125,9 @@
 },
   "bbox": [
     8.56842,
-    61.83773000000001,
+    61.83773,
     8.56842,
-    61.83773000000001
+    61.83773
 ],
-  "geometry": {"coordinates":[8.56842,61.83773000000001],"type":"Point"}
+  "geometry": {"coordinates":[8.56842,61.83773],"type":"Point"}
 }

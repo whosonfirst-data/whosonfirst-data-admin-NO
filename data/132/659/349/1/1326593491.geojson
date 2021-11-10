@@ -82,6 +82,9 @@
         "Arak"
     ],
     "name:rus_x_preferred":[
+        "\u0410\u0440\u0443\u043a"
+    ],
+    "name:rus_x_variant":[
         "\u0410\u0440\u0430\u043a"
     ],
     "name:sco_x_preferred":[
@@ -93,8 +96,23 @@
     "name:swe_x_preferred":[
         "Arak"
     ],
+    "name:tur_x_preferred":[
+        "Arak"
+    ],
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0430\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0631\u0627\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "Arak"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u963f\u62c9\u514b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u963f\u62c9\u514b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -108,7 +126,7 @@
         "gn:id":3163002
     },
     "wof:country":"NO",
-    "wof:geomhash":"cffa1a3e2be4b36d8302c2e5219b1622",
+    "wof:geomhash":"a40a2332b1a32ed51e3199ba6ee76116",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,7 +137,7 @@
         }
     ],
     "wof:id":1326593491,
-    "wof:lastmodified":1581019671,
+    "wof:lastmodified":1636494762,
     "wof:name":"Arak",
     "wof:parent_id":1159297341,
     "wof:placetype":"locality",
@@ -130,9 +148,9 @@
 },
   "bbox": [
     8.5,
-    59.03333000000001,
+    59.03333,
     8.5,
-    59.03333000000001
+    59.03333
 ],
-  "geometry": {"coordinates":[8.5,59.03333000000001],"type":"Point"}
+  "geometry": {"coordinates":[8.5,59.03333],"type":"Point"}
 }

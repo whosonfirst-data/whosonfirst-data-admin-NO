@@ -33,6 +33,9 @@
     "name:bel_x_variant":[
         "\u0428\u044b\u0435\u043d"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cd\u0995\u09bf\u09df\u09c7\u09a8"
+    ],
     "name:bpy_x_preferred":[
         "\u09b8\u09cd\u0995\u09bf\u09af\u09bc\u09c7\u09a8"
     ],
@@ -86,6 +89,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e9\u05d9\u05d0\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094d\u0915\u0940\u092f\u0947\u0928"
     ],
     "name:hrv_x_preferred":[
         "Skien"
@@ -261,8 +267,8 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        85633341,
         1159297035,
+        85633341,
         1527947267
     ],
     "wof:breaches":[],
@@ -291,7 +297,7 @@
         }
     ],
     "wof:id":1125829217,
-    "wof:lastmodified":1607462723,
+    "wof:lastmodified":1636494781,
     "wof:name":"Skien",
     "wof:parent_id":1159297035,
     "wof:placetype":"locality",

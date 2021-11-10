@@ -60,6 +60,9 @@
     "name:fra_x_preferred":[
         "Valle"
     ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d0\u05dc\u05d4"
+    ],
     "name:hrv_x_preferred":[
         "Valle"
     ],
@@ -102,7 +105,7 @@
         "gn:id":3132853
     },
     "wof:country":"NO",
-    "wof:geomhash":"08fdccfdf789e4fbf670dc5d0ae582cb",
+    "wof:geomhash":"011e35c437eaa30713b54b678e9a6200",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1292977099,
-    "wof:lastmodified":1581019628,
+    "wof:lastmodified":1636494766,
     "wof:name":"Valle",
     "wof:parent_id":1159296837,
     "wof:placetype":"locality",
@@ -124,9 +127,9 @@
 },
   "bbox": [
     9.56667,
-    58.93333000000001,
+    58.93333,
     9.56667,
-    58.93333000000001
+    58.93333
 ],
-  "geometry": {"coordinates":[9.56667,58.93333000000001],"type":"Point"}
+  "geometry": {"coordinates":[9.56667,58.93333],"type":"Point"}
 }

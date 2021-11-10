@@ -91,7 +91,13 @@
         "K\u00e4rr"
     ],
     "name:ukr_x_preferred":[
+        "\u0424\u0435\u043d"
+    ],
+    "name:ukr_x_variant":[
         "\u041d\u0438\u0437\u0438\u043d\u043d\u0435 \u0431\u043e\u043b\u043e\u0442\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u06cc\u0646"
     ],
     "name:zho_x_preferred":[
         "\u77ff\u8d28\u6ce5\u70ad\u6cbc\u6cfd"
@@ -108,7 +114,7 @@
         "gn:id":3157737
     },
     "wof:country":"NO",
-    "wof:geomhash":"3fd36aaf08b275071ac3e6ea35c3b663",
+    "wof:geomhash":"2831ebdd1f30eca29f7b83c22d1f48f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":1326995007,
-    "wof:lastmodified":1581019690,
+    "wof:lastmodified":1636494762,
     "wof:name":"Fen",
     "wof:parent_id":1159297193,
     "wof:placetype":"locality",
@@ -130,9 +136,9 @@
 },
   "bbox": [
     10.3,
-    59.18333000000001,
+    59.18333,
     10.3,
-    59.18333000000001
+    59.18333
 ],
-  "geometry": {"coordinates":[10.3,59.18333000000001],"type":"Point"}
+  "geometry": {"coordinates":[10.3,59.18333],"type":"Point"}
 }
