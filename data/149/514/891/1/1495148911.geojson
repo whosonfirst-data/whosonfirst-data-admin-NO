@@ -30,17 +30,24 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Medkila"
+    ],
+    "name:eng_x_variant":[
+        "Midkila"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1527947259,
         102191581,
-        1159297451,
         85633341,
-        101814671
+        1159297451,
+        101814671,
+        1527947259
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":3224169
+        "gn:id":3224169,
+        "wd:id":"Q6807210"
     },
     "wof:country":"NO",
     "wof:geomhash":"b1e51029084a10ee4c8d6a9b11707326",
@@ -55,8 +62,8 @@
         }
     ],
     "wof:id":1495148911,
-    "wof:lastmodified":1581017539,
-    "wof:name":"Midkila",
+    "wof:lastmodified":1645145945,
+    "wof:name":"Medkila",
     "wof:parent_id":101814671,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
