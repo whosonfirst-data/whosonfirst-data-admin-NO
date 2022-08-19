@@ -20,6 +20,15 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Korsvik"
+    ],
+    "name:eng_x_variant":[
+        "Kosvik"
+    ],
+    "name:nor_x_preferred":[
+        "Korsvik"
+    ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Kosvik",
@@ -44,16 +53,17 @@
     "woe:name_adm1":"Vest-Agder Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1527947265,
         102191581,
-        1527971063,
         85633341,
-        101751911
+        1527971063,
+        101751911,
+        1527947265
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":860796,
-        "qs_pg:id":1330908
+        "qs_pg:id":1330908,
+        "wd:id":"Q19378032"
     },
     "wof:country":"NO",
     "wof:created":1497296776,
@@ -69,8 +79,8 @@
         }
     ],
     "wof:id":1495147803,
-    "wof:lastmodified":1581019510,
-    "wof:name":"Kosvik",
+    "wof:lastmodified":1660672164,
+    "wof:name":"Korsvik",
     "wof:parent_id":101751911,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
