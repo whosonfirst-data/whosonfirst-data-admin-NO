@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000461,
     "geom:area_square_m":2825781.293169,
-    "geom:bbox":"5.24637503201,60.2798235,5.28218962298,60.2991997912",
+    "geom:bbox":"5.24637503201026,60.2798235,5.28218962297542,60.29919979121163",
     "geom:latitude":60.290138,
     "geom:longitude":5.265336,
     "iso:country":"NO",
@@ -17,14 +17,35 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
+        "Ytrebygda"
+    ],
+    "name:eng_x_variant":[
+        "Yrebygda"
+    ],
+    "name:nno_x_preferred":[
+        "Ytrebygda"
+    ],
+    "name:nno_x_variant":[
+        "Yrebygda"
+    ],
+    "name:nob_x_preferred":[
+        "Ytrebygda"
+    ],
+    "name:nob_x_variant":[
+        "Yrebygda"
+    ],
+    "name:nor_x_preferred":[
+        "Ytrebygda"
+    ],
+    "name:nor_x_variant":[
         "Yrebygda"
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297617,
         85633341,
+        1159297617,
         1527947261
     ],
     "wof:breaches":[],
@@ -40,8 +61,8 @@
         }
     ],
     "wof:id":1495165749,
-    "wof:lastmodified":1581018524,
-    "wof:name":"Yrebygda",
+    "wof:lastmodified":1683761130,
+    "wof:name":"Ytrebygda",
     "wof:parent_id":1159297617,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
