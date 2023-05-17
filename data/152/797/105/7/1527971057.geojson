@@ -6,7 +6,20 @@
     "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_4216",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Birkenes",
+    "eurostat:nuts_2021_id":"4216",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO09",
+    "eurostat:nuts_2021_level_3":"NO092",
+    "eurostat:nuts_2021_level_lau":"4216",
+    "eurostat:population":5226,
+    "eurostat:population_year":2020,
     "geom:area":0.097992,
+    "geom:area_square_m":634059730.024109,
     "geom:bbox":"7.931311,58.241875,8.444985,58.637223",
     "geom:latitude":58.447009,
     "geom:longitude":8.195848,
@@ -28,6 +41,8 @@
     "reversegeo:longitude":8.213351,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -36,10 +51,12 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":578042,
+        "eg:gisco_id":"NO_4216",
+        "eurostat:nuts_2021_id":"4216",
         "no-geonorge:kommunenum":4216
     },
     "wof:country":"NO",
-    "wof:geomhash":"09dad4e63a24f545c58007cda19beed8",
+    "wof:geomhash":"5167c0bc03c509e5c3da46dd790d1b64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,10 +75,12 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1617130949,
+    "wof:lastmodified":1684354129,
     "wof:name":"Birkenes",
     "wof:parent_id":1527947265,
     "wof:placetype":"localadmin",
+    "wof:population":5226,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -6,7 +6,20 @@
     "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_1130",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Strand",
+    "eurostat:nuts_2021_id":"1130",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO0A",
+    "eurostat:nuts_2021_level_3":"NO0A1",
+    "eurostat:nuts_2021_level_lau":"1130",
+    "eurostat:population":12968,
+    "eurostat:population_year":2020,
     "geom:area":0.040893,
+    "geom:area_square_m":260155234.137669,
     "geom:bbox":"5.792521,58.903524,6.236522,59.140769",
     "geom:latitude":59.036008,
     "geom:longitude":6.064148,
@@ -28,6 +41,8 @@
     "reversegeo:longitude":6.057722,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -36,10 +51,12 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":578363,
+        "eg:gisco_id":"NO_1130",
+        "eurostat:nuts_2021_id":"1130",
         "no-geonorge:kommunenum":1130
     },
     "wof:country":"NO",
-    "wof:geomhash":"da6dea693337c11057ce1a2b85fccc65",
+    "wof:geomhash":"44d2b8ebe0be146eb90f379dd8840a39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,10 +75,12 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1584030621,
+    "wof:lastmodified":1684354135,
     "wof:name":"Strand",
     "wof:parent_id":85687085,
     "wof:placetype":"localadmin",
+    "wof:population":12968,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[

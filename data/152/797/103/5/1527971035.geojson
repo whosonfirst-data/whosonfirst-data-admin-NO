@@ -6,7 +6,20 @@
     "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_4633",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fedje",
+    "eurostat:nuts_2021_id":"4633",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO0A",
+    "eurostat:nuts_2021_level_3":"NO0A2",
+    "eurostat:nuts_2021_level_lau":"4633",
+    "eurostat:population":548,
+    "eurostat:population_year":2020,
     "geom:area":0.001441,
+    "geom:area_square_m":8700667.243167,
     "geom:bbox":"4.634503,60.750527,4.746163,60.844215",
     "geom:latitude":60.77309,
     "geom:longitude":4.713424,
@@ -28,6 +41,8 @@
     "reversegeo:longitude":4.725296,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -36,10 +51,12 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":578077,
+        "eg:gisco_id":"NO_4633",
+        "eurostat:nuts_2021_id":"4633",
         "no-geonorge:kommunenum":4633
     },
     "wof:country":"NO",
-    "wof:geomhash":"3789b92e136160f276686590172c46e0",
+    "wof:geomhash":"13b0d36f35480e711817ed1474b383be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,10 +75,12 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1584030618,
+    "wof:lastmodified":1684354127,
     "wof:name":"Fedje",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",
+    "wof:population":548,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[

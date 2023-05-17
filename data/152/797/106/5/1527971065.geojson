@@ -6,7 +6,20 @@
     "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_4205",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lindesnes",
+    "eurostat:nuts_2021_id":"4205",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO09",
+    "eurostat:nuts_2021_level_3":"NO092",
+    "eurostat:nuts_2021_level_lau":"4205",
+    "eurostat:population":23046,
+    "eurostat:population_year":2020,
     "geom:area":0.14238,
+    "geom:area_square_m":928280253.984965,
     "geom:bbox":"7.028921,57.959392,7.734662,58.473295",
     "geom:latitude":58.179074,
     "geom:longitude":7.451137,
@@ -28,6 +41,8 @@
     "reversegeo:longitude":7.451606,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -36,6 +51,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":578215,
+        "eg:gisco_id":"NO_4205",
+        "eurostat:nuts_2021_id":"4205",
         "no-geonorge:kommunenum":4205
     },
     "wof:concordances_alt":{
@@ -45,7 +62,7 @@
         ]
     },
     "wof:country":"NO",
-    "wof:geomhash":"e5b4da8c05821836995cee48c97a4d10",
+    "wof:geomhash":"e5eb0950b928d95e54308444a52a7249",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,10 +81,12 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1617131178,
+    "wof:lastmodified":1684354130,
     "wof:name":"Lindesnes",
     "wof:parent_id":1527947265,
     "wof:placetype":"localadmin",
+    "wof:population":23046,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[

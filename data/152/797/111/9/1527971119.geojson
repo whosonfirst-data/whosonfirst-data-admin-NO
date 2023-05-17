@@ -6,7 +6,20 @@
     "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_5060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"N\u00e6r\u00f8ysund",
+    "eurostat:nuts_2021_id":"5060",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO06",
+    "eurostat:nuts_2021_level_3":"NO060",
+    "eurostat:nuts_2021_level_lau":"5060",
+    "eurostat:population":9623,
+    "eurostat:population_year":2020,
     "geom:area":0.25128,
+    "geom:area_square_m":1317883311.374765,
     "geom:bbox":"10.453975,64.705126,12.580888,65.128263",
     "geom:latitude":64.903176,
     "geom:longitude":11.659155,
@@ -28,6 +41,8 @@
     "reversegeo:longitude":11.935539,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -36,6 +51,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":578427,
+        "eg:gisco_id":"NO_5060",
+        "eurostat:nuts_2021_id":"5060",
         "no-geonorge:kommunenum":5060
     },
     "wof:concordances_alt":{
@@ -44,7 +61,7 @@
         ]
     },
     "wof:country":"NO",
-    "wof:geomhash":"da85685aa39234a7a024af9ada6e9709",
+    "wof:geomhash":"b9e08aa467bc8719e0b8da9e798520d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +80,12 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1617129882,
+    "wof:lastmodified":1684354135,
     "wof:name":"N\u00e6r\u00f8ysund",
     "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",
+    "wof:population":9623,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[

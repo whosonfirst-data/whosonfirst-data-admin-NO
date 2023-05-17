@@ -6,7 +6,20 @@
     "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_4222",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bykle",
+    "eurostat:nuts_2021_id":"4222",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO09",
+    "eurostat:nuts_2021_level_3":"NO092",
+    "eurostat:nuts_2021_level_lau":"4222",
+    "eurostat:population":965,
+    "eurostat:population_year":2020,
     "geom:area":0.232083,
+    "geom:area_square_m":1459197308.032184,
     "geom:bbox":"6.824533,59.181916,7.625633,59.672687",
     "geom:latitude":59.437634,
     "geom:longitude":7.203753,
@@ -28,6 +41,8 @@
     "reversegeo:longitude":7.211521,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -36,10 +51,12 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":578054,
+        "eg:gisco_id":"NO_4222",
+        "eurostat:nuts_2021_id":"4222",
         "no-geonorge:kommunenum":4222
     },
     "wof:country":"NO",
-    "wof:geomhash":"cc29942f706253f4c26018f6fbb04faa",
+    "wof:geomhash":"4ef18233b9ae823e4f02beb65a445506",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,10 +75,12 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1584030619,
+    "wof:lastmodified":1684354128,
     "wof:name":"Bykle",
     "wof:parent_id":1527947265,
     "wof:placetype":"localadmin",
+    "wof:population":965,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -6,7 +6,20 @@
     "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_1507",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u00c5lesund",
+    "eurostat:nuts_2021_id":"1507",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO0A",
+    "eurostat:nuts_2021_level_3":"NO0A3",
+    "eurostat:nuts_2021_level_lau":"1507",
+    "eurostat:population":66258,
+    "eurostat:population_year":2020,
     "geom:area":0.109866,
+    "geom:area_square_m":626468573.761128,
     "geom:bbox":"6.083653,62.413264,7.120459,62.904238",
     "geom:latitude":62.539127,
     "geom:longitude":6.58234,
@@ -28,6 +41,8 @@
     "reversegeo:longitude":6.748347,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -36,6 +51,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":578004,
+        "eg:gisco_id":"NO_1507",
+        "eurostat:nuts_2021_id":"1507",
         "no-geonorge:kommunenum":1507
     },
     "wof:concordances_alt":{
@@ -46,7 +63,7 @@
         ]
     },
     "wof:country":"NO",
-    "wof:geomhash":"aa2256c004cc9be97664b7a987e96ff5",
+    "wof:geomhash":"577d99146268ef25e03c4df7bed5d9d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +82,12 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1617131370,
+    "wof:lastmodified":1684354132,
     "wof:name":"\u00c5lesund",
     "wof:parent_id":85687123,
     "wof:placetype":"localadmin",
+    "wof:population":66258,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[

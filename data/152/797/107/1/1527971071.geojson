@@ -6,7 +6,20 @@
     "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_3824",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tokke",
+    "eurostat:nuts_2021_id":"3824",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO09",
+    "eurostat:nuts_2021_level_3":"NO091",
+    "eurostat:nuts_2021_level_lau":"3824",
+    "eurostat:population":2201,
+    "eurostat:population_year":2020,
     "geom:area":0.155863,
+    "geom:area_square_m":979268992.220342,
     "geom:bbox":"7.51455,59.32664,8.339962,59.601069",
     "geom:latitude":59.461987,
     "geom:longitude":7.911361,
@@ -28,6 +41,8 @@
     "reversegeo:longitude":7.779869,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -36,10 +51,12 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":578380,
+        "eg:gisco_id":"NO_3824",
+        "eurostat:nuts_2021_id":"3824",
         "no-geonorge:kommunenum":3824
     },
     "wof:country":"NO",
-    "wof:geomhash":"07b6dcc2291ee4d553ac3ea3aa71d485",
+    "wof:geomhash":"3e2d6125ca45fdd5cce41807295d8c2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,10 +75,12 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1584030624,
+    "wof:lastmodified":1684354130,
     "wof:name":"Tokke",
     "wof:parent_id":1527947267,
     "wof:placetype":"localadmin",
+    "wof:population":2201,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[

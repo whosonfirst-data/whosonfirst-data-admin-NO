@@ -6,7 +6,20 @@
     "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_1135",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sauda",
+    "eurostat:nuts_2021_id":"1135",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO0A",
+    "eurostat:nuts_2021_level_3":"NO0A1",
+    "eurostat:nuts_2021_level_lau":"1135",
+    "eurostat:population":4595,
+    "eurostat:population_year":2020,
     "geom:area":0.087148,
+    "geom:area_square_m":543624653.901142,
     "geom:bbox":"6.178095,59.562604,6.693511,59.844574",
     "geom:latitude":59.703404,
     "geom:longitude":6.451226,
@@ -28,6 +41,8 @@
     "reversegeo:longitude":6.451217,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -36,10 +51,12 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":578315,
+        "eg:gisco_id":"NO_1135",
+        "eurostat:nuts_2021_id":"1135",
         "no-geonorge:kommunenum":1135
     },
     "wof:country":"NO",
-    "wof:geomhash":"568c5207d662f9663c6ff0d1591c1aad",
+    "wof:geomhash":"5b2d7b912df8cac1c8b263acc4a77b56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,10 +75,12 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1617129877,
+    "wof:lastmodified":1684354135,
     "wof:name":"Sauda",
     "wof:parent_id":85687085,
     "wof:placetype":"localadmin",
+    "wof:population":4595,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -6,7 +6,20 @@
     "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_1539",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rauma",
+    "eurostat:nuts_2021_id":"1539",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO0A",
+    "eurostat:nuts_2021_level_3":"NO0A3",
+    "eurostat:nuts_2021_level_lau":"1539",
+    "eurostat:population":7468,
+    "eurostat:population_year":2020,
     "geom:area":0.261093,
+    "geom:area_square_m":1493193590.775178,
     "geom:bbox":"7.203135,62.170778,8.205852,62.713893",
     "geom:latitude":62.450809,
     "geom:longitude":7.757627,
@@ -28,6 +41,8 @@
     "reversegeo:longitude":7.88293,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -36,10 +51,12 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":578286,
+        "eg:gisco_id":"NO_1539",
+        "eurostat:nuts_2021_id":"1539",
         "no-geonorge:kommunenum":1539
     },
     "wof:country":"NO",
-    "wof:geomhash":"a231bda7b5859164e39e4db1b5da43e0",
+    "wof:geomhash":"7e88db763dff56e0b4c944d3d69db56f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,10 +75,12 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1617131268,
+    "wof:lastmodified":1684354131,
     "wof:name":"Rauma",
     "wof:parent_id":85687123,
     "wof:placetype":"localadmin",
+    "wof:population":7468,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[

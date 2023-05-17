@@ -6,7 +6,20 @@
     "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_5056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hitra",
+    "eurostat:nuts_2021_id":"5056",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO06",
+    "eurostat:nuts_2021_level_3":"NO060",
+    "eurostat:nuts_2021_level_lau":"5056",
+    "eurostat:population":5050,
+    "eurostat:population_year":2020,
     "geom:area":0.135806,
+    "geom:area_square_m":748207280.798901,
     "geom:bbox":"8.234475,63.410886,9.436538,63.688866",
     "geom:latitude":63.541067,
     "geom:longitude":8.786927,
@@ -28,6 +41,8 @@
     "reversegeo:longitude":8.815243,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -36,10 +51,12 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":578141,
+        "eg:gisco_id":"NO_5056",
+        "eurostat:nuts_2021_id":"5056",
         "no-geonorge:kommunenum":5056
     },
     "wof:country":"NO",
-    "wof:geomhash":"9f244910d49d112af58daaaffe5255d1",
+    "wof:geomhash":"20787f85389a932e3a6a7407f04377bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,10 +75,12 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1584030628,
+    "wof:lastmodified":1684354137,
     "wof:name":"Hitra",
     "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",
+    "wof:population":5050,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[

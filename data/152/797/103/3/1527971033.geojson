@@ -6,7 +6,20 @@
     "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_4631",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alver",
+    "eurostat:nuts_2021_id":"4631",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO0A",
+    "eurostat:nuts_2021_level_3":"NO0A2",
+    "eurostat:nuts_2021_level_lau":"4631",
+    "eurostat:population":29224,
+    "eurostat:population_year":2020,
     "geom:area":0.111073,
+    "geom:area_square_m":672732728.786563,
     "geom:bbox":"4.827071,60.505023,5.713821,60.852778",
     "geom:latitude":60.671505,
     "geom:longitude":5.282574,
@@ -28,6 +41,8 @@
     "reversegeo:longitude":5.291527,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -36,6 +51,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":578200,
+        "eg:gisco_id":"NO_4631",
+        "eurostat:nuts_2021_id":"4631",
         "no-geonorge:kommunenum":4631
     },
     "wof:concordances_alt":{
@@ -45,7 +62,7 @@
         ]
     },
     "wof:country":"NO",
-    "wof:geomhash":"ae5dfa6c7276fea36236449770b850e4",
+    "wof:geomhash":"b7e74bab38c8584b59b27d28e909311b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,10 +81,12 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1617130552,
+    "wof:lastmodified":1684354127,
     "wof:name":"Alver",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",
+    "wof:population":29224,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[

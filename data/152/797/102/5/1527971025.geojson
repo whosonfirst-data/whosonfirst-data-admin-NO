@@ -6,7 +6,20 @@
     "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_4638",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"H\u00f8yanger",
+    "eurostat:nuts_2021_id":"4638",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO0A",
+    "eurostat:nuts_2021_level_3":"NO0A2",
+    "eurostat:nuts_2021_level_lau":"4638",
+    "eurostat:population":4101,
+    "eurostat:population_year":2020,
     "geom:area":0.167651,
+    "geom:area_square_m":1000619171.347372,
     "geom:bbox":"5.394441,60.9515,6.411125,61.297819",
     "geom:latitude":61.13908,
     "geom:longitude":5.925408,
@@ -28,6 +41,8 @@
     "reversegeo:longitude":5.951564,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -36,10 +51,12 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":578152,
+        "eg:gisco_id":"NO_4638",
+        "eurostat:nuts_2021_id":"4638",
         "no-geonorge:kommunenum":4638
     },
     "wof:country":"NO",
-    "wof:geomhash":"66df48a0c1f4dd03d3ad942dcb64416a",
+    "wof:geomhash":"5c11d2d386cb4643ffec1da2479679a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,10 +75,12 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1617130311,
+    "wof:lastmodified":1684354127,
     "wof:name":"H\u00f8yanger",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",
+    "wof:population":4101,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[

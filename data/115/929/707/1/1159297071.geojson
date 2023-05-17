@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_3811",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"F\u00e6rder",
+    "eurostat:nuts_2021_id":"3811",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO09",
+    "eurostat:nuts_2021_level_3":"NO091",
+    "eurostat:nuts_2021_level_lau":"3811",
+    "eurostat:population":26730,
+    "eurostat:population_year":2020,
     "geom:area":0.015142,
-    "geom:area_square_m":850619782.647629,
+    "geom:area_square_m":95963531.941616,
     "geom:bbox":"10.334535,59.023697,10.595857,59.267706",
     "geom:latitude":59.167338,
     "geom:longitude":10.420371,
@@ -37,6 +49,8 @@
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -45,6 +59,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":578258,
+        "eg:gisco_id":"NO_3811",
+        "eurostat:nuts_2021_id":"3811",
         "no-geonorge:kommunenum":3811
     },
     "wof:concordances_alt":{
@@ -54,7 +70,7 @@
     },
     "wof:country":"NO",
     "wof:created":1524595862,
-    "wof:geomhash":"a3c5904d9e85677d45ca7e9aa33727e5",
+    "wof:geomhash":"a1b14bd79fe1c0af016dfd81842b328d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,11 +89,13 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1617131244,
+    "wof:lastmodified":1684354089,
     "wof:name":"F\u00e6rder",
     "wof:parent_id":1527947267,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":26730,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded":[],
     "wof:superseded_by":[],

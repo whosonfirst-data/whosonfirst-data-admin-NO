@@ -6,7 +6,20 @@
     "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_4647",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sunnfjord",
+    "eurostat:nuts_2021_id":"4647",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO0A",
+    "eurostat:nuts_2021_level_3":"NO0A2",
+    "eurostat:nuts_2021_level_lau":"4647",
+    "eurostat:population":22030,
+    "eurostat:population_year":2020,
     "geom:area":0.371882,
+    "geom:area_square_m":2196285920.445954,
     "geom:bbox":"5.262511,61.23469,6.854307,61.701688",
     "geom:latitude":61.469852,
     "geom:longitude":6.113438,
@@ -28,6 +41,8 @@
     "reversegeo:longitude":6.113428,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -36,6 +51,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":578090,
+        "eg:gisco_id":"NO_4647",
+        "eurostat:nuts_2021_id":"4647",
         "no-geonorge:kommunenum":4647
     },
     "wof:concordances_alt":{
@@ -46,7 +63,7 @@
         ]
     },
     "wof:country":"NO",
-    "wof:geomhash":"ccfde284b4192844ac5b2855dc86332e",
+    "wof:geomhash":"fbcbfa47904f02615cc711cf7e414e81",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +82,12 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1617131441,
+    "wof:lastmodified":1684354127,
     "wof:name":"Sunnfjord",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",
+    "wof:population":22030,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[

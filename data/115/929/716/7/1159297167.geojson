@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_0301",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oslo kommune",
+    "eurostat:nuts_2021_id":"0301",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO08",
+    "eurostat:nuts_2021_level_3":"NO081",
+    "eurostat:nuts_2021_level_lau":"0301",
+    "eurostat:population":693494,
+    "eurostat:population_year":2020,
     "geom:area":0.072969,
-    "geom:area_square_m":451394820.8494,
+    "geom:area_square_m":451394820.849389,
     "geom:bbox":"10.489165,59.809311,10.951389,60.135106",
     "geom:latitude":59.981202,
     "geom:longitude":10.739271,
@@ -577,6 +589,8 @@
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -585,6 +599,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":578270,
+        "eg:gisco_id":"NO_0301",
+        "eurostat:nuts_2021_id":"0301",
         "no-geonorge:kommunenum":301
     },
     "wof:coterminous":[
@@ -593,7 +609,7 @@
     ],
     "wof:country":"NO",
     "wof:created":1524595900,
-    "wof:geomhash":"d060f8e8acd78a0074ab8412becfb361",
+    "wof:geomhash":"461494b0016e0b051a48fd5449ec7542",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -612,11 +628,13 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1617129867,
+    "wof:lastmodified":1684354095,
     "wof:name":"Oslo",
     "wof:parent_id":85687089,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":693494,
+    "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded":[],
     "wof:superseded_by":[],

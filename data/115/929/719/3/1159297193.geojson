@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_3804",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sandefjord",
+    "eurostat:nuts_2021_id":"3804",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO09",
+    "eurostat:nuts_2021_level_3":"NO091",
+    "eurostat:nuts_2021_level_lau":"3804",
+    "eurostat:population":63764,
+    "eurostat:population_year":2020,
     "geom:area":0.066195,
-    "geom:area_square_m":603334688.304253,
+    "geom:area_square_m":418660244.157693,
     "geom:bbox":"9.992562,59.041809,10.378379,59.388518",
     "geom:latitude":59.236979,
     "geom:longitude":10.180579,
@@ -175,6 +187,8 @@
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -183,6 +197,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":578311,
+        "eg:gisco_id":"NO_3804",
+        "eurostat:nuts_2021_id":"3804",
         "no-geonorge:kommunenum":3804
     },
     "wof:concordances_alt":{
@@ -193,7 +209,7 @@
     },
     "wof:country":"NO",
     "wof:created":1524595921,
-    "wof:geomhash":"287e4a2e17b1af148713f580f3e00bce",
+    "wof:geomhash":"ac96e1113c218bb4b87950f1fd9ee72d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -212,11 +228,13 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1617129933,
+    "wof:lastmodified":1684354097,
     "wof:name":"Sandefjord",
     "wof:parent_id":1527947267,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":63764,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded":[],
     "wof:superseded_by":[],

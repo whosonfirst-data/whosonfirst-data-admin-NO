@@ -6,7 +6,20 @@
     "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_5412",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tjeldsund",
+    "eurostat:nuts_2021_id":"5412",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO07",
+    "eurostat:nuts_2021_level_3":"NO074",
+    "eurostat:nuts_2021_level_lau":"5412",
+    "eurostat:population":4216,
+    "eurostat:population_year":2020,
     "geom:area":0.178584,
+    "geom:area_square_m":806671034.045025,
     "geom:bbox":"15.996674,68.386655,17.547589,68.721038",
     "geom:latitude":68.573757,
     "geom:longitude":16.718057,
@@ -28,6 +41,8 @@
     "reversegeo:longitude":16.972078,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -36,6 +51,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":578378,
+        "eg:gisco_id":"NO_5412",
+        "eurostat:nuts_2021_id":"5412",
         "no-geonorge:kommunenum":5412
     },
     "wof:concordances_alt":{
@@ -44,7 +61,7 @@
         ]
     },
     "wof:country":"NO",
-    "wof:geomhash":"bcb782f68efaa773a4ee7aec79b13d9a",
+    "wof:geomhash":"e962d5c13295356bb4e5ef5c5c7b7467",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +80,12 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1617131248,
+    "wof:lastmodified":1684354133,
     "wof:name":"Tjeldsund",
     "wof:parent_id":1527947259,
     "wof:placetype":"localadmin",
+    "wof:population":4216,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[

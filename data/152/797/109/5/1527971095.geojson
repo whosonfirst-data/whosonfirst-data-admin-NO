@@ -6,7 +6,20 @@
     "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_5406",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hammerfest",
+    "eurostat:nuts_2021_id":"5406",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO07",
+    "eurostat:nuts_2021_level_3":"NO074",
+    "eurostat:nuts_2021_level_lau":"5406",
+    "eurostat:population":11448,
+    "eurostat:population_year":2020,
     "geom:area":0.646896,
+    "geom:area_square_m":2672435890.491337,
     "geom:bbox":"22.699346,70.096523,24.977208,70.924265",
     "geom:latitude":70.482515,
     "geom:longitude":23.90988,
@@ -49,6 +62,8 @@
     "reversegeo:longitude":24.106797,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -57,6 +72,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":578129,
+        "eg:gisco_id":"NO_5406",
+        "eurostat:nuts_2021_id":"5406",
         "no-geonorge:kommunenum":5406
     },
     "wof:concordances_alt":{
@@ -65,7 +82,7 @@
         ]
     },
     "wof:country":"NO",
-    "wof:geomhash":"7eadc6e5ce637f72c9a1fe54829dcd40",
+    "wof:geomhash":"896da35bc1d1ead428490144ce61a960",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +101,12 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1636494774,
+    "wof:lastmodified":1684354133,
     "wof:name":"Hammerfest",
     "wof:parent_id":1527947259,
     "wof:placetype":"localadmin",
+    "wof:population":11448,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[

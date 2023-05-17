@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_3805",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Larvik",
+    "eurostat:nuts_2021_id":"3805",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO09",
+    "eurostat:nuts_2021_level_3":"NO091",
+    "eurostat:nuts_2021_level_lau":"3805",
+    "eurostat:population":47204,
+    "eurostat:population_year":2020,
     "geom:area":0.12738,
-    "geom:area_square_m":806237384.195976,
+    "geom:area_square_m":806237384.19597,
     "geom:bbox":"9.755336,58.937354,10.237072,59.473029",
     "geom:latitude":59.211326,
     "geom:longitude":9.959024,
@@ -181,6 +193,8 @@
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -189,6 +203,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":578186,
+        "eg:gisco_id":"NO_3805",
+        "eurostat:nuts_2021_id":"3805",
         "no-geonorge:kommunenum":3805
     },
     "wof:concordances_alt":{
@@ -198,7 +214,7 @@
     },
     "wof:country":"NO",
     "wof:created":1524595757,
-    "wof:geomhash":"c9ae6809127e2c5847ecde41f3552539",
+    "wof:geomhash":"407734dc8c5df2df58065fb0fa7d4107",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -217,11 +233,13 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1587587489,
+    "wof:lastmodified":1684354072,
     "wof:name":"Larvik",
     "wof:parent_id":1527947267,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":47204,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded":[],
     "wof:superseded_by":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_3436",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nord-Fron",
+    "eurostat:nuts_2021_id":"3436",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO02",
+    "eurostat:nuts_2021_level_3":"NO020",
+    "eurostat:nuts_2021_level_lau":"3436",
+    "eurostat:population":5723,
+    "eurostat:population_year":2020,
     "geom:area":0.192833,
-    "geom:area_square_m":1134692745.666219,
+    "geom:area_square_m":1134692821.469949,
     "geom:bbox":"8.899646,61.340888,10.014959,61.86631",
     "geom:latitude":61.58337,
     "geom:longitude":9.522912,
@@ -133,6 +145,8 @@
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -141,6 +155,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":578251,
+        "eg:gisco_id":"NO_3436",
+        "eurostat:nuts_2021_id":"3436",
         "no-geonorge:kommunenum":3436
     },
     "wof:concordances_alt":{
@@ -150,7 +166,7 @@
     },
     "wof:country":"NO",
     "wof:created":1524595850,
-    "wof:geomhash":"3ebf732a3d54615f18dfc57b1d13bef4",
+    "wof:geomhash":"b87c694ea1b855e282884f6f6c0b8408",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,11 +185,13 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1617130012,
+    "wof:lastmodified":1684354086,
     "wof:name":"Nord-Fron",
     "wof:parent_id":1527947263,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":5723,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded":[],
     "wof:superseded_by":[],

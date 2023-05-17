@@ -6,7 +6,20 @@
     "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_3025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Asker",
+    "eurostat:nuts_2021_id":"3025",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO08",
+    "eurostat:nuts_2021_level_3":"NO082",
+    "eurostat:nuts_2021_level_lau":"3025",
+    "eurostat:population":94441,
+    "eurostat:population_year":2020,
     "geom:area":0.059964,
+    "geom:area_square_m":374030110.524027,
     "geom:bbox":"10.310426,59.481934,10.618958,59.905938",
     "geom:latitude":59.705076,
     "geom:longitude":10.463181,
@@ -28,6 +41,8 @@
     "reversegeo:longitude":10.423541,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -36,6 +51,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":578017,
+        "eg:gisco_id":"NO_3025",
+        "eurostat:nuts_2021_id":"3025",
         "no-geonorge:kommunenum":3025
     },
     "wof:concordances_alt":{
@@ -45,7 +62,7 @@
         ]
     },
     "wof:country":"NO",
-    "wof:geomhash":"231d227b1b57a2f39e69a08c37f297ad",
+    "wof:geomhash":"9b1b005f6c1a3e68f18e238108edd747",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,10 +81,12 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1617131072,
+    "wof:lastmodified":1684354126,
     "wof:name":"Asker",
     "wof:parent_id":1527947269,
     "wof:placetype":"localadmin",
+    "wof:population":94441,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[
