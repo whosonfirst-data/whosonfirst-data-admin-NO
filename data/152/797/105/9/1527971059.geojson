@@ -6,7 +6,20 @@
     "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_4228",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sirdal",
+    "eurostat:nuts_2021_id":"4228",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO09",
+    "eurostat:nuts_2021_level_3":"NO092",
+    "eurostat:nuts_2021_level_lau":"4228",
+    "eurostat:population":1822,
+    "eurostat:population_year":2020,
     "geom:area":0.241837,
+    "geom:area_square_m":1546097245.234894,
     "geom:bbox":"6.436069,58.500415,7.20486,59.189687",
     "geom:latitude":58.866873,
     "geom:longitude":6.840259,
@@ -28,6 +41,8 @@
     "reversegeo:longitude":6.808445,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -36,10 +51,12 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":578323,
+        "eg:gisco_id":"NO_4228",
+        "eurostat:nuts_2021_id":"4228",
         "no-geonorge:kommunenum":4228
     },
     "wof:country":"NO",
-    "wof:geomhash":"cc890274b79db442d7c75efd22f7b483",
+    "wof:geomhash":"d4db590769630ffb61637057db825d58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,10 +75,12 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1584030618,
+    "wof:lastmodified":1684354129,
     "wof:name":"Sirdal",
     "wof:parent_id":1527947265,
     "wof:placetype":"localadmin",
+    "wof:population":1822,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[

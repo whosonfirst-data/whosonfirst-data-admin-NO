@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_4649",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stad",
+    "eurostat:nuts_2021_id":"4649",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO0A",
+    "eurostat:nuts_2021_level_3":"NO0A2",
+    "eurostat:nuts_2021_level_lau":"4649",
+    "eurostat:population":9457,
+    "eurostat:population_year":2020,
     "geom:area":0.128835,
+    "geom:area_square_m":748464906.731045,
     "geom:bbox":"5.079079,61.846489,6.477322,62.215687",
     "geom:latitude":61.977119,
     "geom:longitude":5.758742,
@@ -25,6 +38,8 @@
     "reversegeo:longitude":5.938851,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -32,7 +47,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:metro_code":578061
+        "digitalenvoy:metro_code":578061,
+        "eg:gisco_id":"NO_4649",
+        "eurostat:nuts_2021_id":"4649"
     },
     "wof:concordances_alt":{
         "digitalenvoy:metro_code":[
@@ -40,7 +57,7 @@
         ]
     },
     "wof:country":"NO",
-    "wof:geomhash":"d25e344c9c0de0db8bc367c7a23abd48",
+    "wof:geomhash":"54cce9a29dee2c7e9c2c189152a5e1fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,10 +76,12 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1617130078,
+    "wof:lastmodified":1684354139,
     "wof:name":"Stad",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",
+    "wof:population":9457,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[

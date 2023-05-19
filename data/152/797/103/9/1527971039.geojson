@@ -6,7 +6,20 @@
     "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_4645",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Askvoll",
+    "eurostat:nuts_2021_id":"4645",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO0A",
+    "eurostat:nuts_2021_level_3":"NO0A2",
+    "eurostat:nuts_2021_level_lau":"4645",
+    "eurostat:population":3011,
+    "eurostat:population_year":2020,
     "geom:area":0.054607,
+    "geom:area_square_m":323272860.418494,
     "geom:bbox":"4.569255,61.252325,5.553389,61.482431",
     "geom:latitude":61.395119,
     "geom:longitude":5.16798,
@@ -28,6 +41,8 @@
     "reversegeo:longitude":5.270608,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -36,10 +51,12 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":578020,
+        "eg:gisco_id":"NO_4645",
+        "eurostat:nuts_2021_id":"4645",
         "no-geonorge:kommunenum":4645
     },
     "wof:country":"NO",
-    "wof:geomhash":"7e1ac9978a9fbd60e00392aeac6c60ea",
+    "wof:geomhash":"939e1c7ec27563398e04d8fd017f82f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,10 +75,12 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1617130552,
+    "wof:lastmodified":1684354127,
     "wof:name":"Askvoll",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",
+    "wof:population":3011,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[

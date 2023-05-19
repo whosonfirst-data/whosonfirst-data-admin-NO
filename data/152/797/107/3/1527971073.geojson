@@ -6,7 +6,20 @@
     "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_3803",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"T\u00f8nsberg",
+    "eurostat:nuts_2021_id":"3803",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO09",
+    "eurostat:nuts_2021_level_3":"NO091",
+    "eurostat:nuts_2021_level_lau":"3803",
+    "eurostat:population":56293,
+    "eurostat:population_year":2020,
     "geom:area":0.051889,
+    "geom:area_square_m":326950126.451813,
     "geom:bbox":"10.042614,59.23264,10.529259,59.48245",
     "geom:latitude":59.364548,
     "geom:longitude":10.290235,
@@ -28,6 +41,8 @@
     "reversegeo:longitude":10.272586,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -36,6 +51,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":578382,
+        "eg:gisco_id":"NO_3803",
+        "eurostat:nuts_2021_id":"3803",
         "no-geonorge:kommunenum":3803
     },
     "wof:concordances_alt":{
@@ -44,7 +61,7 @@
         ]
     },
     "wof:country":"NO",
-    "wof:geomhash":"945524dbe36bae8868433a8610cfe8e0",
+    "wof:geomhash":"1368e9fc8df83be8d22ee82b6cda4881",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +80,12 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1617131235,
+    "wof:lastmodified":1684354130,
     "wof:name":"T\u00f8nsberg",
     "wof:parent_id":1527947267,
     "wof:placetype":"localadmin",
+    "wof:population":56293,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[

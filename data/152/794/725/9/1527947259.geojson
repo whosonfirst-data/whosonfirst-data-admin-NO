@@ -6,8 +6,22 @@
     "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"NO",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Troms og Finnmark",
+    "eurostat:name_local":"Troms og Finnmark",
+    "eurostat:nuts_2021_id":"NO074",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO07",
+    "eurostat:nuts_2021_level_3":"NO074",
+    "eurostat:population":241736,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"3",
     "geom:area":17.330036,
-    "geom:area_square_m":74268086400.508881,
+    "geom:area_square_m":74268086400.509903,
     "geom:bbox":"15.592542,68.356014,31.168147,71.185515",
     "geom:latitude":69.720513,
     "geom:longitude":23.67876,
@@ -40,6 +54,8 @@
         "Troms og Finnmark"
     ],
     "src:geom":"no-geonorge",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "wof:belongsto":[
         102191581,
         85633341
@@ -48,8 +64,11 @@
     "wof:capital":[
         101751929
     ],
+    "wof:concordances":{
+        "eurostat:nuts_2021_id":"NO074"
+    },
     "wof:country":"NO",
-    "wof:geomhash":"44c48b04e15782fc006d2839e9498774",
+    "wof:geomhash":"6bffadf1d30e5ef528f7c3244be5cdd4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +88,12 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1628266729,
+    "wof:lastmodified":1684351604,
     "wof:name":"Troms og Finnmark",
     "wof:parent_id":85633341,
     "wof:placetype":"region",
+    "wof:population":241736,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[

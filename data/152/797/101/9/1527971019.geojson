@@ -6,7 +6,20 @@
     "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_3030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lillestr\u00f8m",
+    "eurostat:nuts_2021_id":"3030",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO08",
+    "eurostat:nuts_2021_level_3":"NO082",
+    "eurostat:nuts_2021_level_lau":"3030",
+    "eurostat:population":85983,
+    "eurostat:population_year":2020,
     "geom:area":0.073332,
+    "geom:area_square_m":454098710.660086,
     "geom:bbox":"10.933734,59.75385,11.439506,60.077247",
     "geom:latitude":59.94781,
     "geom:longitude":11.206034,
@@ -28,6 +41,8 @@
     "reversegeo:longitude":11.223193,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -36,6 +51,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":578350,
+        "eg:gisco_id":"NO_3030",
+        "eurostat:nuts_2021_id":"3030",
         "no-geonorge:kommunenum":3030
     },
     "wof:concordances_alt":{
@@ -46,7 +63,7 @@
         ]
     },
     "wof:country":"NO",
-    "wof:geomhash":"b9fd15e448f590515f84ef2be9d20493",
+    "wof:geomhash":"7999d52fe57229edf2e41199ebb5c7e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +82,12 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1617130921,
+    "wof:lastmodified":1684354126,
     "wof:name":"Lillestr\u00f8m",
     "wof:parent_id":1527947269,
     "wof:placetype":"localadmin",
+    "wof:population":85983,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[

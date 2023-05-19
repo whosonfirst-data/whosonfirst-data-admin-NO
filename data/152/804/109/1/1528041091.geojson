@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_4621",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Voss",
+    "eurostat:nuts_2021_id":"4621",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO0A",
+    "eurostat:nuts_2021_level_3":"NO0A2",
+    "eurostat:nuts_2021_level_lau":"4621",
+    "eurostat:population":15740,
+    "eurostat:population_year":2020,
     "geom:area":0.33555,
-    "geom:area_square_m":2031342864.151845,
+    "geom:area_square_m":2031342864.151862,
     "geom:bbox":"5.842739,60.429503,6.985868,60.959552",
     "geom:latitude":60.686851,
     "geom:longitude":6.469228,
@@ -26,6 +38,8 @@
     "reversegeo:longitude":6.508113,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -33,7 +47,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:metro_code":578431
+        "digitalenvoy:metro_code":578431,
+        "eg:gisco_id":"NO_4621",
+        "eurostat:nuts_2021_id":"4621"
     },
     "wof:concordances_alt":{
         "digitalenvoy:metro_code":[
@@ -41,7 +57,7 @@
         ]
     },
     "wof:country":"NO",
-    "wof:geomhash":"c641cb16e85e911ec64b194418de5e87",
+    "wof:geomhash":"3d0a9985525b8b071078ffad64b04256",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +76,12 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1587587540,
+    "wof:lastmodified":1684354140,
     "wof:name":"Voss",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",
+    "wof:population":15740,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[

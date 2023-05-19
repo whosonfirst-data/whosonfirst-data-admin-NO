@@ -6,7 +6,20 @@
     "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_4640",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sogndal",
+    "eurostat:nuts_2021_id":"4640",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO0A",
+    "eurostat:nuts_2021_level_3":"NO0A2",
+    "eurostat:nuts_2021_level_lau":"4640",
+    "eurostat:population":11847,
+    "eurostat:population_year":2020,
     "geom:area":0.210616,
+    "geom:area_square_m":1250908454.737314,
     "geom:bbox":"6.251984,61.105753,7.395491,61.570247",
     "geom:latitude":61.293447,
     "geom:longitude":6.789633,
@@ -28,6 +41,8 @@
     "reversegeo:longitude":6.845969,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -36,6 +51,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":578336,
+        "eg:gisco_id":"NO_4640",
+        "eurostat:nuts_2021_id":"4640",
         "no-geonorge:kommunenum":4640
     },
     "wof:concordances_alt":{
@@ -45,7 +62,7 @@
         ]
     },
     "wof:country":"NO",
-    "wof:geomhash":"7a665a783ed410aa1fb4577882e0adef",
+    "wof:geomhash":"01bbd11c88418edd7dd1e9245428960f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,10 +81,12 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1617130654,
+    "wof:lastmodified":1684354128,
     "wof:name":"Sogndal",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",
+    "wof:population":11847,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[

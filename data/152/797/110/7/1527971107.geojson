@@ -6,7 +6,20 @@
     "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_1875",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hamar\u00f8y",
+    "eurostat:nuts_2021_id":"1875",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO07",
+    "eurostat:nuts_2021_level_3":"NO071",
+    "eurostat:nuts_2021_level_lau":"1875",
+    "eurostat:population":2766,
+    "eurostat:population_year":2020,
     "geom:area":0.430348,
+    "geom:area_square_m":2001083776.601108,
     "geom:bbox":"15.275618,67.534026,16.929849,68.266355",
     "geom:latitude":67.910759,
     "geom:longitude":16.170008,
@@ -28,6 +41,8 @@
     "reversegeo:longitude":16.341186,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -36,6 +51,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":578393,
+        "eg:gisco_id":"NO_1875",
+        "eurostat:nuts_2021_id":"1875",
         "no-geonorge:kommunenum":1875
     },
     "wof:concordances_alt":{
@@ -44,7 +61,7 @@
         ]
     },
     "wof:country":"NO",
-    "wof:geomhash":"57e94dafbc0d2848fbdc2acbf4b667d6",
+    "wof:geomhash":"6fded22acf922018175cfffb4cf92678",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +80,12 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1584030621,
+    "wof:lastmodified":1684354134,
     "wof:name":"Hamar\u00f8y",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",
+    "wof:population":2766,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[

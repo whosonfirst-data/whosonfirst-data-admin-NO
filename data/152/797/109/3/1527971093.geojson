@@ -6,7 +6,20 @@
     "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_1506",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Molde",
+    "eurostat:nuts_2021_id":"1506",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO0A",
+    "eurostat:nuts_2021_level_3":"NO0A3",
+    "eurostat:nuts_2021_level_lau":"1506",
+    "eurostat:population":31967,
+    "eurostat:population_year":2020,
     "geom:area":0.262994,
+    "geom:area_square_m":1494624487.747384,
     "geom:bbox":"6.514603,62.331744,8.731647,62.871439",
     "geom:latitude":62.638252,
     "geom:longitude":7.901644,
@@ -34,6 +47,8 @@
     "reversegeo:longitude":7.977979,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -42,6 +57,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":578229,
+        "eg:gisco_id":"NO_1506",
+        "eurostat:nuts_2021_id":"1506",
         "no-geonorge:kommunenum":1506
     },
     "wof:concordances_alt":{
@@ -51,7 +68,7 @@
         ]
     },
     "wof:country":"NO",
-    "wof:geomhash":"4ae2fcf4e88f0353fc4cc7a32d8cbecb",
+    "wof:geomhash":"25a09a771f906fa1835ad370105051b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,10 +87,12 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1636494774,
+    "wof:lastmodified":1684354132,
     "wof:name":"Molde",
     "wof:parent_id":85687123,
     "wof:placetype":"localadmin",
+    "wof:population":31967,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[

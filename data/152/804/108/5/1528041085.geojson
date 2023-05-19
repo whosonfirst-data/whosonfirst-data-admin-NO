@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_3026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aurskog-H\u00f8land",
+    "eurostat:nuts_2021_id":"3026",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO08",
+    "eurostat:nuts_2021_level_3":"NO082",
+    "eurostat:nuts_2021_level_lau":"3026",
+    "eurostat:population":17390,
+    "eurostat:population_year":2020,
     "geom:area":0.183158,
+    "geom:area_square_m":1138542828.401561,
     "geom:bbox":"11.274078,59.593646,11.946004,60.023634",
     "geom:latitude":59.820132,
     "geom:longitude":11.613193,
@@ -25,6 +38,8 @@
     "reversegeo:longitude":11.61326,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -32,10 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:metro_code":578026
+        "digitalenvoy:metro_code":578026,
+        "eg:gisco_id":"NO_3026",
+        "eurostat:nuts_2021_id":"3026"
     },
     "wof:country":"NO",
-    "wof:geomhash":"eb9d9f26da5ea4c20860dd55239689bc",
+    "wof:geomhash":"e3a47cf916214c5212b72c61f99c2d7a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,10 +71,12 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1617130077,
+    "wof:lastmodified":1684354139,
     "wof:name":"Aurskog-H\u00f8land",
     "wof:parent_id":1527947269,
     "wof:placetype":"localadmin",
+    "wof:population":17390,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[

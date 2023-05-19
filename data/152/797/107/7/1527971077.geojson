@@ -6,7 +6,20 @@
     "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_3801",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Horten",
+    "eurostat:nuts_2021_id":"3801",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO09",
+    "eurostat:nuts_2021_level_3":"NO091",
+    "eurostat:nuts_2021_level_lau":"3801",
+    "eurostat:population":27351,
+    "eurostat:population_year":2020,
     "geom:area":0.011175,
+    "geom:area_square_m":70333693.365979,
     "geom:bbox":"10.333497,59.341487,10.538843,59.453424",
     "geom:latitude":59.4024,
     "geom:longitude":10.422511,
@@ -28,6 +41,8 @@
     "reversegeo:longitude":10.431853,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -36,10 +51,12 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":578151,
+        "eg:gisco_id":"NO_3801",
+        "eurostat:nuts_2021_id":"3801",
         "no-geonorge:kommunenum":3801
     },
     "wof:country":"NO",
-    "wof:geomhash":"5a6c381ef0a3849c16f1d9ac64c24e42",
+    "wof:geomhash":"9a8bb11926f2ac8f80798406026d0acf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,10 +75,12 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1617129863,
+    "wof:lastmodified":1684354131,
     "wof:name":"Horten",
     "wof:parent_id":1527947267,
     "wof:placetype":"localadmin",
+    "wof:population":27351,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"NO",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"2",
+    "eurostat:name_latin":"Tr\u00f8ndelag",
+    "eurostat:name_local":"Tr\u00f8ndelag",
+    "eurostat:nuts_2021_id":"NO060",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO06",
+    "eurostat:nuts_2021_level_3":"NO060",
+    "eurostat:population":474131,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":7.660351,
-    "geom:area_square_m":41887798448.781883,
+    "geom:area_square_m":41887798448.782806,
     "geom:bbox":"8.13936,62.255727,14.325986,65.39453",
     "geom:latitude":63.75203,
     "geom:longitude":11.364486,
@@ -259,7 +273,8 @@
         "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "wof:belongsto":[
         102191581,
         85633341
@@ -269,6 +284,7 @@
         101814555
     ],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"NO060",
         "gn:id":3144148,
         "iso:id":"NO-50",
         "wd:id":"Q127676",
@@ -278,7 +294,7 @@
     "wof:geom_alt":[
         "whosonfirst-reversegeo"
     ],
-    "wof:geomhash":"974a3fee6a8ad8d20bd62ef63fef683a",
+    "wof:geomhash":"23a454606f7a8c8d5bb3b6f7322f1dfd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -298,12 +314,12 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1617130250,
+    "wof:lastmodified":1684351599,
     "wof:name":"Tr\u00f8ndelag",
     "wof:parent_id":85633341,
     "wof:placetype":"region",
     "wof:placetype_local":"county",
-    "wof:population":450496,
+    "wof:population":474131,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:shortcode":"TR",

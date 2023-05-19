@@ -6,7 +6,20 @@
     "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_4626",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u00d8ygarden",
+    "eurostat:nuts_2021_id":"4626",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO0A",
+    "eurostat:nuts_2021_level_3":"NO0A2",
+    "eurostat:nuts_2021_level_lau":"4626",
+    "eurostat:population":38316,
+    "eurostat:population_year":2020,
     "geom:area":0.049637,
+    "geom:area_square_m":303558424.569905,
     "geom:bbox":"4.69533,60.154336,5.229741,60.721241",
     "geom:latitude":60.357766,
     "geom:longitude":5.01099,
@@ -28,6 +41,8 @@
     "reversegeo:longitude":5.035723,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -36,6 +51,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":578082,
+        "eg:gisco_id":"NO_4626",
+        "eurostat:nuts_2021_id":"4626",
         "no-geonorge:kommunenum":4626
     },
     "wof:concordances_alt":{
@@ -45,7 +62,7 @@
         ]
     },
     "wof:country":"NO",
-    "wof:geomhash":"6dfa8bb5fa7af5aade8af2a19d1fe4e0",
+    "wof:geomhash":"718693377d56a64e2cc7716c3f4fb028",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,10 +81,12 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1584030617,
+    "wof:lastmodified":1684354128,
     "wof:name":"\u00d8ygarden",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",
+    "wof:population":38316,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[

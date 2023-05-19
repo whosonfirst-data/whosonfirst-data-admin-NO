@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"NO",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Oslo",
+    "eurostat:name_local":"Oslo",
+    "eurostat:nuts_2021_id":"NO081",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO08",
+    "eurostat:nuts_2021_level_3":"NO081",
+    "eurostat:population":699827,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"1",
     "geom:area":0.072969,
-    "geom:area_square_m":451394820.849382,
+    "geom:area_square_m":451394820.849387,
     "geom:bbox":"10.489165,59.809311,10.951389,60.135106",
     "geom:latitude":59.981202,
     "geom:longitude":10.739271,
@@ -690,8 +704,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2001-11-03",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"454",
     "statoids:area_mi":"175",
     "statoids:as_of_date":"2001-11-03",
@@ -715,6 +729,7 @@
         1495123997
     ],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"NO081",
         "fips:code":"NO12",
         "gn:id":3143242,
         "gp:id":2346395,
@@ -731,7 +746,7 @@
     "wof:geom_alt":[
         "quattroshapes-reversegeo"
     ],
-    "wof:geomhash":"a04bca4f5abb1fe24e00c4d0b6283d69",
+    "wof:geomhash":"d4cb579a4f4549533afa03ec3bc41979",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -751,12 +766,12 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1617129926,
+    "wof:lastmodified":1684351587,
     "wof:name":"Oslo",
     "wof:parent_id":85633341,
     "wof:placetype":"region",
     "wof:placetype_local":"county",
-    "wof:population":512093,
+    "wof:population":699827,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:shortcode":"OS",

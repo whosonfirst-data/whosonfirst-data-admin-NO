@@ -6,8 +6,22 @@
     "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"NO",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"2",
+    "eurostat:name_latin":"Vestfold og Telemark",
+    "eurostat:name_local":"Vestfold og Telemark",
+    "eurostat:nuts_2021_id":"NO091",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO09",
+    "eurostat:nuts_2021_level_3":"NO091",
+    "eurostat:population":424832,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":2.765805,
-    "geom:area_square_m":17360983470.662922,
+    "geom:area_square_m":17360983470.662994,
     "geom:bbox":"7.096287,58.770254,10.595857,60.188272",
     "geom:latitude":59.492971,
     "geom:longitude":8.718596,
@@ -40,6 +54,8 @@
         "Vestfold og Telemark"
     ],
     "src:geom":"no-geonorge",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "wof:belongsto":[
         102191581,
         85633341
@@ -48,8 +64,11 @@
     "wof:capital":[
         1125829217
     ],
+    "wof:concordances":{
+        "eurostat:nuts_2021_id":"NO091"
+    },
     "wof:country":"NO",
-    "wof:geomhash":"bccc188be200faabbd8a4772b1e1d0a2",
+    "wof:geomhash":"df43efa3d60176bcfebbb6330942c149",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +88,12 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1628266735,
+    "wof:lastmodified":1684351616,
     "wof:name":"Vestfold og Telemark",
     "wof:parent_id":85633341,
     "wof:placetype":"region",
+    "wof:population":424832,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[

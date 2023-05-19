@@ -6,7 +6,20 @@
     "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_3808",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Notodden",
+    "eurostat:nuts_2021_id":"3808",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO09",
+    "eurostat:nuts_2021_level_3":"NO091",
+    "eurostat:nuts_2021_level_lau":"3808",
+    "eurostat:population":13049,
+    "eurostat:population_year":2020,
     "geom:area":0.156634,
+    "geom:area_square_m":978544585.353368,
     "geom:bbox":"8.779281,59.475802,9.515264,59.898287",
     "geom:latitude":59.653058,
     "geom:longitude":9.151935,
@@ -28,6 +41,8 @@
     "reversegeo:longitude":9.188217,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -36,10 +51,12 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":578257,
+        "eg:gisco_id":"NO_3808",
+        "eurostat:nuts_2021_id":"3808",
         "no-geonorge:kommunenum":3808
     },
     "wof:country":"NO",
-    "wof:geomhash":"8e7743f463229329fe9ef1d84a799194",
+    "wof:geomhash":"6aff8cfe19b25db37631c8f1c02933b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,10 +75,12 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1584030623,
+    "wof:lastmodified":1684354131,
     "wof:name":"Notodden",
     "wof:parent_id":1527947267,
     "wof:placetype":"localadmin",
+    "wof:population":13049,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[

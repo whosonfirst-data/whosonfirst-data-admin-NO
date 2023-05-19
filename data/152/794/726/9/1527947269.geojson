@@ -6,8 +6,22 @@
     "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"NO",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"2",
+    "eurostat:name_latin":"Viken",
+    "eurostat:name_local":"Viken",
+    "eurostat:nuts_2021_id":"NO082",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO08",
+    "eurostat:nuts_2021_level_3":"NO082",
+    "eurostat:population":1269230,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":3.963324,
-    "geom:area_square_m":24441560007.486256,
+    "geom:area_square_m":24441560007.486103,
     "geom:bbox":"7.438842,58.876895,11.946004,61.09172",
     "geom:latitude":60.082684,
     "geom:longitude":9.910491,
@@ -40,6 +54,8 @@
         "Viken"
     ],
     "src:geom":"no-geonorge",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "wof:belongsto":[
         102191581,
         85633341
@@ -50,8 +66,11 @@
         1125837795,
         1495123997
     ],
+    "wof:concordances":{
+        "eurostat:nuts_2021_id":"NO082"
+    },
     "wof:country":"NO",
-    "wof:geomhash":"120b5e75e396690b65c8f7a4bc810fae",
+    "wof:geomhash":"a38b96aaa9d1fbf585ecb9c56a47db99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,10 +90,12 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1628266741,
+    "wof:lastmodified":1684351617,
     "wof:name":"Viken",
     "wof:parent_id":85633341,
     "wof:placetype":"region",
+    "wof:population":1269230,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[

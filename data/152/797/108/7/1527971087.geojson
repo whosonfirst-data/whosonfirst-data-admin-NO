@@ -6,7 +6,20 @@
     "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_1520",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u00d8rsta",
+    "eurostat:nuts_2021_id":"1520",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO0A",
+    "eurostat:nuts_2021_level_3":"NO0A3",
+    "eurostat:nuts_2021_level_lau":"1520",
+    "eurostat:population":10825,
+    "eurostat:population_year":2020,
     "geom:area":0.114203,
+    "geom:area_square_m":658004482.201328,
     "geom:bbox":"5.951389,62.099228,6.784127,62.3758",
     "geom:latitude":62.227436,
     "geom:longitude":6.340985,
@@ -28,6 +41,8 @@
     "reversegeo:longitude":6.27745,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -36,10 +51,12 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":578266,
+        "eg:gisco_id":"NO_1520",
+        "eurostat:nuts_2021_id":"1520",
         "no-geonorge:kommunenum":1520
     },
     "wof:country":"NO",
-    "wof:geomhash":"cbc0c7e20ba240cd1df893188685da9e",
+    "wof:geomhash":"8f29e50948bac06849135af15da0d09c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,10 +75,12 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1617131183,
+    "wof:lastmodified":1684354132,
     "wof:name":"\u00d8rsta",
     "wof:parent_id":85687123,
     "wof:placetype":"localadmin",
+    "wof:population":10825,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[

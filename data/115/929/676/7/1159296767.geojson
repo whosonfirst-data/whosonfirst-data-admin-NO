@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_5054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Indre Fosen",
+    "eurostat:nuts_2021_id":"5054",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO06",
+    "eurostat:nuts_2021_level_3":"NO060",
+    "eurostat:nuts_2021_level_lau":"5054",
+    "eurostat:population":10084,
+    "eurostat:population_year":2020,
     "geom:area":0.198711,
-    "geom:area_square_m":1373681793.161376,
+    "geom:area_square_m":1089457286.33502,
     "geom:bbox":"9.80266,63.486262,10.845725,63.86568",
     "geom:latitude":63.679432,
     "geom:longitude":10.280007,
@@ -61,6 +73,8 @@
     "src:geom":"no-geonorge",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -69,6 +83,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":578192,
+        "eg:gisco_id":"NO_5054",
+        "eurostat:nuts_2021_id":"5054",
         "no-geonorge:kommunenum":5054
     },
     "wof:concordances_alt":{
@@ -78,7 +94,7 @@
     },
     "wof:country":"NO",
     "wof:created":1524595755,
-    "wof:geomhash":"c3e8d87022e4caf2306cd58a7aa53a7d",
+    "wof:geomhash":"9bafc4ba8de2f00e55e31d8a811b25c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,11 +113,13 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1584030672,
+    "wof:lastmodified":1684354071,
     "wof:name":"Indre Fosen",
     "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":10084,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded":[],
     "wof:superseded_by":[],

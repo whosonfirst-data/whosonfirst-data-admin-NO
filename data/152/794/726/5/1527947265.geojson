@@ -6,8 +6,22 @@
     "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"NO",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"2",
+    "eurostat:name_latin":"Agder",
+    "eurostat:name_local":"Agder",
+    "eurostat:nuts_2021_id":"NO092",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO09",
+    "eurostat:nuts_2021_level_3":"NO092",
+    "eurostat:population":311134,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":2.544347,
-    "geom:area_square_m":16345515710.490788,
+    "geom:area_square_m":16345515710.490648,
     "geom:bbox":"6.376589,57.959392,9.366059,59.672687",
     "geom:latitude":58.697659,
     "geom:longitude":7.624011,
@@ -40,6 +54,8 @@
         "Agder"
     ],
     "src:geom":"no-geonorge",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "wof:belongsto":[
         102191581,
         85633341
@@ -48,8 +64,11 @@
     "wof:capital":[
         101751911
     ],
+    "wof:concordances":{
+        "eurostat:nuts_2021_id":"NO092"
+    },
     "wof:country":"NO",
-    "wof:geomhash":"a03b021239b24483e6e1bd5bb852844c",
+    "wof:geomhash":"0d994bc6b160205fe6e67e2a36ffc2e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +88,12 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1628266615,
+    "wof:lastmodified":1684351614,
     "wof:name":"Agder",
     "wof:parent_id":85633341,
     "wof:placetype":"region",
+    "wof:population":311134,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[

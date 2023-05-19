@@ -4,8 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"NO",
+    "eurostat:level_code":"1",
+    "eurostat:name_latin":"Norge",
+    "eurostat:name_local":"Norge",
+    "eurostat:nuts_2021_id":"NO0",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:population":5425270,
+    "eurostat:population_year":2022,
     "geom:area":60.309075,
-    "geom:area_square_m":320756398324.991333,
+    "geom:area_square_m":320756398324.980774,
     "geom:bbox":"4.640778,57.979527,31.133167,71.183746",
     "geom:latitude":64.457246,
     "geom:longitude":14.088938,
@@ -1302,7 +1311,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:dial":"47",
     "statoids:ds":"N",
     "statoids:fifa":"NOR",
@@ -1327,6 +1337,7 @@
     "wof:concordances":{
         "dbp:id":"Norway",
         "digitalenvoy:country_code":578,
+        "eurostat:nuts_2021_id":"NO0",
         "fb:id":"en.norway",
         "fifa:id":"NOR",
         "fips:code":"NO",
@@ -1356,7 +1367,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "quattroshapes"
     ],
-    "wof:geomhash":"3bac62fa71d47c143083017635efaa7e",
+    "wof:geomhash":"1c424c33f55ceb1569cad8d5f61569c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1375,11 +1386,11 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1617827364,
+    "wof:lastmodified":1684351371,
     "wof:name":"Norway",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
-    "wof:population":5009150,
+    "wof:population":5425270,
     "wof:population_rank":13,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:shortcode":"NO",

@@ -6,8 +6,22 @@
     "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"NO",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Vestland",
+    "eurostat:name_local":"Vestland",
+    "eurostat:nuts_2021_id":"NO0A2",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO0A",
+    "eurostat:nuts_2021_level_3":"NO0A2",
+    "eurostat:population":641292,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":5.600218,
-    "geom:area_square_m":33651274395.250408,
+    "geom:area_square_m":33651274395.250561,
     "geom:bbox":"4.500477,59.475421,8.322053,62.215687",
     "geom:latitude":60.923062,
     "geom:longitude":6.424921,
@@ -40,6 +54,8 @@
         "Vestland"
     ],
     "src:geom":"no-geonorge",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "wof:belongsto":[
         102191581,
         85633341
@@ -48,8 +64,11 @@
     "wof:capital":[
         1495165801
     ],
+    "wof:concordances":{
+        "eurostat:nuts_2021_id":"NO0A2"
+    },
     "wof:country":"NO",
-    "wof:geomhash":"ea49d567674fe9bde6041a84aaefddeb",
+    "wof:geomhash":"decd459e1377d4c36d5f2c2827fe7300",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +88,12 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1628266737,
+    "wof:lastmodified":1684351609,
     "wof:name":"Vestland",
     "wof:parent_id":85633341,
     "wof:placetype":"region",
+    "wof:population":641292,
+    "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[

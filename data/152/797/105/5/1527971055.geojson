@@ -6,7 +6,20 @@
     "date:inception_upper":"2020-01-01",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2020-01-01",
+    "eurostat:country_code":"NO",
+    "eurostat:gisco_id":"NO_4221",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valle",
+    "eurostat:nuts_2021_id":"4221",
+    "eurostat:nuts_2021_level_0":"NO",
+    "eurostat:nuts_2021_level_1":"NO0",
+    "eurostat:nuts_2021_level_2":"NO09",
+    "eurostat:nuts_2021_level_3":"NO092",
+    "eurostat:nuts_2021_level_lau":"4221",
+    "eurostat:population":1164,
+    "eurostat:population_year":2020,
     "geom:area":0.198565,
+    "geom:area_square_m":1258514855.026578,
     "geom:bbox":"6.996384,58.939356,7.821009,59.398819",
     "geom:latitude":59.164737,
     "geom:longitude":7.432119,
@@ -31,6 +44,8 @@
     "reversegeo:longitude":7.391567,
     "src:geom":"no-geonorge",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633341,
@@ -39,10 +54,12 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":578410,
+        "eg:gisco_id":"NO_4221",
+        "eurostat:nuts_2021_id":"4221",
         "no-geonorge:kommunenum":4221
     },
     "wof:country":"NO",
-    "wof:geomhash":"0ad2584faa7874c396303b84e85dd19b",
+    "wof:geomhash":"acaff3d787e637fba16f8e26a9b75010",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,10 +78,12 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1636494773,
+    "wof:lastmodified":1684354129,
     "wof:name":"Valle",
     "wof:parent_id":1527947265,
     "wof:placetype":"localadmin",
+    "wof:population":1164,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
     "wof:supersedes":[
