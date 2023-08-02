@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Austr\u00e5tt"
     ],
+    "name:nld_x_preferred":[
+        "Austr\u00e5tt"
+    ],
     "name:nno_x_preferred":[
         "Austr\u00e5tt i Sandnes"
     ],
@@ -64,11 +67,11 @@
     "woe:name_adm1":"Rogaland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85687085,
         102191581,
         1527971135,
         85633341,
-        1126043661
+        1126043661,
+        85687085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1495147453,
-    "wof:lastmodified":1581021980,
+    "wof:lastmodified":1690849655,
     "wof:name":"Austr\u00e5tt",
     "wof:parent_id":1126043661,
     "wof:placetype":"neighbourhood",

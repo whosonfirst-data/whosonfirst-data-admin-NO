@@ -39,6 +39,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09cd\u09b0\u09bf\u09b8\u09cd\u099f\u09bf\u09af\u09bc\u09be\u09a8\u09b8\u09be\u09a8\u09cd\u09a1"
     ],
+    "name:bjn_x_preferred":[
+        "Kristiansand"
+    ],
     "name:bpy_x_preferred":[
         "\u0995\u09cd\u09b0\u09bf\u09b8\u09cd\u099f\u09bf\u09af\u09bc\u09be\u09a8\u09b8\u09be\u09a8\u09cd\u09a1"
     ],
@@ -75,6 +78,9 @@
     "name:eng_x_preferred":[
         "Kristiansand"
     ],
+    "name:eng_x_variant":[
+        "Kristiansand Municipality"
+    ],
     "name:epo_x_preferred":[
         "Kristiansand"
     ],
@@ -100,6 +106,9 @@
         "Kristiansand"
     ],
     "name:fry_x_preferred":[
+        "Kristiansand"
+    ],
+    "name:gle_x_preferred":[
         "Kristiansand"
     ],
     "name:guj_x_preferred":[
@@ -153,6 +162,9 @@
     "name:lav_x_preferred":[
         "Krisj\u0101nsanna"
     ],
+    "name:lav_x_variant":[
+        "Krisj\u0101nsannas kom\u016bna"
+    ],
     "name:lim_x_preferred":[
         "Kristiansand"
     ],
@@ -164,6 +176,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0915\u094d\u0930\u093f\u0938\u094d\u091f\u093f\u092f\u0928\u0938\u0901\u0921"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0440\u0438\u0441\u0442\u0438\u0458\u0430\u043d\u0441\u0430\u043d"
     ],
     "name:mri_x_preferred":[
         "Kristiansand"
@@ -182,6 +197,9 @@
     ],
     "name:nno_x_preferred":[
         "Kristiansand"
+    ],
+    "name:nno_x_variant":[
+        "Kristiansand kommune"
     ],
     "name:nob_x_preferred":[
         "Kristiansand"
@@ -209,6 +227,9 @@
     ],
     "name:ron_x_preferred":[
         "Kristiansand"
+    ],
+    "name:ron_x_variant":[
+        "Comuna Kristiansand"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0440\u0438\u0441\u0442\u0438\u0430\u043d\u0441\u0430\u043d\u043d"
@@ -243,6 +264,12 @@
     "name:swe_x_preferred":[
         "Kristiansand"
     ],
+    "name:swe_x_variant":[
+        "Kristiansands kommun"
+    ],
+    "name:szl_x_preferred":[
+        "Kristiansand"
+    ],
     "name:tam_x_preferred":[
         "\u0b95\u0bbf\u0bb0\u0bbf\u0bb7\u0bcd\u0b9f\u0bbf\u0baf\u0ba9\u0bcd\u0b9a\u0bbe\u0ba9\u0bcd\u0b9f\u0bcd"
     ],
@@ -255,8 +282,14 @@
     "name:tel_x_preferred":[
         "\u0c15\u0c4d\u0c30\u0c3f\u0c37\u0c4d\u0c1f\u0c3f\u0c2f\u0c28\u0c4d \u0c36\u0c3e\u0c02\u0c21\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u041a\u0440\u0438\u0441\u0442\u0438\u0451\u043d\u0441\u043e\u043d\u043d"
+    ],
     "name:tha_x_preferred":[
         "\u0e04\u0e23\u0e34\u0e2a\u0e40\u0e15\u0e35\u0e22\u0e19\u0e0b\u0e32\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e04\u0e23\u0e34\u0e2a\u0e40\u0e15\u0e35\u0e22\u0e19\u0e0b\u0e31\u0e19\u0e19\u0e4c"
     ],
     "name:tum_x_preferred":[
         "Kristiansand"
@@ -281,6 +314,9 @@
     ],
     "name:war_x_preferred":[
         "Kristiansand"
+    ],
+    "name:wuu_x_preferred":[
+        "\u514b\u91cc\u65af\u8482\u5b89\u6851"
     ],
     "name:zea_x_preferred":[
         "Kristiansand"
@@ -408,8 +444,8 @@
     "wd:wordcount":8277,
     "wof:belongsto":[
         102191581,
-        85633341,
         1527971063,
+        85633341,
         1527947265
     ],
     "wof:breaches":[],
@@ -441,7 +477,7 @@
         }
     ],
     "wof:id":101751911,
-    "wof:lastmodified":1607462722,
+    "wof:lastmodified":1690849416,
     "wof:name":"Kristiansand",
     "wof:parent_id":1527971063,
     "wof:placetype":"locality",

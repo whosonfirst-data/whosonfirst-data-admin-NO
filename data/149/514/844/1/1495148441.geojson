@@ -64,11 +64,20 @@
     "name:fra_x_preferred":[
         "Surnadal"
     ],
+    "name:gle_x_preferred":[
+        "Surnadal"
+    ],
+    "name:isl_x_preferred":[
+        "Surnadal"
+    ],
     "name:ita_x_preferred":[
         "Surnadal"
     ],
     "name:jav_x_preferred":[
         "Surnadal"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30fc\u30ca\u30c0\u30eb"
     ],
     "name:lat_x_preferred":[
         "Surnadal"
@@ -159,11 +168,11 @@
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
     "wof:belongsto":[
-        85687123,
         102191581,
         1159297613,
         85633341,
-        101804083
+        101804083,
+        85687123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -185,7 +194,7 @@
         }
     ],
     "wof:id":1495148441,
-    "wof:lastmodified":1571393312,
+    "wof:lastmodified":1690849643,
     "wof:name":"Surnadal",
     "wof:parent_id":101804083,
     "wof:placetype":"neighbourhood",

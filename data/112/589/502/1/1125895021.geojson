@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Son"
+    ],
     "name:ceb_x_preferred":[
         "Son"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0633\u0648\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0627\u0646"
     ],
     "name:fra_x_preferred":[
         "Son"
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1125895021,
-    "wof:lastmodified":1636494781,
+    "wof:lastmodified":1690849516,
     "wof:name":"Son",
     "wof:parent_id":1159297237,
     "wof:placetype":"locality",

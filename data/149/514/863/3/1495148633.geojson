@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Ytteren"
+    ],
     "name:eng_x_preferred":[
         "Ytteren"
     ],
@@ -35,6 +38,9 @@
         "Ytteren"
     ],
     "name:nld_x_preferred":[
+        "Ytteren"
+    ],
+    "name:nno_x_preferred":[
         "Ytteren"
     ],
     "name:nob_x_preferred":[
@@ -70,11 +76,11 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85687135,
         102191581,
         1159296963,
         85633341,
-        101814635
+        101814635,
+        85687135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1495148633,
-    "wof:lastmodified":1571679376,
+    "wof:lastmodified":1690849654,
     "wof:name":"Ytteren",
     "wof:parent_id":101814635,
     "wof:placetype":"neighbourhood",

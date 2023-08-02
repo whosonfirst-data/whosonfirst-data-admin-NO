@@ -26,6 +26,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:aze_x_preferred":[
+        "Br\u00fcqqen"
+    ],
     "name:bel_x_preferred":[
         "\u041d\u0430\u0431\u044f\u0440\u044d\u0436\u043d\u0430\u044f \u0411\u0435\u0440\u0433\u0435\u043d\u0430"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:eus_x_preferred":[
         "Bryggen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u06cc\u06af\u0646"
     ],
     "name:fin_x_preferred":[
         "Bryggen"
@@ -92,6 +98,9 @@
     "name:ltz_x_preferred":[
         "Bryggen"
     ],
+    "name:mlt_x_preferred":[
+        "Bryggen"
+    ],
     "name:mya_x_preferred":[
         "\u1018\u101b\u1005\u103a\u1002\u1014\u103a"
     ],
@@ -128,6 +137,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e23\u0e35\u0e40\u0e01\u0e47\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e23\u0e34\u0e01\u0e40\u0e01\u0e34\u0e19"
     ],
     "name:tur_x_preferred":[
         "Bryggen"
@@ -203,7 +215,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1582313569,
+    "wof:lastmodified":1690849349,
     "wof:name":"Bryggen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

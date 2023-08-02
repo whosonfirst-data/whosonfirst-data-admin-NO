@@ -25,6 +25,12 @@
     "name:ceb_x_preferred":[
         "Oksval"
     ],
+    "name:dan_x_preferred":[
+        "Oksval"
+    ],
+    "name:deu_x_preferred":[
+        "Oksval"
+    ],
     "name:eng_x_preferred":[
         "Oksval"
     ],
@@ -44,6 +50,9 @@
         "Oksval"
     ],
     "name:nob_x_preferred":[
+        "Oksval"
+    ],
+    "name:nor_x_preferred":[
         "Oksval"
     ],
     "qs_pg:aaroncc":"NO",
@@ -73,11 +82,11 @@
     "woe:name_adm1":"Akershus Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1527947269,
         102191581,
         1159297221,
         85633341,
-        101815561
+        101815561,
+        1527947269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":1495147421,
-    "wof:lastmodified":1581020321,
+    "wof:lastmodified":1690849655,
     "wof:name":"Okseval",
     "wof:parent_id":101815561,
     "wof:placetype":"neighbourhood",

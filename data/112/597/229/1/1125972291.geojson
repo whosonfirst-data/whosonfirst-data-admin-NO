@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Rauland"
+    ],
     "name:deu_x_preferred":[
         "Rauland"
     ],
@@ -30,6 +33,12 @@
     ],
     "name:fra_x_preferred":[
         "Rauland"
+    ],
+    "name:gle_x_preferred":[
+        "Rauland"
+    ],
+    "name:kor_x_preferred":[
+        "\ub808\uc6b8\ub780"
     ],
     "name:msa_x_preferred":[
         "Rauland"
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":1125972291,
-    "wof:lastmodified":1581019621,
+    "wof:lastmodified":1690849542,
     "wof:name":"Sauland",
     "wof:parent_id":1159297225,
     "wof:placetype":"locality",

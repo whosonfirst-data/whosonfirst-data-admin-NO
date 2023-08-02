@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"6.38802323266,62.5454187206,6.38802323266,62.5454187206",
+    "geom:bbox":"6.388023,62.545419,6.388023,62.545419",
     "geom:latitude":62.545419,
     "geom:longitude":6.388023,
     "iso:country":"NO",
@@ -45,6 +45,9 @@
     "name:ces_x_preferred":[
         "\u00c5lesund"
     ],
+    "name:chv_x_preferred":[
+        "\u041e\u043b\u0435\u0441\u0443\u043d\u043d"
+    ],
     "name:cym_x_preferred":[
         "\u00c5lesund"
     ],
@@ -59,6 +62,9 @@
     ],
     "name:eng_x_preferred":[
         "\u00c5lesund"
+    ],
+    "name:eng_x_variant":[
+        "\u00c5lesund Municipality"
     ],
     "name:epo_x_preferred":[
         "\u00c5lesund"
@@ -81,6 +87,9 @@
     "name:fra_x_preferred":[
         "\u00c5lesund"
     ],
+    "name:gle_x_preferred":[
+        "\u00c5lesund"
+    ],
     "name:glg_x_preferred":[
         "Aalesund"
     ],
@@ -91,7 +100,8 @@
         "\u05d0\u05dc\u05e1\u05d5\u05e0\u05d3"
     ],
     "name:heb_x_variant":[
-        "\u05d0\u05d5\u05dc\u05e1\u05d5\u05e0\u05d3"
+        "\u05d0\u05d5\u05dc\u05e1\u05d5\u05e0\u05d3",
+        "\u05d0\u05d5\u05dc\u05e1\u05d5\u05df"
     ],
     "name:hin_x_preferred":[
         "\u0906\u0932\u0947\u0938\u0942\u0902\u0921"
@@ -104,6 +114,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0555\u056c\u0565\u057d\u0578\u0582\u0576"
+    ],
+    "name:ido_x_preferred":[
+        "\u00c5lesund"
     ],
     "name:ind_x_preferred":[
         "\u00c5lesund"
@@ -129,6 +142,9 @@
     "name:lat_x_preferred":[
         "\u00c5lesund"
     ],
+    "name:lav_x_preferred":[
+        "Olesunnas kom\u016bna"
+    ],
     "name:lim_x_preferred":[
         "\u00c5lesund"
     ],
@@ -137,6 +153,9 @@
     ],
     "name:ltz_x_preferred":[
         "\u00c5lesund"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041e\u043b\u044d\u0441\u0443\u043d\u043d"
     ],
     "name:mkd_x_preferred":[
         "\u041e\u043b\u0435\u0441\u0443\u043d\u0434"
@@ -159,6 +178,9 @@
     "name:nno_x_preferred":[
         "\u00c5lesund"
     ],
+    "name:nno_x_variant":[
+        "\u00c5lesund kommune"
+    ],
     "name:nob_x_preferred":[
         "\u00c5lesund"
     ],
@@ -179,6 +201,9 @@
     ],
     "name:ron_x_preferred":[
         "\u00c5lesund"
+    ],
+    "name:ron_x_variant":[
+        "Comuna \u00c5lesund"
     ],
     "name:rus_x_preferred":[
         "\u041e\u043b\u0435\u0441\u0443\u043d\u043d"
@@ -210,6 +235,9 @@
     "name:swe_x_preferred":[
         "\u00c5lesund"
     ],
+    "name:swe_x_variant":[
+        "\u00c5lesunds kommun"
+    ],
     "name:szl_x_preferred":[
         "\u00c5lesund"
     ],
@@ -225,11 +253,17 @@
     "name:ukr_x_preferred":[
         "\u041e\u043b\u0435\u0441\u0443\u043d\u043d"
     ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0644\u0633\u0646\u0688"
+    ],
     "name:vie_x_preferred":[
         "\u00c5lesund"
     ],
     "name:war_x_preferred":[
         "\u00c5lesund"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5965\u52d2\u677e"
     ],
     "name:zho_x_preferred":[
         "\u5965\u52d2\u677e"
@@ -342,7 +376,7 @@
     },
     "wof:country":"NO",
     "wof:created":1499130682,
-    "wof:geomhash":"6e82b7498ac7407299d2cb47182a25ab",
+    "wof:geomhash":"dcfa937952e1ec053f9172f691e8f1cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -353,7 +387,7 @@
         }
     ],
     "wof:id":1141907101,
-    "wof:lastmodified":1581022599,
+    "wof:lastmodified":1690849634,
     "wof:name":"Alesund",
     "wof:parent_id":1527971091,
     "wof:placetype":"locality",
@@ -363,10 +397,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.38802323266043,
-    62.54541872064431,
-    6.38802323266043,
-    62.54541872064431
+    6.388023,
+    62.545419,
+    6.388023,
+    62.545419
 ],
-  "geometry": {"coordinates":[6.38802323266043,62.54541872064431],"type":"Point"}
+  "geometry": {"coordinates":[6.388023,62.545419],"type":"Point"}
 }

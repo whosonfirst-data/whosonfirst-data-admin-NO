@@ -45,6 +45,9 @@
     "name:ben_x_preferred":[
         "\u09b2\u09bf\u09b2\u09c7\u0987\u09b9\u09cd\u09af\u09be\u09ae\u09be\u09b0"
     ],
+    "name:bjn_x_preferred":[
+        "Lillehammer"
+    ],
     "name:bos_x_preferred":[
         "Lillehammer"
     ],
@@ -63,6 +66,9 @@
     "name:ces_x_preferred":[
         "Lillehammer"
     ],
+    "name:ckb_x_preferred":[
+        "\u0644\u06cc\u06b5\u06ce\u06be\u0627\u0645\u06d5\u0631"
+    ],
     "name:cym_x_preferred":[
         "Lillehammer"
     ],
@@ -75,11 +81,15 @@
     "name:ell_x_preferred":[
         "\u039b\u03b9\u03bb\u03b5\u03c7\u03ac\u03bc\u03b5\u03c1"
     ],
+    "name:ell_x_variant":[
+        "\u039b\u03af\u03bb\u03b5\u03c7\u03b1\u03bc\u03b5\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Lillehammer"
     ],
     "name:eng_x_variant":[
-        "XXL"
+        "XXL",
+        "Lillehammer Municipality"
     ],
     "name:epo_x_preferred":[
         "Lillehammer"
@@ -106,6 +116,9 @@
         "Lillehammer"
     ],
     "name:gla_x_preferred":[
+        "Lillehammer"
+    ],
+    "name:gle_x_preferred":[
         "Lillehammer"
     ],
     "name:hbs_x_preferred":[
@@ -159,6 +172,9 @@
     "name:lav_x_preferred":[
         "Lillehammere"
     ],
+    "name:lav_x_variant":[
+        "Lillehammeres kom\u016bna"
+    ],
     "name:lim_x_preferred":[
         "Lillehammer"
     ],
@@ -174,6 +190,9 @@
     "name:nan_x_preferred":[
         "Lillehammer"
     ],
+    "name:nau_x_preferred":[
+        "Lillehammer"
+    ],
     "name:nds_x_preferred":[
         "Lillehammer"
     ],
@@ -182,6 +201,9 @@
     ],
     "name:nno_x_preferred":[
         "Lillehammer"
+    ],
+    "name:nno_x_variant":[
+        "Lillehammer kommune"
     ],
     "name:nob_x_preferred":[
         "Lillehammer"
@@ -210,11 +232,17 @@
     "name:por_x_preferred":[
         "Lillehammer"
     ],
+    "name:pus_x_preferred":[
+        "\u0644\u064a\u0644\u0647 \u0647\u0627\u0645\u0627\u0631"
+    ],
     "name:que_x_preferred":[
         "Lillehammer"
     ],
     "name:ron_x_preferred":[
         "Lillehammer"
+    ],
+    "name:ron_x_variant":[
+        "Comuna Lillehammer"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0438\u043b\u043b\u0435\u0445\u0430\u043c\u043c\u0435\u0440"
@@ -232,6 +260,12 @@
         "Lillehammer"
     ],
     "name:sme_x_preferred":[
+        "Lillehammer"
+    ],
+    "name:smn_x_preferred":[
+        "Lillehammer"
+    ],
+    "name:sms_x_preferred":[
         "Lillehammer"
     ],
     "name:spa_x_preferred":[
@@ -264,6 +298,9 @@
     "name:tha_x_preferred":[
         "\u0e25\u0e34\u0e25\u0e40\u0e25\u0e2e\u0e31\u0e21\u0e40\u0e21\u0e23\u0e4c"
     ],
+    "name:tha_x_variant":[
+        "\u0e25\u0e34\u0e25\u0e40\u0e25\u0e2d\u0e2e\u0e32\u0e40\u0e21\u0e2d\u0e23\u0e4c"
+    ],
     "name:tum_x_preferred":[
         "Lillehammer"
     ],
@@ -281,6 +318,9 @@
     ],
     "name:war_x_preferred":[
         "Lillehammer"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5229\u52d2\u54c8\u9ed8\u5c14"
     ],
     "name:yue_x_preferred":[
         "\u5229\u52d2\u54c8\u9ed8\u723e"
@@ -439,7 +479,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1636494779,
+    "wof:lastmodified":1690849458,
     "wof:name":"Lillehammer",
     "wof:parent_id":1159297519,
     "wof:placetype":"locality",

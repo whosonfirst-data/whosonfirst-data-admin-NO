@@ -6,8 +6,8 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000124,
     "geom:area_square_m":772871.741434,
-    "geom:bbox":"10.8239975282,59.8406749309,10.8416915015,59.8503333159",
-    "geom:latitude":59.846144,
+    "geom:bbox":"10.823998,59.840675,10.841692,59.850333",
+    "geom:latitude":59.846143,
     "geom:longitude":10.832365,
     "gn:id":"",
     "iso:country":"NO",
@@ -26,6 +26,9 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
     "mz:tier_metro":1,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0644"
+    ],
     "name:aze_x_preferred":[
         "Dal"
     ],
@@ -34,6 +37,12 @@
     ],
     "name:bho_x_preferred":[
         "\u0926\u093e\u0932"
+    ],
+    "name:cat_x_preferred":[
+        "Dal"
+    ],
+    "name:ces_x_preferred":[
+        "dal"
     ],
     "name:dan_x_preferred":[
         "Dhal"
@@ -50,8 +59,14 @@
     "name:epo_x_preferred":[
         "Dal"
     ],
+    "name:eus_x_preferred":[
+        "Dal"
+    ],
     "name:fas_x_preferred":[
         "\u0644\u067e\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Dal"
     ],
     "name:fra_x_preferred":[
         "Dal"
@@ -68,6 +83,15 @@
     "name:hye_x_preferred":[
         "\u0534\u0561\u056c"
     ],
+    "name:ind_x_preferred":[
+        "Dal"
+    ],
+    "name:ita_x_preferred":[
+        "Dal"
+    ],
+    "name:jav_x_preferred":[
+        "Dal"
+    ],
     "name:jpn_x_preferred":[
         "\u30c0\u30fc\u30eb"
     ],
@@ -77,6 +101,9 @@
     "name:kor_x_preferred":[
         "\ub2ec"
     ],
+    "name:lat_x_preferred":[
+        "Dal"
+    ],
     "name:lit_x_preferred":[
         "Dal"
     ],
@@ -85,6 +112,12 @@
     ],
     "name:mal_x_preferred":[
         "\u0d2a\u0d30\u0d3f\u0d2a\u0d4d\u0d2a\u0d41\u0d15\u0d31\u0d3f"
+    ],
+    "name:mal_x_variant":[
+        "\u0d2a\u0d30\u0d3f\u0d2a\u0d4d\u0d2a\u0d4d"
+    ],
+    "name:mar_x_preferred":[
+        "\u0926\u093e\u0932"
     ],
     "name:nep_x_preferred":[
         "\u0926\u093e\u0932"
@@ -106,6 +139,9 @@
     ],
     "name:pan_x_preferred":[
         "\u0a26\u0a3e\u0a32"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062f\u0627\u0644"
     ],
     "name:pol_x_preferred":[
         "Dal"
@@ -139,6 +175,12 @@
     ],
     "name:tha_x_preferred":[
         "\u0e16\u0e31\u0e48\u0e27\u0e14\u0e32\u0e25"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0430\u043b"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ee8\u8c46\u9ec4\u7cca\u7cca"
     ],
     "qs:gn_adm0_cc":"NO",
     "qs:gn_id":0,
@@ -184,7 +226,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"11459ff5dc4c6a90938079ae6f491759",
+    "wof:geomhash":"52768846e21e97f971ca02766585c366",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -199,7 +241,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1582313539,
+    "wof:lastmodified":1690849329,
     "wof:name":"Dal",
     "wof:parent_id":1495123997,
     "wof:placetype":"neighbourhood",
@@ -209,10 +251,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    10.82399752823653,
-    59.84067493092526,
-    10.84169150153696,
-    59.85033331590007
+    10.823998,
+    59.840675,
+    10.841692,
+    59.850333
 ],
-  "geometry": {"coordinates":[[[10.83801269530005,59.85033331590007],[10.83801269530005,59.85033325867526],[10.83939825936113,59.85033325867526],[10.84169150153696,59.84805024294458],[10.84145234658217,59.8475741449504],[10.84041269960193,59.84343495969993],[10.83251953122499,59.84343495969993],[10.82974644968255,59.84067493092526],[10.82566632592147,59.84067493092526],[10.8249729118657,59.84205523130014],[10.82399752823653,59.84593856245935],[10.82564057332212,59.8475741449504],[10.82702636718142,59.85033325867526],[10.82702636720001,59.85033331590007],[10.83251953120003,59.85033331590007],[10.83801269530005,59.85033331590007]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[10.838013,59.850333],[10.838013,59.850333],[10.839398,59.850333],[10.841692,59.84805],[10.841452,59.847574],[10.840413,59.843435],[10.83252,59.843435],[10.829746,59.840675],[10.825666,59.840675],[10.824973,59.842055],[10.823998,59.845939],[10.825641,59.847574],[10.827026,59.850333],[10.827026,59.850333],[10.83252,59.850333],[10.838013,59.850333]]],"type":"Polygon"}
 }

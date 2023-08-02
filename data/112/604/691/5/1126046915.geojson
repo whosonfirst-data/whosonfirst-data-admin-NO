@@ -28,6 +28,9 @@
     "name:ast_x_preferred":[
         "Hitra"
     ],
+    "name:bjn_x_preferred":[
+        "Hitra"
+    ],
     "name:bpy_x_preferred":[
         "\u09b9\u09bf\u099f\u09cd\u09b0\u09be"
     ],
@@ -52,6 +55,9 @@
     "name:eng_x_preferred":[
         "Hitra"
     ],
+    "name:eng_x_variant":[
+        "Hitra Municipality"
+    ],
     "name:epo_x_preferred":[
         "Hitra"
     ],
@@ -61,13 +67,25 @@
     "name:eus_x_preferred":[
         "Hitra"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u06cc\u062a\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "Hitra"
     ],
     "name:fra_x_preferred":[
         "Hitra"
     ],
+    "name:gle_x_preferred":[
+        "Hitra"
+    ],
     "name:glg_x_preferred":[
+        "Hitra"
+    ],
+    "name:ind_x_preferred":[
+        "Hitra"
+    ],
+    "name:isl_x_preferred":[
         "Hitra"
     ],
     "name:ita_x_preferred":[
@@ -100,6 +118,9 @@
     "name:nno_x_preferred":[
         "Hitra"
     ],
+    "name:nno_x_variant":[
+        "Hitra kommune"
+    ],
     "name:nob_x_preferred":[
         "Hitra"
     ],
@@ -114,6 +135,9 @@
     ],
     "name:ron_x_preferred":[
         "Hitra"
+    ],
+    "name:ron_x_variant":[
+        "Comuna Hitra"
     ],
     "name:rus_x_preferred":[
         "\u0425\u0438\u0442\u0440\u0430"
@@ -134,6 +158,15 @@
         "Hitra"
     ],
     "name:swe_x_preferred":[
+        "Hitra"
+    ],
+    "name:swe_x_variant":[
+        "Hitra kommun"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2e\u0e35\u0e15\u0e23\u0e32"
+    ],
+    "name:tur_x_preferred":[
         "Hitra"
     ],
     "name:vie_x_preferred":[
@@ -197,7 +230,7 @@
         }
     ],
     "wof:id":1126046915,
-    "wof:lastmodified":1571392956,
+    "wof:lastmodified":1690849497,
     "wof:name":"Hitra",
     "wof:parent_id":1159297259,
     "wof:placetype":"locality",

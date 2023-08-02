@@ -20,14 +20,21 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Stadsbygd Kommune"
+    ],
     "name:eng_x_preferred":[
         "Stadsbygd"
     ],
     "name:eng_x_variant":[
-        "Stadsbygd municipality"
+        "Stadsbygd municipality",
+        "Stadsbygd Municipality"
     ],
     "name:fra_x_preferred":[
         "Stadsbygd"
+    ],
+    "name:gle_x_preferred":[
+        "Bardas Stadsbygd"
     ],
     "name:msa_x_preferred":[
         "Stadsbygd"
@@ -38,6 +45,9 @@
     "name:nno_x_preferred":[
         "Stadsbygd"
     ],
+    "name:nno_x_variant":[
+        "Stadsbygd kommune"
+    ],
     "name:nob_x_preferred":[
         "Stadsbygd"
     ],
@@ -46,6 +56,12 @@
     ],
     "name:ron_x_preferred":[
         "Stadsbygd"
+    ],
+    "name:ron_x_variant":[
+        "Comuna Stadsbygd"
+    ],
+    "name:swe_x_preferred":[
+        "Stadsbygds kommun"
     ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":null,
@@ -95,7 +111,7 @@
         }
     ],
     "wof:id":1125969171,
-    "wof:lastmodified":1571392949,
+    "wof:lastmodified":1690849553,
     "wof:name":"Stadsbygd",
     "wof:parent_id":1159296767,
     "wof:placetype":"locality",

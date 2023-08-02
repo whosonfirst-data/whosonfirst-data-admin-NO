@@ -28,11 +28,17 @@
     "name:ceb_x_preferred":[
         "Vadheim"
     ],
+    "name:dan_x_preferred":[
+        "Vadheim"
+    ],
     "name:eng_x_preferred":[
         "Vadheim"
     ],
     "name:fra_x_preferred":[
         "Vadheim"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\ub4dc\ud5e4\uc784"
     ],
     "name:msa_x_preferred":[
         "Vadheim"
@@ -45,6 +51,9 @@
     ],
     "name:nob_x_preferred":[
         "Vadheim"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0434\u0445\u0435\u0439\u043c"
     ],
     "name:swe_x_preferred":[
         "Vadheim"
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":1125851303,
-    "wof:lastmodified":1581018694,
+    "wof:lastmodified":1690849597,
     "wof:name":"Vadheim",
     "wof:parent_id":1527971025,
     "wof:placetype":"locality",

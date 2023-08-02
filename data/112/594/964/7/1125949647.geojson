@@ -64,11 +64,17 @@
     "name:fra_x_preferred":[
         "Tysnes"
     ],
+    "name:gle_x_preferred":[
+        "Tysnes"
+    ],
     "name:ita_x_preferred":[
         "Tysnes"
     ],
     "name:jav_x_preferred":[
         "Tysnes"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30a3\u30b9\u30cd\u30b9"
     ],
     "name:kat_x_preferred":[
         "\u10e2\u10d8\u10e1\u10dc\u10d4\u10e1\u10d8"
@@ -136,6 +142,9 @@
     "name:swe_x_variant":[
         "Tysnes"
     ],
+    "name:ukr_x_preferred":[
+        "\u0422\u044e\u0441\u043d\u0435\u0441"
+    ],
     "name:vie_x_preferred":[
         "Tysnes"
     ],
@@ -144,6 +153,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5ef7\u65af\u5167\u65af"
+    ],
+    "name:zho_x_variant":[
+        "\u8482\u65af\u5185\u65af"
     ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":"NO",
@@ -197,7 +209,7 @@
         }
     ],
     "wof:id":1125949647,
-    "wof:lastmodified":1581018587,
+    "wof:lastmodified":1690849463,
     "wof:name":"Tysnes",
     "wof:parent_id":1159297223,
     "wof:placetype":"locality",

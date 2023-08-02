@@ -20,6 +20,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Hafslunds\u00f8y"
+    ],
+    "name:dan_x_preferred":[
+        "Hafslunds\u00f8y"
+    ],
     "name:eng_x_preferred":[
         "Hafslunds\u00f8y"
     ],
@@ -27,6 +33,9 @@
         "Hafslunds\u00f8y"
     ],
     "name:nld_x_preferred":[
+        "Hafslunds\u00f8y"
+    ],
+    "name:nno_x_preferred":[
         "Hafslunds\u00f8y"
     ],
     "name:nob_x_preferred":[
@@ -59,11 +68,11 @@
     "woe:name_adm1":"\u00d8stfold Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1527947269,
         102191581,
         1159297543,
         85633341,
-        1125837795
+        1125837795,
+        1527947269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":1495147821,
-    "wof:lastmodified":1581020313,
+    "wof:lastmodified":1690849646,
     "wof:name":"Hafslunds\u00f8y",
     "wof:parent_id":1125837795,
     "wof:placetype":"neighbourhood",

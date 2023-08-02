@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000126,
     "geom:area_square_m":546031.479519,
-    "geom:bbox":"20.1728553796,69.4850232622,20.20240919,69.4938854006",
+    "geom:bbox":"20.172855,69.485023,20.202409,69.493885",
     "geom:latitude":69.490125,
     "geom:longitude":20.189855,
     "iso:country":"NO",
@@ -58,11 +58,17 @@
     "name:chv_x_preferred":[
         "\u0428\u0103\u0440\u043a\u0430"
     ],
+    "name:ckb_x_preferred":[
+        "\u062f\u06d5\u0646\u06a9\u06d5 \u06be\u06d5\u06b5\u0627\u06b5\u06d5"
+    ],
     "name:cym_x_preferred":[
         "Paill"
     ],
     "name:dan_x_preferred":[
         "Pollen"
+    ],
+    "name:dan_x_variant":[
+        "pollen"
     ],
     "name:deu_x_preferred":[
         "Pollen"
@@ -82,6 +88,9 @@
     "name:est_x_preferred":[
         "\u00d5ietolm"
     ],
+    "name:est_x_variant":[
+        "\u00f5ietolm"
+    ],
     "name:eus_x_preferred":[
         "Polen"
     ],
@@ -90,6 +99,9 @@
     ],
     "name:fin_x_preferred":[
         "Siitep\u00f6ly"
+    ],
+    "name:fin_x_variant":[
+        "siitep\u00f6ly"
     ],
     "name:fra_x_preferred":[
         "Pollen"
@@ -120,6 +132,9 @@
     ],
     "name:hrv_x_preferred":[
         "Cvjetni pelud"
+    ],
+    "name:hrv_x_variant":[
+        "cvjetni pelud"
     ],
     "name:hun_x_preferred":[
         "Vir\u00e1gpor"
@@ -181,6 +196,9 @@
     "name:mkd_x_preferred":[
         "\u041f\u043e\u043b\u0435\u043d"
     ],
+    "name:mlg_x_preferred":[
+        "Vovobony"
+    ],
     "name:msa_x_preferred":[
         "Debunga"
     ],
@@ -211,6 +229,9 @@
     "name:pol_x_preferred":[
         "Py\u0142ek"
     ],
+    "name:pol_x_variant":[
+        "py\u0142ek"
+    ],
     "name:por_x_preferred":[
         "P\u00f3len"
     ],
@@ -226,6 +247,9 @@
     "name:rus_x_preferred":[
         "\u041f\u044b\u043b\u044c\u0446\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u043f\u044b\u043b\u044c\u0446\u0430"
+    ],
     "name:scn_x_preferred":[
         "P\u00f2llini"
     ],
@@ -238,8 +262,20 @@
     "name:slk_x_preferred":[
         "V\u010del\u00ed pe\u013e"
     ],
+    "name:slk_x_variant":[
+        "Pe\u013e"
+    ],
     "name:slv_x_preferred":[
         "Pelod"
+    ],
+    "name:slv_x_variant":[
+        "pelod"
+    ],
+    "name:sme_x_preferred":[
+        "lie\u0111\u0111egavja"
+    ],
+    "name:smn_x_preferred":[
+        "lie\u0111ikovj\u00e2"
     ],
     "name:spa_x_preferred":[
         "Polen"
@@ -255,6 +291,9 @@
     ],
     "name:swe_x_preferred":[
         "Pollen"
+    ],
+    "name:swe_x_variant":[
+        "pollen"
     ],
     "name:tam_x_preferred":[
         "\u0bae\u0b95\u0bb0\u0ba8\u0bcd\u0ba4\u0bae\u0bcd"
@@ -280,11 +319,20 @@
     "name:ukr_x_preferred":[
         "\u041f\u0438\u043b\u043e\u043a"
     ],
+    "name:ukr_x_variant":[
+        "\u043f\u0438\u043b\u043e\u043a"
+    ],
     "name:uzb_x_preferred":[
         "Chang donachalari"
     ],
+    "name:vep_x_preferred":[
+        "heid'om"
+    ],
     "name:vie_x_preferred":[
         "Ph\u1ea5n hoa"
+    ],
+    "name:war_x_preferred":[
+        "Pollen"
     ],
     "name:wuu_x_preferred":[
         "\u82b1\u7c89"
@@ -326,7 +374,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5249a01ecea218a840cd6fee473934c8",
+    "wof:geomhash":"f06d395421f2a20c4e24b45b56cb608a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -337,7 +385,7 @@
         }
     ],
     "wof:id":101911323,
-    "wof:lastmodified":1582313602,
+    "wof:lastmodified":1690849459,
     "wof:name":"Pollen",
     "wof:parent_id":1159297359,
     "wof:placetype":"locality",
@@ -347,10 +395,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.17285537959918,
-    69.48502326223439,
-    20.20240919004129,
-    69.49388540058948
+    20.172855,
+    69.485023,
+    20.202409,
+    69.493885
 ],
-  "geometry": {"coordinates":[[[20.20240919004129,69.49294681465022],[20.20157432279825,69.49115621963534],[20.19907718045874,69.49129038897979],[20.19615700691628,69.48502326223439],[20.19116401201683,69.48529141950434],[20.19158087128994,69.48618673550874],[20.18658756313653,69.48645477463066],[20.18783777390092,69.48914075812144],[20.18034670777246,69.48954262663995],[20.17993022884752,69.48864728093838],[20.17743324696704,69.48878116606181],[20.17784962748857,69.48967651774046],[20.17285537959918,69.48994420232964],[20.17368785845076,69.49173492938996],[20.18367702513285,69.49119938224305],[20.18492720335723,69.49388540058948],[20.20240919004129,69.49294681465022]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[20.202409,69.492947],[20.201574,69.491156],[20.199077,69.49129000000001],[20.196157,69.485023],[20.191164,69.485291],[20.191581,69.486187],[20.186588,69.48645500000001],[20.187838,69.489141],[20.180347,69.489543],[20.17993,69.488647],[20.177433,69.488781],[20.17785,69.489677],[20.172855,69.48994399999999],[20.173688,69.49173500000001],[20.183677,69.49119899999999],[20.184927,69.49388500000001],[20.202409,69.492947]]],"type":"Polygon"}
 }

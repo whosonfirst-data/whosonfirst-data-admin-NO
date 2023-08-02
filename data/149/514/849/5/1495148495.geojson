@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Hermansverk"
+    ],
     "name:bar_x_preferred":[
         "Hermansverk"
     ],
@@ -32,6 +35,9 @@
         "Hermansverk"
     ],
     "name:ceb_x_preferred":[
+        "Hermansverk"
+    ],
+    "name:dan_x_preferred":[
         "Hermansverk"
     ],
     "name:deu_x_preferred":[
@@ -52,6 +58,9 @@
     "name:nld_x_preferred":[
         "Hermansverk/Leikanger"
     ],
+    "name:nld_x_variant":[
+        "Hermansverk"
+    ],
     "name:nno_x_preferred":[
         "Hermansverk"
     ],
@@ -67,7 +76,13 @@
     "name:rus_x_preferred":[
         "\u0413\u0435\u0440\u043c\u0430\u043d\u0441\u0432\u0435\u0440\u043a"
     ],
+    "name:rus_x_variant":[
+        "\u0425\u0435\u0440\u043c\u0430\u043d\u0441\u0432\u0435\u0440\u043a"
+    ],
     "name:spa_x_preferred":[
+        "Hermansverk"
+    ],
+    "name:swe_x_preferred":[
         "Hermansverk"
     ],
     "name:ukr_x_preferred":[
@@ -88,11 +103,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        1527947261,
         102191581,
         1527971041,
         85633341,
-        101804041
+        101804041,
+        1527947261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,7 +129,7 @@
         }
     ],
     "wof:id":1495148495,
-    "wof:lastmodified":1581018733,
+    "wof:lastmodified":1690849650,
     "wof:name":"Hermansverk",
     "wof:parent_id":101804041,
     "wof:placetype":"neighbourhood",

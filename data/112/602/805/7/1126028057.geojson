@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Skage"
     ],
+    "name:dan_x_preferred":[
+        "Skage"
+    ],
     "name:eng_x_preferred":[
         "Skage"
     ],
@@ -43,8 +46,14 @@
     "name:nno_x_preferred":[
         "Hunn"
     ],
+    "name:nno_x_variant":[
+        "Skage"
+    ],
     "name:nob_x_preferred":[
         "Hunn"
+    ],
+    "name:nob_x_variant":[
+        "Skage"
     ],
     "name:spa_x_preferred":[
         "Hunn"
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":1126028057,
-    "wof:lastmodified":1571393071,
+    "wof:lastmodified":1690849489,
     "wof:name":"Skage",
     "wof:parent_id":1159297067,
     "wof:placetype":"locality",

@@ -22,7 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Bjerkvik"
+    ],
     "name:ceb_x_preferred":[
+        "Bjerkvik"
+    ],
+    "name:dan_x_preferred":[
+        "Bjerkvik"
+    ],
+    "name:deu_x_preferred":[
         "Bjerkvik"
     ],
     "name:eng_x_preferred":[
@@ -57,6 +66,9 @@
     ],
     "name:sme_x_preferred":[
         "R\u00e1hka"
+    ],
+    "name:sme_x_variant":[
+        "Rahkka"
     ],
     "name:spa_x_preferred":[
         "Bjerkvik"
@@ -103,7 +115,7 @@
         }
     ],
     "wof:id":1125847771,
-    "wof:lastmodified":1581028604,
+    "wof:lastmodified":1690849611,
     "wof:name":"Bj\u00f8rkvang",
     "wof:parent_id":1527971083,
     "wof:placetype":"locality",

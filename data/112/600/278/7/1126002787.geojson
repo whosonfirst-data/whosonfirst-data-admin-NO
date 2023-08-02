@@ -20,6 +20,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Espa"
+    ],
     "name:eng_x_preferred":[
         "Espa"
     ],
@@ -32,10 +35,16 @@
     "name:msa_x_preferred":[
         "Espa"
     ],
+    "name:mzn_x_preferred":[
+        "\u0627\u0634\u067e\u0627"
+    ],
     "name:nld_x_preferred":[
         "Espa"
     ],
     "name:nob_x_preferred":[
+        "Espa"
+    ],
+    "name:tgl_x_preferred":[
         "Espa"
     ],
     "qs_pg:aaroncc":"NO",
@@ -86,7 +95,7 @@
         }
     ],
     "wof:id":1126002787,
-    "wof:lastmodified":1581018991,
+    "wof:lastmodified":1690849576,
     "wof:name":"Espa",
     "wof:parent_id":1159297493,
     "wof:placetype":"locality",

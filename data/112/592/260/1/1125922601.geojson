@@ -25,8 +25,14 @@
     "name:ceb_x_preferred":[
         "Rykene"
     ],
+    "name:dan_x_preferred":[
+        "Rykene"
+    ],
     "name:eng_x_preferred":[
         "Rykene"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u06a9\u0647\u0646\u0627"
     ],
     "name:fra_x_preferred":[
         "Rykene"
@@ -45,6 +51,9 @@
     ],
     "name:nob_x_preferred":[
         "Rygene"
+    ],
+    "name:nob_x_variant":[
+        "Rykene"
     ],
     "name:ron_x_preferred":[
         "Rygene"
@@ -108,7 +117,7 @@
         }
     ],
     "wof:id":1125922601,
-    "wof:lastmodified":1581019429,
+    "wof:lastmodified":1690849477,
     "wof:name":"Rykene",
     "wof:parent_id":1159297075,
     "wof:placetype":"locality",

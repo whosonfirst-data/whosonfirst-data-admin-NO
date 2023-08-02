@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Geithus"
+    ],
     "name:dan_x_preferred":[
         "\u00c5mot"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:spa_x_preferred":[
         "\u00c5mot/Geithus"
+    ],
+    "name:spa_x_variant":[
+        "\u00c5mot"
     ],
     "name:swe_x_preferred":[
         "\u00c5mot"
@@ -122,7 +128,7 @@
         }
     ],
     "wof:id":1125772527,
-    "wof:lastmodified":1581020161,
+    "wof:lastmodified":1690849623,
     "wof:name":"\u00c5mot",
     "wof:parent_id":1159297329,
     "wof:placetype":"locality",

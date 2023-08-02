@@ -39,6 +39,9 @@
     "name:arg_x_preferred":[
         "Oslo"
     ],
+    "name:ary_x_preferred":[
+        "\u0624\u0635\u0644\u0648"
+    ],
     "name:arz_x_preferred":[
         "\u0627\u0648\u0633\u0644\u0648"
     ],
@@ -51,6 +54,9 @@
     "name:ava_x_preferred":[
         "\u041e\u0441\u043b\u043e"
     ],
+    "name:avk_x_preferred":[
+        "Oslo"
+    ],
     "name:aym_x_preferred":[
         "Oslo"
     ],
@@ -59,6 +65,9 @@
     ],
     "name:bak_x_preferred":[
         "\u041e\u0441\u043b\u043e"
+    ],
+    "name:ban_x_preferred":[
+        "Oslo"
     ],
     "name:bar_x_preferred":[
         "Oslo"
@@ -75,6 +84,9 @@
     ],
     "name:ben_x_preferred":[
         "\u0985\u09b8\u09b2\u09cb"
+    ],
+    "name:bho_x_preferred":[
+        "\u0913\u0938\u094d\u0932\u094b"
     ],
     "name:bod_x_preferred":[
         "\u0f68\u0f7c\u0f0b\u0f66\u0f72\u0f0b\u0f63\u0f7c\u0f0d"
@@ -107,6 +119,9 @@
         "Oslo"
     ],
     "name:che_x_preferred":[
+        "\u041e\u0441\u043b\u043e"
+    ],
+    "name:chu_x_preferred":[
         "\u041e\u0441\u043b\u043e"
     ],
     "name:chv_x_preferred":[
@@ -225,6 +240,9 @@
     "name:glv_x_preferred":[
         "Oslo"
     ],
+    "name:got_x_preferred":[
+        "\ud800\udf30\ud800\udf3f\ud800\udf43\ud800\udf3b\ud800\udf49"
+    ],
     "name:gsw_x_preferred":[
         "Oslo"
     ],
@@ -339,8 +357,14 @@
     "name:lav_x_preferred":[
         "Oslo"
     ],
+    "name:lbe_x_preferred":[
+        "\u041e\u0441\u043b\u043e"
+    ],
     "name:lez_x_preferred":[
         "\u041e\u0441\u043b\u043e"
+    ],
+    "name:lfn_x_preferred":[
+        "Oslo"
     ],
     "name:lij_x_preferred":[
         "Oslo"
@@ -371,6 +395,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0913\u0938\u094d\u0932\u094b"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041e\u0441\u043b\u043e"
     ],
     "name:mkd_x_preferred":[
         "\u041e\u0441\u043b\u043e"
@@ -410,6 +437,9 @@
     ],
     "name:nau_x_preferred":[
         "Oslo"
+    ],
+    "name:nav_x_preferred":[
+        "Ts\u012f\u0301\u012f\u0301haltsoo\u00ed"
     ],
     "name:nds_nld_x_preferred":[
         "Oslo"
@@ -538,6 +568,15 @@
     "name:sme_x_preferred":[
         "Oslo"
     ],
+    "name:smj_x_preferred":[
+        "Oslo"
+    ],
+    "name:smn_x_preferred":[
+        "Oslo"
+    ],
+    "name:sms_x_preferred":[
+        "Oslo"
+    ],
     "name:sna_x_preferred":[
         "Oslo"
     ],
@@ -632,6 +671,9 @@
         "Oslo"
     ],
     "name:vie_x_preferred":[
+        "Oslo"
+    ],
+    "name:vls_x_preferred":[
         "Oslo"
     ],
     "name:vol_x_preferred":[
@@ -792,8 +834,8 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        85633341,
         1159297167,
+        85633341,
         85687089
     ],
     "wof:breaches":[],
@@ -828,7 +870,7 @@
         }
     ],
     "wof:id":1495123997,
-    "wof:lastmodified":1608002801,
+    "wof:lastmodified":1690849656,
     "wof:megacity":1,
     "wof:name":"Oslo",
     "wof:parent_id":1159297167,

@@ -47,11 +47,20 @@
     "name:fra_x_preferred":[
         "Rauma"
     ],
+    "name:gle_x_preferred":[
+        "Rauma"
+    ],
+    "name:isl_x_preferred":[
+        "Rauma"
+    ],
     "name:ita_x_preferred":[
         "Rauma"
     ],
     "name:jav_x_preferred":[
         "Rauma"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30a6\u30de"
     ],
     "name:lat_x_preferred":[
         "Rauma"
@@ -143,11 +152,11 @@
     "woe:name_adm1":"M\u00f8re og Romsdal Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85687123,
         102191581,
         1527971081,
         85633341,
-        101804107
+        101804107,
+        85687123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -169,7 +178,7 @@
         }
     ],
     "wof:id":1495147495,
-    "wof:lastmodified":1581022621,
+    "wof:lastmodified":1690849646,
     "wof:name":"Rauma",
     "wof:parent_id":101804107,
     "wof:placetype":"neighbourhood",

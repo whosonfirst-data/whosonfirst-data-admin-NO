@@ -55,10 +55,16 @@
     "name:eus_x_preferred":[
         "Bygland"
     ],
+    "name:fao_x_preferred":[
+        "Byglands kommuna"
+    ],
     "name:fin_x_preferred":[
         "Bygland"
     ],
     "name:fra_x_preferred":[
+        "Bygland"
+    ],
+    "name:gle_x_preferred":[
         "Bygland"
     ],
     "name:hun_x_preferred":[
@@ -69,6 +75,12 @@
     ],
     "name:jav_x_preferred":[
         "Bygland"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30e5\u30b0\u30e9\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\ubdd4\uae00\ub780"
     ],
     "name:lat_x_preferred":[
         "Bygland"
@@ -126,6 +138,9 @@
     ],
     "name:swe_x_preferred":[
         "Bygland"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u044e\u0433\u043b\u0430\u043d"
     ],
     "name:vie_x_preferred":[
         "Bygland"
@@ -188,7 +203,7 @@
         }
     ],
     "wof:id":1125851883,
-    "wof:lastmodified":1581019484,
+    "wof:lastmodified":1690849596,
     "wof:name":"Bygland",
     "wof:parent_id":1159297545,
     "wof:placetype":"locality",

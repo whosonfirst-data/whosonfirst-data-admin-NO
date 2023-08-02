@@ -20,6 +20,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Furnes"
+    ],
+    "name:dan_x_preferred":[
+        "Furnes"
+    ],
     "name:deu_x_preferred":[
         "Furnes"
     ],
@@ -43,6 +49,15 @@
     ],
     "name:nob_x_preferred":[
         "Furnes"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0443\u0440\u043d\u0435\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Furnes"
+    ],
+    "name:zho_x_preferred":[
+        "\u798f\u723e\u5948\u65af"
     ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":null,
@@ -92,7 +107,7 @@
         }
     ],
     "wof:id":1126056263,
-    "wof:lastmodified":1581019013,
+    "wof:lastmodified":1690849491,
     "wof:name":"Furnes",
     "wof:parent_id":1159296699,
     "wof:placetype":"locality",

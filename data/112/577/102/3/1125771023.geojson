@@ -37,6 +37,9 @@
     "name:est_x_preferred":[
         "Talvik"
     ],
+    "name:fkv_x_preferred":[
+        "Talmulahti"
+    ],
     "name:fra_x_preferred":[
         "Talvik"
     ],
@@ -61,6 +64,9 @@
     "name:nor_x_variant":[
         "D\u00e1lmeluokta",
         "Talmulahti"
+    ],
+    "name:sme_x_preferred":[
+        "D\u00e1lbmeluovta"
     ],
     "name:spa_x_preferred":[
         "Talvik"
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":1125771023,
-    "wof:lastmodified":1581017499,
+    "wof:lastmodified":1690849616,
     "wof:name":"Talvik",
     "wof:parent_id":1159296893,
     "wof:placetype":"locality",

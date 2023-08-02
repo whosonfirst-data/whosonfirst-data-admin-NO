@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"8.102916,58.1004475,8.102916,58.1004475",
+    "geom:bbox":"8.102916,58.100448,8.102916,58.100448",
     "geom:latitude":58.100448,
     "geom:longitude":8.102916,
     "gn:country":"NO",
@@ -21,6 +21,9 @@
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
+        "Sk\u00e5levik"
+    ],
+    "name:dan_x_preferred":[
         "Sk\u00e5levik"
     ],
     "name:eng_x_preferred":[
@@ -84,7 +87,7 @@
     },
     "wof:country":"NO",
     "wof:created":1497295884,
-    "wof:geomhash":"1d28358d6b0d684351404e344f9eafed",
+    "wof:geomhash":"2ee2ef9a8d72509c523121e2d39f162a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1125903061,
-    "wof:lastmodified":1581019405,
+    "wof:lastmodified":1690849540,
     "wof:name":"Skalevik",
     "wof:parent_id":1527971063,
     "wof:placetype":"locality",
@@ -106,9 +109,9 @@
 },
   "bbox": [
     8.102916,
-    58.1004475,
+    58.100448,
     8.102916,
-    58.1004475
+    58.100448
 ],
-  "geometry": {"coordinates":[8.102916,58.1004475],"type":"Point"}
+  "geometry": {"coordinates":[8.102916,58.100448],"type":"Point"}
 }

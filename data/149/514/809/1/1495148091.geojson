@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Mathopen"
+    ],
     "name:eng_x_preferred":[
         "Mathopen"
     ],
@@ -73,11 +76,11 @@
     "woe:name_adm1":"Hordaland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1527947261,
         102191581,
         1159297617,
         85633341,
-        1225839579
+        1225839579,
+        1527947261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1495148091,
-    "wof:lastmodified":1581018743,
+    "wof:lastmodified":1690849651,
     "wof:name":"Mathopen",
     "wof:parent_id":1225839579,
     "wof:placetype":"neighbourhood",

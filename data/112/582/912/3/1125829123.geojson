@@ -22,11 +22,20 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Beisfjord"
+    ],
     "name:ceb_x_preferred":[
+        "Beisfjord"
+    ],
+    "name:dan_x_preferred":[
         "Beisfjord"
     ],
     "name:eng_x_preferred":[
         "Beisfjord"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u06cc\u0633\u0641\u06cc\u0648\u0631\u062f"
     ],
     "name:fin_x_preferred":[
         "Beisfjord"
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":1125829123,
-    "wof:lastmodified":1581028611,
+    "wof:lastmodified":1690849581,
     "wof:name":"Beisfjord",
     "wof:parent_id":1527971083,
     "wof:placetype":"locality",

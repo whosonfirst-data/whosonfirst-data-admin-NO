@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Geiranger"
+    ],
     "name:bar_x_preferred":[
         "Geiranger"
     ],
@@ -47,6 +50,9 @@
         "Geiranger"
     ],
     "name:est_x_preferred":[
+        "Geiranger"
+    ],
+    "name:eus_x_preferred":[
         "Geiranger"
     ],
     "name:fin_x_preferred":[
@@ -100,6 +106,9 @@
     "name:rus_x_variant":[
         "\u0413\u0435\u0439\u0440\u0430\u043d\u0433\u0435\u0440"
     ],
+    "name:slv_x_preferred":[
+        "Geiranger"
+    ],
     "name:spa_x_preferred":[
         "Geiranger"
     ],
@@ -148,7 +157,7 @@
         }
     ],
     "wof:id":1125879969,
-    "wof:lastmodified":1571387508,
+    "wof:lastmodified":1690849527,
     "wof:name":"Geiranger",
     "wof:parent_id":1159297131,
     "wof:placetype":"locality",

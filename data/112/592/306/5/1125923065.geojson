@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"8.443379,58.3323285,8.443379,58.3323285",
+    "geom:bbox":"8.443379,58.332329,8.443379,58.332329",
     "geom:latitude":58.332329,
     "geom:longitude":8.443379,
     "gn:country":null,
@@ -21,6 +21,9 @@
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
+        "Reddal"
+    ],
+    "name:dan_x_preferred":[
         "Reddal"
     ],
     "name:eng_x_preferred":[
@@ -81,7 +84,7 @@
     },
     "wof:country":"NO",
     "wof:created":1497296549,
-    "wof:geomhash":"56038633e8de9804903bce386e4663e2",
+    "wof:geomhash":"c2bd925c01da2f74fa2b28cb14d4eed3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1125923065,
-    "wof:lastmodified":1581019430,
+    "wof:lastmodified":1690849474,
     "wof:name":"Reddal",
     "wof:parent_id":1159297075,
     "wof:placetype":"locality",
@@ -103,9 +106,9 @@
 },
   "bbox": [
     8.443379,
-    58.3323285,
+    58.332329,
     8.443379,
-    58.3323285
+    58.332329
 ],
-  "geometry": {"coordinates":[8.443379,58.3323285],"type":"Point"}
+  "geometry": {"coordinates":[8.443379,58.332329],"type":"Point"}
 }

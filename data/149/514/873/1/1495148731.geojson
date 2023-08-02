@@ -49,6 +49,12 @@
     "name:spa_x_preferred":[
         "Straume"
     ],
+    "name:swe_x_preferred":[
+        "Straume"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u7279\u8d56\u4e8e\u9ed8"
+    ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":"NO",
     "qs_pg:gn_fcode":"PPLA2",
@@ -76,11 +82,11 @@
     "woe:name_adm1":"Hordaland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1527947261,
         102191581,
         1527971047,
         85633341,
-        101803915
+        101803915,
+        1527947261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1495148731,
-    "wof:lastmodified":1581018733,
+    "wof:lastmodified":1690849641,
     "wof:name":"Straume",
     "wof:parent_id":101803915,
     "wof:placetype":"neighbourhood",

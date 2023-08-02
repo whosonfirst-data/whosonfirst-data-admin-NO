@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"6.5760035,62.332038,6.5760035,62.332038",
+    "geom:bbox":"6.576003,62.332038,6.576003,62.332038",
     "geom:latitude":62.332038,
     "geom:longitude":6.576003,
     "gn:country":null,
@@ -20,6 +20,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Straumgjerde"
+    ],
+    "name:dan_x_preferred":[
+        "Straumgjerde"
+    ],
     "name:eng_x_preferred":[
         "Straumgjerde"
     ],
@@ -84,7 +90,7 @@
     },
     "wof:country":"NO",
     "wof:created":1497297833,
-    "wof:geomhash":"6c8d0dc56f9e6ae8b12e5e35ecfdca72",
+    "wof:geomhash":"4e6b83f227a2737ea097483c2d1b5c42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1125962029,
-    "wof:lastmodified":1571387796,
+    "wof:lastmodified":1690849550,
     "wof:name":"Straumgjerde",
     "wof:parent_id":1159296739,
     "wof:placetype":"locality",
@@ -105,10 +111,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.5760035,
+    6.576003,
     62.332038,
-    6.5760035,
+    6.576003,
     62.332038
 ],
-  "geometry": {"coordinates":[6.5760035,62.332038],"type":"Point"}
+  "geometry": {"coordinates":[6.576003,62.332038],"type":"Point"}
 }

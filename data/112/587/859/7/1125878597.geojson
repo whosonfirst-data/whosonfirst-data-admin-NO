@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Sira"
+    ],
     "name:ceb_x_preferred":[
         "Sira"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:eng_x_preferred":[
         "Sira"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0631\u0627"
     ],
     "name:fra_x_preferred":[
         "Sira"
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1125878597,
-    "wof:lastmodified":1581019424,
+    "wof:lastmodified":1690849529,
     "wof:name":"Sira",
     "wof:parent_id":1159296845,
     "wof:placetype":"locality",

@@ -22,7 +22,13 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Torpo"
+    ],
     "name:ceb_x_preferred":[
+        "Torpo"
+    ],
+    "name:dan_x_preferred":[
         "Torpo"
     ],
     "name:eng_x_preferred":[
@@ -36,6 +42,9 @@
     ],
     "name:jav_x_preferred":[
         "Torpo"
+    ],
+    "name:kor_x_preferred":[
+        "\ud1a0\ub974\ud3ec"
     ],
     "name:msa_x_preferred":[
         "Torpo"
@@ -108,7 +117,7 @@
         }
     ],
     "wof:id":1126023719,
-    "wof:lastmodified":1581020263,
+    "wof:lastmodified":1690849490,
     "wof:name":"Torpo",
     "wof:parent_id":1159297217,
     "wof:placetype":"locality",

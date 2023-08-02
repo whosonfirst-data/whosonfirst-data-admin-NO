@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"8.296566,61.3743595,8.296566,61.3743595",
+    "geom:bbox":"8.296566,61.374359,8.296566,61.374359",
     "geom:latitude":61.374359,
     "geom:longitude":8.296566,
     "gn:country":null,
@@ -20,6 +20,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Eidsbugarden"
+    ],
     "name:deu_x_preferred":[
         "Eidsbugarden"
     ],
@@ -75,7 +78,7 @@
     },
     "wof:country":"NO",
     "wof:created":1497295111,
-    "wof:geomhash":"38bb6934a7734079fc1320892885ee7c",
+    "wof:geomhash":"398b0914c50135e6f597edd15a76365e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125886605,
-    "wof:lastmodified":1581018911,
+    "wof:lastmodified":1690849513,
     "wof:name":"Eidsbugarden",
     "wof:parent_id":1159297415,
     "wof:placetype":"locality",
@@ -97,9 +100,9 @@
 },
   "bbox": [
     8.296566,
-    61.3743595,
+    61.374359,
     8.296566,
-    61.3743595
+    61.374359
 ],
-  "geometry": {"coordinates":[8.296566,61.3743595],"type":"Point"}
+  "geometry": {"coordinates":[8.296566,61.374359],"type":"Point"}
 }

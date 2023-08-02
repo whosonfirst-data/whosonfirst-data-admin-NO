@@ -31,6 +31,9 @@
     "name:ces_x_preferred":[
         "Kjeller"
     ],
+    "name:dan_x_preferred":[
+        "Kjeller"
+    ],
     "name:deu_x_preferred":[
         "Kjeller"
     ],
@@ -46,6 +49,9 @@
     "name:jav_x_preferred":[
         "Kjeller"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b1\u30b8\u30a7\u30e9\u30fc"
+    ],
     "name:msa_x_preferred":[
         "Kjeller"
     ],
@@ -58,11 +64,17 @@
     "name:nob_x_preferred":[
         "Kjeller"
     ],
+    "name:rus_x_preferred":[
+        "\u0425\u044c\u0435\u043b\u043b\u0435\u0440"
+    ],
     "name:slk_x_preferred":[
         "Kjeller"
     ],
     "name:swe_x_preferred":[
         "Kjeller"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425'\u0454\u043b\u043b\u0435\u0440"
     ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":"NO",
@@ -91,11 +103,11 @@
     "woe:name_adm1":"Akershus Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1527947269,
         102191581,
         1527971019,
         85633341,
-        1495124053
+        1495124053,
+        1527947269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -118,7 +130,7 @@
         }
     ],
     "wof:id":1495148311,
-    "wof:lastmodified":1581020317,
+    "wof:lastmodified":1690849651,
     "wof:name":"Kjeller",
     "wof:parent_id":1495124053,
     "wof:placetype":"neighbourhood",

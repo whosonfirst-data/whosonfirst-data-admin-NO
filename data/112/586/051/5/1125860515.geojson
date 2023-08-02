@@ -31,6 +31,9 @@
     "name:bar_x_preferred":[
         "Bamble"
     ],
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u043c\u0431\u043b\u0435"
+    ],
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09ae\u09ac\u09cd\u09b2\u09c7"
     ],
@@ -61,14 +64,23 @@
     "name:eus_x_preferred":[
         "Bamble"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0645\u0628\u0644"
+    ],
     "name:fin_x_preferred":[
         "Bamble"
     ],
     "name:fra_x_preferred":[
         "Bamble"
     ],
+    "name:gle_x_preferred":[
+        "Bamble"
+    ],
     "name:ita_x_preferred":[
         "Bamble"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30f3\u30d6\u30eb"
     ],
     "name:lat_x_preferred":[
         "Bamble"
@@ -126,6 +138,9 @@
     ],
     "name:swe_x_preferred":[
         "Bamble"
+    ],
+    "name:swe_x_variant":[
+        "Bamble kommun"
     ],
     "name:vie_x_preferred":[
         "Bamble"
@@ -186,7 +201,7 @@
         }
     ],
     "wof:id":1125860515,
-    "wof:lastmodified":1581019680,
+    "wof:lastmodified":1690849504,
     "wof:name":"Bamle",
     "wof:parent_id":1159296837,
     "wof:placetype":"locality",

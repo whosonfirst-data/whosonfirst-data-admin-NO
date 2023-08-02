@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"10.2725245,60.131397,10.2725245,60.131397",
+    "geom:bbox":"10.272524,60.131397,10.272524,60.131397",
     "geom:latitude":60.131397,
     "geom:longitude":10.272524,
     "gn:country":null,
@@ -20,17 +20,35 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Norderhov"
+    ],
     "name:cym_x_preferred":[
+        "Norderhov"
+    ],
+    "name:dan_x_preferred":[
         "Norderhov"
     ],
     "name:eng_x_preferred":[
         "Norderhov"
     ],
+    "name:eng_x_variant":[
+        "Norderhov Municipality"
+    ],
     "name:fra_x_preferred":[
+        "Norderhov"
+    ],
+    "name:gle_x_preferred":[
+        "Norderhov"
+    ],
+    "name:ita_x_preferred":[
         "Norderhov"
     ],
     "name:jav_x_preferred":[
         "Norderhov"
+    ],
+    "name:kor_x_preferred":[
+        "\ub178\ub974\ub370\ub974\ud638\ube0c"
     ],
     "name:msa_x_preferred":[
         "Norderhov"
@@ -52,6 +70,9 @@
     ],
     "name:swe_x_preferred":[
         "Norderhov"
+    ],
+    "name:swe_x_variant":[
+        "Norderhovs kommun"
     ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":null,
@@ -90,7 +111,7 @@
     },
     "wof:country":"NO",
     "wof:created":1497299805,
-    "wof:geomhash":"5742acdf095afc192f34371232fba3f6",
+    "wof:geomhash":"59f4040bc87e9978a009e8d4fcc3be30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +122,7 @@
         }
     ],
     "wof:id":1126003721,
-    "wof:lastmodified":1581020185,
+    "wof:lastmodified":1690849577,
     "wof:name":"Norderhov",
     "wof:parent_id":1159297513,
     "wof:placetype":"locality",
@@ -111,10 +132,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    10.2725245,
+    10.272524,
     60.131397,
-    10.2725245,
+    10.272524,
     60.131397
 ],
-  "geometry": {"coordinates":[10.2725245,60.131397],"type":"Point"}
+  "geometry": {"coordinates":[10.272524,60.131397],"type":"Point"}
 }

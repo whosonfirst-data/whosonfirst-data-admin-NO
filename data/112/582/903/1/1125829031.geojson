@@ -35,11 +35,17 @@
     "name:dan_x_preferred":[
         "Roan"
     ],
+    "name:dan_x_variant":[
+        "Roan Kommune"
+    ],
     "name:deu_x_preferred":[
         "Roan"
     ],
     "name:eng_x_preferred":[
         "Roan"
+    ],
+    "name:eng_x_variant":[
+        "Roan Municipality"
     ],
     "name:epo_x_preferred":[
         "Roan"
@@ -48,6 +54,9 @@
         "Roan"
     ],
     "name:fra_x_preferred":[
+        "Roan"
+    ],
+    "name:gle_x_preferred":[
         "Roan"
     ],
     "name:ita_x_preferred":[
@@ -77,6 +86,9 @@
     "name:nno_x_preferred":[
         "Roan"
     ],
+    "name:nno_x_variant":[
+        "Roan kommune"
+    ],
     "name:nob_x_preferred":[
         "Roan"
     ],
@@ -88,6 +100,9 @@
     ],
     "name:ron_x_preferred":[
         "Roan"
+    ],
+    "name:ron_x_variant":[
+        "Comuna Roan"
     ],
     "name:rus_x_preferred":[
         "\u0420\u0443\u0430\u043d"
@@ -109,6 +124,9 @@
     ],
     "name:swe_x_preferred":[
         "Roan"
+    ],
+    "name:swe_x_variant":[
+        "Roans kommun"
     ],
     "name:vie_x_preferred":[
         "Roan"
@@ -167,7 +185,7 @@
         }
     ],
     "wof:id":1125829031,
-    "wof:lastmodified":1581021642,
+    "wof:lastmodified":1690849583,
     "wof:name":"Roan",
     "wof:parent_id":1527971131,
     "wof:placetype":"locality",

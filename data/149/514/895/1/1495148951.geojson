@@ -40,11 +40,17 @@
     "name:dan_x_preferred":[
         "Nord-Fron"
     ],
+    "name:dan_x_variant":[
+        "Nord-Fron Kommune"
+    ],
     "name:deu_x_preferred":[
         "Nord-Fron"
     ],
     "name:eng_x_preferred":[
         "Nord-Fron"
+    ],
+    "name:eng_x_variant":[
+        "Nord-Fron Muncipality"
     ],
     "name:epo_x_preferred":[
         "Nord-Fron"
@@ -55,10 +61,16 @@
     "name:eus_x_preferred":[
         "Nord-Fron"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0631\u0648-\u0641\u0631\u0648\u0646"
+    ],
     "name:fin_x_preferred":[
         "Nord-Fron"
     ],
     "name:fra_x_preferred":[
+        "Nord-Fron"
+    ],
+    "name:gle_x_preferred":[
         "Nord-Fron"
     ],
     "name:hye_x_preferred":[
@@ -94,6 +106,9 @@
     "name:nno_x_preferred":[
         "Nord-Fron"
     ],
+    "name:nno_x_variant":[
+        "Nord-Fron kommune"
+    ],
     "name:nob_x_preferred":[
         "Nord-Fron"
     ],
@@ -105,6 +120,9 @@
     ],
     "name:ron_x_preferred":[
         "Nord-Fron"
+    ],
+    "name:ron_x_variant":[
+        "Comuna Nord-Fron"
     ],
     "name:rus_x_preferred":[
         "\u041d\u0443\u0440-\u0424\u0440\u043e\u043d"
@@ -129,6 +147,9 @@
     ],
     "name:swe_x_variant":[
         "Nord-Fron"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0443\u0440-\u0424\u0440\u0443\u043d"
     ],
     "name:und_x_variant":[
         "S\u00f6dorp"
@@ -167,11 +188,11 @@
     "woe:name_adm1":"Oppland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1527947263,
         102191581,
         1159297033,
         85633341,
-        101803999
+        101803999,
+        1527947263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -194,7 +215,7 @@
         }
     ],
     "wof:id":1495148951,
-    "wof:lastmodified":1581019053,
+    "wof:lastmodified":1690849643,
     "wof:name":"Nord-Fron",
     "wof:parent_id":101803999,
     "wof:placetype":"neighbourhood",

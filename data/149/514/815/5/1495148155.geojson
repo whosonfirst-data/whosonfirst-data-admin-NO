@@ -23,6 +23,12 @@
     "name:ceb_x_preferred":[
         "Flaskebekk"
     ],
+    "name:dan_x_preferred":[
+        "Flaskebekk"
+    ],
+    "name:deu_x_preferred":[
+        "Flaskebekk"
+    ],
     "name:eng_x_preferred":[
         "Flaskebekk"
     ],
@@ -36,6 +42,9 @@
         "Flaskebekk"
     ],
     "name:nld_x_preferred":[
+        "Flaskebekk"
+    ],
+    "name:nno_x_preferred":[
         "Flaskebekk"
     ],
     "name:nob_x_preferred":[
@@ -65,11 +74,11 @@
     "woe:name_adm1":"Akershus Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1527947269,
         102191581,
         1159297221,
         85633341,
-        101815561
+        101815561,
+        1527947269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":1495148155,
-    "wof:lastmodified":1581020304,
+    "wof:lastmodified":1690849650,
     "wof:name":"Flaskebekk",
     "wof:parent_id":101815561,
     "wof:placetype":"neighbourhood",

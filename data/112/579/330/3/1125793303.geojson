@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"9.0259325,59.7246485,9.0259325,59.7246485",
+    "geom:bbox":"9.025932,59.724649,9.025932,59.724649",
     "geom:latitude":59.724649,
     "geom:longitude":9.025932,
     "gn:country":null,
@@ -20,6 +20,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Tinnoset"
+    ],
     "name:eng_x_preferred":[
         "Tinnoset"
     ],
@@ -75,7 +78,7 @@
     },
     "wof:country":"NO",
     "wof:created":1497290951,
-    "wof:geomhash":"05cadc265fdd14a42e48cc77a8ad1960",
+    "wof:geomhash":"263338ab33c917a660c4649d3b659596",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125793303,
-    "wof:lastmodified":1581019623,
+    "wof:lastmodified":1690849606,
     "wof:name":"Tinnoset",
     "wof:parent_id":1527971079,
     "wof:placetype":"locality",
@@ -96,10 +99,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    9.0259325,
-    59.7246485,
-    9.0259325,
-    59.7246485
+    9.025932,
+    59.724649,
+    9.025932,
+    59.724649
 ],
-  "geometry": {"coordinates":[9.0259325,59.7246485],"type":"Point"}
+  "geometry": {"coordinates":[9.025932,59.724649],"type":"Point"}
 }

@@ -6,8 +6,8 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000069,
     "geom:area_square_m":367632.883624,
-    "geom:bbox":"12.2874651019,64.6224201116,12.3066709161,64.6296071002",
-    "geom:latitude":64.626336,
+    "geom:bbox":"12.287465,64.62242,12.306671,64.629607",
+    "geom:latitude":64.626335,
     "geom:longitude":12.295486,
     "gn:country":"NO",
     "gn:fcode":"PPLA2",
@@ -25,6 +25,9 @@
     "name:ast_x_preferred":[
         "H\u00f8ylandet"
     ],
+    "name:bjn_x_preferred":[
+        "H\u00f8ylandet"
+    ],
     "name:bpy_x_preferred":[
         "\u09b9\u09be\u09af\u09bc\u09b2\u09c7\u09a8\u09cd\u09a1\u09c7\u099f"
     ],
@@ -37,11 +40,17 @@
     "name:dan_x_preferred":[
         "H\u00f8ylandet"
     ],
+    "name:dan_x_variant":[
+        "H\u00f8ylandet Kommune"
+    ],
     "name:deu_x_preferred":[
         "H\u00f8ylandet"
     ],
     "name:eng_x_preferred":[
         "H\u00f8ylandet"
+    ],
+    "name:eng_x_variant":[
+        "H\u00f8ylandet Municipality"
     ],
     "name:epo_x_preferred":[
         "H\u00f8ylandet"
@@ -55,7 +64,13 @@
     "name:fra_x_preferred":[
         "H\u00f8ylandet"
     ],
+    "name:gle_x_preferred":[
+        "H\u00f8ylandet"
+    ],
     "name:ind_x_preferred":[
+        "H\u00f8ylandet"
+    ],
+    "name:isl_x_preferred":[
         "H\u00f8ylandet"
     ],
     "name:ita_x_preferred":[
@@ -63,6 +78,9 @@
     ],
     "name:jav_x_preferred":[
         "H\u00f8ylandet"
+    ],
+    "name:kor_x_preferred":[
+        "\ud68c\uc70c\ub77c\ub124\ud2b8"
     ],
     "name:lat_x_preferred":[
         "H\u00f8ylandet"
@@ -84,6 +102,9 @@
     ],
     "name:nno_x_preferred":[
         "H\u00f8ylandet"
+    ],
+    "name:nno_x_variant":[
+        "H\u00f8ylandet kommune"
     ],
     "name:nob_x_preferred":[
         "H\u00f8ylandet"
@@ -109,6 +130,9 @@
     "name:ron_x_preferred":[
         "H\u00f8ylandet"
     ],
+    "name:ron_x_variant":[
+        "Comuna H\u00f8ylandet"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u0451\u0439\u043b\u0430\u043d\u043d\u0435\u0442"
     ],
@@ -129,6 +153,12 @@
     ],
     "name:swe_x_preferred":[
         "H\u00f8ylandet"
+    ],
+    "name:swe_x_variant":[
+        "H\u00f8ylandets kommun"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0435\u0439\u043b\u0430\u043d\u043d\u0435\u0442"
     ],
     "name:vie_x_preferred":[
         "H\u00f8ylandet"
@@ -190,7 +220,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e35ca5bd13d7db0bb34a61516e90dfe1",
+    "wof:geomhash":"18c3a7707d675016691ea02b916c2360",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -204,7 +234,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1582313601,
+    "wof:lastmodified":1690849455,
     "wof:name":"H\u00f8ylandet",
     "wof:parent_id":1159297183,
     "wof:placetype":"locality",
@@ -216,10 +246,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    12.28746510192633,
-    64.62242011162624,
-    12.30667091607268,
-    64.62960710020616
+    12.287465,
+    64.62242,
+    12.306671,
+    64.629607
 ],
-  "geometry": {"coordinates":[[[12.30667091607268,64.62945842775878],[12.30659644367165,64.62855635158752],[12.30451999002793,64.62858613863523],[12.30444558997578,64.62768406203884],[12.30029280387322,64.62774355354532],[12.30014428768595,64.62593939801013],[12.29806802213841,64.62596910140098],[12.2978454891753,64.6232628697519],[12.29369334685754,64.62332218968311],[12.29361931380123,64.62242011162624],[12.28946728848069,64.62247932218588],[12.28954118775903,64.62338140237631],[12.28746510192633,64.62341096850827],[12.28761278286282,64.62521513296684],[12.28968900248941,64.62518556470377],[12.28991076502717,64.62789181306255],[12.2919871811917,64.62786221478774],[12.2920611797428,64.62876429780545],[12.29621413332205,64.6287050186761],[12.29628827111787,64.62960710020616],[12.30667091607268,64.62945842775878]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[12.306671,64.629458],[12.306596,64.628556],[12.30452,64.628586],[12.304446,64.627684],[12.300293,64.62774400000001],[12.300144,64.625939],[12.298068,64.625969],[12.297845,64.62326299999999],[12.293693,64.623322],[12.293619,64.62242000000001],[12.289467,64.622479],[12.289541,64.62338099999999],[12.287465,64.623411],[12.287613,64.625215],[12.289689,64.625186],[12.289911,64.627892],[12.291987,64.62786199999999],[12.292061,64.628764],[12.296214,64.628705],[12.296288,64.62960699999999],[12.306671,64.629458]]],"type":"Polygon"}
 }

@@ -163,7 +163,8 @@
         "\u03a4\u03c1\u03cc\u03bc\u03c3\u03bf"
     ],
     "name:ell_x_variant":[
-        "\u03a4\u03c1\u03cc\u03bc\u03c3\u03b5"
+        "\u03a4\u03c1\u03cc\u03bc\u03c3\u03b5",
+        "\u03a4\u03c1\u03bf\u03cd\u03bc\u03c3\u03b5"
     ],
     "name:eml_x_preferred":[
         "Troms\u00f8"
@@ -184,7 +185,8 @@
     "name:eng_x_variant":[
         "TOS",
         "Troms\u00f8",
-        "Troms\u00f8 municipality"
+        "Troms\u00f8 municipality",
+        "Troms\u00f8 Municipality"
     ],
     "name:epo_x_preferred":[
         "Troms\u00f8"
@@ -432,6 +434,9 @@
     "name:mar_x_preferred":[
         "\u091f\u094d\u0930\u094b\u092e\u094d\u0938\u094b"
     ],
+    "name:mdf_x_preferred":[
+        "\u0422\u0440\u043e\u043c\u0441\u0451"
+    ],
     "name:min_x_preferred":[
         "Troms\u00f8"
     ],
@@ -485,6 +490,9 @@
     ],
     "name:nno_x_preferred":[
         "Troms\u00f8"
+    ],
+    "name:nno_x_variant":[
+        "Troms\u00f8 kommune"
     ],
     "name:nob_x_preferred":[
         "Troms\u00f8"
@@ -581,6 +589,9 @@
     "name:ron_x_preferred":[
         "Troms\u00f8"
     ],
+    "name:ron_x_variant":[
+        "Comuna Troms\u00f8"
+    ],
     "name:run_x_preferred":[
         "Troms\u00f8"
     ],
@@ -629,6 +640,9 @@
     "name:sme_x_preferred":[
         "Romsa"
     ],
+    "name:sme_x_variant":[
+        "Romssa suohkan"
+    ],
     "name:smo_x_preferred":[
         "Troms\u00f8"
     ],
@@ -673,7 +687,8 @@
     ],
     "name:swe_x_variant":[
         "Troms\u00f8",
-        "Troms\u00f6"
+        "Troms\u00f6",
+        "Troms\u00f8 kommun"
     ],
     "name:szl_x_preferred":[
         "Troms\u00f8"
@@ -773,6 +788,9 @@
     ],
     "name:wol_x_preferred":[
         "Troms\u00f8"
+    ],
+    "name:wuu_x_preferred":[
+        "\u7279\u7f57\u59c6\u745f"
     ],
     "name:xho_x_preferred":[
         "Troms\u00f8"
@@ -912,8 +930,8 @@
     "wd:wordcount":5710,
     "wof:belongsto":[
         102191581,
-        85633341,
         1159297187,
+        85633341,
         1527947259
     ],
     "wof:breaches":[],
@@ -946,7 +964,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1607462713,
+    "wof:lastmodified":1690849417,
     "wof:megacity":0,
     "wof:name":"Troms\u00f8",
     "wof:parent_id":1159297187,

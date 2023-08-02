@@ -20,6 +20,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Lierskogen"
+    ],
     "name:eng_x_preferred":[
         "Lierskogen"
     ],
@@ -33,6 +36,9 @@
         "Lierskogen"
     ],
     "name:nld_x_preferred":[
+        "Lierskogen"
+    ],
+    "name:nno_x_preferred":[
         "Lierskogen"
     ],
     "name:nob_x_preferred":[
@@ -65,11 +71,11 @@
     "woe:name_adm1":"Buskerud Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1527947269,
         102191581,
         1159296937,
         85633341,
-        101815567
+        101815567,
+        1527947269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1495148359,
-    "wof:lastmodified":1581020317,
+    "wof:lastmodified":1690849644,
     "wof:name":"Lierskogen",
     "wof:parent_id":101815567,
     "wof:placetype":"neighbourhood",

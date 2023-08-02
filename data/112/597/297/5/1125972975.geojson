@@ -53,14 +53,23 @@
     "name:eus_x_preferred":[
         "R\u00e6lingen"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0644\u06cc\u0646\u06af\u0646"
+    ],
     "name:fin_x_preferred":[
         "R\u00e6lingen"
     ],
     "name:fra_x_preferred":[
         "R\u00e6lingen"
     ],
+    "name:gle_x_preferred":[
+        "R\u00e6lingen"
+    ],
     "name:glg_x_preferred":[
         "R\u00e6lingen"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05dc\u05d9\u05e0\u05d2\u05d5\u05df"
     ],
     "name:hye_x_preferred":[
         "\u0550\u0565\u056c\u056b\u0576\u0563\u0565\u0576"
@@ -73,6 +82,9 @@
     ],
     "name:jav_x_preferred":[
         "R\u00e6lingen"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30fc\u30ea\u30f3\u30b2\u30f3"
     ],
     "name:lat_x_preferred":[
         "R\u00e6lingen"
@@ -134,6 +146,9 @@
     "name:swe_x_preferred":[
         "R\u00e6lingen"
     ],
+    "name:tur_x_preferred":[
+        "R\u00e6lingen"
+    ],
     "name:vie_x_preferred":[
         "R\u00e6lingen"
     ],
@@ -191,7 +206,7 @@
         }
     ],
     "wof:id":1125972975,
-    "wof:lastmodified":1581020255,
+    "wof:lastmodified":1690849546,
     "wof:name":"R\u00e6lingen",
     "wof:parent_id":1159297185,
     "wof:placetype":"locality",

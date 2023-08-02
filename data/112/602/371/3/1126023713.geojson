@@ -40,11 +40,17 @@
     "name:dan_x_preferred":[
         "S\u00f8r-Fron"
     ],
+    "name:dan_x_variant":[
+        "S\u00f8r-Fron Kommune"
+    ],
     "name:deu_x_preferred":[
         "S\u00f8r-Fron"
     ],
     "name:eng_x_preferred":[
         "S\u00f8r-Fron"
+    ],
+    "name:eng_x_variant":[
+        "S\u00f8r-Fron Municipality"
     ],
     "name:epo_x_preferred":[
         "S\u00f8r-Fron"
@@ -55,10 +61,16 @@
     "name:eus_x_preferred":[
         "S\u00f8r-Fron"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0631 \u0641\u0631\u0648\u0648\u0646"
+    ],
     "name:fin_x_preferred":[
         "S\u00f8r-Fron"
     ],
     "name:fra_x_preferred":[
+        "S\u00f8r-Fron"
+    ],
+    "name:gle_x_preferred":[
         "S\u00f8r-Fron"
     ],
     "name:hye_x_preferred":[
@@ -94,6 +106,9 @@
     "name:nno_x_preferred":[
         "S\u00f8r-Fron"
     ],
+    "name:nno_x_variant":[
+        "S\u00f8r-Fron kommune"
+    ],
     "name:nob_x_preferred":[
         "S\u00f8r-Fron"
     ],
@@ -105,6 +120,9 @@
     ],
     "name:ron_x_preferred":[
         "S\u00f8r-Fron"
+    ],
+    "name:ron_x_variant":[
+        "Comuna S\u00f8r-Fron"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0451\u0440-\u0424\u0440\u0443\u043d"
@@ -126,6 +144,9 @@
     ],
     "name:swe_x_preferred":[
         "S\u00f8r-Fron"
+    ],
+    "name:swe_x_variant":[
+        "S\u00f8r-Frons kommun"
     ],
     "name:vie_x_preferred":[
         "S\u00f8r-Fron"
@@ -188,7 +209,7 @@
         }
     ],
     "wof:id":1126023713,
-    "wof:lastmodified":1581019013,
+    "wof:lastmodified":1690849490,
     "wof:name":"S\u00f8r-Fron",
     "wof:parent_id":1159297243,
     "wof:placetype":"locality",

@@ -27,6 +27,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
+    "name:bre_x_preferred":[
+        "F\u00f3lkvangr"
+    ],
     "name:bul_x_preferred":[
         "\u0424\u043e\u043b\u043a\u0432\u0430\u043d\u0433"
     ],
@@ -56,6 +59,12 @@
     ],
     "name:hun_x_preferred":[
         "Folkvang"
+    ],
+    "name:hye_x_preferred":[
+        "\u0556\u0578\u056c\u056f\u057e\u0561\u0576\u0563"
+    ],
+    "name:ind_x_preferred":[
+        "F\u00f3lkvangr"
     ],
     "name:ita_x_preferred":[
         "F\u00f3lkvangr"
@@ -87,11 +96,17 @@
     "name:rus_x_preferred":[
         "\u0424\u043e\u043b\u044c\u043a\u0432\u0430\u043d\u0433"
     ],
+    "name:slk_x_preferred":[
+        "F\u00f3lkvangr"
+    ],
     "name:spa_x_preferred":[
         "F\u00f3lkvangr"
     ],
     "name:swe_x_preferred":[
         "Folkvang"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e1f\u0e25\u0e01\u0e27\u0e31\u0e07\u0e40\u0e01\u0e2d\u0e23\u0e4c"
     ],
     "name:tur_x_preferred":[
         "F\u00f3lkvangr"
@@ -167,7 +182,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1582313537,
+    "wof:lastmodified":1690849318,
     "wof:name":"Folkvang",
     "wof:parent_id":1126031233,
     "wof:placetype":"neighbourhood",

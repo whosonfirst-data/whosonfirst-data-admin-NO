@@ -46,6 +46,9 @@
     "name:eng_x_preferred":[
         "Stj\u00f8rdal"
     ],
+    "name:eng_x_variant":[
+        "Stj\u00f8rdal Municipality"
+    ],
     "name:epo_x_preferred":[
         "Stj\u00f8rdal"
     ],
@@ -64,10 +67,16 @@
     "name:fra_x_preferred":[
         "Stj\u00f8rdal"
     ],
+    "name:gle_x_preferred":[
+        "Stj\u00f8rdal"
+    ],
     "name:heb_x_preferred":[
         "\u05e1\u05d8\u05d9\u05d9\u05e8\u05d3\u05dc"
     ],
     "name:ind_x_preferred":[
+        "Stj\u00f8rdal"
+    ],
+    "name:isl_x_preferred":[
         "Stj\u00f8rdal"
     ],
     "name:ita_x_preferred":[
@@ -109,6 +118,9 @@
     "name:nno_x_preferred":[
         "Stj\u00f8rdal"
     ],
+    "name:nno_x_variant":[
+        "Stj\u00f8rdal kommune"
+    ],
     "name:nob_x_preferred":[
         "Stj\u00f8rdal"
     ],
@@ -120,6 +132,9 @@
     ],
     "name:ron_x_preferred":[
         "Stj\u00f8rdal"
+    ],
+    "name:ron_x_variant":[
+        "Comuna Stj\u00f8rdal"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0445\u044c\u0451\u0440\u0434\u0430\u043b"
@@ -148,6 +163,12 @@
     "name:swe_x_preferred":[
         "Stj\u00f8rdal"
     ],
+    "name:swe_x_variant":[
+        "Stj\u00f8rdals kommun"
+    ],
+    "name:tur_x_preferred":[
+        "Stj\u00f8rdal"
+    ],
     "name:vie_x_preferred":[
         "Stj\u00f8rdal"
     ],
@@ -156,6 +177,9 @@
     ],
     "name:zho_x_preferred":[
         "\u65af\u5f7b\u8fbe\u5c14"
+    ],
+    "name:zho_x_variant":[
+        "\u65af\u5fb9\u9054\u723e"
     ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":"NO",
@@ -184,11 +208,11 @@
     "woe:name_adm1":"Nord-Tr\u00f8ndelag Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1495115971,
         102191581,
         1159296711,
         85633341,
-        101839461
+        101839461,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -211,7 +235,7 @@
         }
     ],
     "wof:id":1495148885,
-    "wof:lastmodified":1571393309,
+    "wof:lastmodified":1690849642,
     "wof:name":"Stj\u00f8rdal",
     "wof:parent_id":101839461,
     "wof:placetype":"neighbourhood",

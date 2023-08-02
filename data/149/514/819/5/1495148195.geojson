@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"7.958736,58.1213755,7.958736,58.1213755",
+    "geom:bbox":"7.958736,58.121375,7.958736,58.121375",
     "geom:latitude":58.121375,
     "geom:longitude":7.958736,
     "gn:country":"NO",
@@ -33,6 +33,9 @@
         "V\u00e5gsbygd"
     ],
     "name:spa_x_preferred":[
+        "V\u00e5gsbygd"
+    ],
+    "name:swe_x_preferred":[
         "V\u00e5gsbygd"
     ],
     "name:zho_x_preferred":[
@@ -62,11 +65,11 @@
     "woe:name_adm1":"Vest-Agder Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1527947265,
         102191581,
         1527971063,
         85633341,
-        101751911
+        101751911,
+        1527947265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +79,7 @@
     },
     "wof:country":"NO",
     "wof:created":1497297521,
-    "wof:geomhash":"e35e3c607bb01c67f6c2747b52ba7704",
+    "wof:geomhash":"21a2e3a461e4b90d6348ee0f07e43a76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1495148195,
-    "wof:lastmodified":1581019511,
+    "wof:lastmodified":1690849641,
     "wof:name":"V\u00e5gsbygda",
     "wof:parent_id":101751911,
     "wof:placetype":"neighbourhood",
@@ -101,9 +104,9 @@
 },
   "bbox": [
     7.958736,
-    58.1213755,
+    58.121375,
     7.958736,
-    58.1213755
+    58.121375
 ],
-  "geometry": {"coordinates":[7.958736,58.1213755],"type":"Point"}
+  "geometry": {"coordinates":[7.958736,58.121375],"type":"Point"}
 }

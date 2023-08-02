@@ -6,8 +6,8 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
     "geom:area_square_m":8780.482843,
-    "geom:bbox":"8.65088946553,63.8641585966,8.65289221538,63.8650743314",
-    "geom:latitude":63.864603,
+    "geom:bbox":"8.650889,63.864159,8.652892,63.865074",
+    "geom:latitude":63.864602,
     "geom:longitude":8.651807,
     "iso:country":"NO",
     "lbl:latitude":63.864617,
@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:dan_x_preferred":[
+        "Mausund"
+    ],
     "name:eng_x_preferred":[
         "Mausund"
     ],
@@ -74,7 +77,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f17e8fe0fdfa2c1ed821337aa7a1eeb5",
+    "wof:geomhash":"23cbcbc4ed055f029ac3d46b8ee5cec2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101912853,
-    "wof:lastmodified":1582313596,
+    "wof:lastmodified":1690849415,
     "wof:name":"Mausund",
     "wof:parent_id":1159297521,
     "wof:placetype":"locality",
@@ -95,10 +98,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.65088946552839,
-    63.86415859657012,
-    8.65289221538291,
-    63.86507433140139
+    8.650889,
+    63.864159,
+    8.652892,
+    63.865074
 ],
-  "geometry": {"coordinates":[[[8.65289221538291,63.86417539427788],[8.65093156925974,63.86415859657012],[8.65088946552839,63.86506049413759],[8.65250213356842,63.86507433140139],[8.65289221538291,63.86417539427788]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[8.652892,63.864175],[8.650932,63.864159],[8.650889,63.86506],[8.652502,63.865074],[8.652892,63.864175]]],"type":"Polygon"}
 }

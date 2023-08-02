@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Austbygdi"
+    ],
     "name:eng_x_preferred":[
         "Austbygdi"
     ],
     "name:fra_x_preferred":[
         "Austbygdi"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d0\uc6b0\uc2a4\ud2b8\ubdd4\uadf8\ub4dc"
     ],
     "name:msa_x_preferred":[
         "Austbygdi"
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":1125982993,
-    "wof:lastmodified":1581019620,
+    "wof:lastmodified":1690849563,
     "wof:name":"Tinn Austbygd",
     "wof:parent_id":1159297269,
     "wof:placetype":"locality",

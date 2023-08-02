@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Rasv\u00e5g"
+    ],
     "name:eng_x_preferred":[
         "Rasv\u00e5g"
     ],
@@ -34,7 +37,13 @@
     "name:nld_x_preferred":[
         "Rasv\u00e5g"
     ],
+    "name:nno_x_preferred":[
+        "Rasv\u00e5g"
+    ],
     "name:nob_x_preferred":[
+        "Rasv\u00e5g"
+    ],
+    "name:swe_x_preferred":[
         "Rasv\u00e5g"
     ],
     "name:und_x_variant":[
@@ -86,7 +95,7 @@
         }
     ],
     "wof:id":1125888215,
-    "wof:lastmodified":1581020356,
+    "wof:lastmodified":1690849512,
     "wof:name":"Rasv\u00e5g",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

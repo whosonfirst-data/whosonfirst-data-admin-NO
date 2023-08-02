@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"14.201545,68.3237495,14.201545,68.3237495",
+    "geom:bbox":"14.201545,68.32375,14.201545,68.32375",
     "geom:latitude":68.32375,
     "geom:longitude":14.201545,
     "gn:country":"NO",
@@ -20,6 +20,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Gims\u00f8y"
+    ],
     "name:eng_x_preferred":[
         "Gims\u00f8y"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0413\u0438\u043c\u0441\u0451\u0439"
+    ],
+    "name:swe_x_preferred":[
+        "Gims\u00f8y"
     ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":"NO",
@@ -84,7 +90,7 @@
     },
     "wof:country":"NO",
     "wof:created":1497292365,
-    "wof:geomhash":"35c1f34993f23f63d9f271d133a1ee8b",
+    "wof:geomhash":"74c263eabd39075598c879acc20cbea7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1125828013,
-    "wof:lastmodified":1571679213,
+    "wof:lastmodified":1690849585,
     "wof:name":"Gimsoy",
     "wof:parent_id":1159296883,
     "wof:placetype":"locality",
@@ -106,9 +112,9 @@
 },
   "bbox": [
     14.201545,
-    68.3237495,
+    68.32375,
     14.201545,
-    68.3237495
+    68.32375
 ],
-  "geometry": {"coordinates":[14.201545,68.32374950000001],"type":"Point"}
+  "geometry": {"coordinates":[14.201545,68.32375],"type":"Point"}
 }

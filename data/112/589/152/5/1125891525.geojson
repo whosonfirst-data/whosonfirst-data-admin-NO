@@ -62,7 +62,8 @@
         "\u00c5len"
     ],
     "name:eng_x_variant":[
-        "\u00c5len municipality"
+        "\u00c5len municipality",
+        "\u00c5len Municipality"
     ],
     "name:epo_x_preferred":[
         "\u00c5len"
@@ -166,6 +167,9 @@
     "name:nno_x_preferred":[
         "\u00c5len"
     ],
+    "name:nno_x_variant":[
+        "\u00c5len kommune"
+    ],
     "name:nob_x_preferred":[
         "\u00c5len"
     ],
@@ -205,6 +209,9 @@
     "name:ron_x_preferred":[
         "\u00c5len"
     ],
+    "name:ron_x_variant":[
+        "Comuna \u00c5len"
+    ],
     "name:scn_x_preferred":[
         "\u00c5len"
     ],
@@ -225,6 +232,9 @@
     ],
     "name:swe_x_preferred":[
         "\u00c5len"
+    ],
+    "name:swe_x_variant":[
+        "\u00c5lens kommun"
     ],
     "name:tur_x_preferred":[
         "\u00c5len"
@@ -306,7 +316,7 @@
         }
     ],
     "wof:id":1125891525,
-    "wof:lastmodified":1571392943,
+    "wof:lastmodified":1690849518,
     "wof:name":"\u00c5len",
     "wof:parent_id":1159296983,
     "wof:placetype":"locality",

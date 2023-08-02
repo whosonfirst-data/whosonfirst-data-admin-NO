@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Langev\u00e5g"
+    ],
+    "name:cat_x_preferred":[
+        "Langev\u00e5g"
+    ],
     "name:dan_x_preferred":[
         "Langev\u00e5g"
     ],
@@ -30,6 +36,9 @@
     ],
     "name:eng_x_preferred":[
         "Langev\u00e5g"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0646\u06af\u0647\u0648\u0648\u06af"
     ],
     "name:jav_x_preferred":[
         "Langev\u00e5g"
@@ -47,6 +56,9 @@
         "Langev\u00e5g"
     ],
     "name:nob_x_preferred":[
+        "Langev\u00e5g"
+    ],
+    "name:spa_x_preferred":[
         "Langev\u00e5g"
     ],
     "name:swe_x_preferred":[
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":1125985605,
-    "wof:lastmodified":1571387909,
+    "wof:lastmodified":1690849560,
     "wof:name":"Langev\u00e5g",
     "wof:parent_id":1159296721,
     "wof:placetype":"locality",

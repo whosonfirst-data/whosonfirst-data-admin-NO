@@ -22,7 +22,13 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Kiberg"
+    ],
     "name:ceb_x_preferred":[
+        "Kiberg"
+    ],
+    "name:dan_x_preferred":[
         "Kiberg"
     ],
     "name:eng_x_preferred":[
@@ -60,6 +66,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0418\u0442\u0440\u0435-\u0425\u0438\u0431\u0435\u0440\u0433"
+    ],
+    "name:spa_x_preferred":[
+        "Kiberg"
     ],
     "name:swe_x_preferred":[
         "Kiberg"
@@ -120,7 +129,7 @@
         }
     ],
     "wof:id":1125873655,
-    "wof:lastmodified":1581017366,
+    "wof:lastmodified":1690849527,
     "wof:name":"Kiberg",
     "wof:parent_id":1159297127,
     "wof:placetype":"locality",

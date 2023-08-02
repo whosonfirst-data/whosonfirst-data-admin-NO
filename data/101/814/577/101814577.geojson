@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000141,
     "geom:area_square_m":665381.860081,
-    "geom:bbox":"12.1000335212,67.5122917533,12.1305741892,67.5221879136",
+    "geom:bbox":"12.100034,67.512292,12.130574,67.522188",
     "geom:latitude":67.516552,
     "geom:longitude":12.115106,
     "iso:country":"NO",
@@ -19,8 +19,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:afr_x_preferred":[
+        "R\u00f8stlandet"
+    ],
     "name:ara_x_preferred":[
         "\u0631\u0648\u0633\u062a\u0644\u0627\u0646\u062f"
+    ],
+    "name:bar_x_preferred":[
+        "R\u00f8stlandet"
     ],
     "name:cat_x_preferred":[
         "R\u00f8stlandet"
@@ -28,13 +34,58 @@
     "name:ceb_x_preferred":[
         "R\u00f8st"
     ],
+    "name:dan_x_preferred":[
+        "R\u00f8stlandet"
+    ],
+    "name:deu_x_preferred":[
+        "R\u00f8stlandet"
+    ],
     "name:eng_x_preferred":[
+        "R\u00f8stlandet"
+    ],
+    "name:fao_x_preferred":[
         "R\u00f8stlandet"
     ],
     "name:fra_x_preferred":[
         "R\u00f8stlandet"
     ],
+    "name:frp_x_preferred":[
+        "R\u00f8stlandet"
+    ],
+    "name:frr_x_preferred":[
+        "R\u00f8stlandet"
+    ],
+    "name:fry_x_preferred":[
+        "R\u00f8stlandet"
+    ],
+    "name:fur_x_preferred":[
+        "R\u00f8stlandet"
+    ],
+    "name:gsw_x_preferred":[
+        "R\u00f8stlandet"
+    ],
+    "name:isl_x_preferred":[
+        "R\u00f8stlandet"
+    ],
+    "name:ita_x_preferred":[
+        "R\u00f8stlandet"
+    ],
     "name:jav_x_preferred":[
+        "R\u00f8stlandet"
+    ],
+    "name:kal_x_preferred":[
+        "R\u00f8stlandet"
+    ],
+    "name:ksh_x_preferred":[
+        "R\u00f8stlandet"
+    ],
+    "name:lfn_x_preferred":[
+        "R\u00f8stlandet"
+    ],
+    "name:lim_x_preferred":[
+        "R\u00f8stlandet"
+    ],
+    "name:ltz_x_preferred":[
         "R\u00f8stlandet"
     ],
     "name:msa_x_preferred":[
@@ -52,10 +103,70 @@
     "name:nor_x_preferred":[
         "R\u00f8stlandet"
     ],
+    "name:pap_x_preferred":[
+        "R\u00f8stlandet"
+    ],
+    "name:pcd_x_preferred":[
+        "R\u00f8stlandet"
+    ],
+    "name:pdc_x_preferred":[
+        "R\u00f8stlandet"
+    ],
+    "name:pdt_x_preferred":[
+        "R\u00f8stlandet"
+    ],
+    "name:pfl_x_preferred":[
+        "R\u00f8stlandet"
+    ],
+    "name:por_x_preferred":[
+        "R\u00f8stlandet"
+    ],
+    "name:prg_x_preferred":[
+        "R\u00f8stlandet"
+    ],
     "name:ron_x_preferred":[
         "R\u00f8stlandet"
     ],
     "name:spa_x_preferred":[
+        "R\u00f8stlandet"
+    ],
+    "name:stq_x_preferred":[
+        "R\u00f8stlandet"
+    ],
+    "name:swe_x_preferred":[
+        "R\u00f8stlandet"
+    ],
+    "name:vec_x_preferred":[
+        "R\u00f8stlandet"
+    ],
+    "name:vep_x_preferred":[
+        "R\u00f8stlandet"
+    ],
+    "name:vie_x_preferred":[
+        "R\u00f8stlandet"
+    ],
+    "name:vls_x_preferred":[
+        "R\u00f8stlandet"
+    ],
+    "name:vmf_x_preferred":[
+        "R\u00f8stlandet"
+    ],
+    "name:vol_x_preferred":[
+        "R\u00f8stlandet"
+    ],
+    "name:vot_x_preferred":[
+        "R\u00f8stlandet"
+    ],
+    "name:vro_x_preferred":[
+        "R\u00f8stlandet"
+    ],
+    "name:war_x_preferred":[
+        "R\u00f8stlandet"
+    ],
+    "name:wln_x_preferred":[
+        "R\u00f8stlandet"
+    ],
+    "name:wol_x_preferred":[
         "R\u00f8stlandet"
     ],
     "name:zho_x_preferred":[
@@ -90,7 +201,7 @@
         "wd:id":"Q5578230"
     },
     "wof:country":"NO",
-    "wof:geomhash":"88c3da8a50eb21a599d69105bd7d8e47",
+    "wof:geomhash":"6f7c98d0be12a2b81dac626bffeaeab1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +212,7 @@
         }
     ],
     "wof:id":101814577,
-    "wof:lastmodified":1571679206,
+    "wof:lastmodified":1690849455,
     "wof:name":"R\u00f8stlandet",
     "wof:parent_id":1159296803,
     "wof:placetype":"locality",
@@ -111,10 +222,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    12.1000335211566,
-    67.51229175330138,
-    12.13057418921392,
-    67.52218791361463
+    12.100034,
+    67.512292,
+    12.130574,
+    67.522188
 ],
-  "geometry": {"coordinates":[[[12.11921295299646,67.5221602066128],[12.11897746440326,67.51944616576475],[12.13057418921392,67.51930719288441],[12.13041637149058,67.51749784794902],[12.12809720818723,67.51752570089548],[12.12786078758467,67.51481168640856],[12.1185851127147,67.51492278127677],[12.11850666176474,67.51401810691738],[12.11386896550874,67.51407347015169],[12.11379069247783,67.51316879436837],[12.11147192252707,67.51319642937142],[12.1113937416651,67.51229175330138],[12.10443765884173,67.51237447300161],[12.10467144916362,67.51508851392623],[12.1000335211566,67.51514351556557],[12.10018907046447,67.51695288492573],[12.10250820847284,67.51692539701315],[12.10266395493727,67.5187347675062],[12.10730255898039,67.51867969618962],[12.10722451100588,67.51777501277826],[12.11418212210737,67.51769218174678],[12.1143387391021,67.51950154262249],[12.11665810427439,67.51947386935774],[12.11689333551175,67.52218791361463],[12.11921295299646,67.5221602066128]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[12.119213,67.52216],[12.118977,67.519446],[12.130574,67.519307],[12.130416,67.517498],[12.128097,67.517526],[12.127861,67.51481200000001],[12.118585,67.514923],[12.118507,67.51401799999999],[12.113869,67.514073],[12.113791,67.513169],[12.111472,67.51319599999999],[12.111394,67.512292],[12.104438,67.51237399999999],[12.104671,67.515089],[12.100034,67.51514400000001],[12.100189,67.516953],[12.102508,67.516925],[12.102664,67.51873500000001],[12.107303,67.51868],[12.107225,67.517775],[12.114182,67.517692],[12.114339,67.519502],[12.116658,67.519474],[12.116893,67.522188],[12.119213,67.52216]]],"type":"Polygon"}
 }

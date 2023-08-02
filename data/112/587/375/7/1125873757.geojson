@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"9.3800275,63.6598155,9.3800275,63.6598155",
+    "geom:bbox":"9.380028,63.659816,9.380028,63.659816",
     "geom:latitude":63.659816,
     "geom:longitude":9.380028,
     "gn:country":"NO",
@@ -20,6 +20,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Storfosna"
+    ],
+    "name:dan_x_preferred":[
+        "Storfosna"
+    ],
     "name:eng_x_preferred":[
         "Storfosna"
     ],
@@ -78,7 +84,7 @@
     },
     "wof:country":"NO",
     "wof:created":1497294437,
-    "wof:geomhash":"7bf6d4ffe5fe2804d7d548af0325972e",
+    "wof:geomhash":"4d9f793c3d9b57ee480d19c4d626d1a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1125873757,
-    "wof:lastmodified":1581021621,
+    "wof:lastmodified":1690849535,
     "wof:name":"Storfosna",
     "wof:parent_id":1527971133,
     "wof:placetype":"locality",
@@ -99,10 +105,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    9.3800275,
-    63.6598155,
-    9.3800275,
-    63.6598155
+    9.380028,
+    63.659816,
+    9.380028,
+    63.659816
 ],
-  "geometry": {"coordinates":[9.3800275,63.6598155],"type":"Point"}
+  "geometry": {"coordinates":[9.380028,63.659816],"type":"Point"}
 }

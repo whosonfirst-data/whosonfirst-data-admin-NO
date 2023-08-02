@@ -30,17 +30,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:dan_x_preferred":[
+        "Medkila"
+    ],
     "name:eng_x_preferred":[
         "Medkila"
     ],
     "name:eng_x_variant":[
         "Midkila"
     ],
+    "name:nno_x_preferred":[
+        "Medkila"
+    ],
+    "name:nob_x_preferred":[
+        "Medkila"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        85633341,
         1159297451,
+        85633341,
         101814671,
         1527947259
     ],
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":1495148911,
-    "wof:lastmodified":1645145945,
+    "wof:lastmodified":1690849652,
     "wof:name":"Medkila",
     "wof:parent_id":101814671,
     "wof:placetype":"neighbourhood",

@@ -32,6 +32,9 @@
     "name:bpy_x_preferred":[
         "\u09a8\u09be\u09a8\u09cd\u09a8\u09c7\u09b8\u09cd\u099f\u09c7\u09a1"
     ],
+    "name:bul_x_preferred":[
+        "\u041d\u0430\u043d\u0435\u0441\u0442\u0430\u0434"
+    ],
     "name:cat_x_preferred":[
         "Nannestad"
     ],
@@ -53,14 +56,23 @@
     "name:eus_x_preferred":[
         "Nannestad"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0646\u0633\u062a\u0627\u062f"
+    ],
     "name:fin_x_preferred":[
         "Nannestad"
     ],
     "name:fra_x_preferred":[
         "Nannestad"
     ],
+    "name:gle_x_preferred":[
+        "Nannestad"
+    ],
     "name:glg_x_preferred":[
         "Nannestad"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05e0\u05e1\u05d8\u05d0\u05d3"
     ],
     "name:hun_x_preferred":[
         "Nannestad k\u00f6zs\u00e9g"
@@ -134,6 +146,9 @@
     "name:swe_x_preferred":[
         "Nannestad"
     ],
+    "name:tur_x_preferred":[
+        "Nannestad"
+    ],
     "name:vie_x_preferred":[
         "Nannestad"
     ],
@@ -142,6 +157,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5357\u5167\u65af\u5854"
+    ],
+    "name:zho_x_variant":[
+        "\u6960\u5167\u65af\u5854"
     ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":null,
@@ -191,7 +209,7 @@
         }
     ],
     "wof:id":1125972961,
-    "wof:lastmodified":1581020254,
+    "wof:lastmodified":1690849546,
     "wof:name":"Nannestad",
     "wof:parent_id":1159297073,
     "wof:placetype":"locality",
