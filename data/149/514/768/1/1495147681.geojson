@@ -25,7 +25,13 @@
     "name:bar_x_preferred":[
         "Andselv"
     ],
+    "name:cat_x_preferred":[
+        "Andselv"
+    ],
     "name:ceb_x_preferred":[
+        "Andselv"
+    ],
+    "name:dan_x_preferred":[
         "Andselv"
     ],
     "name:deu_x_preferred":[
@@ -54,6 +60,9 @@
     ],
     "name:ron_x_preferred":[
         "Andselv"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u043d\u0441\u044d\u043b\u044c\u0432"
     ],
     "name:spa_x_preferred":[
         "Andselv"
@@ -89,11 +98,11 @@
     "woe:name_adm1":"Troms Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1527947259,
         102191581,
         1159296775,
         85633341,
-        1495123895
+        1495123895,
+        1527947259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":1495147681,
-    "wof:lastmodified":1581017537,
+    "wof:lastmodified":1690849648,
     "wof:name":"Andselv",
     "wof:parent_id":1495123895,
     "wof:placetype":"neighbourhood",

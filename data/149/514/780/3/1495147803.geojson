@@ -20,11 +20,29 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Korsvik"
+    ],
+    "name:deu_x_preferred":[
+        "Korsvik"
+    ],
     "name:eng_x_preferred":[
         "Korsvik"
     ],
     "name:eng_x_variant":[
         "Kosvik"
+    ],
+    "name:fra_x_preferred":[
+        "Korsvik"
+    ],
+    "name:nld_x_preferred":[
+        "Korsvik"
+    ],
+    "name:nno_x_preferred":[
+        "Korsvik"
+    ],
+    "name:nob_x_preferred":[
+        "Korsvik"
     ],
     "name:nor_x_preferred":[
         "Korsvik"
@@ -54,8 +72,8 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        85633341,
         1527971063,
+        85633341,
         101751911,
         1527947265
     ],
@@ -79,7 +97,7 @@
         }
     ],
     "wof:id":1495147803,
-    "wof:lastmodified":1660672164,
+    "wof:lastmodified":1690849655,
     "wof:name":"Korsvik",
     "wof:parent_id":101751911,
     "wof:placetype":"neighbourhood",

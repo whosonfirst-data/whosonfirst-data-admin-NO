@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Skulsfjord"
+    ],
     "name:dan_x_preferred":[
         "Skulsfjord"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:nob_x_preferred":[
         "Skulsfjord"
+    ],
+    "name:nob_x_variant":[
+        "Skulsfjorden"
     ],
     "name:swe_x_preferred":[
         "Skulsfjord"
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1125773063,
-    "wof:lastmodified":1581017391,
+    "wof:lastmodified":1690849616,
     "wof:name":"Skulsfjord",
     "wof:parent_id":1159297187,
     "wof:placetype":"locality",

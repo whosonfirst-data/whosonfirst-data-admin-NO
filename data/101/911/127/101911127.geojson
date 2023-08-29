@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000057,
     "geom:area_square_m":338031.31263,
-    "geom:bbox":"7.45181648735,61.4413378872,7.4668202302,61.4477991777",
+    "geom:bbox":"7.451816,61.441338,7.46682,61.447799",
     "geom:latitude":61.444618,
     "geom:longitude":7.459957,
     "iso:country":"NO",
@@ -19,13 +19,34 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ast_x_preferred":[
+        "Lustre"
+    ],
+    "name:cat_x_preferred":[
+        "Lustre"
+    ],
+    "name:dan_x_preferred":[
+        "Lustre"
+    ],
     "name:deu_x_preferred":[
         "Lustre"
     ],
     "name:eng_x_preferred":[
         "Lustre"
     ],
+    "name:eus_x_preferred":[
+        "Lustre"
+    ],
+    "name:fin_x_preferred":[
+        "Lustre"
+    ],
     "name:fra_x_preferred":[
+        "Lustre"
+    ],
+    "name:hun_x_preferred":[
+        "Lustre"
+    ],
+    "name:ita_x_preferred":[
         "Lustre"
     ],
     "name:jpn_x_preferred":[
@@ -34,10 +55,40 @@
     "name:kor_x_preferred":[
         "\ub7ec\uc2a4\ud130"
     ],
+    "name:nld_x_preferred":[
+        "Lustre"
+    ],
+    "name:nno_x_preferred":[
+        "Lustre"
+    ],
+    "name:nob_x_preferred":[
+        "Lustre"
+    ],
+    "name:pol_x_preferred":[
+        "Lustre"
+    ],
+    "name:por_x_preferred":[
+        "Lustre"
+    ],
     "name:pus_x_preferred":[
         "\u0631\u0648\u062f\u0633\u0647\u0648\u06ab\u062f\u0627"
     ],
     "name:ron_x_preferred":[
+        "Lustre"
+    ],
+    "name:sme_x_preferred":[
+        "Lustre"
+    ],
+    "name:spa_x_preferred":[
+        "Lustre"
+    ],
+    "name:sqi_x_preferred":[
+        "Lustre"
+    ],
+    "name:swe_x_preferred":[
+        "Lustre"
+    ],
+    "name:tur_x_preferred":[
         "Lustre"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -77,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8f2f749499b2f7f16be5f71b508e3f18",
+    "wof:geomhash":"71884174a25bb07287e1c8b6483ef262",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +139,7 @@
         }
     ],
     "wof:id":101911127,
-    "wof:lastmodified":1582313602,
+    "wof:lastmodified":1690849460,
     "wof:name":"Luster",
     "wof:parent_id":1159297283,
     "wof:placetype":"locality",
@@ -98,10 +149,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.45181648734911,
-    61.44133788724548,
-    7.46682023020253,
-    61.44779917773837
+    7.451816,
+    61.441338,
+    7.46682,
+    61.447799
 ],
-  "geometry": {"coordinates":[[[7.46459666435624,61.44779917773837],[7.46466808494569,61.44689926922018],[7.46653480402313,61.44693159200017],[7.46682023020253,61.44333195818814],[7.4612207132584,61.44323493076757],[7.4612922155988,61.44233502647961],[7.45755932709682,61.44227022462809],[7.45763092970174,61.44137032282947],[7.45576454327431,61.44133788724548],[7.45569288821906,61.44223778801626],[7.45196002122185,61.44217284342045],[7.45181648734911,61.44397264215058],[7.45368302396287,61.44400512840321],[7.45361130250387,61.44490502945092],[7.45547789516672,61.44493749294026],[7.45540622151947,61.4458373954526],[7.45913952252999,61.44590225310833],[7.45899637116366,61.44770206355179],[7.46459666435624,61.44779917773837]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[7.464597,61.447799],[7.464668,61.446899],[7.466535,61.446932],[7.46682,61.443332],[7.461221,61.443235],[7.461292,61.442335],[7.457559,61.44227],[7.457631,61.44137],[7.455765,61.441338],[7.455693,61.442238],[7.45196,61.442173],[7.451816,61.443973],[7.453683,61.444005],[7.453611,61.444905],[7.455478,61.444937],[7.455406,61.445837],[7.45914,61.445902],[7.458996,61.447702],[7.464597,61.447799]]],"type":"Polygon"}
 }

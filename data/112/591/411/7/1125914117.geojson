@@ -22,10 +22,19 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Sollia Kommune"
+    ],
     "name:eng_x_preferred":[
         "Sollia"
     ],
+    "name:eng_x_variant":[
+        "Sollia Municipality"
+    ],
     "name:fra_x_preferred":[
+        "Sollia"
+    ],
+    "name:gle_x_preferred":[
         "Sollia"
     ],
     "name:jav_x_preferred":[
@@ -39,6 +48,12 @@
     ],
     "name:nob_x_preferred":[
         "Sollia"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Sollia"
+    ],
+    "name:swe_x_preferred":[
+        "Sollia kommun"
     ],
     "name:und_x_variant":[
         "Sollien"
@@ -95,7 +110,7 @@
         }
     ],
     "wof:id":1125914117,
-    "wof:lastmodified":1581018915,
+    "wof:lastmodified":1690849558,
     "wof:name":"Sollia",
     "wof:parent_id":1159297241,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "S\u00e6velandsvik"
+    ],
     "name:eng_x_preferred":[
         "S\u00e6velandsvik"
     ],
@@ -32,6 +35,12 @@
         "S\u00e6velandsvik"
     ],
     "name:nld_x_preferred":[
+        "S\u00e6velandsvik"
+    ],
+    "name:nno_x_preferred":[
+        "S\u00e6velandsvik"
+    ],
+    "name:nob_x_preferred":[
         "S\u00e6velandsvik"
     ],
     "name:und_x_variant":[
@@ -89,7 +98,7 @@
         }
     ],
     "wof:id":1125934527,
-    "wof:lastmodified":1571679442,
+    "wof:lastmodified":1690849470,
     "wof:name":"S\u00e6veland",
     "wof:parent_id":1159297005,
     "wof:placetype":"locality",

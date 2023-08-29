@@ -26,6 +26,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:dan_x_preferred":[
+        "Bergenhus"
+    ],
     "name:deu_x_preferred":[
         "Bergenhus"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:nor_x_preferred":[
         "Bergenhus"
+    ],
+    "name:zho_x_preferred":[
+        "\u5351\u5c14\u6839\u8bb8\u65af"
     ],
     "qs:gn_adm0_cc":"NO",
     "qs:gn_id":0,
@@ -112,7 +118,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1582313569,
+    "wof:lastmodified":1690849349,
     "wof:name":"Bergenhus",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

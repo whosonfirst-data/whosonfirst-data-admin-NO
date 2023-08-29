@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Seim"
+    ],
     "name:eng_x_preferred":[
         "Seim"
     ],
@@ -31,13 +34,22 @@
     "name:heb_x_preferred":[
         "\u05e1\u05d9\u05d9\u05dd"
     ],
+    "name:ita_x_preferred":[
+        "Seim"
+    ],
     "name:jav_x_preferred":[
         "Seim"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30a4\u30e0"
     ],
     "name:msa_x_preferred":[
         "Seim"
     ],
     "name:nld_x_preferred":[
+        "Seim"
+    ],
+    "name:nno_x_preferred":[
         "Seim"
     ],
     "name:nob_x_preferred":[
@@ -98,7 +110,7 @@
         }
     ],
     "wof:id":1125828905,
-    "wof:lastmodified":1581018605,
+    "wof:lastmodified":1690849585,
     "wof:name":"Seim",
     "wof:parent_id":1527971033,
     "wof:placetype":"locality",

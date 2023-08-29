@@ -63,11 +63,17 @@
     "name:amh_x_variant":[
         "\u1296\u122d\u12cc"
     ],
+    "name:ami_x_preferred":[
+        "Norway"
+    ],
     "name:ang_x_preferred":[
         "Nor\u00feweg"
     ],
     "name:ang_x_variant":[
         "Nor\u00fe\u01bfe\u021d"
+    ],
+    "name:anp_x_preferred":[
+        "\u0928\u0949\u0930\u094d\u0935\u0947"
     ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0631\u0648\u064a\u062c"
@@ -98,6 +104,12 @@
     ],
     "name:ava_x_preferred":[
         "\u041d\u043e\u0440\u0432\u0435\u0433\u0438\u044f"
+    ],
+    "name:avk_x_preferred":[
+        "Norga"
+    ],
+    "name:awa_x_preferred":[
+        "\u0928\u093e\u0930\u094d\u0935\u0947"
     ],
     "name:aym_x_preferred":[
         "Nurweka"
@@ -210,6 +222,9 @@
     "name:ckb_x_preferred":[
         "\u0646\u06c6\u0631\u0648\u06cc\u0698"
     ],
+    "name:ckb_x_variant":[
+        "\u0646\u06d5\u0631\u0648\u06cc\u0698"
+    ],
     "name:cor_x_preferred":[
         "Norgagh"
     ],
@@ -227,6 +242,9 @@
     ],
     "name:cym_x_preferred":[
         "Norwy"
+    ],
+    "name:dag_x_preferred":[
+        "Norway"
     ],
     "name:dan_x_preferred":[
         "Norge"
@@ -336,6 +354,9 @@
     "name:frr_x_preferred":[
         "Norweegen"
     ],
+    "name:frr_x_variant":[
+        "Noorweegen"
+    ],
     "name:fry_x_preferred":[
         "Noarwegen"
     ],
@@ -366,6 +387,9 @@
     "name:glg_x_variant":[
         "Noruega - Noreg"
     ],
+    "name:glk_x_preferred":[
+        "\u0646\u0624\u0631\u0648\u0698"
+    ],
     "name:glv_x_preferred":[
         "Norlynn"
     ],
@@ -380,6 +404,9 @@
     ],
     "name:got_x_variant":[
         "\ud800\udf3d\ud800\udf30\ud800\udf3f\ud800\udf42\ud800\udf45\ud800\udf39\ud800\udf32\ud800\udf43"
+    ],
+    "name:gpe_x_preferred":[
+        "Norway"
     ],
     "name:grn_x_preferred":[
         "Noruega"
@@ -483,6 +510,9 @@
     "name:jav_x_preferred":[
         "Norw\u00e9gia"
     ],
+    "name:jav_x_variant":[
+        "Nurw\u00e8gen"
+    ],
     "name:jbo_x_preferred":[
         "noreg"
     ],
@@ -502,7 +532,8 @@
         "Nu\u1e5bwij"
     ],
     "name:kab_x_variant":[
-        "Nurvij"
+        "Nurvij",
+        "Nu\u1e5bvij"
     ],
     "name:kal_x_preferred":[
         "Norge"
@@ -515,6 +546,9 @@
     ],
     "name:kas_x_preferred":[
         "\u0928\u093e\u0930\u094d\u0935\u0947"
+    ],
+    "name:kas_x_variant":[
+        "\u0646\u0627\u0631\u0648\u06d2"
     ],
     "name:kat_x_preferred":[
         "\u10dc\u10dd\u10e0\u10d5\u10d4\u10d2\u10d8\u10d0"
@@ -604,7 +638,8 @@
         "Norveggia"
     ],
     "name:lij_x_variant":[
-        "N\u00f2rvexa"
+        "N\u00f2rvexa",
+        "Norv\u00e9ggia"
     ],
     "name:lim_x_preferred":[
         "Noorwege"
@@ -620,6 +655,9 @@
     ],
     "name:liv_x_preferred":[
         "Norv\u0113gm\u014d"
+    ],
+    "name:lld_x_preferred":[
+        "Norvegia"
     ],
     "name:lmo_x_preferred":[
         "Nurvegia"
@@ -649,6 +687,9 @@
     "name:lzh_x_preferred":[
         "\u632a\u5a01"
     ],
+    "name:mad_x_preferred":[
+        "Norwegia"
+    ],
     "name:mai_x_preferred":[
         "\u0928\u093e\u0930\u094d\u0935\u0947"
     ],
@@ -663,6 +704,9 @@
     ],
     "name:mdf_x_preferred":[
         "\u041d\u043e\u0440\u0432\u0435\u0433\u0438\u0435"
+    ],
+    "name:mdf_x_variant":[
+        "\u041d\u043e\u0440\u0432\u0435\u0433\u0438\u044f"
     ],
     "name:mhr_x_preferred":[
         "\u041d\u043e\u0440\u0432\u0435\u0433\u0438\u0439"
@@ -682,8 +726,14 @@
     "name:mlt_x_preferred":[
         "Norve\u0121ja"
     ],
+    "name:mni_x_preferred":[
+        "\uabc5\uabe3\uabd4\uabcb\uabe6"
+    ],
     "name:mon_x_preferred":[
         "\u041d\u043e\u0440\u0432\u0435\u0433\u0438"
+    ],
+    "name:mos_x_preferred":[
+        "Norway"
     ],
     "name:mri_x_preferred":[
         "N\u014dwei"
@@ -804,6 +854,9 @@
     "name:pcd_x_preferred":[
         "Norv\u00e8ge"
     ],
+    "name:pcm_x_preferred":[
+        "Norway"
+    ],
     "name:pdc_x_preferred":[
         "Norwegen"
     ],
@@ -877,6 +930,9 @@
     "name:san_x_preferred":[
         "\u0928\u093e\u0930\u094d\u0935\u0947"
     ],
+    "name:sat_x_preferred":[
+        "\u1c71\u1c5a\u1c68\u1c63\u1c6e"
+    ],
     "name:scn_x_preferred":[
         "Norveggia"
     ],
@@ -889,14 +945,23 @@
     "name:sgs_x_preferred":[
         "Nuorveg\u0117j\u0117"
     ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u107c\u1031\u1083\u1087\u101d\u1030\u107a\u103a\u1038"
+    ],
     "name:sin_x_preferred":[
         "\u0db1\u0ddd\u0dbb\u0dca\u0dc0\u0dda"
+    ],
+    "name:sjd_x_preferred":[
+        "\u0422\u0430\u0304\u0440\u0435\u0304\u043c\u043c\u044c\u043d\u0435"
     ],
     "name:sje_x_preferred":[
         "Vuodna"
     ],
     "name:sju_x_preferred":[
         "N\u00fcrjje"
+    ],
+    "name:skr_x_preferred":[
+        "\u0646\u0627\u0631\u0648\u06d2"
     ],
     "name:slk_x_preferred":[
         "N\u00f3rsko"
@@ -985,6 +1050,9 @@
     "name:swe_x_preferred":[
         "Norge"
     ],
+    "name:syl_x_preferred":[
+        "\ua818\ua81e\ua805\ua826"
+    ],
     "name:szl_x_preferred":[
         "Norwygijo"
     ],
@@ -1008,6 +1076,9 @@
     ],
     "name:tat_x_variant":[
         "\u041d\u0430\u0440\u0432\u0438\u0433\u0438\u044f"
+    ],
+    "name:tay_x_preferred":[
+        "Norway"
     ],
     "name:tel_x_preferred":[
         "\u0c28\u0c3e\u0c30\u0c4d\u0c35\u0c47"
@@ -1039,6 +1110,9 @@
     "name:tir_x_variant":[
         "\u1296\u122d\u12c8\u12ed"
     ],
+    "name:tok_x_preferred":[
+        "ma Nosiki"
+    ],
     "name:ton_x_preferred":[
         "Noau\u0113"
     ],
@@ -1047,6 +1121,9 @@
     ],
     "name:tpi_x_preferred":[
         "Nowe"
+    ],
+    "name:trv_x_preferred":[
+        "Norway"
     ],
     "name:tsn_x_preferred":[
         "Norway"
@@ -1367,7 +1444,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "quattroshapes"
     ],
-    "wof:geomhash":"1c424c33f55ceb1569cad8d5f61569c7",
+    "wof:geomhash":"3bac62fa71d47c143083017635efaa7e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1386,7 +1463,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1684351371,
+    "wof:lastmodified":1690849334,
     "wof:name":"Norway",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

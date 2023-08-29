@@ -22,7 +22,13 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Hommelst\u00f8"
+    ],
     "name:ceb_x_preferred":[
+        "Hommelst\u00f8"
+    ],
+    "name:dan_x_preferred":[
         "Hommelst\u00f8"
     ],
     "name:eng_x_preferred":[
@@ -33,6 +39,9 @@
     ],
     "name:jav_x_preferred":[
         "Hommelst\u00f8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud648\uba5c\uc2a4\ud1f4"
     ],
     "name:msa_x_preferred":[
         "Hommelst\u00f8"
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":1125988391,
-    "wof:lastmodified":1571679274,
+    "wof:lastmodified":1690849562,
     "wof:name":"Hommelst",
     "wof:parent_id":1159297445,
     "wof:placetype":"locality",

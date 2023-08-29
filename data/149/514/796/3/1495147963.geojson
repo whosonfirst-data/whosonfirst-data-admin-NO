@@ -121,6 +121,9 @@
     "name:jav_x_preferred":[
         "Jaren"
     ],
+    "name:jpn_x_preferred":[
+        "\u30e4\u30fc\u30ec\u30f3"
+    ],
     "name:kon_x_preferred":[
         "Jaren"
     ],
@@ -256,11 +259,11 @@
     "woe:name_adm1":"Oppland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1527947263,
         102191581,
         1159296747,
         85633341,
-        101815597
+        101815597,
+        1527947263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -283,7 +286,7 @@
         }
     ],
     "wof:id":1495147963,
-    "wof:lastmodified":1581019052,
+    "wof:lastmodified":1690849639,
     "wof:name":"Jaren",
     "wof:parent_id":101815597,
     "wof:placetype":"neighbourhood",

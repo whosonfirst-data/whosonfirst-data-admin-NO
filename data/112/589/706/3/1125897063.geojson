@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"10.4512495,61.237166,10.4512495,61.237166",
+    "geom:bbox":"10.451249,61.237166,10.451249,61.237166",
     "geom:latitude":61.237166,
     "geom:longitude":10.451249,
     "gn:country":null,
@@ -62,6 +62,9 @@
     "name:fra_x_preferred":[
         "\u00d8yer"
     ],
+    "name:gle_x_preferred":[
+        "\u00d8yer"
+    ],
     "name:hye_x_preferred":[
         "\u0537\u0575\u0565\u0580"
     ],
@@ -76,6 +79,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30aa\u30c3\u30d7\u30e9\u30f3\u770c"
+    ],
+    "name:kor_x_preferred":[
+        "\uc678\uc704\uc5d0\ub974"
     ],
     "name:lat_x_preferred":[
         "\u00d8yer"
@@ -140,6 +146,9 @@
     "name:ukr_x_preferred":[
         "\u0415\u0439\u0454\u0440"
     ],
+    "name:ukr_x_variant":[
+        "\u0415\u0454\u0440"
+    ],
     "name:vie_x_preferred":[
         "\u00d8yer"
     ],
@@ -186,7 +195,7 @@
     },
     "wof:country":"NO",
     "wof:created":1497295624,
-    "wof:geomhash":"79235fd6c434a791bf97bb9b0169ee98",
+    "wof:geomhash":"740f543d0b7427523a152bcf76470522",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -197,7 +206,7 @@
         }
     ],
     "wof:id":1125897063,
-    "wof:lastmodified":1581019009,
+    "wof:lastmodified":1690849515,
     "wof:name":"\u00d8yer",
     "wof:parent_id":1159296701,
     "wof:placetype":"locality",
@@ -207,10 +216,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    10.4512495,
+    10.451249,
     61.237166,
-    10.4512495,
+    10.451249,
     61.237166
 ],
-  "geometry": {"coordinates":[10.4512495,61.237166],"type":"Point"}
+  "geometry": {"coordinates":[10.451249,61.237166],"type":"Point"}
 }

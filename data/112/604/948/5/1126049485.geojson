@@ -22,13 +22,25 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "\u00d8verbygd"
+    ],
+    "name:dan_x_preferred":[
+        "\u00d8verbygd"
+    ],
     "name:deu_x_preferred":[
         "\u00d8verbygd"
     ],
     "name:eng_x_preferred":[
         "\u00d8verbygd"
     ],
+    "name:eng_x_variant":[
+        "\u00d8verbygd Municipality"
+    ],
     "name:fra_x_preferred":[
+        "\u00d8verbygd"
+    ],
+    "name:gle_x_preferred":[
         "\u00d8verbygd"
     ],
     "name:msa_x_preferred":[
@@ -40,11 +52,20 @@
     "name:nno_x_preferred":[
         "\u00d8verbygd"
     ],
+    "name:nno_x_variant":[
+        "\u00d8verbygd kommune"
+    ],
     "name:nob_x_preferred":[
         "\u00d8verbygd"
     ],
     "name:ron_x_preferred":[
         "\u00d8verbygd"
+    ],
+    "name:ron_x_variant":[
+        "Comuna \u00d8verbygd"
+    ],
+    "name:swe_x_preferred":[
+        "\u00d8verbygds kommun"
     ],
     "name:und_x_variant":[
         "\u00d6verby"
@@ -101,7 +122,7 @@
         }
     ],
     "wof:id":1126049485,
-    "wof:lastmodified":1581017492,
+    "wof:lastmodified":1690849495,
     "wof:name":"\u00d8verbygd",
     "wof:parent_id":1159296775,
     "wof:placetype":"locality",

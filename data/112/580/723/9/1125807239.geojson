@@ -49,6 +49,9 @@
     "name:eng_x_preferred":[
         "Alstahaug"
     ],
+    "name:eng_x_variant":[
+        "Alstahaug Municipality"
+    ],
     "name:epo_x_preferred":[
         "Alstahaug"
     ],
@@ -68,6 +71,9 @@
         "Alstahaug"
     ],
     "name:fra_x_preferred":[
+        "Alstahaug"
+    ],
+    "name:gle_x_preferred":[
         "Alstahaug"
     ],
     "name:hun_x_preferred":[
@@ -103,6 +109,9 @@
     "name:nno_x_preferred":[
         "Alstahaug"
     ],
+    "name:nno_x_variant":[
+        "Alstahaug kommune"
+    ],
     "name:nob_x_preferred":[
         "Alstahaug"
     ],
@@ -114,6 +123,9 @@
     ],
     "name:ron_x_preferred":[
         "Alstahaug"
+    ],
+    "name:ron_x_variant":[
+        "Comuna Alstahaug"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u0441\u0442\u0430\u0445\u0451\u0443\u0433"
@@ -136,8 +148,14 @@
     "name:swe_x_preferred":[
         "Alstahaug"
     ],
+    "name:swe_x_variant":[
+        "Alstahaugs kommun"
+    ],
     "name:ukr_x_preferred":[
         "\u0410\u043b\u0441\u0442\u0430\u0445\u044c\u043e\u0443\u0433"
+    ],
+    "name:ukr_x_variant":[
+        "\u0410\u043b\u0441\u0442\u0430\u0433\u0435\u0443\u0433"
     ],
     "name:vie_x_preferred":[
         "Alstahaug"
@@ -200,7 +218,7 @@
         }
     ],
     "wof:id":1125807239,
-    "wof:lastmodified":1571679213,
+    "wof:lastmodified":1690849523,
     "wof:name":"Alstahaug",
     "wof:parent_id":1159297007,
     "wof:placetype":"locality",

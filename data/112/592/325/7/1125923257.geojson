@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"11.3878435,64.0447425,11.3878435,64.0447425",
+    "geom:bbox":"11.387844,64.044742,11.387844,64.044742",
     "geom:latitude":64.044742,
     "geom:longitude":11.387844,
     "gn:country":null,
@@ -26,10 +26,16 @@
     "name:ceb_x_preferred":[
         "Beitstadsundet"
     ],
+    "name:dan_x_preferred":[
+        "Beitstad"
+    ],
     "name:deu_x_preferred":[
         "Beitstad"
     ],
     "name:eng_x_preferred":[
+        "Beitstad"
+    ],
+    "name:fin_x_preferred":[
         "Beitstad"
     ],
     "name:fra_x_preferred":[
@@ -48,6 +54,9 @@
         "Beitstad"
     ],
     "name:nob_x_preferred":[
+        "Beitstad"
+    ],
+    "name:swe_x_preferred":[
         "Beitstad"
     ],
     "qs_pg:aaroncc":"NO",
@@ -87,7 +96,7 @@
     },
     "wof:country":"NO",
     "wof:created":1497296556,
-    "wof:geomhash":"0958878ffcf9d1153c73f7347a234e38",
+    "wof:geomhash":"319c82a929aa3b6c3611dd53ced34e11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":1125923257,
-    "wof:lastmodified":1581021640,
+    "wof:lastmodified":1690849479,
     "wof:name":"Beitstad",
     "wof:parent_id":1528041083,
     "wof:placetype":"locality",
@@ -108,10 +117,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    11.3878435,
-    64.0447425,
-    11.3878435,
-    64.0447425
+    11.387844,
+    64.044742,
+    11.387844,
+    64.044742
 ],
-  "geometry": {"coordinates":[11.3878435,64.0447425],"type":"Point"}
+  "geometry": {"coordinates":[11.387844,64.044742],"type":"Point"}
 }

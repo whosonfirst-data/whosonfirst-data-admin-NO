@@ -40,8 +40,14 @@
     "name:fra_x_preferred":[
         "Frei"
     ],
+    "name:gle_x_preferred":[
+        "Frei"
+    ],
     "name:ita_x_preferred":[
         "Frei"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30e9\u30a4"
     ],
     "name:lat_x_preferred":[
         "Frei"
@@ -75,6 +81,9 @@
     ],
     "name:swe_x_preferred":[
         "Frei kommun"
+    ],
+    "name:swe_x_variant":[
+        "Frei"
     ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":"NO",
@@ -128,7 +137,7 @@
         }
     ],
     "wof:id":1125920377,
-    "wof:lastmodified":1571386893,
+    "wof:lastmodified":1690849478,
     "wof:name":"Frei",
     "wof:parent_id":1159297475,
     "wof:placetype":"locality",

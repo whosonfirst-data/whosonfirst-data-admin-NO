@@ -25,8 +25,14 @@
     "name:ceb_x_preferred":[
         "Furuflata"
     ],
+    "name:dan_x_preferred":[
+        "Furuflata"
+    ],
     "name:eng_x_preferred":[
         "Furuflaten"
+    ],
+    "name:fkv_x_preferred":[
+        "Vuosvankka"
     ],
     "name:fra_x_preferred":[
         "Furuflaten"
@@ -40,11 +46,20 @@
     "name:nno_x_preferred":[
         "Furuflaten"
     ],
+    "name:nno_x_variant":[
+        "Furuflata"
+    ],
     "name:nob_x_preferred":[
         "Furuflaten"
     ],
+    "name:nob_x_variant":[
+        "Furuflata"
+    ],
     "name:ron_x_preferred":[
         "Furuflaten"
+    ],
+    "name:sme_x_preferred":[
+        "Vuo\u0161v\u00e1ggi"
     ],
     "name:spa_x_preferred":[
         "Furuflaten"
@@ -100,7 +115,7 @@
         }
     ],
     "wof:id":1125787819,
-    "wof:lastmodified":1581017487,
+    "wof:lastmodified":1690849605,
     "wof:name":"Furuflata",
     "wof:parent_id":1159297359,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Teie"
+    ],
     "name:eng_x_preferred":[
         "Teie"
     ],
@@ -56,11 +59,11 @@
     "woe:name_adm1":"Vestfold Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1527947267,
         102191581,
         1159297071,
         85633341,
-        101815519
+        101815519,
+        1527947267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1495149349,
-    "wof:lastmodified":1581019700,
+    "wof:lastmodified":1690849648,
     "wof:name":"Teie",
     "wof:parent_id":101815519,
     "wof:placetype":"neighbourhood",

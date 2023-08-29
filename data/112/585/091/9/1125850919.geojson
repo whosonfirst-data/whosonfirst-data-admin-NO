@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Straume"
+    ],
     "name:ceb_x_preferred":[
         "Straume"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:ron_x_preferred":[
         "Straume i B\u00f8"
+    ],
+    "name:swe_x_preferred":[
+        "Straume"
     ],
     "name:und_x_variant":[
         "Str\u00f6mme"
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1125850919,
-    "wof:lastmodified":1571679204,
+    "wof:lastmodified":1690849595,
     "wof:name":"Straume",
     "wof:parent_id":1159297417,
     "wof:placetype":"locality",

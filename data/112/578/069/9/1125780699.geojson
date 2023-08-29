@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"10.385856,59.1742415,10.385856,59.1742415",
+    "geom:bbox":"10.385856,59.174242,10.385856,59.174242",
     "geom:latitude":59.174242,
     "geom:longitude":10.385856,
     "gn:country":"NO",
@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Kj\u00f8pmannskj\u00e6r"
     ],
+    "name:dan_x_preferred":[
+        "Kj\u00f8pmannskj\u00e6r"
+    ],
     "name:eng_x_preferred":[
         "Kj\u00f8pmannskj\u00e6r"
     ],
@@ -33,6 +36,9 @@
         "Kj\u00f8pmannskj\u00e6r"
     ],
     "name:nld_x_preferred":[
+        "Kj\u00f8pmannskj\u00e6r"
+    ],
+    "name:nno_x_preferred":[
         "Kj\u00f8pmannskj\u00e6r"
     ],
     "name:nob_x_preferred":[
@@ -76,7 +82,7 @@
     },
     "wof:country":"NO",
     "wof:created":1497290458,
-    "wof:geomhash":"0472963e7e16eb5452dc25e01616319c",
+    "wof:geomhash":"bdf1d8105796af0ae4ceae278ab2ce84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1125780699,
-    "wof:lastmodified":1581020441,
+    "wof:lastmodified":1690849604,
     "wof:name":"Kj\u00f8pmannskj\u00e6r",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -97,9 +103,9 @@
 },
   "bbox": [
     10.385856,
-    59.1742415,
+    59.174242,
     10.385856,
-    59.1742415
+    59.174242
 ],
-  "geometry": {"coordinates":[10.385856,59.1742415],"type":"Point"}
+  "geometry": {"coordinates":[10.385856,59.174242],"type":"Point"}
 }

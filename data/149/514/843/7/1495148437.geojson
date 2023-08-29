@@ -26,8 +26,17 @@
     "name:dan_x_preferred":[
         "His\u00f8y"
     ],
+    "name:deu_x_preferred":[
+        "His\u00f8y"
+    ],
     "name:eng_x_preferred":[
         "His\u00f8y"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u06cc\u0633\u0647\u06cc\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "His\u00f8ya"
     ],
     "name:jav_x_preferred":[
         "His\u00f8y"
@@ -68,11 +77,11 @@
     "woe:name_adm1":"Aust-Agder Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1527947265,
         102191581,
         1159297607,
         85633341,
-        101803769
+        101803769,
+        1527947265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":1495148437,
-    "wof:lastmodified":1581019513,
+    "wof:lastmodified":1690849642,
     "wof:name":"His\u00f8y",
     "wof:parent_id":101803769,
     "wof:placetype":"neighbourhood",

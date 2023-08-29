@@ -75,8 +75,14 @@
     "name:deu_x_preferred":[
         "Sarpsborg"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03c1\u03c3\u03bc\u03c0\u03bf\u03c1\u03b3\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Sarpsborg"
+    ],
+    "name:eng_x_variant":[
+        "Sarpsborg Municipality"
     ],
     "name:epo_x_preferred":[
         "Sarpsborg"
@@ -116,6 +122,9 @@
     ],
     "name:hbs_x_preferred":[
         "Sarpsborg"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d0\u05e8\u05e4\u05e1\u05d1\u05d5\u05e8\u05d2"
     ],
     "name:hrv_x_preferred":[
         "Sarpsborg"
@@ -165,6 +174,9 @@
     "name:lav_x_preferred":[
         "Sarpsborga"
     ],
+    "name:lav_x_variant":[
+        "Sarpsborgas kom\u016bna"
+    ],
     "name:lij_x_preferred":[
         "Sarpsborg"
     ],
@@ -184,6 +196,9 @@
         "\u0421\u0430\u0440\u043f\u0441\u0431\u043e\u0440\u0433"
     ],
     "name:mlg_x_preferred":[
+        "Sarpsborg"
+    ],
+    "name:mlt_x_preferred":[
         "Sarpsborg"
     ],
     "name:mri_x_preferred":[
@@ -206,6 +221,9 @@
     ],
     "name:nno_x_preferred":[
         "Sarpsborg"
+    ],
+    "name:nno_x_variant":[
+        "Sarpsborg kommune"
     ],
     "name:nob_x_preferred":[
         "Sarpsborg"
@@ -239,6 +257,9 @@
     ],
     "name:ron_x_preferred":[
         "Sarpsborg"
+    ],
+    "name:ron_x_variant":[
+        "Comuna Sarpsborg"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u0440\u043f\u0441\u0431\u043e\u0440\u0433"
@@ -315,6 +336,9 @@
     "name:wol_x_preferred":[
         "Sarpsborg"
     ],
+    "name:wuu_x_preferred":[
+        "\u8428\u5c14\u666e\u65af\u5821"
+    ],
     "name:zho_x_preferred":[
         "\u8428\u5c14\u666e\u65af\u5821"
     ],
@@ -354,8 +378,8 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        85633341,
         1159297543,
+        85633341,
         1527947269
     ],
     "wof:breaches":[],
@@ -384,7 +408,7 @@
         }
     ],
     "wof:id":1125837795,
-    "wof:lastmodified":1607462728,
+    "wof:lastmodified":1690849625,
     "wof:name":"Sarpsborg",
     "wof:parent_id":1159297543,
     "wof:placetype":"locality",

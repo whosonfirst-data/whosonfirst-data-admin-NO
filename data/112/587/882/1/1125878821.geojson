@@ -22,7 +22,13 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Revsnes"
+    ],
     "name:eng_x_preferred":[
+        "Revsnes"
+    ],
+    "name:fra_x_preferred":[
         "Revsnes"
     ],
     "name:msa_x_preferred":[
@@ -33,6 +39,9 @@
     ],
     "name:nob_x_preferred":[
         "Refsnes"
+    ],
+    "name:swe_x_preferred":[
+        "Revsnes"
     ],
     "name:und_x_variant":[
         "Revsnes i Fosna"
@@ -89,7 +98,7 @@
         }
     ],
     "wof:id":1125878821,
-    "wof:lastmodified":1581021641,
+    "wof:lastmodified":1690849533,
     "wof:name":"Refsnes",
     "wof:parent_id":1527971131,
     "wof:placetype":"locality",

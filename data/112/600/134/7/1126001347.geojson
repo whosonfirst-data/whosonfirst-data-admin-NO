@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"10.1855175,63.311649,10.1855175,63.311649",
+    "geom:bbox":"10.185517,63.311649,10.185517,63.311649",
     "geom:latitude":63.311649,
     "geom:longitude":10.185517,
     "gn:country":null,
@@ -20,13 +20,22 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Buvik"
+    ],
     "name:deu_x_preferred":[
         "Buvik"
     ],
     "name:eng_x_preferred":[
         "Buvik"
     ],
+    "name:eng_x_variant":[
+        "Buvik Municipality"
+    ],
     "name:fra_x_preferred":[
+        "Buvik"
+    ],
+    "name:gle_x_preferred":[
         "Buvik"
     ],
     "name:nld_x_preferred":[
@@ -35,8 +44,17 @@
     "name:nno_x_preferred":[
         "Buvik"
     ],
+    "name:nno_x_variant":[
+        "Buvik kommune"
+    ],
     "name:nob_x_preferred":[
         "Buvik"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Buvik"
+    ],
+    "name:swe_x_preferred":[
+        "Buviks kommun"
     ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":null,
@@ -75,7 +93,7 @@
     },
     "wof:country":"NO",
     "wof:created":1497299664,
-    "wof:geomhash":"3cd4ef30b6d6ff4528f795b0d543a4a1",
+    "wof:geomhash":"a6b2f3e2f7cb4c69ba11da12904c581d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,7 +104,7 @@
         }
     ],
     "wof:id":1126001347,
-    "wof:lastmodified":1571392949,
+    "wof:lastmodified":1690849571,
     "wof:name":"Buvik",
     "wof:parent_id":1159297253,
     "wof:placetype":"locality",
@@ -96,10 +114,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    10.1855175,
+    10.185517,
     63.311649,
-    10.1855175,
+    10.185517,
     63.311649
 ],
-  "geometry": {"coordinates":[10.1855175,63.311649],"type":"Point"}
+  "geometry": {"coordinates":[10.185517,63.311649],"type":"Point"}
 }

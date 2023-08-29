@@ -23,6 +23,9 @@
     "name:ast_x_preferred":[
         "N\u00e6r\u00f8y"
     ],
+    "name:bjn_x_preferred":[
+        "N\u00e6r\u00f8y"
+    ],
     "name:bpy_x_preferred":[
         "\u09a8\u09be\u09af\u09bc\u09c7\u09b0\u09be\u09af\u09bc"
     ],
@@ -35,11 +38,17 @@
     "name:dan_x_preferred":[
         "N\u00e6r\u00f8y"
     ],
+    "name:dan_x_variant":[
+        "N\u00e6r\u00f8y Kommune"
+    ],
     "name:deu_x_preferred":[
         "N\u00e6r\u00f8y"
     ],
     "name:eng_x_preferred":[
         "N\u00e6r\u00f8y"
+    ],
+    "name:eng_x_variant":[
+        "N\u00e6r\u00f8y Municipality"
     ],
     "name:epo_x_preferred":[
         "N\u00e6r\u00f8y"
@@ -47,10 +56,16 @@
     "name:eus_x_preferred":[
         "N\u00e6r\u00f8y"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0631\u06cc"
+    ],
     "name:fin_x_preferred":[
         "N\u00e6r\u00f8y"
     ],
     "name:fra_x_preferred":[
+        "N\u00e6r\u00f8y"
+    ],
+    "name:gle_x_preferred":[
         "N\u00e6r\u00f8y"
     ],
     "name:ind_x_preferred":[
@@ -61,6 +76,9 @@
     ],
     "name:jav_x_preferred":[
         "N\u00e6r\u00f8y"
+    ],
+    "name:kor_x_preferred":[
+        "\ub124\ub8b0\uc704"
     ],
     "name:lat_x_preferred":[
         "N\u00e6r\u00f8y"
@@ -83,6 +101,9 @@
     "name:nno_x_preferred":[
         "N\u00e6r\u00f8y"
     ],
+    "name:nno_x_variant":[
+        "N\u00e6r\u00f8y kommune"
+    ],
     "name:nob_x_preferred":[
         "N\u00e6r\u00f8y"
     ],
@@ -94,6 +115,9 @@
     ],
     "name:ron_x_preferred":[
         "N\u00e6r\u00f8y"
+    ],
+    "name:ron_x_variant":[
+        "Comuna N\u00e6r\u00f8y"
     ],
     "name:rus_x_preferred":[
         "\u041d\u0435\u0440\u0451\u0439"
@@ -115,6 +139,9 @@
     ],
     "name:swe_x_preferred":[
         "N\u00e6r\u00f8y"
+    ],
+    "name:swe_x_variant":[
+        "N\u00e6r\u00f8y kommun"
     ],
     "name:vie_x_preferred":[
         "N\u00e6r\u00f8y"
@@ -149,11 +176,11 @@
     "woe:name_adm1":"Nord-Tr\u00f8ndelag Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1495115971,
         102191581,
         1527971119,
         85633341,
-        101814547
+        101814547,
+        1495115971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -175,7 +202,7 @@
         }
     ],
     "wof:id":1495148909,
-    "wof:lastmodified":1581021745,
+    "wof:lastmodified":1690849654,
     "wof:name":"N\u00e6r\u00f8y",
     "wof:parent_id":101814547,
     "wof:placetype":"neighbourhood",

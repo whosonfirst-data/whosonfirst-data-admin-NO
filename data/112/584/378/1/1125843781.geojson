@@ -59,7 +59,13 @@
     "name:fra_x_preferred":[
         "Sm\u00f8la"
     ],
+    "name:gle_x_preferred":[
+        "Sm\u00f8la"
+    ],
     "name:ind_x_preferred":[
+        "Sm\u00f8la"
+    ],
+    "name:isl_x_preferred":[
         "Sm\u00f8la"
     ],
     "name:ita_x_preferred":[
@@ -125,6 +131,9 @@
     "name:swe_x_preferred":[
         "Sm\u00f8la"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043c\u0435\u043b\u0430"
+    ],
     "name:vie_x_preferred":[
         "Sm\u00f8la"
     ],
@@ -133,6 +142,9 @@
     ],
     "name:zho_x_preferred":[
         "\u65af\u83ab\u62c9\u5cf6"
+    ],
+    "name:zho_x_variant":[
+        "\u65af\u9ed8\u62c9"
     ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":null,
@@ -182,7 +194,7 @@
         }
     ],
     "wof:id":1125843781,
-    "wof:lastmodified":1571388474,
+    "wof:lastmodified":1690849611,
     "wof:name":"Sm\u00f8la",
     "wof:parent_id":1159297121,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"9.314689,59.4184805,9.314689,59.4184805",
+    "geom:bbox":"9.314689,59.418481,9.314689,59.418481",
     "geom:latitude":59.418481,
     "geom:longitude":9.314689,
     "gn:country":null,
@@ -21,6 +21,9 @@
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bar_x_preferred":[
+        "Nordagutu"
+    ],
+    "name:dan_x_preferred":[
         "Nordagutu"
     ],
     "name:deu_x_preferred":[
@@ -87,7 +90,7 @@
     },
     "wof:country":"NO",
     "wof:created":1497291979,
-    "wof:geomhash":"7d0931e973869c5a2ca2d6692c4027ea",
+    "wof:geomhash":"5309e3ec54aedcb9ea346ff22de2c258",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1125819277,
-    "wof:lastmodified":1581019648,
+    "wof:lastmodified":1690849510,
     "wof:name":"Nordagutu",
     "wof:parent_id":1527971069,
     "wof:placetype":"locality",
@@ -109,9 +112,9 @@
 },
   "bbox": [
     9.314689,
-    59.4184805,
+    59.418481,
     9.314689,
-    59.4184805
+    59.418481
 ],
-  "geometry": {"coordinates":[9.314689,59.4184805],"type":"Point"}
+  "geometry": {"coordinates":[9.314689,59.418481],"type":"Point"}
 }

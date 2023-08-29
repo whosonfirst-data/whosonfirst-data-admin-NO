@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Florv\u00e5g"
+    ],
     "name:eng_x_preferred":[
         "Florv\u00e5g"
     ],
@@ -67,11 +70,11 @@
     "woe:name_adm1":"Hordaland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1527947261,
         102191581,
         1159296789,
         85633341,
-        101803909
+        101803909,
+        1527947261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1495147771,
-    "wof:lastmodified":1581018740,
+    "wof:lastmodified":1690849646,
     "wof:name":"Florv\u00e5g",
     "wof:parent_id":101803909,
     "wof:placetype":"neighbourhood",

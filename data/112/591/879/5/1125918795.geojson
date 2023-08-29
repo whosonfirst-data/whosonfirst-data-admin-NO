@@ -22,7 +22,13 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Langset"
+    ],
     "name:ceb_x_preferred":[
+        "Langset"
+    ],
+    "name:dan_x_preferred":[
         "Langset"
     ],
     "name:eng_x_preferred":[
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1125918795,
-    "wof:lastmodified":1581020189,
+    "wof:lastmodified":1690849557,
     "wof:name":"Langset",
     "wof:parent_id":1159297097,
     "wof:placetype":"locality",

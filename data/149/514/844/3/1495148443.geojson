@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Ormelet"
     ],
+    "name:dan_x_preferred":[
+        "Ormelet"
+    ],
     "name:eng_x_preferred":[
         "Ormelet"
     ],
@@ -35,6 +38,9 @@
         "Ormelet"
     ],
     "name:nld_x_preferred":[
+        "Ormelet"
+    ],
+    "name:nno_x_preferred":[
         "Ormelet"
     ],
     "name:nob_x_preferred":[
@@ -67,11 +73,11 @@
     "woe:name_adm1":"Vestfold Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1527947267,
         102191581,
         1159297071,
         85633341,
-        101815525
+        101815525,
+        1527947267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1495148443,
-    "wof:lastmodified":1581019704,
+    "wof:lastmodified":1690849643,
     "wof:name":"Ormelet",
     "wof:parent_id":101815525,
     "wof:placetype":"neighbourhood",

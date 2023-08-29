@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0623\u0644\u062a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u062a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Alta"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09b2\u09a4\u09be"
     ],
@@ -89,6 +95,9 @@
     "name:kor_x_preferred":[
         "\uc54c\ud0c0"
     ],
+    "name:lav_x_preferred":[
+        "Alta"
+    ],
     "name:lit_x_preferred":[
         "Altas"
     ],
@@ -151,6 +160,9 @@
     ],
     "name:zho_x_preferred":[
         "\u963f\u5c14\u5854"
+    ],
+    "name:zho_x_variant":[
+        "\u963f\u5c14\u5854\u9547"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Norway",
@@ -298,7 +310,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1636494779,
+    "wof:lastmodified":1690849455,
     "wof:name":"Alta",
     "wof:parent_id":1159296893,
     "wof:placetype":"locality",

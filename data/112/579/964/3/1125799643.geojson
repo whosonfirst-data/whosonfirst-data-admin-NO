@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Tafjord"
+    ],
+    "name:dan_x_preferred":[
+        "Tafjord"
+    ],
     "name:deu_x_preferred":[
         "Tafjord"
     ],
@@ -33,6 +39,9 @@
     ],
     "name:jav_x_preferred":[
         "Tafjord"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c0\ud53c\uc624\ub974"
     ],
     "name:msa_x_preferred":[
         "Tafjord"
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":1125799643,
-    "wof:lastmodified":1581022606,
+    "wof:lastmodified":1690849606,
     "wof:name":"Tafjord",
     "wof:parent_id":1527971101,
     "wof:placetype":"locality",

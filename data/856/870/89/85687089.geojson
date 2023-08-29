@@ -51,6 +51,9 @@
     "name:afr_x_preferred":[
         "Oslo"
     ],
+    "name:aka_x_preferred":[
+        "Oslo"
+    ],
     "name:amh_x_preferred":[
         "\u12a6\u1235\u120e"
     ],
@@ -66,6 +69,9 @@
     "name:arg_x_preferred":[
         "Oslo"
     ],
+    "name:ary_x_preferred":[
+        "\u0624\u0635\u0644\u0648"
+    ],
     "name:arz_x_preferred":[
         "\u0627\u0648\u0633\u0644\u0648"
     ],
@@ -75,6 +81,9 @@
     "name:ava_x_preferred":[
         "\u041e\u0441\u043b\u043e"
     ],
+    "name:avk_x_preferred":[
+        "Oslo"
+    ],
     "name:aym_x_preferred":[
         "Oslo"
     ],
@@ -83,6 +92,9 @@
     ],
     "name:bak_x_preferred":[
         "\u041e\u0441\u043b\u043e"
+    ],
+    "name:ban_x_preferred":[
+        "Oslo"
     ],
     "name:bar_x_preferred":[
         "Oslo"
@@ -95,6 +107,9 @@
     ],
     "name:ben_x_preferred":[
         "\u0985\u09b8\u09b2\u09cb"
+    ],
+    "name:bho_x_preferred":[
+        "\u0913\u0938\u094d\u0932\u094b"
     ],
     "name:bod_x_preferred":[
         "\u0f68\u0f7c\u0f0b\u0f66\u0f72\u0f0b\u0f63\u0f7c\u0f0d"
@@ -127,6 +142,9 @@
         "Oslo"
     ],
     "name:che_x_preferred":[
+        "\u041e\u0441\u043b\u043e"
+    ],
+    "name:chu_x_preferred":[
         "\u041e\u0441\u043b\u043e"
     ],
     "name:chv_x_preferred":[
@@ -222,6 +240,9 @@
     "name:glv_x_preferred":[
         "Oslo"
     ],
+    "name:got_x_preferred":[
+        "\ud800\udf30\ud800\udf3f\ud800\udf43\ud800\udf3b\ud800\udf49"
+    ],
     "name:gsw_x_preferred":[
         "Oslo"
     ],
@@ -276,6 +297,9 @@
     "name:isl_x_preferred":[
         "Osl\u00f3"
     ],
+    "name:isl_x_variant":[
+        "\u00d3sl\u00f3"
+    ],
     "name:ita_x_preferred":[
         "Oslo"
     ],
@@ -327,8 +351,14 @@
     "name:lav_x_preferred":[
         "Oslo"
     ],
+    "name:lbe_x_preferred":[
+        "\u041e\u0441\u043b\u043e"
+    ],
     "name:lez_x_preferred":[
         "\u041e\u0441\u043b\u043e"
+    ],
+    "name:lfn_x_preferred":[
+        "Oslo"
     ],
     "name:lij_x_preferred":[
         "Oslo"
@@ -356,6 +386,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0913\u0938\u094d\u0932\u094b"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041e\u0441\u043b\u043e"
     ],
     "name:mkd_x_preferred":[
         "\u041e\u0441\u043b\u043e"
@@ -395,6 +428,9 @@
     ],
     "name:nau_x_preferred":[
         "Oslo"
+    ],
+    "name:nav_x_preferred":[
+        "Ts\u012f\u0301\u012f\u0301haltsoo\u00ed"
     ],
     "name:nds_x_preferred":[
         "Oslo"
@@ -483,6 +519,9 @@
     "name:sah_x_preferred":[
         "\u041e\u0441\u043b\u043e"
     ],
+    "name:sat_x_preferred":[
+        "\u1c73\u1c65\u1c5e\u1c73"
+    ],
     "name:scn_x_preferred":[
         "Oslu"
     ],
@@ -505,6 +544,15 @@
         "Oslove"
     ],
     "name:sme_x_preferred":[
+        "Oslo"
+    ],
+    "name:smj_x_preferred":[
+        "Oslo"
+    ],
+    "name:smn_x_preferred":[
+        "Oslo"
+    ],
+    "name:sms_x_preferred":[
         "Oslo"
     ],
     "name:sna_x_preferred":[
@@ -595,6 +643,9 @@
         "Oslo"
     ],
     "name:vie_x_preferred":[
+        "Oslo"
+    ],
+    "name:vls_x_preferred":[
         "Oslo"
     ],
     "name:vol_x_preferred":[
@@ -746,7 +797,7 @@
     "wof:geom_alt":[
         "quattroshapes-reversegeo"
     ],
-    "wof:geomhash":"d4cb579a4f4549533afa03ec3bc41979",
+    "wof:geomhash":"a04bca4f5abb1fe24e00c4d0b6283d69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -766,7 +817,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1684351587,
+    "wof:lastmodified":1690849337,
     "wof:name":"Oslo",
     "wof:parent_id":85633341,
     "wof:placetype":"region",

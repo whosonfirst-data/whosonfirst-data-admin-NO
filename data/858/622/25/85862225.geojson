@@ -30,7 +30,17 @@
         "Mohlenpris"
     ],
     "name:eng_x_variant":[
-        "Mohlepris"
+        "Mohlepris",
+        "M\u00f8hlenpris"
+    ],
+    "name:nld_x_preferred":[
+        "M\u00f8hlenpris"
+    ],
+    "name:nno_x_preferred":[
+        "M\u00f8hlenpris"
+    ],
+    "name:nob_x_preferred":[
+        "M\u00f8hlenpris"
     ],
     "name:nor_x_preferred":[
         "M\u00f8hlenpris"
@@ -69,8 +79,8 @@
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
-        85633341,
         1159297617,
+        85633341,
         1527947261
     ],
     "wof:breaches":[],
@@ -99,7 +109,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1660671883,
+    "wof:lastmodified":1690849350,
     "wof:name":"Mohlenpris",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

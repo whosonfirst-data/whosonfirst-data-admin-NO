@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"10.084853,59.2172765,10.084853,59.2172765",
+    "geom:bbox":"10.084853,59.217276,10.084853,59.217276",
     "geom:latitude":59.217276,
     "geom:longitude":10.084853,
     "gn:country":null,
@@ -21,6 +21,9 @@
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
+        "Kodal"
+    ],
+    "name:dan_x_preferred":[
         "Kodal"
     ],
     "name:eng_x_preferred":[
@@ -87,7 +90,7 @@
     },
     "wof:country":"NO",
     "wof:created":1497290874,
-    "wof:geomhash":"1e137709449fbde9e9eb4c742b8df0b1",
+    "wof:geomhash":"cf6388af10dfda196b6f8729c556a41f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1125791341,
-    "wof:lastmodified":1581019638,
+    "wof:lastmodified":1690849606,
     "wof:name":"Kodal",
     "wof:parent_id":1159297193,
     "wof:placetype":"locality",
@@ -109,9 +112,9 @@
 },
   "bbox": [
     10.084853,
-    59.2172765,
+    59.217276,
     10.084853,
-    59.2172765
+    59.217276
 ],
-  "geometry": {"coordinates":[10.084853,59.2172765],"type":"Point"}
+  "geometry": {"coordinates":[10.084853,59.217276],"type":"Point"}
 }

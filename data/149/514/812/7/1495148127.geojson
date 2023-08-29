@@ -40,6 +40,9 @@
     "name:jav_x_preferred":[
         "Kleppe"
     ],
+    "name:lit_x_preferred":[
+        "Klep\u0117"
+    ],
     "name:msa_x_preferred":[
         "Kleppe"
     ],
@@ -77,11 +80,11 @@
     "woe:name_adm1":"Rogaland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85687085,
         102191581,
         1159297381,
         85633341,
-        101803831
+        101803831,
+        85687085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1495148127,
-    "wof:lastmodified":1571679500,
+    "wof:lastmodified":1690849649,
     "wof:name":"Kleppe",
     "wof:parent_id":101803831,
     "wof:placetype":"neighbourhood",

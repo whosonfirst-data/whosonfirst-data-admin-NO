@@ -29,6 +29,9 @@
     "name:bel_x_preferred":[
         "\u0411\u0451\u043c\u043b\u0443"
     ],
+    "name:bjn_x_preferred":[
+        "B\u00f8mlo"
+    ],
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09ae\u09b2\u09cb"
     ],
@@ -56,10 +59,16 @@
     "name:eus_x_preferred":[
         "B\u00f8mlo"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0645\u0644\u0648(\u0646\u0631\u0648\u0698)"
+    ],
     "name:fin_x_preferred":[
         "B\u00f8mlo"
     ],
     "name:fra_x_preferred":[
+        "B\u00f8mlo"
+    ],
+    "name:gle_x_preferred":[
         "B\u00f8mlo"
     ],
     "name:ind_x_preferred":[
@@ -70,6 +79,9 @@
     ],
     "name:jav_x_preferred":[
         "B\u00f8mlo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30e0\u30ed"
     ],
     "name:lat_x_preferred":[
         "B\u00f8mlo"
@@ -164,11 +176,11 @@
     "woe:name_adm1":"Hordaland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1527947261,
         102191581,
         1159296859,
         85633341,
-        101803943
+        101803943,
+        1527947261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -190,7 +202,7 @@
         }
     ],
     "wof:id":1495148277,
-    "wof:lastmodified":1581018744,
+    "wof:lastmodified":1690849640,
     "wof:name":"B\u00f8mlo",
     "wof:parent_id":101803943,
     "wof:placetype":"neighbourhood",

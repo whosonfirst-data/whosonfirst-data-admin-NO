@@ -60,6 +60,9 @@
     "name:eng_x_preferred":[
         "Sandnes"
     ],
+    "name:eng_x_variant":[
+        "Sandnes Municipality"
+    ],
     "name:epo_x_preferred":[
         "Sandnes"
     ],
@@ -79,6 +82,9 @@
         "Sandnes"
     ],
     "name:gla_x_preferred":[
+        "Sandnes"
+    ],
+    "name:gle_x_preferred":[
         "Sandnes"
     ],
     "name:heb_x_preferred":[
@@ -113,6 +119,9 @@
     ],
     "name:lav_x_preferred":[
         "Sandnesa"
+    ],
+    "name:lav_x_variant":[
+        "Sandnesas kom\u016bna"
     ],
     "name:lim_x_preferred":[
         "Sandnes"
@@ -159,6 +168,9 @@
     "name:ron_x_preferred":[
         "Sandnes"
     ],
+    "name:ron_x_variant":[
+        "Comuna Sandnes"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d\u043d\u0435\u0441"
     ],
@@ -191,6 +203,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e0b\u0e31\u0e19\u0e14\u0e4c\u0e40\u0e19\u0e2a"
+    ],
+    "name:tha_x_variant":[
+        "\u0e0b\u0e31\u0e19\u0e40\u0e19\u0e2a"
     ],
     "name:tur_x_preferred":[
         "Sandnes"
@@ -273,7 +288,7 @@
         }
     ],
     "wof:id":1126043661,
-    "wof:lastmodified":1636494781,
+    "wof:lastmodified":1690849496,
     "wof:name":"Sandnes",
     "wof:parent_id":1527971135,
     "wof:placetype":"locality",

@@ -55,6 +55,9 @@
     "name:und_x_variant":[
         "Aasane"
     ],
+    "name:zho_x_preferred":[
+        "\u5965\u8428\u8bb7"
+    ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":"NO",
     "qs_pg:gn_fcode":"PPL",
@@ -82,10 +85,10 @@
     "woe:name_adm1":"Hordaland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1527947261,
         102191581,
         1159297617,
-        85633341
+        85633341,
+        1527947261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1495148603,
-    "wof:lastmodified":1581018746,
+    "wof:lastmodified":1690849644,
     "wof:name":"\u00c5sane",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

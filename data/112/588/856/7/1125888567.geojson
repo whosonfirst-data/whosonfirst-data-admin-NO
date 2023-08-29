@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"11.628415,63.7637965,11.628415,63.7637965",
+    "geom:bbox":"11.628415,63.763796,11.628415,63.763796",
     "geom:latitude":63.763796,
     "geom:longitude":11.628415,
     "gn:country":null,
@@ -20,6 +20,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Lysthaugen"
+    ],
     "name:eng_x_preferred":[
         "Lysthaugen"
     ],
@@ -84,7 +87,7 @@
     },
     "wof:country":"NO",
     "wof:created":1497295212,
-    "wof:geomhash":"e878bf5d971c6ca741cfb7f285c2285a",
+    "wof:geomhash":"d042d72006a4e4f2f33cfd35fe78cea1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1125888567,
-    "wof:lastmodified":1571392996,
+    "wof:lastmodified":1690849513,
     "wof:name":"Lysthaugen",
     "wof:parent_id":1159296801,
     "wof:placetype":"locality",
@@ -106,9 +109,9 @@
 },
   "bbox": [
     11.628415,
-    63.7637965,
+    63.763796,
     11.628415,
-    63.7637965
+    63.763796
 ],
-  "geometry": {"coordinates":[11.628415,63.7637965],"type":"Point"}
+  "geometry": {"coordinates":[11.628415,63.763796],"type":"Point"}
 }

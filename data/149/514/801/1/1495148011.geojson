@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Movatn"
     ],
+    "name:dan_x_preferred":[
+        "Movatn"
+    ],
     "name:eng_x_preferred":[
         "Movatn"
     ],
@@ -74,11 +77,11 @@
     "woe:name_adm1":"Oslo Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        1495123997
+        1495123997,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1495148011,
-    "wof:lastmodified":1571393970,
+    "wof:lastmodified":1690849653,
     "wof:name":"Movatn",
     "wof:parent_id":1495123997,
     "wof:placetype":"neighbourhood",

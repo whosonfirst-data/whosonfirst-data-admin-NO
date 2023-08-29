@@ -43,6 +43,9 @@
     "name:eng_x_preferred":[
         "Evenes"
     ],
+    "name:eng_x_variant":[
+        "Evenes Municipality"
+    ],
     "name:epo_x_preferred":[
         "Evenes"
     ],
@@ -53,6 +56,9 @@
         "Evenes"
     ],
     "name:fra_x_preferred":[
+        "Evenes"
+    ],
+    "name:gle_x_preferred":[
         "Evenes"
     ],
     "name:ita_x_preferred":[
@@ -85,6 +91,9 @@
     "name:nno_x_preferred":[
         "Evenes"
     ],
+    "name:nno_x_variant":[
+        "Evenes kommune"
+    ],
     "name:nob_x_preferred":[
         "Evenes"
     ],
@@ -99,6 +108,9 @@
     ],
     "name:ron_x_preferred":[
         "Evenes"
+    ],
+    "name:ron_x_variant":[
+        "Comuna Evenes"
     ],
     "name:rus_x_preferred":[
         "\u042d\u0432\u0435\u043d\u0435\u0441"
@@ -123,6 +135,9 @@
     ],
     "name:swe_x_preferred":[
         "Evenes"
+    ],
+    "name:swe_x_variant":[
+        "Evenes kommun"
     ],
     "name:vie_x_preferred":[
         "Evenes"
@@ -160,11 +175,11 @@
     "woe:name_adm1":"Nordland Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85687135,
         102191581,
         1159296951,
         85633341,
-        101814573
+        101814573,
+        85687135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -187,7 +202,7 @@
         }
     ],
     "wof:id":1495149283,
-    "wof:lastmodified":1571679377,
+    "wof:lastmodified":1690849655,
     "wof:name":"Evenes",
     "wof:parent_id":101814573,
     "wof:placetype":"neighbourhood",
