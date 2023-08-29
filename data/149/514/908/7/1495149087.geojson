@@ -20,6 +20,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Vinterbro"
+    ],
+    "name:eng_x_variant":[
+        "Vinterbru"
+    ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Vinterbru",
@@ -44,16 +50,17 @@
     "woe:name_adm1":"Akershus Fylke",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1527947269,
         102191581,
-        1159297627,
         85633341,
-        101839449
+        1159297627,
+        101839449,
+        1527947269
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":865842,
-        "qs_pg:id":1090850
+        "qs_pg:id":1090850,
+        "wd:id":"Q12009912"
     },
     "wof:country":"NO",
     "wof:created":1497292463,
@@ -69,8 +76,8 @@
         }
     ],
     "wof:id":1495149087,
-    "wof:lastmodified":1581020320,
-    "wof:name":"Vinterbru",
+    "wof:lastmodified":1693265425,
+    "wof:name":"Vinterbro",
     "wof:parent_id":101839449,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
