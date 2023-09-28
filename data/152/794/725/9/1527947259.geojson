@@ -68,8 +68,14 @@
         101751929
     ],
     "wof:concordances":{
-        "eurostat:nuts_2021_id":"NO074"
+        "eurostat:nuts_2021_id":"NO074",
+        "iso:code":"NO-54",
+        "no-geonorge:number":"54"
     },
+    "wof:concordances_official":"no-geonorge:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"NO",
     "wof:geomhash":"6bffadf1d30e5ef528f7c3244be5cdd4",
     "wof:hierarchy":[
@@ -91,7 +97,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1694493278,
+    "wof:lastmodified":1695885246,
     "wof:name":"Troms og Finnmark",
     "wof:parent_id":85633341,
     "wof:placetype":"region",

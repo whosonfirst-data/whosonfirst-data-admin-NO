@@ -70,8 +70,14 @@
         1495123997
     ],
     "wof:concordances":{
-        "eurostat:nuts_2021_id":"NO082"
+        "eurostat:nuts_2021_id":"NO082",
+        "iso:code":"NO-30",
+        "no-geonorge:number":"30"
     },
+    "wof:concordances_official":"no-geonorge:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"NO",
     "wof:geomhash":"a38b96aaa9d1fbf585ecb9c56a47db99",
     "wof:hierarchy":[
@@ -93,7 +99,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1694493291,
+    "wof:lastmodified":1695885259,
     "wof:name":"Viken",
     "wof:parent_id":85633341,
     "wof:placetype":"region",

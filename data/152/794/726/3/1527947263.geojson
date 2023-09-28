@@ -68,8 +68,14 @@
         1495124017
     ],
     "wof:concordances":{
-        "eurostat:nuts_2021_id":"NO020"
+        "eurostat:nuts_2021_id":"NO020",
+        "iso:code":"NO-34",
+        "no-geonorge:number":"34"
     },
+    "wof:concordances_official":"no-geonorge:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"NO",
     "wof:geomhash":"b4d3cba83a27943bc1d282c42aace00c",
     "wof:hierarchy":[
@@ -91,7 +97,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1694493287,
+    "wof:lastmodified":1695885255,
     "wof:name":"Innlandet",
     "wof:parent_id":85633341,
     "wof:placetype":"region",
