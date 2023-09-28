@@ -22,6 +22,15 @@
     "geom:latitude":68.212773,
     "geom:longitude":13.774038,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":68.213549,
     "lbl:longitude":13.720627,
     "lbl:max_zoom":18.0,
@@ -61,8 +70,10 @@
         "digitalenvoy:metro_code":578424,
         "eg:gisco_id":"NO_1860",
         "eurostat:nuts_2021_id":"1860",
-        "no-geonorge:kommunenum":1860
+        "no-geonorge:kommunenum":1860,
+        "no-geonorge:number":"1860"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595853,
     "wof:geomhash":"a34183786732b3455c6c3bb370537c74",
@@ -84,7 +95,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354087,
+    "wof:lastmodified":1695878860,
     "wof:name":"Vestv\u00e5g\u00f8y",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":64.20477,
     "geom:longitude":12.628088,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":64.190795,
     "lbl:longitude":12.640388,
     "lbl:max_zoom":18.0,
@@ -61,8 +70,10 @@
         "digitalenvoy:metro_code":578334,
         "eg:gisco_id":"NO_5041",
         "eurostat:nuts_2021_id":"5041",
-        "no-geonorge:kommunenum":5041
+        "no-geonorge:kommunenum":5041,
+        "no-geonorge:number":"5041"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596114,
     "wof:geomhash":"da8ca923b0d123ca1f26e5034e586f96",
@@ -84,7 +95,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354122,
+    "wof:lastmodified":1695878898,
     "wof:name":"Sn\u00e5sa",
     "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":59.848024,
     "geom:longitude":9.49251,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":59.858206,
     "lbl:longitude":9.497662,
     "lbl:max_zoom":18.0,
@@ -154,8 +163,10 @@
         "digitalenvoy:metro_code":578087,
         "eg:gisco_id":"NO_3050",
         "eurostat:nuts_2021_id":"3050",
-        "no-geonorge:kommunenum":3050
+        "no-geonorge:kommunenum":3050,
+        "no-geonorge:number":"3050"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595871,
     "wof:geomhash":"ff97a7a06531ed6d098a4ced6c7a08f9",
@@ -177,7 +188,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354091,
+    "wof:lastmodified":1695878864,
     "wof:name":"Flesberg",
     "wof:parent_id":1527947269,
     "wof:placetype":"localadmin",

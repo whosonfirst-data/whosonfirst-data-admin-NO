@@ -22,6 +22,15 @@
     "geom:latitude":62.333265,
     "geom:longitude":5.877448,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":62.370207,
     "lbl:longitude":5.869237,
     "lbl:max_zoom":18.0,
@@ -157,8 +166,10 @@
         "digitalenvoy:metro_code":578398,
         "eg:gisco_id":"NO_1516",
         "eurostat:nuts_2021_id":"1516",
-        "no-geonorge:kommunenum":1516
+        "no-geonorge:kommunenum":1516,
+        "no-geonorge:number":"1516"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595956,
     "wof:geomhash":"e62d358a9f6d0ff5eedde8126a967687",
@@ -180,7 +191,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354101,
+    "wof:lastmodified":1695878875,
     "wof:name":"Ulstein",
     "wof:parent_id":85687123,
     "wof:placetype":"localadmin",

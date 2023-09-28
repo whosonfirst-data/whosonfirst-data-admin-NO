@@ -22,6 +22,15 @@
     "geom:latitude":67.930141,
     "geom:longitude":12.972804,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":67.917736,
     "lbl:longitude":12.944222,
     "lbl:max_zoom":18.0,
@@ -157,8 +166,10 @@
         "digitalenvoy:metro_code":578230,
         "eg:gisco_id":"NO_1874",
         "eurostat:nuts_2021_id":"1874",
-        "no-geonorge:kommunenum":1874
+        "no-geonorge:kommunenum":1874,
+        "no-geonorge:number":"1874"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595896,
     "wof:geomhash":"2daabf687621b2641bc5fbd0205525a9",
@@ -180,7 +191,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354094,
+    "wof:lastmodified":1695878867,
     "wof:name":"Moskenes",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

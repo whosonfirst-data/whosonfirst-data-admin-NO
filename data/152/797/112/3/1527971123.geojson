@@ -24,6 +24,15 @@
     "geom:latitude":63.268499,
     "geom:longitude":9.646338,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":63.254355,
     "lbl:longitude":9.641208,
     "mps:latitude":63.254355,
@@ -53,7 +62,8 @@
         "digitalenvoy:metro_code":578263,
         "eg:gisco_id":"NO_5059",
         "eurostat:nuts_2021_id":"5059",
-        "no-geonorge:kommunenum":5059
+        "no-geonorge:kommunenum":5059,
+        "no-geonorge:number":"5059"
     },
     "wof:concordances_alt":{
         "digitalenvoy:metro_code":[
@@ -62,6 +72,7 @@
             578335
         ]
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:geomhash":"ab1fda3a679659acdaa913adbbb66ecb",
     "wof:hierarchy":[
@@ -82,7 +93,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354137,
+    "wof:lastmodified":1695878915,
     "wof:name":"Orkland",
     "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":59.974712,
     "geom:longitude":6.071167,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":59.97514,
     "lbl:longitude":6.119485,
     "lbl:max_zoom":18.0,
@@ -148,8 +157,10 @@
         "digitalenvoy:metro_code":578181,
         "eg:gisco_id":"NO_4617",
         "eurostat:nuts_2021_id":"4617",
-        "no-geonorge:kommunenum":4617
+        "no-geonorge:kommunenum":4617,
+        "no-geonorge:number":"4617"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595826,
     "wof:geomhash":"1bc9202e7b2e2ffd260f1829300971d1",
@@ -171,7 +182,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354082,
+    "wof:lastmodified":1695878855,
     "wof:name":"Kvinnherad",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":59.820132,
     "geom:longitude":11.613193,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":59.835675,
     "lbl:longitude":11.61326,
     "mps:latitude":59.835675,
@@ -49,8 +58,10 @@
     "wof:concordances":{
         "digitalenvoy:metro_code":578026,
         "eg:gisco_id":"NO_3026",
-        "eurostat:nuts_2021_id":"3026"
+        "eurostat:nuts_2021_id":"3026",
+        "no-geonorge:number":"3026"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:geomhash":"e3a47cf916214c5212b72c61f99c2d7a",
     "wof:hierarchy":[
@@ -71,7 +82,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354139,
+    "wof:lastmodified":1695878917,
     "wof:name":"Aurskog-H\u00f8land",
     "wof:parent_id":1527947269,
     "wof:placetype":"localadmin",

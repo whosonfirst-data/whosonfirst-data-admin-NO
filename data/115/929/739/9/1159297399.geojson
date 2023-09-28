@@ -22,6 +22,15 @@
     "geom:latitude":62.524544,
     "geom:longitude":6.060428,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":62.559124,
     "lbl:longitude":6.111684,
     "lbl:max_zoom":18.0,
@@ -151,8 +160,10 @@
         "digitalenvoy:metro_code":578106,
         "eg:gisco_id":"NO_1532",
         "eurostat:nuts_2021_id":"1532",
-        "no-geonorge:kommunenum":1532
+        "no-geonorge:kommunenum":1532,
+        "no-geonorge:number":"1532"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596028,
     "wof:geomhash":"5fe364eec09f200405cf51a093eb8ceb",
@@ -174,7 +185,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354109,
+    "wof:lastmodified":1695878884,
     "wof:name":"Giske",
     "wof:parent_id":85687123,
     "wof:placetype":"localadmin",

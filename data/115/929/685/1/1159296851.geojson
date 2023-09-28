@@ -22,6 +22,15 @@
     "geom:latitude":63.60662,
     "geom:longitude":10.792038,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":63.602478,
     "lbl:longitude":10.774379,
     "lbl:max_zoom":18.0,
@@ -154,8 +163,10 @@
         "digitalenvoy:metro_code":578097,
         "eg:gisco_id":"NO_5036",
         "eurostat:nuts_2021_id":"5036",
-        "no-geonorge:kommunenum":5036
+        "no-geonorge:kommunenum":5036,
+        "no-geonorge:number":"5036"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595796,
     "wof:geomhash":"c43110cfc93f7d2a1715590d63eb8a5e",
@@ -177,7 +188,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354076,
+    "wof:lastmodified":1695878848,
     "wof:name":"Frosta",
     "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",

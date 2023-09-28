@@ -22,6 +22,15 @@
     "geom:latitude":62.811941,
     "geom:longitude":6.885753,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":62.811704,
     "lbl:longitude":6.864209,
     "lbl:max_zoom":18.0,
@@ -151,8 +160,10 @@
         "digitalenvoy:metro_code":578023,
         "eg:gisco_id":"NO_1547",
         "eurostat:nuts_2021_id":"1547",
-        "no-geonorge:kommunenum":1547
+        "no-geonorge:kommunenum":1547,
+        "no-geonorge:number":"1547"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595922,
     "wof:geomhash":"a7ee8a0037327f4ea7318c46e4906085",
@@ -174,7 +185,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354098,
+    "wof:lastmodified":1695878871,
     "wof:name":"Aukra",
     "wof:parent_id":85687123,
     "wof:placetype":"localadmin",

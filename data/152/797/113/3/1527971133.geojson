@@ -24,6 +24,15 @@
     "geom:latitude":63.793188,
     "geom:longitude":9.842153,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":63.81303,
     "lbl:longitude":9.93013,
     "mps:latitude":63.81303,
@@ -53,13 +62,15 @@
         "digitalenvoy:metro_code":578045,
         "eg:gisco_id":"NO_5057",
         "eurostat:nuts_2021_id":"5057",
-        "no-geonorge:kommunenum":5057
+        "no-geonorge:kommunenum":5057,
+        "no-geonorge:number":"5057"
     },
     "wof:concordances_alt":{
         "digitalenvoy:metro_code":[
             578264
         ]
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:geomhash":"8b53e102d6e79f0d54062667ebc3abe8",
     "wof:hierarchy":[
@@ -80,7 +91,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354138,
+    "wof:lastmodified":1695878916,
     "wof:name":"\u00d8rland",
     "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",

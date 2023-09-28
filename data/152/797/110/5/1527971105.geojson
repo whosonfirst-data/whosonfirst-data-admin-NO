@@ -24,6 +24,15 @@
     "geom:latitude":62.053852,
     "geom:longitude":6.276137,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":62.028916,
     "lbl:longitude":6.498197,
     "mps:latitude":62.028916,
@@ -53,13 +62,15 @@
         "digitalenvoy:metro_code":578430,
         "eg:gisco_id":"NO_1577",
         "eurostat:nuts_2021_id":"1577",
-        "no-geonorge:kommunenum":1577
+        "no-geonorge:kommunenum":1577,
+        "no-geonorge:number":"1577"
     },
     "wof:concordances_alt":{
         "digitalenvoy:metro_code":[
             578150
         ]
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:geomhash":"cccbeb1bb28f737663e34dd2f93604b2",
     "wof:hierarchy":[
@@ -80,7 +91,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354134,
+    "wof:lastmodified":1695878911,
     "wof:name":"Volda",
     "wof:parent_id":85687123,
     "wof:placetype":"localadmin",

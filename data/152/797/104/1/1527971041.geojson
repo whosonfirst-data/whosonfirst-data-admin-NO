@@ -24,6 +24,15 @@
     "geom:latitude":61.293447,
     "geom:longitude":6.789633,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":61.309089,
     "lbl:longitude":6.845969,
     "mps:latitude":61.309089,
@@ -53,7 +62,8 @@
         "digitalenvoy:metro_code":578336,
         "eg:gisco_id":"NO_4640",
         "eurostat:nuts_2021_id":"4640",
-        "no-geonorge:kommunenum":4640
+        "no-geonorge:kommunenum":4640,
+        "no-geonorge:number":"4640"
     },
     "wof:concordances_alt":{
         "digitalenvoy:metro_code":[
@@ -61,6 +71,7 @@
             578031
         ]
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:geomhash":"01bbd11c88418edd7dd1e9245428960f",
     "wof:hierarchy":[
@@ -81,7 +92,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354128,
+    "wof:lastmodified":1695878904,
     "wof:name":"Sogndal",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",

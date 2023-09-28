@@ -22,6 +22,15 @@
     "geom:latitude":70.925747,
     "geom:longitude":25.818998,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":71.020752,
     "lbl:longitude":25.64803,
     "lbl:max_zoom":18.0,
@@ -196,8 +205,10 @@
         "digitalenvoy:metro_code":578252,
         "eg:gisco_id":"NO_5435",
         "eurostat:nuts_2021_id":"5435",
-        "no-geonorge:kommunenum":5435
+        "no-geonorge:kommunenum":5435,
+        "no-geonorge:number":"5435"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595966,
     "wof:geomhash":"0b03a7dbeae333db790fdbb37f1afe90",
@@ -219,7 +230,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354103,
+    "wof:lastmodified":1695878876,
     "wof:name":"Nordkapp",
     "wof:parent_id":1527947259,
     "wof:placetype":"localadmin",

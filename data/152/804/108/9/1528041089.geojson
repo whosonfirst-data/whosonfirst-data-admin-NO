@@ -22,6 +22,15 @@
     "geom:latitude":61.977119,
     "geom:longitude":5.758742,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":61.9525,
     "lbl:longitude":5.938851,
     "mps:latitude":61.9525,
@@ -49,13 +58,15 @@
     "wof:concordances":{
         "digitalenvoy:metro_code":578061,
         "eg:gisco_id":"NO_4649",
-        "eurostat:nuts_2021_id":"4649"
+        "eurostat:nuts_2021_id":"4649",
+        "no-geonorge:number":"4649"
     },
     "wof:concordances_alt":{
         "digitalenvoy:metro_code":[
             578319
         ]
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:geomhash":"54cce9a29dee2c7e9c2c189152a5e1fd",
     "wof:hierarchy":[
@@ -76,7 +87,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354139,
+    "wof:lastmodified":1695878918,
     "wof:name":"Stad",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",

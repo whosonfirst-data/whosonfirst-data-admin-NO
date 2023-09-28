@@ -22,6 +22,15 @@
     "geom:latitude":61.127955,
     "geom:longitude":10.391294,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":61.121283,
     "lbl:longitude":10.337906,
     "lbl:max_zoom":18.0,
@@ -286,8 +295,10 @@
         "digitalenvoy:metro_code":578198,
         "eg:gisco_id":"NO_3405",
         "eurostat:nuts_2021_id":"3405",
-        "no-geonorge:kommunenum":3405
+        "no-geonorge:kommunenum":3405,
+        "no-geonorge:number":"3405"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596077,
     "wof:geomhash":"8082a4b141cb54ac0578d45b93a00e10",
@@ -309,7 +320,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354117,
+    "wof:lastmodified":1695878893,
     "wof:name":"Lillehammer",
     "wof:parent_id":1527947263,
     "wof:placetype":"localadmin",

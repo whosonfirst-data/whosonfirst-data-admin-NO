@@ -22,6 +22,15 @@
     "geom:latitude":70.68106,
     "geom:longitude":29.034213,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":70.690471,
     "lbl:longitude":29.024254,
     "lbl:max_zoom":18.0,
@@ -61,8 +70,10 @@
         "digitalenvoy:metro_code":578040,
         "eg:gisco_id":"NO_5440",
         "eurostat:nuts_2021_id":"5440",
-        "no-geonorge:kommunenum":5440
+        "no-geonorge:kommunenum":5440,
+        "no-geonorge:number":"5440"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596040,
     "wof:geomhash":"65cee74f4b37b15f32cfe9d0d879ce83",
@@ -84,7 +95,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354111,
+    "wof:lastmodified":1695878886,
     "wof:name":"Berlev\u00e5g",
     "wof:parent_id":1527947259,
     "wof:placetype":"localadmin",

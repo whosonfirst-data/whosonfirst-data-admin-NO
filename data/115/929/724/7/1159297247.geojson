@@ -22,6 +22,15 @@
     "geom:latitude":63.008051,
     "geom:longitude":11.807601,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":63.017152,
     "lbl:longitude":11.918727,
     "lbl:max_zoom":18.0,
@@ -147,8 +156,10 @@
     "wof:concordances":{
         "eg:gisco_id":"NO_5033",
         "eurostat:nuts_2021_id":"5033",
-        "no-geonorge:kommunenum":5033
+        "no-geonorge:kommunenum":5033,
+        "no-geonorge:number":"5033"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595945,
     "wof:geomhash":"01dc5be4a99bd01c3172252e68b641e3",
@@ -170,7 +181,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354100,
+    "wof:lastmodified":1695878873,
     "wof:name":"Tydal",
     "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",

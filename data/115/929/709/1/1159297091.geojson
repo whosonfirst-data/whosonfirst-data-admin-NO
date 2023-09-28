@@ -22,6 +22,15 @@
     "geom:latitude":60.051004,
     "geom:longitude":5.183799,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":60.032528,
     "lbl:longitude":5.266713,
     "lbl:max_zoom":18.0,
@@ -148,8 +157,10 @@
         "digitalenvoy:metro_code":578027,
         "eg:gisco_id":"NO_4625",
         "eurostat:nuts_2021_id":"4625",
-        "no-geonorge:kommunenum":4625
+        "no-geonorge:kommunenum":4625,
+        "no-geonorge:number":"4625"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595867,
     "wof:geomhash":"fd2d3a4620606690183fa473d2d249f1",
@@ -171,7 +182,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354090,
+    "wof:lastmodified":1695878863,
     "wof:name":"Austevoll",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",

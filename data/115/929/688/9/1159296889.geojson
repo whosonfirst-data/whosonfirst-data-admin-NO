@@ -22,6 +22,15 @@
     "geom:latitude":64.428592,
     "geom:longitude":10.869446,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":64.38389,
     "lbl:longitude":10.930995,
     "lbl:max_zoom":18.0,
@@ -148,8 +157,10 @@
         "digitalenvoy:metro_code":578085,
         "eg:gisco_id":"NO_5049",
         "eurostat:nuts_2021_id":"5049",
-        "no-geonorge:kommunenum":5049
+        "no-geonorge:kommunenum":5049,
+        "no-geonorge:number":"5049"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595810,
     "wof:geomhash":"adb30c65ae193d899b0e04bb4262587d",
@@ -171,7 +182,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354079,
+    "wof:lastmodified":1695878851,
     "wof:name":"Flatanger",
     "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",

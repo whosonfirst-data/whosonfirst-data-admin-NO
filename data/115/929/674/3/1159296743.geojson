@@ -22,6 +22,15 @@
     "geom:latitude":68.486686,
     "geom:longitude":14.986589,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":68.436865,
     "lbl:longitude":15.238461,
     "lbl:max_zoom":18.0,
@@ -154,8 +163,10 @@
         "digitalenvoy:metro_code":578123,
         "eg:gisco_id":"NO_1866",
         "eurostat:nuts_2021_id":"1866",
-        "no-geonorge:kommunenum":1866
+        "no-geonorge:kommunenum":1866,
+        "no-geonorge:number":"1866"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595749,
     "wof:geomhash":"dbd87b0759e1cee1354d7c14220e8aec",
@@ -177,7 +188,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354070,
+    "wof:lastmodified":1695878841,
     "wof:name":"Hadsel",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

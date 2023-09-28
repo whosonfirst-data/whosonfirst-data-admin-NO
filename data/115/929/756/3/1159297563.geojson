@@ -22,6 +22,15 @@
     "geom:latitude":70.153966,
     "geom:longitude":25.128372,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":70.086752,
     "lbl:longitude":24.642493,
     "lbl:max_zoom":18.0,
@@ -160,8 +169,10 @@
         "digitalenvoy:metro_code":578278,
         "eg:gisco_id":"NO_5436",
         "eurostat:nuts_2021_id":"5436",
-        "no-geonorge:kommunenum":5436
+        "no-geonorge:kommunenum":5436,
+        "no-geonorge:number":"5436"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596103,
     "wof:geomhash":"502daa84928e9e3c10aac1798312cfab",
@@ -183,7 +194,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354120,
+    "wof:lastmodified":1695878895,
     "wof:name":"Porsanger",
     "wof:parent_id":1527947259,
     "wof:placetype":"localadmin",

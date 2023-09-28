@@ -22,6 +22,15 @@
     "geom:latitude":59.774483,
     "geom:longitude":6.191716,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":59.673141,
     "lbl:longitude":6.124711,
     "lbl:max_zoom":18.0,
@@ -148,8 +157,10 @@
         "digitalenvoy:metro_code":578071,
         "eg:gisco_id":"NO_4611",
         "eurostat:nuts_2021_id":"4611",
-        "no-geonorge:kommunenum":4611
+        "no-geonorge:kommunenum":4611,
+        "no-geonorge:number":"4611"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595872,
     "wof:geomhash":"86eeab4042bceccb0a6e24c56ac735c8",
@@ -171,7 +182,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354091,
+    "wof:lastmodified":1695878864,
     "wof:name":"Etne",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",

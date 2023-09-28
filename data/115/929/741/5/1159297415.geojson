@@ -22,6 +22,15 @@
     "geom:latitude":61.217986,
     "geom:longitude":8.474858,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":61.210507,
     "lbl:longitude":8.481393,
     "lbl:max_zoom":18.0,
@@ -100,8 +109,10 @@
         "digitalenvoy:metro_code":578411,
         "eg:gisco_id":"NO_3454",
         "eurostat:nuts_2021_id":"3454",
-        "no-geonorge:kommunenum":3454
+        "no-geonorge:kommunenum":3454,
+        "no-geonorge:number":"3454"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596037,
     "wof:geomhash":"c8ed92491ba8175fa976dc216233e409",
@@ -123,7 +134,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354110,
+    "wof:lastmodified":1695878885,
     "wof:name":"Vang",
     "wof:parent_id":1527947263,
     "wof:placetype":"localadmin",

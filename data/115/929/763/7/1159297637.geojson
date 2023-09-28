@@ -22,6 +22,15 @@
     "geom:latitude":62.808432,
     "geom:longitude":9.879698,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":62.846802,
     "lbl:longitude":9.879786,
     "lbl:max_zoom":18.0,
@@ -157,8 +166,10 @@
         "digitalenvoy:metro_code":578289,
         "eg:gisco_id":"NO_5022",
         "eurostat:nuts_2021_id":"5022",
-        "no-geonorge:kommunenum":5022
+        "no-geonorge:kommunenum":5022,
+        "no-geonorge:number":"5022"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596130,
     "wof:geomhash":"1f1ddf0bc9f8605dc70e18ced4b396f7",
@@ -180,7 +191,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354124,
+    "wof:lastmodified":1695878900,
     "wof:name":"Rennebu",
     "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",

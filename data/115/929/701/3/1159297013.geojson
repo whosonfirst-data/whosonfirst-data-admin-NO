@@ -22,6 +22,15 @@
     "geom:latitude":62.07891,
     "geom:longitude":9.458614,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":62.084065,
     "lbl:longitude":9.427226,
     "lbl:max_zoom":18.0,
@@ -157,8 +166,10 @@
         "digitalenvoy:metro_code":578057,
         "eg:gisco_id":"NO_3431",
         "eurostat:nuts_2021_id":"3431",
-        "no-geonorge:kommunenum":3431
+        "no-geonorge:kommunenum":3431,
+        "no-geonorge:number":"3431"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595845,
     "wof:geomhash":"87df64257bbbc8dc5650576f914d0a78",
@@ -180,7 +191,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354086,
+    "wof:lastmodified":1695878858,
     "wof:name":"Dovre",
     "wof:parent_id":1527947263,
     "wof:placetype":"localadmin",

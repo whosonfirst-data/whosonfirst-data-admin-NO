@@ -22,6 +22,15 @@
     "geom:latitude":60.441293,
     "geom:longitude":12.225472,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":60.444607,
     "lbl:longitude":12.177055,
     "lbl:max_zoom":18.0,
@@ -85,8 +94,10 @@
         "digitalenvoy:metro_code":578120,
         "eg:gisco_id":"NO_3417",
         "eurostat:nuts_2021_id":"3417",
-        "no-geonorge:kommunenum":3417
+        "no-geonorge:kommunenum":3417,
+        "no-geonorge:number":"3417"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596106,
     "wof:geomhash":"ffc498cd61f2891171fcb4ac8bd2267b",
@@ -108,7 +119,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354120,
+    "wof:lastmodified":1695878896,
     "wof:name":"Grue",
     "wof:parent_id":1527947263,
     "wof:placetype":"localadmin",

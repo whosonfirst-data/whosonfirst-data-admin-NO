@@ -22,6 +22,15 @@
     "geom:latitude":60.364096,
     "geom:longitude":5.390297,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":60.338792,
     "lbl:longitude":5.416049,
     "lbl:max_zoom":18.0,
@@ -352,8 +361,10 @@
         "digitalenvoy:metro_code":578039,
         "eg:gisco_id":"NO_4601",
         "eurostat:nuts_2021_id":"4601",
-        "no-geonorge:kommunenum":4601
+        "no-geonorge:kommunenum":4601,
+        "no-geonorge:number":"4601"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596121,
     "wof:geomhash":"e2c85a4ce3d9a4fb0c949922dca3528f",
@@ -375,7 +386,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354123,
+    "wof:lastmodified":1695878899,
     "wof:name":"Bergen",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",

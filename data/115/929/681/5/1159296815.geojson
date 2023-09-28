@@ -22,6 +22,15 @@
     "geom:latitude":59.892486,
     "geom:longitude":10.969317,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":59.894482,
     "lbl:longitude":10.968141,
     "lbl:max_zoom":18.0,
@@ -61,8 +70,10 @@
         "digitalenvoy:metro_code":578205,
         "eg:gisco_id":"NO_3029",
         "eurostat:nuts_2021_id":"3029",
-        "no-geonorge:kommunenum":3029
+        "no-geonorge:kommunenum":3029,
+        "no-geonorge:number":"3029"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595788,
     "wof:geomhash":"aa5429b951e5278271c1b60c3c5baf76",
@@ -84,7 +95,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354075,
+    "wof:lastmodified":1695878847,
     "wof:name":"L\u00f8renskog",
     "wof:parent_id":1527947269,
     "wof:placetype":"localadmin",

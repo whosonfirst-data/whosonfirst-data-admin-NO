@@ -22,6 +22,15 @@
     "geom:latitude":64.514396,
     "geom:longitude":12.589525,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":64.556598,
     "lbl:longitude":12.624342,
     "lbl:max_zoom":18.0,
@@ -151,8 +160,10 @@
         "digitalenvoy:metro_code":578119,
         "eg:gisco_id":"NO_5045",
         "eurostat:nuts_2021_id":"5045",
-        "no-geonorge:kommunenum":5045
+        "no-geonorge:kommunenum":5045,
+        "no-geonorge:number":"5045"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596043,
     "wof:geomhash":"23d557474e9576e668b81dc4f77286dd",
@@ -174,7 +185,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354112,
+    "wof:lastmodified":1695878887,
     "wof:name":"Grong",
     "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",

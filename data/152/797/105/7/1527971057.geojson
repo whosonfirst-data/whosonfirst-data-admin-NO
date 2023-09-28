@@ -24,6 +24,15 @@
     "geom:latitude":58.447009,
     "geom:longitude":8.195848,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":58.430854,
     "lbl:longitude":8.213351,
     "mps:latitude":58.430854,
@@ -53,8 +62,10 @@
         "digitalenvoy:metro_code":578042,
         "eg:gisco_id":"NO_4216",
         "eurostat:nuts_2021_id":"4216",
-        "no-geonorge:kommunenum":4216
+        "no-geonorge:kommunenum":4216,
+        "no-geonorge:number":"4216"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:geomhash":"5167c0bc03c509e5c3da46dd790d1b64",
     "wof:hierarchy":[
@@ -75,7 +86,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354129,
+    "wof:lastmodified":1695878906,
     "wof:name":"Birkenes",
     "wof:parent_id":1527947265,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":60.785024,
     "geom:longitude":11.952462,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":60.666042,
     "lbl:longitude":11.80766,
     "lbl:max_zoom":18.0,
@@ -61,8 +70,10 @@
         "digitalenvoy:metro_code":578409,
         "eg:gisco_id":"NO_3419",
         "eurostat:nuts_2021_id":"3419",
-        "no-geonorge:kommunenum":3419
+        "no-geonorge:kommunenum":3419,
+        "no-geonorge:number":"3419"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595906,
     "wof:geomhash":"5bf2f81733c0001fe774130c364d2222",
@@ -84,7 +95,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354095,
+    "wof:lastmodified":1695878868,
     "wof:name":"V\u00e5ler",
     "wof:parent_id":1527947263,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":60.223794,
     "geom:longitude":11.753721,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":60.224164,
     "lbl:longitude":11.757689,
     "lbl:max_zoom":18.0,
@@ -61,8 +70,10 @@
         "digitalenvoy:metro_code":578347,
         "eg:gisco_id":"NO_3415",
         "eurostat:nuts_2021_id":"3415",
-        "no-geonorge:kommunenum":3415
+        "no-geonorge:kommunenum":3415,
+        "no-geonorge:number":"3415"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595740,
     "wof:geomhash":"9ce2aeff4a2ebc1c1cb525f2d7fa2f27",
@@ -84,7 +95,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354069,
+    "wof:lastmodified":1695878840,
     "wof:name":"S\u00f8r-Odal",
     "wof:parent_id":1527947263,
     "wof:placetype":"localadmin",

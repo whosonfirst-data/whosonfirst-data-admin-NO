@@ -24,6 +24,15 @@
     "geom:latitude":61.469852,
     "geom:longitude":6.113438,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":61.464367,
     "lbl:longitude":6.113428,
     "mps:latitude":61.464367,
@@ -53,7 +62,8 @@
         "digitalenvoy:metro_code":578090,
         "eg:gisco_id":"NO_4647",
         "eurostat:nuts_2021_id":"4647",
-        "no-geonorge:kommunenum":4647
+        "no-geonorge:kommunenum":4647,
+        "no-geonorge:number":"4647"
     },
     "wof:concordances_alt":{
         "digitalenvoy:metro_code":[
@@ -62,6 +72,7 @@
             578238
         ]
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:geomhash":"fbcbfa47904f02615cc711cf7e414e81",
     "wof:hierarchy":[
@@ -82,7 +93,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354127,
+    "wof:lastmodified":1695878903,
     "wof:name":"Sunnfjord",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",

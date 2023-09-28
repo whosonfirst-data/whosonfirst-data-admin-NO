@@ -22,6 +22,15 @@
     "geom:latitude":60.386551,
     "geom:longitude":6.122449,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":60.393092,
     "lbl:longitude":6.033372,
     "lbl:max_zoom":18.0,
@@ -154,8 +163,10 @@
         "digitalenvoy:metro_code":578179,
         "eg:gisco_id":"NO_4622",
         "eurostat:nuts_2021_id":"4622",
-        "no-geonorge:kommunenum":4622
+        "no-geonorge:kommunenum":4622,
+        "no-geonorge:number":"4622"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596040,
     "wof:geomhash":"71e3d28650d20d997fb0d4d5ac2670a9",
@@ -177,7 +188,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354111,
+    "wof:lastmodified":1695878886,
     "wof:name":"Kvam",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",

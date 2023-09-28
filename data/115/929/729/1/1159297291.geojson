@@ -22,6 +22,15 @@
     "geom:latitude":61.774283,
     "geom:longitude":9.47554,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":61.806494,
     "lbl:longitude":9.543611,
     "lbl:max_zoom":18.0,
@@ -151,8 +160,10 @@
         "digitalenvoy:metro_code":578317,
         "eg:gisco_id":"NO_3437",
         "eurostat:nuts_2021_id":"3437",
-        "no-geonorge:kommunenum":3437
+        "no-geonorge:kommunenum":3437,
+        "no-geonorge:number":"3437"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595972,
     "wof:geomhash":"9e0df6748b952fcd56216b8342ce5eba",
@@ -174,7 +185,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354103,
+    "wof:lastmodified":1695878876,
     "wof:name":"Sel",
     "wof:parent_id":1527947263,
     "wof:placetype":"localadmin",

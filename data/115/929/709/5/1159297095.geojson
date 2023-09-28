@@ -22,6 +22,15 @@
     "geom:latitude":60.849441,
     "geom:longitude":11.390173,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":60.8519,
     "lbl:longitude":11.375832,
     "lbl:max_zoom":18.0,
@@ -61,8 +70,10 @@
         "digitalenvoy:metro_code":578206,
         "eg:gisco_id":"NO_3412",
         "eurostat:nuts_2021_id":"3412",
-        "no-geonorge:kommunenum":3412
+        "no-geonorge:kommunenum":3412,
+        "no-geonorge:number":"3412"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595867,
     "wof:geomhash":"39d214cd7322d80cec2875f9b03072db",
@@ -84,7 +95,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354090,
+    "wof:lastmodified":1695878863,
     "wof:name":"L\u00f8ten",
     "wof:parent_id":1527947263,
     "wof:placetype":"localadmin",

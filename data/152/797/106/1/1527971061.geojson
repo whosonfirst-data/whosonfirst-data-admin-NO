@@ -24,6 +24,15 @@
     "geom:latitude":58.254585,
     "geom:longitude":7.204726,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":58.192567,
     "lbl:longitude":7.119077,
     "mps:latitude":58.192567,
@@ -53,13 +62,15 @@
         "digitalenvoy:metro_code":578022,
         "eg:gisco_id":"NO_4225",
         "eurostat:nuts_2021_id":"4225",
-        "no-geonorge:kommunenum":4225
+        "no-geonorge:kommunenum":4225,
+        "no-geonorge:number":"4225"
     },
     "wof:concordances_alt":{
         "digitalenvoy:metro_code":[
             578211
         ]
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:geomhash":"89f0cf4b2cb564f763ab9b9b6b5ee3f9",
     "wof:hierarchy":[
@@ -80,7 +91,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354129,
+    "wof:lastmodified":1695878906,
     "wof:name":"Lyngdal",
     "wof:parent_id":1527947265,
     "wof:placetype":"localadmin",

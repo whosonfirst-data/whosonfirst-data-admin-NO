@@ -22,6 +22,15 @@
     "geom:latitude":59.100181,
     "geom:longitude":8.977938,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":59.123996,
     "lbl:longitude":8.909861,
     "lbl:max_zoom":18.0,
@@ -154,8 +163,10 @@
         "digitalenvoy:metro_code":578059,
         "eg:gisco_id":"NO_3815",
         "eurostat:nuts_2021_id":"3815",
-        "no-geonorge:kommunenum":3815
+        "no-geonorge:kommunenum":3815,
+        "no-geonorge:number":"3815"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595841,
     "wof:geomhash":"0b460bd369e900276202a97c74ec0022",
@@ -177,7 +188,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354085,
+    "wof:lastmodified":1695878857,
     "wof:name":"Drangedal",
     "wof:parent_id":1527947267,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":59.37169,
     "geom:longitude":11.416587,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":59.362528,
     "lbl:longitude":11.433107,
     "lbl:max_zoom":18.0,
@@ -148,8 +157,10 @@
         "digitalenvoy:metro_code":578283,
         "eg:gisco_id":"NO_3016",
         "eurostat:nuts_2021_id":"3016",
-        "no-geonorge:kommunenum":3016
+        "no-geonorge:kommunenum":3016,
+        "no-geonorge:number":"3016"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595800,
     "wof:geomhash":"bcb2cba9182b8152609651618d77dcb3",
@@ -171,7 +182,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354077,
+    "wof:lastmodified":1695878849,
     "wof:name":"Rakkestad",
     "wof:parent_id":1527947269,
     "wof:placetype":"localadmin",

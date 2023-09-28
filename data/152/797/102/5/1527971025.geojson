@@ -24,6 +24,15 @@
     "geom:latitude":61.13908,
     "geom:longitude":5.925408,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":61.225557,
     "lbl:longitude":5.951564,
     "mps:latitude":61.225557,
@@ -53,8 +62,10 @@
         "digitalenvoy:metro_code":578152,
         "eg:gisco_id":"NO_4638",
         "eurostat:nuts_2021_id":"4638",
-        "no-geonorge:kommunenum":4638
+        "no-geonorge:kommunenum":4638,
+        "no-geonorge:number":"4638"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:geomhash":"5c11d2d386cb4643ffec1da2479679a7",
     "wof:hierarchy":[
@@ -75,7 +86,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354127,
+    "wof:lastmodified":1695878903,
     "wof:name":"H\u00f8yanger",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",

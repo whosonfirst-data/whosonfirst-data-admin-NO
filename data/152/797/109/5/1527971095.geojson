@@ -24,6 +24,15 @@
     "geom:latitude":70.482515,
     "geom:longitude":23.90988,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":70.299866,
     "lbl:longitude":24.106797,
     "mps:latitude":70.299866,
@@ -74,13 +83,15 @@
         "digitalenvoy:metro_code":578129,
         "eg:gisco_id":"NO_5406",
         "eurostat:nuts_2021_id":"5406",
-        "no-geonorge:kommunenum":5406
+        "no-geonorge:kommunenum":5406,
+        "no-geonorge:number":"5406"
     },
     "wof:concordances_alt":{
         "digitalenvoy:metro_code":[
             578178
         ]
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:geomhash":"896da35bc1d1ead428490144ce61a960",
     "wof:hierarchy":[
@@ -101,7 +112,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354133,
+    "wof:lastmodified":1695878911,
     "wof:name":"Hammerfest",
     "wof:parent_id":1527947259,
     "wof:placetype":"localadmin",

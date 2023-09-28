@@ -22,6 +22,15 @@
     "geom:latitude":70.069845,
     "geom:longitude":20.686012,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":70.148006,
     "lbl:longitude":20.631556,
     "lbl:max_zoom":18.0,
@@ -61,8 +70,10 @@
         "digitalenvoy:metro_code":578331,
         "eg:gisco_id":"NO_5427",
         "eurostat:nuts_2021_id":"5427",
-        "no-geonorge:kommunenum":5427
+        "no-geonorge:kommunenum":5427,
+        "no-geonorge:number":"5427"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596057,
     "wof:geomhash":"4dcdf3120dde62e5619d1e8806350575",
@@ -84,7 +95,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354114,
+    "wof:lastmodified":1695878890,
     "wof:name":"Skjerv\u00f8y",
     "wof:parent_id":1527947259,
     "wof:placetype":"localadmin",

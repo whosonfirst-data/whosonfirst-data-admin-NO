@@ -22,6 +22,15 @@
     "geom:latitude":60.044868,
     "geom:longitude":10.294665,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":60.051079,
     "lbl:longitude":10.282654,
     "lbl:max_zoom":18.0,
@@ -73,8 +82,10 @@
         "digitalenvoy:metro_code":578147,
         "eg:gisco_id":"NO_3038",
         "eurostat:nuts_2021_id":"3038",
-        "no-geonorge:kommunenum":3038
+        "no-geonorge:kommunenum":3038,
+        "no-geonorge:number":"3038"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595787,
     "wof:geomhash":"3d8bd8578e7aa95b1d4a5c3d6e9d6cab",
@@ -96,7 +107,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354075,
+    "wof:lastmodified":1695878847,
     "wof:name":"Hole",
     "wof:parent_id":1527947269,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":68.71931,
     "geom:longitude":15.485118,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":68.676773,
     "lbl:longitude":15.609529,
     "lbl:max_zoom":18.0,
@@ -166,8 +175,10 @@
         "digitalenvoy:metro_code":578349,
         "eg:gisco_id":"NO_1870",
         "eurostat:nuts_2021_id":"1870",
-        "no-geonorge:kommunenum":1870
+        "no-geonorge:kommunenum":1870,
+        "no-geonorge:number":"1870"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595956,
     "wof:geomhash":"78137a67483c9097982b508b6b5f3cd4",
@@ -189,7 +200,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354102,
+    "wof:lastmodified":1695878875,
     "wof:name":"Sortland",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

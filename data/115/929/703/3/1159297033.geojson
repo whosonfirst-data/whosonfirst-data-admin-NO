@@ -22,6 +22,15 @@
     "geom:latitude":61.58337,
     "geom:longitude":9.522912,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":61.615157,
     "lbl:longitude":9.670924,
     "lbl:max_zoom":18.0,
@@ -157,13 +166,15 @@
         "digitalenvoy:metro_code":578251,
         "eg:gisco_id":"NO_3436",
         "eurostat:nuts_2021_id":"3436",
-        "no-geonorge:kommunenum":3436
+        "no-geonorge:kommunenum":3436,
+        "no-geonorge:number":"3436"
     },
     "wof:concordances_alt":{
         "digitalenvoy:metro_code":[
             578346
         ]
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595850,
     "wof:geomhash":"b87c694ea1b855e282884f6f6c0b8408",
@@ -185,7 +196,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354086,
+    "wof:lastmodified":1695878859,
     "wof:name":"Nord-Fron",
     "wof:parent_id":1527947263,
     "wof:placetype":"localadmin",

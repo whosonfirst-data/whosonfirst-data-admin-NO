@@ -24,6 +24,15 @@
     "geom:latitude":59.412479,
     "geom:longitude":10.707358,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":59.405942,
     "lbl:longitude":10.714657,
     "mps:latitude":59.405942,
@@ -68,13 +77,15 @@
         "digitalenvoy:metro_code":578231,
         "eg:gisco_id":"NO_3002",
         "eurostat:nuts_2021_id":"3002",
-        "no-geonorge:kommunenum":3002
+        "no-geonorge:kommunenum":3002,
+        "no-geonorge:number":"3002"
     },
     "wof:concordances_alt":{
         "digitalenvoy:metro_code":[
             578305
         ]
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:geomhash":"a4e39f54eaf0cef0559a4277253b0f58",
     "wof:hierarchy":[
@@ -95,7 +106,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354134,
+    "wof:lastmodified":1695878912,
     "wof:name":"Moss",
     "wof:parent_id":1527947269,
     "wof:placetype":"localadmin",

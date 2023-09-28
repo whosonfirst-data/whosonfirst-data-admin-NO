@@ -22,6 +22,15 @@
     "geom:latitude":60.969013,
     "geom:longitude":5.210559,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":60.971286,
     "lbl:longitude":5.379971,
     "lbl:max_zoom":18.0,
@@ -160,8 +169,10 @@
         "digitalenvoy:metro_code":578121,
         "eg:gisco_id":"NO_4635",
         "eurostat:nuts_2021_id":"4635",
-        "no-geonorge:kommunenum":4635
+        "no-geonorge:kommunenum":4635,
+        "no-geonorge:number":"4635"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596107,
     "wof:geomhash":"bb0b2cb4457cc14abcf52756e3e61035",
@@ -183,7 +194,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354121,
+    "wof:lastmodified":1695878897,
     "wof:name":"Gulen",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",

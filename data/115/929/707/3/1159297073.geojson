@@ -22,6 +22,15 @@
     "geom:latitude":60.233776,
     "geom:longitude":10.961818,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":60.240629,
     "lbl:longitude":10.958405,
     "lbl:max_zoom":18.0,
@@ -166,8 +175,10 @@
         "digitalenvoy:metro_code":578236,
         "eg:gisco_id":"NO_3036",
         "eurostat:nuts_2021_id":"3036",
-        "no-geonorge:kommunenum":3036
+        "no-geonorge:kommunenum":3036,
+        "no-geonorge:number":"3036"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595862,
     "wof:geomhash":"b7e6866253932c3d45e6cd056586e8d0",
@@ -189,7 +200,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354089,
+    "wof:lastmodified":1695878862,
     "wof:name":"Nannestad",
     "wof:parent_id":1527947269,
     "wof:placetype":"localadmin",

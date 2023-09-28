@@ -22,6 +22,15 @@
     "geom:latitude":63.26532,
     "geom:longitude":10.033934,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":63.265549,
     "lbl:longitude":10.020168,
     "lbl:max_zoom":18.0,
@@ -142,8 +151,10 @@
         "digitalenvoy:metro_code":578325,
         "eg:gisco_id":"NO_5029",
         "eurostat:nuts_2021_id":"5029",
-        "no-geonorge:kommunenum":5029
+        "no-geonorge:kommunenum":5029,
+        "no-geonorge:number":"5029"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595951,
     "wof:geomhash":"d24be2b09cc559c95569135dd13a9dfa",
@@ -165,7 +176,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354101,
+    "wof:lastmodified":1695878874,
     "wof:name":"Skaun",
     "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",

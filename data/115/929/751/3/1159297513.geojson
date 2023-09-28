@@ -22,6 +22,15 @@
     "geom:latitude":60.295018,
     "geom:longitude":10.087035,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":60.336903,
     "lbl:longitude":10.019411,
     "lbl:max_zoom":18.0,
@@ -64,8 +73,10 @@
         "digitalenvoy:metro_code":578293,
         "eg:gisco_id":"NO_3007",
         "eurostat:nuts_2021_id":"3007",
-        "no-geonorge:kommunenum":3007
+        "no-geonorge:kommunenum":3007,
+        "no-geonorge:number":"3007"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596076,
     "wof:geomhash":"77c1180103db13f862542dfdc9b3f125",
@@ -87,7 +98,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354116,
+    "wof:lastmodified":1695878892,
     "wof:name":"Ringerike",
     "wof:parent_id":1527947269,
     "wof:placetype":"localadmin",

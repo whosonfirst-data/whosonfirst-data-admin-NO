@@ -24,6 +24,15 @@
     "geom:latitude":58.978291,
     "geom:longitude":6.314982,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":58.960475,
     "lbl:longitude":6.432189,
     "mps:latitude":58.960475,
@@ -68,13 +77,15 @@
         "digitalenvoy:metro_code":578312,
         "eg:gisco_id":"NO_1108",
         "eurostat:nuts_2021_id":"1108",
-        "no-geonorge:kommunenum":1108
+        "no-geonorge:kommunenum":1108,
+        "no-geonorge:number":"1108"
     },
     "wof:concordances_alt":{
         "digitalenvoy:metro_code":[
             578091
         ]
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:geomhash":"71704263dfcfaa42379f1104ff0e40f0",
     "wof:hierarchy":[
@@ -95,7 +106,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354138,
+    "wof:lastmodified":1695878916,
     "wof:name":"Sandnes",
     "wof:parent_id":85687085,
     "wof:placetype":"localadmin",

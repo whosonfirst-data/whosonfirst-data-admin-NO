@@ -24,6 +24,15 @@
     "geom:latitude":59.703404,
     "geom:longitude":6.451226,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":59.703406,
     "lbl:longitude":6.451217,
     "mps:latitude":59.703406,
@@ -53,8 +62,10 @@
         "digitalenvoy:metro_code":578315,
         "eg:gisco_id":"NO_1135",
         "eurostat:nuts_2021_id":"1135",
-        "no-geonorge:kommunenum":1135
+        "no-geonorge:kommunenum":1135,
+        "no-geonorge:number":"1135"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:geomhash":"5b2d7b912df8cac1c8b263acc4a77b56",
     "wof:hierarchy":[
@@ -75,7 +86,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354135,
+    "wof:lastmodified":1695878913,
     "wof:name":"Sauda",
     "wof:parent_id":85687085,
     "wof:placetype":"localadmin",

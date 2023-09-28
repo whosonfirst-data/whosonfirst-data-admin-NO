@@ -22,6 +22,15 @@
     "geom:latitude":59.310068,
     "geom:longitude":9.72533,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":59.318548,
     "lbl:longitude":9.698327,
     "lbl:max_zoom":18.0,
@@ -118,8 +127,10 @@
         "digitalenvoy:metro_code":578322,
         "eg:gisco_id":"NO_3812",
         "eurostat:nuts_2021_id":"3812",
-        "no-geonorge:kommunenum":3812
+        "no-geonorge:kommunenum":3812,
+        "no-geonorge:number":"3812"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596131,
     "wof:geomhash":"663cfd11c53316853696a69a671fe1ad",
@@ -141,7 +152,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354124,
+    "wof:lastmodified":1695878901,
     "wof:name":"Siljan",
     "wof:parent_id":1527947267,
     "wof:placetype":"localadmin",

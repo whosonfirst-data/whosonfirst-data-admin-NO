@@ -22,6 +22,15 @@
     "geom:latitude":70.232349,
     "geom:longitude":29.684252,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":70.263069,
     "lbl:longitude":29.437436,
     "lbl:max_zoom":18.0,
@@ -61,8 +70,10 @@
         "digitalenvoy:metro_code":578402,
         "eg:gisco_id":"NO_5405",
         "eurostat:nuts_2021_id":"5405",
-        "no-geonorge:kommunenum":5405
+        "no-geonorge:kommunenum":5405,
+        "no-geonorge:number":"5405"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596021,
     "wof:geomhash":"bdc08f581135b10bd211fcdf1ae61394",
@@ -84,7 +95,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354109,
+    "wof:lastmodified":1695878884,
     "wof:name":"Vads\u00f8",
     "wof:parent_id":1527947259,
     "wof:placetype":"localadmin",

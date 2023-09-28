@@ -24,6 +24,15 @@
     "geom:latitude":60.097655,
     "geom:longitude":6.81401,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":60.062687,
     "lbl:longitude":6.882541,
     "mps:latitude":60.062687,
@@ -53,7 +62,8 @@
         "digitalenvoy:metro_code":578397,
         "eg:gisco_id":"NO_4618",
         "eurostat:nuts_2021_id":"4618",
-        "no-geonorge:kommunenum":4618
+        "no-geonorge:kommunenum":4618,
+        "no-geonorge:number":"4618"
     },
     "wof:concordances_alt":{
         "digitalenvoy:metro_code":[
@@ -61,6 +71,7 @@
             578163
         ]
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:geomhash":"f9fcc714f398f27052028ed4d2cb5203",
     "wof:hierarchy":[
@@ -81,7 +92,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354128,
+    "wof:lastmodified":1695878904,
     "wof:name":"Ullensvang",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",

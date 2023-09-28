@@ -22,6 +22,15 @@
     "geom:latitude":61.714478,
     "geom:longitude":8.480417,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":61.748232,
     "lbl:longitude":8.609089,
     "lbl:max_zoom":18.0,
@@ -157,8 +166,10 @@
         "digitalenvoy:metro_code":578203,
         "eg:gisco_id":"NO_3434",
         "eurostat:nuts_2021_id":"3434",
-        "no-geonorge:kommunenum":3434
+        "no-geonorge:kommunenum":3434,
+        "no-geonorge:number":"3434"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596105,
     "wof:geomhash":"2ad2060946982a6f29548317ce767ecf",
@@ -180,7 +191,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354120,
+    "wof:lastmodified":1695878896,
     "wof:name":"Lom",
     "wof:parent_id":1527947263,
     "wof:placetype":"localadmin",

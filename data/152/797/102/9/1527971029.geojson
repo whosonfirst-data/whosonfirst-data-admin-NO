@@ -24,6 +24,15 @@
     "geom:latitude":60.783104,
     "geom:longitude":4.931579,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":60.763518,
     "lbl:longitude":4.927734,
     "mps:latitude":60.763518,
@@ -53,8 +62,10 @@
         "digitalenvoy:metro_code":578028,
         "eg:gisco_id":"NO_4632",
         "eurostat:nuts_2021_id":"4632",
-        "no-geonorge:kommunenum":4632
+        "no-geonorge:kommunenum":4632,
+        "no-geonorge:number":"4632"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:geomhash":"bdb9c7171b42e8836432373fb676f809",
     "wof:hierarchy":[
@@ -75,7 +86,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354127,
+    "wof:lastmodified":1695878904,
     "wof:name":"Austrheim",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",

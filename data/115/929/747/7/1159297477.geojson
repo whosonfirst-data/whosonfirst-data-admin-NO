@@ -22,6 +22,15 @@
     "geom:latitude":59.066338,
     "geom:longitude":10.979613,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":59.057243,
     "lbl:longitude":11.023331,
     "lbl:max_zoom":18.0,
@@ -151,8 +160,10 @@
         "digitalenvoy:metro_code":578156,
         "eg:gisco_id":"NO_3011",
         "eurostat:nuts_2021_id":"3011",
-        "no-geonorge:kommunenum":3011
+        "no-geonorge:kommunenum":3011,
+        "no-geonorge:number":"3011"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596056,
     "wof:geomhash":"3b390ab3821f4188ef1fc22c3fe3424c",
@@ -174,7 +185,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354114,
+    "wof:lastmodified":1695878890,
     "wof:name":"Hvaler",
     "wof:parent_id":1527947269,
     "wof:placetype":"localadmin",

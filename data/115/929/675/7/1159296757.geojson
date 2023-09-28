@@ -22,6 +22,15 @@
     "geom:latitude":63.846094,
     "geom:longitude":11.033979,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":63.808162,
     "lbl:longitude":10.897867,
     "lbl:max_zoom":18.0,
@@ -56,8 +65,10 @@
         "digitalenvoy:metro_code":578159,
         "eg:gisco_id":"NO_5053",
         "eurostat:nuts_2021_id":"5053",
-        "no-geonorge:kommunenum":5053
+        "no-geonorge:kommunenum":5053,
+        "no-geonorge:number":"5053"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595752,
     "wof:geomhash":"89a6bd4ff77211c7b28c2b52eb3ca08e",
@@ -79,7 +90,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354071,
+    "wof:lastmodified":1695878842,
     "wof:name":"Inderoy",
     "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",

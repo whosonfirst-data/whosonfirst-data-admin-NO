@@ -22,6 +22,15 @@
     "geom:latitude":61.557527,
     "geom:longitude":10.319316,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":61.545074,
     "lbl:longitude":10.281055,
     "lbl:max_zoom":18.0,
@@ -157,8 +166,10 @@
         "digitalenvoy:metro_code":578292,
         "eg:gisco_id":"NO_3439",
         "eurostat:nuts_2021_id":"3439",
-        "no-geonorge:kommunenum":3439
+        "no-geonorge:kommunenum":3439,
+        "no-geonorge:number":"3439"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595836,
     "wof:geomhash":"979d603644401048e6b15a93dd26cbda",
@@ -180,7 +191,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354084,
+    "wof:lastmodified":1695878856,
     "wof:name":"Ringebu",
     "wof:parent_id":1527947263,
     "wof:placetype":"localadmin",

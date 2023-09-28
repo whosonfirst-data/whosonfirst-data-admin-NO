@@ -22,6 +22,15 @@
     "geom:latitude":61.0214,
     "geom:longitude":6.543552,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":61.056915,
     "lbl:longitude":6.683241,
     "lbl:max_zoom":18.0,
@@ -142,8 +151,10 @@
         "digitalenvoy:metro_code":578426,
         "eg:gisco_id":"NO_4639",
         "eurostat:nuts_2021_id":"4639",
-        "no-geonorge:kommunenum":4639
+        "no-geonorge:kommunenum":4639,
+        "no-geonorge:number":"4639"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595963,
     "wof:geomhash":"f24c03be6df5cf3cb137b7ec7a8a7a3e",
@@ -165,7 +176,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354102,
+    "wof:lastmodified":1695878876,
     "wof:name":"Vik",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",

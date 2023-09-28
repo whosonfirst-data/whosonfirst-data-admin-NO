@@ -22,6 +22,15 @@
     "geom:latitude":67.265556,
     "geom:longitude":14.832639,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":67.035602,
     "lbl:longitude":15.044288,
     "lbl:max_zoom":18.0,
@@ -112,8 +121,10 @@
         "digitalenvoy:metro_code":578048,
         "eg:gisco_id":"NO_1804",
         "eurostat:nuts_2021_id":"1804",
-        "no-geonorge:kommunenum":1804
+        "no-geonorge:kommunenum":1804,
+        "no-geonorge:number":"1804"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596052,
     "wof:geomhash":"af2c904b0d2a3488923769dc3f34a3be",
@@ -135,7 +146,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354113,
+    "wof:lastmodified":1695878888,
     "wof:name":"Bod\u00f8",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

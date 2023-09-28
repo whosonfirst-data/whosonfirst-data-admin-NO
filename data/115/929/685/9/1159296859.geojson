@@ -22,6 +22,15 @@
     "geom:latitude":59.750892,
     "geom:longitude":5.207966,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":59.789897,
     "lbl:longitude":5.222814,
     "lbl:max_zoom":18.0,
@@ -61,8 +70,10 @@
         "digitalenvoy:metro_code":578050,
         "eg:gisco_id":"NO_4613",
         "eurostat:nuts_2021_id":"4613",
-        "no-geonorge:kommunenum":4613
+        "no-geonorge:kommunenum":4613,
+        "no-geonorge:number":"4613"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595798,
     "wof:geomhash":"f7fbd0b5983cdde28ddcf99abe0401cb",
@@ -84,7 +95,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354076,
+    "wof:lastmodified":1695878849,
     "wof:name":"B\u00f8mlo",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",

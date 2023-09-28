@@ -22,6 +22,15 @@
     "geom:latitude":60.438092,
     "geom:longitude":11.581774,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":60.444151,
     "lbl:longitude":11.578045,
     "lbl:max_zoom":18.0,
@@ -154,8 +163,10 @@
         "digitalenvoy:metro_code":578253,
         "eg:gisco_id":"NO_3414",
         "eurostat:nuts_2021_id":"3414",
-        "no-geonorge:kommunenum":3414
+        "no-geonorge:kommunenum":3414,
+        "no-geonorge:number":"3414"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596057,
     "wof:geomhash":"654e679c04b50eba6223d9e3c299b564",
@@ -177,7 +188,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354115,
+    "wof:lastmodified":1695878890,
     "wof:name":"Nord-Odal",
     "wof:parent_id":1527947263,
     "wof:placetype":"localadmin",

@@ -24,6 +24,15 @@
     "geom:latitude":67.910759,
     "geom:longitude":16.170008,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":67.711614,
     "lbl:longitude":16.341186,
     "mps:latitude":67.711614,
@@ -53,13 +62,15 @@
         "digitalenvoy:metro_code":578393,
         "eg:gisco_id":"NO_1875",
         "eurostat:nuts_2021_id":"1875",
-        "no-geonorge:kommunenum":1875
+        "no-geonorge:kommunenum":1875,
+        "no-geonorge:number":"1875"
     },
     "wof:concordances_alt":{
         "digitalenvoy:metro_code":[
             578128
         ]
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:geomhash":"6fded22acf922018175cfffb4cf92678",
     "wof:hierarchy":[
@@ -80,7 +91,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354134,
+    "wof:lastmodified":1695878912,
     "wof:name":"Hamar\u00f8y",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

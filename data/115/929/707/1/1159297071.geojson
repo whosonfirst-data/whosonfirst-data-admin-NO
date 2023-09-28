@@ -22,6 +22,15 @@
     "geom:latitude":59.167338,
     "geom:longitude":10.420371,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":59.208653,
     "lbl:longitude":10.410594,
     "lbl:max_zoom":18.0,
@@ -61,13 +70,15 @@
         "digitalenvoy:metro_code":578258,
         "eg:gisco_id":"NO_3811",
         "eurostat:nuts_2021_id":"3811",
-        "no-geonorge:kommunenum":3811
+        "no-geonorge:kommunenum":3811,
+        "no-geonorge:number":"3811"
     },
     "wof:concordances_alt":{
         "digitalenvoy:metro_code":[
             578379
         ]
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595862,
     "wof:geomhash":"a1b14bd79fe1c0af016dfd81842b328d",
@@ -89,7 +100,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354089,
+    "wof:lastmodified":1695878862,
     "wof:name":"F\u00e6rder",
     "wof:parent_id":1527947267,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":67.511843,
     "geom:longitude":15.788241,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":67.439823,
     "lbl:longitude":15.911989,
     "lbl:max_zoom":18.0,
@@ -61,8 +70,10 @@
         "digitalenvoy:metro_code":578345,
         "eg:gisco_id":"NO_1845",
         "eurostat:nuts_2021_id":"1845",
-        "no-geonorge:kommunenum":1845
+        "no-geonorge:kommunenum":1845,
+        "no-geonorge:number":"1845"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595827,
     "wof:geomhash":"41da71e391396ea92313d9681cec3f24",
@@ -84,7 +95,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354082,
+    "wof:lastmodified":1695878855,
     "wof:name":"S\u00f8rfold",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

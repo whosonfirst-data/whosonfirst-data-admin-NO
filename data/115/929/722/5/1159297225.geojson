@@ -22,6 +22,15 @@
     "geom:latitude":59.821707,
     "geom:longitude":7.728509,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":59.8524,
     "lbl:longitude":7.72861,
     "lbl:max_zoom":18.0,
@@ -151,8 +160,10 @@
         "digitalenvoy:metro_code":578429,
         "eg:gisco_id":"NO_3825",
         "eurostat:nuts_2021_id":"3825",
-        "no-geonorge:kommunenum":3825
+        "no-geonorge:kommunenum":3825,
+        "no-geonorge:number":"3825"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595932,
     "wof:geomhash":"8953b4df9cbbc52d5945b705f3897524",
@@ -174,7 +185,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354099,
+    "wof:lastmodified":1695878872,
     "wof:name":"Vinje",
     "wof:parent_id":1527947267,
     "wof:placetype":"localadmin",

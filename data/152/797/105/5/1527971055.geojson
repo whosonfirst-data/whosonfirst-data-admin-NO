@@ -24,6 +24,15 @@
     "geom:latitude":59.164737,
     "geom:longitude":7.432119,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":59.144605,
     "lbl:longitude":7.391567,
     "mps:latitude":59.144605,
@@ -56,8 +65,10 @@
         "digitalenvoy:metro_code":578410,
         "eg:gisco_id":"NO_4221",
         "eurostat:nuts_2021_id":"4221",
-        "no-geonorge:kommunenum":4221
+        "no-geonorge:kommunenum":4221,
+        "no-geonorge:number":"4221"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:geomhash":"acaff3d787e637fba16f8e26a9b75010",
     "wof:hierarchy":[
@@ -78,7 +89,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354129,
+    "wof:lastmodified":1695878905,
     "wof:name":"Valle",
     "wof:parent_id":1527947265,
     "wof:placetype":"localadmin",

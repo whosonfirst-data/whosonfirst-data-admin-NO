@@ -22,6 +22,15 @@
     "geom:latitude":66.886892,
     "geom:longitude":14.658151,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":66.893821,
     "lbl:longitude":14.658136,
     "lbl:max_zoom":18.0,
@@ -151,8 +160,10 @@
         "digitalenvoy:metro_code":578037,
         "eg:gisco_id":"NO_1839",
         "eurostat:nuts_2021_id":"1839",
-        "no-geonorge:kommunenum":1839
+        "no-geonorge:kommunenum":1839,
+        "no-geonorge:number":"1839"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595955,
     "wof:geomhash":"2c2517dc99afdf558e4e6ad80dc93edf",
@@ -174,7 +185,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354101,
+    "wof:lastmodified":1695878874,
     "wof:name":"Beiarn",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

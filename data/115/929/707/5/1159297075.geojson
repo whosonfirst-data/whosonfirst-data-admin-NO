@@ -22,6 +22,15 @@
     "geom:latitude":58.374304,
     "geom:longitude":8.48942,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":58.388853,
     "lbl:longitude":8.452869,
     "lbl:max_zoom":18.0,
@@ -193,8 +202,10 @@
         "digitalenvoy:metro_code":578118,
         "eg:gisco_id":"NO_4202",
         "eurostat:nuts_2021_id":"4202",
-        "no-geonorge:kommunenum":4202
+        "no-geonorge:kommunenum":4202,
+        "no-geonorge:number":"4202"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595863,
     "wof:geomhash":"0e3388c93b9d1eb8cee6ef93ceb1e1a0",
@@ -216,7 +227,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354089,
+    "wof:lastmodified":1695878862,
     "wof:name":"Grimstad",
     "wof:parent_id":1527947265,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":60.536533,
     "geom:longitude":5.553376,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":60.502748,
     "lbl:longitude":5.565936,
     "lbl:max_zoom":18.0,
@@ -61,8 +70,10 @@
         "digitalenvoy:metro_code":578271,
         "eg:gisco_id":"NO_4630",
         "eurostat:nuts_2021_id":"4630",
-        "no-geonorge:kommunenum":4630
+        "no-geonorge:kommunenum":4630,
+        "no-geonorge:number":"4630"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595951,
     "wof:geomhash":"8f16a0298dbe18098107d7cf503037c8",
@@ -84,7 +95,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354100,
+    "wof:lastmodified":1695878874,
     "wof:name":"Oster\u00f8y",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":60.367931,
     "geom:longitude":7.361891,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":60.334184,
     "lbl:longitude":7.428874,
     "lbl:max_zoom":18.0,
@@ -154,8 +163,10 @@
         "digitalenvoy:metro_code":578063,
         "eg:gisco_id":"NO_4619",
         "eurostat:nuts_2021_id":"4619",
-        "no-geonorge:kommunenum":4619
+        "no-geonorge:kommunenum":4619,
+        "no-geonorge:number":"4619"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595955,
     "wof:geomhash":"4e73caafd5c287c85b015f988569cbc9",
@@ -177,7 +188,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354101,
+    "wof:lastmodified":1695878874,
     "wof:name":"Eidfjord",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",

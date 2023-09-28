@@ -22,6 +22,15 @@
     "geom:latitude":69.462416,
     "geom:longitude":20.774595,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":69.412882,
     "lbl:longitude":20.727747,
     "lbl:max_zoom":18.0,
@@ -64,8 +73,10 @@
         "digitalenvoy:metro_code":578101,
         "eg:gisco_id":"NO_5426",
         "eurostat:nuts_2021_id":"5426",
-        "no-geonorge:kommunenum":5426
+        "no-geonorge:kommunenum":5426,
+        "no-geonorge:number":"5426"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595753,
     "wof:geomhash":"a3fdaf38605856e696f1cef2b660f6e2",
@@ -87,7 +98,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354071,
+    "wof:lastmodified":1695878843,
     "wof:name":"K\u00e5fjord",
     "wof:parent_id":1527947259,
     "wof:placetype":"localadmin",

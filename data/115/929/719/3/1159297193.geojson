@@ -22,6 +22,15 @@
     "geom:latitude":59.236979,
     "geom:longitude":10.180579,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":59.232922,
     "lbl:longitude":10.195834,
     "lbl:max_zoom":18.0,
@@ -199,7 +208,8 @@
         "digitalenvoy:metro_code":578311,
         "eg:gisco_id":"NO_3804",
         "eurostat:nuts_2021_id":"3804",
-        "no-geonorge:kommunenum":3804
+        "no-geonorge:kommunenum":3804,
+        "no-geonorge:number":"3804"
     },
     "wof:concordances_alt":{
         "digitalenvoy:metro_code":[
@@ -207,6 +217,7 @@
             578010
         ]
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595921,
     "wof:geomhash":"ac96e1113c218bb4b87950f1fd9ee72d",
@@ -228,7 +239,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354097,
+    "wof:lastmodified":1695878870,
     "wof:name":"Sandefjord",
     "wof:parent_id":1527947267,
     "wof:placetype":"localadmin",

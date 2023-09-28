@@ -22,6 +22,15 @@
     "geom:latitude":63.464937,
     "geom:longitude":11.212607,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":63.458968,
     "lbl:longitude":11.219733,
     "lbl:max_zoom":18.0,
@@ -61,8 +70,10 @@
         "digitalenvoy:metro_code":578357,
         "eg:gisco_id":"NO_5035",
         "eurostat:nuts_2021_id":"5035",
-        "no-geonorge:kommunenum":5035
+        "no-geonorge:kommunenum":5035,
+        "no-geonorge:number":"5035"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595736,
     "wof:geomhash":"9e77328d254bbd26af2c56187fafdefb",
@@ -84,7 +95,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354068,
+    "wof:lastmodified":1695878840,
     "wof:name":"Stj\u00f8rdal",
     "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",

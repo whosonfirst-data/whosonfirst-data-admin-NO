@@ -22,6 +22,15 @@
     "geom:latitude":59.059645,
     "geom:longitude":5.417883,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":59.064663,
     "lbl:longitude":5.407269,
     "lbl:max_zoom":18.0,
@@ -60,8 +69,10 @@
     "wof:concordances":{
         "eg:gisco_id":"NO_1144",
         "eurostat:nuts_2021_id":"1144",
-        "no-geonorge:kommunenum":1144
+        "no-geonorge:kommunenum":1144,
+        "no-geonorge:number":"1144"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596130,
     "wof:geomhash":"6f354597a210cefc505f8891edd8224b",
@@ -83,7 +94,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354124,
+    "wof:lastmodified":1695878900,
     "wof:name":"Kvits\u00f8y",
     "wof:parent_id":85687085,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":62.354809,
     "geom:longitude":5.984693,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":62.350713,
     "lbl:longitude":5.984754,
     "lbl:max_zoom":18.0,
@@ -151,13 +160,15 @@
         "digitalenvoy:metro_code":578313,
         "eg:gisco_id":"NO_1517",
         "eurostat:nuts_2021_id":"1517",
-        "no-geonorge:kommunenum":1517
+        "no-geonorge:kommunenum":1517,
+        "no-geonorge:number":"1517"
     },
     "wof:concordances_alt":{
         "digitalenvoy:metro_code":[
             578131
         ]
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595845,
     "wof:geomhash":"5bda54bac0a124452b6e6927a6547d2f",
@@ -179,7 +190,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354086,
+    "wof:lastmodified":1695878858,
     "wof:name":"Hareid",
     "wof:parent_id":85687123,
     "wof:placetype":"localadmin",

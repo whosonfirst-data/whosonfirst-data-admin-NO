@@ -22,6 +22,15 @@
     "geom:latitude":61.282998,
     "geom:longitude":5.41584,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":61.289777,
     "lbl:longitude":5.453478,
     "lbl:max_zoom":18.0,
@@ -145,8 +154,10 @@
         "digitalenvoy:metro_code":578081,
         "eg:gisco_id":"NO_4646",
         "eurostat:nuts_2021_id":"4646",
-        "no-geonorge:kommunenum":4646
+        "no-geonorge:kommunenum":4646,
+        "no-geonorge:number":"4646"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595857,
     "wof:geomhash":"c9f02d90f4a3641957891f9f761ebf74",
@@ -168,7 +179,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354088,
+    "wof:lastmodified":1695878861,
     "wof:name":"Fjaler",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",
