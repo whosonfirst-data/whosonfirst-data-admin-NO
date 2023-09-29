@@ -22,6 +22,15 @@
     "geom:latitude":59.479751,
     "geom:longitude":11.152512,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":59.483455,
     "lbl:longitude":11.158769,
     "lbl:max_zoom":18.0,
@@ -154,8 +163,10 @@
         "digitalenvoy:metro_code":578329,
         "eg:gisco_id":"NO_3015",
         "eurostat:nuts_2021_id":"3015",
-        "no-geonorge:kommunenum":3015
+        "no-geonorge:kommunenum":3015,
+        "no-geonorge:number":"3015"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595889,
     "wof:geomhash":"29c464187b65bce81382163a8876b3e5",
@@ -177,7 +188,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354093,
+    "wof:lastmodified":1695878866,
     "wof:name":"Skiptvet",
     "wof:parent_id":1527947269,
     "wof:placetype":"localadmin",

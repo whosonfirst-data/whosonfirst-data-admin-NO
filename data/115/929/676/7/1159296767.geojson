@@ -22,6 +22,15 @@
     "geom:latitude":63.679432,
     "geom:longitude":10.280007,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":63.70998,
     "lbl:longitude":10.315501,
     "lbl:max_zoom":18.0,
@@ -85,13 +94,15 @@
         "digitalenvoy:metro_code":578192,
         "eg:gisco_id":"NO_5054",
         "eurostat:nuts_2021_id":"5054",
-        "no-geonorge:kommunenum":5054
+        "no-geonorge:kommunenum":5054,
+        "no-geonorge:number":"5054"
     },
     "wof:concordances_alt":{
         "digitalenvoy:metro_code":[
             578296
         ]
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595755,
     "wof:geomhash":"9bafc4ba8de2f00e55e31d8a811b25c9",
@@ -113,7 +124,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354071,
+    "wof:lastmodified":1695878843,
     "wof:name":"Indre Fosen",
     "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":65.50544,
     "geom:longitude":14.137567,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":65.498409,
     "lbl:longitude":14.17806,
     "lbl:max_zoom":18.0,
@@ -151,8 +160,10 @@
         "digitalenvoy:metro_code":578134,
         "eg:gisco_id":"NO_1826",
         "eurostat:nuts_2021_id":"1826",
-        "no-geonorge:kommunenum":1826
+        "no-geonorge:kommunenum":1826,
+        "no-geonorge:number":"1826"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596036,
     "wof:geomhash":"a91cbaa656b6e6faf1739aa1c6b32fc9",
@@ -174,7 +185,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354110,
+    "wof:lastmodified":1695878885,
     "wof:name":"Hattfjelldal",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

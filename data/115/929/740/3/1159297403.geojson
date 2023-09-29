@@ -22,6 +22,15 @@
     "geom:latitude":70.794092,
     "geom:longitude":27.898723,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":70.935636,
     "lbl:longitude":27.948236,
     "lbl:max_zoom":18.0,
@@ -169,8 +178,10 @@
         "digitalenvoy:metro_code":578102,
         "eg:gisco_id":"NO_5439",
         "eurostat:nuts_2021_id":"5439",
-        "no-geonorge:kommunenum":5439
+        "no-geonorge:kommunenum":5439,
+        "no-geonorge:number":"5439"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596035,
     "wof:geomhash":"a28c83afb4e06e0a024a816452410d34",
@@ -192,7 +203,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354109,
+    "wof:lastmodified":1695878884,
     "wof:name":"Gamvik",
     "wof:parent_id":1527947259,
     "wof:placetype":"localadmin",

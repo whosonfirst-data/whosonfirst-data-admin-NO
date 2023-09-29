@@ -24,6 +24,15 @@
     "geom:latitude":59.741257,
     "geom:longitude":10.879524,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":59.751284,
     "lbl:longitude":10.88154,
     "mps:latitude":59.751284,
@@ -53,13 +62,15 @@
         "digitalenvoy:metro_code":578262,
         "eg:gisco_id":"NO_3020",
         "eurostat:nuts_2021_id":"3020",
-        "no-geonorge:kommunenum":3020
+        "no-geonorge:kommunenum":3020,
+        "no-geonorge:number":"3020"
     },
     "wof:concordances_alt":{
         "digitalenvoy:metro_code":[
             578327
         ]
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:geomhash":"1531305d403fbf00e1f385c044c92757",
     "wof:hierarchy":[
@@ -80,7 +91,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354125,
+    "wof:lastmodified":1695878902,
     "wof:name":"Nordre Follo",
     "wof:parent_id":1527947269,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":60.887706,
     "geom:longitude":10.470375,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":60.872737,
     "lbl:longitude":10.514023,
     "lbl:max_zoom":18.0,
@@ -61,8 +70,10 @@
         "digitalenvoy:metro_code":578111,
         "eg:gisco_id":"NO_3407",
         "eurostat:nuts_2021_id":"3407",
-        "no-geonorge:kommunenum":3407
+        "no-geonorge:kommunenum":3407,
+        "no-geonorge:number":"3407"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596006,
     "wof:geomhash":"56c5a07f92b085f3de5ac138c8e1a973",
@@ -84,7 +95,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354108,
+    "wof:lastmodified":1695878882,
     "wof:name":"Gj\u00f8vik",
     "wof:parent_id":1527947263,
     "wof:placetype":"localadmin",

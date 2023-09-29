@@ -22,6 +22,15 @@
     "geom:latitude":60.41591,
     "geom:longitude":9.502541,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":60.414871,
     "lbl:longitude":9.502318,
     "lbl:max_zoom":18.0,
@@ -61,8 +70,10 @@
         "digitalenvoy:metro_code":578083,
         "eg:gisco_id":"NO_3039",
         "eurostat:nuts_2021_id":"3039",
-        "no-geonorge:kommunenum":3039
+        "no-geonorge:kommunenum":3039,
+        "no-geonorge:number":"3039"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596113,
     "wof:geomhash":"1b06e4ddbb4795e29a282e74f247a05d",
@@ -84,7 +95,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354122,
+    "wof:lastmodified":1695878898,
     "wof:name":"Fl\u00e5",
     "wof:parent_id":1527947269,
     "wof:placetype":"localadmin",

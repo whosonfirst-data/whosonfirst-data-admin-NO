@@ -398,15 +398,21 @@
         "gn:id":3145495,
         "gp:id":2346391,
         "hasc:id":"NO.MR",
+        "iso:code":"NO-15",
         "iso:id":"NO-15",
+        "no-geonorge:number":"15",
         "unlc:id":"NO-15",
         "wd:id":"Q50627"
     },
+    "wof:concordances_official":"no-geonorge:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"NO",
     "wof:geom_alt":[
         "quattroshapes-reversegeo"
     ],
-    "wof:geomhash":"fb2ba9f6c1862a61fdd95792045adaf2",
+    "wof:geomhash":"baf022ac5733a995a3f800be99488218",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -426,7 +432,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1690849347,
+    "wof:lastmodified":1695885230,
     "wof:name":"M\u00f8re og Romsdal",
     "wof:parent_id":85633341,
     "wof:placetype":"region",

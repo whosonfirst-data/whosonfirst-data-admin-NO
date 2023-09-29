@@ -22,6 +22,15 @@
     "geom:latitude":61.040694,
     "geom:longitude":7.744467,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":61.037726,
     "lbl:longitude":7.962219,
     "lbl:max_zoom":18.0,
@@ -73,8 +82,10 @@
         "digitalenvoy:metro_code":578184,
         "eg:gisco_id":"NO_4642",
         "eurostat:nuts_2021_id":"4642",
-        "no-geonorge:kommunenum":4642
+        "no-geonorge:kommunenum":4642,
+        "no-geonorge:number":"4642"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595900,
     "wof:geomhash":"175841ce83023bbbd649ce90ee1c4101",
@@ -96,7 +107,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354094,
+    "wof:lastmodified":1695878867,
     "wof:name":"L\u00e6rdal",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",

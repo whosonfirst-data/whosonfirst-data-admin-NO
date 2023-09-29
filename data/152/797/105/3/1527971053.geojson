@@ -24,6 +24,15 @@
     "geom:latitude":59.437634,
     "geom:longitude":7.203753,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":59.480878,
     "lbl:longitude":7.211521,
     "mps:latitude":59.480878,
@@ -53,8 +62,10 @@
         "digitalenvoy:metro_code":578054,
         "eg:gisco_id":"NO_4222",
         "eurostat:nuts_2021_id":"4222",
-        "no-geonorge:kommunenum":4222
+        "no-geonorge:kommunenum":4222,
+        "no-geonorge:number":"4222"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:geomhash":"4ef18233b9ae823e4f02beb65a445506",
     "wof:hierarchy":[
@@ -75,7 +86,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354128,
+    "wof:lastmodified":1695878905,
     "wof:name":"Bykle",
     "wof:parent_id":1527947265,
     "wof:placetype":"localadmin",

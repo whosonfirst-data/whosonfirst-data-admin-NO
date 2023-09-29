@@ -24,6 +24,15 @@
     "geom:latitude":59.653058,
     "geom:longitude":9.151935,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":59.657278,
     "lbl:longitude":9.188217,
     "mps:latitude":59.657278,
@@ -53,8 +62,10 @@
         "digitalenvoy:metro_code":578257,
         "eg:gisco_id":"NO_3808",
         "eurostat:nuts_2021_id":"3808",
-        "no-geonorge:kommunenum":3808
+        "no-geonorge:kommunenum":3808,
+        "no-geonorge:number":"3808"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:geomhash":"6aff8cfe19b25db37631c8f1c02933b7",
     "wof:hierarchy":[
@@ -75,7 +86,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354131,
+    "wof:lastmodified":1695878908,
     "wof:name":"Notodden",
     "wof:parent_id":1527947267,
     "wof:placetype":"localadmin",

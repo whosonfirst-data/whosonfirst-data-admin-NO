@@ -22,6 +22,15 @@
     "geom:latitude":62.349663,
     "geom:longitude":6.657127,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":62.350966,
     "lbl:longitude":6.680438,
     "lbl:max_zoom":18.0,
@@ -151,8 +160,10 @@
         "digitalenvoy:metro_code":578373,
         "eg:gisco_id":"NO_1528",
         "eurostat:nuts_2021_id":"1528",
-        "no-geonorge:kommunenum":1528
+        "no-geonorge:kommunenum":1528,
+        "no-geonorge:number":"1528"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595749,
     "wof:geomhash":"da09b108e1834796102a571efbb068ff",
@@ -174,7 +185,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354070,
+    "wof:lastmodified":1695878841,
     "wof:name":"Sykkylven",
     "wof:parent_id":85687123,
     "wof:placetype":"localadmin",

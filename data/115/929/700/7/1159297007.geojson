@@ -22,6 +22,15 @@
     "geom:latitude":65.908632,
     "geom:longitude":12.499793,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":65.953551,
     "lbl:longitude":12.553362,
     "lbl:max_zoom":18.0,
@@ -163,8 +172,10 @@
         "digitalenvoy:metro_code":578005,
         "eg:gisco_id":"NO_1820",
         "eurostat:nuts_2021_id":"1820",
-        "no-geonorge:kommunenum":1820
+        "no-geonorge:kommunenum":1820,
+        "no-geonorge:number":"1820"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595844,
     "wof:geomhash":"331961df8ca7bf6331ade1f6bff3320e",
@@ -186,7 +197,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354085,
+    "wof:lastmodified":1695878858,
     "wof:name":"Alstahaug",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

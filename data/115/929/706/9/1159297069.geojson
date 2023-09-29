@@ -22,6 +22,15 @@
     "geom:latitude":60.198018,
     "geom:longitude":9.66757,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":60.211402,
     "lbl:longitude":9.65046,
     "lbl:max_zoom":18.0,
@@ -61,8 +70,10 @@
         "digitalenvoy:metro_code":578175,
         "eg:gisco_id":"NO_3046",
         "eurostat:nuts_2021_id":"3046",
-        "no-geonorge:kommunenum":3046
+        "no-geonorge:kommunenum":3046,
+        "no-geonorge:number":"3046"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595861,
     "wof:geomhash":"cfad8b99f1134f10bc4076966ae754e1",
@@ -84,7 +95,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354089,
+    "wof:lastmodified":1695878861,
     "wof:name":"Kr\u00f8dsherad",
     "wof:parent_id":1527947269,
     "wof:placetype":"localadmin",

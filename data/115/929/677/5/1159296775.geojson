@@ -22,6 +22,15 @@
     "geom:latitude":68.911603,
     "geom:longitude":19.379195,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":68.814219,
     "lbl:longitude":19.665613,
     "lbl:max_zoom":18.0,
@@ -61,8 +70,10 @@
         "digitalenvoy:metro_code":578213,
         "eg:gisco_id":"NO_5418",
         "eurostat:nuts_2021_id":"5418",
-        "no-geonorge:kommunenum":5418
+        "no-geonorge:kommunenum":5418,
+        "no-geonorge:number":"5418"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595756,
     "wof:geomhash":"6f0b2b48f0933644ac4f9acb77bac183",
@@ -84,7 +95,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354072,
+    "wof:lastmodified":1695878843,
     "wof:name":"M\u00e5lselv",
     "wof:parent_id":1527947259,
     "wof:placetype":"localadmin",

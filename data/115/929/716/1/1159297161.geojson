@@ -22,6 +22,15 @@
     "geom:latitude":60.280266,
     "geom:longitude":10.392241,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":60.264459,
     "lbl:longitude":10.408087,
     "lbl:max_zoom":18.0,
@@ -163,8 +172,10 @@
         "digitalenvoy:metro_code":578161,
         "eg:gisco_id":"NO_3053",
         "eurostat:nuts_2021_id":"3053",
-        "no-geonorge:kommunenum":3053
+        "no-geonorge:kommunenum":3053,
+        "no-geonorge:number":"3053"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595897,
     "wof:geomhash":"d463a3173c4a4640259a34087cd7b3db",
@@ -186,7 +197,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354094,
+    "wof:lastmodified":1695878867,
     "wof:name":"Jevnaker",
     "wof:parent_id":1527947269,
     "wof:placetype":"localadmin",

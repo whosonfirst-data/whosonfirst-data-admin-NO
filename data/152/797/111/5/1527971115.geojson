@@ -24,6 +24,15 @@
     "geom:latitude":59.036008,
     "geom:longitude":6.064148,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":59.064091,
     "lbl:longitude":6.057722,
     "mps:latitude":59.064091,
@@ -53,8 +62,10 @@
         "digitalenvoy:metro_code":578363,
         "eg:gisco_id":"NO_1130",
         "eurostat:nuts_2021_id":"1130",
-        "no-geonorge:kommunenum":1130
+        "no-geonorge:kommunenum":1130,
+        "no-geonorge:number":"1130"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:geomhash":"44d2b8ebe0be146eb90f379dd8840a39",
     "wof:hierarchy":[
@@ -75,7 +86,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354135,
+    "wof:lastmodified":1695878913,
     "wof:name":"Strand",
     "wof:parent_id":85687085,
     "wof:placetype":"localadmin",

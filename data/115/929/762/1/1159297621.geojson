@@ -22,6 +22,15 @@
     "geom:latitude":60.150689,
     "geom:longitude":11.196446,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":60.152468,
     "lbl:longitude":11.19368,
     "lbl:max_zoom":18.0,
@@ -166,8 +175,10 @@
         "digitalenvoy:metro_code":578396,
         "eg:gisco_id":"NO_3033",
         "eurostat:nuts_2021_id":"3033",
-        "no-geonorge:kommunenum":3033
+        "no-geonorge:kommunenum":3033,
+        "no-geonorge:number":"3033"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596122,
     "wof:geomhash":"d35e8a52d2583a945eaa6f0cf13a199c",
@@ -189,7 +200,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354123,
+    "wof:lastmodified":1695878899,
     "wof:name":"Ullensaker",
     "wof:parent_id":1527947269,
     "wof:placetype":"localadmin",

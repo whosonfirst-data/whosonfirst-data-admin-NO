@@ -22,6 +22,15 @@
     "geom:latitude":61.589861,
     "geom:longitude":10.781138,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":61.557116,
     "lbl:longitude":10.900742,
     "lbl:max_zoom":18.0,
@@ -148,8 +157,10 @@
         "digitalenvoy:metro_code":578361,
         "eg:gisco_id":"NO_3423",
         "eurostat:nuts_2021_id":"3423",
-        "no-geonorge:kommunenum":3423
+        "no-geonorge:kommunenum":3423,
+        "no-geonorge:number":"3423"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595937,
     "wof:geomhash":"3e2ad70b50302f35a3e46f5ec723afee",
@@ -171,7 +182,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354100,
+    "wof:lastmodified":1695878873,
     "wof:name":"Stor-Elvdal",
     "wof:parent_id":1527947263,
     "wof:placetype":"localadmin",

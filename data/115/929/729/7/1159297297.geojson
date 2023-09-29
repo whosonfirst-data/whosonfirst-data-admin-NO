@@ -22,6 +22,15 @@
     "geom:latitude":62.35708,
     "geom:longitude":11.080468,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":62.310538,
     "lbl:longitude":11.140548,
     "lbl:max_zoom":18.0,
@@ -91,8 +100,10 @@
         "digitalenvoy:metro_code":578381,
         "eg:gisco_id":"NO_3426",
         "eurostat:nuts_2021_id":"3426",
-        "no-geonorge:kommunenum":3426
+        "no-geonorge:kommunenum":3426,
+        "no-geonorge:number":"3426"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595978,
     "wof:geomhash":"b897da79c091af60fea83ccd27c82341",
@@ -114,7 +125,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354103,
+    "wof:lastmodified":1695878877,
     "wof:name":"Tolga",
     "wof:parent_id":1527947263,
     "wof:placetype":"localadmin",

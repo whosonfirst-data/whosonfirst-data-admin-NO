@@ -22,6 +22,15 @@
     "geom:latitude":59.882332,
     "geom:longitude":11.077244,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":59.878796,
     "lbl:longitude":11.069252,
     "lbl:max_zoom":18.0,
@@ -61,8 +70,10 @@
         "digitalenvoy:metro_code":578282,
         "eg:gisco_id":"NO_3027",
         "eurostat:nuts_2021_id":"3027",
-        "no-geonorge:kommunenum":3027
+        "no-geonorge:kommunenum":3027,
+        "no-geonorge:number":"3027"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595914,
     "wof:geomhash":"b980aed7eb621faef2cf42c3eed058d3",
@@ -84,7 +95,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354096,
+    "wof:lastmodified":1695878869,
     "wof:name":"R\u00e6lingen",
     "wof:parent_id":1527947269,
     "wof:placetype":"localadmin",

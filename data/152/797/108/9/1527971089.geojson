@@ -24,6 +24,15 @@
     "geom:latitude":69.315532,
     "geom:longitude":17.61541,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":69.307756,
     "lbl:longitude":17.642794,
     "mps:latitude":69.307756,
@@ -53,7 +62,8 @@
         "digitalenvoy:metro_code":578385,
         "eg:gisco_id":"NO_5421",
         "eurostat:nuts_2021_id":"5421",
-        "no-geonorge:kommunenum":5421
+        "no-geonorge:kommunenum":5421,
+        "no-geonorge:number":"5421"
     },
     "wof:concordances_alt":{
         "digitalenvoy:metro_code":[
@@ -62,6 +72,7 @@
             578038
         ]
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:geomhash":"24fee42055e82f03a4864699dfc791bc",
     "wof:hierarchy":[
@@ -82,7 +93,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354132,
+    "wof:lastmodified":1695878909,
     "wof:name":"Senja",
     "wof:parent_id":1527947259,
     "wof:placetype":"localadmin",

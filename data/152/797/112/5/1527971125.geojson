@@ -24,6 +24,15 @@
     "geom:latitude":63.541067,
     "geom:longitude":8.786927,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":63.561126,
     "lbl:longitude":8.815243,
     "mps:latitude":63.561126,
@@ -53,8 +62,10 @@
         "digitalenvoy:metro_code":578141,
         "eg:gisco_id":"NO_5056",
         "eurostat:nuts_2021_id":"5056",
-        "no-geonorge:kommunenum":5056
+        "no-geonorge:kommunenum":5056,
+        "no-geonorge:number":"5056"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:geomhash":"20787f85389a932e3a6a7407f04377bf",
     "wof:hierarchy":[
@@ -75,7 +86,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354137,
+    "wof:lastmodified":1695878915,
     "wof:name":"Hitra",
     "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",

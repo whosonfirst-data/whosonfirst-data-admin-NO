@@ -22,6 +22,15 @@
     "geom:latitude":63.158948,
     "geom:longitude":10.271188,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":63.161296,
     "lbl:longitude":10.236343,
     "lbl:max_zoom":18.0,
@@ -154,8 +163,10 @@
         "digitalenvoy:metro_code":578222,
         "eg:gisco_id":"NO_5028",
         "eurostat:nuts_2021_id":"5028",
-        "no-geonorge:kommunenum":5028
+        "no-geonorge:kommunenum":5028,
+        "no-geonorge:number":"5028"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596070,
     "wof:geomhash":"83471b5c158bc32462a6e0b875dd18bf",
@@ -177,7 +188,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354116,
+    "wof:lastmodified":1695878892,
     "wof:name":"Melhus",
     "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",

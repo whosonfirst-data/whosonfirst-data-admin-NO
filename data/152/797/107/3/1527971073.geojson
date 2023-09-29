@@ -24,6 +24,15 @@
     "geom:latitude":59.364548,
     "geom:longitude":10.290235,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":59.384445,
     "lbl:longitude":10.272586,
     "mps:latitude":59.384445,
@@ -53,13 +62,15 @@
         "digitalenvoy:metro_code":578382,
         "eg:gisco_id":"NO_3803",
         "eurostat:nuts_2021_id":"3803",
-        "no-geonorge:kommunenum":3803
+        "no-geonorge:kommunenum":3803,
+        "no-geonorge:number":"3803"
     },
     "wof:concordances_alt":{
         "digitalenvoy:metro_code":[
             578287
         ]
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:geomhash":"1368e9fc8df83be8d22ee82b6cda4881",
     "wof:hierarchy":[
@@ -80,7 +91,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354130,
+    "wof:lastmodified":1695878907,
     "wof:name":"T\u00f8nsberg",
     "wof:parent_id":1527947267,
     "wof:placetype":"localadmin",

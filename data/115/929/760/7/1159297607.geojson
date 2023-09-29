@@ -22,6 +22,15 @@
     "geom:latitude":58.490862,
     "geom:longitude":8.764108,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":58.532056,
     "lbl:longitude":8.798999,
     "lbl:max_zoom":18.0,
@@ -232,8 +241,10 @@
         "digitalenvoy:metro_code":578014,
         "eg:gisco_id":"NO_4203",
         "eurostat:nuts_2021_id":"4203",
-        "no-geonorge:kommunenum":4203
+        "no-geonorge:kommunenum":4203,
+        "no-geonorge:number":"4203"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596118,
     "wof:geomhash":"e15b53b9969801a0511a05c8080a7319",
@@ -255,7 +266,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354122,
+    "wof:lastmodified":1695878898,
     "wof:name":"Arendal",
     "wof:parent_id":1527947265,
     "wof:placetype":"localadmin",

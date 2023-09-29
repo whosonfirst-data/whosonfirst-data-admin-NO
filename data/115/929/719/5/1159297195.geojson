@@ -22,6 +22,15 @@
     "geom:latitude":61.802608,
     "geom:longitude":5.347993,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":61.82454,
     "lbl:longitude":5.472393,
     "lbl:max_zoom":18.0,
@@ -148,8 +157,10 @@
         "digitalenvoy:metro_code":578051,
         "eg:gisco_id":"NO_4648",
         "eurostat:nuts_2021_id":"4648",
-        "no-geonorge:kommunenum":4648
+        "no-geonorge:kommunenum":4648,
+        "no-geonorge:number":"4648"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595921,
     "wof:geomhash":"9ef047f06dfa8715e5477e1a351f84fe",
@@ -171,7 +182,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354097,
+    "wof:lastmodified":1695878870,
     "wof:name":"Bremanger",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",

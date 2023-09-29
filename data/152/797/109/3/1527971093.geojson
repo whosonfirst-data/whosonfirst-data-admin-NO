@@ -24,6 +24,15 @@
     "geom:latitude":62.638252,
     "geom:longitude":7.901644,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":62.678197,
     "lbl:longitude":7.977979,
     "mps:latitude":62.678197,
@@ -59,7 +68,8 @@
         "digitalenvoy:metro_code":578229,
         "eg:gisco_id":"NO_1506",
         "eurostat:nuts_2021_id":"1506",
-        "no-geonorge:kommunenum":1506
+        "no-geonorge:kommunenum":1506,
+        "no-geonorge:number":"1506"
     },
     "wof:concordances_alt":{
         "digitalenvoy:metro_code":[
@@ -67,6 +77,7 @@
             578225
         ]
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:geomhash":"25a09a771f906fa1835ad370105051b8",
     "wof:hierarchy":[
@@ -87,7 +98,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354132,
+    "wof:lastmodified":1695878910,
     "wof:name":"Molde",
     "wof:parent_id":85687123,
     "wof:placetype":"localadmin",

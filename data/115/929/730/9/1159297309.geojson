@@ -22,6 +22,15 @@
     "geom:latitude":64.368711,
     "geom:longitude":13.627144,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":64.352416,
     "lbl:longitude":13.508016,
     "lbl:max_zoom":18.0,
@@ -151,8 +160,10 @@
         "digitalenvoy:metro_code":578197,
         "eg:gisco_id":"NO_5042",
         "eurostat:nuts_2021_id":"5042",
-        "no-geonorge:kommunenum":5042
+        "no-geonorge:kommunenum":5042,
+        "no-geonorge:number":"5042"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595986,
     "wof:geomhash":"787ff3fb4827abd9405ec5226e884668",
@@ -174,7 +185,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354104,
+    "wof:lastmodified":1695878878,
     "wof:name":"Lierne",
     "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",

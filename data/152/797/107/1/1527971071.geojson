@@ -24,6 +24,15 @@
     "geom:latitude":59.461987,
     "geom:longitude":7.911361,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":59.469017,
     "lbl:longitude":7.779869,
     "mps:latitude":59.469017,
@@ -53,8 +62,10 @@
         "digitalenvoy:metro_code":578380,
         "eg:gisco_id":"NO_3824",
         "eurostat:nuts_2021_id":"3824",
-        "no-geonorge:kommunenum":3824
+        "no-geonorge:kommunenum":3824,
+        "no-geonorge:number":"3824"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:geomhash":"3e2d6125ca45fdd5cce41807295d8c2f",
     "wof:hierarchy":[
@@ -75,7 +86,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354130,
+    "wof:lastmodified":1695878907,
     "wof:name":"Tokke",
     "wof:parent_id":1527947267,
     "wof:placetype":"localadmin",

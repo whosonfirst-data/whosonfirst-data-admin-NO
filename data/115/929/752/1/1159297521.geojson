@@ -22,6 +22,15 @@
     "geom:latitude":63.752852,
     "geom:longitude":8.683354,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":63.725202,
     "lbl:longitude":8.713931,
     "lbl:max_zoom":18.0,
@@ -61,8 +70,10 @@
         "digitalenvoy:metro_code":578098,
         "eg:gisco_id":"NO_5014",
         "eurostat:nuts_2021_id":"5014",
-        "no-geonorge:kommunenum":5014
+        "no-geonorge:kommunenum":5014,
+        "no-geonorge:number":"5014"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596077,
     "wof:geomhash":"5c8e9bae2c7901fa34dc2506b876e93a",
@@ -84,7 +95,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354117,
+    "wof:lastmodified":1695878893,
     "wof:name":"Fr\u00f8ya",
     "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",

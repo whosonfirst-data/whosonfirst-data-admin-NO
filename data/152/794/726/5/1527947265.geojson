@@ -68,8 +68,14 @@
         101751911
     ],
     "wof:concordances":{
-        "eurostat:nuts_2021_id":"NO092"
+        "eurostat:nuts_2021_id":"NO092",
+        "iso:code":"NO-42",
+        "no-geonorge:number":"42"
     },
+    "wof:concordances_official":"no-geonorge:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"NO",
     "wof:geomhash":"0d994bc6b160205fe6e67e2a36ffc2e2",
     "wof:hierarchy":[
@@ -91,7 +97,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1694493288,
+    "wof:lastmodified":1695885256,
     "wof:name":"Agder",
     "wof:parent_id":85633341,
     "wof:placetype":"region",

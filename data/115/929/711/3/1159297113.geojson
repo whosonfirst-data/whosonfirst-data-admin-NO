@@ -22,6 +22,15 @@
     "geom:latitude":59.37916,
     "geom:longitude":5.588624,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":59.368729,
     "lbl:longitude":5.536161,
     "lbl:max_zoom":18.0,
@@ -61,8 +70,10 @@
         "digitalenvoy:metro_code":578395,
         "eg:gisco_id":"NO_1146",
         "eurostat:nuts_2021_id":"1146",
-        "no-geonorge:kommunenum":1146
+        "no-geonorge:kommunenum":1146,
+        "no-geonorge:number":"1146"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595874,
     "wof:geomhash":"78146e4f851e8f8ec9770e2e371e2b55",
@@ -84,7 +95,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354091,
+    "wof:lastmodified":1695878864,
     "wof:name":"Tysv\u00e6r",
     "wof:parent_id":85687085,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":59.000447,
     "geom:longitude":5.611628,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":59.000647,
     "lbl:longitude":5.620098,
     "lbl:max_zoom":18.0,
@@ -151,8 +160,10 @@
         "digitalenvoy:metro_code":578285,
         "eg:gisco_id":"NO_1127",
         "eurostat:nuts_2021_id":"1127",
-        "no-geonorge:kommunenum":1127
+        "no-geonorge:kommunenum":1127,
+        "no-geonorge:number":"1127"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596005,
     "wof:geomhash":"2278d9cb6fa0279923d2d2a1d68da0f5",
@@ -174,7 +185,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354107,
+    "wof:lastmodified":1695878882,
     "wof:name":"Randaberg",
     "wof:parent_id":85687085,
     "wof:placetype":"localadmin",

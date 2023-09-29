@@ -22,6 +22,15 @@
     "geom:latitude":59.98486,
     "geom:longitude":9.961905,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":59.973153,
     "lbl:longitude":9.957559,
     "lbl:max_zoom":18.0,
@@ -166,8 +175,10 @@
         "digitalenvoy:metro_code":578228,
         "eg:gisco_id":"NO_3047",
         "eurostat:nuts_2021_id":"3047",
-        "no-geonorge:kommunenum":3047
+        "no-geonorge:kommunenum":3047,
+        "no-geonorge:number":"3047"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595998,
     "wof:geomhash":"4829fbe0a4ba2eeef335e80d5f9c1097",
@@ -189,7 +200,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354105,
+    "wof:lastmodified":1695878878,
     "wof:name":"Modum",
     "wof:parent_id":1527947269,
     "wof:placetype":"localadmin",

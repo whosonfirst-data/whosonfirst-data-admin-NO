@@ -22,6 +22,15 @@
     "geom:latitude":60.946053,
     "geom:longitude":9.969038,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":60.930181,
     "lbl:longitude":9.973692,
     "lbl:max_zoom":18.0,
@@ -154,8 +163,10 @@
         "digitalenvoy:metro_code":578254,
         "eg:gisco_id":"NO_3448",
         "eurostat:nuts_2021_id":"3448",
-        "no-geonorge:kommunenum":3448
+        "no-geonorge:kommunenum":3448,
+        "no-geonorge:number":"3448"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595987,
     "wof:geomhash":"a2bfade72c9956a1efdd34dcb69ca8a7",
@@ -177,7 +188,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354104,
+    "wof:lastmodified":1695878878,
     "wof:name":"Nordre Land",
     "wof:parent_id":1527947263,
     "wof:placetype":"localadmin",

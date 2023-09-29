@@ -22,6 +22,15 @@
     "geom:latitude":64.743731,
     "geom:longitude":12.357106,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":64.733908,
     "lbl:longitude":12.351914,
     "lbl:max_zoom":18.0,
@@ -61,8 +70,10 @@
         "digitalenvoy:metro_code":578153,
         "eg:gisco_id":"NO_5046",
         "eurostat:nuts_2021_id":"5046",
-        "no-geonorge:kommunenum":5046
+        "no-geonorge:kommunenum":5046,
+        "no-geonorge:number":"5046"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595914,
     "wof:geomhash":"90c0d2b21056a5dfb04aa801cdf4a042",
@@ -84,7 +95,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354096,
+    "wof:lastmodified":1695878869,
     "wof:name":"H\u00f8ylandet",
     "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",

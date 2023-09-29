@@ -68,8 +68,14 @@
         1125829217
     ],
     "wof:concordances":{
-        "eurostat:nuts_2021_id":"NO091"
+        "eurostat:nuts_2021_id":"NO091",
+        "iso:code":"NO-38",
+        "no-geonorge:number":"38"
     },
+    "wof:concordances_official":"no-geonorge:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"NO",
     "wof:geomhash":"df43efa3d60176bcfebbb6330942c149",
     "wof:hierarchy":[
@@ -91,7 +97,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1694493290,
+    "wof:lastmodified":1695885258,
     "wof:name":"Vestfold og Telemark",
     "wof:parent_id":85633341,
     "wof:placetype":"region",

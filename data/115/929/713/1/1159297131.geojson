@@ -22,6 +22,15 @@
     "geom:latitude":62.133949,
     "geom:longitude":6.981639,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":62.212924,
     "lbl:longitude":6.877566,
     "lbl:max_zoom":18.0,
@@ -151,8 +160,10 @@
         "digitalenvoy:metro_code":578364,
         "eg:gisco_id":"NO_1525",
         "eurostat:nuts_2021_id":"1525",
-        "no-geonorge:kommunenum":1525
+        "no-geonorge:kommunenum":1525,
+        "no-geonorge:number":"1525"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595876,
     "wof:geomhash":"7c939caadc02c6f1c980c4e5de51fac8",
@@ -174,7 +185,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354093,
+    "wof:lastmodified":1695878866,
     "wof:name":"Stranda",
     "wof:parent_id":85687123,
     "wof:placetype":"localadmin",

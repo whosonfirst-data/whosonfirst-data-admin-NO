@@ -22,6 +22,15 @@
     "geom:latitude":68.064513,
     "geom:longitude":13.236459,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":68.043571,
     "lbl:longitude":13.295628,
     "lbl:max_zoom":18.0,
@@ -148,8 +157,10 @@
         "digitalenvoy:metro_code":578084,
         "eg:gisco_id":"NO_1859",
         "eurostat:nuts_2021_id":"1859",
-        "no-geonorge:kommunenum":1859
+        "no-geonorge:kommunenum":1859,
+        "no-geonorge:number":"1859"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596120,
     "wof:geomhash":"2d1683e7e0c50bb9814a69505743fd5b",
@@ -171,7 +182,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354123,
+    "wof:lastmodified":1695878899,
     "wof:name":"Flakstad",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

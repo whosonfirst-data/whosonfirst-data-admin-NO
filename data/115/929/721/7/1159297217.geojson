@@ -22,6 +22,15 @@
     "geom:latitude":60.711979,
     "geom:longitude":8.386705,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":60.650728,
     "lbl:longitude":8.556698,
     "lbl:max_zoom":18.0,
@@ -61,8 +70,10 @@
         "digitalenvoy:metro_code":578003,
         "eg:gisco_id":"NO_3043",
         "eurostat:nuts_2021_id":"3043",
-        "no-geonorge:kommunenum":3043
+        "no-geonorge:kommunenum":3043,
+        "no-geonorge:number":"3043"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595931,
     "wof:geomhash":"ae4b203fa8c412712eae22fa5d91f48d",
@@ -84,7 +95,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354098,
+    "wof:lastmodified":1695878872,
     "wof:name":"\u00c5l",
     "wof:parent_id":1527947269,
     "wof:placetype":"localadmin",

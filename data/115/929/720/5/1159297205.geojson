@@ -22,6 +22,15 @@
     "geom:latitude":58.47259,
     "geom:longitude":7.19995,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":58.469251,
     "lbl:longitude":7.215255,
     "lbl:max_zoom":18.0,
@@ -61,8 +70,10 @@
         "digitalenvoy:metro_code":578124,
         "eg:gisco_id":"NO_4226",
         "eurostat:nuts_2021_id":"4226",
-        "no-geonorge:kommunenum":4226
+        "no-geonorge:kommunenum":4226,
+        "no-geonorge:number":"4226"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595923,
     "wof:geomhash":"32d58a6b51a5f93c727a47caf1a65f5b",
@@ -84,7 +95,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354098,
+    "wof:lastmodified":1695878871,
     "wof:name":"H\u00e6gebostad",
     "wof:parent_id":1527947265,
     "wof:placetype":"localadmin",

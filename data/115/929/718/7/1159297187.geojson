@@ -22,6 +22,15 @@
     "geom:latitude":69.638666,
     "geom:longitude":19.079199,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":69.59113,
     "lbl:longitude":19.461472,
     "lbl:max_zoom":18.0,
@@ -61,8 +70,10 @@
         "digitalenvoy:metro_code":578387,
         "eg:gisco_id":"NO_5401",
         "eurostat:nuts_2021_id":"5401",
-        "no-geonorge:kommunenum":5401
+        "no-geonorge:kommunenum":5401,
+        "no-geonorge:number":"5401"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595915,
     "wof:geomhash":"aa46f4e7e661a4102952019ff7ace1fc",
@@ -84,7 +95,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354096,
+    "wof:lastmodified":1695878869,
     "wof:name":"Troms\u00f8",
     "wof:parent_id":1527947259,
     "wof:placetype":"localadmin",

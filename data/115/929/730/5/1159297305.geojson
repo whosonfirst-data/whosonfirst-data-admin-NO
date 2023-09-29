@@ -22,6 +22,15 @@
     "geom:latitude":58.699774,
     "geom:longitude":7.399909,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":58.696492,
     "lbl:longitude":7.394895,
     "lbl:max_zoom":18.0,
@@ -61,8 +70,10 @@
         "digitalenvoy:metro_code":578016,
         "eg:gisco_id":"NO_4224",
         "eurostat:nuts_2021_id":"4224",
-        "no-geonorge:kommunenum":4224
+        "no-geonorge:kommunenum":4224,
+        "no-geonorge:number":"4224"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595980,
     "wof:geomhash":"e2c08fe2bfbe906382f55e39207a046c",
@@ -84,7 +95,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354104,
+    "wof:lastmodified":1695878877,
     "wof:name":"\u00c5seral",
     "wof:parent_id":1527947265,
     "wof:placetype":"localadmin",

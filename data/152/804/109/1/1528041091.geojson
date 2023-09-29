@@ -22,6 +22,15 @@
     "geom:latitude":60.686851,
     "geom:longitude":6.469228,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":60.690286,
     "lbl:longitude":6.508113,
     "mps:latitude":60.690286,
@@ -49,13 +58,15 @@
     "wof:concordances":{
         "digitalenvoy:metro_code":578431,
         "eg:gisco_id":"NO_4621",
-        "eurostat:nuts_2021_id":"4621"
+        "eurostat:nuts_2021_id":"4621",
+        "no-geonorge:number":"4621"
     },
     "wof:concordances_alt":{
         "digitalenvoy:metro_code":[
             578116
         ]
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:geomhash":"3d0a9985525b8b071078ffad64b04256",
     "wof:hierarchy":[
@@ -76,7 +87,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354140,
+    "wof:lastmodified":1695878918,
     "wof:name":"Voss",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",

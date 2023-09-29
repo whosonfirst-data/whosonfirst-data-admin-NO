@@ -24,6 +24,15 @@
     "geom:latitude":61.395119,
     "geom:longitude":5.16798,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":61.417473,
     "lbl:longitude":5.270608,
     "mps:latitude":61.417473,
@@ -53,8 +62,10 @@
         "digitalenvoy:metro_code":578020,
         "eg:gisco_id":"NO_4645",
         "eurostat:nuts_2021_id":"4645",
-        "no-geonorge:kommunenum":4645
+        "no-geonorge:kommunenum":4645,
+        "no-geonorge:number":"4645"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:geomhash":"939e1c7ec27563398e04d8fd017f82f3",
     "wof:hierarchy":[
@@ -75,7 +86,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354127,
+    "wof:lastmodified":1695878904,
     "wof:name":"Askvoll",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",

@@ -24,6 +24,15 @@
     "geom:latitude":58.581091,
     "geom:longitude":7.764847,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":58.577099,
     "lbl:longitude":7.714967,
     "mps:latitude":58.577099,
@@ -53,8 +62,10 @@
         "digitalenvoy:metro_code":578074,
         "eg:gisco_id":"NO_4219",
         "eurostat:nuts_2021_id":"4219",
-        "no-geonorge:kommunenum":4219
+        "no-geonorge:kommunenum":4219,
+        "no-geonorge:number":"4219"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:geomhash":"6fd833af7fbe37f4dc576d9166c65e45",
     "wof:hierarchy":[
@@ -75,7 +86,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354128,
+    "wof:lastmodified":1695878905,
     "wof:name":"Evje og Hornnes",
     "wof:parent_id":1527947265,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":59.211326,
     "geom:longitude":9.959024,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":59.141368,
     "lbl:longitude":9.995448,
     "lbl:max_zoom":18.0,
@@ -205,13 +214,15 @@
         "digitalenvoy:metro_code":578186,
         "eg:gisco_id":"NO_3805",
         "eurostat:nuts_2021_id":"3805",
-        "no-geonorge:kommunenum":3805
+        "no-geonorge:kommunenum":3805,
+        "no-geonorge:number":"3805"
     },
     "wof:concordances_alt":{
         "digitalenvoy:metro_code":[
             578185
         ]
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595757,
     "wof:geomhash":"407734dc8c5df2df58065fb0fa7d4107",
@@ -233,7 +244,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354072,
+    "wof:lastmodified":1695878844,
     "wof:name":"Larvik",
     "wof:parent_id":1527947267,
     "wof:placetype":"localadmin",

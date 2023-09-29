@@ -24,6 +24,15 @@
     "geom:latitude":63.340465,
     "geom:longitude":10.43212,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":63.32818,
     "lbl:longitude":10.510522,
     "mps:latitude":63.32818,
@@ -53,13 +62,15 @@
         "digitalenvoy:metro_code":578388,
         "eg:gisco_id":"NO_5001",
         "eurostat:nuts_2021_id":"5001",
-        "no-geonorge:kommunenum":5001
+        "no-geonorge:kommunenum":5001,
+        "no-geonorge:number":"5001"
     },
     "wof:concordances_alt":{
         "digitalenvoy:metro_code":[
             578168
         ]
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:geomhash":"01fae8b6273718a83707067d83e55825",
     "wof:hierarchy":[
@@ -80,7 +91,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354125,
+    "wof:lastmodified":1695878901,
     "wof:name":"Trondheim",
     "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",

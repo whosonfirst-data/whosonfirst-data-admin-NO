@@ -22,6 +22,15 @@
     "geom:latitude":58.599316,
     "geom:longitude":5.738194,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":58.604867,
     "lbl:longitude":5.708239,
     "lbl:max_zoom":18.0,
@@ -76,8 +85,10 @@
         "digitalenvoy:metro_code":578122,
         "eg:gisco_id":"NO_1119",
         "eurostat:nuts_2021_id":"1119",
-        "no-geonorge:kommunenum":1119
+        "no-geonorge:kommunenum":1119,
+        "no-geonorge:number":"1119"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595827,
     "wof:geomhash":"e87653a9a1c0cd67ab9d0eba8ea94723",
@@ -99,7 +110,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354082,
+    "wof:lastmodified":1695878855,
     "wof:name":"H\u00e5",
     "wof:parent_id":85687085,
     "wof:placetype":"localadmin",

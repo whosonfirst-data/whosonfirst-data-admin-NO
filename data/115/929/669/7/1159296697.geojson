@@ -22,6 +22,15 @@
     "geom:latitude":60.551416,
     "geom:longitude":9.072526,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":60.521457,
     "lbl:longitude":9.098125,
     "lbl:max_zoom":18.0,
@@ -133,8 +142,10 @@
         "digitalenvoy:metro_code":578241,
         "eg:gisco_id":"NO_3040",
         "eurostat:nuts_2021_id":"3040",
-        "no-geonorge:kommunenum":3040
+        "no-geonorge:kommunenum":3040,
+        "no-geonorge:number":"3040"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595728,
     "wof:geomhash":"83f82461ef3571672157c7e8efa32730",
@@ -156,7 +167,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354068,
+    "wof:lastmodified":1695878839,
     "wof:name":"Nesbyen",
     "wof:parent_id":1527947269,
     "wof:placetype":"localadmin",

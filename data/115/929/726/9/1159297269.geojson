@@ -22,6 +22,15 @@
     "geom:latitude":59.997262,
     "geom:longitude":8.561929,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":60.012918,
     "lbl:longitude":8.571895,
     "lbl:max_zoom":18.0,
@@ -151,8 +160,10 @@
         "digitalenvoy:metro_code":578377,
         "eg:gisco_id":"NO_3818",
         "eurostat:nuts_2021_id":"3818",
-        "no-geonorge:kommunenum":3818
+        "no-geonorge:kommunenum":3818,
+        "no-geonorge:number":"3818"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595956,
     "wof:geomhash":"6d94885c24e28c8501ab9e92d2a0041d",
@@ -174,7 +185,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354101,
+    "wof:lastmodified":1695878874,
     "wof:name":"Tinn",
     "wof:parent_id":1527947267,
     "wof:placetype":"localadmin",

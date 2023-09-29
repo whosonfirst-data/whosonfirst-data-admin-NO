@@ -22,6 +22,15 @@
     "geom:latitude":59.862528,
     "geom:longitude":10.233704,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":59.856438,
     "lbl:longitude":10.233651,
     "lbl:max_zoom":18.0,
@@ -109,8 +118,10 @@
         "digitalenvoy:metro_code":578196,
         "eg:gisco_id":"NO_3049",
         "eurostat:nuts_2021_id":"3049",
-        "no-geonorge:kommunenum":3049
+        "no-geonorge:kommunenum":3049,
+        "no-geonorge:number":"3049"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595822,
     "wof:geomhash":"428920174b2527368f3ff3e0be705e0f",
@@ -132,7 +143,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354081,
+    "wof:lastmodified":1695878853,
     "wof:name":"Lier",
     "wof:parent_id":1527947269,
     "wof:placetype":"localadmin",

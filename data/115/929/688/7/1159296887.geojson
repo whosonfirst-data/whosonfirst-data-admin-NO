@@ -22,6 +22,15 @@
     "geom:latitude":61.111215,
     "geom:longitude":4.859666,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":61.122555,
     "lbl:longitude":4.873459,
     "lbl:max_zoom":18.0,
@@ -145,8 +154,10 @@
         "digitalenvoy:metro_code":578340,
         "eg:gisco_id":"NO_4636",
         "eurostat:nuts_2021_id":"4636",
-        "no-geonorge:kommunenum":4636
+        "no-geonorge:kommunenum":4636,
+        "no-geonorge:number":"4636"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595810,
     "wof:geomhash":"e67696177c263f69464fdf67953513e9",
@@ -168,7 +179,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354078,
+    "wof:lastmodified":1695878851,
     "wof:name":"Solund",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",

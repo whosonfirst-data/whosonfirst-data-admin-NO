@@ -22,6 +22,15 @@
     "geom:latitude":66.414761,
     "geom:longitude":14.510817,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":66.416991,
     "lbl:longitude":14.590361,
     "lbl:max_zoom":18.0,
@@ -118,8 +127,10 @@
         "digitalenvoy:metro_code":578284,
         "eg:gisco_id":"NO_1833",
         "eurostat:nuts_2021_id":"1833",
-        "no-geonorge:kommunenum":1833
+        "no-geonorge:kommunenum":1833,
+        "no-geonorge:number":"1833"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595828,
     "wof:geomhash":"c94c175c9cdedb2252449986af68e9e3",
@@ -141,7 +152,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354083,
+    "wof:lastmodified":1695878855,
     "wof:name":"Rana",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

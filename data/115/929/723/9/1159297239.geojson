@@ -22,6 +22,15 @@
     "geom:latitude":59.486581,
     "geom:longitude":11.651519,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":59.483414,
     "lbl:longitude":11.649075,
     "lbl:max_zoom":18.0,
@@ -103,8 +112,10 @@
         "digitalenvoy:metro_code":578216,
         "eg:gisco_id":"NO_3013",
         "eurostat:nuts_2021_id":"3013",
-        "no-geonorge:kommunenum":3013
+        "no-geonorge:kommunenum":3013,
+        "no-geonorge:number":"3013"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595936,
     "wof:geomhash":"cefe7eda8f32f93eefae85e99c25ab08",
@@ -126,7 +137,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354099,
+    "wof:lastmodified":1695878873,
     "wof:name":"Marker",
     "wof:parent_id":1527947269,
     "wof:placetype":"localadmin",

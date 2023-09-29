@@ -22,6 +22,15 @@
     "geom:latitude":67.812815,
     "geom:longitude":15.294883,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":67.843012,
     "lbl:longitude":15.295431,
     "lbl:max_zoom":18.0,
@@ -151,8 +160,10 @@
         "digitalenvoy:metro_code":578355,
         "eg:gisco_id":"NO_1848",
         "eurostat:nuts_2021_id":"1848",
-        "no-geonorge:kommunenum":1848
+        "no-geonorge:kommunenum":1848,
+        "no-geonorge:number":"1848"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596001,
     "wof:geomhash":"a31c43865d21bf47bb46cd6563117970",
@@ -174,7 +185,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354106,
+    "wof:lastmodified":1695878879,
     "wof:name":"Steigen",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

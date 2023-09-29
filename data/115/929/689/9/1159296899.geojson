@@ -22,6 +22,15 @@
     "geom:latitude":70.561761,
     "geom:longitude":22.477019,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":70.601166,
     "lbl:longitude":22.464585,
     "lbl:max_zoom":18.0,
@@ -169,8 +178,10 @@
         "digitalenvoy:metro_code":578133,
         "eg:gisco_id":"NO_5433",
         "eurostat:nuts_2021_id":"5433",
-        "no-geonorge:kommunenum":5433
+        "no-geonorge:kommunenum":5433,
+        "no-geonorge:number":"5433"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595812,
     "wof:geomhash":"893dcc1a9a17b038a9ddba41f5d9a3a4",
@@ -192,7 +203,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354079,
+    "wof:lastmodified":1695878852,
     "wof:name":"Hasvik",
     "wof:parent_id":1527947259,
     "wof:placetype":"localadmin",

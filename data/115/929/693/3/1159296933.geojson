@@ -22,6 +22,15 @@
     "geom:latitude":63.03219,
     "geom:longitude":9.29263,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":63.053202,
     "lbl:longitude":9.297134,
     "lbl:max_zoom":18.0,
@@ -151,8 +160,10 @@
         "digitalenvoy:metro_code":578291,
         "eg:gisco_id":"NO_5061",
         "eurostat:nuts_2021_id":"5061",
-        "no-geonorge:kommunenum":5061
+        "no-geonorge:kommunenum":5061,
+        "no-geonorge:number":"5061"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595821,
     "wof:geomhash":"cdfcf3c90d33c92721455fdbb1aeafcc",
@@ -174,7 +185,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354081,
+    "wof:lastmodified":1695878853,
     "wof:name":"Rindal",
     "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",

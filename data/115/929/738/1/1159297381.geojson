@@ -22,6 +22,15 @@
     "geom:latitude":58.765165,
     "geom:longitude":5.598457,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":58.768581,
     "lbl:longitude":5.586199,
     "lbl:max_zoom":18.0,
@@ -157,8 +166,10 @@
         "digitalenvoy:metro_code":578169,
         "eg:gisco_id":"NO_1120",
         "eurostat:nuts_2021_id":"1120",
-        "no-geonorge:kommunenum":1120
+        "no-geonorge:kommunenum":1120,
+        "no-geonorge:number":"1120"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596020,
     "wof:geomhash":"6d2d96b2b6ebb1ca491135271a992128",
@@ -180,7 +191,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354109,
+    "wof:lastmodified":1695878883,
     "wof:name":"Klepp",
     "wof:parent_id":85687085,
     "wof:placetype":"localadmin",

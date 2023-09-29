@@ -22,6 +22,15 @@
     "geom:latitude":62.06769,
     "geom:longitude":10.507818,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":62.101223,
     "lbl:longitude":10.501699,
     "lbl:max_zoom":18.0,
@@ -151,8 +160,10 @@
         "digitalenvoy:metro_code":578007,
         "eg:gisco_id":"NO_3428",
         "eurostat:nuts_2021_id":"3428",
-        "no-geonorge:kommunenum":3428
+        "no-geonorge:kommunenum":3428,
+        "no-geonorge:number":"3428"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595810,
     "wof:geomhash":"9f439b63f4de890d55a1b30c902fd59e",
@@ -174,7 +185,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354079,
+    "wof:lastmodified":1695878851,
     "wof:name":"Alvdal",
     "wof:parent_id":1527947263,
     "wof:placetype":"localadmin",

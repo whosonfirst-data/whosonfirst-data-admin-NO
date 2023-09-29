@@ -22,6 +22,15 @@
     "geom:latitude":70.500085,
     "geom:longitude":29.934586,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":70.482149,
     "lbl:longitude":29.818938,
     "lbl:max_zoom":18.0,
@@ -61,8 +70,10 @@
         "digitalenvoy:metro_code":578036,
         "eg:gisco_id":"NO_5443",
         "eurostat:nuts_2021_id":"5443",
-        "no-geonorge:kommunenum":5443
+        "no-geonorge:kommunenum":5443,
+        "no-geonorge:number":"5443"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595980,
     "wof:geomhash":"48e9609c9d82e4554cbc62daf2a1062b",
@@ -84,7 +95,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354104,
+    "wof:lastmodified":1695878877,
     "wof:name":"B\u00e5tsfjord",
     "wof:parent_id":1527947259,
     "wof:placetype":"localadmin",

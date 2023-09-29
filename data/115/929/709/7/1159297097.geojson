@@ -22,6 +22,15 @@
     "geom:latitude":60.392321,
     "geom:longitude":11.227336,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":60.373874,
     "lbl:longitude":11.244562,
     "lbl:max_zoom":18.0,
@@ -178,8 +187,10 @@
         "digitalenvoy:metro_code":578066,
         "eg:gisco_id":"NO_3035",
         "eurostat:nuts_2021_id":"3035",
-        "no-geonorge:kommunenum":3035
+        "no-geonorge:kommunenum":3035,
+        "no-geonorge:number":"3035"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595868,
     "wof:geomhash":"c4f9bb9f7e73e14c2b6b491520bb0082",
@@ -201,7 +212,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354091,
+    "wof:lastmodified":1695878863,
     "wof:name":"Eidsvoll",
     "wof:parent_id":1527947269,
     "wof:placetype":"localadmin",

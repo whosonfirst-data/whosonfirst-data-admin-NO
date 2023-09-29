@@ -22,6 +22,15 @@
     "geom:latitude":63.078482,
     "geom:longitude":7.795179,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":63.066331,
     "lbl:longitude":7.81893,
     "lbl:max_zoom":18.0,
@@ -184,8 +193,10 @@
         "digitalenvoy:metro_code":578174,
         "eg:gisco_id":"NO_1505",
         "eurostat:nuts_2021_id":"1505",
-        "no-geonorge:kommunenum":1505
+        "no-geonorge:kommunenum":1505,
+        "no-geonorge:number":"1505"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596056,
     "wof:geomhash":"42f6d70ce11fa8ade6c16cdd968a86ab",
@@ -207,7 +218,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354114,
+    "wof:lastmodified":1695878890,
     "wof:name":"Kristiansund",
     "wof:parent_id":85687123,
     "wof:placetype":"localadmin",

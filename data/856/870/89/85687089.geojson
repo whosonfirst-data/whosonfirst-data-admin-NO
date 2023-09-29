@@ -785,10 +785,16 @@
         "gn:id":3143242,
         "gp:id":2346395,
         "hasc:id":"NO.OS",
+        "iso:code":"NO-03",
         "iso:id":"NO-03",
+        "no-geonorge:number":"03",
         "unlc:id":"NO-03",
         "wd:id":"Q585"
     },
+    "wof:concordances_official":"no-geonorge:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         1159297167,
         1495123997
@@ -797,7 +803,7 @@
     "wof:geom_alt":[
         "quattroshapes-reversegeo"
     ],
-    "wof:geomhash":"a04bca4f5abb1fe24e00c4d0b6283d69",
+    "wof:geomhash":"d4cb579a4f4549533afa03ec3bc41979",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -817,7 +823,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1690849337,
+    "wof:lastmodified":1695885229,
     "wof:name":"Oslo",
     "wof:parent_id":85633341,
     "wof:placetype":"region",

@@ -22,6 +22,15 @@
     "geom:latitude":62.1914,
     "geom:longitude":8.635919,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":62.191354,
     "lbl:longitude":8.63588,
     "lbl:max_zoom":18.0,
@@ -154,8 +163,10 @@
         "digitalenvoy:metro_code":578194,
         "eg:gisco_id":"NO_3432",
         "eurostat:nuts_2021_id":"3432",
-        "no-geonorge:kommunenum":3432
+        "no-geonorge:kommunenum":3432,
+        "no-geonorge:number":"3432"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595896,
     "wof:geomhash":"42541ed4705ea39ac9e8f5c43dfac582",
@@ -177,7 +188,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354094,
+    "wof:lastmodified":1695878867,
     "wof:name":"Lesja",
     "wof:parent_id":1527947263,
     "wof:placetype":"localadmin",

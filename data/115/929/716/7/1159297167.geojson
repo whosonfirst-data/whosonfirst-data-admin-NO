@@ -22,6 +22,15 @@
     "geom:latitude":59.981202,
     "geom:longitude":10.739271,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":60.0159,
     "lbl:longitude":10.704384,
     "lbl:max_zoom":18.0,
@@ -601,8 +610,10 @@
         "digitalenvoy:metro_code":578270,
         "eg:gisco_id":"NO_0301",
         "eurostat:nuts_2021_id":"0301",
-        "no-geonorge:kommunenum":301
+        "no-geonorge:kommunenum":301,
+        "no-geonorge:number":"301"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:coterminous":[
         1495123997,
         85687089
@@ -628,7 +639,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354095,
+    "wof:lastmodified":1695878868,
     "wof:name":"Oslo",
     "wof:parent_id":85687089,
     "wof:placetype":"localadmin",

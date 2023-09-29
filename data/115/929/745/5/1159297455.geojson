@@ -22,6 +22,15 @@
     "geom:latitude":68.894018,
     "geom:longitude":17.879684,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":68.881827,
     "lbl:longitude":17.938987,
     "lbl:max_zoom":18.0,
@@ -148,8 +157,10 @@
         "digitalenvoy:metro_code":578306,
         "eg:gisco_id":"NO_5417",
         "eurostat:nuts_2021_id":"5417",
-        "no-geonorge:kommunenum":5417
+        "no-geonorge:kommunenum":5417,
+        "no-geonorge:number":"5417"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596046,
     "wof:geomhash":"e73465b70b35d141b215dd86eb9f075e",
@@ -171,7 +182,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354112,
+    "wof:lastmodified":1695878888,
     "wof:name":"Salangen",
     "wof:parent_id":1527947259,
     "wof:placetype":"localadmin",

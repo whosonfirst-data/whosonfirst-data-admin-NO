@@ -22,6 +22,15 @@
     "geom:latitude":68.727051,
     "geom:longitude":17.810772,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":68.673735,
     "lbl:longitude":17.909835,
     "lbl:max_zoom":18.0,
@@ -151,8 +160,10 @@
         "digitalenvoy:metro_code":578187,
         "eg:gisco_id":"NO_5415",
         "eurostat:nuts_2021_id":"5415",
-        "no-geonorge:kommunenum":5415
+        "no-geonorge:kommunenum":5415,
+        "no-geonorge:number":"5415"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596118,
     "wof:geomhash":"933e5355de167eead8f76d9383157ca5",
@@ -174,7 +185,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354122,
+    "wof:lastmodified":1695878898,
     "wof:name":"Lavangen",
     "wof:parent_id":1527947259,
     "wof:placetype":"localadmin",

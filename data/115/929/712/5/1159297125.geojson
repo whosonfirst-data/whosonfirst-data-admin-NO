@@ -22,6 +22,15 @@
     "geom:latitude":63.658224,
     "geom:longitude":11.26713,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":63.677716,
     "lbl:longitude":11.384363,
     "lbl:max_zoom":18.0,
@@ -169,8 +178,10 @@
         "digitalenvoy:metro_code":578195,
         "eg:gisco_id":"NO_5037",
         "eurostat:nuts_2021_id":"5037",
-        "no-geonorge:kommunenum":5037
+        "no-geonorge:kommunenum":5037,
+        "no-geonorge:number":"5037"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595875,
     "wof:geomhash":"1bfd62c785f3e3691ad0b2c9fb77c797",
@@ -192,7 +203,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354093,
+    "wof:lastmodified":1695878865,
     "wof:name":"Levanger",
     "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",

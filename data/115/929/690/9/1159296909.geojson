@@ -22,6 +22,15 @@
     "geom:latitude":65.11144,
     "geom:longitude":12.579297,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":65.095408,
     "lbl:longitude":12.792801,
     "lbl:max_zoom":18.0,
@@ -151,8 +160,10 @@
         "digitalenvoy:metro_code":578232,
         "eg:gisco_id":"NO_1811",
         "eurostat:nuts_2021_id":"1811",
-        "no-geonorge:kommunenum":1811
+        "no-geonorge:kommunenum":1811,
+        "no-geonorge:number":"1811"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595815,
     "wof:geomhash":"968ba000ee1cae8f43710320af9841c9",
@@ -174,7 +185,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354080,
+    "wof:lastmodified":1695878852,
     "wof:name":"Bindal",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

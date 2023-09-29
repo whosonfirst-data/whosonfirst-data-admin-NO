@@ -22,6 +22,15 @@
     "geom:latitude":70.479673,
     "geom:longitude":26.762752,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":70.313825,
     "lbl:longitude":26.852065,
     "lbl:max_zoom":18.0,
@@ -157,8 +166,10 @@
         "digitalenvoy:metro_code":578188,
         "eg:gisco_id":"NO_5438",
         "eurostat:nuts_2021_id":"5438",
-        "no-geonorge:kommunenum":5438
+        "no-geonorge:kommunenum":5438,
+        "no-geonorge:number":"5438"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595889,
     "wof:geomhash":"fe83a2e7e27666e25630026d61ce45f8",
@@ -180,7 +191,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354093,
+    "wof:lastmodified":1695878866,
     "wof:name":"Lebesby",
     "wof:parent_id":1527947259,
     "wof:placetype":"localadmin",

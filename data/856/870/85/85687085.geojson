@@ -432,15 +432,21 @@
         "gn:id":3141558,
         "gp:id":2346397,
         "hasc:id":"NO.RO",
+        "iso:code":"NO-11",
         "iso:id":"NO-11",
+        "no-geonorge:number":"11",
         "unlc:id":"NO-11",
         "wd:id":"Q50624"
     },
+    "wof:concordances_official":"no-geonorge:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"NO",
     "wof:geom_alt":[
         "quattroshapes-reversegeo"
     ],
-    "wof:geomhash":"d8907395da5a3fa066f40e9ec43e910b",
+    "wof:geomhash":"ce0992cb9f267250e00c952ab2cfa64a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -460,7 +466,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1690849338,
+    "wof:lastmodified":1695885228,
     "wof:name":"Rogaland",
     "wof:parent_id":85633341,
     "wof:placetype":"region",

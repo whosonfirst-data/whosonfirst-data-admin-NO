@@ -22,6 +22,15 @@
     "geom:latitude":62.302062,
     "geom:longitude":5.679781,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":62.266168,
     "lbl:longitude":5.711043,
     "lbl:max_zoom":18.0,
@@ -61,8 +70,10 @@
         "digitalenvoy:metro_code":578139,
         "eg:gisco_id":"NO_1515",
         "eurostat:nuts_2021_id":"1515",
-        "no-geonorge:kommunenum":1515
+        "no-geonorge:kommunenum":1515,
+        "no-geonorge:number":"1515"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596036,
     "wof:geomhash":"22a7967f4896bbc3d827ed8642295d96",
@@ -84,7 +95,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354110,
+    "wof:lastmodified":1695878885,
     "wof:name":"Her\u00f8y",
     "wof:parent_id":85687123,
     "wof:placetype":"localadmin",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002994,
-    "geom:area_square_m":1780847045.045441,
+    "geom:area_square_m":14746780.518529,
     "geom:bbox":"11.935514,66.427995,12.292881,66.659778",
     "geom:latitude":66.523643,
     "geom:longitude":12.112113,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":66.502554,
     "lbl:longitude":12.044362,
     "lbl:max_zoom":18.0,
@@ -45,11 +54,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":578384,
-        "no-geonorge:kommunenum":1835
+        "no-geonorge:kommunenum":1835,
+        "no-geonorge:number":"1835"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596122,
-    "wof:geomhash":"f4541091ddfcba7bdd02e7566762d14e",
+    "wof:geomhash":"01625ad22b461c56193957c9f34ff75c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +79,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1584030670,
+    "wof:lastmodified":1695878839,
     "wof:name":"Tr\u00e6na",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

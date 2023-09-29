@@ -22,6 +22,15 @@
     "geom:latitude":62.851493,
     "geom:longitude":11.246469,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":62.855476,
     "lbl:longitude":11.169642,
     "lbl:max_zoom":18.0,
@@ -61,8 +70,10 @@
         "digitalenvoy:metro_code":578149,
         "eg:gisco_id":"NO_5026",
         "eurostat:nuts_2021_id":"5026",
-        "no-geonorge:kommunenum":5026
+        "no-geonorge:kommunenum":5026,
+        "no-geonorge:number":"5026"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595839,
     "wof:geomhash":"91511acee828aa2c65cd55b9c614e0c6",
@@ -84,7 +95,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354084,
+    "wof:lastmodified":1695878857,
     "wof:name":"Holt\u00e5len",
     "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",

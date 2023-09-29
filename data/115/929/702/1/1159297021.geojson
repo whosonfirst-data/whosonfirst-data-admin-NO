@@ -22,6 +22,15 @@
     "geom:latitude":62.541454,
     "geom:longitude":9.539837,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":62.537702,
     "lbl:longitude":9.528439,
     "lbl:max_zoom":18.0,
@@ -157,8 +166,10 @@
         "digitalenvoy:metro_code":578261,
         "eg:gisco_id":"NO_5021",
         "eurostat:nuts_2021_id":"5021",
-        "no-geonorge:kommunenum":5021
+        "no-geonorge:kommunenum":5021,
+        "no-geonorge:number":"5021"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595846,
     "wof:geomhash":"58694e95103941a38624b95116395246",
@@ -180,7 +191,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354086,
+    "wof:lastmodified":1695878858,
     "wof:name":"Oppdal",
     "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":59.941428,
     "geom:longitude":10.495133,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":59.941252,
     "lbl:longitude":10.491374,
     "lbl:max_zoom":18.0,
@@ -61,8 +70,10 @@
         "digitalenvoy:metro_code":578030,
         "eg:gisco_id":"NO_3024",
         "eurostat:nuts_2021_id":"3024",
-        "no-geonorge:kommunenum":3024
+        "no-geonorge:kommunenum":3024,
+        "no-geonorge:number":"3024"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595845,
     "wof:geomhash":"9bc7743b3bac94bb0d8e4cd738d3be76",
@@ -84,7 +95,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354086,
+    "wof:lastmodified":1695878858,
     "wof:name":"B\u00e6rum",
     "wof:parent_id":1527947269,
     "wof:placetype":"localadmin",

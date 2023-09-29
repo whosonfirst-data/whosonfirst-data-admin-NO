@@ -22,6 +22,15 @@
     "geom:latitude":59.228255,
     "geom:longitude":10.928742,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":59.257301,
     "lbl:longitude":10.966307,
     "lbl:max_zoom":18.0,
@@ -235,8 +244,10 @@
         "digitalenvoy:metro_code":578094,
         "eg:gisco_id":"NO_3004",
         "eurostat:nuts_2021_id":"3004",
-        "no-geonorge:kommunenum":3004
+        "no-geonorge:kommunenum":3004,
+        "no-geonorge:number":"3004"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596020,
     "wof:geomhash":"d560aee4d35f13078ff3c67910b0e67c",
@@ -258,7 +269,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354109,
+    "wof:lastmodified":1695878883,
     "wof:name":"Fredrikstad",
     "wof:parent_id":1527947269,
     "wof:placetype":"localadmin",

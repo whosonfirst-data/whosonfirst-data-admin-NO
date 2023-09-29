@@ -24,6 +24,15 @@
     "geom:latitude":63.227552,
     "geom:longitude":8.894492,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":63.292326,
     "lbl:longitude":8.992848,
     "mps:latitude":63.292326,
@@ -53,13 +62,15 @@
         "digitalenvoy:metro_code":578136,
         "eg:gisco_id":"NO_5055",
         "eurostat:nuts_2021_id":"5055",
-        "no-geonorge:kommunenum":5055
+        "no-geonorge:kommunenum":5055,
+        "no-geonorge:number":"5055"
     },
     "wof:concordances_alt":{
         "digitalenvoy:metro_code":[
             578126
         ]
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:geomhash":"f74b35b45de10fecc2325bffcec3888c",
     "wof:hierarchy":[
@@ -80,7 +91,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354137,
+    "wof:lastmodified":1695878916,
     "wof:name":"Heim",
     "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",

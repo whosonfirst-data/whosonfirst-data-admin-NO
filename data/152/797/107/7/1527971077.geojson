@@ -24,6 +24,15 @@
     "geom:latitude":59.4024,
     "geom:longitude":10.422511,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":59.39959,
     "lbl:longitude":10.431853,
     "mps:latitude":59.39959,
@@ -53,8 +62,10 @@
         "digitalenvoy:metro_code":578151,
         "eg:gisco_id":"NO_3801",
         "eurostat:nuts_2021_id":"3801",
-        "no-geonorge:kommunenum":3801
+        "no-geonorge:kommunenum":3801,
+        "no-geonorge:number":"3801"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:geomhash":"9a8bb11926f2ac8f80798406026d0acf",
     "wof:hierarchy":[
@@ -75,7 +86,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354131,
+    "wof:lastmodified":1695878908,
     "wof:name":"Horten",
     "wof:parent_id":1527947267,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":64.455938,
     "geom:longitude":11.904254,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":64.448918,
     "lbl:longitude":11.899502,
     "lbl:max_zoom":18.0,
@@ -151,8 +160,10 @@
         "digitalenvoy:metro_code":578273,
         "eg:gisco_id":"NO_5047",
         "eurostat:nuts_2021_id":"5047",
-        "no-geonorge:kommunenum":5047
+        "no-geonorge:kommunenum":5047,
+        "no-geonorge:number":"5047"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595861,
     "wof:geomhash":"cd5599ea770fbb34a45277042b36a8ef",
@@ -174,7 +185,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354089,
+    "wof:lastmodified":1695878861,
     "wof:name":"Overhalla",
     "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",

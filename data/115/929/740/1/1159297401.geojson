@@ -22,6 +22,15 @@
     "geom:latitude":58.812953,
     "geom:longitude":6.253059,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":58.814176,
     "lbl:longitude":6.354328,
     "lbl:max_zoom":18.0,
@@ -157,8 +166,10 @@
         "digitalenvoy:metro_code":578110,
         "eg:gisco_id":"NO_1122",
         "eurostat:nuts_2021_id":"1122",
-        "no-geonorge:kommunenum":1122
+        "no-geonorge:kommunenum":1122,
+        "no-geonorge:number":"1122"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596028,
     "wof:geomhash":"5e1292999f1b8f938da26589ff86a05a",
@@ -180,7 +191,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354109,
+    "wof:lastmodified":1695878884,
     "wof:name":"Gjesdal",
     "wof:parent_id":85687085,
     "wof:placetype":"localadmin",

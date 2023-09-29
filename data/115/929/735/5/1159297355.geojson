@@ -22,6 +22,15 @@
     "geom:latitude":59.70317,
     "geom:longitude":10.663762,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":59.705896,
     "lbl:longitude":10.678423,
     "lbl:max_zoom":18.0,
@@ -169,8 +178,10 @@
         "digitalenvoy:metro_code":578095,
         "eg:gisco_id":"NO_3022",
         "eurostat:nuts_2021_id":"3022",
-        "no-geonorge:kommunenum":3022
+        "no-geonorge:kommunenum":3022,
+        "no-geonorge:number":"3022"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596004,
     "wof:geomhash":"72795318fc12fdd09bbba5fc9e68b999",
@@ -192,7 +203,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354107,
+    "wof:lastmodified":1695878882,
     "wof:name":"Frogn",
     "wof:parent_id":1527947269,
     "wof:placetype":"localadmin",

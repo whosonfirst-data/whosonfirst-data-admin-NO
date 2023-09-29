@@ -24,6 +24,15 @@
     "geom:latitude":60.671505,
     "geom:longitude":5.282574,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":60.685996,
     "lbl:longitude":5.291527,
     "mps:latitude":60.685996,
@@ -53,7 +62,8 @@
         "digitalenvoy:metro_code":578200,
         "eg:gisco_id":"NO_4631",
         "eurostat:nuts_2021_id":"4631",
-        "no-geonorge:kommunenum":4631
+        "no-geonorge:kommunenum":4631,
+        "no-geonorge:number":"4631"
     },
     "wof:concordances_alt":{
         "digitalenvoy:metro_code":[
@@ -61,6 +71,7 @@
             578281
         ]
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:geomhash":"b7e74bab38c8584b59b27d28e909311b",
     "wof:hierarchy":[
@@ -81,7 +92,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354127,
+    "wof:lastmodified":1695878904,
     "wof:name":"Alver",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",

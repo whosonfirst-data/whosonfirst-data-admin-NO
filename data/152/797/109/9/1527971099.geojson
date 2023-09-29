@@ -24,6 +24,15 @@
     "geom:latitude":62.886233,
     "geom:longitude":7.225327,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":62.885882,
     "lbl:longitude":7.287899,
     "mps:latitude":62.885882,
@@ -53,13 +62,15 @@
         "digitalenvoy:metro_code":578093,
         "eg:gisco_id":"NO_1579",
         "eurostat:nuts_2021_id":"1579",
-        "no-geonorge:kommunenum":1579
+        "no-geonorge:kommunenum":1579,
+        "no-geonorge:number":"1579"
     },
     "wof:concordances_alt":{
         "digitalenvoy:metro_code":[
             578062
         ]
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:geomhash":"f059a116e6564f34b1e429040d5b0bf7",
     "wof:hierarchy":[
@@ -80,7 +91,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354133,
+    "wof:lastmodified":1695878911,
     "wof:name":"Hustadvika",
     "wof:parent_id":85687123,
     "wof:placetype":"localadmin",

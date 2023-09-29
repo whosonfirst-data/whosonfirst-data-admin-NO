@@ -22,6 +22,15 @@
     "geom:latitude":60.472345,
     "geom:longitude":5.130815,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":60.472251,
     "lbl:longitude":5.162545,
     "lbl:max_zoom":18.0,
@@ -61,8 +70,10 @@
         "digitalenvoy:metro_code":578019,
         "eg:gisco_id":"NO_4627",
         "eurostat:nuts_2021_id":"4627",
-        "no-geonorge:kommunenum":4627
+        "no-geonorge:kommunenum":4627,
+        "no-geonorge:number":"4627"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595765,
     "wof:geomhash":"c097f391cb732cb4a52ef772b5c819b6",
@@ -84,7 +95,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354073,
+    "wof:lastmodified":1695878845,
     "wof:name":"Ask\u00f8y",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",

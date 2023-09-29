@@ -22,6 +22,15 @@
     "geom:latitude":60.746827,
     "geom:longitude":8.999065,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":60.762959,
     "lbl:longitude":8.912799,
     "lbl:max_zoom":18.0,
@@ -124,8 +133,10 @@
         "digitalenvoy:metro_code":578113,
         "eg:gisco_id":"NO_3041",
         "eurostat:nuts_2021_id":"3041",
-        "no-geonorge:kommunenum":3041
+        "no-geonorge:kommunenum":3041,
+        "no-geonorge:number":"3041"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596012,
     "wof:geomhash":"c104ee35178634d03d9d538e2b9d2126",
@@ -147,7 +158,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354108,
+    "wof:lastmodified":1695878883,
     "wof:name":"Gol",
     "wof:parent_id":1527947269,
     "wof:placetype":"localadmin",

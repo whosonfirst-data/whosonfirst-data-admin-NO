@@ -22,6 +22,15 @@
     "geom:latitude":59.900876,
     "geom:longitude":5.340713,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":59.901097,
     "lbl:longitude":5.374219,
     "lbl:max_zoom":18.0,
@@ -151,8 +160,10 @@
         "digitalenvoy:metro_code":578080,
         "eg:gisco_id":"NO_4615",
         "eurostat:nuts_2021_id":"4615",
-        "no-geonorge:kommunenum":4615
+        "no-geonorge:kommunenum":4615,
+        "no-geonorge:number":"4615"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596056,
     "wof:geomhash":"6587f18b1e544abdf5e3d7867c19f3b2",
@@ -174,7 +185,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354114,
+    "wof:lastmodified":1695878890,
     "wof:name":"Fitjar",
     "wof:parent_id":1527947261,
     "wof:placetype":"localadmin",

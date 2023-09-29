@@ -22,6 +22,15 @@
     "geom:latitude":67.673381,
     "geom:longitude":12.663004,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":67.668509,
     "lbl:longitude":12.638647,
     "lbl:max_zoom":18.0,
@@ -61,8 +70,10 @@
         "digitalenvoy:metro_code":578403,
         "eg:gisco_id":"NO_1857",
         "eurostat:nuts_2021_id":"1857",
-        "no-geonorge:kommunenum":1857
+        "no-geonorge:kommunenum":1857,
+        "no-geonorge:number":"1857"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595865,
     "wof:geomhash":"ef2abad4129363cc8405984b2de2ad9b",
@@ -84,7 +95,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354090,
+    "wof:lastmodified":1695878862,
     "wof:name":"V\u00e6r\u00f8y",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

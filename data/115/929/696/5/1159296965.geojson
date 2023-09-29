@@ -22,6 +22,15 @@
     "geom:latitude":59.566059,
     "geom:longitude":8.534288,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":59.661674,
     "lbl:longitude":8.380807,
     "lbl:max_zoom":18.0,
@@ -154,8 +163,10 @@
         "digitalenvoy:metro_code":578320,
         "eg:gisco_id":"NO_3820",
         "eurostat:nuts_2021_id":"3820",
-        "no-geonorge:kommunenum":3820
+        "no-geonorge:kommunenum":3820,
+        "no-geonorge:number":"3820"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524595829,
     "wof:geomhash":"91362074c6c00996f5f955898eb49bfd",
@@ -177,7 +188,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354083,
+    "wof:lastmodified":1695878856,
     "wof:name":"Seljord",
     "wof:parent_id":1527947267,
     "wof:placetype":"localadmin",

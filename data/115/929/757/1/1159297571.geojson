@@ -22,6 +22,15 @@
     "geom:latitude":65.399671,
     "geom:longitude":13.450315,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":65.382167,
     "lbl:longitude":13.497335,
     "lbl:max_zoom":18.0,
@@ -88,8 +97,10 @@
         "digitalenvoy:metro_code":578115,
         "eg:gisco_id":"NO_1825",
         "eurostat:nuts_2021_id":"1825",
-        "no-geonorge:kommunenum":1825
+        "no-geonorge:kommunenum":1825,
+        "no-geonorge:number":"1825"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596103,
     "wof:geomhash":"0234348ab3350afb27635c23d1d44bfb",
@@ -111,7 +122,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354120,
+    "wof:lastmodified":1695878896,
     "wof:name":"Grane",
     "wof:parent_id":85687135,
     "wof:placetype":"localadmin",

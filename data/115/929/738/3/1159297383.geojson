@@ -22,6 +22,15 @@
     "geom:latitude":63.404229,
     "geom:longitude":11.831861,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":63.410184,
     "lbl:longitude":11.824574,
     "lbl:max_zoom":18.0,
@@ -61,8 +70,10 @@
         "digitalenvoy:metro_code":578224,
         "eg:gisco_id":"NO_5034",
         "eurostat:nuts_2021_id":"5034",
-        "no-geonorge:kommunenum":5034
+        "no-geonorge:kommunenum":5034,
+        "no-geonorge:number":"5034"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596020,
     "wof:geomhash":"8c120104cca42a1a77010e7b8b890f56",
@@ -84,7 +95,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354109,
+    "wof:lastmodified":1695878883,
     "wof:name":"Mer\u00e5ker",
     "wof:parent_id":1495115971,
     "wof:placetype":"localadmin",

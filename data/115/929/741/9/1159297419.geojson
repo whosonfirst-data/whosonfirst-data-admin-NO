@@ -22,6 +22,15 @@
     "geom:latitude":60.244885,
     "geom:longitude":10.663375,
     "iso:country":"NO",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nob_x_preferred_placetype":[
+        "kommune"
+    ],
     "lbl:latitude":60.236052,
     "lbl:longitude":10.677285,
     "lbl:max_zoom":18.0,
@@ -163,8 +172,10 @@
         "digitalenvoy:metro_code":578208,
         "eg:gisco_id":"NO_3054",
         "eurostat:nuts_2021_id":"3054",
-        "no-geonorge:kommunenum":3054
+        "no-geonorge:kommunenum":3054,
+        "no-geonorge:number":"3054"
     },
+    "wof:concordances_official":"no-geonorge:number",
     "wof:country":"NO",
     "wof:created":1524596038,
     "wof:geomhash":"01e9b0f0291879984e145e088ae466cf",
@@ -186,7 +197,7 @@
         "nob",
         "nno"
     ],
-    "wof:lastmodified":1684354110,
+    "wof:lastmodified":1695878886,
     "wof:name":"Lunner",
     "wof:parent_id":1527947269,
     "wof:placetype":"localadmin",
