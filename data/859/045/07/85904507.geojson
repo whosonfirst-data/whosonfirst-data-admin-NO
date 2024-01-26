@@ -9,13 +9,26 @@
     "geom:bbox":"10.366888,63.389752,10.366888,63.389752",
     "geom:latitude":63.389752,
     "geom:longitude":10.366888,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"5001",
+    "gn:asciiname":"Selsbakk",
+    "gn:country_code":"NO",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404083,
     "gn:latitude":62.73333,
     "gn:longitude":10.0,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Selsbakk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
     "lbl:bbox":"10.361888,63.384752,10.371888,63.394752",
     "lbl:latitude":63.389752,
     "lbl:longitude":10.366888,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":63.388448,
     "mps:longitude":10.374648,
     "mz:hierarchy_label":0,
@@ -95,6 +108,11 @@
         "qs_pg:id":1181490,
         "wd:id":"Q7448795"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9404083
+        ]
+    },
     "wof:country":"NO",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -115,13 +133,15 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1690849325,
+    "wof:lastmodified":1706240543,
     "wof:name":"Selsbakk",
     "wof:parent_id":1495123981,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1495147801
+    ],
     "wof:tags":[]
 },
   "bbox": [

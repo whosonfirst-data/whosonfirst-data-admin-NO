@@ -61,6 +61,11 @@
         "gn:id":3137141,
         "wk:page":"Statland"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3144173
+        ]
+    },
     "wof:country":"NO",
     "wof:geomhash":"0ba49f763c245f4b4df0ccd8e1b0fd47",
     "wof:hierarchy":[
@@ -73,13 +78,15 @@
         }
     ],
     "wof:id":1259777213,
-    "wof:lastmodified":1581021680,
+    "wof:lastmodified":1706240544,
     "wof:name":"Statland",
     "wof:parent_id":1527971015,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293772921
+    ],
     "wof:tags":[]
 },
   "bbox": [

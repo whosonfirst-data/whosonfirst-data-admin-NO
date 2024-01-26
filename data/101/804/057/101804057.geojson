@@ -9,8 +9,22 @@
     "geom:bbox":"6.896919,62.301559,6.950528,62.315614",
     "geom:latitude":62.309298,
     "geom:longitude":6.923868,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"1525.0",
+    "gn:asciiname":"Stranda",
+    "gn:country_code":"NO",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3135813,
+    "gn:latitude":62.30864,
+    "gn:longitude":6.93717,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Stranda",
     "gn:population":2499,
+    "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
+    "lbl:bbox":"6.91717,62.28864,6.95717,62.32864",
     "lbl:latitude":62.310596,
     "lbl:longitude":6.919807,
     "lbl:max_zoom":15.0,
@@ -69,6 +83,9 @@
     "name:swe_x_preferred":[
         "Stranda"
     ],
+    "name:und_x_variant":[
+        "Stranden"
+    ],
     "qs:a0":"Norge",
     "qs:a1":"*M\u00f8re og Romsdal",
     "qs:a1r":"0",
@@ -104,7 +121,15 @@
         "wk:page":"Stranda, M\u00f8re og Romsdal"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":994406
+        "gn:id":[
+            3135813
+        ],
+        "qs_pg:id":[
+            994406
+        ],
+        "wk:page":[
+            "Stranda%2C_M%C3%B8re_og_Romsdal"
+        ]
     },
     "wof:country":"NO",
     "wof:geom_alt":[
@@ -124,7 +149,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1690849383,
+    "wof:lastmodified":1706240543,
     "wof:name":"Stranda",
     "wof:parent_id":1159297131,
     "wof:placetype":"locality",
@@ -132,7 +157,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360170239
+    ],
     "wof:tags":[]
 },
   "bbox": [

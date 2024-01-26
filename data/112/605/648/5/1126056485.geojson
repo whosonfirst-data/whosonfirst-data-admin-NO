@@ -9,7 +9,21 @@
     "geom:bbox":"8.924653,61.134369,8.924653,61.134369",
     "geom:latitude":61.134369,
     "geom:longitude":8.924653,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"543.0",
+    "gn:asciiname":"Lomen",
     "gn:country":null,
+    "gn:country_code":"NO",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535823,
+    "gn:latitude":61.13297,
+    "gn:longitude":8.92477,
+    "gn:modification_date":"2017-10-14",
+    "gn:name":"Lomen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
     "lbl:bbox":"8.904653,61.114369,8.944653,61.154369",
     "lbl:latitude":61.134369,
@@ -20,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:nor_x_preferred":[
+        "Lome"
+    ],
     "qs_pg:aaroncc":"NO",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Lomen",
@@ -51,6 +68,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":9535823,
         "gp:id":15000679,
         "qs_pg:id":1063334
     },
@@ -67,13 +85,15 @@
         }
     ],
     "wof:id":1126056485,
-    "wof:lastmodified":1581019004,
+    "wof:lastmodified":1706240544,
     "wof:name":"Lomen",
     "wof:parent_id":1159297129,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260271193
+    ],
     "wof:tags":[]
 },
   "bbox": [
