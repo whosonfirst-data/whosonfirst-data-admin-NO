@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"8.92477,61.13297,8.92477,61.13297",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "Lome"
@@ -45,7 +47,7 @@
         "gn:id":9535823
     },
     "wof:country":"NO",
-    "wof:geomhash":"45fdbeac45d2c480a2a721a42dec4e8c",
+    "wof:geomhash":"f6957df0643f158ce75bdd806861bdb1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,20 +58,22 @@
         }
     ],
     "wof:id":1260271193,
-    "wof:lastmodified":1581019014,
+    "wof:lastmodified":1706240544,
     "wof:name":"Lomen",
     "wof:parent_id":1159297129,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1126056485
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     8.92477,
-    61.13296999999999,
+    61.13297,
     8.92477,
-    61.13296999999999
+    61.13297
 ],
-  "geometry": {"coordinates":[8.92477,61.13296999999999],"type":"Point"}
+  "geometry": {"coordinates":[8.92477,61.13297],"type":"Point"}
 }

@@ -9,9 +9,22 @@
     "geom:bbox":"10.58611,59.76083,10.58611,59.76083",
     "geom:latitude":59.76083,
     "geom:longitude":10.58611,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"216",
+    "gn:asciiname":"Spro",
     "gn:country":"NO",
+    "gn:country_code":"NO",
+    "gn:dem":12,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404472,
+    "gn:latitude":59.76246,
+    "gn:longitude":10.58363,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Spro",
     "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
     "lbl:bbox":"10.56611,59.74083,10.60611,59.78083",
     "lbl:latitude":59.76083,
@@ -44,6 +57,9 @@
         "Spro"
     ],
     "name:nob_x_preferred":[
+        "Spro"
+    ],
+    "name:nor_x_preferred":[
         "Spro"
     ],
     "qs_pg:aaroncc":"NO",
@@ -83,7 +99,13 @@
         "gn:id":3137250,
         "gp:id":864301,
         "qs_pg:id":1083393,
-        "wd:id":"Q7581332"
+        "wd:id":"Q7581332",
+        "wk:page":"Spro"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9404472
+        ]
     },
     "wof:country":"NO",
     "wof:created":1497291604,
@@ -98,13 +120,15 @@
         }
     ],
     "wof:id":1125809647,
-    "wof:lastmodified":1690849521,
+    "wof:lastmodified":1706240543,
     "wof:name":"Spro",
     "wof:parent_id":1159297221,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259983871
+    ],
     "wof:tags":[]
 },
   "bbox": [

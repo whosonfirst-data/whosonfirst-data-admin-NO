@@ -9,12 +9,27 @@
     "geom:bbox":"5.352161,60.380548,5.352161,60.380548",
     "geom:latitude":60.380548,
     "geom:longitude":5.352161,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1201",
+    "gn:asciiname":"Floen",
+    "gn:country_code":"NO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9404500,
     "gn:id":"",
+    "gn:latitude":60.38123,
+    "gn:longitude":5.35538,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Fl\u00f8en",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
     "lbl:bbox":"5.347161,60.375548,5.357161,60.385548",
     "lbl:latitude":60.380548,
     "lbl:longitude":5.352161,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.380471,
     "mps:longitude":5.351743,
     "mz:hierarchy_label":0,
@@ -66,6 +81,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":9404500,
         "gp:id":20100016,
         "qs_pg:id":236571
     },
@@ -89,13 +105,15 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1582313569,
+    "wof:lastmodified":1706240543,
     "wof:name":"Floen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1495148323
+    ],
     "wof:tags":[]
 },
   "bbox": [

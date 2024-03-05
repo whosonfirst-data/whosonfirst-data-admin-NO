@@ -9,7 +9,21 @@
     "geom:bbox":"11.941183,62.166999,11.941183,62.166999",
     "geom:latitude":62.166999,
     "geom:longitude":11.941183,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"434.0",
+    "gn:asciiname":"Elga",
     "gn:country":null,
+    "gn:country_code":"NO",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8659168,
+    "gn:latitude":62.16721,
+    "gn:longitude":11.9424,
+    "gn:modification_date":"2017-09-23",
+    "gn:name":"Elg\u00e0",
+    "gn:population":0,
+    "gn:timezone":"Europe/Oslo",
     "iso:country":"NO",
     "lbl:bbox":"11.921183,62.146999,11.961183,62.186999",
     "lbl:latitude":62.166999,
@@ -51,6 +65,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":8659168,
         "gp:id":858098,
         "qs_pg:id":1089429
     },
@@ -67,13 +82,15 @@
         }
     ],
     "wof:id":1125827799,
-    "wof:lastmodified":1581018916,
+    "wof:lastmodified":1706240543,
     "wof:name":"Elga",
     "wof:parent_id":1159296763,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243356181
+    ],
     "wof:tags":[]
 },
   "bbox": [
