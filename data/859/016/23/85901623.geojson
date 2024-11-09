@@ -28,10 +28,10 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Rud"
+        "R\u00f8a"
     ],
     "name:eng_x_variant":[
-        "R\u00f8a"
+        "R\u00f6a"
     ],
     "name:nld_x_preferred":[
         "R\u00f8a"
@@ -39,20 +39,14 @@
     "name:nob_x_preferred":[
         "R\u00f8a"
     ],
-    "name:nor_x_colloquial":[
-        "Roa",
-        "Rod",
-        "Roea",
-        "Roed"
-    ],
     "name:nor_x_preferred":[
         "R\u00f8a"
     ],
-    "name:nor_x_variant":[
-        "R\u00f6d"
-    ],
     "name:swe_x_preferred":[
         "R\u00f8a"
+    ],
+    "name:swe_x_variant":[
+        "R\u00f6a"
     ],
     "qs:gn_adm0_cc":"NO",
     "qs:gn_fcode":"PPLX",
@@ -88,8 +82,8 @@
     "wd:wordcount":79,
     "wof:belongsto":[
         102191581,
-        1159297167,
         85633341,
+        1159297167,
         1495123997,
         85687089
     ],
@@ -123,7 +117,7 @@
     "wof:lang":[
         "nor"
     ],
-    "wof:lastmodified":1690849329,
+    "wof:lastmodified":1731112708,
     "wof:name":"R\u00f8a",
     "wof:parent_id":1495123997,
     "wof:placetype":"neighbourhood",
